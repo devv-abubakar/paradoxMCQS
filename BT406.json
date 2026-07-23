@@ -1,0 +1,1561 @@
+[
+{
+"id": 22012,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "In a survey, if answers to some questions are missing but in some cases answer is necessary the editor put in the .",
+"op": [
+"Right value",
+"Major value",
+"Minimum value",
+"Plug value"
+],
+"created_at": "2026-06-26T19:03:55.275175+00:00",
+"ca": "Plug value"
+},
+{
+"id": 22014,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "_ involves assigning numbers or other symbols to answers so the responses can be grouped.",
+"op": [
+"Editing",
+"Data cleaning",
+"Plug value",
+"Coding"
+],
+"created_at": "2026-06-26T19:04:05.861224+00:00",
+"ca": "Coding"
+},
+{
+"id": 22015,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The purpose of field editing is to catch _________ and clarify responses that are logically or conceptually inconsistent.",
+"op": [
+"technical omissions",
+"mechanical omissions",
+"major omissions",
+"superficial omissions"
+],
+"created_at": "2026-06-26T19:04:14.844092+00:00",
+"ca": "technical omissions"
+},
+{
+"id": 22016,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Among the following, _________ is not a stage in data analysis.",
+"op": [
+"Stratification",
+"Editing",
+"Entry",
+"Coding"
+],
+"created_at": "2026-06-26T19:04:26.61425+00:00",
+"ca": "Stratification"
+},
+{
+"id": 22018,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A __________ is a set of rules stating that certain numbers are assigned to variable attributes.",
+"op": [
+"coding procedure",
+"field",
+"code-book",
+"file"
+],
+"created_at": "2026-06-26T19:04:36.495858+00:00",
+"ca": "coding procedure"
+},
+{
+"id": 22019,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The purpose of data editing is to ensure the ______________ of the data.",
+"op": [
+"completeness, consistency and readability",
+"difficulty, changeability and credibility",
+"uniqueness, regularity and changeability",
+"incompetency, specialty and discrepancy"
+],
+"created_at": "2026-06-26T19:04:45.965216+00:00",
+"ca": "completeness, consistency and readability"
+},
+{
+"id": 22020,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Researchers convert raw count tables into _________ to see bi-variate relationship.",
+"op": [
+"Charts",
+"Univariate",
+"Percentages",
+"Graphs"
+],
+"created_at": "2026-06-26T19:05:02.668145+00:00",
+"ca": "Percentages"
+},
+{
+"id": 22022,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A _____ is a measure in which the researcher captures the intensity, direction, level, or potency of a variable construct.",
+"op": [
+"Constant",
+"Scale",
+"Index",
+"Variable"
+],
+"created_at": "2026-06-26T19:05:13.745982+00:00",
+"ca": "Scale"
+},
+{
+"id": 22023,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Another situation an editor may face is the need to rearrange the answers to an open-ended response to a question. This is called .",
+"op": [
+"Editing for Completeness",
+"Editing Questions Answered out of Order",
+"In-House Editing",
+"Editing for Consistency"
+],
+"created_at": "2026-06-26T19:05:31.461314+00:00",
+"ca": "Editing Questions Answered out of Order"
+},
+{
+"id": 22193,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": " categories of a variable is a common data transformation.",
+"op": [
+"Combining",
+"Separating",
+"Dividing",
+"Segregating"
+],
+"created_at": "2026-06-27T04:29:30.031548+00:00",
+"ca": "Combining"
+},
+{
+"id": 22194,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A trivariate table has a bivariate table of the independent and dependent variable for each category of the__.",
+"op": [
+"Suppressor variable pattern",
+"Control variable",
+"Partials",
+"Dependent"
+],
+"created_at": "2026-06-27T04:30:11.868448+00:00",
+"ca": "Control variable"
+},
+{
+"id": 22195,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Q: ------- may have to reconstruct some data.",
+"op": [
+"reader",
+"researcher",
+"editor",
+"Writer"
+],
+"created_at": "2026-06-27T04:30:22.614475+00:00",
+"ca": "editor"
+},
+{
+"id": 22196,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Consumer price index (CPI) is a measure of .",
+"op": [
+"Index",
+"Scale",
+"Indicator",
+"Inflation"
+],
+"created_at": "2026-06-27T04:30:49.422326+00:00",
+"ca": "Inflation"
+},
+{
+"id": 22197,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The editor may have to _______ some data.",
+"op": [
+"Change",
+"Erase",
+"Reconstruct",
+"Hide"
+],
+"created_at": "2026-06-27T04:31:01.91428+00:00",
+"ca": "Reconstruct"
+},
+{
+"id": 22203,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The in-house editor’s task is to ensure that inconsistent or contradictory responses are .",
+"op": [
+"Adjusted",
+"Calculated",
+"Increased",
+"Changed"
+],
+"created_at": "2026-06-27T04:31:58.339146+00:00",
+"ca": "Adjusted"
+},
+{
+"id": 22244,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The _________ contingency table is widely used. These tables are based on cross-tabulation.",
+"op": [
+"Trivariate",
+"Bivariate",
+"Univariate",
+"Percentage"
+],
+"created_at": "2026-06-27T06:12:40.310586+00:00",
+"ca": "Bivariate"
+},
+{
+"id": 22247,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "In experiments, pretests and posttests measure ______ variable.",
+"op": [
+"Y",
+"Z",
+"A",
+"X"
+],
+"created_at": "2026-06-27T06:14:46.940909+00:00",
+"ca": "Y"
+},
+{
+"id": 22248,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "When early reviewing of the data is not possible, ________ is done.",
+"op": [
+"Editing for Completeness",
+"Editing for Consistency",
+"In-House Editing",
+"Coding"
+],
+"created_at": "2026-06-27T06:15:07.240999+00:00",
+"ca": "In-House Editing"
+},
+{
+"id": 22249,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The purpose of experimental research is to allow the researcher to control the research situation so that causal relationships among _____ may be evaluated.",
+"op": [
+"Experiments",
+"Variables",
+"Partials",
+"Dependents"
+],
+"created_at": "2026-06-27T06:15:30.589465+00:00",
+"ca": "Variables"
+},
+{
+"id": 22251,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The researchers have created numerous _______ and ________ to measure social phenomenon.",
+"op": [
+"Variables, constants",
+"Scales, indexes",
+"Editing, coding",
+"Data analysis, data transformation"
+],
+"created_at": "2026-06-27T06:16:41.406713+00:00",
+"ca": "Scales, indexes"
+},
+{
+"id": 22252,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A/An __________ is a measure in which a researcher adds or combines several distinct indicators of a construct into a single score.",
+"op": [
+"Variable",
+"Scale",
+"Indicator",
+"Index"
+],
+"created_at": "2026-06-27T06:16:58.049187+00:00",
+"ca": "Index"
+},
+{
+"id": 22272,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Response of the ______ are measured to the experimental treatments.",
+"op": [
+"Dependent variables",
+"Posttest",
+"Pretest",
+"Test units"
+],
+"created_at": "2026-06-27T07:29:45.489081+00:00",
+"ca": "Dependent variables"
+},
+{
+"id": 22273,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A famous software used for data presentation known as SPSS stands for………………….",
+"op": [
+"Statistical Package for the Statistical Sciences",
+"Statistical Program for the Social Sciences",
+"Sociological Package for the Statistical Sciences",
+"Statistical Package for the Social Sciences"
+],
+"created_at": "2026-06-27T07:30:01.05906+00:00",
+"ca": "Statistical Package for the Social Sciences"
+},
+{
+"id": 22274,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": " refers to a body of facts that are in a format suitable for decision making, whereas _______ are simply recorded measures of certain phenomenon.",
+"op": [
+"Information, data",
+"Data, information",
+"Project, information",
+"Project, data"
+],
+"created_at": "2026-06-27T07:30:44.368702+00:00",
+"ca": "Information, data"
+},
+{
+"id": 22275,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "________ is the process of changing data from their original form to a format that is more suitable to perform a data analysis.",
+"op": [
+"Data transformation",
+"Data pruning",
+"Data collection",
+"Data analysis"
+],
+"created_at": "2026-06-27T07:31:13.462615+00:00",
+"ca": "Data transformation"
+},
+{
+"id": 22276,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "For the presentation of data, tables are frequently constructed in research. Which of the following is not part of tables?",
+"op": [
+"Regression",
+"Number",
+"Title",
+"Marginals"
+],
+"created_at": "2026-06-27T07:31:53.192203+00:00",
+"ca": "Regression"
+},
+{
+"id": 22300,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Some common types of graphic presentations are .",
+"op": [
+"bar chart",
+"histograms, bar chart, and pie chart",
+"histograms",
+"bar chart and pie chart"
+],
+"created_at": "2026-06-27T08:40:08.325611+00:00",
+"ca": "histograms, bar chart, and pie chart"
+},
+{
+"id": 22301,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": " refers to making inferences pertinent to the meaning and implications of the research investigation and drawing conclusions.",
+"op": [
+"Presentation of data",
+"Analysis of data",
+"Interpretation of data",
+"Schedule of data"
+],
+"created_at": "2026-06-27T08:40:52.352924+00:00",
+"ca": "Interpretation of data"
+},
+{
+"id": 22302,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Researchers read percentage tables to make___________.",
+"op": [
+"Comparisons",
+"Graphs",
+"Results",
+"Standards"
+],
+"created_at": "2026-06-27T08:41:25.086606+00:00",
+"ca": "Comparisons"
+},
+{
+"id": 22303,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "The final stage in the coding process is .",
+"op": [
+"data cleaning",
+"data synchronization",
+"data editing",
+"data analysis"
+],
+"created_at": "2026-06-27T08:42:20.896786+00:00",
+"ca": "data cleaning"
+},
+{
+"id": 22307,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "In some cases, the respondent may have answered only the second portion of a two-part question. This type of editing is called .",
+"op": [
+"In-House Editing",
+"Editing for Completeness",
+"Editing for Consistency",
+"Editing Questions Answered out of Order"
+],
+"created_at": "2026-06-27T08:58:22.396455+00:00",
+"ca": "Editing for Completeness"
+},
+{
+"id": 22308,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Pretests and posttests are performed to measure _______ during an experiment.",
+"op": [
+"Moderating variable",
+"Independent variable",
+"Extraneous variable",
+"Dependent variable"
+],
+"created_at": "2026-06-27T08:58:32.042982+00:00",
+"ca": "Dependent variable"
+},
+{
+"id": 22311,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "Pretests and posttests are performed to measure _______ variable during an experiment:",
+"op": [
+"Dependent",
+"Extraneous",
+"Moderating",
+"Independent"
+],
+"created_at": "2026-06-27T09:15:27.582132+00:00",
+"ca": "Dependent"
+},
+{
+"id": 22312,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": " is the criterion or standard by which the results are judged.",
+"op": [
+"Pretest and posttest",
+"Independent variable",
+"Control groups",
+"Dependent variable"
+],
+"created_at": "2026-06-27T09:15:34.019458+00:00",
+"ca": "Control groups"
+},
+{
+"id": 22412,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "A ____ is a collection of characters that represent a single type of data.",
+"op": [
+"File",
+"Code-book",
+"Field",
+"Record"
+],
+"created_at": "2026-06-27T14:28:40.473264+00:00",
+"ca": "Field"
+},
+{
+"id": 22414,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 June 2026",
+"qt": "______ is the process of checking and adjusting the data for omissions, legibility, and consistency.",
+"op": [
+"Data cleaning",
+"Editing",
+"Coding",
+"Plug value"
+],
+"created_at": "2026-06-27T14:29:53.643609+00:00",
+"ca": "Editing"
+},
+{
+"id": 64356,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Qualitative research produces..........",
+"op": [
+"Hard data",
+"soft data",
+"both",
+"non of above"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "soft data"
+},
+{
+"id": 64357,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The type of Non-probability sampling in which the researcher lays down the criteria for the subjects is called:",
+"op": [
+"Convenience sampling",
+"Purposive sampling",
+"Quota sampling",
+"Snowball sampling"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Purposive sampling"
+},
+{
+"id": 64358,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "________ incorporate all the powers of the previous scales plus the provision for absolute zero or origin ",
+"op": [
+"Interval Scale",
+"Ratio Scale",
+"Ordinal scales",
+"Nominal scales"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Ratio Scale"
+},
+{
+"id": 64359,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Split half reliability reflects the correlations between ___________ of an instrument ",
+"op": [
+"All Parts",
+"Two halves",
+"Three halves",
+"Four halves"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Two halves"
+},
+{
+"id": 64360,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "__________ applies when multiple indicators converge or are associated with one another ",
+"op": [
+"Discriminant Validity",
+"Construct Validity",
+"Convergent Validity",
+"Predictive validity"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Convergent Validity"
+},
+{
+"id": 64361,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Reliability is a _____________ condition of the test of goodness of a measure ",
+"op": [
+"None of above",
+"Necessary",
+"Sufficient",
+"Both sufficient and necessary"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Necessary"
+},
+{
+"id": 64362,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "If the research objective requires an extremely lengthy questionnaire, ____________ may be the only alternative ",
+"op": [
+"Collect less data",
+"Personal interviews",
+"Direct Meet up",
+"Changing the Methodology"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Personal interviews"
+},
+{
+"id": 64363,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Qualitative research produces ____ data while Quantitative research produces ____ data.",
+"op": [
+"Primary, secondary",
+"Reliable, unreliable",
+"Soft, hard",
+"Hard, soft"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Soft, hard"
+},
+{
+"id": 64364,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "_________ is a unit about which information is collected and is the basis of analysis.",
+"op": [
+"Element",
+"Parameter",
+"Variable",
+"Hypothesis"
+],
+"created_at": "2026-07-15T13:27:08.981316+00:00",
+"ca": "Element"
+},
+{
+"id": 64365,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The validity of an indicator is verified by comparing it with another measure of the same construct in which - ",
+"op": [
+"Published data is available",
+"Research is at its early stages",
+"Too much Research has been conducted",
+"Research has confidence"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Research has confidence"
+},
+{
+"id": 64366,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "A ____________ is the one in which the numbers or letters assigned to objects serve as labels for identification or classification. ",
+"op": [
+"Interval Scale",
+"Ordinal scales",
+"Nominal scales",
+"Ratio Scale"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Nominal scales"
+},
+{
+"id": 64367,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "It is that unit about which information is collected and that provides the basis of analysis ",
+"op": [
+"Sampling",
+"Target Population",
+"Population",
+"Element"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Element"
+},
+{
+"id": 64368,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Self-administered questionnaires printed on paper are ______________ media ",
+"op": [
+"Non-interactive",
+"Electronic interactive",
+"Non- Electronic interactive media",
+"None of Above"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Non- Electronic interactive media"
+},
+{
+"id": 64369,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "It is difficult to pin down a specific definition of ________ because it is more of an orientation toward research than a fixed set of techniques to apply.",
+"op": [
+"Field research",
+"Non-reactive research",
+"Narrative research",
+"Experimental research"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Field research"
+},
+{
+"id": 64370,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The essential difference between descriptive and explanatory studies lies in their ",
+"op": [
+"Overall methodologies",
+"Data Collection steps",
+"Objectives",
+"Study Plans"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Objectives"
+},
+{
+"id": 64371,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The technique of splitting halves is the most basic method for checking ____________ when measures contain a large number of items ",
+"op": [
+"Overall structure",
+"Generalized structure",
+"Internal consistency",
+"External consistency"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Internal consistency"
+},
+{
+"id": 64372,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Human interactive media are personal forms of ____________ ",
+"op": [
+"Observation",
+"Analysis",
+"Dialogue",
+"Communication"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Communication"
+},
+{
+"id": 64373,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "What should be the characteristics of a good measurement in case of an instrument developed to measure things? ",
+"op": [
+"Should be an accurate indicator",
+"Should be efficient to use",
+"Should be easy to use",
+"All of the above"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "All of the above"
+},
+{
+"id": 64374,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": " is a form of social inquiry that focuses on the way people interpret and make sense of\nthe experiences and the world in which they live in.",
+"op": [
+"Informal research",
+"Quantitative research",
+"Qualitative research",
+"Verbal research"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Qualitative research"
+},
+{
+"id": 64375,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Which of the following is not an ethical issue in performing lab experiments:",
+"op": [
+"Asking demeaning questions",
+"Not allowing subjects to withdraw",
+"All of the given options",
+"Exposing participants to physical or mental stress"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "All of the given options"
+},
+{
+"id": 64376,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "impressions, words, sentences, photos, symbols are included in ...............",
+"op": [
+"all research types",
+"qualitative research",
+"quantitative research",
+"no research type"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "qualitative research"
+},
+{
+"id": 64377,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "______________ are the least powerful of the four scales ",
+"op": [
+"Ratio Scale",
+"Interval Scale",
+"Nominal scales",
+"Ordinal scales"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Nominal scales"
+},
+{
+"id": 64378,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "In a/an ______________ study, we try to explain relationships among variables ",
+"op": [
+"Descriptive",
+"Intellectual Property",
+"Explanatory",
+"None of Above"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Explanatory"
+},
+{
+"id": 64379,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "_______________ is the complete group of specific population elements relevant to the research project ",
+"op": [
+"Element",
+"Sampling",
+"Population",
+"Target Population"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Population"
+},
+{
+"id": 64380,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Reliability of a measure is an indication of the _________ with which the instrument helps to assess the ‘goodness” of measure ",
+"op": [
+"None of Above",
+"Stability",
+"Consistency",
+"stability and consistency"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "stability and consistency"
+},
+{
+"id": 64381,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Quota sampling can be considered as a form of .",
+"op": [
+"Theoretical Sampling",
+"Proportionate stratified sampling",
+"Convenience sampling",
+"Sequential Sampling"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Proportionate stratified sampling"
+},
+{
+"id": 64382,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "____ Individuals selected for the sample are the major means to reducing non-response error ",
+"op": [
+"Paying",
+"Attempts to re-contact",
+"Attempts to give awareness to",
+"Educating"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Attempts to re-contact"
+},
+{
+"id": 64383,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "_____________ is the ability of an instrument (for example measuring an attitude) to measure what it is supposed to measure. ",
+"op": [
+"Sensitivity",
+"Validity",
+"Integrity",
+"Reliability"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Validity"
+},
+{
+"id": 64384,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Linear approach (sequential steps) includes in---------",
+"op": [
+"qualitative research",
+"hypothesis",
+"conclusion",
+"quantitative research"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "quantitative research"
+},
+{
+"id": 64385,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "In the stratification process the variable chosen should increase _______ within each stratum and increase ________ between strata.",
+"op": [
+"Variability, invariability",
+"Invariability, variability",
+"Homogeneity, heterogeneity",
+"Heterogeneity, homogeneity"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Homogeneity, heterogeneity"
+},
+{
+"id": 64386,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The totality out of which sample is drawn is referred to as ____________ ",
+"op": [
+"Population",
+"None of above",
+"Community",
+"Total Individuals"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Population"
+},
+{
+"id": 64387,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Units of analysis in a study are typically also the _____________ ",
+"op": [
+"All of above",
+"Unit of observation",
+"The purpose of the study",
+"Time dimension"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Unit of observation"
+},
+{
+"id": 64391,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Research Design can be classified by the approach used to gather _________ data ",
+"op": [
+"Primary",
+"Tertiary",
+"All types of",
+"Secondary"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Primary"
+},
+{
+"id": 64392,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The critical thing about ___________ measures is that the people being studied are not aware of it but leave evidence of their social behavior or actions naturally.",
+"op": [
+"Obstructive",
+"Non-reactive",
+"Obtrusive",
+"Reactive"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Non-reactive"
+},
+{
+"id": 64393,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Which of the following is not a type of observation tool:",
+"op": [
+"Experiment",
+"Stratification",
+"Interview",
+"Questionnaire"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Stratification"
+},
+{
+"id": 64394,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "Network, chain referral, or reputational sampling is also called ______.",
+"op": [
+"Theoretical Sampling",
+"Sequential Sampling",
+"Convenience sampling",
+"Snowball Sampling"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Snowball Sampling"
+},
+{
+"id": 64395,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "In probability, sampling every element in the population has a known _________.",
+"op": [
+"Zero non-probability of selection",
+"Non-zero non-probability of selection",
+"Non-zero probability of selection",
+"Zero probability of selection"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Non-zero probability of selection"
+},
+{
+"id": 64396,
+"cc": "BT406",
+"qn": "2",
+"dt": "27 December 2025",
+"qt": "The stratification in random sampling is done because of the following except ………….",
+"op": [
+"to enable use of different research procedures in different strata",
+"to increase a sample’s statistical efficiency",
+"to provide adequate data for analyzing the various subpopulations",
+"develop a system for the selection of elements instead of random numbers"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "develop a system for the selection of elements instead of random numbers"
+},
+{
+"id": 64400,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "Social researchers do not use a consistent nomenclature to distinguish between the _________ and _____________ ",
+"op": [
+"Scales, Data",
+"Data, indexes",
+"Scales, indexes",
+"None of above"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Scales, indexes"
+},
+{
+"id": 64401,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "Statistic is different from Statistics in a sense that:",
+"op": [
+"Statistic refer to summary description of a variable in survey sample in numerical form",
+"All given options are incorrect",
+"Statistics refer to summary description of a variable in survey sample in numerical form",
+"Statistic refers to the field of study dealing with data collection and interpretation"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Statistic refer to summary description of a variable in survey sample in numerical form"
+},
+{
+"id": 64402,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "Coding the visible, surface content in a text is called .",
+"op": [
+"Manifest coding",
+"Semantic coding",
+"Latent Coding",
+"Conventional coding"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Manifest coding"
+},
+{
+"id": 64403,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "The purpose of cluster sampling is to sample economically while retaining the characteristics of a .",
+"op": [
+"Simple random sample",
+"Stratified Random Sample",
+"Systematic Random Sample",
+"Probability sample"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Probability sample"
+},
+{
+"id": 64404,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "A common error in the reliability and validity of secondary data is .",
+"op": [
+"Coding difficulties",
+"Non-Reactive Data",
+"Data must be adjusted for comparability over time",
+"Fallacy of misplaced concreteness"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Fallacy of misplaced concreteness"
+},
+{
+"id": 64405,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "A is the summary description of a given variable in a population ",
+"op": [
+"Unit of data collection",
+"Observation unit",
+"Statistic",
+"Parameter"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Parameter"
+},
+{
+"id": 64422,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "It is the opposite of Discriminant Validity ",
+"op": [
+"Divergent validity",
+"Test-retest Reliability",
+"Convergent Validity",
+"Discriminant Validity"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Convergent Validity"
+},
+{
+"id": 64423,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "In the conclusions section of an industry-based case study, the recommended action plan is fully analyzed in terms of its:",
+"op": [
+"viability",
+"feasibility",
+"benefit to the company",
+"viability, feasibility, and benefit to the company"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "viability, feasibility, and benefit to the company"
+},
+{
+"id": 64424,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": " is considered as a basic and very minimum index of content validity ",
+"op": [
+"Content validity",
+"Construct validity",
+"Criterion-related validity",
+"Face validity"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Face validity"
+},
+{
+"id": 64425,
+"cc": "BT406",
+"qn": "2",
+"dt": "28 December 2025",
+"qt": "The scientific requirements of a project call for the operational requirements to be ___________ ",
+"op": [
+"Analytical",
+"Practical",
+"Theoratical",
+"Hypothetical"
+],
+"created_at": "2026-07-15T13:27:10.04194+00:00",
+"ca": "Practical"
+},
+{
+"id": 64894,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "The great strength of the survey as a primary data collecting approach is its ___________ ",
+"op": [
+"Versatility",
+"Hypothesis",
+"Data",
+"Methodology"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Versatility"
+},
+{
+"id": 64895,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": " allows researchers to reach a large audience, to personalize individual messages ",
+"op": [
+"Electronic interactive media",
+"All of Above",
+"Non-Interactive Media Non- Electronic interactive media",
+"Non-Interactive Media"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Electronic interactive media"
+},
+{
+"id": 64896,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "The reliability of a measure indicates the extent to which it is ",
+"op": [
+"Economical, without bias, and error-free",
+"Economical and error-free",
+"Economical",
+"Error free"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Error free"
+},
+{
+"id": 64897,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "In ___, one experimental group and one control group can be given the both pretest and the posttest and other two groups will be given only the posttest.",
+"op": [
+"Pretest and Posttest Experimental and Control Group Design",
+"One Group Pretest-posttest Design",
+"Two Groups Posttest-only Design",
+"Solomon’s Four Group Design"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Solomon’s Four Group Design"
+},
+{
+"id": 64898,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "The use of __________ implies a statement of “greater than” or “less than” without stating how much greater or less ",
+"op": [
+"Ordinal scales",
+"Nominal scales",
+"Interval Scale",
+"Ratio Scale"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Ordinal scales"
+},
+{
+"id": 64899,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "From the perspective of purpose of the study, a research can be ",
+"op": [
+"Explanatory",
+"Exploratory",
+"Descriptive",
+"All of Them"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "All of Them"
+},
+{
+"id": 64900,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Which one is not type of non-probability sampling?",
+"op": [
+"Convenience Sampling",
+"Purposive Sampling",
+"Random sampling",
+"Quota Sampling"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Random sampling"
+},
+{
+"id": 64901,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": " have the power of nominal and ordinal scales plus one additional strength ",
+"op": [
+"Ordinal scales",
+"Ratio Scale",
+"Nominal scales",
+"Interval Scale"
+],
+"created_at": "2026-07-15T13:27:13.991701+00:00",
+"ca": "Interval Scale"
+},
+{
+"id": 65090,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Indexes are often measured at the __________ level. ",
+"op": [
+"None of above",
+"Interval",
+"Ratio or Interval",
+"Ratio"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Interval"
+},
+{
+"id": 65091,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "When it appears evident to experts that the measure provides adequate coverage of the concept, a measure has _________. ",
+"op": [
+"Face validity",
+"Construct validity",
+"Content validity",
+"Criterion-related validity"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Content validity"
+},
+{
+"id": 65092,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Personal interviews conducted in shopping malls are referred to as _________________ ",
+"op": [
+"Shopping intercept interviews",
+"Mall intercept interviews",
+"Market intercept interviews",
+"Mass intercept interviews"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Mall intercept interviews"
+},
+{
+"id": 65093,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Quantitative research produces -------------",
+"op": [
+"hard data",
+"soft data",
+"both types of data",
+"no type of data"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "hard data"
+},
+{
+"id": 65094,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "When responses on two comparable sets of measures tapping the same construct are highly correlated, it is called as ",
+"op": [
+"Parallel-form reliability",
+"Discriminant Validity",
+"Convergent Validity77",
+"Test-retest Reliability"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Parallel-form reliability"
+},
+{
+"id": 65095,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "The type of research that entails observation of events in natural settings and the direct involvement of the researcher is ……………….",
+"op": [
+"Survey",
+"Field research",
+"Case study",
+"Ethno-methodology"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Field research"
+},
+{
+"id": 65096,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Problem with measures of test-retest reliability is that; if the time between the measures is long, there may be ______________ ",
+"op": [
+"Maturation of the subjects",
+"Uniformity in attitude and immoderation of the subjects",
+"Uniformity in attitude",
+"Immoderation of the subjects"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Maturation of the subjects"
+},
+{
+"id": 65113,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "When the elements of population are highly homogenous, samples are highly representative of the _____________ ",
+"op": [
+"Population",
+"Community",
+"Total Individuals",
+"None of above"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Population"
+},
+{
+"id": 65114,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Depending upon the type of topic, the researcher lays down the criteria for the subjects to be included in the sample, this is called ___________.",
+"op": [
+"Snowball Sampling",
+"Sequential Sampling",
+"Purposive Sampling",
+"Theoretical Sampling"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Purposive Sampling"
+},
+{
+"id": 65117,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "A ________________ is a master plan specifying the methods and procedures for collecting and analyzing the data. ",
+"op": [
+"Experimentation",
+"Research Hypothesis",
+"Research Design",
+"Research Experiment"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Research Design"
+},
+{
+"id": 65120,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "Researchers combine parts of experiment together into a/an __________.",
+"op": [
+"Narrative research",
+"Experimental research",
+"Research design",
+"Experimental design"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Experimental design"
+},
+{
+"id": 65122,
+"cc": "BT406",
+"qn": "2",
+"dt": "29 December 2025",
+"qt": "The type of sampling method that begins with one/few and spreads out on the basis of links is called …………………….",
+"op": [
+"Snowball sampling",
+"Sequential sampling",
+"Quota sampling",
+"Theoretical sampling"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Snowball sampling"
+}]

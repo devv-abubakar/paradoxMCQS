@@ -1,0 +1,1111 @@
+[{
+"id": 27581,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Concept of activation energy   is given by?",
+"op": [
+"none of these",
+"Michel Faraday",
+"Svante Arrhenius",
+"Boltzmann"
+],
+"created_at": "2026-06-29T19:24:49.488739+00:00",
+"ca": "Svante Arrhenius"
+},
+{
+"id": 27592,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The concentration of reactants approaches zero more slowly in a second-order, compared to that in a reaction.",
+"op": [
+"first order",
+"zero order",
+"second order",
+"pseudo order"
+],
+"created_at": "2026-06-29T19:26:27.605655+00:00",
+"ca": "first order"
+},
+{
+"id": 27603,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The differential rate law can show us how the of the reaction changes in time, while the integrated rate equation shows how the __________ of species changes over time.",
+"op": [
+"Order, Concentration",
+"Surface, Order",
+"Rate, Order",
+"Rate, Concentration"
+],
+"created_at": "2026-06-29T19:27:31.532864+00:00",
+"ca": "Rate, Concentration"
+},
+{
+"id": 27613,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Formation of double stranded DNA from two complementary strands is",
+"op": [
+"Third order reaction",
+"Order less reaction",
+"Second order reaction",
+"First order reaction"
+],
+"created_at": "2026-06-29T19:28:18.546652+00:00",
+"ca": "Second order reaction"
+},
+{
+"id": 27631,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The double bond of ethene consists of two clouds of negative charge corresponding to the σ (sigma) and π (pi).",
+"op": [
+"atomic orbital",
+"bonding orbitals",
+"molecular orbitals",
+"anti-bonding orbitals"
+],
+"created_at": "2026-06-29T19:29:18.662141+00:00",
+"ca": "molecular orbitals"
+},
+{
+"id": 27804,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In a pseudo-first-order reaction, if the concentration of the excess reactant is reduced to a minimum value, how does this affect the overall reaction rate?",
+"op": [
+"The reaction rate decreases exponentially",
+"The reaction rate becomes zero",
+"The reaction rate remains constant",
+"The reaction rate decreases linearly"
+],
+"created_at": "2026-06-29T19:53:56.14481+00:00",
+"ca": "The reaction rate decreases linearly"
+},
+{
+"id": 27806,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "_________indicates the rate of collision and the fraction of collisions with the proper orientation for the reaction to occur.",
+"op": [
+"Boltzmann constant",
+"Arrhenius factor",
+"none of these",
+"Rate constant"
+],
+"created_at": "2026-06-29T19:54:31.131445+00:00",
+"ca": "Arrhenius factor"
+},
+{
+"id": 27808,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "ΔGo is the change in Gibbs energy when the reaction happens at ______________.",
+"op": [
+"Transition state",
+"Critical State",
+"290K",
+"Standard State"
+],
+"created_at": "2026-06-29T19:54:43.862864+00:00",
+"ca": "Standard State"
+},
+{
+"id": 27813,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Activation energy  for a ___________is zero.",
+"op": [
+"low concentration",
+"radical reaction",
+"fast reaction",
+"chain reaction"
+],
+"created_at": "2026-06-29T19:55:24.702275+00:00",
+"ca": "radical reaction"
+},
+{
+"id": 28369,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The activation energy is the ______________that the reactant(s) must acquire before reaching the transition state.",
+"op": [
+"threshold energy",
+"maximum energy",
+"constant energy",
+"critical energy"
+],
+"created_at": "2026-06-30T00:43:15.641429+00:00",
+"ca": "threshold energy"
+},
+{
+"id": 28379,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "HCl is ________molecule.",
+"op": [
+"non-polar",
+"partially polar",
+"none of these",
+"highly polar"
+],
+"created_at": "2026-06-30T00:45:13.009994+00:00",
+"ca": "highly polar"
+},
+{
+"id": 28384,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "A reaction with a ________activation energy requires much more energy to reach the transition state.",
+"op": [
+"constant",
+"Large",
+"small",
+"negligible"
+],
+"created_at": "2026-06-30T00:45:41.73269+00:00",
+"ca": "Large"
+},
+{
+"id": 28389,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Thermal energy relates direction to motion at the __________level.",
+"op": [
+"atomic",
+"none of these",
+"sub atomic",
+"Molecular"
+],
+"created_at": "2026-06-30T00:46:09.751152+00:00",
+"ca": "Molecular"
+},
+{
+"id": 28393,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Which factor primarily influences the rate of a pseudo-first-order reaction?",
+"op": [
+"Catalyst concentration",
+"Concentration of the limiting reactant",
+"Nature of reactants",
+"Temperature"
+],
+"created_at": "2026-06-30T00:46:39.978968+00:00",
+"ca": "Concentration of the limiting reactant"
+},
+{
+"id": 28415,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "R is the real gas constant with value ________?",
+"op": [
+"6.430 J/mol K.",
+"9.614 J/mol K.",
+"8.581 J/mol K.",
+"8.314 J/mol K"
+],
+"created_at": "2026-06-30T01:01:49.216255+00:00",
+"ca": "8.314 J/mol K"
+},
+{
+"id": 28621,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "If the reaction proceeds faster by adding catalyst, the rate constant (k) _________?",
+"op": [
+"decreases",
+"remain unaffected",
+"Increases",
+"approaches zero"
+],
+"created_at": "2026-06-30T03:21:01.675306+00:00",
+"ca": "Increases"
+},
+{
+"id": 28623,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Half life of a first order reaction is ________of its initial concentration.",
+"op": [
+"directly proportional",
+"independent",
+"dependent",
+"inversely proportional"
+],
+"created_at": "2026-06-30T03:21:14.471906+00:00",
+"ca": "independent"
+},
+{
+"id": 28625,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In the zero-order rate law equation, what does [A] represent?",
+"op": [
+"Time",
+"Initial concentration of the reactant",
+"Concentration of the reactant at any time t",
+"Rate constant"
+],
+"created_at": "2026-06-30T03:21:23.196199+00:00",
+"ca": "Concentration of the reactant at any time t"
+},
+{
+"id": 28628,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "If the rate constant (k) for a zero-order reaction is 0.5 M/s and the initial concentration of the reactant is 1.0 M, what will be the rate of the reaction?",
+"op": [
+"1.0 M/s",
+"2.0 M/s",
+"1.5 M/s",
+"0.5 M/s"
+],
+"created_at": "2026-06-30T03:21:39.895558+00:00",
+"ca": "0.5 M/s"
+},
+{
+"id": 28671,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "How is the graph of concentration against time for a zero-order reaction described?",
+"op": [
+"Parabolic",
+"Exponential",
+"No change in concentration with time",
+"Linear"
+],
+"created_at": "2026-06-30T03:40:58.079933+00:00",
+"ca": "Linear"
+},
+{
+"id": 28674,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In Arrhenius equation Ea is",
+"op": [
+"Access Energy",
+"Energy of Tolrance",
+"Activation Energy",
+"Zero Energy"
+],
+"created_at": "2026-06-30T03:41:28.531957+00:00",
+"ca": "Activation Energy"
+},
+{
+"id": 28675,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In a chemical reaction, the transition state is defined as the _____________energy state of the system.",
+"op": [
+"lowest",
+"Highest",
+"Critical",
+"Constant"
+],
+"created_at": "2026-06-30T03:41:54.216406+00:00",
+"ca": "Highest"
+},
+{
+"id": 28676,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The Arrhenius equation can be used to determine the effect of a change of ____________on the rate constant.",
+"op": [
+"Temperature",
+"Pressure",
+"Initial concentration",
+"Concentration"
+],
+"created_at": "2026-06-30T03:42:03.252207+00:00",
+"ca": "Temperature"
+},
+{
+"id": 28681,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Chemical reactions occur more rapidly at",
+"op": [
+"Lower Temperatures",
+"Lower Pressure",
+"Higher temperatures",
+"Higher pressure"
+],
+"created_at": "2026-06-30T03:45:50.198367+00:00",
+"ca": "Higher temperatures"
+},
+{
+"id": 28682,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Enzymes can be thought of as biological catalysts that __________activation energy.",
+"op": [
+"Lower",
+"maximize",
+"increase",
+"none of these"
+],
+"created_at": "2026-06-30T03:46:03.663015+00:00",
+"ca": "Lower"
+},
+{
+"id": 28683,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "____________shows how the concentration of species changes over time.",
+"op": [
+"Integrated rate equation",
+"order of reaction",
+"mole fraction",
+"differential rate law"
+],
+"created_at": "2026-06-30T03:46:25.890192+00:00",
+"ca": "Integrated rate equation"
+},
+{
+"id": 29061,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Activation enthalpy, ΔH‡, represents the difference in energy between the ground state and the ___________ in a chemical reaction.",
+"op": [
+"Final state",
+"none of these",
+"Critical state",
+"Transition state"
+],
+"created_at": "2026-06-30T05:28:41.784817+00:00",
+"ca": "Transition state"
+},
+{
+"id": 29066,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In a pseudo-first-order reaction, if the concentration of the excess reactant is doubled, how does this affect the reaction rate?",
+"op": [
+"The reaction rate remains unchanged",
+"The reaction rate increases linearly",
+"The reaction rate doubles",
+"The reaction rate quadruples"
+],
+"created_at": "2026-06-30T05:29:27.368184+00:00",
+"ca": "The reaction rate doubles"
+},
+{
+"id": 29067,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Arrhenius performed experiments that correlated chemical reaction rate constants with",
+"op": [
+"Comcentration",
+"Volume",
+"Pressure",
+"Temperature"
+],
+"created_at": "2026-06-30T05:29:39.909484+00:00",
+"ca": "Temperature"
+},
+{
+"id": 29390,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The pseudo first order reaction involves treating a _________reaction like a first order reaction",
+"op": [
+"second order",
+"zero order",
+"none of these",
+"third order"
+],
+"created_at": "2026-06-30T06:38:13.597569+00:00",
+"ca": "second order"
+},
+{
+"id": 29524,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Formation of double stranded DNA from two complementary strands is ______order reaction.",
+"op": [
+"second",
+"third",
+"zero",
+"first"
+],
+"created_at": "2026-06-30T07:21:00.704593+00:00",
+"ca": "second"
+},
+{
+"id": 29809,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Half life of second order reactions depends on the _________and the rate constant.",
+"op": [
+"product formed",
+"time  consumed",
+"initial concentration",
+"none of these"
+],
+"created_at": "2026-06-30T08:33:06.359856+00:00",
+"ca": "initial concentration"
+},
+{
+"id": 29810,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Which statement accurately describes the graphical representation of a zero-order reaction?",
+"op": [
+"Exponential decrease of concentration with time",
+"Parabolic decrease of concentration with time",
+"Linear decrease of concentration with time",
+"Concentration remains constant with time"
+],
+"created_at": "2026-06-30T08:33:16.244407+00:00",
+"ca": "Linear decrease of concentration with time"
+},
+{
+"id": 29940,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The concepts of half life plays a key role in the administration of",
+"op": [
+"Enzymes",
+"Food",
+"Drugs",
+"Pesticides"
+],
+"created_at": "2026-06-30T09:47:39.178108+00:00",
+"ca": "Drugs"
+},
+{
+"id": 29941,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "When the reaction is at equilibrium ΔG?",
+"op": [
+"ΔG>1",
+"ΔG>0.",
+"ΔG<0",
+"ΔG=0."
+],
+"created_at": "2026-06-30T09:47:45.91414+00:00",
+"ca": "ΔG=0."
+},
+{
+"id": 29957,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In zero order reaction the rate of the reaction is equal to ________of that reaction.",
+"op": [
+"rate constant",
+"concentration",
+"rate law",
+"exponents of concentration terms"
+],
+"created_at": "2026-06-30T09:53:33.10488+00:00",
+"ca": "rate constant"
+},
+{
+"id": 30205,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "Pseudo-first-order kinetics are commonly observed in reactions where:",
+"op": [
+"One reactant concentration is significantly higher than the other",
+"Reactants have different orders",
+"Both reactants are present in equal amounts",
+"The rate constant is zero"
+],
+"created_at": "2026-06-30T11:54:46.720742+00:00",
+"ca": "One reactant concentration is significantly higher than the other"
+},
+{
+"id": 30206,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In third order reaction the minimum number of molecules necessary for the reaction to take place is",
+"op": [
+"Four",
+"One",
+"Two",
+"Three"
+],
+"created_at": "2026-06-30T11:55:28.914981+00:00",
+"ca": "Three"
+},
+{
+"id": 30256,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "In _________reactions/kinetics, the rate of a reaction does not depend on the substrate",
+"op": [
+"pseudo first order",
+"zero order",
+"second order",
+"third order"
+],
+"created_at": "2026-06-30T12:27:40.84065+00:00",
+"ca": "zero order"
+},
+{
+"id": 30432,
+"cc": "CHE201",
+"qn": "2",
+"dt": "30 June 2026",
+"qt": "The rates of the ________  do not vary with increasing nor decreasing reactants concentrations",
+"op": [
+"First order reactions",
+"Zero order reactions",
+"Third order reactions",
+"Second order reactions"
+],
+"created_at": "2026-06-30T14:12:33.85703+00:00",
+"ca": "Zero order reactions"
+},
+{
+"id": 70501,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "1 ppt is 1000-fold more dilute than 1 ppb and ___________ more dilute than 1 ppm.",
+"op": [
+"10-fold",
+"1000-fold",
+"10000000-fold",
+"1000000-fold"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "1000000-fold"
+},
+{
+"id": 70502,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "_______is a  liquid or solid with liquids dispersed through them.",
+"op": [
+"Foam",
+"Emulsion",
+"Gel",
+"Aerosol"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Emulsion"
+},
+{
+"id": 70503,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "The boiling points of solutions are all higher than that of the _______?",
+"op": [
+"pure solute",
+"none of these",
+"pure solvent",
+"solute & solvent"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "pure solvent"
+},
+{
+"id": 70504,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What is the primary characteristic of ionic solutions? ",
+"op": [
+"They do not conduct electricity",
+"They contain ions",
+"They consist of covalent bonds",
+"They are always gases"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "They contain ions"
+},
+{
+"id": 70505,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What does the enthalpy of solution measure?  ",
+"op": [
+"The heat released when a solution is formed",
+"The total energy change during a chemical reaction",
+"The boiling point of a solution",
+"The amount of solute dissolved in a solution"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "The heat released when a solution is formed"
+},
+{
+"id": 70506,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "The general form of __________ describes the force of attraction between charges:  F = kq1mq2 / r2",
+"op": [
+"Coulomb's law",
+"Henry's law",
+"Raoult's law",
+"Hess's law"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Coulomb's law"
+},
+{
+"id": 70507,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Which of the following factors influences the enthalpy of solution the most?  ",
+"op": [
+"Solution volume",
+"Solute particle size",
+"Solvent polarity",
+"Solute-solvent interactions"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Solute-solvent interactions"
+},
+{
+"id": 70508,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Adding solutes to an ideal solution results in a ___________ entropy.",
+"op": [
+"zero",
+"negative",
+"constant",
+"positive"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "positive"
+},
+{
+"id": 70509,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Most sulfide, carbonate and phosphate salts are  ________?",
+"op": [
+"Soluble",
+"Insoluble",
+"Slightly soluble",
+"Sparingly soluble"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Insoluble"
+},
+{
+"id": 70510,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Due to the addition of solutes,  freezing point of a solution tends to ________?",
+"op": [
+"decrease",
+"elevated",
+"zero",
+"increase"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "decrease"
+},
+{
+"id": 70565,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Freezing point depression is a _________ property observed in solutions that results from the introduction of solute molecules to a solvent",
+"op": [
+"Anlytical",
+"Chemical",
+"Electrical",
+"Colligative"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Colligative"
+},
+{
+"id": 70566,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "In which direction does water flow in osmosis? ",
+"op": [
+"Towards the area of higher solute concentration",
+"Towards the area of lower solute concentration",
+"Water flow is random",
+"Water doesn't flow in osmosis"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "Towards the area of higher solute concentration"
+},
+{
+"id": 70567,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "The interactions between the solute particles and the solvent molecules is called",
+"op": [
+"solvation",
+"solution",
+"solubility",
+"ionic bonding"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "solvation"
+},
+{
+"id": 70568,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Energy involved in ionic solution formation,Hydrating the anion is ___________?",
+"op": [
+"endothermic process",
+"exothermic process",
+"none of these",
+"Both exothermic & endothermic process"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "exothermic process"
+},
+{
+"id": 70569,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What does the slope of the linear plot of ln[A] versus time represent in a first-order reaction?  ",
+"op": [
+"Rate constant (k)",
+"Final concentration",
+"Half-life",
+"Initial concentration"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Rate constant (k)"
+},
+{
+"id": 70570,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "A solution of water and sugar is called __________?",
+"op": [
+"syrup",
+"saline",
+"none of these",
+"brine"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "syrup"
+},
+{
+"id": 70571,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "An electrolyte solution is a solution that generally contains ions, atoms or molecules that have lost or gained electrons, and is __________?",
+"op": [
+"low viscosity",
+"high density",
+"electrically charged",
+"electrically conductive"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "electrically conductive"
+},
+{
+"id": 70612,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "An equivalent way of stating the Henry's law is that the ____________ of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid",
+"op": [
+"molar concentration",
+"pressure",
+"partial pressure",
+"solubility"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "solubility"
+},
+{
+"id": 70613,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "A sterilized specific concentration (0.15 molar) of sodium chloride in water is called _____?",
+"op": [
+"saline",
+"syrup",
+"brine",
+"none of these"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "saline"
+},
+{
+"id": 70614,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What happens to electrolyte solutions when they dissociate in water?  ",
+"op": [
+"They break into ions",
+"They precipitate",
+"They become gases",
+"They form covalent bonds"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "They break into ions"
+},
+{
+"id": 70615,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "The osmotic pressure of a solution is proportional to the molar concentration of the _____________ in solution.",
+"op": [
+"solute",
+"solute & solvent both",
+"none of these",
+"solvent"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "solute"
+},
+{
+"id": 70616,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What would a positive enthalpy of solution indicate? ",
+"op": [
+"Heat absorbed when a solution is formed",
+"A change in the solubility of the solute",
+"No change in heat during solution formation",
+"Heat released when a solution is formed"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Heat absorbed when a solution is formed"
+},
+{
+"id": 70644,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Positive non-ideal behavior of the vapor pressure of a solution follows Henry's Law at __________ concentrations.",
+"op": [
+"constant",
+"equilibrium",
+"high",
+"low"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "low"
+},
+{
+"id": 70645,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What is osmotic pressure?  ",
+"op": [
+"Total pressure of a solution",
+"Pressure exerted by solute particles in a solution",
+"Pressure exerted by the solvent in a solution",
+"Pressure exerted by the container walls"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Pressure exerted by solute particles in a solution"
+},
+{
+"id": 70646,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "Almost all simple ionic compounds with Group I elements or ammonium ion, (NH4)+, are ________?",
+"op": [
+"slightly soluble",
+"Soluble",
+"Insoluble",
+"sparingly soluble"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Soluble"
+},
+{
+"id": 70647,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "A solution of water and sugar is called __________? ",
+"op": [
+"syrup",
+"brine",
+"none of these",
+"saline"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "syrup"
+},
+{
+"id": 70648,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What happens when an ionic compound dissolves in water?  ",
+"op": [
+"Covalent bonds break",
+"Ions combine to form molecules",
+"The compound remains unchanged",
+"Ionic bonds break, and ions are dispersed in water"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Ionic bonds break, and ions are dispersed in water"
+},
+{
+"id": 70649,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "For an ionic compound to form a solution, the ion-dipole forces between water and ionic compound must be __________ than the interionic bonds.",
+"op": [
+"none of these",
+"balanced",
+"smaller",
+"greater"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "greater"
+},
+{
+"id": 70650,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "The ________ of a solution is used to represent the amount of moles of solute per kilogram of the solvent",
+"op": [
+"none of these",
+"molarity",
+"molality",
+"normality"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "molality"
+},
+{
+"id": 70671,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What is the definition of an electrolyte?  ",
+"op": [
+"A substance that conducts electricity in solution",
+"A substance that is insoluble in water",
+"A substance that conducts electricity in molten state",
+"A substance that does not conduct electricity"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "A substance that conducts electricity in solution"
+},
+{
+"id": 70672,
+"cc": "CHE201",
+"qn": "2",
+"dt": "06 January 2026",
+"qt": "What is the driving force behind osmosis? ",
+"op": [
+"Solvent molecules",
+"Solute molecules",
+"Colligative properties",
+"Temperature"
+],
+"created_at": "2026-07-15T13:27:51.139945+00:00",
+"ca": "Solute molecules"
+},
+{
+"id": 71433,
+"cc": "CHE201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the relationship between the boiling point of a solution and the boiling point of the pure solvent in the context of Boiling Point Elevation? ",
+"op": [
+"Boiling point of the solution is lower",
+"Relationship depends on the solute",
+"Both have the same boiling point",
+"Boiling point of the solution is higher"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Boiling point of the solution is higher"
+},
+{
+"id": 71439,
+"cc": "CHE201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "How does the use of a semipermeable membrane affect osmotic pressure?  ",
+"op": [
+"It decreases osmotic pressure",
+"It increases osmotic pressure",
+"It has no effect on osmotic pressure",
+"It depends on the type of solute"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "It has no effect on osmotic pressure"
+},
+{
+"id": 71441,
+"cc": "CHE201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Foams are liquids or solids with a gas dispersed into them.",
+"op": [
+"Gas",
+"Liquid",
+"Solid",
+"none of these"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Gas"
+}
+]

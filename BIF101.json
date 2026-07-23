@@ -1,0 +1,502 @@
+[
+    {
+        "id": 54978,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "MEDLINE is the primary resource for biomedical journal articles and millions of citations to articles in biomedical journals can be found here.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T19:22:49.901273+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 54981,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Which software tool is commonly used for homology modeling?",
+        "op": [
+            "SPSS",
+            "PyMOL",
+            "MODELLER",
+            "BLAST"
+        ],
+        "created_at": "2026-07-06T19:23:06.647802+00:00",
+        "ca": "MODELLER"
+    },
+    {
+        "id": 54982,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "------------is the databases that stores the genome of fruit-fly Drosophila",
+        "op": [
+            "None of the above",
+            "FlyBase",
+            "Graphics",
+            "Genebank"
+        ],
+        "created_at": "2026-07-06T19:23:22.888247+00:00",
+        "ca": "FlyBase"
+    },
+    {
+        "id": 54984,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "For simple sequences (not related with down-stream analysis) and annotations and can be submitted through web (if the datasets are small) which does not requires any advanced tools.",
+        "op": [
+            "NCBI",
+            "BANKIt",
+            "UniProt",
+            "None"
+        ],
+        "created_at": "2026-07-06T19:23:37.83077+00:00",
+        "ca": "BANKIt"
+    },
+    {
+        "id": 54987,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "------------comprises of more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books.",
+        "op": [
+            "PUBMED",
+            "CINAHL",
+            "PsycoINFO",
+            "MEDLINE"
+        ],
+        "created_at": "2026-07-06T19:23:50.980572+00:00",
+        "ca": "PUBMED"
+    },
+    {
+        "id": 54989,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Sequences are submitted to the databases in order to share them with the scientific community (sometimes they are also required by the Publication and funding agencies to submit them).",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-06T19:24:03.698325+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 54992,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Homology modeling is less accurate when:",
+        "op": [
+            "The target protein has high expression levels",
+            "The target and template proteins have low sequence similarity",
+            "The target protein has a known structure",
+            "The template protein has a different fold than the target protein"
+        ],
+        "created_at": "2026-07-06T19:24:15.534939+00:00",
+        "ca": "The target and template proteins have low sequence similarity"
+    },
+    {
+        "id": 54996,
+        "cc": "BIF101",
+        "qn": "",
+        "dt": "07 July 2026",
+        "qt": "The accuracy of homology models depends on",
+        "op": [
+            "Length of the target protein sequence",
+            "Sequence similarity between target and template proteins",
+            "Resolution of the template protein structure",
+            "Availability of experimental data"
+        ],
+        "created_at": "2026-07-06T19:24:31.442487+00:00",
+        "ca": "Sequence similarity between target and template proteins"
+    },
+    {
+        "id": 54999,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "PDB is a good resource to get the",
+        "op": [
+            "Nucleotide structure",
+            "RNA structure",
+            "Protein structure",
+            "DNA structure"
+        ],
+        "created_at": "2026-07-06T19:24:42.946781+00:00",
+        "ca": "Protein structure"
+    },
+    {
+        "id": 55448,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "PUBMED comprises of more than 24 million citations for biomedical literature from MEDLINE, life science journals, and online books.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-07T00:18:32.57267+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 55449,
+        "cc": "BIF101",
+        "qn": "",
+        "dt": "07 July 2026",
+        "qt": "____is convenient for deposition of gene expression data, as required by funding agencies and journals and it’s also a curated resource for gene expression data where we can do Browsing, querying, analysis and retrieval of the data.",
+        "op": [
+            "Gene Expression Omnibus",
+            "Gene Expression Objectives",
+            "None of these",
+            "Gene Effective Omnibus"
+        ],
+        "created_at": "2026-07-07T00:19:01.376206+00:00",
+        "ca": "Gene Expression Omnibus"
+    },
+
+    {
+        "id": 55688,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "The process of modeling missing loop regions in homology modeling is called:",
+        "op": [
+            "Loop modeling",
+            "Sequence alignment",
+            "Model refinement",
+            "Template identification"
+        ],
+        "created_at": "2026-07-07T03:29:59.058951+00:00",
+        "ca": "Loop modeling"
+    },
+    {
+        "id": 65233,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Salient applications of bioinformatics include . ",
+        "op": [
+            "Genomics, Transcriptomics, Proteomics",
+            "System Biology and in personalization of medicines for cure",
+            "Metabolomics, Structural Proteomics, Designing Drugs",
+            "All"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "All"
+    },
+    {
+        "id": 65235,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "The formation of a specific RNA from a specific DNA ",
+        "op": [
+            "Reproduction",
+            "Translation",
+            "Transcription",
+            "Replication"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "Transcription"
+    },
+    {
+        "id": 65236,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Adenine and Guanine collectively called Pyrimidine while Cytosine, Uracil, and Thymine are called as Purines. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 65237,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Start Codon is  ",
+        "op": [
+            "UAG",
+            "UAA",
+            "UGA",
+            "AUG"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "AUG"
+    },
+    {
+        "id": 65238,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "There are mainly four types of ribonucleotides depending upon the types of ______________ present in RNA ",
+        "op": [
+            "Nitrogenous bases",
+            "Phosphate",
+            "None",
+            "Phosphorus"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "Nitrogenous bases"
+    },
+    {
+        "id": 65239,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Bioinformatics helps us to understand the systems from small to big like from gene findings to entire system prediction including ____________ ",
+        "op": [
+            "Modeling of many biological system",
+            "All",
+            "Protein structure prediction",
+            "None"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "All"
+    },
+    {
+        "id": 65241,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "RNA just codes the information for protein, but DNA helps in making protein. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 65242,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Central Dogma has following steps:  ",
+        "op": [
+            "None",
+            "Transcription from DNA to RNA and Translation from mRNA to Protein",
+            "Both",
+            "DNA->RNA->Protein"
+        ],
+        "created_at": "2026-07-15T13:27:17.338221+00:00",
+        "ca": "Transcription from DNA to RNA and Translation from mRNA to Protein"
+    },
+    {
+        "id": 65438,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "DNA sends the information to cell via mRNA and that sequence the amino acids according to coded information and protein structure is formed and that protein forms a cell. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 65439,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Biologists can sequence the whole genome with the bioinformatics tool i.e. ",
+        "op": [
+            "Next Genome Sequencing (NGS)",
+            "Next Generation Sequencing (NGS)",
+            "Next Gene Sequencing (NGS)",
+            "None"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00",
+        "ca": "Next Generation Sequencing (NGS)"
+    },
+    {
+        "id": 65440,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "DNA sends the information to cell via tRNA and that sequence the amino acids according to coded information and protein structure is formed and that protein forms a cell. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 65442,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": " is the process by which the information in a strand of DNA is copied into a new molecule of messenger RNA (mRNA). ",
+        "op": [
+            "Translation",
+            "Replication",
+            "Transcription",
+            "Reproduction"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00",
+        "ca": "Transcription"
+    },
+    {
+        "id": 65443,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Stop Codon is/are: ",
+        "op": [
+            "UAG",
+            "UGA",
+            "UAA",
+            "All"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00",
+        "ca": "All"
+    },
+    {
+        "id": 65679,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Bioinformatics helps us to understand the layer folding of proteins that how they are proceed and helps us to know that how protein _____________ with each other and how a drug can affect or stimulate a protein. ",
+        "op": [
+            "Interact",
+            "None",
+            "Behave",
+            "Compare"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00",
+        "ca": "Interact"
+    },
+    {
+        "id": 65680,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "Bioinformatics helps us to understand the whole system of a single cell, in that cell how organelles, gene, proteins and metabolites are interconnected in a single unified system (cell). ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 65681,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": " is a hereditary material present in all living organisms ",
+        "op": [
+            "DNA",
+            "RNA",
+            "Nucleotide",
+            "Protein"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00",
+        "ca": "DNA"
+    },
+    {
+        "id": 65682,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "The central dogma outlines the flow of genetic information during growth and division of the cells. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 65910,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "DNA molecule make RNA and RNA make the protein and DNA differ from RNA in nature due to sugar and nitrogenous base. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 65925,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "30 December 2025",
+        "qt": "DNA molecule although is double stranded and RNA is single stranded but there is difference in sugar composition and in one nitrogenous base i.e., in DNA Thymine present while in RNA Uracil present. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 67839,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Molecule of DNA contains only four base pairs (A, T, C, and G) which are repeated thousands of time and Adenine “A” pairs with Thymine “T” by ______ Hydrogen bonding, While Cytosine “C” binds with Guanine “G” by ______ Hydrogen bonding. ",
+        "op": [
+            "Two, Four",
+            "Three, Two",
+            "Three, Four",
+            "Two, Three"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "Two, Three"
+    },
+    {
+        "id": 67901,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "AUG or ATG is the ____________.  ",
+        "op": [
+            "Stop Codon",
+            "Start Codon"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "Start Codon"
+    },
+    {
+        "id": 67902,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "During cell division each daughter cell receives a copy of the genome of the child cell. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 67942,
+        "cc": "BIF101",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In __________ we can identify the deficiency of low proteins in any patient’s body tissue ",
+        "op": [
+            "Genomics",
+            "None",
+            "Transcriptomic",
+            "Proteomics"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "Proteomics"
+    }
+]

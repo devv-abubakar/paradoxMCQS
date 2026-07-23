@@ -1,0 +1,392 @@
+[
+    {
+        "id": 37103,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Lysine is represented by one-letter code i.e.,",
+        "op": [
+            "I",
+            "Y",
+            "L",
+            "K"
+        ],
+        "created_at": "2026-07-01T22:27:53.328376+00:00",
+        "ca": "K"
+    },
+    {
+        "id": 37104,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "At isoelectric pH, an amino acid exists as",
+        "op": [
+            "None of these",
+            "Cation",
+            "Zwitterion",
+            "Anion"
+        ],
+        "created_at": "2026-07-01T22:28:13.373399+00:00",
+        "ca": "Zwitterion"
+    },
+    {
+        "id": 37105,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is not the function of proteins?",
+        "op": [
+            "Fight against the invading pathogens",
+            "Helps in transporting oxygen in the blood",
+            "Helps in digesting food",
+            "Carries genetic information"
+        ],
+        "created_at": "2026-07-01T22:28:24.431411+00:00",
+        "ca": "Carries genetic information"
+    },
+    {
+        "id": 37106,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The peptide sequence tags are ……………............",
+        "op": [
+            "The partial sequence of a peptide that can be revealed by consecutive peaks",
+            "The sequence of a peptide that is produced after MS2",
+            "The variation in the fragmentation site of a peptide",
+            "The mass difference between consecutive peaks in a peptide sequence"
+        ],
+        "created_at": "2026-07-01T22:28:35.200459+00:00",
+        "ca": "The partial sequence of a peptide that can be revealed by consecutive peaks"
+    },
+    {
+        "id": 37107,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements is un-true about 1’ (Primary) structure of proteins?",
+        "op": [
+            "The 1-D (Primary) structure of proteins can be determined by Edman Degradation",
+            "The sequence of amino acids joined by a peptide bond",
+            "The Primary OR 1’ structure of a protein determines its initial properties.",
+            "The 1-D (Primary) structure of proteins can be determined by Nuclear Magnetic Resonance (NMR)"
+        ],
+        "created_at": "2026-07-01T22:29:11.710995+00:00",
+        "ca": "The 1-D (Primary) structure of proteins can be determined by Nuclear Magnetic Resonance (NMR)"
+    },
+    {
+        "id": 37108,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements are true about 3-D (Tertiary) structure of proteins?",
+        "op": [
+            "Primary structure of proteins determines the tertiary structure",
+            "3’ Structures of proteins are formed as a result of hydrophobic interactions between polar R-groups",
+            "Combinations of Alpha helices, Beta sheets, coils and loops help form 3’ structures",
+            "3’ structures are formed by different peptide chains that make up the proteins"
+        ],
+        "created_at": "2026-07-01T22:29:34.881543+00:00",
+        "ca": "Combinations of Alpha helices, Beta sheets, coils and loops help form 3’ structures"
+    },
+    {
+        "id": 37109,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is responsible for determining a protein’s 3D shape?",
+        "op": [
+            "Peptide bond",
+            "Interaction with molecular chaperons",
+            "Interaction with other polypeptides",
+            "Amino acid sequence"
+        ],
+        "created_at": "2026-07-01T22:30:00.729883+00:00",
+        "ca": "Amino acid sequence"
+    },
+    {
+        "id": 37110,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The significance of the number of PSTs that a protein reports ……..............",
+        "op": [
+            "The more PSTs a protein reports, the more likely it is to be a peptide",
+            "The more PSTs a protein reports, the more likely it is to be a protein fragment",
+            "All of the these",
+            "The more PSTs a protein reports, the more likely it is to be the precursor protein"
+        ],
+        "created_at": "2026-07-01T22:30:11.466189+00:00",
+        "ca": "The more PSTs a protein reports, the more likely it is to be the precursor protein"
+    },
+    {
+        "id": 37111,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Beeta-pleated sheets are the examples of ...........................",
+        "op": [
+            "2’ OR 2-D OR Secondary Structure of proteins",
+            "4’ OR 4-D OR Quaternary Structure of proteins",
+            "1’ OR 1-D OR Primary Structure of proteins",
+            "3’ OR 3-D OR Tertiary Structure of proteins"
+        ],
+        "created_at": "2026-07-01T22:30:24.262076+00:00",
+        "ca": "2’ OR 2-D OR Secondary Structure of proteins"
+    },
+    {
+        "id": 37303,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The factors that affect the mass difference between consecutive peaks in a peptide sequence ……….......................",
+        "op": [
+            "The mass of the amino acids",
+            "All of the above",
+            "The fragmentation site of the peptide",
+            "The type of fragmentation technique"
+        ],
+        "created_at": "2026-07-02T03:04:55.991465+00:00",
+        "ca": "The mass of the amino acids"
+    },
+    {
+        "id": 37304,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The purpose of MS2 in protein identification is ………..................",
+        "op": [
+            "To identify the protein in the sample",
+            "To determine the sequence of the protein",
+            "To identify the fragmentation technique used",
+            "To measure the mass of the intact molecule in sample"
+        ],
+        "created_at": "2026-07-02T03:05:15.039686+00:00",
+        "ca": "To determine the sequence of the protein"
+    },
+    {
+        "id": 37305,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements is un-true about 2’ (Secondary) structure of proteins?",
+        "op": [
+            "2’ Structures of proteins are formed as a result of Hydrogen bond formation between N and C termini in a protein backbone",
+            "2’ structures of proteins include Alpha helices and Beta sheets",
+            "2’ Structures of proteins are formed as a result of peptides bond formation between N and C termini in a protein backbone",
+            "Hydrogen bonds are the reason of 2’ structures of proteins"
+        ],
+        "created_at": "2026-07-02T03:05:32.479388+00:00",
+        "ca": "2’ Structures of proteins are formed as a result of peptides bond formation between N and C termini in a protein backbone"
+    },
+    {
+        "id": 37306,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements is un-true about proteins?",
+        "op": [
+            "Proteins properties are linked to the properties of amino acids.",
+            "Proteins structures are organized into 1’, 2’, 3’, 4’ modular conformations",
+            "Proteins are made by transcription of amino acids",
+            "Proteins spontaneously fold to take 3D forms"
+        ],
+        "created_at": "2026-07-02T03:06:08.085981+00:00",
+        "ca": "Proteins are made by transcription of amino acids"
+    },
+    {
+        "id": 37307,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "How many bonded atoms are required to constitute a dihedral angle, such as phi or psi?",
+        "op": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "created_at": "2026-07-02T03:06:33.544562+00:00",
+        "ca": "4"
+    },
+    {
+        "id": 37308,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Select the appropriate option of fragmentation techniques that can be used in MS2?",
+        "op": [
+            "CID",
+            "ECD",
+            "ETD",
+            "All of the above"
+        ],
+        "created_at": "2026-07-02T03:06:50.233605+00:00",
+        "ca": "All of the above"
+    },
+    {
+        "id": 37556,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Proteins are made-up of amino acids; these amino acids are linked together by which of the following bonds?",
+        "op": [
+            "Peptide bond",
+            "Ionic bond",
+            "Hydrogen bond",
+            "Disulfide bond"
+        ],
+        "created_at": "2026-07-02T05:14:56.11477+00:00",
+        "ca": "Peptide bond"
+    },
+    {
+        "id": 37565,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The final resort in protein search and identification …………...............",
+        "op": [
+            "Comparing the mass of the intact molecule in the sample with the mass of known proteins",
+            "Determining the sequence of the protein",
+            "Identifying the fragmentation technique used",
+            "Matching experimental fragments with in silico fragments"
+        ],
+        "created_at": "2026-07-02T05:17:50.185271+00:00",
+        "ca": "Matching experimental fragments with in silico fragments"
+    },
+    {
+        "id": 37566,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The significance of the score that is calculated when comparing the mass of the intact molecule from MS2 with the theoretical mass of database proteins ……………...............",
+        "op": [
+            "The score is a measure of the confidence that the protein that was originally analyzed has been identified",
+            "The score is a measure of the accuracy of the mass spectrometer",
+            "The score is a measure of the fragmentation efficiency of MS2",
+            "The score is a measure of the molecular weight of the protein"
+        ],
+        "created_at": "2026-07-02T05:18:06.440418+00:00",
+        "ca": "The score is a measure of the confidence that the protein that was originally analyzed has been identified"
+    },
+    {
+        "id": 37567,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The peptide sequence tags used to identify proteins ………….............",
+        "op": [
+            "By comparing the mass difference between consecutive peaks to the mass of known amino acids",
+            "By using a database of known peptide sequence tags to identify the protein",
+            "All of the above",
+            "By comparing the mass of the peptide sequence tag to the mass of known proteins"
+        ],
+        "created_at": "2026-07-02T05:18:25.29659+00:00",
+        "ca": "By using a database of known peptide sequence tags to identify the protein"
+    },
+    {
+        "id": 37568,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which one of the following bonds, is the reason of 2-D (2’ OR Secondary) structure formation of protein?",
+        "op": [
+            "Peptides bond",
+            "Hydrogen bond",
+            "Ionic bond",
+            "Covalent bond"
+        ],
+        "created_at": "2026-07-02T05:19:10.153074+00:00",
+        "ca": "Hydrogen bond"
+    },
+    {
+        "id": 37571,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements is true about proteins?",
+        "op": [
+            "Proteins are polymers of amino acids",
+            "Proteins are polymers of glucose",
+            "Proteins are polymers of peptide bonds",
+            "Proteins are polymers of di-sulfide bridges"
+        ],
+        "created_at": "2026-07-02T05:20:12.677953+00:00",
+        "ca": "Proteins are polymers of amino acids"
+    },
+    {
+        "id": 37637,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The purpose of MS1 in tandem mass spectrometry (MS/MS) is …………..............",
+        "op": [
+            "To fragment the intact sample molecule into two parts",
+            "To measure the molecular weight of the intake sample molecule",
+            "To match the experimental mass with theoretical peptides from a database",
+            "To measure the mass of the fragments produced by MS2"
+        ],
+        "created_at": "2026-07-02T05:46:41.819973+00:00",
+        "ca": "To measure the molecular weight of the intake sample molecule"
+    },
+    {
+        "id": 37638,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The 1-D (Primary) structure of proteins can be determined by ...............................",
+        "op": [
+            "Tandem Mass Spectrometry",
+            "Nuclear Magnetic Resonance (NMR)",
+            "Both Edman Degradation & NMR",
+            "Edman Degradation"
+        ],
+        "created_at": "2026-07-02T05:47:02.515924+00:00",
+        "ca": "Edman Degradation"
+    },
+    {
+        "id": 37639,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The purpose of MS1 in protein identification ……………...........",
+        "op": [
+            "To identify the fragmentation technique used",
+            "To measure the mass of the intact molecule in the sample",
+            "To determine the sequence of the protein",
+            "To identify the protein in the sample"
+        ],
+        "created_at": "2026-07-02T05:48:04.884214+00:00",
+        "ca": "To measure the mass of the intact molecule in the sample"
+    },
+    {
+        "id": 37724,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "How is the experimental mass reported from MS2 matched with theoretical peptides from a database?",
+        "op": [
+            "The experimental mass is matched to the theoretical mass of the peptide with the closest match",
+            "The experimental mass is used to calculate the sequence of the peptide",
+            "Both experimental mass is compared to the theoretical masses of all the peptides in the database & experimental mass is matched to the theoretical mass of the peptide with the closest match",
+            "The experimental mass is compared to the theoretical masses of all the peptides in the database"
+        ],
+        "created_at": "2026-07-02T06:27:31.90087+00:00",
+        "ca": "Both experimental mass is compared to the theoretical masses of all the peptides in the database & experimental mass is matched to the theoretical mass of the peptide with the closest match"
+    },
+    {
+        "id": 37809,
+        "cc": "BIF401",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following statements are true about quaternary structure of proteins?",
+        "op": [
+            "4’ (Quaternary) structure of proteins are formed by peptide chains that make-up the protein",
+            "4’ Structures of proteins are formed as a result of hydrophobic interactions between non-polar R-groups",
+            "Combinations of Alpha helices, Beta sheets, coils and loops help form 3’ structures",
+            "Proteins comprised of only single chain have a quaternary structure"
+        ],
+        "created_at": "2026-07-02T06:58:48.269819+00:00",
+        "ca": "4’ (Quaternary) structure of proteins are formed by peptide chains that make-up the protein"
+    }
+]

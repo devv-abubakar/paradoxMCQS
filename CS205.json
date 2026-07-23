@@ -1,0 +1,1247 @@
+[
+    {
+        "id": 23186,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which best practices are to be followed for applying security patches?",
+        "op": [
+            "There should be a working backup",
+            "All the updates are necessary to install",
+            "All the updates are necessary to install and working backup",
+            "A good change control procedure and working backup"
+        ],
+        "created_at": "2026-06-28T19:00:43.157203+00:00",
+        "ca": "A good change control procedure and working backup"
+    },
+    {
+        "id": 23191,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Automated configuration monitoring tools should compliant with which protocol to streamline reporting?",
+        "op": [
+            "Cis",
+            "Disa",
+            "Fisma",
+            "Scap"
+        ],
+        "created_at": "2026-06-28T19:01:00.32642+00:00",
+        "ca": "Scap"
+    },
+    {
+        "id": 23196,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "why security engineering is placed at layer 3 of transformation model?",
+        "op": [
+            "Its not very beneficial to implement so kept at the later stage",
+            "Because it’s a low hanging fruit.",
+            "Requires very less time and effort.",
+            "Consists of complicated security activities which take more time and effort"
+        ],
+        "created_at": "2026-06-28T19:01:14.294049+00:00",
+        "ca": "Consists of complicated security activities which take more time and effort"
+    },
+    {
+        "id": 23204,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What is the first step in running a policy compliance scan through qualys?",
+        "op": [
+            "Build a policy",
+            "Add IP address to scan",
+            "Configure authentication",
+            "Configure scan settings"
+        ],
+        "created_at": "2026-06-28T19:01:34.963769+00:00",
+        "ca": "Build a policy"
+    },
+    {
+        "id": 23209,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Anthem insurance breach 2014 was initiated through?",
+        "op": [
+            "Man in the middle attack",
+            "Windows vulnerability",
+            "Phishing email",
+            "Sql injection attack"
+        ],
+        "created_at": "2026-06-28T19:01:49.069191+00:00",
+        "ca": "Phishing email"
+    },
+    {
+        "id": 23219,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "As per carneige mellon university computing consortium commercial software contains?",
+        "op": [
+            "20 to 30 bugs for every 1000 lines of code",
+            "40 to 50 bugs for every 1000 lines of code",
+            "40 to 50 bugs for every 10,000 lines of code",
+            "20 to 30 bugs for every 10,000 lines of code"
+        ],
+        "created_at": "2026-06-28T19:02:05.856568+00:00",
+        "ca": "20 to 30 bugs for every 1000 lines of code"
+    },
+    {
+        "id": 23225,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which team tests the patches in test environment in vulnerability management process?",
+        "op": [
+            "Information security team",
+            "IT operations team",
+            "Risk & compliance team",
+            "Business team"
+        ],
+        "created_at": "2026-06-28T19:02:15.929941+00:00",
+        "ca": "IT operations team"
+    },
+    {
+        "id": 23229,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following modules are displayed on home screen of qualys trial version?",
+        "op": [
+            "Vulnerability management and policy compliance",
+            "File integrity monitoring",
+            "Threat protection",
+            "Asset review and administration"
+        ],
+        "created_at": "2026-06-28T19:02:25.354968+00:00",
+        "ca": "Vulnerability management and policy compliance"
+    },
+    {
+        "id": 23234,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How security of outsourced services can be evaluated?",
+        "op": [
+            "Spot security checks",
+            "Ask for 3rd party security review",
+            "Include outsourced scope in internal audit",
+            "Vulnerability assessment and penetration testing"
+        ],
+        "created_at": "2026-06-28T19:02:28.591764+00:00",
+        "ca": "Ask for 3rd party security review"
+    },
+    {
+        "id": 23236,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In an enterprise which software should be allowed to install and execute?",
+        "op": [
+            "Softwares displayed on notice board.",
+            "Softwares included in white-list.",
+            "Any freely available software.",
+            "Only paid software."
+        ],
+        "created_at": "2026-06-28T19:02:32.078979+00:00",
+        "ca": "Softwares included in white-list."
+    },
+    {
+        "id": 23246,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What practice of VM scanning mostly organizations follow in our local market?",
+        "op": [
+            "Monthly scan and remediate",
+            "Fortnightly scan and remediate",
+            "Once a year or not at all",
+            "Quarterly scan and remediate"
+        ],
+        "created_at": "2026-06-28T19:02:50.092268+00:00",
+        "ca": "Once a year or not at all"
+    },
+    {
+        "id": 23253,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which screen is displayed immediately after login screen in NESSUS scanner?",
+        "op": [
+            "Scan screen",
+            "Vulnerability management screen",
+            "Policy compliance screen",
+            "Dashboard"
+        ],
+        "created_at": "2026-06-28T19:03:00.053559+00:00",
+        "ca": "Scan screen"
+    },
+    {
+        "id": 23260,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which one of the following is considered the first step in a vulnerability scan?",
+        "op": [
+            "Port scanning",
+            "Firewall detection",
+            "TCP/UDP service delivery",
+            "Checking if the remote host is alive"
+        ],
+        "created_at": "2026-06-28T19:03:11.360154+00:00",
+        "ca": "Checking if the remote host is alive"
+    },
+    {
+        "id": 23271,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In an enterprise which softwares should be allowed to install and execute?",
+        "op": [
+            "Any freely available software",
+            "Softwares displayed on notice board",
+            "Only paid software",
+            "Softwares included in whitelist"
+        ],
+        "created_at": "2026-06-28T19:03:23.553538+00:00",
+        "ca": "Softwares included in whitelist"
+    },
+    {
+        "id": 23274,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following policies NESSUS can scan for compliance?",
+        "op": [
+            "CIS benchmarks",
+            "SEI guidelines",
+            "NIST controls",
+            "OWAPS top 10"
+        ],
+        "created_at": "2026-06-28T19:03:27.639555+00:00",
+        "ca": "CIS benchmarks"
+    },
+    {
+        "id": 23280,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following function is performed by IT operation team in vulnerability management process?",
+        "op": [
+            "Takes backup and downtime",
+            "Run vulnerability scanner",
+            "Share report with management",
+            "Tracks remediation timeline"
+        ],
+        "created_at": "2026-06-28T19:03:36.282225+00:00",
+        "ca": "Takes backup and downtime"
+    },
+    {
+        "id": 23340,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What feature set QUALYS scanner offers?",
+        "op": [
+            "Not scalable",
+            "Cloud based service",
+            "Quarterly subscription",
+            "Cost effective"
+        ],
+        "created_at": "2026-06-28T19:05:01.104064+00:00",
+        "ca": "Cloud based service"
+    },
+    {
+        "id": 23349,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following statement is correct?",
+        "op": [
+            "NVD is superset of CVSS",
+            "CVE is superset of NVD",
+            "NVD is superset of CVE",
+            "NVD is an open standard for assigning vulnerability impacts"
+        ],
+        "created_at": "2026-06-28T19:05:12.529305+00:00",
+        "ca": "NVD is superset of CVE"
+    },
+    {
+        "id": 23698,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following scan is deeper and gives more detailed scanning results?",
+        "op": [
+            "Un-credentialed vulnerability discovery",
+            "Credentialed vulnerability scanning",
+            "Initial options profile scan",
+            "Asset discovery scan"
+        ],
+        "created_at": "2026-06-28T19:12:18.758868+00:00",
+        "ca": "Credentialed vulnerability scanning"
+    },
+    {
+        "id": 23746,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What should standard secure configuration images represent?",
+        "op": [
+            "Hardened versions of OS only.",
+            "Hardened versions of underlying OS and application installed on system.",
+            "Hardened versions of application installed on system only.",
+            "Default configuration version of OS only."
+        ],
+        "created_at": "2026-06-28T19:14:09.468359+00:00",
+        "ca": "Hardened versions of underlying OS and application installed on system."
+    },
+    {
+        "id": 23867,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Against which frameworks nessus scanner gives configuration auditing feature?",
+        "op": [
+            "CIS and DISA",
+            "SCAP AND SOX",
+            "CYBERSCOPE AND GLBA",
+            "HIPAA AND HITECH"
+        ],
+        "created_at": "2026-06-28T19:17:34.184332+00:00",
+        "ca": "CIS and DISA"
+    },
+    {
+        "id": 23902,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following tools are offered free by QUALYS?",
+        "op": [
+            "PCI compliance",
+            "Web application firewall",
+            "Browser check",
+            "Web application scanner"
+        ],
+        "created_at": "2026-06-28T19:18:27.692695+00:00",
+        "ca": "Browser check"
+    },
+    {
+        "id": 23980,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Against which frameworks NESSUS scanner gives configuration auditing feature?",
+        "op": [
+            "CYBERSCOPE AND GLBA",
+            "CIS and DISA",
+            "HIPAA AND HITECH",
+            "FFIEC AND FISMA"
+        ],
+        "created_at": "2026-06-28T19:20:32.471686+00:00",
+        "ca": "CIS and DISA"
+    },
+    {
+        "id": 24451,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which types of plugins are supported by NESSUS scanner?",
+        "op": [
+            "CIS and DISA",
+            "SEI",
+            "Sans and NIST",
+            "OWASP"
+        ],
+        "created_at": "2026-06-28T19:40:47.919065+00:00",
+        "ca": "CIS and DISA"
+    },
+    {
+        "id": 24468,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which activities are carried out at stage 1 of transformation model?",
+        "op": [
+            "Establish a MSB",
+            "Apply CIS/DISA benchmarks",
+            "Take stock of the assets and prioritize",
+            "All of the given"
+        ],
+        "created_at": "2026-06-28T19:42:02.375636+00:00",
+        "ca": "Take stock of the assets and prioritize"
+    },
+    {
+        "id": 24571,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following are common vulnerability scanners?",
+        "op": [
+            "Forcepoint & redwolf",
+            "Nessus & rapid7",
+            "Openvas & qualys",
+            "Nessus, rapid7, Openvas & qualys"
+        ],
+        "created_at": "2026-06-28T19:51:31.86446+00:00",
+        "ca": "Nessus, rapid7, Openvas & qualys"
+    },
+    {
+        "id": 24689,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What information we get from open TCP and UDP ports?",
+        "op": [
+            "Whether host is alive or not",
+            "Which OS is running on the host",
+            "Network details of the host",
+            "Which services are running on host"
+        ],
+        "created_at": "2026-06-28T20:03:42.620311+00:00",
+        "ca": "Which services are running on host"
+    },
+    {
+        "id": 24694,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which subscription service model QUALYS offers?",
+        "op": [
+            "Quarterly subscription",
+            "Monthly subscription",
+            "Bi-annual subscription",
+            "Annual subscription"
+        ],
+        "created_at": "2026-06-28T20:03:58.538427+00:00",
+        "ca": "Annual subscription"
+    },
+    {
+        "id": 24698,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following are considered cumulative and product specific?",
+        "op": [
+            "Hotfixes,Service packs",
+            "Qfes,Hotfixes",
+            "Service packs",
+            "Security patches,Service packs"
+        ],
+        "created_at": "2026-06-28T20:04:19.441751+00:00",
+        "ca": "Service packs"
+    },
+    {
+        "id": 25234,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How many TCP and UDP ports are scanned in a default scan?",
+        "op": [
+            "No ports are scanned by default",
+            "1900 UDP ports and 180 TCP ports",
+            "65, 535 TCP ports",
+            "1900 TCP ports and 180 UDP ports"
+        ],
+        "created_at": "2026-06-28T21:59:17.045003+00:00",
+        "ca": "1900 TCP ports and 180 UDP ports"
+    },
+    {
+        "id": 42354,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How security of outsourced services can be evaluated?",
+        "op": [
+            "Spot security checks",
+            "Ask for 3rd party security review",
+            "Include outsourced scope in internal audit",
+            "Vulnerability assessment and penetration testing"
+        ],
+        "created_at": "2026-06-29T18:29:40.188595+00:00",
+        "ca": "Ask for 3rd party security review"
+    },
+    {
+        "id": 42355,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In an enterprise which softwares should be allowed to install and execute?",
+        "op": [
+            "Any freely available software",
+            "Softwares included in whitelist",
+            "Only paid software",
+            "Softwares displayed on notice board"
+        ],
+        "created_at": "2026-06-29T18:31:35.799697+00:00",
+        "ca": "Softwares included in whitelist"
+    },
+    {
+        "id": 42356,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Against which frameworks NESSUS scanner gives configuration auditing feature?",
+        "op": [
+            "CYBERSCOPE AND GLBA",
+            "CIS and DISA",
+            "FFIEC AND FISMA",
+            "HIPAA AND HITECH"
+        ],
+        "created_at": "2026-06-29T18:32:46.698186+00:00",
+        "ca": "CIS and DISA"
+    },
+    {
+        "id": 42357,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which subscription service model QUALYS offers?",
+        "op": [
+            "Annual subscription",
+            "Bi-annual subscription",
+            "Quarterly subscription",
+            "Monthly subscription"
+        ],
+        "created_at": "2026-06-29T18:33:43.311119+00:00",
+        "ca": "Annual subscription"
+    },
+    {
+        "id": 42358,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which team tests the patches in test environment in vulnerability management process?",
+        "op": [
+            "IT operations team",
+            "Information security team",
+            "Business team",
+            "Risk & compliance team"
+        ],
+        "created_at": "2026-06-29T18:34:19.989644+00:00",
+        "ca": "IT operations team"
+    },
+    {
+        "id": 42359,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What practice of VM scanning mostly organizations follow in our local market?",
+        "op": [
+            "Quarterly scan and remediate",
+            "Monthly scan and remediate",
+            "Fortnightly scan and remediate",
+            "Once a year or not at all"
+        ],
+        "created_at": "2026-06-29T18:34:45.513698+00:00",
+        "ca": "Once a year or not at all"
+    },
+    {
+        "id": 42360,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which activities are carried out at stage 1 of transformation model?",
+        "op": [
+            "Apply CIS/DISA benchmarks",
+            "Take stock of the assets and prioritize",
+            "All of the given",
+            "Establish a MSB"
+        ],
+        "created_at": "2026-06-29T18:36:32.053218+00:00",
+        "ca": "Take stock of the assets and prioritize"
+    },
+    {
+        "id": 42361,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following function is performed by IT operation team in vulnerability management process?",
+        "op": [
+            "Share report with management",
+            "Run vulnerability scanner",
+            "Takes backup and downtime",
+            "Tracks remediation timeline"
+        ],
+        "created_at": "2026-06-29T18:38:03.890022+00:00",
+        "ca": "Takes backup and downtime"
+    },
+    {
+        "id": 42362,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Anthem insurance breach 2014 was initiated through?",
+        "op": [
+            "Sql injection attack",
+            "Windows vulnerability",
+            "Phishing email",
+            "Man in the middle attack"
+        ],
+        "created_at": "2026-06-29T18:38:36.817034+00:00",
+        "ca": "Phishing email"
+    },
+    {
+        "id": 42363,
+        "cc": "CS205",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In an enterprise which software should be allowed to install and execute?",
+        "op": [
+            "Softwares displayed on notice board.",
+            "Any freely available software.",
+            "Softwares included in white-list.",
+            "Only paid software."
+        ],
+        "created_at": "2026-06-29T18:39:33.849303+00:00",
+        "ca": "Softwares included in white-list."
+    },
+    {
+        "id": 57136,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What should a system do whenever an administrator account is added or removed?",
+        "op": [
+            "Require super admin rights",
+            "Should not allow",
+            "Issue a log entry and alert",
+            "Should block that account"
+        ],
+        "created_at": "2026-07-07T19:02:24.956398+00:00",
+        "ca": "Issue a log entry and alert"
+    },
+    {
+        "id": 57140,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Why cis recommends to configure monitoring system in an organization’s network?",
+        "op": [
+            "To record the network packets passing through the boundary",
+            "To detect compromise of systems at organization’s network boundaries",
+            "To block data loss through organization’s network boundaries",
+            "To block malicious traffic at organization’s network boundaries"
+        ],
+        "created_at": "2026-07-07T19:02:39.129071+00:00",
+        "ca": "To detect compromise of systems at organization’s network boundaries"
+    },
+    {
+        "id": 57144,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What should an organization do to control access to sensitive information on need-to-know basis?",
+        "op": [
+            "Locate all sensitive information on separate vlans",
+            "Locate all sensitive information on single vlans",
+            "Store all sensitive information on single server",
+            "Store sensitive information on multiple servers"
+        ],
+        "created_at": "2026-07-07T19:02:51.40871+00:00",
+        "ca": "Locate all sensitive information on separate vlans"
+    },
+    {
+        "id": 57150,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When a vulnerability scan is run and report is generated and shared with respective resources, which vulnerabilities they should fix on priority basis?",
+        "op": [
+            "Medium risk vulnerabilities",
+            "Critical risk vulnerabilities",
+            "High risk vulnerabilities",
+            "Low risk vulnerabilities"
+        ],
+        "created_at": "2026-07-07T19:03:08.307262+00:00",
+        "ca": "Critical risk vulnerabilities"
+    },
+    {
+        "id": 57153,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "From which type of systems URL requests should be logged in order to identify potentially malicious activity?",
+        "op": [
+            "On-site devices",
+            "Mobile devices",
+            "Off-site devices",
+            "Each of the organization’s system"
+        ],
+        "created_at": "2026-07-07T19:03:24.032161+00:00",
+        "ca": "Each of the organization’s system"
+    },
+    {
+        "id": 57163,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "While implementing the 4-layer security transformation model.",
+        "op": [
+            "It is suggested to have a high level and minimal (concise) policy in place",
+            "There should be absolutely no policy in place",
+            "It will be challenging to find suitable and trained security resources",
+            "Policies and procedures are not at all required"
+        ],
+        "created_at": "2026-07-07T19:04:00.992188+00:00",
+        "ca": "It is suggested to have a high level and minimal (concise) policy in place"
+    },
+    {
+        "id": 57166,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Automated tools should be used to verify and compare the network devices configuration with.",
+        "op": [
+            "Some 3rd party recommended configuration",
+            "Approved security configuration",
+            "Default security configuration released by vendor",
+            "Latest security configuration released by vendor"
+        ],
+        "created_at": "2026-07-07T19:04:20.296328+00:00",
+        "ca": "Approved security configuration"
+    },
+    {
+        "id": 57169,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Boundary defense controls comes under which category of cis critical controls?",
+        "op": [
+            "Organizational controls",
+            "Foundational controls",
+            "Advanced controls",
+            "Basic controls"
+        ],
+        "created_at": "2026-07-07T19:04:34.056107+00:00",
+        "ca": "Foundational controls"
+    },
+    {
+        "id": 57172,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "After getting vulnerability scanning results patches should be applied to?",
+        "op": [
+            "Client machines only",
+            "Network devices only",
+            "All the systems throughout the organization",
+            "Critical servers only"
+        ],
+        "created_at": "2026-07-07T19:04:45.936618+00:00",
+        "ca": "All the systems throughout the organization"
+    },
+    {
+        "id": 57439,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Wireless access control comes under which category of cis top 20 controls?",
+        "op": [
+            "Advanced",
+            "Organizational",
+            "Basic",
+            "Foundational"
+        ],
+        "created_at": "2026-07-07T19:21:19.431272+00:00",
+        "ca": "Foundational"
+    },
+    {
+        "id": 57443,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The 4-layer security transformation model.",
+        "op": [
+            "Is adapted to solve Pakistan’s security posture challenges while being practical not to waste time on security governance in the absence of solid underlying security controls",
+            "Will be rejected by the it dept as it takes too much hard work",
+            "Takes too much time and effort to implement",
+            "Is overkill"
+        ],
+        "created_at": "2026-07-07T19:21:43.271108+00:00",
+        "ca": "Is adapted to solve Pakistan’s security posture challenges while being practical not to waste time on security governance in the absence of solid underlying security controls"
+    },
+    {
+        "id": 57446,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following tools can be used to enforce access controls to data?",
+        "op": [
+            "Security information and event management system",
+            "File integrity monitoring solution",
+            "Host-based data loss prevention (dlp)",
+            "Network-based intrusion detection system"
+        ],
+        "created_at": "2026-07-07T19:21:57.082497+00:00",
+        "ca": "Host-based data loss prevention (dlp)"
+    },
+    {
+        "id": 57448,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How can an authorized wireless access point connected to a wired network can be detected?",
+        "op": [
+            "Through network-based intrusion detection system",
+            "Through host-based data loss prevention (dlp)",
+            "Through file integrity monitoring solution",
+            "Through wireless intrusion detection system"
+        ],
+        "created_at": "2026-07-07T19:22:10.15096+00:00",
+        "ca": "Through wireless intrusion detection system"
+    },
+    {
+        "id": 57453,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Generally speaking, security implementation in Pakistan is.",
+        "op": [
+            "Easy since lot of cost effective and trained resources are available in the market",
+            "Robust and strong",
+            "One generation behind that of it",
+            "In line with it progress"
+        ],
+        "created_at": "2026-07-07T19:22:58.183926+00:00",
+        "ca": "One generation behind that of it"
+    },
+    {
+        "id": 57457,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In a large-sized security organization in Pakistan, it is likely the number of security staff will be.",
+        "op": [
+            "1-5",
+            "Over 50",
+            "30",
+            "5-10"
+        ],
+        "created_at": "2026-07-07T19:23:33.715194+00:00",
+        "ca": "5-10"
+    },
+    {
+        "id": 57461,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per cis framework what is the best practice to store logs generated from system?",
+        "op": [
+            "Store logs on the same machine which generates",
+            "Store logs on a machine other than which generates",
+            "Store logs on different dispersed locations",
+            "Aggregate logs to a central management system"
+        ],
+        "created_at": "2026-07-07T19:23:53.66765+00:00",
+        "ca": "Aggregate logs to a central management system"
+    },
+    {
+        "id": 57479,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If a system in an organization gets compromised, how can we prevent an attacker to compromise the neighboring systems?",
+        "op": [
+            "Through antivirus",
+            "Through system firewall",
+            "Through network-based intrusion detection system(ips)",
+            "Through network-based intrusion prevention system(ips)"
+        ],
+        "created_at": "2026-07-07T19:28:24.750441+00:00",
+        "ca": "Through system firewall"
+    },
+    {
+        "id": 57495,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Centrally managed anti-malware software should be used in an organization to.",
+        "op": [
+            "Continuously monitor and defend organization’s servers and workstations",
+            "Continuously monitor and defend organization’s workstations",
+            "Continuously monitor and defend organization’s edge routers",
+            "Continuously monitor and defend organization’s servers"
+        ],
+        "created_at": "2026-07-07T19:31:18.30348+00:00",
+        "ca": "Continuously monitor and defend organization’s servers and workstations"
+    },
+    {
+        "id": 57499,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per malware defense control why DNS query logging should be enabled?",
+        "op": [
+            "To lower the chance of spoofed or modified emails from valid email addresses",
+            "analyze and block inbound email attachments with malicious behavior",
+            "Continuously monitor and defend organization’s servers and workstations",
+            "To detect host-name lookup for known malicious domains"
+        ],
+        "created_at": "2026-07-07T19:32:10.370566+00:00",
+        "ca": "To detect host-name lookup for known malicious domains"
+    },
+    {
+        "id": 57508,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Each person with administrator account should be authorized by?",
+        "op": [
+            "Network administrator",
+            "Help-desk team",
+            "Senior executive",
+            "System administrator"
+        ],
+        "created_at": "2026-07-07T19:34:22.970584+00:00",
+        "ca": "Senior executive"
+    },
+    {
+        "id": 57509,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per cis critical controls from how many minimum synchronized time resources all networks devices and servers should retrieve time?",
+        "op": [
+            "One",
+            "Three",
+            "As many as possible",
+            "Two"
+        ],
+        "created_at": "2026-07-07T19:34:39.444765+00:00",
+        "ca": "Two"
+    },
+    {
+        "id": 57512,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Frequency of running automated vulnerability scanner against all systems on a network in an enterprise should be?",
+        "op": [
+            "Quarterly",
+            "Monthly",
+            "Weekly",
+            "Fortnightly"
+        ],
+        "created_at": "2026-07-07T19:35:29.778122+00:00",
+        "ca": "Weekly"
+    },
+    {
+        "id": 57516,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In a medium-sized security organization in Pakistan, it is likely the number of security staff will be.",
+        "op": [
+            "10-15",
+            "15-25",
+            "1-5",
+            "30+"
+        ],
+        "created_at": "2026-07-07T19:36:12.31984+00:00",
+        "ca": "1-5"
+    },
+    {
+        "id": 57535,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which cloud storage should be allowed to use in organization as per cis?",
+        "op": [
+            "Private cloud storage",
+            "Authorized cloud storage",
+            "Public cloud storage",
+            "Hybrid cloud storage"
+        ],
+        "created_at": "2026-07-07T19:41:07.502663+00:00",
+        "ca": "Authorized cloud storage"
+    },
+    {
+        "id": 57536,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In a large-sized security organization (belonging to a large-sized organization), the following security functions are likely to be found.",
+        "op": [
+            "Security infrastructure and security operations",
+            "Engineering, operations, governance, and frameworks/standards",
+            "Technical security support, security engineers",
+            "Operations and governance"
+        ],
+        "created_at": "2026-07-07T19:41:36.104619+00:00",
+        "ca": "Engineering, operations, governance, and frameworks/standards"
+    },
+    {
+        "id": 57539,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If multi-factor authentication is not supported then user accounts shall be required to?",
+        "op": [
+            "Use passwords longer than 14 characters",
+            "Use same password on all the systems",
+            "Use default passwords",
+            "Use short passwords which are easy to remember"
+        ],
+        "created_at": "2026-07-07T19:41:45.169252+00:00",
+        "ca": "Use passwords longer than 14 characters"
+    },
+    {
+        "id": 57540,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "According to this module, the main function of the ciso (in an organization where ciso is reporting to cio) is to conduct the following for the security program.",
+        "op": [
+            "Plan, build, and run",
+            "Perform security testing and accreditation",
+            "Performance management and progress review",
+            "Review, monitor, and propose"
+        ],
+        "created_at": "2026-07-07T19:42:10.98089+00:00",
+        "ca": "Review, monitor, and propose"
+    },
+    {
+        "id": 57546,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following can be used to block malicious traffic on organization’s network boundaries?",
+        "op": [
+            "Network-based intrusion prevention (ips) system",
+            "Host-based intrusion detection (ids) sensors",
+            "Host-based intrusion prevention (ips) system",
+            "Network-based intrusion detection (ids) sensors"
+        ],
+        "created_at": "2026-07-07T19:43:29.366778+00:00",
+        "ca": "Network-based intrusion prevention (ips) system"
+    },
+    {
+        "id": 57548,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following activity should be performed to test organizational readiness to identify and stop attacks or to respond quickly and effectively?",
+        "op": [
+            "Quarterly internal pen test",
+            "Annually external pen test",
+            "Quarterly external pen test",
+            "Periodic red team exercise"
+        ],
+        "created_at": "2026-07-07T19:44:03.164918+00:00",
+        "ca": "Periodic red team exercise"
+    },
+    {
+        "id": 57554,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What type of machine should network administrators use for administrative tasks?",
+        "op": [
+            "Email and browsing facility available",
+            "Have internet access",
+            "Isolated from organization’s primary network",
+            "Used for composing documents"
+        ],
+        "created_at": "2026-07-07T19:46:09.455497+00:00",
+        "ca": "Isolated from organization’s primary network"
+    },
+    {
+        "id": 57558,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following system configuration management tool is used for Linux systems?",
+        "op": [
+            "Puppet",
+            "Active directory",
+            "Fim",
+            "Cis cat pro"
+        ],
+        "created_at": "2026-07-07T19:48:31.110287+00:00",
+        "ca": "Puppet"
+    },
+    {
+        "id": 57561,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Security governance may be considered as.",
+        "op": [
+            "A parallel function to it governance",
+            "An out-dated concept which is no longer practical",
+            "A sub-function of the it governance framework",
+            "A function lying above the it governance framework"
+        ],
+        "created_at": "2026-07-07T19:49:28.783712+00:00",
+        "ca": "A sub-function of the it governance framework"
+    },
+    {
+        "id": 57565,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per cis which authentication protocols should be used by wireless networks?",
+        "op": [
+            "Which require bio-metrics for authentication",
+            "Which require digital certificates for authentication",
+            "Which require smart cards for authentication",
+            "Which require mutual multi-factor authentication"
+        ],
+        "created_at": "2026-07-07T19:50:22.727542+00:00",
+        "ca": "Which require digital certificates for authentication"
+    },
+    {
+        "id": 57578,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per limitation and control of network control of cis active ports, protocols and services should be associated to.",
+        "op": [
+            "All the assets in asset inventory",
+            "Hardware assets in asset inventory",
+            "Software assets in asset inventory",
+            "Active directory domain"
+        ],
+        "created_at": "2026-07-07T20:03:00.158289+00:00",
+        "ca": "Software assets in asset inventory"
+    },
+    {
+        "id": 57580,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Why should we use scap validated vulnerability scanner?",
+        "op": [
+            "Because of excellent reporting feature",
+            "Because it looks for both code-based and configuration-based vulnerabilities",
+            "Because it looks for code-based vulnerabilities",
+            "Because of in-depth scanning feature"
+        ],
+        "created_at": "2026-07-07T20:04:16.144088+00:00",
+        "ca": "Because it looks for both code-based and configuration-based vulnerabilities"
+    },
+    {
+        "id": 57581,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In which format results of penetration testing should be documented?",
+        "op": [
+            "PDF format",
+            "Machine readable standard",
+            "Excel format",
+            "XML format"
+        ],
+        "created_at": "2026-07-07T20:04:29.172394+00:00",
+        "ca": "Machine readable standard"
+    },
+    {
+        "id": 57582,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per cis critical security framework what is recommended for network boundaries of an organization?",
+        "op": [
+            "Deny communication over unauthorized TCP or UDP ports",
+            "Deny communication over unauthorized TCP ports",
+            "Deny communication with all open ports",
+            "Deny communication over unauthorized UDP ports"
+        ],
+        "created_at": "2026-07-07T20:04:38.962377+00:00",
+        "ca": "Deny communication over unauthorized TCP or UDP ports"
+    },
+    {
+        "id": 57583,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In which mode should vulnerability scanning be performed?",
+        "op": [
+            "Dedicated mode",
+            "Authenticated mode",
+            "Un-authenticated mode",
+            "Deep scan mode"
+        ],
+        "created_at": "2026-07-07T20:05:34.764221+00:00",
+        "ca": "Authenticated mode"
+    },
+    {
+        "id": 57584,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following can be used to look for unusual attack mechanisms on organization’s network boundaries?",
+        "op": [
+            "Host-based intrusion prevention (ips) system",
+            "Network-based intrusion prevention (ips) system",
+            "Network-based intrusion detection (ids) sensors",
+            "Host-based intrusion detection (ids) sensors"
+        ],
+        "created_at": "2026-07-07T20:05:35.322477+00:00",
+        "ca": "Network-based intrusion detection (ids) sensors"
+    },
+    {
+        "id": 57585,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Before deploying any new devices in a networked environment what should be done with passwords?",
+        "op": [
+            "Remove the passwords",
+            "Keep the default passwords",
+            "Create very small passwords",
+            "Change the default passwords"
+        ],
+        "created_at": "2026-07-07T20:08:17.656892+00:00",
+        "ca": "Change the default passwords"
+    },
+    {
+        "id": 57595,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The dedicated machine used by administrators for administrative tasks should have following features.",
+        "op": [
+            "Isolated from organization’s primary network",
+            "All routine operational functions can be performed on it",
+            "Have internet access",
+            "Email and browsing facility available"
+        ],
+        "created_at": "2026-07-07T20:18:22.444888+00:00",
+        "ca": "Isolated from organization’s primary network"
+    },
+    {
+        "id": 57598,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As per boundary defense control of cis what should be done with network traffic at proxy?",
+        "op": [
+            "Allow all the network traffic",
+            "Block all the network traffic",
+            "Use blacklist to allow access to sites without decrypting",
+            "Decrypt all encrypted network traffic prior to analyzing the content"
+        ],
+        "created_at": "2026-07-07T20:27:03.176563+00:00",
+        "ca": "Decrypt all encrypted network traffic prior to analyzing the content"
+    },
+    {
+        "id": 57631,
+        "cc": "CS205",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The main difference between security organization in a large-sized and medium sized organization is that the following is absent in a medium sized security organization.",
+        "op": [
+            "Security frameworks and standards",
+            "Ciso",
+            "Chief risk officer",
+            "Steering committee"
+        ],
+        "created_at": "2026-07-07T23:21:00.259082+00:00",
+        "ca": "Security frameworks and standards"
+    }
+]

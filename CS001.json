@@ -1,0 +1,752 @@
+[
+{
+    "id": 27416,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "To arrange rows in alphabetical order based on column A, you need to use the command _____.",
+    "op": [
+        "Edit | Data | Sort",
+        "Tools | Sort",
+        "None of Given",
+        "Data | Sort"
+    ],
+    "created_at": "2026-06-29T19:05:52.177775+00:00",
+    "ca": "Data | Sort"
+},
+{
+    "id": 27427,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "We can use the vertical scroll horizontal and bars to ______________.",
+    "op": [
+        "View different worksheets",
+        "View different rows and columns.",
+        "Edit the contents of a cell",
+        "Split a worksheet into two panes"
+    ],
+    "created_at": "2026-06-29T19:06:42.792342+00:00",
+    "ca": "View different rows and columns."
+},
+{
+    "id": 27429,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The comment can be attached using the New comment option in ________ tab",
+    "op": [
+        "Data",
+        "File",
+        "Home",
+        "Review"
+    ],
+    "created_at": "2026-06-29T19:06:48.964532+00:00",
+    "ca": "Review"
+},
+{
+    "id": 27433,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The spelling can be verified using the Spelling option in ______ tab.",
+    "op": [
+        "Home",
+        "Review",
+        "File",
+        "Data"
+    ],
+    "created_at": "2026-06-29T19:07:02.012657+00:00",
+    "ca": "Review"
+},
+{
+    "id": 27438,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If you press __________, the cell accepts your typing as its contents.",
+    "op": [
+        "Back-Space",
+        "Tab",
+        "Esc",
+        "Enter"
+    ],
+    "created_at": "2026-06-29T19:07:14.062355+00:00",
+    "ca": "Enter"
+},
+{
+    "id": 27441,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "By default there are ...... sheet(s) in MS Excel",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-29T19:07:26.638133+00:00",
+    "ca": "3"
+},
+{
+    "id": 27443,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "_________  function calculates the largest value in a set of numbers.",
+    "op": [
+        "Max",
+        "Average",
+        "Min",
+        "Count"
+    ],
+    "created_at": "2026-06-29T19:07:36.984278+00:00",
+    "ca": "Max"
+},
+{
+    "id": 27446,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In complex formulas, the  ______ is very important.",
+    "op": [
+        "Formula",
+        "Percentage %",
+        "Math",
+        "Order of operations"
+    ],
+    "created_at": "2026-06-29T19:07:49.997133+00:00",
+    "ca": "Order of operations"
+},
+{
+    "id": 27450,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If more than one operator involved in any formula so which one has the highest priority.",
+    "op": [
+        "- and +",
+        "* and /",
+        "()",
+        "^"
+    ],
+    "created_at": "2026-06-29T19:08:10.179254+00:00",
+    "ca": "()"
+},
+{
+    "id": 27453,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "You can enter different types of data in spreadsheet like",
+    "op": [
+        "All of Given",
+        "Symbols",
+        "Letters",
+        "Numeric Data"
+    ],
+    "created_at": "2026-06-29T19:08:32.770787+00:00",
+    "ca": "All of Given"
+},
+{
+    "id": 27455,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In MS Excel, what menu we should select to create chart?",
+    "op": [
+        "Go to Insert <Choose Any Chart",
+        "Go to Data < Choose Any Chart",
+        "Go to File < Choose Any Chart",
+        "Go to Home < Choose Any Chart"
+    ],
+    "created_at": "2026-06-29T19:08:42.591335+00:00",
+    "ca": "Go to Insert <Choose Any Chart"
+},
+{
+    "id": 27456,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The cell reference for a range of cells that starts in cell B1 and goes over to column G and down to row 10 is ________.",
+    "op": [
+        "B1:G10",
+        "B1;G10",
+        "B1.G10",
+        "B1-G10"
+    ],
+    "created_at": "2026-06-29T19:08:47.990062+00:00",
+    "ca": "B1:G10"
+},
+{
+    "id": 27465,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Columns of MS Excel are represented by",
+    "op": [
+        "Alphabets",
+        "Marks",
+        "Names",
+        "Numbers"
+    ],
+    "created_at": "2026-06-29T19:09:32.071873+00:00",
+    "ca": "Alphabets"
+},
+{
+    "id": 27469,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "To copy data in MS Excel",
+    "op": [
+        "press Ctrl+D",
+        "press Ctrl+Y",
+        "press Alt+C",
+        "press Ctrl+C"
+    ],
+    "created_at": "2026-06-29T19:09:47.926226+00:00",
+    "ca": "press Ctrl+C"
+},
+{
+    "id": 27475,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "To edit existing data in a cell without having to retype it all, you should _____.",
+    "op": [
+        "double-click the cell",
+        "hold SHIFT down while clicking the cell",
+        "click in the menu bar",
+        "click in the task bar"
+    ],
+    "created_at": "2026-06-29T19:10:26.167685+00:00",
+    "ca": "double-click the cell"
+},
+{
+    "id": 27479,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The function library in Microsoft Excel is available under _________ tab.",
+    "op": [
+        "Home",
+        "Formulas",
+        "Insert",
+        "Data"
+    ],
+    "created_at": "2026-06-29T19:10:48.91405+00:00",
+    "ca": "Formulas"
+},
+{
+    "id": 27482,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The Pivot table option can be found under  ___________ tab",
+    "op": [
+        "Data",
+        "Home",
+        "Review",
+        "Insert"
+    ],
+    "created_at": "2026-06-29T19:11:11.868841+00:00",
+    "ca": "Insert"
+},
+{
+    "id": 27497,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which one is not a relational operator in the given options?",
+    "op": [
+        "<=",
+        "=",
+        "<>",
+        "()"
+    ],
+    "created_at": "2026-06-29T19:12:38.861964+00:00",
+    "ca": "()"
+},
+{
+    "id": 27538,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Relative reference is useful when we need to apply  _______ type of calculations.",
+    "op": [
+        "Same",
+        "Complex",
+        "Simple",
+        "Mathematical"
+    ],
+    "created_at": "2026-06-29T19:14:53.079438+00:00",
+    "ca": "Same"
+},
+{
+    "id": 27879,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of following bar shows the content of cell of MS Excel sheet?",
+    "op": [
+        "Content bar",
+        "Name bar",
+        "Formula bar",
+        "Menu bar"
+    ],
+    "created_at": "2026-06-29T20:21:29.742802+00:00",
+    "ca": "Formula bar"
+},
+{
+    "id": 27898,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "How many worksheets an MS excel document contains by default?",
+    "op": [
+        "1 worksheet",
+        "10 worksheet",
+        "3 worksheet",
+        "2 worksheet"
+    ],
+    "created_at": "2026-06-29T20:22:39.000975+00:00",
+    "ca": "3 worksheet"
+},
+{
+    "id": 27930,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "To remove the contents of several cells at once, you can _____.",
+    "op": [
+        "select the cells and choose  Edit  |  Clear...  |  Contents",
+        "Press Esc button",
+        "select the cells and drag the fill handle back up over them",
+        "select the cells and press DELETE."
+    ],
+    "created_at": "2026-06-29T20:26:06.770121+00:00",
+    "ca": "select the cells and press DELETE."
+},
+{
+    "id": 28137,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Rows of MS Excel are represented by",
+    "op": [
+        "Names",
+        "Alphabets",
+        "Numbers",
+        "Marks"
+    ],
+    "created_at": "2026-06-29T21:39:00.596878+00:00",
+    "ca": "Numbers"
+},
+{
+    "id": 28152,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In MS Excel data can be sorted as following",
+    "op": [
+        "Select the date, you need to sort.\nGo to Data < sort",
+        "Select the data, you need to sort.\nGo to Edit < sort",
+        "Select the data, you need to sort.\nGo to File < sort",
+        "None of Given"
+    ],
+    "created_at": "2026-06-29T21:47:23.37676+00:00",
+    "ca": "Select the date, you need to sort.\nGo to Data < sort"
+},
+{
+    "id": 41975,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Columns of MS Excel are represented by",
+    "op": [
+        "Alphabets",
+        "Marks",
+        "Names",
+        "Numbers"
+    ],
+    "created_at": "2026-07-01T07:27:32.373545+00:00",
+    "ca": "Alphabets"
+},
+{
+    "id": 41976,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "By default there are ...... sheet(s) in MS Excel",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-07-01T07:27:39.352779+00:00",
+    "ca": "3"
+},
+{
+    "id": 41977,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "You can enter different types of data in spreadsheet like",
+    "op": [
+        "Numeric Data",
+        "Symbols",
+        "All of Given",
+        "Letters"
+    ],
+    "created_at": "2026-07-01T07:27:45.380394+00:00",
+    "ca": "All of Given"
+},
+{
+    "id": 41978,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Rows of MS Excel are represented by",
+    "op": [
+        "Alphabets",
+        "Marks",
+        "Names",
+        "Numbers"
+    ],
+    "created_at": "2026-07-01T07:27:52.131503+00:00",
+    "ca": "Numbers"
+},
+{
+    "id": 41979,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Worksheet of MS Excel is divided into",
+    "op": [
+        "Facts and figures",
+        "Objects",
+        "Rows and columns",
+        "Figure"
+    ],
+    "created_at": "2026-07-01T07:27:57.777017+00:00",
+    "ca": "Rows and columns"
+},
+{
+    "id": 41981,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "The cell reference for a range of cells that starts in cell B1 and goes over to column G and down to row 10 is ________.",
+    "op": [
+        "B1:G10",
+        "B1.G10",
+        "B1;G10",
+        "B1-G10"
+    ],
+    "created_at": "2026-07-01T07:28:15.515616+00:00",
+    "ca": "B1:G10"
+},
+{
+    "id": 41982,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Relative reference is useful when we need to apply  _______ type of calculations.",
+    "op": [
+        "Simple",
+        "Complex",
+        "Mathematical",
+        "Same"
+    ],
+    "created_at": "2026-07-01T07:28:24.813819+00:00",
+    "ca": "Same"
+},
+{
+    "id": 41983,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "It is possible to  ___________ the worksheets in a workbook.",
+    "op": [
+        "Only rename",
+        "Rename, copy, move, delete",
+        "Only move",
+        "Only copy"
+    ],
+    "created_at": "2026-07-01T07:28:31.678859+00:00",
+    "ca": "Rename, copy, move, delete"
+},
+{
+    "id": 41984,
+    "cc": "CS001",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "In MS Excel data can be sorted as following",
+    "op": [
+        "Select the data, you need to sort.\nGo to File < sort",
+        "Select the data, you need to sort.\nGo to Edit < sort",
+        "Select the date, you need to sort.\nGo to Data < sort",
+        "None of Given"
+    ],
+    "created_at": "2026-07-01T07:28:38.747034+00:00",
+    "ca": "Select the date, you need to sort.\nGo to Data < sort"
+},
+{
+    "id": 57359,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To change-case in the PowerPoint of the selected text or paragraph press _________ from the keyboard.",
+    "op": [
+        "Shift + F2",
+        "Shift + F1",
+        "Shift + F3",
+        "Shift + F5"
+    ],
+    "created_at": "2026-07-07T19:14:34.973988+00:00",
+    "ca": "Shift + F3"
+},
+{
+    "id": 57364,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To turn off the pen tool during a slide show in the PowerPoint press________ from the keyboard.",
+    "op": [
+        "Ctrl + P",
+        "Ctrl + D",
+        "Esc",
+        "Enter"
+    ],
+    "created_at": "2026-07-07T19:15:07.546312+00:00",
+    "ca": "Esc"
+},
+{
+    "id": 57368,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To apply the Justify formatting on the selected text or paragraph in PowerPoint press ________from the keyboard.",
+    "op": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+J",
+        "Ctrl+E"
+    ],
+    "created_at": "2026-07-07T19:15:18.726199+00:00",
+    "ca": "Ctrl+J"
+},
+{
+    "id": 57370,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To insert a new slide into PowerPoint simply press _______ from the keyboard.",
+    "op": [
+        "Ctrl + P",
+        "Ctrl + K",
+        "Ctrl + D",
+        "Ctrl + M"
+    ],
+    "created_at": "2026-07-07T19:15:30.555837+00:00",
+    "ca": "Ctrl + M"
+},
+{
+    "id": 57374,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "Press ________ from the keyboard to make the screen go black during a slide show in PowerPoint.",
+    "op": [
+        "B",
+        "S",
+        "E",
+        "W"
+    ],
+    "created_at": "2026-07-07T19:15:41.867652+00:00",
+    "ca": "B"
+},
+{
+    "id": 57378,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "By default, the orientation of a slide of the PowerPoint is___________.",
+    "op": [
+        "Landscape",
+        "Horizontal",
+        "Portrait",
+        "Vertical"
+    ],
+    "created_at": "2026-07-07T19:15:50.53043+00:00",
+    "ca": "Landscape"
+},
+{
+    "id": 57381,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "The  PowerPoint slide show can be played/view any time by clicking on the slide show option from the ribbon bar, or simply press _______ from the keyboard.",
+    "op": [
+        "F1",
+        "F5",
+        "F2",
+        "F8"
+    ],
+    "created_at": "2026-07-07T19:15:58.375706+00:00",
+    "ca": "F5"
+},
+{
+    "id": 57384,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "Select the PowerPoint slide and then, press the Backspace key from the keyboard will ________that slide.",
+    "op": [
+        "rename",
+        "delete",
+        "add",
+        "edit"
+    ],
+    "created_at": "2026-07-07T19:16:09.03095+00:00",
+    "ca": "delete"
+},
+{
+    "id": 57386,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To insert a hyperlink on the selected text or image press ___________ from the keyboard.",
+    "op": [
+        "Ctrl + M",
+        "Ctrl + K",
+        "Ctrl + D",
+        "Esc"
+    ],
+    "created_at": "2026-07-07T19:16:15.99706+00:00",
+    "ca": "Ctrl + K"
+},
+{
+    "id": 57484,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "Shape style, fonts and color are the __________ of the theme in PowerPoint.",
+    "op": [
+        "Indents",
+        "Elements",
+        "formats",
+        "views"
+    ],
+    "created_at": "2026-07-07T19:29:16.746476+00:00",
+    "ca": "Elements"
+},
+{
+    "id": 57497,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "The Spell check can be applied to selected text in a PowerPoint slide by pressing ___from the keyboard.",
+    "op": [
+        "F1",
+        "F5",
+        "F12",
+        "F7"
+    ],
+    "created_at": "2026-07-07T19:31:36.186161+00:00",
+    "ca": "F7"
+},
+{
+    "id": 57504,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To activate the pen tool during a show simply press _________from the keyboard.",
+    "op": [
+        "Ctrl + P",
+        "Ctrl + M",
+        "Ctrl + D",
+        "Ctrl + K"
+    ],
+    "created_at": "2026-07-07T19:33:38.623703+00:00",
+    "ca": "Ctrl + P"
+},
+{
+    "id": 57505,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To duplicate the current side in PowerPoint just press _______ from the keyboard.",
+    "op": [
+        "Ctrl + K",
+        "Ctrl + M",
+        "Ctrl + D",
+        "Ctrl + P"
+    ],
+    "created_at": "2026-07-07T19:33:47.399127+00:00",
+    "ca": "Ctrl + D"
+},
+{
+    "id": 57507,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "Press ________ from the keyboard to make the screen go white during a slide show in PowerPoint.",
+    "op": [
+        "B",
+        "E",
+        "S",
+        "W"
+    ],
+    "created_at": "2026-07-07T19:34:09.949106+00:00",
+    "ca": "W"
+},
+{
+    "id": 57519,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "To erase pen tool drawings during a slide show in the PowerPoint  press_________from the keyboard.",
+    "op": [
+        "E",
+        "backspace",
+        "Esc",
+        "delete"
+    ],
+    "created_at": "2026-07-07T19:36:34.925206+00:00",
+    "ca": "E"
+},
+{
+    "id": 57534,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "In PowerPoint to change the case of the selected text having _____ different choices.",
+    "op": [
+        "6",
+        "5",
+        "4",
+        "8"
+    ],
+    "created_at": "2026-07-07T19:41:02.291883+00:00",
+    "ca": "5"
+},
+{
+    "id": 57573,
+    "cc": "CS001",
+    "qn": "04",
+    "dt": "08 July 2026",
+    "qt": "In PowerPoint  the Character Spacing drop-down gallery, there are _____ options",
+    "op": [
+        "6",
+        "5",
+        "8",
+        "4"
+    ],
+    "created_at": "2026-07-07T19:53:28.942465+00:00",
+    "ca": "6"
+}
+]

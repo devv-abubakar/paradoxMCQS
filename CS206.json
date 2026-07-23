@@ -1,0 +1,826 @@
+[{
+"id": 31458,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "To decrypt the data, you need a secret password specifically called as.",
+"op": [
+"Encryption Key",
+"Encryption Equation",
+"Frame Check Sequence",
+"Cyclic Redundancy Check"
+],
+"created_at": "2026-06-30T19:25:56.904915+00:00",
+"ca": "Encryption Key"
+},
+{
+"id": 31461,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In ICMP packet of Type 5, code _______ refers to Redirect for host.",
+"op": [
+"0",
+"2",
+"1",
+"None of the given"
+],
+"created_at": "2026-06-30T19:26:04.387499+00:00",
+"ca": "1"
+},
+{
+"id": 31470,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "If IPv4 __________validation is disabled, there are no Expert Infos Errors in this trace file.",
+"op": [
+"CRC",
+"Checksum",
+"None of given",
+"Parity bit"
+],
+"created_at": "2026-06-30T19:26:19.873656+00:00",
+"ca": "Checksum"
+},
+{
+"id": 31475,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Point to point protocol is _____________ layer protocol.",
+"op": [
+"Data Link",
+"Application",
+"Transport",
+"Session"
+],
+"created_at": "2026-06-30T19:26:27.78669+00:00",
+"ca": "Data Link"
+},
+{
+"id": 31478,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "The telephone generates analog signals ranging from ____________.",
+"op": [
+"0 to 5000 Hz",
+"0 to 8000 Hz",
+"0 to 6000 Hz",
+"0 to 4000 Hz"
+],
+"created_at": "2026-06-30T19:26:33.364908+00:00",
+"ca": "0 to 4000 Hz"
+},
+{
+"id": 31481,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "ICMP packet type _______ refers to route redirection.",
+"op": [
+"9",
+"3",
+"4",
+"5"
+],
+"created_at": "2026-06-30T19:26:39.499428+00:00",
+"ca": "5"
+},
+{
+"id": 31489,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In asymmetric routing, traffic flowing from host A to host B flows from ________ path as compared to traffic flowing from host B to host A.",
+"op": [
+"Different",
+"Same or different",
+"Exactly Same",
+"None of the given"
+],
+"created_at": "2026-06-30T19:26:45.834823+00:00",
+"ca": "Different"
+},
+{
+"id": 31493,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which one is first step to Create Filter Expression Buttons in Wire shark?",
+"op": [
+"Open tr-twohosts.pcapng",
+"Open tr-smbjoindomain.pcapng",
+"Open tr-winsize.pcapng",
+"Open tr-general.pcapng"
+],
+"created_at": "2026-06-30T19:26:52.781482+00:00",
+"ca": "Open tr-general.pcapng"
+},
+{
+"id": 31496,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In the context of networks, AAA stands for __________.",
+"op": [
+"Authentication, Authorization, and Accounting",
+"Atomicity, Authority and Accountability",
+"None of the given",
+"Authentication, Authorization, and Agility"
+],
+"created_at": "2026-06-30T19:27:00.046256+00:00",
+"ca": "Authentication, Authorization, and Accounting"
+},
+{
+"id": 31926,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In ICMP packet of Type 5, code _______ refers to Redirect for Network.",
+"op": [
+"2",
+"None of the given",
+"0",
+"1"
+],
+"created_at": "2026-06-30T19:42:15.02923+00:00",
+"ca": "0"
+},
+{
+"id": 31969,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Amount of data that can be carried in a frame is limited by ___________.",
+"op": [
+"MTU",
+"CRC",
+"FCS",
+"TTL"
+],
+"created_at": "2026-06-30T19:45:03.757919+00:00",
+"ca": "MTU"
+},
+{
+"id": 31974,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In AAA model, ________ means the process of deciding what resources a particular user can access.",
+"op": [
+"Agility",
+"Authentication",
+"Accounting",
+"Authorization"
+],
+"created_at": "2026-06-30T19:45:13.06442+00:00",
+"ca": "Authorization"
+},
+{
+"id": 31976,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which one of the following statement is false about Wireshark software?",
+"op": [
+"It is not a network packet analyzer",
+"It captures network traffic",
+"It works on both Wireless or Wired network",
+"It is a network packet analyzer"
+],
+"created_at": "2026-06-30T19:45:19.362838+00:00",
+"ca": "It is not a network packet analyzer"
+},
+{
+"id": 31979,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which one is first step to change the Dissector Behavior in Wire shark?",
+"op": [
+"Open tr-winsize.pcapng",
+"Open tr-general.pcapng",
+"Open tr-smbjoindomain.pcapng",
+"Open tr-youtubebad.pcapng"
+],
+"created_at": "2026-06-30T19:45:36.547585+00:00",
+"ca": "Open tr-youtubebad.pcapng"
+},
+{
+"id": 31980,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Port numbers can be reused without any problem if previous TCP connection is _____________.",
+"op": [
+"Initiated",
+"Terminated",
+"Active",
+"Open"
+],
+"created_at": "2026-06-30T19:45:44.134399+00:00",
+"ca": "Terminated"
+},
+{
+"id": 31983,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Wireshark captures and decodes the network frames of any host running on __________.",
+"op": [
+"Wired Network only",
+"None of the given",
+"Either Wireless or Wired",
+"Wireless Network only"
+],
+"created_at": "2026-06-30T19:45:52.347472+00:00",
+"ca": "Either Wireless or Wired"
+},
+{
+"id": 31984,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "To apply a MAC address filter in Wire shark we will enter ________.",
+"op": [
+"xx:xx:xx:xx:xx:xx  Host ether",
+"xx:xx:xx:xx:xx:xx ether host",
+"Host ether xx:xx:xx:xx:xx:xx",
+"ether host xx:xx:xx:xx:xx:xx"
+],
+"created_at": "2026-06-30T19:46:08.374698+00:00",
+"ca": "ether host xx:xx:xx:xx:xx:xx"
+},
+{
+"id": 32374,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which of the following devices is not an interconnecting device?",
+"op": [
+"Router",
+"Switch",
+"None of the given",
+"Bridge"
+],
+"created_at": "2026-06-30T20:41:21.673565+00:00",
+"ca": "None of the given"
+},
+{
+"id": 32376,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which file will be opened to add coloring rule in Wire shark?",
+"op": [
+"tr-winsize.pcapng",
+"tr-smbjoindomain.pcapng",
+"tr-general.pcapng",
+"tr-chappellu.pcapng"
+],
+"created_at": "2026-06-30T20:42:34.259112+00:00",
+"ca": "tr-smbjoindomain.pcapng"
+},
+{
+"id": 32396,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "In the context of computer networks, MSS stands for .",
+"op": [
+"Maximum Session Service",
+"Maximum Segment Size",
+"Minimum Segment Size",
+"Minimum Session Service"
+],
+"created_at": "2026-06-30T20:44:13.143373+00:00",
+"ca": "Maximum Segment Size"
+},
+{
+"id": 32594,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": " specifically refers to three areas of security in computer networks.",
+"op": [
+"None of the given",
+"BBB model",
+"AAA model",
+"CCC model"
+],
+"created_at": "2026-06-30T21:49:37.319008+00:00",
+"ca": "AAA model"
+},
+{
+"id": 32599,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which file will be opened to identify name Resolution Problems in Wire shark?",
+"op": [
+"tr-nameresolution.pcapng",
+"tr-youtubebad.pcapng",
+"tr-winsize.pcapng",
+"tr-general.pcapng"
+],
+"created_at": "2026-06-30T21:50:20.918167+00:00",
+"ca": "tr-nameresolution.pcapng"
+},
+{
+"id": 32601,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "is used to increase the advertised TCP receive buffer size, past the predefined upper limit.",
+"op": [
+"Window Scaling",
+"Window Broadcasting",
+"Window Crashing",
+"Window Buffering"
+],
+"created_at": "2026-06-30T21:50:58.88499+00:00",
+"ca": "Window Scaling"
+},
+{
+"id": 32638,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which file will be opened in first step to find the top talkers in Wire shark?",
+"op": [
+"tr-youtubebad.pcapng",
+"tr-smbjoindomain.pcapng",
+"tr-general.pcapng",
+"tr-winsize.pcapng"
+],
+"created_at": "2026-06-30T21:59:16.624119+00:00",
+"ca": "tr-general.pcapng"
+},
+{
+"id": 32639,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": " sends the user name and password in clear text.",
+"op": [
+"RARP",
+"CHAP",
+"PAP",
+"ARP"
+],
+"created_at": "2026-06-30T21:59:28.981398+00:00",
+"ca": "PAP"
+},
+{
+"id": 33060,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Which file will be opened to build a basic IO graph in Wire shark?",
+"op": [
+"tr-youtubebad.pcapng",
+"tr-general.pcapng",
+"tr-winsize.pcapng",
+"tr-smbjoindomain.pcapng"
+],
+"created_at": "2026-07-01T01:01:56.65859+00:00",
+"ca": "tr-general.pcapng"
+},
+{
+"id": 33062,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "To protect against password theft, does not send the password as clear-text.",
+"op": [
+"RARP",
+"PAP",
+"ARP",
+"CHAP"
+],
+"created_at": "2026-07-01T01:02:24.35804+00:00",
+"ca": "CHAP"
+},
+{
+"id": 33474,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": " is (are) part of point to point protocol.",
+"op": [
+"PAP",
+"Both PAP and CHAP",
+"CHAP",
+"None of the Given"
+],
+"created_at": "2026-07-01T02:12:49.820119+00:00",
+"ca": "Both PAP and CHAP"
+},
+{
+"id": 33808,
+"cc": "CS206",
+"qn": "3",
+"dt": "01 July 2026",
+"qt": "Data transfer will stop when advertised TCP receive buffer value drops to .",
+"op": [
+"1000",
+"99",
+"0",
+"100"
+],
+"created_at": "2026-07-01T03:27:10.47875+00:00",
+"ca": "0"
+},
+{
+"id": 57377,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "How Wireshark's detects Packet Loss",
+"op": [
+"TCP delay count process",
+"TCP sequencing process",
+"TCP recovery process",
+"TCP re-transmission process"
+],
+"created_at": "2026-07-07T19:15:46.734154+00:00",
+"ca": "TCP sequencing process"
+},
+{
+"id": 57383,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "What type of delay is likely not felt by the end user and can be safely ignored in trace files?",
+"op": [
+"Delay before a TCP SYN packet",
+"Delay before an HTTP GET request",
+"Delay before a TCP RST packet",
+"Delay before a DNS query"
+],
+"created_at": "2026-07-07T19:16:07.326021+00:00",
+"ca": "Delay before a TCP RST packet"
+},
+{
+"id": 57388,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Which of the following indicates that an encrypted connection is being closed?",
+"op": [
+"A TLS Encrypted Alert",
+"A DNS query response",
+"A TLS handshake initiation",
+"A TCP SYN packet"
+],
+"created_at": "2026-07-07T19:16:18.166174+00:00",
+"ca": "A TLS Encrypted Alert"
+},
+{
+"id": 57393,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "How does Wireshark number each separate TCP conversation?",
+"op": [
+"By TCP Stream Index (tcp.stream) value starting with 0",
+"By IP address",
+"By timestamp",
+"By port number"
+],
+"created_at": "2026-07-07T19:16:35.135811+00:00",
+"ca": "By TCP Stream Index (tcp.stream) value starting with 0"
+},
+{
+"id": 57396,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "The SMB Header section contains smb.time field which exists _________.",
+"op": [
+"Neither in SMB Request nor in Response packets",
+"Only in SMB Response packets",
+"Only in SMB Request packets",
+"In both SMB Request and Response packets"
+],
+"created_at": "2026-07-07T19:16:49.179061+00:00",
+"ca": "Only in SMB Response packets"
+},
+{
+"id": 57401,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Expert Infos button in wireshark define network problem in _________ categories.",
+"op": [
+"6",
+"8",
+"2",
+"4"
+],
+"created_at": "2026-07-07T19:17:00.647434+00:00",
+"ca": "4"
+},
+{
+"id": 57403,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Packet Loss Recovery Method maintains ________ for recovery of lost packet",
+"op": [
+"Window size",
+"Sequence number",
+"Acknoledgments",
+"Timer"
+],
+"created_at": "2026-07-07T19:17:08.996158+00:00",
+"ca": "Timer"
+},
+{
+"id": 57411,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": " file is used to obtain the round trip time (RTT) using Display Filters in Wire shark.",
+"op": [
+"tr-chappellu.pcapng",
+"tr-winsize.pcapng",
+"tr-cnn.pcapng",
+"None of given"
+],
+"created_at": "2026-07-07T19:17:38.785786+00:00",
+"ca": "tr-winsize.pcapng"
+},
+{
+"id": 57413,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "What is the first step to analyze the “No Response to Service Request” situation in Wireshark?",
+"op": [
+"Check the network connection",
+"Open the command prompt",
+"Install the latest version of Wireshark",
+"Open tr-serverresponse.pcapng"
+],
+"created_at": "2026-07-07T19:17:48.109705+00:00",
+"ca": "Open tr-serverresponse.pcapng"
+},
+{
+"id": 57626,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "In Wireshark, what symptom indicates the application has failed at the server side?",
+"op": [
+"The server closes the connection immediately",
+"The client does not receive any acknowledgment",
+"The client sends a RST/ACK after almost 120 seconds",
+"The TCP handshake fails to complete"
+],
+"created_at": "2026-07-07T23:18:37.861508+00:00",
+"ca": "The server closes the connection immediately"
+},
+{
+"id": 57627,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Microsoft mainly employs a file sharing protocol called ____________________________ on its Windows-based networks.",
+"op": [
+"File Transfer Protocol (FTP)",
+"Network File Service (NFS)",
+"Server Message Block (SMB)",
+"Apple File Protocol (AFP)"
+],
+"created_at": "2026-07-07T23:19:25.23229+00:00",
+"ca": "Server Message Block (SMB)"
+},
+{
+"id": 57628,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "DNS (domain name system) is a request/response protocol which employs ____________.",
+"op": [
+"UDP",
+"TCP",
+"FTP",
+"SMTP"
+],
+"created_at": "2026-07-07T23:20:18.384482+00:00",
+"ca": "UDP"
+},
+{
+"id": 57629,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Wireshark creates a value called nextseq, which is determined by ______________________________.",
+"op": [
+"The Sequence Number field value of each packet",
+"The number of data bytes in the packet",
+"Adding the Sequence Number field value of previous packet to the number of data bytes in current packet",
+"Adding the Sequence Number field value of each packet to the number of data bytes in it"
+],
+"created_at": "2026-07-07T23:20:40.104315+00:00",
+"ca": "Adding the Sequence Number field value of each packet to the number of data bytes in it"
+},
+{
+"id": 57630,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "What does a client use to determine the round trip time between hosts during the TCP handshake?",
+"op": [
+"The time between the FIN and ACK packets",
+"The time between the SYN/ACK and FIN packets",
+"The time between the SYN/ACK and PSH packets",
+"The time between the SYN and SYN/ACK packets"
+],
+"created_at": "2026-07-07T23:20:54.408445+00:00",
+"ca": "The time between the SYN and SYN/ACK packets"
+},
+{
+"id": 57632,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "In the context of a TCP handshake, SYN/ACK packet is used for ________________.",
+"op": [
+"To terminate the connection",
+"To acknowledge receipt of the SYN packet",
+"To initiate data transfer",
+"To request retransmission of lost packets"
+],
+"created_at": "2026-07-07T23:21:05.780779+00:00",
+"ca": "To acknowledge receipt of the SYN packet"
+},
+{
+"id": 57633,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Which of the following Internet based application(s) cannot tolerate data loss?\na. E-mail\nb. Real-time audio streaming\nc. Interactive gaming\nd. Web documents\ne. Instant messaging",
+"op": [
+"a and b only",
+"All of the given",
+"a, d and e",
+"a, c and d"
+],
+"created_at": "2026-07-07T23:21:26.389179+00:00",
+"ca": "a, d and e"
+},
+{
+"id": 57634,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "In Wire shark “Expert Infos” button shows warnings in _________ color.",
+"op": [
+"Yellow",
+"Red",
+"Green",
+"Blue"
+],
+"created_at": "2026-07-08T00:06:31.627294+00:00",
+"ca": "Yellow"
+},
+{
+"id": 57635,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "UDP conversation statistics such as packet rate and bps rate can be obtained ____________.",
+"op": [
+"In the Protocol Hierarchy window",
+"In the Packet Details pane",
+"In the Conversations Window",
+"In the Expert Information window"
+],
+"created_at": "2026-07-08T00:06:53.296501+00:00",
+"ca": "In the Conversations Window"
+},
+{
+"id": 57636,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Which file will be used to detect delays in UDP Conversations in Wire shark?",
+"op": [
+"None of given",
+"tr-voip-extensions.pcapng",
+"tr-general.pcapng",
+"tr-winsize.pcapng"
+],
+"created_at": "2026-07-08T00:07:19.979275+00:00",
+"ca": "tr-voip-extensions.pcapng"
+},
+{
+"id": 57637,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "What is the purpose of a Transport Layer Security (TLS) Encrypted Alert?",
+"op": [
+"To start an encrypted connection",
+"To close an encrypted connection",
+"To authenticate the server",
+"To request a new encryption key"
+],
+"created_at": "2026-07-08T00:08:45.194941+00:00",
+"ca": "To close an encrypted connection"
+},
+{
+"id": 57643,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Wire shark allows a user to define up to _________differently colored",
+"op": [
+"5",
+"4",
+"3",
+"7"
+],
+"created_at": "2026-07-08T00:40:48.382756+00:00",
+"ca": "7"
+},
+{
+"id": 57645,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Which file will be used to plot UDP Delays in Wire shark.",
+"op": [
+"tr-voip-extensions.pcapng",
+"tr-nameresolution.pcapng",
+"tr-queuing.pcapng",
+"tr-winsize.pcapng"
+],
+"created_at": "2026-07-08T00:41:03.047714+00:00",
+"ca": "tr-voip-extensions.pcapng"
+},
+{
+"id": 57647,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "Expert infos in wireshark are only a hint and help both for novice and expert users to find probable _________",
+"op": [
+"Network informations",
+"Network traffic",
+"Network congestion",
+"Network Problems"
+],
+"created_at": "2026-07-08T00:41:37.925158+00:00",
+"ca": "Network Problems"
+},
+{
+"id": 57649,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "What type of protocol is the User Datagram Protocol (UDP)?",
+"op": [
+"A connectionless transport layer protocol",
+"An application layer protocol",
+"A connection-oriented transport layer protocol",
+"A network layer protocol"
+],
+"created_at": "2026-07-08T00:42:00.990615+00:00",
+"ca": "A connectionless transport layer protocol"
+},
+{
+"id": 57689,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "In the context of Wireshark, which trace file should be opened to analyze delays before DNS queries?",
+"op": [
+"tr-delays.pcapng",
+"tr-dnsqueries.pcapng",
+"tr-tcphandshake.pcapng",
+"tr-serverresponse.pcapng"
+],
+"created_at": "2026-07-08T01:26:29.703852+00:00",
+"ca": "tr-dnsqueries.pcapng"
+},
+{
+"id": 57725,
+"cc": "CS206",
+"qn": "4",
+"dt": "08 July 2026",
+"qt": "If the client does not have the MAC address information in cache, the client sends out __________ request to identify local address Resolution.",
+"op": [
+"DNS request",
+"ARP request",
+"ACK request",
+"SYN request"
+],
+"created_at": "2026-07-08T01:42:34.409011+00:00",
+"ca": "ARP request"
+}
+]

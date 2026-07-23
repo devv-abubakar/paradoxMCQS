@@ -1,0 +1,707 @@
+[
+    {
+        "id": 37349,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "Unlike alpha and beta particles, _________ do not interact with electrons or cause ionization directly.",
+        "op": [
+            "Positron",
+            "Proton",
+            "Neutron",
+            "Gamma particles"
+        ],
+        "created_at": "2026-07-02T03:40:15.755536+00:00",
+        "ca": "Neutron"
+    },
+    {
+        "id": 37350,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "Sharks are the most electrically sensitive animals known, responding to DC fields as low as nV/cm.",
+        "op": [
+            "20",
+            "5",
+            "10",
+            "15"
+        ],
+        "created_at": "2026-07-02T03:41:36.494374+00:00",
+        "ca": "5"
+    },
+    {
+        "id": 37351,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "is the use of sound waves and echoes to determine where objects are in space.",
+        "op": [
+            "Echolocation",
+            "Frequency",
+            "Sound",
+            "Light"
+        ],
+        "created_at": "2026-07-02T03:42:00.503901+00:00",
+        "ca": "Echolocation"
+    },
+    {
+        "id": 37352,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "In almost all practical electro-dialysis processes, multiple electro-dialysis cells are arranged into a configuration called an, with alternating anion and cation exchange membranes forming the multiple electro-dialysis cells.",
+        "op": [
+            "Electro-dialysis stack",
+            "Electro-dialysis flame",
+            "Electro-dialysis ground",
+            "Electro-dialysis Disc"
+        ],
+        "created_at": "2026-07-02T03:42:15.90739+00:00",
+        "ca": "Electro-dialysis stack"
+    },
+    {
+        "id": 37693,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": " is widely used for medical diagnosis and therapy.",
+        "op": [
+            "DNA Test",
+            "Radiation",
+            "RNA test",
+            "Fermentation"
+        ],
+        "created_at": "2026-07-02T06:12:02.221522+00:00",
+        "ca": "Radiation"
+    },
+    {
+        "id": 37696,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": " is the study of production, dispersion and reception of mechanical vibrations by animals.",
+        "op": [
+            "Bio-mechanics",
+            "Biotremology",
+            "Biotreminology",
+            "None of these"
+        ],
+        "created_at": "2026-07-02T06:12:19.865013+00:00",
+        "ca": "Biotremology"
+    },
+    {
+        "id": 37698,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "Microbats generate ultrasound via the _________ and emit the sound through the open mouth or, much more rarely, the nose.",
+        "op": [
+            "Heart",
+            "Liver",
+            "Lungs",
+            "Larynx"
+        ],
+        "created_at": "2026-07-02T06:12:39.293193+00:00",
+        "ca": "Larynx"
+    },
+    {
+        "id": 37699,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "Radiation arising from human activities typically accounts for about of public exposure.",
+        "op": [
+            "10%",
+            "20%",
+            "30%",
+            "40%"
+        ],
+        "created_at": "2026-07-02T06:12:51.708546+00:00",
+        "ca": "20%"
+    },
+    {
+        "id": 37702,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "Radiotherapy is the use of high-energy radiation to treat ",
+        "op": [
+            "Skin Cells",
+            "Liver Cells",
+            "Cancer Cells",
+            "Blood Cells"
+        ],
+        "created_at": "2026-07-02T06:13:06.564008+00:00",
+        "ca": "Cancer Cells"
+    },
+    {
+        "id": 37903,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": " are neutral particles that have no electric charge.",
+        "op": [
+            "Protons",
+            "Atoms",
+            "Neutrons",
+            "None of these"
+        ],
+        "created_at": "2026-07-02T07:45:57.34639+00:00",
+        "ca": "Neutrons"
+    },
+    {
+        "id": 37904,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "EPD stands for ",
+        "op": [
+            "Electronic Personal Dosimeter",
+            "None of these",
+            "Electric Personal Dosimeter",
+            "Electronic Pocket Dosimeter"
+        ],
+        "created_at": "2026-07-02T07:46:07.678967+00:00",
+        "ca": "Electronic Personal Dosimeter"
+    },
+    {
+        "id": 37905,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "PEM stands for .",
+        "op": [
+            "Personnel electric monitors",
+            "Pocket exit monitors",
+            "Personnel exit monitors",
+            "None of these"
+        ],
+        "created_at": "2026-07-02T07:47:03.896264+00:00",
+        "ca": "Personnel exit monitors"
+    },
+    {
+        "id": 37908,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "The _________ is suitable for the determination of the concentration of various antigens, hormones and drugs in different body fluids such as the human blood.",
+        "op": [
+            "Immunoassay",
+            "None of these",
+            "Radioimmunoassay",
+            "Blotting"
+        ],
+        "created_at": "2026-07-02T07:47:32.159415+00:00",
+        "ca": "Radioimmunoassay"
+    },
+    {
+        "id": 37911,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "02 July 2026",
+        "qt": "................... is widely used method for the analysis and detection of proteins.",
+        "op": [
+            "Two dimensional electrophoresis",
+            "Spectrometry",
+            "Agarose gel electrophoresis",
+            "Spectrophotometer"
+        ],
+        "created_at": "2026-07-02T07:48:23.314775+00:00",
+        "ca": "Two dimensional electrophoresis"
+    },
+    {
+        "id": 40412,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "03 July 2026",
+        "qt": "Natural radiation enters the human body through _______ pathways.",
+        "op": [
+            "Three",
+            "Four",
+            "One",
+            "Two"
+        ],
+        "created_at": "2026-07-03T18:15:01.272118+00:00",
+        "ca": "Three"
+    },
+    {
+        "id": 40414,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "03 July 2026",
+        "qt": "Some researchers have applied NIR imaging in Rat model of acute myocardial infarction (AMI), using a ________ probe that can binds to apoptotic and necrotic cells.",
+        "op": [
+            "Sugar",
+            "Lipid",
+            "Glucose",
+            "Peptide"
+        ],
+        "created_at": "2026-07-03T18:15:09.930907+00:00",
+        "ca": "Peptide"
+    },
+    {
+        "id": 40415,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "03 July 2026",
+        "qt": " refers to a diverse group of coiled-coil proteins that are involved in variety of structural components of the cell.",
+        "op": [
+            "Actin filaments",
+            "Microtubuli",
+            "None of these",
+            "Intermediate filaments"
+        ],
+        "created_at": "2026-07-03T18:15:17.706457+00:00",
+        "ca": "Intermediate filaments"
+    },
+    {
+        "id": 40416,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "03 July 2026",
+        "qt": " is the formation of a well-defined, complex structure under equilibrium conditions spontaneously from non-covalent interactions between two or more molecular components.",
+        "op": [
+            "Self-assembly",
+            "General assembly",
+            "Local assembly",
+            "Molecular assembly"
+        ],
+        "created_at": "2026-07-03T18:15:23.441875+00:00",
+        "ca": "Self-assembly"
+    },
+    {
+        "id": 40417,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "03 July 2026",
+        "qt": "In Isopycnic centrifugation separation of particles occurs into zones on the basis of their _________ differences, independent of time.",
+        "op": [
+            "Density",
+            "Surface tension",
+            "Volume",
+            "Color"
+        ],
+        "created_at": "2026-07-03T18:15:30.406644+00:00",
+        "ca": "Density"
+    },
+    {
+        "id": 40768,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Plants emit audio acoustic emissions between .",
+        "op": [
+            "30–240 Hz",
+            "10–240 Hz",
+            "40–240 Hz",
+            "20–240 Hz"
+        ],
+        "created_at": "2026-07-04T04:48:37.978859+00:00",
+        "ca": "10–240 Hz"
+    },
+    {
+        "id": 40769,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "The speed of sound through air is about _________ meters per second.",
+        "op": [
+            "340",
+            "370",
+            "350",
+            "360"
+        ],
+        "created_at": "2026-07-04T04:48:59.440927+00:00",
+        "ca": "340"
+    },
+    {
+        "id": 40770,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": " has been part of the earth since it came into existence.",
+        "op": [
+            "Natural radiation",
+            "Electricity",
+            "None of these",
+            "Nuclear Fission"
+        ],
+        "created_at": "2026-07-04T04:49:15.750338+00:00",
+        "ca": "Natural radiation"
+    },
+    {
+        "id": 40771,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "The binding of the neurotransmitter acetylcholine at certain synapses opens channels that admit ________ and initiate a nerve impulse or muscle contraction.",
+        "op": [
+            "Na+",
+            "S-",
+            "K+",
+            "Mg+"
+        ],
+        "created_at": "2026-07-04T04:49:32.971571+00:00",
+        "ca": "Na+"
+    },
+    {
+        "id": 40772,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Natural radiation accounts for about _________ of the radiation doses to which we are subjected.",
+        "op": [
+            "50%",
+            "90%",
+            "80%",
+            "70%"
+        ],
+        "created_at": "2026-07-04T04:49:50.85766+00:00",
+        "ca": "80%"
+    },
+    {
+        "id": 41347,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Mother bats eat up to ___________ insects in one night.",
+        "op": [
+            "4000",
+            "5000",
+            "3000",
+            "4500"
+        ],
+        "created_at": "2026-07-04T16:36:47.364531+00:00",
+        "ca": "4000"
+    },
+    {
+        "id": 41349,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Bioacoustics as a scientific discipline was established by the ",
+        "op": [
+            "Ivan Regen",
+            "Watson",
+            "Watson",
+            "Martin"
+        ],
+        "created_at": "2026-07-04T16:37:37.377383+00:00",
+        "ca": "Ivan Regen"
+    },
+    {
+        "id": 41350,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Organisms have been producing mineralized skeletons for the past .",
+        "op": [
+            "550 million years",
+            "700 million years",
+            "570 million years",
+            "600 million years"
+        ],
+        "created_at": "2026-07-04T16:38:07.944966+00:00",
+        "ca": "550 million years"
+    },
+    {
+        "id": 41353,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": " are cylindrical Polymer and made of α and β tubulents.",
+        "op": [
+            "Microtubules",
+            "Mitochondria",
+            "Ribosomes",
+            "Actin Filaments"
+        ],
+        "created_at": "2026-07-04T16:38:30.963908+00:00",
+        "ca": "Microtubules"
+    },
+    {
+        "id": 41396,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "The basic operating principle of ultrafiltration uses a pressure induced separation of solutes from a solvent through a _____________ membrane.",
+        "op": [
+            "Semi permeable",
+            "Transitive",
+            "Permeable",
+            "Impermeable"
+        ],
+        "created_at": "2026-07-04T17:49:47.045283+00:00",
+        "ca": "Semi permeable"
+    },
+    {
+        "id": 41397,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": " is used to transport salt ions from one solution through ion-exchange membranes to another solution under the influence of an applied electric potential difference.",
+        "op": [
+            "RNA dialysis",
+            "Electro dialysis",
+            "Protein dialysis",
+            "DNA dialysis"
+        ],
+        "created_at": "2026-07-04T17:49:55.193612+00:00",
+        "ca": "Electro dialysis"
+    },
+    {
+        "id": 41398,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "SIPD stands for ",
+        "op": [
+            "Self indicating pocket dosimeter",
+            "Self indicating packed dosimeter",
+            "Self indicating pocket device",
+            "None of these"
+        ],
+        "created_at": "2026-07-04T17:50:02.38583+00:00",
+        "ca": "Self indicating pocket dosimeter"
+    },
+    {
+        "id": 41399,
+        "cc": "BIO503",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "During affinity chromatography, composition of mobile phase is changed for the ....... of product.",
+        "op": [
+            "lysis",
+            "degradation",
+            "Elution",
+            "precipitation"
+        ],
+        "created_at": "2026-07-04T17:50:11.691758+00:00",
+        "ca": "Elution"
+    },
+    {
+        "id": 68490,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "04 January 2026",
+        "qt": "When _________ interact with tissue, they ionize atoms.",
+        "op": [
+            "Beta rays",
+            "Neutrons",
+            "Alpha Rays",
+            "Gamma rays"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "Gamma rays"
+    },
+    {
+        "id": 68492,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "04 January 2026",
+        "qt": " is the process by which molecules adopt a defined arrangement without guidance or management from an outside source.",
+        "op": [
+            "Intra-molecular self-assembly",
+            "None of these",
+            "Molecular self-assembly",
+            "Intermolecular self-assembly"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "Molecular self-assembly"
+    },
+    {
+        "id": 68493,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "04 January 2026",
+        "qt": " on the other hand, decays fast and is no longer naturally present on earth nowadays.",
+        "op": [
+            "Potassium-40",
+            "Neptunium-237",
+            "Thorium-232",
+            "Uranium-235"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "Neptunium-237"
+    },
+    {
+        "id": 68494,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "04 January 2026",
+        "qt": "The annual dose of man-made radiation received by people arising from medical diagnoses ranges from ",
+        "op": [
+            "0.06 mSv to 3.0 mSv",
+            "0.04 mSv to 1.0 mSv",
+            "0.05 mSv to 2.0 mSv",
+            "0.07 mSv to 4.0 mSv"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "0.04 mSv to 1.0 mSv"
+    },
+    {
+        "id": 68495,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "04 January 2026",
+        "qt": " is a variety of membrane filtration in which forces like pressure or concentration gradients lead to a separation through a semipermeable membrane.",
+        "op": [
+            "None of these",
+            "Blotting",
+            "Ultrafiltration",
+            "Filter paper"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "Ultrafiltration"
+    },
+    {
+        "id": 69414,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "RPC stands for",
+        "op": [
+            "Reverse-phase chromatography",
+            "None of these",
+            "Right-phase chromatography",
+            "Reverse-phase chemistry"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00",
+        "ca": "Reverse-phase chromatography"
+    },
+    {
+        "id": 69415,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "ELISA stands for ___________.",
+        "op": [
+            "None of these",
+            "Enzyme-linked immunosorbent agent",
+            "Enzyme-linked immunosorbent acid",
+            "Enzyme-linked immunosorbent assay"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00",
+        "ca": "Enzyme-linked immunosorbent assay"
+    },
+    {
+        "id": 69416,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Already exist when a decision on control has to be taken is known as ___________",
+        "op": [
+            "Emergency exposure",
+            "Existing exposure",
+            "None of these",
+            "Planned exposure"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00",
+        "ca": "Existing exposure"
+    },
+    {
+        "id": 69417,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Exposure due to fallout from past testing of nuclear weapons and generation of electricity in nuclear power plants constitutes less than ________.",
+        "op": [
+            "0.4%",
+            "0.3%",
+            "0.2%",
+            "0.5%"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00",
+        "ca": "0.2%"
+    },
+    {
+        "id": 69419,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "In the case of antibody-antigen binding the inverted dissociation constant is used and is called ____________ constant.",
+        "op": [
+            "Antigen",
+            "Affinity",
+            "Antibody",
+            "Diffinity"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00",
+        "ca": "Affinity"
+    },
+    {
+        "id": 69613,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Short-lived electrical events called _______occur in several types of animal cells.",
+        "op": [
+            "Plain potentials",
+            "Mechanical Potentials",
+            "Action potentials",
+            "Electrical potentials"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00",
+        "ca": "Action potentials"
+    },
+    {
+        "id": 69615,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "is a protein visualization technique applied in combination with affinity chromatography.",
+        "op": [
+            "Western Blotting",
+            "Northern Blotting",
+            "Immunoblotting",
+            "Southern Blotting"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00",
+        "ca": "Western Blotting"
+    },
+    {
+        "id": 69617,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "In ____________ relatively large nuclei of  uranium or plutonium, are split.",
+        "op": [
+            "Nuclear fission",
+            "Nuclear energy",
+            "None of these",
+            "Nuclear fusion"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00",
+        "ca": "Nuclear fission"
+    },
+    {
+        "id": 69618,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "ICRP stands for",
+        "op": [
+            "International Committee on Radiation Protection",
+            "International Committee on Radiation Production",
+            "International Committee on Radius Protection",
+            "International Committee on Rodon Protection"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00",
+        "ca": "International Committee on Radiation Protection"
+    },
+    {
+        "id": 69619,
+        "cc": "BIO503",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Radiation arising from human activities typically accounts for about _________ of public exposure.",
+        "op": [
+            "90%",
+            "70%",
+            "20%",
+            "50%"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00",
+        "ca": "20%"
+    }
+]

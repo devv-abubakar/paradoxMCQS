@@ -1,0 +1,1006 @@
+[
+{
+"id": 14129,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "DNA biosensors are based on the employment of DNA molecule as a________________",
+"op": [
+"Enzyme",
+"Biorecognition element",
+"Electronics",
+"Transducer"
+],
+"created_at": "2026-06-22T06:53:09.857172+00:00",
+"ca": "Biorecognition element"
+},
+{
+"id": 14131,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Peptide Nucleic Acids (PNAs) are ideal candidates as antisense or antigene therapeutic agents and are currently used as powerful tools in molecular biology and in diagnostics due to .",
+"op": [
+"Strong Binding",
+"Both B & C",
+"High thermal stability",
+"Resistance to proteases and nucleases"
+],
+"created_at": "2026-06-22T06:53:17.063773+00:00",
+"ca": "Resistance to proteases and nucleases"
+},
+{
+"id": 14137,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "The diploid cell has about ______ micrometers of chromatin.",
+"op": [
+"75",
+"150",
+"90",
+"100"
+],
+"created_at": "2026-06-22T06:53:27.008836+00:00",
+"ca": "90"
+},
+{
+"id": 14138,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": " types of forces are involved in the ssDNA and protein interaction.",
+"op": [
+"2",
+"3",
+"4",
+"5"
+],
+"created_at": "2026-06-22T06:53:32.958351+00:00",
+"ca": "4"
+},
+{
+"id": 14141,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Each human diploid cell (containing 23 pairs of chromosomes) has about _______ meters of DNA.",
+"op": [
+"1.2",
+"1.8",
+"3.2",
+"0.6"
+],
+"created_at": "2026-06-22T06:53:40.018969+00:00",
+"ca": "1.8"
+},
+{
+"id": 15207,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Enzymes are employed in DNA based Biosensors to ___________________ of the DNA based biosensors.",
+"op": [
+"Decrease the sensitivity",
+"Increase the sensitivity",
+"Resolution",
+"Immobilization"
+],
+"created_at": "2026-06-22T09:00:19.856812+00:00",
+"ca": "Increase the sensitivity"
+},
+{
+"id": 15209,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": " is a cationic polymer that can form a stable complex with the negatively charged phosphate groups of the DNA.",
+"op": [
+"Avidin",
+"Chitosan",
+"Biotin",
+"Streptavidin"
+],
+"created_at": "2026-06-22T09:00:33.564581+00:00",
+"ca": "Chitosan"
+},
+{
+"id": 15211,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "The fluid flow is laminar when the value of Reynolds number (Re) is less than .",
+"op": [
+"4000",
+"6000",
+"2000",
+"8000"
+],
+"created_at": "2026-06-22T09:00:55.392181+00:00",
+"ca": "2000"
+},
+{
+"id": 15213,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": " are the chief protein components of chromatin, acting as spools around which DNA winds, and playing a role in gene regulation.",
+"op": [
+"Biotin",
+"Albumin",
+"Histone",
+"Riboflavin"
+],
+"created_at": "2026-06-22T09:01:07.699456+00:00",
+"ca": "Histone"
+},
+{
+"id": 16062,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "________ are oligonucleotide hybridization probes that can report the presence of specific nucleic acids in homogeneous solutions.",
+"op": [
+"Molecular Beacons",
+"Aptamers",
+"Biophotonics",
+"Epitope"
+],
+"created_at": "2026-06-22T13:44:50.066554+00:00",
+"ca": "Molecular Beacons"
+},
+{
+"id": 16064,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "____________ is a device that can perform the functions of a laboratory on a single chip of only millimetres to a few square centimetres in size.",
+"op": [
+"SELEX",
+"Microfluidics",
+"Lab on a chip",
+"Raman Spectroscopy"
+],
+"created_at": "2026-06-22T13:45:11.165225+00:00",
+"ca": "Lab on a chip"
+},
+{
+"id": 16065,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "_________ is composed of DNA wound 1.65 times around eight histone proteins.",
+"op": [
+"Nucleosome",
+"Nucleolus",
+"Nucleotide",
+"Nucleus"
+],
+"created_at": "2026-06-22T13:45:32.334604+00:00",
+"ca": "Nucleosome"
+},
+{
+"id": 16068,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "DNA-mediated Current Transport requires ___________ to the base pair stack.",
+"op": [
+"pH",
+"Resistance",
+"Electronic coupling",
+"Temperature"
+],
+"created_at": "2026-06-22T13:45:48.185999+00:00",
+"ca": "Electronic coupling"
+},
+{
+"id": 16069,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "___________ is the technology of manipulating and controlling fluids and particles at micron and submicron.",
+"op": [
+"SELEX",
+"Lab on a chip",
+"Microfluidics",
+"Raman Spectroscopy"
+],
+"created_at": "2026-06-22T13:46:09.580786+00:00",
+"ca": "Microfluidics"
+},
+{
+"id": 16208,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "An increase of one base pair in DNA-PNA duplex increases the thermal stability of the complex at least upto  °C , as compared to DNA/DNA hybrids.",
+"op": [
+"2",
+"1",
+"3",
+"4"
+],
+"created_at": "2026-06-22T15:12:15.9334+00:00",
+"ca": "1"
+},
+{
+"id": 16209,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Cantilever-based biosensors measure __________ change on the basis of the changes of resonance frequency of the excited piezoelectric film.",
+"op": [
+"Temperature",
+"Time",
+"Pressure",
+"Mass"
+],
+"created_at": "2026-06-22T15:12:24.841805+00:00",
+"ca": "Mass"
+},
+{
+"id": 16210,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Histones are ________ proteins.",
+"op": [
+"Acidic",
+"Basic",
+"None",
+"Neutral"
+],
+"created_at": "2026-06-22T15:12:38.893876+00:00",
+"ca": "Basic"
+},
+{
+"id": 16211,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "The _____________ step for the DNA probe is essential to develop a whole range of biosensors and microarrays.",
+"op": [
+"Capping",
+"Adsorption",
+"Immobilization",
+"Detection"
+],
+"created_at": "2026-06-22T15:12:44.339269+00:00",
+"ca": "Immobilization"
+},
+{
+"id": 16258,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "_______ amino acids that have hydrophobic side chains.",
+"op": [
+"11",
+"9",
+"15",
+"6"
+],
+"created_at": "2026-06-22T15:36:20.821207+00:00",
+"ca": "9"
+},
+{
+"id": 16259,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "DNA can transport charge in solution and on the surface where it is .",
+"op": [
+"Single Stranded",
+"Replicated",
+"Immobilized",
+"Positively Charged"
+],
+"created_at": "2026-06-22T15:36:30.033282+00:00",
+"ca": "Immobilized"
+},
+{
+"id": 16260,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": " between basic Amino acid residues and Phosphate group form during of binding of DNA with histones.",
+"op": [
+"Polar Interactions",
+"Hydrogen Bonding",
+"Non-Polar Interactions",
+"Salt Bridge"
+],
+"created_at": "2026-06-22T15:36:37.399893+00:00",
+"ca": "Salt Bridge"
+},
+{
+"id": 16261,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "The oxidation of DNA bases is carried out near pH ______ using phosphate buffer solution.",
+"op": [
+"3.8",
+"5.5",
+"6",
+"7.4"
+],
+"created_at": "2026-06-22T15:36:43.991005+00:00",
+"ca": "7.4"
+},
+{
+"id": 16507,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "________ between DNA and Amide group formed during binding of DNA with Histones.",
+"op": [
+"Salt Bridge",
+"Non-Polar Interactions",
+"Hydrogen Bonding",
+"Polar Interaction"
+],
+"created_at": "2026-06-22T18:49:45.031739+00:00",
+"ca": "Hydrogen Bonding"
+},
+{
+"id": 16509,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "__________ is oxidizes more easily as compared to the other bases of DNA.",
+"op": [
+"Cytosine",
+"Guanine",
+"Adenine",
+"Thymine"
+],
+"created_at": "2026-06-22T18:49:52.139342+00:00",
+"ca": "Guanine"
+},
+{
+"id": 16511,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "______________ is a combination of two non-covalent interactions such as hydrogen bonding and electrostatic interaction within the two biological molecules.",
+"op": [
+"Salt Bridge",
+"Chemotaxis",
+"Ionic interactions",
+"Hybridization"
+],
+"created_at": "2026-06-22T18:50:00.209639+00:00",
+"ca": "Salt Bridge"
+},
+{
+"id": 17063,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "_________ bases of DNA acts as a proton donor and electro-activity improves the signals.",
+"op": [
+"Thymine",
+"Guanine",
+"Adenine",
+"Cytosine"
+],
+"created_at": "2026-06-22T20:43:50.133071+00:00",
+"ca": "Guanine"
+},
+{
+"id": 17064,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "_____________ are highly basic proteins found in eukaryotic cell nuclei that pack and order the DNA into structural units called nucleosomes.",
+"op": [
+"Albumin",
+"Riboflavin",
+"Biotin",
+"Histone"
+],
+"created_at": "2026-06-22T20:44:17.792362+00:00",
+"ca": "Histone"
+},
+{
+"id": 17429,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "___________ is the insertion of molecules between the planar bases of DNA by Vander wall forces.",
+"op": [
+"Intercalation",
+"Transcription",
+"Replication",
+"Hybridization"
+],
+"created_at": "2026-06-23T02:10:10.842556+00:00",
+"ca": "Intercalation"
+},
+{
+"id": 17430,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Plant can assimilate atmospheric N into amino acids including __________ by the virtue of rhizobia.",
+"op": [
+"Glutamine",
+"Albumin",
+"Biotin",
+"Ascorbic Acid"
+],
+"created_at": "2026-06-23T02:10:25.350206+00:00",
+"ca": "Glutamine"
+},
+{
+"id": 17431,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Molecular weight of avidin/streptavidin is _________ kDa",
+"op": [
+"70",
+"90",
+"55",
+"40"
+],
+"created_at": "2026-06-23T02:10:37.568791+00:00",
+"ca": "70"
+},
+{
+"id": 17646,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Melting point of Cesium is .",
+"op": [
+"20.5",
+"23.8",
+"25.8",
+"35"
+],
+"created_at": "2026-06-23T04:45:38.702298+00:00",
+"ca": "25.8"
+},
+{
+"id": 17647,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Atomic number of Cesium is .",
+"op": [
+"55",
+"85",
+"90",
+"70"
+],
+"created_at": "2026-06-23T04:45:51.832144+00:00",
+"ca": "55"
+},
+{
+"id": 17648,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": " plays main role in the evaporation of water.",
+"op": [
+"Vascular Bundles",
+"Flower",
+"Carpel",
+"Stomata"
+],
+"created_at": "2026-06-23T04:46:00.542332+00:00",
+"ca": "Stomata"
+},
+{
+"id": 17649,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "The fluid flow is turbulent when the value of Reynolds number is greater than .",
+"op": [
+"3000",
+"40",
+"4000",
+"1500"
+],
+"created_at": "2026-06-23T04:46:16.703424+00:00",
+"ca": "4000"
+},
+{
+"id": 18432,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": " is a general term that describes the migration and separation of charged particles (ions) under the influence of an electric field.",
+"op": [
+"Hybridization",
+"Electrophoresis",
+"PCR",
+"Spectrophotometer"
+],
+"created_at": "2026-06-23T07:37:30.597393+00:00",
+"ca": "Electrophoresis"
+},
+{
+"id": 18433,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": " are tree like super structure that consists of several similar branched DNA units, connected to each other using DNA ligase.",
+"op": [
+"DNA Dendrimers",
+"Probes",
+"Aptamers",
+"DNA peptides"
+],
+"created_at": "2026-06-23T07:37:55.201045+00:00",
+"ca": "DNA Dendrimers"
+},
+{
+"id": 18434,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "The binding of DNA the complementary DNA or RNA sequence is called__________.",
+"op": [
+"Replication",
+"Transduction",
+"Hybridization",
+"Transcription"
+],
+"created_at": "2026-06-23T07:38:20.687599+00:00",
+"ca": "Hybridization"
+},
+{
+"id": 18699,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Histones are abundant in .",
+"op": [
+"Glutamine, Alanine",
+"Valine, Lysine",
+"Lysine, Arginine",
+"Valine, Proline"
+],
+"created_at": "2026-06-23T10:20:45.733499+00:00",
+"ca": "Lysine, Arginine"
+},
+{
+"id": 18700,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "The chemical composition of ________ contains elements of DNA and peptides.",
+"op": [
+"Peptide nucleic acid (PNA)",
+"Aptamer",
+"DNA Probe",
+"Amino Acids"
+],
+"created_at": "2026-06-23T10:20:54.815903+00:00",
+"ca": "Peptide nucleic acid (PNA)"
+},
+{
+"id": 19001,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "_ are single stranded DNA or RNA molecules that fold into defined secondary structures and bind to targets with high affinity and specificity.",
+"op": [
+"Probe",
+"Antibody",
+"Antigen",
+"Aptamers"
+],
+"created_at": "2026-06-23T12:24:17.338289+00:00",
+"ca": "Aptamers"
+},
+{
+"id": 19002,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "DNA biosensor are also known as .",
+"op": [
+"Conductometric Sensors",
+"Immunosensors",
+"Geno sensors",
+"Galvano sensors"
+],
+"created_at": "2026-06-23T12:24:24.356406+00:00",
+"ca": "Geno sensors"
+},
+{
+"id": 19222,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "The oxidation of Guanine is _________ dependent.",
+"op": [
+"pH",
+"Temperature",
+"Time",
+"Pressure"
+],
+"created_at": "2026-06-23T13:49:16.247546+00:00",
+"ca": "pH"
+},
+{
+"id": 19427,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "A typical molecular beacon probe is ________ nucleotides long.",
+"op": [
+"15",
+"35",
+"10",
+"25"
+],
+"created_at": "2026-06-23T15:36:55.016401+00:00",
+"ca": "25"
+},
+{
+"id": 19648,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Aptamers bind to their target by determining the _________ structure.",
+"op": [
+"Quaternary",
+"Primary",
+"Tertiary",
+"Secondary"
+],
+"created_at": "2026-06-23T18:13:30.286782+00:00",
+"ca": "Tertiary"
+},
+{
+"id": 19649,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "In _________________ technique, the synthesized DNA probe is typically linked with the group of thiols (SH) or amines (NH2) at the end of 3′ or 5′ to bind covalently to the metal surface or specific functional group introduced to the electrode surface.",
+"op": [
+"Capping",
+"Adsorption",
+"Avidin/ Biotin Interaction",
+"Covalent Bonding"
+],
+"created_at": "2026-06-23T18:13:37.227386+00:00",
+"ca": "Covalent Bonding"
+},
+{
+"id": 19658,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Molecular beacons are designed with having _______ types of sequences.",
+"op": [
+"4",
+"2",
+"6",
+"7"
+],
+"created_at": "2026-06-23T18:23:58.523061+00:00",
+"ca": "2"
+},
+{
+"id": 19659,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": " between protein helix and Phosphate groups of DNA happen during binding of DNA with Histones.",
+"op": [
+"Polar Interactions",
+"Non-Polar interaction",
+"Hydrogen Bonding",
+"Salt Bridge"
+],
+"created_at": "2026-06-23T18:24:35.20191+00:00",
+"ca": "Hydrogen Bonding"
+},
+{
+"id": 20001,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "Each nuclesome is composed of DNA wound 1.65 times around _________ histone proteins.",
+"op": [
+"4",
+"6",
+"10",
+"8"
+],
+"created_at": "2026-06-23T19:49:50.780149+00:00",
+"ca": "8"
+},
+{
+"id": 20006,
+"cc": "BT505",
+"qn": "3",
+"dt": "23 June 2026",
+"qt": "There is no internal repulsion in DNA-PNA dulpex as compared to DNA DNA duplex, that is due due to the .",
+"op": [
+"Absence of Sugar residues",
+"Absence of Phosphate Groups",
+"Presence of Phosphate Group",
+"Presence of Sugar Residues"
+],
+"created_at": "2026-06-23T19:51:15.875948+00:00",
+"ca": "Absence of Phosphate Groups"
+},
+{
+"id": 20569,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Biosensor designed for plant tissues are very helpful in identifying the __________ in plants.",
+"op": [
+"Parts of plants",
+"Age",
+"Growth rate",
+"Nutritional deficiencies"
+],
+"created_at": "2026-06-24T05:12:42.450326+00:00",
+"ca": "Nutritional deficiencies"
+},
+{
+"id": 20573,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "The efficiency of DNA base biosensor could be improved by _________ base electrodes.",
+"op": [
+"Nitrogen/ hydrogen",
+"Sulphur",
+"Carbon/metal",
+"Hydrogen/metal"
+],
+"created_at": "2026-06-24T05:20:17.237357+00:00",
+"ca": "Carbon/metal"
+},
+{
+"id": 20617,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": " is a DNA mimic in which the nucleo-bases are linked by an N-(2-aminoethyl) glycine backbone.",
+"op": [
+"Aptamer",
+"DNA Probe",
+"Peptide nucleic acid (PNA)",
+"Amino Acids"
+],
+"created_at": "2026-06-24T06:08:15.204386+00:00",
+"ca": "Peptide nucleic acid (PNA)"
+},
+{
+"id": 20689,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Generally, the flow of fluid in a microchip is laminar due to __________ and small distances.",
+"op": [
+"Resistance",
+"Small diameter",
+"Smooth Path",
+"High Speed"
+],
+"created_at": "2026-06-24T07:21:11.559496+00:00",
+"ca": "Small diameter"
+},
+{
+"id": 21075,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "______ is the ratio of inertial forces to viscous forces.",
+"op": [
+"Shielding Effect",
+"Dissipation factor",
+"Inertia",
+"Reynolds number"
+],
+"created_at": "2026-06-24T15:37:51.57802+00:00",
+"ca": "Reynolds number"
+},
+{
+"id": 21076,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "_____________ is described as the most redox-active nitrogeneous base in DNA.",
+"op": [
+"Adenine",
+"Guanine",
+"Thymine",
+"Cytosine"
+],
+"created_at": "2026-06-24T15:38:07.805466+00:00",
+"ca": "Guanine"
+},
+{
+"id": 21236,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "__________ are short DNA oligonucleotides (12-40-mer) able to hybridize with specific target sequences.",
+"op": [
+"DNA Probes",
+"Antibody",
+"DNA Dendrimers",
+"Aptamers"
+],
+"created_at": "2026-06-24T18:48:28.04438+00:00",
+"ca": "DNA Probes"
+},
+{
+"id": 21239,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "The convenient oxidation of ______________ base is helpful in the detection of target molecule under ambient conditions.",
+"op": [
+"Thymine",
+"Adenine",
+"Guanine",
+"Cytosine"
+],
+"created_at": "2026-06-24T18:48:50.016306+00:00",
+"ca": "Guanine"
+},
+{
+"id": 21241,
+"cc": "BT505",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "__________ interaction between ribose sugar and histones happen during binding of DNA with Histones.",
+"op": [
+"Hydrogen Bonding",
+"Polar Interaction",
+"Salt Bridge",
+"Non-Polar Interaction"
+],
+"created_at": "2026-06-24T18:54:30.346583+00:00",
+"ca": "Hydrogen Bonding"
+},
+{
+"id": 25690,
+"cc": "BT505",
+"qn": "4",
+"dt": "29 June 2026",
+"qt": "Nucleosomes fold up to form a 30- nanometer chromatin fiber, which forms loops averaging______ nanometers in length.",
+"op": [
+"200",
+"300",
+"400",
+"450"
+],
+"created_at": "2026-06-29T02:38:29.449925+00:00",
+"ca": "300"
+},
+{
+"id": 26863,
+"cc": "BT505",
+"qn": "4",
+"dt": "29 June 2026",
+"qt": "__________ is a process which decreases the fluorescence intensity of a substance.",
+"op": [
+"Impedance",
+"Fluorescence",
+"Dissipation",
+"Quenching"
+],
+"created_at": "2026-06-29T09:57:22.154057+00:00",
+"ca": "Quenching"
+},
+{
+"id": 27339,
+"cc": "BT505",
+"qn": "4",
+"dt": "29 June 2026",
+"qt": "____________ interactions between the N-terminal tail of Histone minor groove of DNA occur during binding of DNA with histones.",
+"op": [
+"Non-Polar interaction",
+"Hydrogen Bonding",
+"Non-Specific",
+"Polar interaction"
+],
+"created_at": "2026-06-29T18:39:11.757201+00:00",
+"ca": "Non-Specific"
+},
+{
+"id": 36482,
+"cc": "BT505",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "When human DNA is exposed to γ rays and heavy particles, there is an increase in the _______ main degraded products of guanine.",
+"op": [
+"3",
+"4",
+"1",
+"2"
+],
+"created_at": "2026-07-01T18:20:10.993067+00:00",
+"ca": "4"
+},
+{
+"id": 41907,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "A typical molecular beacon probe is ________ nucleotides long.",
+"op": [
+"10",
+"15",
+"35",
+"25"
+],
+"created_at": "2026-06-22T04:20:34.017092+00:00",
+"ca": "25"
+},
+{
+"id": 41908,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "Atomic number of Cesium is .",
+"op": [
+"70",
+"90",
+"55",
+"85"
+],
+"created_at": "2026-06-22T04:20:54.940812+00:00",
+"ca": "55"
+},
+{
+"id": 41909,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "__ are single stranded DNA or RNA molecules that fold into defined secondary structures and bind to targets with high affinity and specificity.",
+"op": [
+"Antigen",
+"Antibody",
+"Probe",
+"Aptamers"
+],
+"created_at": "2026-06-22T04:21:06.553233+00:00",
+"ca": "Aptamers"
+},
+{
+"id": 41910,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "______________ is a combination of two non-covalent interactions such as hydrogen bonding and electrostatic interaction within the two biological molecules.",
+"op": [
+"Hybridization",
+"Salt Bridge",
+"Ionic interactions",
+"Chemotaxis"
+],
+"created_at": "2026-06-22T04:21:20.171481+00:00",
+"ca": "Salt Bridge"
+},
+{
+"id": 41911,
+"cc": "BT505",
+"qn": "3",
+"dt": "22 June 2026",
+"qt": "__________ is oxidized more easily as compared to the other bases of DNA.",
+"op": [
+"Adenine",
+"Cytosine",
+"Guanine",
+"Thymine"
+],
+"created_at": "2026-06-22T04:21:31.099747+00:00",
+"ca": "Guanine"
+}]

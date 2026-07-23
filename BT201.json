@@ -1,0 +1,3677 @@
+[
+{
+"id": 55418,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the primary role of fungi in ecosystems?",
+"op": [
+"Parasite on humans",
+"Predator of bacteria",
+"Decomposer and nutrient recycler",
+"Pathogen for plants"
+],
+"created_at": "2026-07-06T23:20:51.573543+00:00",
+"ca": "Decomposer and nutrient recycler"
+},
+{
+"id": 55419,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "In lichens, what is the fungal component called?",
+"op": [
+"Phycobiont",
+"Chlorobiont",
+"Mycobiont",
+"Prothallus"
+],
+"created_at": "2026-07-06T23:21:07.585892+00:00",
+"ca": "Mycobiont"
+},
+{
+"id": 55420,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "How do fungi benefit grazing animals?",
+"op": [
+"Clean the digestive tract",
+"Help digest cellulose",
+"Provide camouflage",
+"Supply blood nutrients"
+],
+"created_at": "2026-07-06T23:21:23.036828+00:00",
+"ca": "Help digest cellulose"
+},
+{
+"id": 55421,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "The structure formed inside plant root cells by Glomeromycota is called:",
+"op": [
+"Zygospore",
+"Conidia",
+"Arbuscule",
+"Rhizoid"
+],
+"created_at": "2026-07-06T23:21:44.26407+00:00",
+"ca": "Arbuscule"
+},
+{
+"id": 55422,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What do fungi receive from plants in mycorrhizal associations?",
+"op": [
+"Oxygen",
+"Photosynthates (e.g., glucose)",
+"Nitrogen compounds",
+"Hormones"
+],
+"created_at": "2026-07-06T23:22:05.68739+00:00",
+"ca": "Photosynthates (e.g., glucose)"
+},
+{
+"id": 55423,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which structure is responsible for producing basidiospores in mushrooms?",
+"op": [
+"Gills",
+"Hyphae",
+"Button",
+"Stipe"
+],
+"created_at": "2026-07-06T23:22:21.564459+00:00",
+"ca": "Gills"
+},
+{
+"id": 55424,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the role of fungi in ant colonies according to the video?",
+"op": [
+"Digesting leaves brought by ants",
+"Making tunnels",
+"Attacking ant larvae",
+"Attracting predators"
+],
+"created_at": "2026-07-06T23:22:33.278752+00:00",
+"ca": "Digesting leaves brought by ants"
+},
+{
+"id": 55425,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which essential elements are recycled by fungi through decomposition?",
+"op": [
+"Oxygen and sulfur",
+"Carbon and nitrogen",
+"Water and silicon",
+"Phosphorus and potassium"
+],
+"created_at": "2026-07-06T23:22:44.307409+00:00",
+"ca": "Carbon and nitrogen"
+},
+{
+"id": 55426,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which of the following is not a common growth form of lichens?",
+"op": [
+"Crustose",
+"Foliose",
+"Fruticose",
+"Filamentous"
+],
+"created_at": "2026-07-06T23:22:57.425866+00:00",
+"ca": "Filamentous"
+},
+{
+"id": 55478,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which plant structures are most associated with fungal symbiosis?",
+"op": [
+"Roots",
+"Flowers",
+"Leaves",
+"Stems"
+],
+"created_at": "2026-07-07T01:03:28.301129+00:00",
+"ca": "Roots"
+},
+{
+"id": 55479,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which mode of reproduction is commonly seen in chytrids under favorable conditions?",
+"op": [
+"Binary fission",
+"Asexual reproduction via zoospores",
+"Sexual reproduction with different gametes",
+"Budding"
+],
+"created_at": "2026-07-07T01:03:38.757017+00:00",
+"ca": "Asexual reproduction via zoospores"
+},
+{
+"id": 55480,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the term for a relationship where both fungi and animals benefit?",
+"op": [
+"Parasitism",
+"Mutualism",
+"Predation",
+"Commensalism"
+],
+"created_at": "2026-07-07T01:03:52.104079+00:00",
+"ca": "Mutualism"
+},
+{
+"id": 55481,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the mutualistic association of fungi and algae called?",
+"op": [
+"Hyphae",
+"Rhizoid",
+"Lichen",
+"Mycorrhiza"
+],
+"created_at": "2026-07-07T01:04:04.689097+00:00",
+"ca": "Lichen"
+},
+{
+"id": 55482,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which of the following is a typical substrate for Rhizopus growth?",
+"op": [
+"Tree bark",
+"Bread, fruits, and moist vegetables",
+"Insects",
+"Dry rocks"
+],
+"created_at": "2026-07-07T01:04:21.533794+00:00",
+"ca": "Bread, fruits, and moist vegetables"
+},
+{
+"id": 55483,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What type of relationship does a parasitic fungus have with its host?",
+"op": [
+"Mutualistic",
+"Parasitic",
+"Symbiotic",
+"Commensal"
+],
+"created_at": "2026-07-07T01:05:17.136399+00:00",
+"ca": "Parasitic"
+},
+{
+"id": 55484,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "How do parasitic fungi enter the human body most often?",
+"op": [
+"Through digestion",
+"Through wounds",
+"Through inhalation",
+"Through contact with infected animals"
+],
+"created_at": "2026-07-07T01:05:48.110149+00:00",
+"ca": "Through inhalation"
+},
+{
+"id": 55485,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which animals often rely on fungi to digest plant material?",
+"op": [
+"Amphibians",
+"Grazing animals like cows and sheep",
+"Predators",
+"Birds of prey"
+],
+"created_at": "2026-07-07T01:06:01.408427+00:00",
+"ca": "Grazing animals like cows and sheep"
+},
+{
+"id": 55486,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the percentage of fungal species known to be parasitic?",
+"op": [
+"10%",
+"90%",
+"30%",
+"50%"
+],
+"created_at": "2026-07-07T01:06:24.805039+00:00",
+"ca": "30%"
+},
+{
+"id": 55487,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Glomeromycota are grouped under which fungal phylum?",
+"op": [
+"Chytridiomycota",
+"Zygomycota",
+"Glomeromycota",
+"Ascomycota"
+],
+"created_at": "2026-07-07T01:06:40.638594+00:00",
+"ca": "Glomeromycota"
+},
+{
+"id": 56514,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What role do fungi play in plant nutrition?",
+"op": [
+"They release inorganic nutrients through decomposition",
+"They feed on live roots",
+"They cause nutrient deficiency",
+"They absorb chlorophyll"
+],
+"created_at": "2026-07-07T10:16:07.022114+00:00",
+"ca": "They release inorganic nutrients through decomposition"
+},
+{
+"id": 56516,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the algal component of lichen called?",
+"op": [
+"Photobiont",
+"Mycelium",
+"Sporebiont",
+"Sporangium"
+],
+"created_at": "2026-07-07T10:17:36.377204+00:00",
+"ca": "Photobiont"
+},
+{
+"id": 56519,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What makes fungi effective decomposers in ecosystems?",
+"op": [
+"They store nitrogen",
+"They secrete enzymes to degrade lignin and cellulose",
+"They are autotrophs",
+"They photosynthesize"
+],
+"created_at": "2026-07-07T10:18:01.204939+00:00",
+"ca": "They secrete enzymes to degrade lignin and cellulose"
+},
+{
+"id": 56521,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "The hyphae of Rhizopus are described as:",
+"op": [
+"Aseptate and multinucleated",
+"Dikaryotic and septate",
+"Monokaryotic and branched",
+"Septate"
+],
+"created_at": "2026-07-07T10:18:12.326453+00:00",
+"ca": "Aseptate and multinucleated"
+},
+{
+"id": 56523,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "The vegetative reproduction in Rhizopus occurs by:",
+"op": [
+"Spore formation",
+"Budding",
+"Conidia",
+"Hyphal fragmentation"
+],
+"created_at": "2026-07-07T10:18:27.981089+00:00",
+"ca": "Hyphal fragmentation"
+},
+{
+"id": 56580,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Zygomycetes usually reproduce sexually by forming:",
+"op": [
+"Zygospores",
+"Ascospores",
+"Zoospores",
+"Basidiospores"
+],
+"created_at": "2026-07-07T11:01:36.898628+00:00",
+"ca": "Zygospores"
+},
+{
+"id": 56582,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which chemical from fungi is used to lower cholesterol levels?",
+"op": [
+"Erythromycin",
+"Cyclosporin",
+"Statin",
+"Cephalosporin"
+],
+"created_at": "2026-07-07T11:02:08.509099+00:00",
+"ca": "Statin"
+},
+{
+"id": 56583,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the most unique feature of chytrid fungi among fungal phyla?",
+"op": [
+"Production of antibiotics",
+"Presence of hyphae",
+"Production of basidiospores",
+"Flagellated zoospores"
+],
+"created_at": "2026-07-07T11:02:21.647777+00:00",
+"ca": "Flagellated zoospores"
+},
+{
+"id": 56585,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which fungal genus is commonly associated with allergic reactions in humans?",
+"op": [
+"Aspergillus",
+"Rhizopus",
+"Trichoderma",
+"Penicillium"
+],
+"created_at": "2026-07-07T11:02:41.2947+00:00",
+"ca": "Aspergillus"
+},
+{
+"id": 56586,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "The reproductive structure that houses zygospores is called:",
+"op": [
+"Ascocarp",
+"Basidium",
+"Conidiophore",
+"Zygosporangium"
+],
+"created_at": "2026-07-07T11:02:54.027988+00:00",
+"ca": "Zygosporangium"
+},
+{
+"id": 56588,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What do plants receive from fungi in mycorrhizal associations?",
+"op": [
+"Sugars",
+"Water and minerals",
+"CO₂",
+"Organic acids"
+],
+"created_at": "2026-07-07T11:03:25.441408+00:00",
+"ca": "Water and minerals"
+},
+{
+"id": 56870,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Chytrids store their carbohydrates in the form of:",
+"op": [
+"Lipids",
+"Starch",
+"Glycogen",
+"Glucose"
+],
+"created_at": "2026-07-07T15:00:55.004846+00:00",
+"ca": "Glycogen"
+},
+{
+"id": 56872,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Which of the following is an antibiotic derived from fungi?",
+"op": [
+"Penicillin",
+"Morphine",
+"Insulin",
+"Estrogen"
+],
+"created_at": "2026-07-07T15:09:47.272181+00:00",
+"ca": "Penicillin"
+},
+{
+"id": 56874,
+"cc": "BT201",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "What is the main structural component of the chytrid fungal cell wall?",
+"op": [
+"Peptidoglycan",
+"Glycogen",
+"Chitin",
+"Cellulose"
+],
+"created_at": "2026-07-07T15:10:48.030557+00:00",
+"ca": "Chitin"
+},
+{
+"id": 57902,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Mushrooms belong to which phylum of fungi?",
+"op": [
+"Ascomycota",
+"Deuteromycota",
+"Zygomycota",
+"Basidiomycota"
+],
+"created_at": "2026-07-08T04:38:01.136878+00:00",
+"ca": "Basidiomycota"
+},
+{
+"id": 57904,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "What type of hyphae are involved in mushroom mycelium?",
+"op": [
+"Monokaryotic",
+"Dikaryotic",
+"Septate",
+"Aseptate"
+],
+"created_at": "2026-07-08T04:39:33.445193+00:00",
+"ca": "Dikaryotic"
+},
+{
+"id": 57911,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "In mutualism, both organisms:",
+"op": [
+"One benefits, one is harmed",
+"Benefit from the interaction",
+"Are harmed",
+"Compete for nutrients"
+],
+"created_at": "2026-07-08T04:41:21.621536+00:00",
+"ca": "Benefit from the interaction"
+},
+{
+"id": 57969,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "The primary reproductive strategy of mushrooms is:",
+"op": [
+"Budding",
+"Fission",
+"Sexual reproduction",
+"Fragmentation"
+],
+"created_at": "2026-07-08T05:08:22.467938+00:00",
+"ca": "Sexual reproduction"
+},
+{
+"id": 57972,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Which of the following is a typical example of a zygomycete fungus?",
+"op": [
+"Penicillium chrysogenum",
+"Agaricus bisporus",
+"Saccharomyces cerevisiae",
+"Rhizopus stolonifer"
+],
+"created_at": "2026-07-08T05:09:11.488713+00:00",
+"ca": "Rhizopus stolonifer"
+},
+{
+"id": 58146,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Glomeromycota form a symbiotic relationship with the roots of approximately:",
+"op": [
+"25% of land plants",
+"100% of land plants",
+"80% of land plants",
+"50% of land plants"
+],
+"created_at": "2026-07-08T07:40:56.345452+00:00",
+"ca": "80% of land plants"
+},
+{
+"id": 58933,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Rhizopus belongs to which class of fungi?",
+"op": [
+"Glomeromycota",
+"Ascomycota",
+"Zygomycota",
+"Basidiomycota"
+],
+"created_at": "2026-07-08T18:10:16.392865+00:00",
+"ca": "Zygomycota"
+},
+{
+"id": 58934,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Approximately what percentage of true fungi species are classified under Zygomycota?",
+"op": [
+"20%",
+"5%",
+"1%",
+"10%"
+],
+"created_at": "2026-07-08T18:11:21.639171+00:00",
+"ca": "1%"
+},
+{
+"id": 58935,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "What type of relationship do fungi have with most plants?",
+"op": [
+"Symbiotic (mutualistic)",
+"Parasitic",
+"Commensal",
+"Antagonistic"
+],
+"created_at": "2026-07-08T18:12:52.247483+00:00",
+"ca": "Symbiotic (mutualistic)"
+},
+{
+"id": 58955,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Which type of reproduction is found in Glomeromycota?",
+"op": [
+"Both sexual and asexual",
+"Only sexual",
+"Budding",
+"Only asexual"
+],
+"created_at": "2026-07-08T18:51:20.443624+00:00",
+"ca": "Only asexual"
+},
+{
+"id": 62693,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Seeds first appeared during which geological period?",
+"op": [
+"Triassic",
+"Devonian",
+"Carboniferous",
+"Jurassic"
+],
+"created_at": "2026-07-13T20:59:00.649743+00:00",
+"ca": "Devonian"
+},
+{
+"id": 62694,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Why do mosses remain small in size compared to vascular plants?",
+"op": [
+"They lack vascular tissues",
+"Their roots are shallow",
+"They lack sunlight",
+"They have slow growth rate"
+],
+"created_at": "2026-07-13T20:59:37.85645+00:00",
+"ca": "They lack vascular tissues"
+},
+{
+"id": 62695,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which male plant structure produces pollen?",
+"op": [
+"Stigma",
+"Style",
+"Anther",
+"Ovary"
+],
+"created_at": "2026-07-13T20:59:55.017155+00:00",
+"ca": "Anther"
+},
+{
+"id": 62696,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What is the function of rhizoids in moss?",
+"op": [
+"Anchorage and absorption",
+"Reproduction",
+"Seed dispersal",
+"Photosynthesis"
+],
+"created_at": "2026-07-13T21:00:06.114394+00:00",
+"ca": "Anchorage and absorption"
+},
+{
+"id": 62697,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "The largest living group of gymnosperms is:",
+"op": [
+"Ferns",
+"Gnetophytes",
+"Cycads",
+"Conifers"
+],
+"created_at": "2026-07-13T21:00:18.159321+00:00",
+"ca": "Conifers"
+},
+{
+"id": 62698,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What makes seed plants less dependent on water for reproduction?",
+"op": [
+"Water storage in leaves",
+"Pollen grains do not need water to reach the ovule",
+"Rhizoids",
+"Stomata"
+],
+"created_at": "2026-07-13T21:00:30.499284+00:00",
+"ca": "Pollen grains do not need water to reach the ovule"
+},
+{
+"id": 62700,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What happens to the zygote after fertilization?",
+"op": [
+"Dies after a day",
+"Germinates into gametophyte",
+"Detaches from gametophyte",
+"Grows into a sporophyte"
+],
+"created_at": "2026-07-13T21:00:42.107089+00:00",
+"ca": "Grows into a sporophyte"
+},
+{
+"id": 62701,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "How do bryophytes help in preventing soil erosion?",
+"op": [
+"By forming flowers",
+"By growing roots",
+"By producing mucus",
+"By acting as soil binders and forming a bed"
+],
+"created_at": "2026-07-13T21:00:58.456492+00:00",
+"ca": "By acting as soil binders and forming a bed"
+},
+{
+"id": 62703,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Bryophytes are considered pioneers because:",
+"op": [
+"They were first to colonize land from aquatic environments",
+"They have flowers",
+"They live in deserts",
+"They form seeds"
+],
+"created_at": "2026-07-13T21:01:10.575736+00:00",
+"ca": "They were first to colonize land from aquatic environments"
+},
+{
+"id": 62704,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What does the antheridium produce?",
+"op": [
+"Zygote",
+"Sperm",
+"Egg",
+"Spore"
+],
+"created_at": "2026-07-13T21:01:22.32337+00:00",
+"ca": "Sperm"
+},
+{
+"id": 62733,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which vascular tissue is made up of non-living cells and transports water?",
+"op": [
+"Cambium",
+"Epidermis",
+"Phloem",
+"Xylem"
+],
+"created_at": "2026-07-14T01:47:29.180503+00:00",
+"ca": "Xylem"
+},
+{
+"id": 62734,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which of the following is a nonvascular plant group?",
+"op": [
+"Ferns",
+"Angiosperms",
+"Gymnosperms",
+"Liverworts"
+],
+"created_at": "2026-07-14T01:47:41.798364+00:00",
+"ca": "Liverworts"
+},
+{
+"id": 62735,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Gravitropic response in roots means:",
+"op": [
+"Movement away from soil",
+"No movement",
+"Movement towards light",
+"Movement towards gravity"
+],
+"created_at": "2026-07-14T01:47:55.822988+00:00",
+"ca": "Movement towards gravity"
+},
+{
+"id": 62736,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "The only living gymnosperm species in China is:",
+"op": [
+"Ginkgo biloba (Geno)",
+"Juniper",
+"Cedar",
+"Pine"
+],
+"created_at": "2026-07-14T01:48:09.799385+00:00",
+"ca": "Ginkgo biloba (Geno)"
+},
+{
+"id": 62737,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What protects the seed from desiccation?",
+"op": [
+"Thick protective coat",
+"Alula",
+"Pollination",
+"Stored nutrients"
+],
+"created_at": "2026-07-14T01:48:23.212192+00:00",
+"ca": "Thick protective coat"
+},
+{
+"id": 62738,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which plant group possesses vascular tissues?",
+"op": [
+"Mosses",
+"Liverworts",
+"Tracheophytes",
+"Hornworts"
+],
+"created_at": "2026-07-14T01:48:35.082162+00:00",
+"ca": "Tracheophytes"
+},
+{
+"id": 62739,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which structure carries the male gametes in seed plants?",
+"op": [
+"Filament",
+"Spore",
+"Ovule",
+"Pollen grain"
+],
+"created_at": "2026-07-14T01:49:12.707859+00:00",
+"ca": "Pollen grain"
+},
+{
+"id": 62773,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which group does moss belong to?",
+"op": [
+"Angiosperms",
+"Pteridophytes",
+"Bryophytes",
+"Gymnosperms"
+],
+"created_at": "2026-07-14T04:55:57.422501+00:00",
+"ca": "Bryophytes"
+},
+{
+"id": 62774,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Why do bryophytes remain small in size?",
+"op": [
+"They lack chloroplasts",
+"They grow slowly",
+"They do not have vascular tissues",
+"Their leaves are broad"
+],
+"created_at": "2026-07-14T04:57:06.167677+00:00",
+"ca": "They do not have vascular tissues"
+},
+{
+"id": 62775,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which of the following is NOT a seedless vascular plant?",
+"op": [
+"Pine",
+"Club moss",
+"Horsetail",
+"Fern"
+],
+"created_at": "2026-07-14T04:57:39.441064+00:00",
+"ca": "Pine"
+},
+{
+"id": 62776,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which habitat is most favorable for the growth of bryophytes?",
+"op": [
+"Moist environments",
+"Salty oceans",
+"Sandy beaches",
+"Dry plains"
+],
+"created_at": "2026-07-14T04:58:05.472994+00:00",
+"ca": "Moist environments"
+},
+{
+"id": 62777,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What is the dominant stage in the life cycle of mosses?",
+"op": [
+"Gametophyte",
+"Seedling",
+"Sporophyte",
+"Rhizoid"
+],
+"created_at": "2026-07-14T04:58:24.707586+00:00",
+"ca": "Gametophyte"
+},
+{
+"id": 62778,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What happens after the sperm fuses with the egg in the moss life cycle?",
+"op": [
+"A seed is formed",
+"A zygote is formed and develops into a sporophyte",
+"A gametophyte forms",
+"The plant dies"
+],
+"created_at": "2026-07-14T04:59:12.269705+00:00",
+"ca": "A zygote is formed and develops into a sporophyte"
+},
+{
+"id": 62944,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What property allows Sphagnum to retain water effectively?",
+"op": [
+"Root hairs",
+"Waxy cuticle",
+"Water-holding capacity of cells",
+"Air-filled pores"
+],
+"created_at": "2026-07-14T09:58:08.453048+00:00",
+"ca": "Water-holding capacity of cells"
+},
+{
+"id": 62945,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which of the following is an example of self-pollination?",
+"op": [
+"Wind carries pollen over a mountain",
+"Pollen moves from male to female parts of the same flower",
+"Pollen travels to a different species",
+"A bee pollinates several plants"
+],
+"created_at": "2026-07-14T09:59:18.064569+00:00",
+"ca": "Pollen moves from male to female parts of the same flower"
+},
+{
+"id": 62946,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "In which geological period did roots first evolve?",
+"op": [
+"Cambrian",
+"Jurassic",
+"Silurian",
+"Devonian"
+],
+"created_at": "2026-07-14T10:00:22.047688+00:00",
+"ca": "Devonian"
+},
+{
+"id": 62947,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which plant group produces naked seeds?",
+"op": [
+"Angiosperms",
+"Bryophytes",
+"Gymnosperms",
+"Algae"
+],
+"created_at": "2026-07-14T10:00:53.686927+00:00",
+"ca": "Gymnosperms"
+},
+{
+"id": 62948,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Why are seeds considered a key adaptation for terrestrial life?",
+"op": [
+"Because they are small",
+"They produce flowers",
+"They don’t need roots",
+"They protect embryos and allow survival in harsh environments"
+],
+"created_at": "2026-07-14T10:01:29.992086+00:00",
+"ca": "They protect embryos and allow survival in harsh environments"
+},
+{
+"id": 62949,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What ecological role does peat moss play in succession?",
+"op": [
+"It attracts bees",
+"It absorbs water and converts muddy banks into solid soil",
+"It provides oxygen to lakes",
+"It eats bacteria"
+],
+"created_at": "2026-07-14T10:01:50.211024+00:00",
+"ca": "It absorbs water and converts muddy banks into solid soil"
+},
+{
+"id": 62978,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "The protective structure at the tip of the root is:",
+"op": [
+"Root node",
+"Root cap",
+"Apical meristem",
+"Root hairs"
+],
+"created_at": "2026-07-14T11:04:41.927065+00:00",
+"ca": "Root cap"
+},
+{
+"id": 62979,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What is the function of lignin in xylem walls?",
+"op": [
+"It stores food",
+"It provides rigidity and prevents water loss",
+"It breaks down minerals",
+"It facilitates gas exchange"
+],
+"created_at": "2026-07-14T11:07:04.839611+00:00",
+"ca": "It provides rigidity and prevents water loss"
+},
+{
+"id": 63027,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Phloem mainly transports:",
+"op": [
+"Water",
+"Food and minerals",
+"Chlorophyll",
+"Carbon dioxide"
+],
+"created_at": "2026-07-14T12:22:31.965971+00:00",
+"ca": "Food and minerals"
+},
+{
+"id": 63028,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": ". The word 'gymnosperm' literally means:",
+"op": [
+"Flowering seed",
+"Naked seed",
+"Covered seed",
+"Fertile seed"
+],
+"created_at": "2026-07-14T12:22:58.367911+00:00",
+"ca": "Naked seed"
+},
+{
+"id": 63029,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which generation is dominant in higher plants?",
+"op": [
+"None of the above",
+"Sporophyte",
+"Gametophyte",
+"Zygote"
+],
+"created_at": "2026-07-14T12:23:57.746978+00:00",
+"ca": "Sporophyte"
+},
+{
+"id": 63030,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Gymnosperm seeds are called “naked” because they:",
+"op": [
+"Are dispersed by water",
+"Are not enclosed in ovaries",
+"Lack stored food",
+"Grow only on leave"
+],
+"created_at": "2026-07-14T12:25:06.023272+00:00",
+"ca": "Are not enclosed in ovaries"
+},
+{
+"id": 63082,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "How does sperm reach the egg in mosses?",
+"op": [
+"Swimming through water",
+"Direct contact",
+"Wind pollination",
+"By insects"
+],
+"created_at": "2026-07-14T14:15:30.742581+00:00",
+"ca": "Swimming through water"
+},
+{
+"id": 63083,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Why are seeds considered evolutionarily superior to spores?",
+"op": [
+"Seeds cannot disperse",
+"Seeds store nutrients and can remain dormant",
+"Seeds need constant water supply",
+"Spores are larger than seeds"
+],
+"created_at": "2026-07-14T14:17:15.462715+00:00",
+"ca": "Seeds store nutrients and can remain dormant"
+},
+{
+"id": 63246,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Which vascular tissue transports water from roots to other parts?",
+"op": [
+"Xylem",
+"Cambium",
+"Phloem",
+"Epidermis"
+],
+"created_at": "2026-07-14T18:14:12.74339+00:00",
+"ca": "Xylem"
+},
+{
+"id": 63247,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Why do bryophytes reduce the impact of rain on soil?",
+"op": [
+"Because they repel water",
+"Because they absorb the impact and water",
+"Because they grow underground",
+"Because they are tall plants"
+],
+"created_at": "2026-07-14T18:15:09.433859+00:00",
+"ca": "Because they absorb the impact and water"
+},
+{
+"id": 63248,
+"cc": "BT201",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "What is the primary feature of roots that ensures water absorption?",
+"op": [
+"Cuticle",
+"Leaf veins",
+"Root cap",
+"Root hairs"
+],
+"created_at": "2026-07-14T18:16:17.190655+00:00",
+"ca": "Root hairs"
+},
+{
+"id": 63393,
+"cc": "BT201",
+"qn": "3",
+"dt": "15 July 2026",
+"qt": "What is the scientific study of pollen called?",
+"op": [
+"Botany",
+"Palynology",
+"Dendrology",
+"Mycology"
+],
+"created_at": "2026-07-15T04:24:32.864184+00:00",
+"ca": "Palynology"
+},
+{
+"id": 63394,
+"cc": "BT201",
+"qn": "3",
+"dt": "15 July 2026",
+"qt": "What feature allows megaphylls to adapt to reduced CO₂ levels?",
+"op": [
+"Vascular cambium",
+"Decreased chloroplasts",
+"Lack of veins",
+"Presence of stomata and increased surface area"
+],
+"created_at": "2026-07-15T04:24:46.917371+00:00",
+"ca": "Presence of stomata and increased surface area"
+},
+{
+"id": 63395,
+"cc": "BT201",
+"qn": "3",
+"dt": "15 July 2026",
+"qt": "Which plant is used in Europe as a renewable fuel source?",
+"op": [
+"Club Moss",
+"Fern",
+"Rhododendron",
+"Sphagnum"
+],
+"created_at": "2026-07-15T04:25:25.610961+00:00",
+"ca": "Sphagnum"
+},
+{
+"id": 63413,
+"cc": "BT201",
+"qn": "3",
+"dt": "15 July 2026",
+"qt": "What does the word Bryophyte mean in Greek origin?",
+"op": [
+"Moss plants",
+"Water plants",
+"Tiny herbs",
+"Green plants"
+],
+"created_at": "2026-07-15T05:14:14.278645+00:00",
+"ca": "Moss plants"
+},
+{
+"id": 63567,
+"cc": "BT201",
+"qn": "3",
+"dt": "15 July 2026",
+"qt": "Which structure allows plants to absorb water and nutrients from soil?",
+"op": [
+"Stems",
+"Phloem",
+"Roots",
+"Leaves"
+],
+"created_at": "2026-07-15T08:25:57.061199+00:00",
+"ca": "Roots"
+},
+{
+"id": 69004,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What are the main photosynthetic pigments shared by green algae and plants? ",
+"op": [
+"Chlorophyll b and hemoglobin",
+"Chlorophyll c and d",
+"Xanthophyll only",
+"Chlorophyll a, chlorophyll b, carotenoids"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Chlorophyll a, chlorophyll b, carotenoids"
+},
+{
+"id": 69005,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What made angiosperms more successful than gymnosperms? ",
+"op": [
+"Absence of vascular tissues",
+"Cross-breeding and formation of diverse flowers & fruits",
+"Naked seeds",
+"Slower reproductive cycles"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Cross-breeding and formation of diverse flowers & fruits"
+},
+{
+"id": 69006,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What protects plant tissues from desiccation in dry environments? ",
+"op": [
+"Cuticle",
+"Vascular tissue",
+"Leaves",
+"Stomata"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Cuticle"
+},
+{
+"id": 69007,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which situation would reduce plant survival chances in changing environments? ",
+"op": [
+"Dependence only on self-pollination",
+"Presence of multiple pollinators",
+"Cross-pollination between different plants",
+"Production of nectar-rich flowers"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Dependence only on self-pollination"
+},
+{
+"id": 69157,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why are insects important for angiosperm reproduction? ",
+"op": [
+"They provide water to flowers",
+"They help fruits to ripen",
+"They thicken the ovary wall",
+"They carry pollen between flowers"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "They carry pollen between flowers"
+},
+{
+"id": 69158,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which sequence correctly represents the life cycle of angiosperms? ",
+"op": [
+"Zygote → Gametophyte → Sporophyte → Seed",
+"Gametophyte → Sporophyte → Spore → Zygote",
+"Seed → Gametophyte → Sporophyte → Zygote",
+"Sporophyte → Gametophyte → Zygote → Seed → Sporophyte"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Sporophyte → Gametophyte → Zygote → Seed → Sporophyte"
+},
+{
+"id": 69159,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the function of sporangia in plants? ",
+"op": [
+"Produce gametes",
+"Absorb nutrients",
+"Produce walled spores",
+"Provide mechanical support"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Produce walled spores"
+},
+{
+"id": 69162,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "When did plants first begin to colonize land? ",
+"op": [
+"Silurian Period",
+"Jurassic Period",
+"Devonian Period",
+"Cambrian Period"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Silurian Period"
+},
+{
+"id": 69164,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which student project BEST demonstrates pollination? ",
+"op": [
+"Listing types of flowers",
+"Observing bees transferring pollen in a garden",
+"Drawing a flower diagram",
+"Writing names of pollinators"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Observing bees transferring pollen in a garden"
+},
+{
+"id": 69165,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why did angiosperms rapidly diversify? ",
+"op": [
+"Dependence on water for reproduction",
+"Outcrossing favored genetic diversity",
+"Thick spore walls",
+"Aquatic-only reproduction"
+],
+"created_at": "2026-07-15T13:27:37.991159+00:00",
+"ca": "Outcrossing favored genetic diversity"
+},
+{
+"id": 69168,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Fertilization and seed maturation in pines take up to 2 years because: ",
+"op": [
+"Embryo develops outside the ovule",
+"Female gametophyte develops very slowly",
+"Pollen grains remain dormant for years",
+"Pollination is water-dependent"
+],
+"created_at": "2026-07-15T13:27:38.736223+00:00",
+"ca": "Female gametophyte develops very slowly"
+},
+{
+"id": 69584,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the waxy covering on the epidermis of land plants called?  ",
+"op": [
+"Gametangia",
+"Mycorrhizae",
+"Cuticle",
+"Stomata"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Cuticle"
+},
+{
+"id": 69585,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why are secondary compounds called “secondary”?  ",
+"op": [
+"Because they are byproducts of primary metabolic reactions",
+"Because they are made during reproduction",
+"Because they are toxic",
+"Because they are stored in leaves"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Because they are byproducts of primary metabolic reactions"
+},
+{
+"id": 69586,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": " Conifers are well adapted to cold and dry areas due to their:  ",
+"op": [
+"Needle-like leaves",
+"Compound leaves",
+"Vessel elements",
+"Broad leaves"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Needle-like leaves"
+},
+{
+"id": 69589,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why is pollen an important adaptation for land plants? ",
+"op": [
+"It forms fruits",
+"It absorbs sunlight",
+"It allows fertilization without water",
+"It grows roots"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "It allows fertilization without water"
+},
+{
+"id": 69590,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the role of flavonoids in plants?  ",
+"op": [
+"Transport food",
+"Absorb UV light and signal soil microorganisms",
+"Aid in mitosis",
+"Prevent water loss"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Absorb UV light and signal soil microorganisms"
+},
+{
+"id": 69626,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Introduction of invasive species affects plant diversity by: ",
+"op": [
+"Enhancing pollination of native species",
+"Increasing native plant seed dispersal",
+"Competing with native species for resources",
+"Reducing soil erosion"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Competing with native species for resources"
+},
+{
+"id": 69629,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What makes floral designers prefer Sphagnum blocks? ",
+"op": [
+"Color contrast",
+"Aesthetic appeal",
+"Moisture retention",
+"Nutritional value"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Moisture retention"
+},
+{
+"id": 69630,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the main difference between vascular and nonvascular plants? ",
+"op": [
+"Presence of vascular tissues for water and food transport",
+"Presence of flowers",
+"Leaf arrangement",
+"Type of seeds"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Presence of vascular tissues for water and food transport"
+},
+{
+"id": 69631,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why is the cuticle an important adaptation for land plants? ",
+"op": [
+"Absorbs sunlight",
+"Prevents water loss",
+"Helps in reproduction",
+"Aids in nitrogen fixation"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Prevents water loss"
+},
+{
+"id": 69632,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "When did plants first colonize terrestrial ecosystems?  ",
+"op": [
+"475 million years ago",
+"200 million years ago",
+"350 million years ago",
+"600 million years ago"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "475 million years ago"
+},
+{
+"id": 69634,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What role do animals play in maintaining plant biodiversity?  ",
+"op": [
+"They decompose plant waste",
+"They act as pollinators and seed dispersers",
+"They reduce plant numbers",
+"They consume all plant species"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "They act as pollinators and seed dispersers"
+},
+{
+"id": 69635,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "The only living species of Ginkgophyta is: ",
+"op": [
+"Cedrus deodara",
+"Ginkgo biloba",
+"Sequoia gigantea",
+"Juniperus communis"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Ginkgo biloba"
+},
+{
+"id": 69640,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Modern drugs from plants are mostly derived from: ",
+"op": [
+"Animal tissues",
+"Secondary metabolites",
+"Primary metabolites",
+"Soil bacteria"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Secondary metabolites"
+},
+{
+"id": 69641,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Dicots dominate woody plant diversity because: ",
+"op": [
+"Their vascular tissues support secondary growth and woody structures.",
+"They have parallel venation.",
+"They have scattered vascular bundles.",
+"They are always herbaceous."
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Their vascular tissues support secondary growth and woody structures."
+},
+{
+"id": 69735,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which method would BEST help conserve genetic diversity in crop plants? ",
+"op": [
+"Encouraging only self-pollinated crops",
+"Eliminating all pollinating agents",
+"Promoting cross-pollination and use of pollinator insects",
+"Pollinating only through wind"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Promoting cross-pollination and use of pollinator insects"
+},
+{
+"id": 69736,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why is the sporophyte phase dominant in angiosperms? ",
+"op": [
+"It occurs after fertilization only.",
+"It depends on gametophytes for food.",
+"It is only present during seed germination.",
+"It is larger, photosynthetic, and produces reproductive structures."
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "It is larger, photosynthetic, and produces reproductive structures."
+},
+{
+"id": 69737,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the evolutionary advantage of cross-pollination over self-pollination? ",
+"op": [
+"Greater genetic diversity and better adaptability",
+"Faster seed production",
+"Larger flower size",
+"Reduced dependency on pollinators"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Greater genetic diversity and better adaptability"
+},
+{
+"id": 69760,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which of the following is a secondary metabolite produced by plants?  ",
+"op": [
+"Cellulose",
+"Enzymes",
+"Alkaloids",
+"Starch"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Alkaloids"
+},
+{
+"id": 69761,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "The aquatic ancestry of angiosperms is supported by: ",
+"op": [
+"Lack of flowers",
+"Open seeds",
+"Presence of cones",
+"Fossil evidence of early aquatic plants"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Fossil evidence of early aquatic plants"
+},
+{
+"id": 69763,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "The largest phylum of gymnosperms is:  ",
+"op": [
+"Gnetophyta",
+"Coniferophyta",
+"Ginkgophyta",
+"Cycadophyta"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Coniferophyta"
+},
+{
+"id": 69787,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why is preserving plant diversity essential for humans and animals? ",
+"op": [
+"To maintain ecosystem balance and ensure food and medicine supply",
+"To reduce the need for forests",
+"To increase the number of invasive species",
+"To speed up climate change"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "To maintain ecosystem balance and ensure food and medicine supply"
+},
+{
+"id": 69788,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which sequence best represents angiosperm evolution? ",
+"op": [
+"Ferns → Gymnosperms → Angiosperms",
+"Aquatic plants → Closed carpel flowers → Fleshy fruits → Dominance on land",
+"Land plants → Cones → Naked seeds → Flowers",
+"Spores → Cones → Fruits"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Aquatic plants → Closed carpel flowers → Fleshy fruits → Dominance on land"
+},
+{
+"id": 69792,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which factor best explains why angiosperms dominate most ecosystems? ",
+"op": [
+"Presence of cones for seed protection",
+"Slower seed development than gymnosperms",
+"Faster fertilization and seed production",
+"Lack of flowers"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Faster fertilization and seed production"
+},
+{
+"id": 69793,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which adaptation helps prevent self-pollination? ",
+"op": [
+"Closed flowers with sticky stigma",
+"Bright petals and nectar to attract insects",
+"Absence of pollinators",
+"Same height of anther and stigma"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Bright petals and nectar to attract insects"
+},
+{
+"id": 69794,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why are plant spores resistant to harsh environments? ",
+"op": [
+"Because they have stomata",
+"Due to the presence of sporopollenin in their walls",
+"Because they are multicellular",
+"Because they are fertilized"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Due to the presence of sporopollenin in their walls"
+},
+{
+"id": 69800,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Select the correct sequence to classify an unknown flowering plant: ",
+"op": [
+"Only count flower parts",
+"Check height → Count leaves → Check bark → Check seed size",
+"Count cotyledons → Check venation → Observe flower parts → Check vascular bundle arrangement",
+"Observe flowers → Check seeds → Check roots → Count cotyledons"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Count cotyledons → Check venation → Observe flower parts → Check vascular bundle arrangement"
+},
+{
+"id": 69801,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which of the following is NOT a function of plant biodiversity? ",
+"op": [
+"Oxygen production",
+"Increasing air pollution",
+"Providing shelter to animals",
+"Soil erosion prevention"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Increasing air pollution"
+},
+{
+"id": 69802,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the role of mycorrhizae in land plant adaptation? ",
+"op": [
+"Increase root surface area for water/nutrient absorption",
+"Decrease transpiration",
+"Prevent predation",
+"Reproduction"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Increase root surface area for water/nutrient absorption"
+},
+{
+"id": 69815,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which of the following features helps monocots adapt to herbaceous life? ",
+"op": [
+"Woody tissues",
+"Thick secondary xylem",
+"Scattered vascular bundles",
+"Reticulate venation"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Scattered vascular bundles"
+},
+{
+"id": 69817,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why do pollinators depend on flowers? ",
+"op": [
+"To avoid predators",
+"For nectar and pollen as food sources",
+"For shelter only",
+"For dispersal by wind"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "For nectar and pollen as food sources"
+},
+{
+"id": 69818,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "What is the function of the apical meristem in land plants?  ",
+"op": [
+"Photosynthesize",
+"Produce spores",
+"Control water loss",
+"Enable continuous upward growth"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Enable continuous upward growth"
+},
+{
+"id": 69849,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Why is inbreeding (self-pollination) disadvantageous in plants? ",
+"op": [
+"It produces more colorful flowers",
+"It reduces genetic variation and adaptability",
+"It speeds up cross-pollination",
+"It increases flower size"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "It reduces genetic variation and adaptability"
+},
+{
+"id": 69850,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which awareness message is BEST for protecting plant diversity? ",
+"op": [
+"Plant native species – save forests, save life",
+"Invasive species are better than native ones",
+"Cut more forests for farming",
+"Biodiversity is not important"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Plant native species – save forests, save life"
+},
+{
+"id": 69851,
+"cc": "BT201",
+"qn": "1",
+"dt": "05 January 2026",
+"qt": "Which of the following would you include when designing a pollinator-friendly flower? ",
+"op": [
+"Thick ovary wall, small petals",
+"Water-dispersed fruits",
+"Hard seed coat, dry fruits",
+"Bright petals, scent, nectar"
+],
+"created_at": "2026-07-15T13:27:41.009498+00:00",
+"ca": "Bright petals, scent, nectar"
+},
+{
+"id": 69986,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "If you were to draw a life cycle chart of pine, which step comes right after pollination? ",
+"op": [
+"Release of pollen",
+"Seed dispersal",
+"Germination into a sporophyte",
+"Fertilization inside archegonia"
+],
+"created_at": "2026-07-15T13:27:44.846492+00:00",
+"ca": "Fertilization inside archegonia"
+},
+{
+"id": 69987,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "Which of the following would be the BEST conservation message? ",
+"op": [
+"Only angiosperms matter, gymnosperms don’t.",
+"Seed plants are life – preserve biodiversity for food and medicine.",
+"Plant diversity is useless.",
+"Cut more trees for fuel."
+],
+"created_at": "2026-07-15T13:27:44.846492+00:00",
+"ca": "Seed plants are life – preserve biodiversity for food and medicine."
+},
+{
+"id": 69988,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "Why are ferns used as indoor ornamental plants? ",
+"op": [
+"They need high sunlight",
+"They thrive in low light",
+"They produce flowers",
+"They repel pests"
+],
+"created_at": "2026-07-15T13:27:44.846492+00:00",
+"ca": "They thrive in low light"
+},
+{
+"id": 69989,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "Why should plant biodiversity be preserved? ",
+"op": [
+"To produce only ornamental flowers",
+"Because seed plants are critical for food, medicine, and ecosystem balance",
+"To keep forests green only",
+"To replace angiosperms with gymnosperms"
+],
+"created_at": "2026-07-15T13:27:44.846492+00:00",
+"ca": "Because seed plants are critical for food, medicine, and ecosystem balance"
+},
+{
+"id": 69995,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "Which adaptation increases reproductive success in angiosperms compared to non-flowering plants? ",
+"op": [
+"Absence of seeds",
+"Production of cones instead of flowers",
+"Lack of alternation of generations",
+"Flowers and enclosed ovules for fertilization"
+],
+"created_at": "2026-07-15T13:27:44.846492+00:00",
+"ca": "Flowers and enclosed ovules for fertilization"
+},
+{
+"id": 70560,
+"cc": "BT201",
+"qn": "1",
+"dt": "06 January 2026",
+"qt": "When did plants begin to colonize terrestrial land? ",
+"op": [
+"470–500 million years ago",
+"65 million years ago",
+"1 billion years ago",
+"200 million years ago"
+],
+"created_at": "2026-07-15T13:27:49.452585+00:00",
+"ca": "470–500 million years ago"
+},
+{
+"id": 70905,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "What is the primary storage form of carbohydrates in both green algae and land plants? ",
+"op": [
+"Glucose",
+"Starch",
+"Glycogen",
+"Cellulose"
+],
+"created_at": "2026-07-15T13:27:52.043639+00:00",
+"ca": "Starch"
+},
+{
+"id": 70907,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "Which structure ensures male gametes reach the ovule? ",
+"op": [
+"Cotyledon",
+"Pollen tube",
+"Filament",
+"Microsporangia"
+],
+"created_at": "2026-07-15T13:27:52.043639+00:00",
+"ca": "Pollen tube"
+},
+{
+"id": 70935,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "What group is considered the closest living ancestor to land plants?  ",
+"op": [
+"Green algae",
+"Brown algae",
+"Red algae",
+"Cyanobacteria"
+],
+"created_at": "2026-07-15T13:27:52.043639+00:00",
+"ca": "Green algae"
+},
+{
+"id": 70936,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "Which student experiment BEST demonstrates cross-pollination? ",
+"op": [
+"Listing flower colors in a garden",
+"Drawing flower diagrams",
+"Writing an essay on wind pollination",
+"Observing bees transferring pollen between two flowers of the same species"
+],
+"created_at": "2026-07-15T13:27:52.043639+00:00",
+"ca": "Observing bees transferring pollen between two flowers of the same species"
+},
+{
+"id": 71032,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "Microphylls are:  ",
+"op": [
+"Compound leaves",
+"Leaves with one vascular strand",
+"Non-vascular leaf-like structures",
+"Broad megaphylls"
+],
+"created_at": "2026-07-15T13:27:57.033399+00:00",
+"ca": "Leaves with one vascular strand"
+},
+{
+"id": 71035,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "Deforestation negatively affects human welfare because: ",
+"op": [
+"It promotes artificial selection",
+"It increases wood supply permanently",
+"It increases seed production",
+"It reduces diversity of seed plants crucial for food and medicine"
+],
+"created_at": "2026-07-15T13:27:57.033399+00:00",
+"ca": "It reduces diversity of seed plants crucial for food and medicine"
+},
+{
+"id": 71036,
+"cc": "BT201",
+"qn": "1",
+"dt": "07 January 2026",
+"qt": "A massive tree, 82 m tall with a trunk girth of 23.7 m, belongs to which gymnosperm group? ",
+"op": [
+"Conifers",
+"Gnetophytes",
+"Ginkgo",
+"Cycads"
+],
+"created_at": "2026-07-15T13:27:57.033399+00:00",
+"ca": "Conifers"
+},
+{
+"id": 71198,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Genetic drift causes changes in allele frequencies due to: ",
+"op": [
+"Artificial selection",
+"Mutation only",
+"Natural selection",
+"Chance alone or sampling error"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Chance alone or sampling error"
+},
+{
+"id": 71199,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What role did unicellular organisms play in Earth's evolutionary timeline? ",
+"op": [
+"They were quickly replaced",
+"They gave rise to multicellular life",
+"They formed crystals",
+"They remained unchanged"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "They gave rise to multicellular life"
+},
+{
+"id": 71200,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "How can invasive species affect ecosystems? ",
+"op": [
+"Increase biodiversity without any harm",
+"Disrupt ecological structure and processes",
+"Have no measurable impact",
+"Improve ecosystem services"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Disrupt ecological structure and processes"
+},
+{
+"id": 71201,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What environmental elements were present in early Earth simulations? ",
+"op": [
+"Cold climate and snow",
+"Thunderstorms, volcanic eruptions, no ozone",
+"Rainforests and rivers",
+"Glaciers and wind"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Thunderstorms, volcanic eruptions, no ozone"
+},
+{
+"id": 71202,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "According to the fossil record, life on Earth began at least: ",
+"op": [
+"2.5 billion years ago",
+"4.0 billion years ago",
+"4.6 billion years ago",
+"3.5 billion years ago"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "3.5 billion years ago"
+},
+{
+"id": 71203,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the role of plasmids in antibiotic resistance? ",
+"op": [
+"They kill bacteria",
+"They produce antibiotics",
+"They carry resistance genes",
+"They absorb toxins"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "They carry resistance genes"
+},
+{
+"id": 71204,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Why is it important to study the Hadean Eon and early life? ",
+"op": [
+"To understand how life originated under harsh conditions",
+"To calculate Earth’s mass",
+"To study current pollution levels",
+"To find oil and minerals"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "To understand how life originated under harsh conditions"
+},
+{
+"id": 71205,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "According to Darwin, what drives sexual dimorphism? ",
+"op": [
+"Habitat destruction",
+"Food scarcity",
+"Shortage of mates",
+"Predator-prey conflict"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Shortage of mates"
+},
+{
+"id": 71206,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What type of rocks are fossils typically preserved in? ",
+"op": [
+"Sedimentary",
+"Metamorphic",
+"Volcanic",
+"Igneous"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Sedimentary"
+},
+{
+"id": 71207,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What leads to the formation of new species from existing ones, according to the Synthetic theory of Evolution? ",
+"op": [
+"Artificial selection only",
+"Genetic variation in the population",
+"Extinction events",
+"Hybrid vigor"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Genetic variation in the population"
+},
+{
+"id": 71215,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is a point mutation? ",
+"op": [
+"A change of a single base in DNA",
+"A deletion of a chromosome",
+"A mutation that affects the entire gene",
+"Duplication of multiple genes"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "A change of a single base in DNA"
+},
+{
+"id": 71216,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "If allele frequencies change between generations, what does this indicate? ",
+"op": [
+"Genotype frequencies are fixed",
+"The population is in equilibrium",
+"Evolutionary forces are acting on the population",
+"Population stability"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Evolutionary forces are acting on the population"
+},
+{
+"id": 71217,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is gene flow? ",
+"op": [
+"Flow of alleles in and out of a population",
+"Natural selection acting on alleles",
+"Mutation within gametes",
+"Genetic drift in a large population"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Flow of alleles in and out of a population"
+},
+{
+"id": 71218,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What do paleontologists study?  ",
+"op": [
+"Climate",
+"Fossils",
+"Ecosystems",
+"Living organisms"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Fossils"
+},
+{
+"id": 71219,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What could be a long-term result of gene flow between two geographically isolated populations? ",
+"op": [
+"New species evolve",
+"Equal allele distribution",
+"Genotype extinction",
+"Increased divergence"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Equal allele distribution"
+},
+{
+"id": 71220,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does p² represent in the Hardy-Weinberg equation? ",
+"op": [
+"Allele frequency of recessive",
+"Mutation rate",
+"Heterozygous genotype frequency",
+"Homozygous dominant genotype frequency"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Homozygous dominant genotype frequency"
+},
+{
+"id": 71221,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Convergent evolution produces: ",
+"op": [
+"Homologous structures",
+"Analogous structures",
+"Vestigial organs",
+"Recombinant chromosomes"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Analogous structures"
+},
+{
+"id": 71222,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is meant by the term “gene pool”? ",
+"op": [
+"The total number of species in an ecosystem",
+"The complete set of genes in a population",
+"Genes that are passed on from environment",
+"A place where genes are stored"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "The complete set of genes in a population"
+},
+{
+"id": 71223,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following processes affect both microevolution and macroevolution? ",
+"op": [
+"Photosynthesis",
+"Erosion",
+"Natural selection and mutation",
+"Plate tectonics"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Natural selection and mutation"
+},
+{
+"id": 71234,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which process is mainly responsible for the evolution of sexual dimorphism? ",
+"op": [
+"Environmental shift",
+"Migration",
+"Sexual selection",
+"Genetic mutation"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Sexual selection"
+},
+{
+"id": 71235,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What happens when a DNA portion is deleted from a chromosome? ",
+"op": [
+"It removes genes and disrupts function",
+"It results in protein elongation",
+"It initiates DNA repair",
+"It duplicates all genes"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "It removes genes and disrupts function"
+},
+{
+"id": 71236,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the gene pool of a population? ",
+"op": [
+"The most common alleles in a species",
+"The sum of all genes present in all individuals of a population",
+"Only dominant genes in a population",
+"All the genotypes of a few individuals"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "The sum of all genes present in all individuals of a population"
+},
+{
+"id": 71237,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is genetic variation? ",
+"op": [
+"Variation in diet of organisms",
+"Differences in the genetic makeup within a population",
+"Mutation in only plant species",
+"Differences in height among species"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Differences in the genetic makeup within a population"
+},
+{
+"id": 71238,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is adaptive evolution? ",
+"op": [
+"Selection of beneficial alleles for survival",
+"Increase of deleterious alleles",
+"Elimination of all alleles",
+"Mutation of gametes only"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Selection of beneficial alleles for survival"
+},
+{
+"id": 71239,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the primary source of genetic variation? ",
+"op": [
+"Environmental factors",
+"Mutations",
+"Breeding techniques",
+"Nutrition"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Mutations"
+},
+{
+"id": 71240,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "If blue eye color becomes a desirable trait in a population, what is likely to happen? ",
+"op": [
+"Blue eye allele frequency will increase",
+"Blue eye alleles will disappear",
+"Eye color becomes neutral",
+"Brown eye alleles will dominate"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Blue eye allele frequency will increase"
+},
+{
+"id": 71274,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the earliest evidence of life on Earth found in geological records? ",
+"op": [
+"Coral reefs",
+"Trilobite fossils",
+"Dinosaur bones",
+"Microbes in rocks"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Microbes in rocks"
+},
+{
+"id": 71275,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which populations are most affected by genetic drift?  ",
+"op": [
+"Genetically engineered populations",
+"Small populations",
+"Isolated populations",
+"Large populations"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Small populations"
+},
+{
+"id": 71276,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the primary cause behind the evolution of drug-resistant bacteria? ",
+"op": [
+"Misuse of antibiotics",
+"Increased humidity in the environment",
+"Use of vaccines",
+"Genetic engineering"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Misuse of antibiotics"
+},
+{
+"id": 71277,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following best defines an index fossil? ",
+"op": [
+"A fossil that shows evidence of soft tissues",
+"A fossil found in igneous rocks",
+"A fossil found only in mountain regions",
+"A fossil that is typical of a specific geological period and found widely"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "A fossil that is typical of a specific geological period and found widely"
+},
+{
+"id": 71278,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following describes macroevolution?  ",
+"op": [
+"Genetic changes in a single generation",
+"Evolution of dog breeds",
+"Evolution of humans from unicellular organisms",
+"Color changes in moths during industrialization"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Evolution of humans from unicellular organisms"
+},
+{
+"id": 71279,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the term used when heterozygotes have higher fitness due to a single locus? ",
+"op": [
+"Overdominance",
+"Incomplete dominance",
+"Codominance",
+"Polymorphism"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Overdominance"
+},
+{
+"id": 71280,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following is not a main source of genetic variation? ",
+"op": [
+"Sexual reproduction",
+"Mutation",
+"Rapid reproduction",
+"Photosynthesis"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Photosynthesis"
+},
+{
+"id": 71281,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which concept did Darwin describe as “descent with modification”? ",
+"op": [
+"Branching inheritance",
+"Evolutionary changes over generations",
+"Sudden creation",
+"Natural selection"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Evolutionary changes over generations"
+},
+{
+"id": 71365,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What type of evidence is provided by molecular homologies? ",
+"op": [
+"Molecular and biochemical",
+"Environmental",
+"Anatomical",
+"Geological"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Molecular and biochemical"
+},
+{
+"id": 71366,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What happens during gene duplication that can lead to new gene functions? ",
+"op": [
+"Genes are lost",
+"Genes are copied and may take on new roles",
+"Genes stop working",
+"Genes mutate immediately"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "Genes are copied and may take on new roles"
+},
+{
+"id": 71368,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "How old is the Earth estimated to be? ",
+"op": [
+"6 billion years",
+"2.5 billion years",
+"4.5 billion years",
+"12 billion years"
+],
+"created_at": "2026-07-15T13:27:57.962061+00:00",
+"ca": "4.5 billion years"
+},
+{
+"id": 71370,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Why was there little or no oxygen in the early Earth's atmosphere? ",
+"op": [
+"Oxygen was locked in rocks",
+"Because volcanoes consumed oxygen",
+"Because of strong magnetic fields",
+"There were no oxygen-producing organisms"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "There were no oxygen-producing organisms"
+},
+{
+"id": 71374,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What do analogous structures have in common? ",
+"op": [
+"Similar function, different evolutionary origin",
+"Identical DNA sequences",
+"Similar origin and structure",
+"Different function and origin"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Similar function, different evolutionary origin"
+},
+{
+"id": 71375,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is microevolution primarily caused by? ",
+"op": [
+"Artificial selection",
+"Natural disasters",
+"Mutation in unrelated species",
+"Changes in allele frequencies due to natural selection"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Changes in allele frequencies due to natural selection"
+},
+{
+"id": 71399,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the role of the Hardy-Weinberg principle in genetics? ",
+"op": [
+"Counts total alleles",
+"Acts as a baseline to compare evolving populations",
+"Identifies dominant genes",
+"Measures mutation rates"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Acts as a baseline to compare evolving populations"
+},
+{
+"id": 71401,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does the fossil record help scientists determine? ",
+"op": [
+"Formation of crystals",
+"Future evolution of humans",
+"History of life and extinct organisms",
+"How fossils look under a microscope"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "History of life and extinct organisms"
+},
+{
+"id": 71402,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the primary habitat of the spiny anteater? ",
+"op": [
+"Asia",
+"Australia",
+"South America",
+"North America"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Australia"
+},
+{
+"id": 71403,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the significance of billions of years of activity by living organisms on Earth? ",
+"op": [
+"Shaped the current environment",
+"Caused volcanic eruptions",
+"Stopped evolution",
+"Made Earth colder"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Shaped the current environment"
+},
+{
+"id": 71404,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What type of change is common after species invasion? ",
+"op": [
+"Geological",
+"No change at all",
+"Rapid evolutionary change",
+"Climatic only"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Rapid evolutionary change"
+},
+{
+"id": 71405,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following organisms are prokaryotes? ",
+"op": [
+"Plants and algae",
+"Animals and fungi",
+"Protists and viruses",
+"Bacteria and archaea"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Bacteria and archaea"
+},
+{
+"id": 71406,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What type of evidence supports the theory of evolution based on internal organ structure?  ",
+"op": [
+"Geological evidence",
+"Environmental evidence",
+"Anatomical evidence",
+"Behavioral evidence"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Anatomical evidence"
+},
+{
+"id": 71428,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which scenario is most likely to lead to speciation over time? ",
+"op": [
+"Introduction of dominant alleles to a large population",
+"Migration of a few individuals followed by inbreeding",
+"Mutation of recessive alleles",
+"A stable population with high diversity"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Migration of a few individuals followed by inbreeding"
+},
+{
+"id": 71429,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Fixation in terms of genetic drift means: ",
+"op": [
+"Mutation of all alleles",
+"Inheritance of two alleles",
+"An allele becomes the only one present at a locus",
+"Dominance of all genotypes"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "An allele becomes the only one present at a locus"
+},
+{
+"id": 71430,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What are the two main effects associated with genetic drift? ",
+"op": [
+"Mutation and Selection",
+"Founder effect and bottleneck effect",
+"Natural selection and adaptation",
+"Speciation and mutation"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Founder effect and bottleneck effect"
+},
+{
+"id": 71431,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the main element used in radiometric dating besides carbon? ",
+"op": [
+"Nitrogen",
+"Potassium",
+"Oxygen",
+"Sulphur"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Potassium"
+},
+{
+"id": 71464,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does the Hardy-Weinberg theorem primarily state?  ",
+"op": [
+"Dominant alleles increase over time",
+"Mutations are random events",
+"Genotype changes occur in every generation",
+"Allele frequencies remain constant across generations in the absence of evolutionary forces"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Allele frequencies remain constant across generations in the absence of evolutionary forces"
+},
+{
+"id": 71465,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": " Natural selection is limited because it acts on: ",
+"op": [
+"Phenotypes of individuals",
+"Codominant alleles",
+"DNA sequences directly",
+"Environment only"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Phenotypes of individuals"
+},
+{
+"id": 71466,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What was one major characteristic of Earth’s early atmosphere? ",
+"op": [
+"It was covered with forests",
+"It was rich in oxygen",
+"It supported complex life",
+"It lacked oxygen"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "It lacked oxygen"
+},
+{
+"id": 71467,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What did the Miller-Urey experiment demonstrate? ",
+"op": [
+"Oxygen is needed to create amino acids",
+"DNA can be created from rocks",
+"Organic compounds can form under early Earth conditions",
+"Hydrothermal vents were unimportant"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Organic compounds can form under early Earth conditions"
+},
+{
+"id": 71468,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Fossils show that:  ",
+"op": [
+"Life on Earth was different in the past",
+"Life has always existed in its present form",
+"Evolution only affects plants",
+"Extinct organisms had no relation to modern ones"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Life on Earth was different in the past"
+},
+{
+"id": 71469,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which method is considered the gold standard for determining allele frequency? ",
+"op": [
+"Genotyping approach",
+"Phenotypic observation",
+"DNA fingerprinting",
+"PCR only"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Genotyping approach"
+},
+{
+"id": 71472,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "How does natural selection affect allele frequencies in a population? ",
+"op": [
+"It only increases harmful alleles",
+"It removes all alleles",
+"It increases the frequency of beneficial alleles",
+"It ensures all alleles are equally common"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "It increases the frequency of beneficial alleles"
+},
+{
+"id": 71473,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does a phylogenetic tree represent? ",
+"op": [
+"Ecosystem structure",
+"A food chain",
+"Geographical distribution",
+"Evolutionary relationships"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Evolutionary relationships"
+},
+{
+"id": 71474,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is convergent evolution?  ",
+"op": [
+"Independent evolution of similar traits in unrelated species",
+"Similar evolution in genetically identical species",
+"Evolution of dissimilar traits in similar environments",
+"Evolution from a common ancestor"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Independent evolution of similar traits in unrelated species"
+},
+{
+"id": 71475,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "In a heterozygous genotype (2pq), which allele dominates the phenotype if p is dominant and q is recessive? ",
+"op": [
+"Both alleles",
+"Neither allele",
+"q allele",
+"p allele"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "p allele"
+},
+{
+"id": 71476,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Why can chromosomal mutations affect two chromosomes in translocation? ",
+"op": [
+"They separate completely",
+"Mutation is neutral",
+"One loses and one gains a segment",
+"One becomes smaller"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "One loses and one gains a segment"
+},
+{
+"id": 71477,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "The forelimbs of a human, bird, whale, and dog are examples of:  ",
+"op": [
+"Homologous structures",
+"Degenerate organs",
+"Convergent features",
+"Homoplastic structures"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Homologous structures"
+},
+{
+"id": 71478,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which process can create new alleles in a population? ",
+"op": [
+"Photosynthesis",
+"Digestion",
+"Mutation",
+"Breathing"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Mutation"
+},
+{
+"id": 71479,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Where are fossils mostly preserved?  ",
+"op": [
+"Sedimentary rocks",
+"Igneous rocks",
+"Metamorphic rocks",
+"Volcanic layers"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Sedimentary rocks"
+},
+{
+"id": 71480,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does the Modern Synthetic Theory of Evolution primarily explain? ",
+"op": [
+"Evolution only by environmental influence",
+"Evolution through use and disuse",
+"Evolution through genetic variations and natural selection",
+"Evolution of planets"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Evolution through genetic variations and natural selection"
+},
+{
+"id": 71481,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "The bottleneck effect occurs when: ",
+"op": [
+"A mutation arises in a single allele",
+"A species migrates to a new habitat",
+"A large population is genetically modified",
+"Population size is drastically reduced for at least one generation"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Population size is drastically reduced for at least one generation"
+},
+{
+"id": 71482,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which molecule is referred to as a universal code among organisms?  ",
+"op": [
+"ATP",
+"Enzyme",
+"RNA",
+"DNA"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "DNA"
+},
+{
+"id": 71483,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What are fossils? ",
+"op": [
+"Remains or imprints of dead organisms",
+"Living organisms in deep oceans",
+"Crystals formed in rocks",
+"Artificial models of ancient animals"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Remains or imprints of dead organisms"
+},
+{
+"id": 71484,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What do fossils primarily provide evidence for? ",
+"op": [
+"Biodiversity in current ecosystems",
+"Evolutionary changes over time",
+"Photosynthesis in plants",
+"Earth's atmospheric composition"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Evolutionary changes over time"
+},
+{
+"id": 71485,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What does the green dot represent in the frog population example? ",
+"op": [
+"Frogs with green skin color",
+"Frogs with multiple alleles",
+"Frogs with dominant traits",
+"Frogs that are extinct"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Frogs with green skin color"
+},
+{
+"id": 71486,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "In a population, what is indicated when the Hardy-Weinberg equilibrium is not maintained? ",
+"op": [
+"The population is stable",
+"There is no gene flow",
+"Evolution is occurring",
+"The population is shrinking"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Evolution is occurring"
+},
+{
+"id": 71490,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is the main difference between microevolution and macroevolution? ",
+"op": [
+"Size of organism",
+"Environment",
+"Time scale over which it occurs",
+"Location of evolution"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Time scale over which it occurs"
+},
+{
+"id": 71491,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is a fossil?  ",
+"op": [
+"A rock formation",
+"A recently discovered species",
+"A living organism adapted to extreme conditions",
+"A preserved remain or trace of a past organism"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "A preserved remain or trace of a past organism"
+},
+{
+"id": 71492,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "The half-life of Potassium-40 used in dating ancient rocks is: ",
+"op": [
+"1.3 billion years",
+"3.5 billion years",
+"5,730 years",
+"704 million years"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "1.3 billion years"
+},
+{
+"id": 71493,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "A chromosomal change that deletes or rearranges many loci is usually: ",
+"op": [
+"Harmful",
+"Necessary",
+"Beneficial",
+"Harmless"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Harmful"
+},
+{
+"id": 71494,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What is meant by “introduced species”? ",
+"op": [
+"A native species evolving into another",
+"A species created by artificial selection",
+"A species that goes extinct",
+"A species brought into a new ecosystem"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "A species brought into a new ecosystem"
+},
+{
+"id": 71495,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Stromatolites are formed due to: ",
+"op": [
+"Volcanic eruptions",
+"Breakdown of trilobites",
+"Calcified microbial deposits",
+"Sedimentation of sand"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Calcified microbial deposits"
+},
+{
+"id": 71496,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "What was the Cambrian explosion? ",
+"op": [
+"A meteorite impact",
+"A mass extinction event",
+"A massive volcanic eruption",
+"Rapid appearance of many new animal body plans"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Rapid appearance of many new animal body plans"
+},
+{
+"id": 71499,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Who proposed that Earth's early atmosphere was a reducing environment? ",
+"op": [
+"Wegener and Haldane",
+"Alfred Wegener and Charles Darwin",
+"Oparin and Haldane",
+"Stanley Miller and Louis Pasteur"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Oparin and Haldane"
+},
+{
+"id": 71500,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": " Why can’t natural selection produce perfect organisms? ",
+"op": [
+"It works on ideal genetic codes",
+"It only selects from existing variation",
+"It always creates new genes",
+"It removes all harmful mutations"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "It only selects from existing variation"
+},
+{
+"id": 71501,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following is a possible consequence of DNA segment inversion? ",
+"op": [
+"Chromosome duplication",
+"New chromosome formation",
+"RNA degradation",
+"Change in protein structure"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Change in protein structure"
+},
+{
+"id": 71502,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following is a condition for a population to be in Hardy-Weinberg equilibrium? ",
+"op": [
+"Natural selection",
+"No genetic drift",
+"High migration",
+"Constant mutation"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "No genetic drift"
+},
+{
+"id": 71519,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which is NOT a way natural selection affects populations? ",
+"op": [
+"Creating adaptive features",
+"Altering allele frequencies",
+"Changing phenotype display",
+"Reducing genetic drift"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Reducing genetic drift"
+},
+{
+"id": 71520,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Which of the following statements is true about prokaryotes? ",
+"op": [
+"They lack membrane-bound organelles",
+"They have many organelles",
+"They have a well-defined nucleus",
+"They are multicellular organisms"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "They lack membrane-bound organelles"
+},
+{
+"id": 71521,
+"cc": "BT201",
+"qn": "2",
+"dt": "08 January 2026",
+"qt": "Genetic variation is essential for which evolutionary process?  ",
+"op": [
+"Migration",
+"Natural selection",
+"Extinction",
+"Photosynthesis"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Natural selection"
+},
+{
+"id": 71546,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "In a phylogenetic tree, what does a node represent? ",
+"op": [
+"An extinct species",
+"A common ancestor where lineage splits",
+"A fossil",
+"A branch ending"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "A common ancestor where lineage splits"
+},
+{
+"id": 71547,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "What does similarity in DNA sequences between two organisms suggest? ",
+"op": [
+"Same lifespan",
+"Similar habitat",
+"Common ancestry",
+"Random mutations"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Common ancestry"
+},
+{
+"id": 71548,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Which of the following is NOT an example of genetic variation? ",
+"op": [
+"Eye color",
+"Skin tanning from the sun",
+"Blood type",
+"Leaf modification in plants"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Skin tanning from the sun"
+},
+{
+"id": 71549,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Gene flow usually occurs due to: ",
+"op": [
+"Mutation of alleles",
+"Reproduction within a clone",
+"Migration of individuals or gametes",
+"Isolation of species"
+],
+"created_at": "2026-07-15T13:27:58.990359+00:00",
+"ca": "Migration of individuals or gametes"
+},
+{
+"id": 71572,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Who proposed the concept of survival of the fittest? ",
+"op": [
+"Lamarck",
+"Darwin",
+"Malthus",
+"Wallace"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Darwin"
+},
+{
+"id": 71576,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Which of the following structures is an example of convergent evolution? ",
+"op": [
+"Roots of monocots and dicots",
+"Wings of bat and bird",
+"Beaks of Darwin’s finches",
+"Human arm and whale flipper"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Wings of bat and bird"
+},
+{
+"id": 71577,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "According to the video, how does molecular evidence relate to structural and fossil evidence? ",
+"op": [
+"It ignores it",
+"It contradicts it",
+"It complements it",
+"It replaces it"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "It complements it"
+},
+{
+"id": 71578,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Which dating technique is commonly used to determine the numerical age of rocks? ",
+"op": [
+"Fossil Replication",
+"Carbon Copying",
+"Stratification",
+"Radiometric Dating"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Radiometric Dating"
+},
+{
+"id": 71579,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Resistance in bacteria is defined as:  ",
+"op": [
+"Ability to kill antibiotics",
+"Ability to grow at higher concentration of an antibiotic",
+"Slow reproduction in antibiotic presence",
+"Failure to respond to any treatment"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Ability to grow at higher concentration of an antibiotic"
+},
+{
+"id": 71600,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "What does the Hardy-Weinberg equation calculate in a population? ",
+"op": [
+"Mutation rates",
+"Species diversity",
+"Evolutionary direction",
+"Genotype frequencies"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Genotype frequencies"
+},
+{
+"id": 71601,
+"cc": "BT201",
+"qn": "2",
+"dt": "09 January 2026",
+"qt": "Over time, natural selection leads to: ",
+"op": [
+"Genetic uniformity globally",
+"Random loss of all traits",
+"Adaptive features for specific environments",
+"Increased gene flow"
+],
+"created_at": "2026-07-15T13:28:00.027621+00:00",
+"ca": "Adaptive features for specific environments"
+},
+{
+"id": 74577,
+"cc": "BT201",
+"qn": "3",
+"dt": "16 July 2026",
+"qt": "Why is pollen an important adaptation for land plants?",
+"op": [
+"It forms fruits",
+"It absorbs sunlight",
+"It allows fertilization without water",
+"It grows roots"
+],
+"created_at": "2026-07-16T17:09:17.142174+00:00",
+"ca": "It allows fertilization without water"
+},
+{
+"id": 74578,
+"cc": "BT201",
+"qn": "3",
+"dt": "16 July 2026",
+"qt": "Why are ferns used as indoor ornamental plants?",
+"op": [
+"They need high sunlight",
+"They thrive in low light",
+"They repel pests",
+"They produce flowers"
+],
+"created_at": "2026-07-16T17:09:21.772651+00:00",
+"ca": "They thrive in low light"
+}
+]

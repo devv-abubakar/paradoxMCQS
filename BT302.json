@@ -1,0 +1,512 @@
+[
+{
+"id": 54880,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Hemolytic disease of newborn of is caused by ……………………",
+"op": [
+"cytotoxic hypersensitivity",
+"cell mediated hypersensitivity",
+"immune complex hypersensitivity",
+"immediate hypersensitivity"
+],
+"created_at": "2026-07-06T19:16:04.251759+00:00",
+"ca": "cytotoxic hypersensitivity"
+},
+{
+"id": 54888,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Type II hypersensitivity is also known as----------",
+"op": [
+"cell mediated hypersensitivity",
+"Cytotoxic hypersensitivity",
+"Anaphylactic reactions",
+"Immune complex hypersensitivity"
+],
+"created_at": "2026-07-06T19:16:21.704552+00:00",
+"ca": "Cytotoxic hypersensitivity"
+},
+{
+"id": 54903,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Cytokines are -------",
+"op": [
+"Diverse group of antibody proteins",
+"Diverse group of non-antibody cells",
+"Diverse group of non-antibody lipids",
+"Diverse group of non-antibody proteins"
+],
+"created_at": "2026-07-06T19:17:04.925078+00:00",
+"ca": "Diverse group of non-antibody proteins"
+},
+{
+"id": 54912,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Allergic asthma and hay fever are examples of -------",
+"op": [
+"Type I Hypersensitivity",
+"Type II Hypersensitivity",
+"Type III Hypersensitivity",
+"Type IV Hypersensitivity"
+],
+"created_at": "2026-07-06T19:17:30.628916+00:00",
+"ca": "Type I Hypersensitivity"
+},
+{
+"id": 54918,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Chemokines are cytokines that are responsible for …………………….",
+"op": [
+"leucocytes killing",
+"leucocytes proliferation",
+"leucocytes migration",
+"leucocytes inhibition"
+],
+"created_at": "2026-07-06T19:17:46.073022+00:00",
+"ca": "leucocytes migration"
+},
+{
+"id": 54923,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Hypersensitivity I is mediated by ------",
+"op": [
+"IgG",
+"IgM",
+"IgE",
+"IgA"
+],
+"created_at": "2026-07-06T19:18:01.330984+00:00",
+"ca": "IgE"
+},
+{
+"id": 54933,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "In type III hypersensitivity, aggregated …………….. form micro thrombus.",
+"op": [
+"macrophages",
+"complement proteins",
+"platelets",
+"neutrophils"
+],
+"created_at": "2026-07-06T19:18:37.047033+00:00",
+"ca": "platelets"
+},
+{
+"id": 54938,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Tumor Necrosis Factor-Alpha is produced by activated ………………… in response to microbes or their products.",
+"op": [
+"monoctyes",
+"macrophages",
+"lymphocytes",
+"T-cells"
+],
+"created_at": "2026-07-06T19:18:53.458973+00:00",
+"ca": "macrophages"
+},
+{
+"id": 55015,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Tuberculin test is used to diagnose ……………………….. reaction",
+"op": [
+"Hypersensitivity type III",
+"Hypersensitivity type II",
+"Hypersensitivity type I",
+"Hypersensitivity type IV"
+],
+"created_at": "2026-07-06T19:25:42.814862+00:00",
+"ca": "Hypersensitivity type IV"
+},
+{
+"id": 55024,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "These all cells are involved in delayed type hypersensitivity EXCEPT …………………",
+"op": [
+"Monocytes",
+"Macrophages",
+"T-cells",
+"B-cells"
+],
+"created_at": "2026-07-06T19:26:08.681806+00:00",
+"ca": "B-cells"
+},
+{
+"id": 55027,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Delayed type hypersensitivity is -------",
+"op": [
+"Type III",
+"Type I",
+"Type II",
+"Type IV"
+],
+"created_at": "2026-07-06T19:26:21.173945+00:00",
+"ca": "Type IV"
+},
+{
+"id": 55033,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Antibody dependent Cellular Cytotoxicity is another form of Type II hypersensitivity causes the lysis target cells primarily by ………………",
+"op": [
+"neutrophils",
+"NK cells",
+"macrophages",
+"eosinophils"
+],
+"created_at": "2026-07-06T19:26:49.250394+00:00",
+"ca": "NK cells"
+},
+{
+"id": 55040,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Anaphylactic reactions usually take ………………… to occur.",
+"op": [
+"1-2 days",
+"1-2 minutes",
+"10-12 hrs",
+"15-30 minutes"
+],
+"created_at": "2026-07-06T19:27:12.568427+00:00",
+"ca": "1-2 minutes"
+},
+{
+"id": 55301,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "Urticaria is a hypersensitivity reaction of …………………",
+"op": [
+"GIT",
+"eyes",
+"nose",
+"skin"
+],
+"created_at": "2026-07-06T20:35:20.525365+00:00",
+"ca": "skin"
+},
+{
+"id": 55302,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "…………………………… is a mediator of immediate hypersensitivity which causes the proteolysis.",
+"op": [
+"Kininogenas",
+"Tryptase",
+"Histamine",
+"Tetrapeptidase"
+],
+"created_at": "2026-07-06T20:35:30.578712+00:00",
+"ca": "Tryptase"
+},
+{
+"id": 55303,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "In Goodpasture’s Syndrome, autoantibodies are produced against ………………………",
+"op": [
+"Rh-factor",
+"thyroid",
+"glomerulus basement membrane",
+"surface of RBC"
+],
+"created_at": "2026-07-06T20:35:39.327543+00:00",
+"ca": "glomerulus basement membrane"
+},
+{
+"id": 55691,
+"cc": "BT302",
+"qn": "2",
+"dt": "07 July 2026",
+"qt": "IL-12 is produced by dendritic cells & macrophages which enhance the cytolytic activity of ……………………",
+"op": [
+"cytotoxic T-cells",
+"NK cells",
+"T helper cells",
+"phagocytic cells"
+],
+"created_at": "2026-07-07T03:32:09.388183+00:00",
+"ca": "NK cells"
+},
+{
+"id": 62675,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Artificial passive immunization is transferred by injecting specific ……………………… from other individual or from other immune animals.",
+"op": [
+"alpha-globulins",
+"mu-globulins",
+"gamma-globulins",
+"delta-globulins"
+],
+"created_at": "2026-07-13T20:08:59.908665+00:00",
+"ca": "gamma-globulins"
+},
+{
+"id": 62676,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "These all are true for vaccination EXCEPT ………………………",
+"op": [
+"Immunization against intracellular pathogen by humoral immunity",
+"Neutralization of specific pathogens",
+"Stimulation of organism’s immune system",
+"Ways of providing specific protection"
+],
+"created_at": "2026-07-13T20:09:22.484949+00:00",
+"ca": "Immunization against intracellular pathogen by humoral immunity"
+},
+{
+"id": 62677,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Chemotaxsis is the movement of circulating ……………… to the site of infection.",
+"op": [
+"B-cells",
+"immunoglobulin",
+"phagocytes",
+"Natural killer cells"
+],
+"created_at": "2026-07-13T20:09:41.203667+00:00",
+"ca": "phagocytes"
+},
+{
+"id": 62678,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "PRRs recognize various molecular patterns on the surface of pathogens which are called as pattern associated molecular patterns (PAMPs). Which of the following is not a PAMP molecule?",
+"op": [
+"Antibodies",
+"Lipopolysacchrides",
+"Cell wall component",
+"Flagellins"
+],
+"created_at": "2026-07-13T20:09:53.995622+00:00",
+"ca": "Antibodies"
+},
+{
+"id": 62679,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "These all are example of live attenuated vaccine EXCEPT …………………",
+"op": [
+"Smallpox",
+"Hepatitis A Virus",
+"Rabies",
+"Measles"
+],
+"created_at": "2026-07-13T20:10:18.189861+00:00",
+"ca": "Rabies"
+},
+{
+"id": 62680,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Th1 cells release cytokine like IFNγ upon activation which is inhibitory for ……………",
+"op": [
+"Th2 cells",
+"macrophages",
+"CTL",
+"mast cells"
+],
+"created_at": "2026-07-13T20:10:49.943783+00:00",
+"ca": "Th2 cells"
+},
+{
+"id": 62681,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "The adverse effect of Rubella vaccination could be ………………….",
+"op": [
+"Malaise",
+"Neurological disorder",
+"Fever",
+"Joint pain"
+],
+"created_at": "2026-07-13T20:11:06.954935+00:00",
+"ca": "Joint pain"
+},
+{
+"id": 62682,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Th2 cells upon activation secrete cytokines like IL-4 and IL-5 which activate …………………",
+"op": [
+"CTL",
+"B-cells",
+"APC",
+"Macrophages"
+],
+"created_at": "2026-07-13T20:11:25.254575+00:00",
+"ca": "B-cells"
+},
+{
+"id": 62683,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "These all statements are true for tolerance EXCEPT ………….",
+"op": [
+"Can be against non-self antigens",
+"Tolerance to tissue and cell antigens can not be induced artificially",
+"Modification of antigens lead towards tolerance",
+"Specific Immunological unresponsiveness"
+],
+"created_at": "2026-07-13T20:11:36.77122+00:00",
+"ca": "Tolerance to tissue and cell antigens can not be induced artificially"
+},
+{
+"id": 62684,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Immunodominant Peptides are simple and easy to prepare and they are incorporated with …………… to induce humoral & cell-mediated response.",
+"op": [
+"anti-idiotype antibodies",
+"cloned viral peptides",
+"MHC",
+"polysaccharide antibodies"
+],
+"created_at": "2026-07-13T20:11:49.83899+00:00",
+"ca": "cloned viral peptides"
+},
+{
+"id": 62699,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Passive transfer of cell mediated immunity is carried out for the treatment of …………………………",
+"op": [
+"influenza",
+"diphtheria",
+"cancer & immunodeficiency",
+"botulism"
+],
+"created_at": "2026-07-13T21:00:35.384627+00:00",
+"ca": "cancer & immunodeficiency"
+},
+{
+"id": 62702,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Edema is the ……………………… of effected area due to additional accumulation of fluid into interstitial space of the region.",
+"op": [
+"redness",
+"swelling",
+"damage",
+"warming"
+],
+"created_at": "2026-07-13T21:01:08.643887+00:00",
+"ca": "swelling"
+},
+{
+"id": 62705,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Lymphokine activated cells are specific for the killing of ………………… cells.",
+"op": [
+"parasitic",
+"bacterial",
+"tumor",
+"viral"
+],
+"created_at": "2026-07-13T21:12:45.783903+00:00",
+"ca": "tumor"
+},
+{
+"id": 62706,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "NK cells cannot kill normal cells (Self) due to normal expression of ……………",
+"op": [
+"Class II MHC",
+"Proteins",
+"Class I MHC",
+"Surface receptors"
+],
+"created_at": "2026-07-13T21:13:00.852245+00:00",
+"ca": "Class I MHC"
+},
+{
+"id": 62707,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Transfer of maternal antibodies to fetus by placenta is a type of …………………………",
+"op": [
+"Artificial induction",
+"Artificial passive immunization",
+"Active immunization",
+"Passive Immunization"
+],
+"created_at": "2026-07-13T21:13:33.665625+00:00",
+"ca": "Passive Immunization"
+},
+{
+"id": 62708,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "Injection of treated microbes or toxins before natural exposure of antigen is called …………………",
+"op": [
+"Passive Immunization",
+"Natural Active Immunization",
+"Artificial Active Immunization",
+"Artificial induction"
+],
+"created_at": "2026-07-13T21:13:50.030419+00:00",
+"ca": "Artificial Active Immunization"
+},
+{
+"id": 62767,
+"cc": "BT302",
+"qn": "3",
+"dt": "14 July 2026",
+"qt": "DTP vaccine contains ……………………… adjuvant.",
+"op": [
+"M. bovis",
+"aluminum",
+"B. pertussis",
+"detergent"
+],
+"created_at": "2026-07-14T04:35:58.708226+00:00",
+"ca": "B. pertussis"
+}
+]

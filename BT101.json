@@ -1,0 +1,1172 @@
+[
+    {
+        "id": 60622,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Genetic drift  leads to a in the frequency of an allele that is favored by selection.",
+        "op": [
+            "No change",
+            "Amplify",
+            "Increase",
+            "Decrease"
+        ],
+        "created_at": "2026-07-11T00:11:32.394288+00:00",
+        "ca": "Decrease"
+    },
+    {
+        "id": 60623,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Elimination of birds with intermediate-sized beaks is the example of selection.",
+        "op": [
+            "Disruptive",
+            "Stabilizing",
+            "Oscillating",
+            "Directional"
+        ],
+        "created_at": "2026-07-11T00:11:48.577597+00:00",
+        "ca": "Disruptive"
+    },
+    {
+        "id": 60624,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Which of the following is a non random process?",
+        "op": [
+            "Mutation",
+            "Natural selection",
+            "Genetic drift",
+            "None of these"
+        ],
+        "created_at": "2026-07-11T00:12:01.196098+00:00",
+        "ca": "Natural selection"
+    },
+    {
+        "id": 60625,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Taxonomists use all of the following criteria to describe species, except________criteria",
+        "op": [
+            "Immunological",
+            "Embryological",
+            "Morphological",
+            "Physiological"
+        ],
+        "created_at": "2026-07-11T00:12:15.9951+00:00",
+        "ca": "Immunological"
+    },
+    {
+        "id": 60634,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": " leads to balanced polymorphism.",
+        "op": [
+            "Mutation",
+            "Homozygocity",
+            "Heterozygocity",
+            "Natural selection"
+        ],
+        "created_at": "2026-07-11T01:36:21.251259+00:00",
+        "ca": "Heterozygocity"
+    },
+    {
+        "id": 60635,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "alleles for sickle cell anemia carriers are less susceptible to malaria.",
+        "op": [
+            "Heterozygous",
+            "None of these",
+            "Homozygous recessive",
+            "Homozygous dominant"
+        ],
+        "created_at": "2026-07-11T01:38:42.473417+00:00",
+        "ca": "Heterozygous"
+    },
+    {
+        "id": 60636,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "In house fly resistance allele at the pen gene the uptake of insecticide.",
+        "op": [
+            "Decrease",
+            "Has no effect on",
+            "Amplify",
+            "Increase"
+        ],
+        "created_at": "2026-07-11T01:39:12.605069+00:00",
+        "ca": "Decrease"
+    },
+    {
+        "id": 60637,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Natural selection removes inferior alleles while can bring them back.",
+        "op": [
+            "None of these",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "created_at": "2026-07-11T01:40:26.741693+00:00",
+        "ca": "Mutation"
+    },
+    {
+        "id": 60638,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "The most obvious differences among Galapagos finches were in their and Shape and size of bill.",
+        "op": [
+            "Dietary habitat",
+            "Habitat",
+            "Reproductive behavior",
+            "Mode of nutrition"
+        ],
+        "created_at": "2026-07-11T01:40:50.159693+00:00",
+        "ca": "Shape and size of bill"
+    },
+    {
+        "id": 60639,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Traits that promote successful reproduction are said to be.",
+        "op": [
+            "Harmful",
+            "Maladaptive",
+            "Adaptive",
+            "Advantageous"
+        ],
+        "created_at": "2026-07-11T02:29:43.283119+00:00",
+        "ca": "Adaptive"
+    },
+    {
+        "id": 60640,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Which of the following factor contributes in reduction in number of population in Bottle neck effect?",
+        "op": [
+            "Competition",
+            "Habitat destruction",
+            "Predation",
+            "Migration"
+        ],
+        "created_at": "2026-07-11T02:30:12.998615+00:00",
+        "ca": "Habitat destruction"
+    },
+    {
+        "id": 60641,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "which of these is the limitation to Natural selection?",
+        "op": [
+            "Evolution requires genetic similarity",
+            "None of these",
+            "Gene interactions affect fitness of alleles",
+            "Genes don not have multiple effects"
+        ],
+        "created_at": "2026-07-11T02:30:46.221631+00:00",
+        "ca": "Gene interactions affect fitness of alleles"
+    },
+    {
+        "id": 60642,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Which of the following results in the evolution of multiple new groups?",
+        "op": [
+            "Adaptation",
+            "all of these",
+            "Mutation",
+            "Genetic drift"
+        ],
+        "created_at": "2026-07-11T02:31:28.302284+00:00",
+        "ca": "all of these"
+    },
+    {
+        "id": 60643,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "In _________ a few individuals from a parental population colonize new habitats.",
+        "op": [
+            "Greenhouse effect",
+            "Inbreeding",
+            "Bottle neck effect",
+            "Founder effect"
+        ],
+        "created_at": "2026-07-11T02:32:03.877444+00:00",
+        "ca": "Founder effect"
+    },
+    {
+        "id": 60672,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "----------------occurs when different phenotypes are maintained at relatively stable frequencies in the population.",
+        "op": [
+            "Balanced polymorphism",
+            "Momentary polymorphism",
+            "Transient polymorphism",
+            "None of these"
+        ],
+        "created_at": "2026-07-11T04:01:41.803444+00:00",
+        "ca": "Balanced polymorphism"
+    },
+    {
+        "id": 60673,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": " is a group of populations in which genes are actually, or potentially, exchanged through interbreeding.",
+        "op": [
+            "Individuals",
+            "Species",
+            "Community",
+            "Colony"
+        ],
+        "created_at": "2026-07-11T04:02:09.102991+00:00",
+        "ca": "Species"
+    },
+    {
+        "id": 60674,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Formation of new forms from an ancestral species, in response to the opening of new habitats is called .",
+        "op": [
+            "Systematic",
+            "Natural selection",
+            "Adaptive radiations",
+            "Gene flow"
+        ],
+        "created_at": "2026-07-11T04:02:37.958397+00:00",
+        "ca": "Adaptive radiations"
+    },
+    {
+        "id": 60675,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "The vital force behind adaptations is change in .",
+        "op": [
+            "Environment",
+            "Forms",
+            "Genotype",
+            "Gene frequency"
+        ],
+        "created_at": "2026-07-11T04:02:53.091581+00:00",
+        "ca": "Environment"
+    },
+    {
+        "id": 60690,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "A requirement of speciation is that subpopulations are prevented from .",
+        "op": [
+            "Resettlement",
+            "All of these",
+            "Migration",
+            "Interbreeding"
+        ],
+        "created_at": "2026-07-11T05:16:44.921907+00:00",
+        "ca": "Interbreeding"
+    },
+    {
+        "id": 60691,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Both Wallace’s and Darwin’s papers were published in the Journal of the Proceedings of the Linnean Society in.",
+        "op": [
+            "1859",
+            "1829",
+            "1849",
+            "1839"
+        ],
+        "created_at": "2026-07-11T05:17:17.274342+00:00",
+        "ca": "1859"
+    },
+    {
+        "id": 60692,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Formation of new forms from an ancestral species, usually in response to the opening of new habitats is.",
+        "op": [
+            "Genetic drift",
+            "Adaptive radiation",
+            "Speciation",
+            "Adaptation"
+        ],
+        "created_at": "2026-07-11T05:17:27.487845+00:00",
+        "ca": "Adaptive radiation"
+    },
+    {
+        "id": 60717,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Enzyme  lactate dehydrogenase catalyzes the conversion of _________ to lactate.",
+        "op": [
+            "Amino acid",
+            "Cholesterol",
+            "Pyruvate",
+            "Uric acid"
+        ],
+        "created_at": "2026-07-11T05:40:28.019944+00:00",
+        "ca": "Pyruvate"
+    },
+    {
+        "id": 60719,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "It tends to favor the common phenotypes and eliminate variation from a population.",
+        "op": [
+            "Oscillating selection",
+            "None of these",
+            "Positive frequency-dependent selection",
+            "Negative frequency dependent selection"
+        ],
+        "created_at": "2026-07-11T05:41:20.976672+00:00",
+        "ca": "Positive frequency-dependent selection"
+    },
+    {
+        "id": 60722,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "In __________ any allele may increase or depart the population.",
+        "op": [
+            "Natural selection",
+            "Mutation",
+            "None of these",
+            "Genetic drift"
+        ],
+        "created_at": "2026-07-11T05:41:54.857074+00:00",
+        "ca": "Genetic drift"
+    },
+    {
+        "id": 60768,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Extinct hippopotamus like animal, now called",
+        "op": [
+            "Greater Rhea",
+            "Toxodon",
+            "Thoantherium",
+            "Glyptodonts"
+        ],
+        "created_at": "2026-07-11T07:56:40.393179+00:00",
+        "ca": "Toxodon"
+    },
+    {
+        "id": 60769,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Stock of different genes in an interbreeding population is called as.",
+        "op": [
+            "Gene pool",
+            "Genetic drift",
+            "Gene flow",
+            "Gene reservoir"
+        ],
+        "created_at": "2026-07-11T07:56:57.56526+00:00",
+        "ca": "Gene pool"
+    },
+    {
+        "id": 60926,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "In, the fitness of a phenotype does not depend on its frequency",
+        "op": [
+            "Oscillating selection",
+            "Both of these",
+            "None of tese",
+            "Frequency dependent selection"
+        ],
+        "created_at": "2026-07-11T12:24:30.563251+00:00",
+        "ca": "Oscillating selection"
+    },
+    {
+        "id": 60927,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Gradual changes over the time with changing environment was foundation of",
+        "op": [
+            "Theory of uniformitarianism",
+            "Theory of natural selection",
+            "None of these",
+            "Theory of inheritance of acquired characteristics"
+        ],
+        "created_at": "2026-07-11T12:25:41.504135+00:00",
+        "ca": "Theory of uniformitarianism"
+    },
+    {
+        "id": 61074,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Inbreeding is common in ________population.",
+        "op": [
+            "Small",
+            "Endangered",
+            "Large",
+            "Conspicuous"
+        ],
+        "created_at": "2026-07-11T16:58:21.198633+00:00",
+        "ca": "Small"
+    },
+    {
+        "id": 61075,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Which of the following is NOT the component of Fitness?",
+        "op": [
+            "Mating success",
+            "Survival",
+            "High mortality rate",
+            "Number of offspring per mating"
+        ],
+        "created_at": "2026-07-11T16:59:28.58686+00:00",
+        "ca": "High mortality rate"
+    },
+    {
+        "id": 61076,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Who suggested that genes are responsible for traits?",
+        "op": [
+            "Lamarck",
+            "Mendel",
+            "Darwin",
+            "Weismann"
+        ],
+        "created_at": "2026-07-11T16:59:44.453589+00:00",
+        "ca": "Mendel"
+    },
+    {
+        "id": 61077,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "It favors the rare phenotype and makes them more common to maintain variation.",
+        "op": [
+            "Oscillating selection",
+            "Negative frequency-dependent selection",
+            "Positive frequency-dependent selection",
+            "None of these"
+        ],
+        "created_at": "2026-07-11T16:59:59.169904+00:00",
+        "ca": "Negative frequency-dependent selection"
+    },
+    {
+        "id": 61078,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "It acts against only one extreme of phenotypes, causing a shift in distribution toward the other extreme.",
+        "op": [
+            "Directional Selection",
+            "Oscillating",
+            "Stabilizing Selection",
+            "Disruptive Selection"
+        ],
+        "created_at": "2026-07-11T17:00:13.537291+00:00",
+        "ca": "Directional Selection"
+    },
+    {
+        "id": 61105,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Enzyme lactate dehydrogenase in mummichog populations in North are  better catalyst at _temperatures.",
+        "op": [
+            "Moderate",
+            "High",
+            "Low",
+            "None of these"
+        ],
+        "created_at": "2026-07-11T18:18:17.121196+00:00",
+        "ca": "Low"
+    },
+    {
+        "id": 61106,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Which of the following reduce genetic variation within a population?",
+        "op": [
+            "Crossing over",
+            "None of these",
+            "Mutation",
+            "Inbreeding"
+        ],
+        "created_at": "2026-07-11T18:18:39.286957+00:00",
+        "ca": "Inbreeding"
+    },
+    {
+        "id": 61107,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "11 July 2026",
+        "qt": "Female sea star releases about eggs each season.",
+        "op": [
+            "10 million",
+            "3 million",
+            "5 million",
+            "1 million"
+        ],
+        "created_at": "2026-07-11T18:19:35.532856+00:00",
+        "ca": "1 million"
+    },
+    {
+        "id": 61250,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "It may promote or constrain evolutionary changes.",
+        "op": [
+            "Natural selection",
+            "Genetic drift",
+            "Mutation",
+            "Gene flow"
+        ],
+        "created_at": "2026-07-12T01:26:57.673137+00:00",
+        "ca": "Gene flow"
+    },
+    {
+        "id": 61314,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "Sickle cell anemia is _____________ trait.",
+        "op": [
+            "Heterozygous",
+            "none of these",
+            "Homozygous recessive",
+            "Homozygous dominant"
+        ],
+        "created_at": "2026-07-12T04:56:58.123591+00:00",
+        "ca": "Homozygous recessive"
+    },
+    {
+        "id": 61315,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "Horses had been present and had become extinct long ago in.",
+        "op": [
+            "N.America",
+            "Africa",
+            "S.America",
+            "Asia"
+        ],
+        "created_at": "2026-07-12T04:57:27.402594+00:00",
+        "ca": "N.America"
+    },
+    {
+        "id": 61415,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "The process of ________is analogous to ﬂipping a coin.",
+        "op": [
+            "Gene mutation",
+            "None of these",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "created_at": "2026-07-12T07:16:15.482008+00:00",
+        "ca": "Genetic drift"
+    },
+    {
+        "id": 61435,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "HMS Beagle set sail on December 27, 1831 on a __year voyage.",
+        "op": [
+            "1 year",
+            "5 years",
+            "7 years",
+            "3 years"
+        ],
+        "created_at": "2026-07-12T08:10:49.106304+00:00",
+        "ca": "5 years"
+    },
+    {
+        "id": 61436,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "traits become less frequent in a population and eventually are eliminated.",
+        "op": [
+            "none of these",
+            "Adaptive",
+            "Maladaptive",
+            "High- quality"
+        ],
+        "created_at": "2026-07-12T08:16:32.420327+00:00",
+        "ca": "Maladaptive"
+    },
+    {
+        "id": 61544,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": " is measured as reproductive success.",
+        "op": [
+            "Extinction",
+            "Fitness",
+            "Parasitism",
+            "Predation"
+        ],
+        "created_at": "2026-07-12T11:50:38.177898+00:00",
+        "ca": "Fitness"
+    },
+    {
+        "id": 61574,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "Rare phenotype have chances to survive",
+        "op": [
+            "Higher",
+            "No",
+            "None of these",
+            "Lower"
+        ],
+        "created_at": "2026-07-12T13:01:44.259363+00:00",
+        "ca": "Higher"
+    },
+    {
+        "id": 61575,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "change is the main cause of oscillation in selection.",
+        "op": [
+            "Environmental",
+            "None of these",
+            "Genotypic",
+            "Phenotypic"
+        ],
+        "created_at": "2026-07-12T13:02:20.202573+00:00",
+        "ca": "Environmental"
+    },
+    {
+        "id": 61576,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "Galápagos Islands’s tortoises were quite similar to the tortoises on the mainland of.",
+        "op": [
+            "South Africa",
+            "North America",
+            "North Africa",
+            "South America"
+        ],
+        "created_at": "2026-07-12T13:03:00.512052+00:00",
+        "ca": "South America"
+    },
+    {
+        "id": 61657,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "12 July 2026",
+        "qt": "Increase in frequency of the already common intermediate type occur in.",
+        "op": [
+            "Disruptive selection",
+            "All of these",
+            "Stabilizing selection",
+            "Directional selection"
+        ],
+        "created_at": "2026-07-12T17:21:32.090071+00:00",
+        "ca": "Stabilizing selection"
+    },
+    {
+        "id": 61862,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "Following are the evidences of the Darwin’s theory of natural selection EXCEPT",
+        "op": [
+            "Fossil evidences",
+            "Galapagos island",
+            "Geology",
+            "Molecular biology"
+        ],
+        "created_at": "2026-07-12T23:18:07.282552+00:00",
+        "ca": "Molecular biology"
+    },
+    {
+        "id": 61880,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "is measured by the number of surviving offspring left in the next generation.",
+        "op": [
+            "Reproduction",
+            "None of these",
+            "Competition",
+            "Fitness"
+        ],
+        "created_at": "2026-07-13T00:43:14.632295+00:00",
+        "ca": "Fitness"
+    },
+    {
+        "id": 62308,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "In some cases, ------------selection favors one phenotype at one time and another phenotype at another time.",
+        "op": [
+            "Positive frequency-dependent",
+            "None of these",
+            "Oscillating",
+            "Negative frequency-dependent"
+        ],
+        "created_at": "2026-07-13T11:30:03.759651+00:00",
+        "ca": "Oscillating"
+    },
+    {
+        "id": 62314,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "If it does not exist, natural selection cannot operate.",
+        "op": [
+            "None of these",
+            "Migration",
+            "Variation",
+            "Predation"
+        ],
+        "created_at": "2026-07-13T11:51:29.509384+00:00",
+        "ca": "Variation"
+    },
+    {
+        "id": 62315,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": " (1823-1913) was the Co-discoverer of theory of natural selection",
+        "op": [
+            "William Smith",
+            "Lamarck",
+            "Weismann",
+            "Alfred Russel Wallace"
+        ],
+        "created_at": "2026-07-13T11:58:25.97339+00:00",
+        "ca": "Alfred Russel Wallace"
+    },
+    {
+        "id": 62496,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "Who insisted that evolutionary modiﬁcation had to be adaptive for the organism?",
+        "op": [
+            "Lamarck",
+            "Weizmann",
+            "Alfred Wallace",
+            "William Smith"
+        ],
+        "created_at": "2026-07-13T16:42:37.978652+00:00",
+        "ca": "Alfred Wallace"
+    },
+    {
+        "id": 62497,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "It occurs when number of individuals in a population is drastically reduced due to disasters.",
+        "op": [
+            "Competition",
+            "Founder Effect",
+            "Variation",
+            "Bottleneck effect"
+        ],
+        "created_at": "2026-07-13T16:42:51.389796+00:00",
+        "ca": "Bottleneck effect"
+    },
+    {
+        "id": 62585,
+        "cc": "BT101",
+        "qn": "5",
+        "dt": "13 July 2026",
+        "qt": "Variation has ____________basis.",
+        "op": [
+            "Genetic",
+            "behavioral",
+            "Environmental",
+            "Both genetic and environmental"
+        ],
+        "created_at": "2026-07-13T18:13:13.406934+00:00",
+        "ca": "Both genetic and environmental"
+    },
+    {
+        "id": 66530,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Bacteria are used to remove organic matter dissolved in water (ODW) in the ___process of conventional sewage treatment.",
+        "op": [
+            "None of these",
+            "Secondary",
+            "Primary",
+            "Advanced"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00",
+        "ca": "Secondary"
+    },
+    {
+        "id": 66534,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Lagoons are also called .",
+        "op": [
+            "Septic tanks",
+            "Trickling filters",
+            "Stabilization ponds",
+            "none of these"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00",
+        "ca": "Stabilization ponds"
+    },
+    {
+        "id": 66535,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Gregor Mendel proposed the laws of genetics in.",
+        "op": [
+            "1885",
+            "1865",
+            "1875",
+            "1855"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00",
+        "ca": "1865"
+    },
+    {
+        "id": 66536,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Petroleum and petroleum products are the example of.",
+        "op": [
+            "Non-persistent Pollutants",
+            "None of the above",
+            "both of the above",
+            "Persistent water Pollutants"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00",
+        "ca": "Persistent water Pollutants"
+    },
+    {
+        "id": 66538,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "_was Father of geology and stratigraphy",
+        "op": [
+            "William Smith",
+            "None of these",
+            "James Hutton",
+            "Nicolas Steno"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00",
+        "ca": "William Smith"
+    },
+    {
+        "id": 66738,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Coagulation-sedimentation with alum is the method of treatment.",
+        "op": [
+            "None of these",
+            "Secondary",
+            "Primary",
+            "Advanced"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Advanced"
+    },
+    {
+        "id": 66739,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "The largest national park of Pakistan is",
+        "op": [
+            "Hingol national park",
+            "Chitral national park",
+            "None of these",
+            "Kirthar national park"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Hingol national park"
+    },
+    {
+        "id": 66740,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "analogous structures are the product of .",
+        "op": [
+            "Parallel evolution",
+            "Divergent evolution",
+            "None of these",
+            "Convergent evolution"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Convergent evolution"
+    },
+    {
+        "id": 66741,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": " Water is difficult to treat and recycle.",
+        "op": [
+            "Rain water",
+            "Black water",
+            "Stream water",
+            "Grey water"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Black water"
+    },
+    {
+        "id": 66742,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Genetic code of is universal.",
+        "op": [
+            "tRNA",
+            "rRNA",
+            "DNA",
+            "mRNA"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "DNA"
+    },
+    {
+        "id": 66743,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Who proposed the law of use and disuse?",
+        "op": [
+            "Weismann",
+            "Darwin",
+            "William Smith",
+            "Lamarck"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Lamarck"
+    },
+    {
+        "id": 66762,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Who proposed the theory of “inheritance of acquired characteristics or soft inheritance?",
+        "op": [
+            "Weismann",
+            "Lamarck",
+            "William Smith",
+            "Darwin"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Lamarck"
+    },
+    {
+        "id": 66763,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Chlorination of effluent is the example of process of conventional sewage treatment.",
+        "op": [
+            "Primary",
+            "Advanced",
+            "Secondary",
+            "None of these"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00",
+        "ca": "Advanced"
+    },
+    {
+        "id": 66779,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Evidences of evolution are based upon following EXCEPT.",
+        "op": [
+            "Pleantology",
+            "Immunology",
+            "Biogeography",
+            "Comparative anatomy"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Immunology"
+    },
+    {
+        "id": 66781,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Blind cave fish has ______ eye.",
+        "op": [
+            "One",
+            "Two",
+            "Compound",
+            "No"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "No"
+    },
+    {
+        "id": 66783,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Lagoons (Stabilization Ponds) are feet deep.",
+        "op": [
+            "3-10'",
+            "13-15'",
+            "3-5'",
+            "3-15'"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "3-5'"
+    },
+    {
+        "id": 66784,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": " to of global fresh water use in agriculture.",
+        "op": [
+            "39% - 90%",
+            "79% - 90%",
+            "49%- 99%",
+            "69% - 90%"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "69% - 90%"
+    },
+    {
+        "id": 66841,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Existence of shared ancestry between a pair of structures, or genes, in different taxa occur in.",
+        "op": [
+            "None of these",
+            "Parallel evolution",
+            "Convergent evolution",
+            "Divergent evolution"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Divergent evolution"
+    },
+    {
+        "id": 66845,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Weismann made the important distinction between _____cells and _____ cells.",
+        "op": [
+            "unicellular, multicellular",
+            "Eukaryotic, prokaryotic",
+            "Germ, somatic",
+            "amoeboid, non amoeboid"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Germ, somatic"
+    },
+    {
+        "id": 66897,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Disjunct Distribution occur due to following barriers EXCEPT",
+        "op": [
+            "Chemical",
+            "Biological",
+            "Climatic",
+            "Physical"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Chemical"
+    },
+    {
+        "id": 66898,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "____________is loss of feature due to loss of its value in changed environment.",
+        "op": [
+            "Analogy",
+            "None of these",
+            "Homology",
+            "Vestigiality"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Vestigiality"
+    },
+    {
+        "id": 66899,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "_______is an early freshwater reptile, found as fossils from the Early Permian Period.",
+        "op": [
+            "Lystrosaurus",
+            "Cynognathus",
+            "Glossopteris",
+            "Mesosaurus"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00",
+        "ca": "Mesosaurus"
+    },
+    {
+        "id": 67501,
+        "cc": "BT101",
+        "qn": "02",
+        "dt": "01 January 2026",
+        "qt": "The damage caused by degradable pollutants is __________.",
+        "op": [
+            "Permanent",
+            "Reversible",
+            "Irreversible",
+            "Very slight"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00",
+        "ca": "Reversible"
+    }
+]

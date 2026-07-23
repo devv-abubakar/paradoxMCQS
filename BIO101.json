@@ -1,0 +1,242 @@
+[
+    {
+        "id": 40583,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Where does food pass through between the mouth and the stomach?",
+        "op": [
+            "The small intestine",
+            "The large intestine",
+            "The rectum",
+            "The gullet"
+        ],
+        "created_at": "2026-07-03T20:45:41.142153+00:00",
+        "ca": "The gullet"
+    },
+    {
+        "id": 40584,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Which of the following help in exchange of Oxygen in Blood cells?",
+        "op": [
+            "Albumin",
+            "Hemoglobin",
+            "Globulin",
+            "Fibrinogen"
+        ],
+        "created_at": "2026-07-03T20:45:53.019651+00:00",
+        "ca": "Hemoglobin"
+    },
+    {
+        "id": 40585,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Humans are ……… i.e., they eat plants (vegetables) and meat (chicken, beef).",
+        "op": [
+            "Decomposers",
+            "Herbivore",
+            "Carnivores",
+            "Omnivores"
+        ],
+        "created_at": "2026-07-03T20:46:04.899085+00:00",
+        "ca": "Omnivores"
+    },
+    {
+        "id": 40586,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Which one of the following is smallest unit of lungs?",
+        "op": [
+            "Brochioles",
+            "Alveoli",
+            "Bronchi",
+            "Nephron"
+        ],
+        "created_at": "2026-07-03T20:46:23.067332+00:00",
+        "ca": "Alveoli"
+    },
+    {
+        "id": 40587,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Water from the undigested food is absorbed mainly in the",
+        "op": [
+            "Stomach",
+            "Food pipe",
+            "Large intestine",
+            "Small intestine"
+        ],
+        "created_at": "2026-07-03T20:46:35.442391+00:00",
+        "ca": "Large intestine"
+    },
+    {
+        "id": 40588,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Left ventricle pushes blood towards ………",
+        "op": [
+            "Heart",
+            "Lungs",
+            "Aorta",
+            "Tricuspid vale"
+        ],
+        "created_at": "2026-07-03T20:47:26.548466+00:00",
+        "ca": "Aorta"
+    },
+    {
+        "id": 40589,
+        "cc": "BIO101",
+        "qn": "2",
+        "dt": "04 July 2026",
+        "qt": "Gaseous exchange takes place in plants by stomata in -----cells",
+        "op": [
+            "Mesophil Cells",
+            "Epithelial cells",
+            "Vasscular cells",
+            "Guard cells"
+        ],
+        "created_at": "2026-07-03T20:47:36.880658+00:00",
+        "ca": "Guard cells"
+    },
+    {
+        "id": 55283,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Filamentous algal species include",
+        "op": [
+            "Chlamydomonas",
+            "Euglena",
+            "Volvox",
+            "Spirogyra"
+        ],
+        "created_at": "2026-07-06T20:24:49.989002+00:00",
+        "ca": "Spirogyra"
+    },
+    {
+        "id": 55285,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Phycobilins are found in",
+        "op": [
+            "Blue Algae",
+            "Brown Algae",
+            "Red Algae",
+            "Green Algae"
+        ],
+        "created_at": "2026-07-06T20:25:00.932107+00:00",
+        "ca": "Red Algae"
+    },
+    {
+        "id": 55286,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Bread molds belong to phylum",
+        "op": [
+            "Basidiomycota",
+            "Zygomycota",
+            "Deuteromycota",
+            "Ascomycota"
+        ],
+        "created_at": "2026-07-06T20:25:50.051569+00:00",
+        "ca": "Zygomycota"
+    },
+    {
+        "id": 55287,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of these are exclusively marine animals?",
+        "op": [
+            "Echinoderms",
+            "Arthropods",
+            "Flat worms",
+            "Mollusks"
+        ],
+        "created_at": "2026-07-06T20:26:02.252585+00:00",
+        "ca": "Echinoderms"
+    },
+    {
+        "id": 55288,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Stinging cells are found in",
+        "op": [
+            "Arthropods",
+            "Mollusks",
+            "Coelentrates",
+            "Sponges"
+        ],
+        "created_at": "2026-07-06T20:26:23.276739+00:00",
+        "ca": "Coelentrates"
+    },
+    {
+        "id": 55289,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Frogs are included in",
+        "op": [
+            "Decomposer",
+            "Primary consumers",
+            "Tertiary consumers",
+            "Secondary consumers"
+        ],
+        "created_at": "2026-07-06T20:26:40.006551+00:00",
+        "ca": "Secondary consumers"
+    },
+    {
+        "id": 55290,
+        "cc": "BIO101",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Interactions between biotic populations and abiotic factors in a community",
+        "op": [
+            "Population",
+            "Community",
+            "Ecosystem",
+            "Biosphere"
+        ],
+        "created_at": "2026-07-06T20:26:53.216034+00:00",
+        "ca": "Ecosystem"
+    },
+    {
+        "id": 69951,
+        "cc": "BIO101",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The removal of the metabolic wastes of an organism is ",
+        "op": [
+            "Defecation",
+            "Renal artery",
+            "Respiration",
+            "Excretion"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00",
+        "ca": "Excretion"
+    },
+    {
+        "id": 69952,
+        "cc": "BIO101",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Bowman's capsule plays role in. ",
+        "op": [
+            "Filtration of Blood",
+            "All of the mentioned",
+            "Exchange of gases in blood",
+            "Transport of Oxygen"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00",
+        "ca": "Filtration of Blood"
+    }
+]

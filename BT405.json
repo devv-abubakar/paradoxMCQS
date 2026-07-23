@@ -1,0 +1,602 @@
+[
+    {
+        "id": 29585,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Regenerative diseases mainly effects the ",
+        "op": [
+            "Digestive system",
+            "Respiratory system",
+            "Nervous system",
+            "None of these"
+        ],
+        "created_at": "2026-06-30T07:34:19.053777+00:00",
+        "ca": "Nervous system"
+    },
+    {
+        "id": 29587,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "A type of a medical condition that causes a tissue or organ to deteriorate over time is known as ---------?",
+        "op": [
+            "Degenerative disease",
+            "Inflammation",
+            "Regenerative disease",
+            "Autophagy"
+        ],
+        "created_at": "2026-06-30T07:34:45.937239+00:00",
+        "ca": "Degenerative disease"
+    },
+    {
+        "id": 29590,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "DOXIL is;",
+        "op": [
+            "Anti-cancer drug",
+            "Anti-bacterial drug",
+            "Anti-viral drug",
+            "Vaccine of Hepatitis"
+        ],
+        "created_at": "2026-06-30T07:35:02.409148+00:00",
+        "ca": "Anti-cancer drug"
+    },
+    {
+        "id": 29592,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Iron nanoparticles are ¬¬¬¬¬¬____ times more reactive than commonly used iron powders",
+        "op": [
+            "100",
+            "10 to 1000",
+            "50 to 500",
+            "50"
+        ],
+        "created_at": "2026-06-30T07:35:16.276944+00:00",
+        "ca": "10 to 1000"
+    },
+    {
+        "id": 29593,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The dimension of wafers for the manufacturing of gene chip is",
+        "op": [
+            "4×4 inch",
+            "6×6 inch",
+            "3×3 inch",
+            "5×5 inch"
+        ],
+        "created_at": "2026-06-30T07:35:36.007007+00:00",
+        "ca": "5×5 inch"
+    },
+    {
+        "id": 29594,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which one of the following is neoplastic disease?",
+        "op": [
+            "Coronary disease",
+            "Hypertension",
+            "Cancer",
+            "Parkinson's disease"
+        ],
+        "created_at": "2026-06-30T07:36:29.021093+00:00",
+        "ca": "Cancer"
+    },
+    {
+        "id": 29595,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is extensively used to encapsulate antigens?",
+        "op": [
+            "Polyglycolide (PLG)",
+            "Lipopolysaccharide (LPS)",
+            "Polystyrene",
+            "Polylactide (PLA)"
+        ],
+        "created_at": "2026-06-30T07:36:46.204437+00:00",
+        "ca": "Polyglycolide (PLG)"
+    },
+    {
+        "id": 29596,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The substance used in combination with a specific antigen that produced a more robust immunity than the antigen alone is --------?",
+        "op": [
+            "Emulsifier",
+            "Microbead",
+            "Propagator",
+            "Adjuvant"
+        ],
+        "created_at": "2026-06-30T07:37:29.682535+00:00",
+        "ca": "Adjuvant"
+    },
+    {
+        "id": 29597,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following steps is not a stage of microarray analysis?",
+        "op": [
+            "Genomic DNA sequencing",
+            "Labeled target preparation",
+            "Array fabrication",
+            "Data collection"
+        ],
+        "created_at": "2026-06-30T07:38:07.05432+00:00",
+        "ca": "Genomic DNA sequencing"
+    },
+    {
+        "id": 29619,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Magnetic resonance imaging (MRI) uses strong ______ and ______ waves to look at organs and structures inside your body",
+        "op": [
+            "Infrared and optical",
+            "Magnetic and Radio",
+            "Optical and microwaves",
+            "X-rays and Magnetic"
+        ],
+        "created_at": "2026-06-30T07:47:43.736032+00:00",
+        "ca": "Magnetic and Radio"
+    },
+    {
+        "id": 29621,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following better describe the vaccine?",
+        "op": [
+            "Disease causing microorganisms",
+            "Microorganisms that boost immunity",
+            "A foreign agent that enters in body",
+            "Weakened or killed forms of the microbe or its toxins"
+        ],
+        "created_at": "2026-06-30T07:47:53.276845+00:00",
+        "ca": "Weakened or killed forms of the microbe or its toxins"
+    },
+    {
+        "id": 29622,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The substances that used in combination with a specific antigen that produced a more robust immunity than the antigen alone are called___________",
+        "op": [
+            "Promoter",
+            "Activator",
+            "Ligand",
+            "Adjuvants"
+        ],
+        "created_at": "2026-06-30T07:48:02.237738+00:00",
+        "ca": "Adjuvants"
+    },
+    {
+        "id": 29625,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The limitation of conventional pharmaceutical drugs is -------?",
+        "op": [
+            "Low stability",
+            "All of the above",
+            "Lack of selectivity",
+            "Low efficacy"
+        ],
+        "created_at": "2026-06-30T07:48:25.77571+00:00",
+        "ca": "All of the above"
+    },
+    {
+        "id": 29626,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Non-invasive methods for identifying and monitoring diseases or injuries via the generation of images is known as ---------?",
+        "op": [
+            "Reactive imaging",
+            "Diagnostic imaging",
+            "Topography",
+            "Meta diagnostics"
+        ],
+        "created_at": "2026-06-30T07:48:34.410528+00:00",
+        "ca": "Diagnostic imaging"
+    },
+    {
+        "id": 29627,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Structural and non-structural measures undertaken to limit the adverse impact of natural hazards, environmental degradation and technological hazard is termed as ",
+        "op": [
+            "Bioremediation",
+            "Remediation",
+            "In situ remediation",
+            "Mitigation"
+        ],
+        "created_at": "2026-06-30T07:48:46.775247+00:00",
+        "ca": "Mitigation"
+    },
+    {
+        "id": 35545,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "An ordered collection of microspots, each spot containing a single defined species of a nucleic acid is -------?",
+        "op": [
+            "Microarray",
+            "Both A and B",
+            "Macroarray",
+            "Gene chip"
+        ],
+        "created_at": "2026-07-01T08:41:55.653031+00:00",
+        "ca": "Both A and B"
+    },
+    {
+        "id": 35550,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Nanobeads antigens adsorbed on the surface of bead stimulate which type of cell response",
+        "op": [
+            "CD8 -T cell response",
+            "All of these",
+            "CD4 -T cell response",
+            "B-cells response"
+        ],
+        "created_at": "2026-07-01T08:42:20.915409+00:00",
+        "ca": "All of these"
+    },
+    {
+        "id": 35554,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which one of the following is an only nano-sized vaccine adjuvant approved for human use?",
+        "op": [
+            "MF59",
+            "Montanide™",
+            "Cholesterol-bearing hydrophobized pullulan \n nanoparticles (CHP)",
+            "Monophosphoryl lipid A"
+        ],
+        "created_at": "2026-07-01T08:42:58.082216+00:00",
+        "ca": "MF59"
+    },
+    {
+        "id": 35557,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Nanobead has inert solid bead Size range",
+        "op": [
+            "0.1-10 nm",
+            "20-200 μm",
+            "20-200nm",
+            "10-100 nm"
+        ],
+        "created_at": "2026-07-01T08:43:18.192417+00:00",
+        "ca": "20-200nm"
+    },
+    {
+        "id": 35563,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The principle of Microarray technology is ---------?",
+        "op": [
+            "Hybridization",
+            "Emulsification",
+            "Oligomerization",
+            "Polymerization"
+        ],
+        "created_at": "2026-07-01T08:44:20.581326+00:00",
+        "ca": "Hybridization"
+    },
+    {
+        "id": 35567,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Drug delivery systems exist in the form of --------?",
+        "op": [
+            "All of the above",
+            "Inserts",
+            "Implants",
+            "Drug releasing systems"
+        ],
+        "created_at": "2026-07-01T08:44:49.321635+00:00",
+        "ca": "All of the above"
+    },
+    {
+        "id": 38143,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is incorrect about Gene chip?",
+        "op": [
+            "Array of immobilized DNA oligomers cannot be cDNAs",
+            "Each oligomer is spotted on the slide and serves as a probe for binding to a unique complementary cDNA",
+            "It is a slide attached DNA oligomers representing the entire genome of the species under study",
+            "It is the most commonly used global gene expression profiling method"
+        ],
+        "created_at": "2026-07-02T11:13:07.653532+00:00",
+        "ca": "Array of immobilized DNA oligomers cannot be cDNAs"
+    },
+    {
+        "id": 38439,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "In the body, cells are supported in their growth and function by a natural scaffold, called ------------?",
+        "op": [
+            "Cell scaffold",
+            "Intracellular matrix",
+            "Extracellular matrix",
+            "Intercellular matrix"
+        ],
+        "created_at": "2026-07-02T16:01:20.71218+00:00",
+        "ca": "Extracellular matrix"
+    },
+    {
+        "id": 38440,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Neoplastic diseases results in ____________",
+        "op": [
+            "Cardiovascular disease",
+            "Parkison’s  disease",
+            "Tumors and cancer",
+            "Cardiovascular disease"
+        ],
+        "created_at": "2026-07-02T16:02:44.557434+00:00",
+        "ca": "Tumors and cancer"
+    },
+    {
+        "id": 38489,
+        "cc": "BT405",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "The drug resistance occurs due to the presence of",
+        "op": [
+            "Physiological barrier",
+            "Chemical barrier",
+            "None of these",
+            "Physiochemical barrier"
+        ],
+        "created_at": "2026-07-02T16:39:16.527648+00:00",
+        "ca": "Physiological barrier"
+    },
+    {
+        "id": 67724,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "A sensor which converts light rays into an electronic signal is:",
+        "op": [
+            "Biosensors",
+            "Bioreceptors",
+            "Optical sensors",
+            "Sensors"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00",
+        "ca": "Optical sensors"
+    },
+    {
+        "id": 67725,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Which of the following isn’t an option that indicates the increasing in oxalate excretion through urine is indication of ____________?",
+        "op": [
+            "Renal failure",
+            "Hepatosis",
+            "Pancreatic insufficiency",
+            "Hyperoxaluria"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00",
+        "ca": "Hyperoxaluria"
+    },
+    {
+        "id": 67921,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is the physico-chemical component?",
+        "op": [
+            "Enzymes",
+            "Transducer",
+            "Anti-bodies",
+            "Cells or tissues"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "Transducer"
+    },
+    {
+        "id": 67924,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "For the development of Biosensor, which of the following aspects should not be considered?",
+        "op": [
+            "Selection of suitable bio receptor",
+            "Colorization",
+            "Selection of suitable transducer",
+            "Packaging of biosensor"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00",
+        "ca": "Colorization"
+    },
+    {
+        "id": 68110,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "02 January 2026",
+        "qt": "Blood glucose biosensor is an example of --------?",
+        "op": [
+            "Potentiometric Biosensor",
+            "Antibody-based sensor",
+            "Amperometric Biosensor",
+            "Centiliver Biosensor"
+        ],
+        "created_at": "2026-07-15T13:27:31.462933+00:00",
+        "ca": "Amperometric Biosensor"
+    },
+    {
+        "id": 68111,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "02 January 2026",
+        "qt": "Biosensors which works on the principle of immunological specificity are --------?",
+        "op": [
+            "Amperometric Biosensors",
+            "Immuno-Biosensors",
+            "Potentiometric Biosensors",
+            "Centiliver Biosensors"
+        ],
+        "created_at": "2026-07-15T13:27:31.462933+00:00",
+        "ca": "Immuno-Biosensors"
+    },
+    {
+        "id": 68112,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "02 January 2026",
+        "qt": "A biological preparation that improves immunity to a particular disease is called -------?",
+        "op": [
+            "Antibody",
+            "Vaccine",
+            "Antigen",
+            "Adjuvant"
+        ],
+        "created_at": "2026-07-15T13:27:31.462933+00:00",
+        "ca": "Vaccine"
+    },
+    {
+        "id": 68113,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "02 January 2026",
+        "qt": "Presence of ___________ in vegetables is a bioindicator of faecal contamination in food",
+        "op": [
+            "Bacillus subtilis",
+            "Staphylococcus aureus",
+            "Escherichia coli",
+            "Clostridium perfringens"
+        ],
+        "created_at": "2026-07-15T13:27:31.462933+00:00",
+        "ca": "Escherichia coli"
+    },
+    {
+        "id": 68211,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "Analyte used in a biosensor designed to detectˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍ",
+        "op": [
+            "Ribose",
+            "Glucose",
+            "Fructose",
+            "Cellulose"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Glucose"
+    },
+    {
+        "id": 68212,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "Which of the following is used to measure the concentration of glucose in the blood?",
+        "op": [
+            "Insulin meter",
+            "Oximeter",
+            "Sphygmomanometer",
+            "Glucometer"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Glucometer"
+    },
+    {
+        "id": 68213,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "Nanoscale biosensors have the potential to greatly aid in -------?",
+        "op": [
+            "All of the above",
+            "Detection of food toxins",
+            "Heavy metals detection",
+            "Medical Diagnostics"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "All of the above"
+    },
+    {
+        "id": 68302,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "The instrument which is capable of converting the biorecognition event into a measurable response is known as --------?",
+        "op": [
+            "Transductor",
+            "Biorecognition element",
+            "Transducer",
+            "Bioreceptor"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Transducer"
+    },
+    {
+        "id": 68303,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "All of the following can be detected by applications of Biosensors in food industry except",
+        "op": [
+            "Food quality",
+            "Pulse rate",
+            "Heavy metals",
+            "Food toxins"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Pulse rate"
+    },
+    {
+        "id": 68304,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "In plasmonic biosensor, when molecule binds with the surface then the then its refractive index becomes,",
+        "op": [
+            "Equal to the refractive index of water",
+            "Higher than the refractive index of water",
+            "Lower than the refractive index of water",
+            "Equal to the refractive index of interest"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Higher than the refractive index of water"
+    },
+    {
+        "id": 68305,
+        "cc": "BT405",
+        "qn": "",
+        "dt": "03 January 2026",
+        "qt": "Biosensors that employ nucleic acid interactions can be referred to as -------",
+        "op": [
+            "Mobile sensors",
+            "Genosensors",
+            "Aptamers",
+            "Neosensors"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00",
+        "ca": "Genosensors"
+    }
+]

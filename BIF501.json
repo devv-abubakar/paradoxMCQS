@@ -1,0 +1,928 @@
+[
+    {
+        "id": 37115,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which statement is correct for superstring?",
+        "op": [
+            "Combination of two substring is known as superstring",
+            "Superstring is the one that contain at least one substring",
+            "Superstring is the one that contain all the substrings",
+            "Superstring is achieved by combining two or more substrings"
+        ],
+        "created_at": "2026-07-01T22:31:35.363696+00:00",
+        "ca": "Superstring is the one that contain all the substrings"
+    },
+    {
+        "id": 37117,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Programmed cell death is also known as …………..",
+        "op": [
+            "Autophagy",
+            "Apoptosis",
+            "Necrosis",
+            "All these"
+        ],
+        "created_at": "2026-07-01T22:31:47.140909+00:00",
+        "ca": "Apoptosis"
+    },
+    {
+        "id": 37121,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Chou Fasman Algorithm is used for the prediction of ______.",
+        "op": [
+            "Tertiary Protein Structure",
+            "Quaternary Protein structure",
+            "Primary protein structure",
+            "Secondary protein structure"
+        ],
+        "created_at": "2026-07-01T22:32:51.304426+00:00",
+        "ca": "Secondary protein structure"
+    },
+    {
+        "id": 37122,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "In Shortgun sequencing technique genome is fragmented into small pieces by _______.",
+        "op": [
+            "Nuclease enzyme",
+            "Restriction enzyme",
+            "Nebulisation",
+            "Sonication"
+        ],
+        "created_at": "2026-07-01T22:32:59.468609+00:00",
+        "ca": "Sonication"
+    },
+    {
+        "id": 37123,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which statement is incorrect for De novo protein sequencing algorithms.",
+        "op": [
+            "Useful for complete spectra",
+            "Valuable for known, unknown proteins",
+            "Useful for spectra that are near to complete",
+            "Invaluable for known, unknown proteins."
+        ],
+        "created_at": "2026-07-01T22:33:11.74308+00:00",
+        "ca": "Invaluable for known, unknown proteins."
+    },
+    {
+        "id": 37124,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Spliceosome complex of RNA splicing contain ______ protein.",
+        "op": [
+            "40",
+            ">100",
+            "80",
+            "10"
+        ],
+        "created_at": "2026-07-01T22:33:21.196768+00:00",
+        "ca": ">100"
+    },
+    {
+        "id": 37125,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "ALU repeat sequence is repeated in approximately ______ times in human genome.",
+        "op": [
+            "10 million",
+            "1 million",
+            "3 million",
+            "5 million"
+        ],
+        "created_at": "2026-07-01T22:33:29.511271+00:00",
+        "ca": "1 million"
+    },
+    {
+        "id": 37126,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Proline (Pro) is most likely to found in ______.",
+        "op": [
+            "Turns",
+            "Helices",
+            "Coils",
+            "Beta Sheets"
+        ],
+        "created_at": "2026-07-01T22:33:37.886775+00:00",
+        "ca": "Turns"
+    },
+    {
+        "id": 37127,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Isoleucine (Ile) is most likely to found in ______.",
+        "op": [
+            "Turns",
+            "Beta Sheets",
+            "Coils",
+            "Helices"
+        ],
+        "created_at": "2026-07-01T22:33:47.899153+00:00",
+        "ca": "Beta Sheets"
+    },
+    {
+        "id": 37232,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "To align the entire sequence _____ alignment procedure is used.",
+        "op": [
+            "Local Alignment",
+            "Global Alignment",
+            "Multiple Sequence Alignment",
+            "Pairwise Alignment"
+        ],
+        "created_at": "2026-07-02T02:00:36.781453+00:00",
+        "ca": "Global Alignment"
+    },
+    {
+        "id": 37234,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "BAC is stands for _____.",
+        "op": [
+            "Bacterial Assembly Clones",
+            "Bacterial Artificial Chromosomes",
+            "Bacterial Artificial Clones",
+            "Bacterial Assembly Chromosomes"
+        ],
+        "created_at": "2026-07-02T02:00:49.949366+00:00",
+        "ca": "Bacterial Artificial Chromosomes"
+    },
+    {
+        "id": 37235,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "For compute the beta sheet in chou fasman algorithm how many amino acids contiguous regions is required.",
+        "op": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-07-02T02:00:55.456172+00:00",
+        "ca": "5"
+    },
+    {
+        "id": 37238,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which amino acid have high propensity to make beta sheets.",
+        "op": [
+            "Gly",
+            "Pro",
+            "Val",
+            "Glu"
+        ],
+        "created_at": "2026-07-02T02:01:03.690969+00:00",
+        "ca": "Val"
+    },
+    {
+        "id": 37239,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "What is the right order of shortgun sequencing.",
+        "op": [
+            "Genome --> Fragments through Sonication --> Amplification --> Sequencing --> Cloning",
+            "Genome --> Amplification --> Fragments through Sonication --> Cloning --> Sequencing",
+            "Genome --> Fragments through Sonication --> Amplification --> Cloning --> Sequencing",
+            "Genome --> Amplification --> Cloning --> Fragments through Sonication --> Sequencing"
+        ],
+        "created_at": "2026-07-02T02:01:09.685598+00:00",
+        "ca": "Genome --> Fragments through Sonication --> Amplification --> Cloning --> Sequencing"
+    },
+    {
+        "id": 37241,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "In Mass Spectrometer the mass spectrum of a peptide is a collection of their _.",
+        "op": [
+            "Charges",
+            "Fragment masses",
+            "Length",
+            "Fragments"
+        ],
+        "created_at": "2026-07-02T02:01:18.349228+00:00",
+        "ca": "Fragment masses"
+    },
+    {
+        "id": 37243,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": " percent human genome is constituted of repeat sequences.",
+        "op": [
+            "20 %",
+            "10 %",
+            "30 %",
+            "40 %"
+        ],
+        "created_at": "2026-07-02T02:01:24.961693+00:00",
+        "ca": "40 %"
+    },
+    {
+        "id": 37244,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Substitution Scores can be derived from ______ model.",
+        "op": [
+            "Probabilistic",
+            "Heuristic",
+            "Dynamic programming",
+            "Brute Force"
+        ],
+        "created_at": "2026-07-02T02:01:30.807435+00:00",
+        "ca": "Probabilistic"
+    },
+    {
+        "id": 37247,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which amino acid have high propensity to make Turns.",
+        "op": [
+            "Gly",
+            "Val",
+            "Glu",
+            "Met"
+        ],
+        "created_at": "2026-07-02T02:01:37.438677+00:00",
+        "ca": "Gly"
+    },
+    {
+        "id": 37749,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Secondary structures of protein are formed due to _______ between amino acid.",
+        "op": [
+            "Ionic interactions",
+            "Covalent Bond",
+            "Coordinate-covalent bond",
+            "Hydrogen bonding"
+        ],
+        "created_at": "2026-07-02T06:35:46.362763+00:00",
+        "ca": "Hydrogen bonding"
+    },
+    {
+        "id": 37751,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The mass of water H2O is ________.",
+        "op": [
+            "16 Daltons",
+            "18 Daltons",
+            "10 Daltons",
+            "17 Daltons"
+        ],
+        "created_at": "2026-07-02T06:36:02.923232+00:00",
+        "ca": "18 Daltons"
+    },
+    {
+        "id": 37753,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "In shortgun sequencing technique the genome fragment length is ____.",
+        "op": [
+            "500 - 700",
+            "1000 or above",
+            "800 - 1000",
+            "200 - 400"
+        ],
+        "created_at": "2026-07-02T06:36:34.376512+00:00",
+        "ca": "500 - 700"
+    },
+    {
+        "id": 37757,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Mass spectrophotometer is used for the removal of …………………",
+        "op": [
+            "Protein",
+            "Ions",
+            "Fragments",
+            "None of the above"
+        ],
+        "created_at": "2026-07-02T06:37:14.343828+00:00",
+        "ca": "Ions"
+    },
+    {
+        "id": 37759,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Sanger used _____ to digest insulin protein.",
+        "op": [
+            "Protease enzyme",
+            "Restriction enzyme",
+            "Sonication",
+            "Nuclease enzyme"
+        ],
+        "created_at": "2026-07-02T06:37:36.570384+00:00",
+        "ca": "Protease enzyme"
+    },
+    {
+        "id": 37762,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is incorrect regarding Ab Initio–Based Methods?",
+        "op": [
+            "This type of method predicts the secondary structure based on a single query sequence",
+            "It measures the relative propensity of each amino acid belonging to a certain secondary structure element",
+            "The propensity scores are derived from known crystal structures",
+            "This type of method predicts the secondary structure based on a multiple query sequence"
+        ],
+        "created_at": "2026-07-02T06:38:01.053891+00:00",
+        "ca": "This type of method predicts the secondary structure based on a multiple query sequence"
+    },
+    {
+        "id": 37766,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Most fragment assembly algorithm consists of the ______ steps.",
+        "op": [
+            "Overlap and Layout",
+            "Overlap, Layout and Consensus",
+            "Layout and Consensus",
+            "Overlap and Consensus"
+        ],
+        "created_at": "2026-07-02T06:39:03.879752+00:00",
+        "ca": "Overlap, Layout and Consensus"
+    },
+    {
+        "id": 37771,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "If several alanine’s found in the sequence, then it anticipates that a ______ secondary structure may be formed by them.",
+        "op": [
+            "Loops",
+            "Coils",
+            "Alpha Helices",
+            "Beta Sheets"
+        ],
+        "created_at": "2026-07-02T06:40:32.223284+00:00",
+        "ca": "Alpha Helices"
+    },
+    {
+        "id": 37841,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which amino acid form disulphide bridge",
+        "op": [
+            "Glutamine",
+            "Proline",
+            "Alanine",
+            "Cysteine"
+        ],
+        "created_at": "2026-07-02T07:12:07.822929+00:00",
+        "ca": "Cysteine"
+    },
+    {
+        "id": 37843,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Tyrosine (Tyr) is most likely to found in ______.",
+        "op": [
+            "Turns",
+            "Helices",
+            "Coils",
+            "Beta Sheets"
+        ],
+        "created_at": "2026-07-02T07:12:46.67031+00:00",
+        "ca": "Beta Sheets"
+    },
+    {
+        "id": 37846,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The mass of ammonia is NH3 __.",
+        "op": [
+            "18 Daltons",
+            "16 Daltons",
+            "19 Daltons",
+            "17 Daltons"
+        ],
+        "created_at": "2026-07-02T07:13:22.994366+00:00",
+        "ca": "17 Daltons"
+    },
+    {
+        "id": 37851,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The first step is to predict secondary structure from …………..",
+        "op": [
+            "RNA",
+            "Primary",
+            "DNA",
+            "None of the above"
+        ],
+        "created_at": "2026-07-02T07:14:52.450679+00:00",
+        "ca": "Primary"
+    },
+    {
+        "id": 37855,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Alu fragment is ……………… bp long repeated fragment",
+        "op": [
+            "800",
+            "300",
+            "500",
+            "400"
+        ],
+        "created_at": "2026-07-02T07:15:30.245045+00:00",
+        "ca": "300"
+    },
+    {
+        "id": 37861,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "which algorithm is used for finding the shortest superstring of a substring/read of genome?",
+        "op": [
+            "Superstring Problem Algorithm",
+            "Shortest Superstring Problem Algorithm",
+            "String finding Algorithm",
+            "Shortest read Algorithm"
+        ],
+        "created_at": "2026-07-02T07:16:55.125056+00:00",
+        "ca": "Shortest Superstring Problem Algorithm"
+    },
+    {
+        "id": 37882,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "In smith and waterman algorithm the initial matrix is created with _____ columns and _____ rows.",
+        "op": [
+            "M+1 and N+1",
+            "M+1 and N",
+            "M and N+1",
+            "M and N"
+        ],
+        "created_at": "2026-07-02T07:29:23.919095+00:00",
+        "ca": "M+1 and N+1"
+    },
+    {
+        "id": 37884,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is un true regarding Chou–Fasman methods?",
+        "op": [
+            "First-generation method",
+            "Developed in the 1970s,",
+            "Suffer from the fact that the prediction rules are somewhat arbitrary",
+            "Based on single sequence statistics with clear relation to known protein-folding theories"
+        ],
+        "created_at": "2026-07-02T07:30:03.004937+00:00",
+        "ca": "Based on single sequence statistics with clear relation to known protein-folding theories"
+    },
+    {
+        "id": 37885,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The most frequent N-terminal ions of peptide are called .",
+        "op": [
+            "b-ions",
+            "y-ions",
+            "a-ions",
+            "z-ions"
+        ],
+        "created_at": "2026-07-02T07:31:33.82485+00:00",
+        "ca": "b-ions"
+    },
+    {
+        "id": 37886,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Find the lexicographic order of {TAT, ATG, TGG, GGT, GTG, TGC}.",
+        "op": [
+            "TAT, TGC, TGG, GTG, GGT, ATG",
+            "ATG, GTG, TAT, GGT, TGC, TGG",
+            "ATG, GGT, GTG, TAT, TGC, TGG",
+            "TGG, TGC, TAT, GTG, GGT, ATG"
+        ],
+        "created_at": "2026-07-02T07:31:49.954835+00:00",
+        "ca": "ATG, GGT, GTG, TAT, TGC, TGG"
+    },
+    {
+        "id": 38025,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The first step of Needleman-wunsch algorithm is to .",
+        "op": [
+            "Matrix filling with the appropriate scores",
+            "Traceback the sequences for a suitable alignment",
+            "Initialization of matrix with gap penalty",
+            "Initialization of a matrix with zero’s"
+        ],
+        "created_at": "2026-07-02T09:35:13.728956+00:00",
+        "ca": "Initialization of matrix with gap penalty"
+    },
+    {
+        "id": 38026,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Steps of mass spectrometry involves .",
+        "op": [
+            "Protein --> Peptide --> small fragmentation --> measure mass",
+            "Peptide --> small fragmentation --> measure mass",
+            "Protein --> small fragmentation --> measure mass",
+            "Small fragmentation --> Peptide --> Proteins --> measure mass"
+        ],
+        "created_at": "2026-07-02T09:35:57.376914+00:00",
+        "ca": "Protein --> Peptide --> small fragmentation --> measure mass"
+    },
+    {
+        "id": 38027,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "BAC stands for …………………..",
+        "op": [
+            "None of the above",
+            "Bacterial artifact chromosome",
+            "Blood alcohol concentration",
+            "Bacterial artificial chromosome"
+        ],
+        "created_at": "2026-07-02T09:36:13.579691+00:00",
+        "ca": "Bacterial artificial chromosome"
+    },
+    {
+        "id": 38028,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Which computational approach is used for the modified protein identification.",
+        "op": [
+            "Dynamic Programming",
+            "Exhaustive search",
+            "Brute force",
+            "Divide and conquer"
+        ],
+        "created_at": "2026-07-02T09:36:29.10707+00:00",
+        "ca": "Dynamic Programming"
+    },
+    {
+        "id": 38029,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "For aligning closely related sequence which alignment method is suitable.",
+        "op": [
+            "Global Alignment",
+            "Multiple Sequence Alignment",
+            "Pairwise Alignment",
+            "Local Alignment"
+        ],
+        "created_at": "2026-07-02T09:36:45.999096+00:00",
+        "ca": "Global Alignment"
+    },
+    {
+        "id": 38238,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "If L = 3 and s = TATGGTGC, then spectrum (s, L) will be .",
+        "op": [
+            "{TAT, ATG, TGG, GGT}",
+            "{TAT, ATG, TGG, GGT, ATG, GGT, TGC}",
+            "{TAT, ATG, TGG, GGT, GTG, TGC}",
+            "{TAT, ATG, TGG, GGT, GTG}"
+        ],
+        "created_at": "2026-07-02T12:01:50.997898+00:00",
+        "ca": "{TAT, ATG, TGG, GGT, GTG, TGC}"
+    },
+    {
+        "id": 38491,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "The most frequent C-terminal ions of peptide are called .",
+        "op": [
+            "a-ions",
+            "b-ions",
+            "y-ions",
+            "z-ions"
+        ],
+        "created_at": "2026-07-02T16:48:31.927595+00:00",
+        "ca": "y-ions"
+    },
+    {
+        "id": 38497,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "In Human Genome Project ______ nucleotide's were sequenced.",
+        "op": [
+            "4 Billion",
+            "2 Billion",
+            "3 Billion",
+            "1 Billion"
+        ],
+        "created_at": "2026-07-02T16:50:32.46003+00:00",
+        "ca": "3 Billion"
+    },
+    {
+        "id": 38499,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "Glutamine (GLU) is most likely to found in .",
+        "op": [
+            "Coils",
+            "Turns",
+            "Helices",
+            "Beta Sheets"
+        ],
+        "created_at": "2026-07-02T16:51:02.848988+00:00",
+        "ca": "Helices"
+    },
+    {
+        "id": 38501,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "02 July 2026",
+        "qt": "……..  Percent of Human genome has repeated elements",
+        "op": [
+            "50",
+            "80",
+            "30",
+            "20"
+        ],
+        "created_at": "2026-07-02T16:51:13.595736+00:00",
+        "ca": "50"
+    },
+    {
+        "id": 39208,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": "Splicesome complex contain more than …………….. proteins",
+        "op": [
+            "500",
+            "100",
+            "200",
+            "50"
+        ],
+        "created_at": "2026-07-03T04:24:04.990177+00:00",
+        "ca": "100"
+    },
+    {
+        "id": 39601,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": " size probes will be used to identify the fragments that are needs to be sequence in sequencing by hybridization process.",
+        "op": [
+            "8 – 32 nts",
+            "32 – 60 nts",
+            "100 – 500 nts",
+            "2 – 8 nts"
+        ],
+        "created_at": "2026-07-03T07:54:47.894097+00:00",
+        "ca": "8 – 32 nts"
+    },
+    {
+        "id": 39653,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": " determines the protein structure.",
+        "op": [
+            "Amino Acid",
+            "Nucleotides",
+            "DNA",
+            "RNA"
+        ],
+        "created_at": "2026-07-03T08:47:31.557671+00:00",
+        "ca": "Amino Acid"
+    },
+    {
+        "id": 39654,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": "Process of program cell death is also known as .",
+        "op": [
+            "Necrosis",
+            "Restoration",
+            "Autophagic",
+            "Apoptosis"
+        ],
+        "created_at": "2026-07-03T08:47:46.56112+00:00",
+        "ca": "Apoptosis"
+    },
+    {
+        "id": 39690,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": "Which statement is true for protein sequencing technology?",
+        "op": [
+            "Obtaining reads is difficult and assembly of those reads is easy",
+            "Obtaining reads is easy and assembly of those reads is difficult",
+            "Obtaining reads and their assembly both is difficult",
+            "Obtaining reads and their assembly both is easy"
+        ],
+        "created_at": "2026-07-03T09:56:09.233151+00:00",
+        "ca": "Obtaining reads is easy and assembly of those reads is difficult"
+    },
+    {
+        "id": 40379,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "03 July 2026",
+        "qt": "The building block of protein is .",
+        "op": [
+            "RNA",
+            "DNA",
+            "Amino Acids",
+            "Gene"
+        ],
+        "created_at": "2026-07-03T17:48:43.022763+00:00",
+        "ca": "Amino Acids"
+    },
+    {
+        "id": 40750,
+        "cc": "BIF501",
+        "qn": "",
+        "dt": "04 July 2026",
+        "qt": "Bacterial Artificial Chromosomes fragment insert size is .",
+        "op": [
+            "25 kpb",
+            "150 kb",
+            "100 kpb",
+            "50 kpb"
+        ],
+        "created_at": "2026-07-04T04:31:12.895378+00:00",
+        "ca": "150 kb"
+    },
+    {
+        "id": 68470,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "ORFs within a single genomic sequence may overlap since there are ________ possible reading frames ",
+        "op": [
+            "1",
+            "6",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "6"
+    },
+    {
+        "id": 68471,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "Eukaryotic gene is called split gene because it is splitted into Exons and Introns ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 68472,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "How many reading frames must be considered for a given double-stranded DNA sequence.",
+        "op": [
+            "Three",
+            "Two",
+            "Six",
+            "Five"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "Six"
+    },
+    {
+        "id": 68473,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "in Open Reading frames of a single genomic sequence ____ sequence are in forward direction whereas ___ sequence are in reverse direction.  ",
+        "op": [
+            "2,4",
+            "4,2",
+            "3,3",
+            "5,1"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "3,3"
+    },
+    {
+        "id": 68474,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "Which one is a start codon.",
+        "op": [
+            "AUG",
+            "UAG",
+            "UAA",
+            "UGA"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "AUG"
+    },
+    {
+        "id": 68475,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "of the human genome is so calledJunk DNA ",
+        "op": [
+            "96-97%",
+            "2-4%",
+            "40%",
+            "86.14%"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "96-97%"
+    },
+    {
+        "id": 68498,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": " of the human genome is so called coding sequence ",
+        "op": [
+            "86%",
+            "96-97%",
+            "40%",
+            "2-4%"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "2-4%"
+    },
+    {
+        "id": 68499,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "96-97% of the human genome is so called Junk DNA ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 69791,
+        "cc": "BIF501",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "The most conserved part of a gene is _______ ",
+        "op": [
+            "Promoter",
+            "Intron",
+            "UTR",
+            "Exon"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00",
+        "ca": "Exon"
+    }
+]

@@ -1,0 +1,840 @@
+[{
+"id": 22698,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "First discovered, Type II restriction endonuclease was",
+"op": [
+"EcoR1",
+"EcoK",
+"Hind 1",
+"Hind11"
+],
+"created_at": "2026-06-28T04:36:31.089806+00:00",
+"ca": "Hind11"
+},
+{
+"id": 22699,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Transport of infectious materials require ",
+"op": [
+"International regulations",
+"IATA shipping",
+"Packaging",
+"All given"
+],
+"created_at": "2026-06-28T04:36:39.748137+00:00",
+"ca": "All given"
+},
+{
+"id": 22700,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Micro incinerators are heated by _____________ or electricity",
+"op": [
+"Fire",
+"All given",
+"Gas",
+"Heat"
+],
+"created_at": "2026-06-28T04:36:48.277543+00:00",
+"ca": "Gas"
+},
+{
+"id": 22701,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "An individual can learn about the hazards of specific chemicals by?",
+"op": [
+"Reading the Material Safety Data Sheet",
+"Talking to friends about it",
+"Reading science magazines",
+"Asking a co-worker"
+],
+"created_at": "2026-06-28T04:36:57.623516+00:00",
+"ca": "Reading the Material Safety Data Sheet"
+},
+{
+"id": 22807,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Which of the following enzyme is used to cut DNA in rDNA technology?",
+"op": [
+"Phosphatase",
+"ribonuclease",
+"Ligase",
+"Restriction enzymes"
+],
+"created_at": "2026-06-28T08:19:28.007357+00:00",
+"ca": "Restriction enzymes"
+},
+{
+"id": 22808,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Work with high concentrations of ___________ is the risk factor in high risk TB labs",
+"op": [
+"Cocci",
+"E.Coli",
+"Bacilli",
+"Spirilla"
+],
+"created_at": "2026-06-28T08:19:46.645828+00:00",
+"ca": "Bacilli"
+},
+{
+"id": 22810,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Bio safety cabinets are used not only to protect the worker but also",
+"op": [
+"protect the lab environment from the microorganisms",
+"enable eating and drinking in the lab",
+"absolve off the lab workers from wearing lab coats",
+"prevent the lab from overheating"
+],
+"created_at": "2026-06-28T08:20:02.545511+00:00",
+"ca": "protect the lab environment from the microorganisms"
+},
+{
+"id": 22811,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Hazardous chemicals follow the ____________ route of exposure",
+"op": [
+"Needle sticks",
+"Ingestion",
+"Inhalation",
+"All given"
+],
+"created_at": "2026-06-28T08:20:19.542697+00:00",
+"ca": "All given"
+},
+{
+"id": 22872,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Gene cloning refers to the",
+"op": [
+"Both A and B",
+"Production of large no. of copies of the gene being cloned",
+"Production of asexual progeny from single cell",
+"None of these"
+],
+"created_at": "2026-06-28T09:22:03.983939+00:00",
+"ca": "Both A and B"
+},
+{
+"id": 22873,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "DNA extraction of TB should be performed in",
+"op": [
+"Low risk Tb labs",
+"High risk Tb labs",
+"Minimums risk Tb labs",
+"Moderate risk Tb labs"
+],
+"created_at": "2026-06-28T09:22:13.162173+00:00",
+"ca": "High risk Tb labs"
+},
+{
+"id": 22874,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Which of the following statements about Personal Protective Equipment (PPE) are correct?",
+"op": [
+"PPE should be worn and stored only inside the laboratory",
+"Employees utilizing PPE should be properly trained",
+"PPE should be chosen based upon the work being completed",
+"All of the above"
+],
+"created_at": "2026-06-28T09:22:23.06394+00:00",
+"ca": "All of the above"
+},
+{
+"id": 22875,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Pathogenic strains increase of GMOs",
+"op": [
+"Resistance",
+"Half-life",
+"Production",
+"Virulence"
+],
+"created_at": "2026-06-28T09:22:45.170333+00:00",
+"ca": "Virulence"
+},
+{
+"id": 22876,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Restriction enzymes",
+"op": [
+"All of the above",
+"Protect bacteria from viral infection",
+"cut DNA in a staggered fashion",
+"cut DNAs producing a blunt end"
+],
+"created_at": "2026-06-28T09:22:53.155176+00:00",
+"ca": "All of the above"
+},
+{
+"id": 22886,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Emergency services include _",
+"op": [
+"Emergency equipment",
+"First aid",
+"All given",
+"Adress/Phone numbers"
+],
+"created_at": "2026-06-28T09:35:17.87156+00:00",
+"ca": "All given"
+},
+{
+"id": 22887,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "In order to insert a foreign gene into a plasmid, both must",
+"op": [
+"be cut by the same restriction enzyme",
+"have identical DNA sequence",
+"be of the same length",
+"originate from the same type of cell"
+],
+"created_at": "2026-06-28T09:35:33.943029+00:00",
+"ca": "be cut by the same restriction enzyme"
+},
+{
+"id": 22888,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "In vacuum line protection prevent the passage of microbes",
+"op": [
+"Chemicals",
+"Autoclave",
+"Radiations",
+"Filters"
+],
+"created_at": "2026-06-28T09:35:41.120689+00:00",
+"ca": "Filters"
+},
+{
+"id": 22889,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Material Safety Data Sheets provide information about",
+"op": [
+"All of the above",
+"Emergency information",
+"Hazards about a specific chemical",
+"Information on chemical reactions"
+],
+"created_at": "2026-06-28T09:35:48.255476+00:00",
+"ca": "All of the above"
+},
+{
+"id": 23124,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "On the multi-colored chemical label, White represents",
+"op": [
+"Fire Hazard",
+"Reactivity Hazard",
+"Health Hazard",
+"Special Hazards"
+],
+"created_at": "2026-06-28T15:42:04.740165+00:00",
+"ca": "Special Hazards"
+},
+{
+"id": 23126,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "In vacuum line protection        flask contain the ___",
+"op": [
+"Chlorine",
+"Formaldehyde",
+"Ethanol",
+"Disinfectants"
+],
+"created_at": "2026-06-28T15:42:13.896983+00:00",
+"ca": "Disinfectants"
+},
+{
+"id": 23127,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "A set standards used to regulate own or community activity in relation to biological world is",
+"op": [
+"Biopiracy",
+"Biopotency",
+"Bioethics",
+"Biowar"
+],
+"created_at": "2026-06-28T15:42:22.904404+00:00",
+"ca": "Bioethics"
+},
+{
+"id": 23128,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": " is factor which control noise",
+"op": [
+"lab equipment",
+"Specify areas",
+"Medical monitoring program",
+"Noise measurement surveys"
+],
+"created_at": "2026-06-28T15:42:43.24812+00:00",
+"ca": "Specify areas"
+},
+{
+"id": 23135,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "When diluting an acid with water, always remember to",
+"op": [
+"Add both at the same time",
+"Pour water into acid",
+"Doesn’t matter",
+"Pour acid into water"
+],
+"created_at": "2026-06-28T16:46:35.497318+00:00",
+"ca": "Pour acid into water"
+},
+{
+"id": 23136,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Restriction enzymes are named for",
+"op": [
+"the viral DNA that they attack",
+"the bacterium they are derived from",
+"the person who discovered",
+"none of the above"
+],
+"created_at": "2026-06-28T16:47:18.271711+00:00",
+"ca": "the bacterium they are derived from"
+},
+{
+"id": 23137,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Chemical, reagents or broth cultures should be pipetted by ___________?",
+"op": [
+"ear",
+"mouth",
+"nose",
+"pipette"
+],
+"created_at": "2026-06-28T16:47:37.25582+00:00",
+"ca": "pipette"
+},
+{
+"id": 23138,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Gamma rays are produced by:",
+"op": [
+"Both A and C",
+"Bremstrahlung",
+"K shell disintegration",
+"Radioactive atoms"
+],
+"created_at": "2026-06-28T16:47:50.839659+00:00",
+"ca": "Radioactive atoms"
+},
+{
+"id": 23153,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Restriction enzymes are also called as?",
+"op": [
+"Molecular scalpels",
+"Biological scissors",
+"All of the above",
+"Molecular knives"
+],
+"created_at": "2026-06-28T17:48:47.7815+00:00",
+"ca": "All of the above"
+},
+{
+"id": 23154,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "Equipment included in the protection of eyes and face are _________",
+"op": [
+"contact lenses",
+"Mask",
+"Goggles",
+"All given"
+],
+"created_at": "2026-06-28T17:51:19.510195+00:00",
+"ca": "Goggles"
+},
+{
+"id": 23155,
+"cc": "BT605",
+"qn": "3",
+"dt": "28 June 2026",
+"qt": "If equipment are unnecessarily switched on this will lead to __________",
+"op": [
+"Electric current",
+"All given",
+"Heating",
+"Fire"
+],
+"created_at": "2026-06-28T17:51:42.858847+00:00",
+"ca": "Heating"
+},
+{
+"id": 24925,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Some of the most common effects of ionizing radiation are:",
+"op": [
+"Alteration of membrane permeability",
+"Chromosome aberrations",
+"Inhibition of cell division",
+"All of the above"
+],
+"created_at": "2026-06-28T20:36:06.230567+00:00",
+"ca": "All of the above"
+},
+{
+"id": 24926,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "When radiation interacts with a cell wall or DNA:",
+"op": [
+"The cell becomes energized",
+"The radiation shifts to a different waveform",
+"The cell either dies or becomes a different kind of cell such as a cancer cell",
+"The cell becomes radioactive"
+],
+"created_at": "2026-06-28T20:36:12.896041+00:00",
+"ca": "The cell either dies or becomes a different kind of cell such as a cancer cell"
+},
+{
+"id": 24928,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "On the multi-colored chemical label, Blue represents",
+"op": [
+"Health Hazard",
+"None of the above",
+"Personal Protective Equipment",
+"Reactivity Hazard"
+],
+"created_at": "2026-06-28T20:36:26.174199+00:00",
+"ca": "Health Hazard"
+},
+{
+"id": 26176,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "If a person ingested a hazardous material then ____________ is first step should be taken in this emergency",
+"op": [
+"Identification of Ingested material",
+"Complete record",
+"Removal of ingested material",
+"Treatment"
+],
+"created_at": "2026-06-29T04:45:20.468218+00:00",
+"ca": "Identification of Ingested material"
+},
+{
+"id": 26177,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Spills of Chemicals should be",
+"op": [
+"Reported immediately",
+"Cleaned up by trained employees",
+"Prevented by using seal containers",
+"All of the above"
+],
+"created_at": "2026-06-29T04:45:26.936477+00:00",
+"ca": "All of the above"
+},
+{
+"id": 26179,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "When working in the laboratory with chemicals, what personal protective equipment (PPE) should be worn atall time?",
+"op": [
+"Always wear goggles and lab coats. Gloves should also be worn when needed",
+"None of the above",
+"Wear a lab coat only",
+"Goggles only"
+],
+"created_at": "2026-06-29T04:45:32.232611+00:00",
+"ca": "Always wear goggles and lab coats. Gloves should also be worn when needed"
+},
+{
+"id": 26180,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "What are the two primary organs of the human anatomy affected by laser beams?",
+"op": [
+"Skin",
+"Eyes",
+"Both a and c",
+"Lungs"
+],
+"created_at": "2026-06-29T04:45:36.840039+00:00",
+"ca": "Both a and c"
+},
+{
+"id": 26677,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "The DNA molecule to which gene of interest is integrated for cloning is called",
+"op": [
+"None of these",
+"Vector",
+"Transformer",
+"Carrier"
+],
+"created_at": "2026-06-29T07:39:43.155214+00:00",
+"ca": "Vector"
+},
+{
+"id": 26678,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Which statement is true for lab coats ________",
+"op": [
+"Deposit for laundry/ should not be taken home",
+"Prevent personal clothing",
+"All given",
+"Remove-leaving for non-laboratory areas"
+],
+"created_at": "2026-06-29T07:39:52.289864+00:00",
+"ca": "All given"
+},
+{
+"id": 26679,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "A person qualified to perform electrical work must possess:",
+"op": [
+"All of the above",
+"Knowledge on the use of PPE, insulating and shielding materials, and insulated tools.",
+"Skills and techniques to determine the nominal voltage of exposed live parts",
+"Skills/techniques to distinguish live parts from other parts of electrical equipment"
+],
+"created_at": "2026-06-29T07:40:00.416746+00:00",
+"ca": "All of the above"
+},
+{
+"id": 26741,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Viral vectors lack __________ genes",
+"op": [
+"All given",
+"Expression",
+"Resistance",
+"Replication"
+],
+"created_at": "2026-06-29T08:56:36.017006+00:00",
+"ca": "Replication"
+},
+{
+"id": 26742,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "The DNA segment to be cloned is called as",
+"op": [
+"DNA fragment",
+"DNA insert",
+"All of the above",
+"Gene segment"
+],
+"created_at": "2026-06-29T08:57:02.900998+00:00",
+"ca": "All of the above"
+},
+{
+"id": 26744,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": " use caution when working near electricity?",
+"op": [
+"Never",
+"Always",
+"Sometimes",
+"Rarely"
+],
+"created_at": "2026-06-29T08:58:13.993643+00:00",
+"ca": "Always"
+},
+{
+"id": 26869,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "The primary risk from occupational radiation exposure is the increased risk of:",
+"op": [
+"Blindness",
+"None of the above",
+"Cancer",
+"Abrasions"
+],
+"created_at": "2026-06-29T09:58:32.943317+00:00",
+"ca": "Cancer"
+},
+{
+"id": 26870,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Moderate risk of TB labs has",
+"op": [
+"low generation of aerosols",
+"high generation of aerosols",
+"moderate generation of aerosols",
+"undetectable generation of aerosols"
+],
+"created_at": "2026-06-29T09:59:06.244642+00:00",
+"ca": "low generation of aerosols"
+},
+{
+"id": 26895,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Which of the following type(s) of Personal Protective Equipment (PPE) is frequently used?",
+"op": [
+"All of the above",
+"Face Shields",
+"Safety glasses",
+"Lab Coats"
+],
+"created_at": "2026-06-29T10:28:31.775479+00:00",
+"ca": "All of the above"
+},
+{
+"id": 26896,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Micro incinerators are shielded in an open ended glass or _______",
+"op": [
+"Aluminium foils",
+"Silver tubes",
+"Copper tubes",
+"Ceramic tubes"
+],
+"created_at": "2026-06-29T10:29:16.674979+00:00",
+"ca": "Ceramic tubes"
+},
+{
+"id": 26897,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "When a chemical splashes in the eye rinse for ?",
+"op": [
+"5 minutes",
+"30 seconds",
+"15 minutes",
+"10 seconds"
+],
+"created_at": "2026-06-29T10:29:21.440149+00:00",
+"ca": "15 minutes"
+},
+{
+"id": 27255,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "The genes formed by joining of DNA segment from two different sources are called as?",
+"op": [
+"Recombinant Gene",
+"Chimeric gene",
+"Both A and C",
+"Joined genes"
+],
+"created_at": "2026-06-29T16:37:27.259136+00:00",
+"ca": "Both A and C"
+},
+{
+"id": 27333,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": " factor will increase the risk in TB labs",
+"op": [
+"Poor ventilation",
+"Poor illumination",
+"All given",
+"Removal of HEPA filters"
+],
+"created_at": "2026-06-29T18:29:55.388448+00:00",
+"ca": "All given"
+},
+{
+"id": 41947,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "On the multi-colored chemical label, Red represents ?",
+"op": [
+"Fire Hazard",
+"Health Hazard",
+"Personal Protective Equipment",
+"Reactivity Hazard"
+],
+"created_at": "2026-06-29T09:49:54.515028+00:00",
+"ca": "Fire Hazard"
+},
+{
+"id": 41948,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Micro incinerators are shielded in an open ended glass or __",
+"op": [
+"Silver tubes",
+"Ceramic tubes",
+"Copper tubes",
+"Aluminium foils"
+],
+"created_at": "2026-06-29T09:50:17.598337+00:00",
+"ca": "Ceramic tubes"
+},
+{
+"id": 41949,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Which statement is true for lab coats ",
+"op": [
+"Remove-leaving for non-laboratory areas",
+"All given",
+"Deposit for laundry/ should not be taken home",
+"Prevent personal clothing"
+],
+"created_at": "2026-06-29T09:50:33.926391+00:00",
+"ca": "All given"
+},
+{
+"id": 41950,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "Lab personnel should label all containers containing chemicals or compounds made in the lab with:",
+"op": [
+"Abbreviations",
+"Symbols",
+"Full name of the chemical",
+"None of the above"
+],
+"created_at": "2026-06-29T09:50:42.759286+00:00",
+"ca": "Full name of the chemical"
+},
+{
+"id": 41951,
+"cc": "BT605",
+"qn": "3",
+"dt": "29 June 2026",
+"qt": "In order to insert a foreign gene into a plasmid, both must",
+"op": [
+"be cut by the same restriction enzyme",
+"originate from the same type of cell",
+"be of the same length",
+"have identical DNA sequence"
+],
+"created_at": "2026-06-29T09:50:54.982183+00:00",
+"ca": "be cut by the same restriction enzyme"
+},
+{
+"id": 68281,
+"cc": "BT605",
+"qn": "3",
+"dt": "03 January 2026",
+"qt": "Dangerous exotic agents are contained in",
+"op": [
+"BSL3",
+"BSL4",
+"BSL1",
+"BSL2"
+],
+"created_at": "2026-07-15T13:27:32.396907+00:00",
+"ca": "BSL4"
+},
+{
+"id": 69582,
+"cc": "BT605",
+"qn": "3",
+"dt": "05 January 2026",
+"qt": "Tuberculosis is a dangerous disease and able to transmit from one person to another, such diseases are called?",
+"op": [
+"Contagion diseases",
+"Transmissible diseases",
+"Contagious diseases",
+"Syndromes"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Contagious diseases"
+},
+{
+"id": 69583,
+"cc": "BT605",
+"qn": "3",
+"dt": "05 January 2026",
+"qt": "In most of the Universities, microbiology laboratories practice",
+"op": [
+"Biosafety Level 2 practices",
+"Biosafety Level 1 practices",
+"Biosafety Level 4 practices",
+"Biosafety Level 3 practices"
+],
+"created_at": "2026-07-15T13:27:40.243646+00:00",
+"ca": "Biosafety Level 2 practices"
+}]

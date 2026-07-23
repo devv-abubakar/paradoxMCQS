@@ -1,0 +1,2735 @@
+[
+    {
+        "id": 23198,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The PLA can be programmed to give an output of constant ___ or ______.",
+        "op": [
+            "0,1",
+            "0,0",
+            "2,3",
+            "1,2"
+        ],
+        "created_at": "2026-06-28T19:01:21.913299+00:00",
+        "ca": "0,1"
+    },
+    {
+        "id": 23201,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "If a circuit suffers “Clock Skew “ problem, the output of circuit can’t be guarantied.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:01:24.672828+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 23206,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "___________uses E2CMOS technology which is Electrically Erasable CMOS instead of Bipolar technology and fusible links.",
+        "op": [
+            "PROM",
+            "PAL",
+            "PLA",
+            "GAL"
+        ],
+        "created_at": "2026-06-28T19:01:43.773436+00:00",
+        "ca": "GAL"
+    },
+    {
+        "id": 23207,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The tri-state buffer connecting the output of the OLMC circuit to the output pin is controlled through ___________ different sources.",
+        "op": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "created_at": "2026-06-28T19:01:46.635591+00:00",
+        "ca": "four"
+    },
+    {
+        "id": 23208,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When the both inputs of edge-triggered J-K flop-flop are set to logic zero ",
+        "op": [
+            "Q=1 and Q’=0",
+            "Q=0 and Q’=1",
+            "The flop-flop is triggered",
+            "The output of flip-flop remains unchanged"
+        ],
+        "created_at": "2026-06-28T19:01:48.453124+00:00",
+        "ca": "The output of flip-flop remains unchanged"
+    },
+    {
+        "id": 23211,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A 4-bit binary up/down counter is in the binary state of zero. The next state in the UP mode is",
+        "op": [
+            "1000",
+            "1110",
+            "1111",
+            "0001"
+        ],
+        "created_at": "2026-06-28T19:01:50.494115+00:00",
+        "ca": "0001"
+    },
+    {
+        "id": 23218,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "occurs when the same clock signal arrives at different times at different clock inputs due to propagation delay.",
+        "op": [
+            "Clock Skew",
+            "None of given options",
+            "Race condition",
+            "Ripple Effect"
+        ],
+        "created_at": "2026-06-28T19:02:04.022662+00:00",
+        "ca": "Clock Skew"
+    },
+    {
+        "id": 23223,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The GAL16V8 has.",
+        "op": [
+            "8 special function pins",
+            "All of the given options",
+            "8 pins that are used as inputs or outputs",
+            "16 dedicated inputs"
+        ],
+        "created_at": "2026-06-28T19:02:13.218105+00:00",
+        "ca": "8 pins that are used as inputs or outputs"
+    },
+    {
+        "id": 23231,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In sequential circuits memory elements are connected with.",
+        "op": [
+            "Logic circuit",
+            "Clock",
+            "External Event",
+            "Feedback path"
+        ],
+        "created_at": "2026-06-28T19:02:26.480051+00:00",
+        "ca": "Feedback path"
+    },
+    {
+        "id": 23245,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Bi-stable devices remain in either of their _________ states unless the inputs force the device to switch its state",
+        "op": [
+            "Eight",
+            "Three",
+            "Two",
+            "Ten"
+        ],
+        "created_at": "2026-06-28T19:02:47.305418+00:00",
+        "ca": "Two"
+    },
+    {
+        "id": 23247,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The 74HC163 is a 4-bit Synchronous Counter.it has..............parallel data inputs pins",
+        "op": [
+            "6",
+            "4",
+            "8",
+            "2"
+        ],
+        "created_at": "2026-06-28T19:02:51.89753+00:00",
+        "ca": "4"
+    },
+    {
+        "id": 23251,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "For a down counter that counts from (111 to 000), if current state is 101 the next state will be ",
+        "op": [
+            "010",
+            "none of given options",
+            "111",
+            "110"
+        ],
+        "created_at": "2026-06-28T19:02:57.948156+00:00",
+        "ca": "none of given options"
+    },
+    {
+        "id": 23258,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The ABEL Input file can use a instead of the equation to specify the Boolean expressions.",
+        "op": [
+            "Karnaugh Map",
+            "State Diagram",
+            "Truth Table",
+            "Logic Circuit"
+        ],
+        "created_at": "2026-06-28T19:03:08.906897+00:00",
+        "ca": "Truth Table"
+    },
+    {
+        "id": 23259,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A flip-flop is connected to +5 volts and it draws 5 mA of current during its operation, the power dissipation of the flip-flop is",
+        "op": [
+            "1024 mW",
+            "25 mW",
+            "10 mW",
+            "64 mW"
+        ],
+        "created_at": "2026-06-28T19:03:10.97537+00:00",
+        "ca": "25 mW"
+    },
+    {
+        "id": 23264,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A decade counter is ",
+        "op": [
+            "Mod-3 counter",
+            "Mod-10 counter",
+            "Mod-5 counter",
+            "Mod-8 counter"
+        ],
+        "created_at": "2026-06-28T19:03:14.529654+00:00",
+        "ca": "Mod-10 counter"
+    },
+    {
+        "id": 23265,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " is used when the output is connected back to the input of the PAL or if the output pin is used as an input only.",
+        "op": [
+            "Programmable polarity",
+            "Combinational Output",
+            "Combinational Input/Output",
+            "Combinational Input"
+        ],
+        "created_at": "2026-06-28T19:03:18.244656+00:00",
+        "ca": "Combinational Input/Output"
+    },
+    {
+        "id": 23272,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The OLMC can be configured to provide a feedback input signal to the AND gate array input. There are ___________ possibilities.",
+        "op": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "created_at": "2026-06-28T19:03:27.322164+00:00",
+        "ca": "four"
+    },
+    {
+        "id": 23279,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In Master-Slave flip-flop setup, the master flip flop operates at ",
+        "op": [
+            "Master-Slave flip-flop does not operate on pulses, rather it is edge triggered.",
+            "Both Master-Slave operate simultaneously",
+            "Positive half cycle of pulse",
+            "Negative half cycle of pulse"
+        ],
+        "created_at": "2026-06-28T19:03:35.25346+00:00",
+        "ca": "Positive half cycle of pulse"
+    },
+    {
+        "id": 23292,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " is said to occur when multiple internal variables change due to change in one input variable",
+        "op": [
+            "Hold delay",
+            "Clock Skew",
+            "Hold and Wait",
+            "Race condition"
+        ],
+        "created_at": "2026-06-28T19:03:51.838109+00:00",
+        "ca": "Race condition"
+    },
+    {
+        "id": 23293,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When the fuse of the _________ gate input is blown to set the input to logic high, the output of the XOR gate is opposite of the OR gate output.",
+        "op": [
+            "XOR",
+            "NAND",
+            "AND",
+            "OR"
+        ],
+        "created_at": "2026-06-28T19:03:53.117884+00:00",
+        "ca": "XOR"
+    },
+    {
+        "id": 23300,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In gated SR latch, what is the value of the output if EN=1, S=0 and R=0?",
+        "op": [
+            "Qt",
+            "Invalid",
+            "0",
+            "1"
+        ],
+        "created_at": "2026-06-28T19:04:10.072769+00:00",
+        "ca": "Qt"
+    },
+    {
+        "id": 23305,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The power consumed by a flip-flop is defined by _____________",
+        "op": [
+            "P = Vcc x Icc",
+            "P = Vcc x Rcc",
+            "P = Icc x Rcc",
+            "P = Mcc x Vcc"
+        ],
+        "created_at": "2026-06-28T19:04:13.144821+00:00",
+        "ca": "P = Vcc x Icc"
+    },
+    {
+        "id": 23306,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "To parallel load a byte of data into a shift register, there must be",
+        "op": [
+            "one clock pulse for each 1 in the data",
+            "eight clock pulse",
+            "one clock pulse",
+            "one clock pulse for each 0 in the data"
+        ],
+        "created_at": "2026-06-28T19:04:13.592761+00:00",
+        "ca": "one clock pulse"
+    },
+    {
+        "id": 23316,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Number of states in an 8-bit Johnson counter sequence are:",
+        "op": [
+            "16",
+            "8",
+            "12",
+            "14"
+        ],
+        "created_at": "2026-06-28T19:04:30.197214+00:00",
+        "ca": "16"
+    },
+    {
+        "id": 23317,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A negative edge-triggered flip-flop changes its state when   ________________",
+        "op": [
+            "Preset input (PRE) is set",
+            "High-to-low transition of clock",
+            "Low-to-high transition of clock",
+            "Enable input (EN) is set"
+        ],
+        "created_at": "2026-06-28T19:04:33.082659+00:00",
+        "ca": "High-to-low transition of clock"
+    },
+    {
+        "id": 23320,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A flip-flop is presently in SET state and must remain SET on the next clock pulse. What must j and K be?",
+        "op": [
+            "J = 1, K = X(Don't care)",
+            "J = 1, K = 0",
+            "J = X(Don't care), K = 0",
+            "J = 0, K = X(Don't care)"
+        ],
+        "created_at": "2026-06-28T19:04:37.574373+00:00",
+        "ca": "J = X(Don't care), K = 0"
+    },
+    {
+        "id": 23321,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "To serially shift a byte of data into a shift register, there must be",
+        "op": [
+            "one clock pulse for each 1 in the data",
+            "eight clock pulses",
+            "one clock pulse",
+            "one load pulse"
+        ],
+        "created_at": "2026-06-28T19:04:38.024936+00:00",
+        "ca": "eight clock pulses"
+    },
+    {
+        "id": 23333,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "If S=1 and R=1, for negative edge triggered flip-flop then \nQ(t+1) = ___",
+        "op": [
+            "0",
+            "Input is invalid",
+            "1",
+            "Invalid"
+        ],
+        "created_at": "2026-06-28T19:04:54.425778+00:00",
+        "ca": "Invalid"
+    },
+    {
+        "id": 23344,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "______________________are implemented by combining combinational circuits with memory elements.",
+        "op": [
+            "PLDs",
+            "PLA",
+            "system",
+            "Sequential circuits"
+        ],
+        "created_at": "2026-06-28T19:05:08.862841+00:00",
+        "ca": "Sequential circuits"
+    },
+    {
+        "id": 23346,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The minimum time required for the input logic levels to remain stable before the clock transition occurs is known as the ",
+        "op": [
+            "Hold time",
+            "Set-up time",
+            "Pulse Stability time (PST)",
+            "Pulse Interval time"
+        ],
+        "created_at": "2026-06-28T19:05:09.949744+00:00",
+        "ca": "Set-up time"
+    },
+    {
+        "id": 23348,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "RCO stands for ",
+        "op": [
+            "Reconfiguration Clock Output",
+            "Ripple Counter Output",
+            "Ripple Clock Output",
+            "Reconfiguration Counter Output"
+        ],
+        "created_at": "2026-06-28T19:05:11.853511+00:00",
+        "ca": "Ripple Clock Output"
+    },
+    {
+        "id": 23353,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A Quad 1-of-4 MUX has four Multiplexers, each multiplexer has inputs and a single output.",
+        "op": [
+            "Four",
+            "Eight",
+            "Five",
+            "Six"
+        ],
+        "created_at": "2026-06-28T19:05:14.198974+00:00",
+        "ca": "Four"
+    },
+    {
+        "id": 23366,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A 4- bit UP/DOWN counter is in DOWN mode and in the 1010 state. on the next clock pulse, to what state does the counter go?",
+        "op": [
+            "1011",
+            "0011",
+            "1001",
+            "1100"
+        ],
+        "created_at": "2026-06-28T19:05:27.68906+00:00",
+        "ca": "1001"
+    },
+    {
+        "id": 23369,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "GAL can be reprogrammed as instead of fuses E2CMOS logic is used which can be programmed to connect a _________ with a .",
+        "op": [
+            "row,row",
+            "column,column",
+            "column,row",
+            "row,column"
+        ],
+        "created_at": "2026-06-28T19:05:31.538434+00:00",
+        "ca": "row,column"
+    },
+    {
+        "id": 23374,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In Master-Slave flip-flop the Clock signal is connected to Slave flip-flip using ________ gate",
+        "op": [
+            "NOT",
+            "AND",
+            "OR",
+            "NAND"
+        ],
+        "created_at": "2026-06-28T19:05:40.857703+00:00",
+        "ca": "NOT"
+    },
+    {
+        "id": 23379,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Tri-State Buffer is a __________ gate with a control line that disconnects the output from the input.",
+        "op": [
+            "NAND",
+            "AND",
+            "OR",
+            "NOT"
+        ],
+        "created_at": "2026-06-28T19:05:44.428944+00:00",
+        "ca": "NOT"
+    },
+    {
+        "id": 23383,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "We have a digital circuit. Different parts of circuit operate at different clock frequencies (4MHZ, 2MHZ and 1MHZ), but we have a single clock source having a fix clock frequency (4MHZ), to supply the required frequency to each part of circuit, we can get help by using ",
+        "op": [
+            "D-flipflop",
+            "Using S-R Flop-Flop",
+            "T-Flip-Flop",
+            "J-K flip-flop"
+        ],
+        "created_at": "2026-06-28T19:05:51.699855+00:00",
+        "ca": "T-Flip-Flop"
+    },
+    {
+        "id": 23392,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The OLMC of the GAL16V8 is similar to the OLMC of the ______________ with some enhancements.",
+        "op": [
+            "GAL22V10",
+            "GAL16V10",
+            "GAL12V10",
+            "GAL14V10"
+        ],
+        "created_at": "2026-06-28T19:06:03.942747+00:00",
+        "ca": "GAL22V10"
+    },
+    {
+        "id": 23395,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A-stable multi-vibrator is an Oscillator which does not have any.",
+        "op": [
+            "Output",
+            "Stable state",
+            "Flip flop",
+            "Unstable state"
+        ],
+        "created_at": "2026-06-28T19:06:05.44765+00:00",
+        "ca": "Stable state"
+    },
+    {
+        "id": 23401,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The normal data inputs to a flip-flop (D, S and R, J and K, T) are referred to as ________ inputs.",
+        "op": [
+            "Asynchronous",
+            "Sequential",
+            "Synchronous",
+            "Combinational"
+        ],
+        "created_at": "2026-06-28T19:06:14.743967+00:00",
+        "ca": "Synchronous"
+    },
+    {
+        "id": 23402,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The term hold always means .",
+        "op": [
+            "Q=1, Q ̅=0",
+            "Q=0, Q ̅=0",
+            "Q=0, Q ̅=1",
+            "No change"
+        ],
+        "created_at": "2026-06-28T19:06:15.474277+00:00",
+        "ca": "No change"
+    },
+    {
+        "id": 23405,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _____ inputs can be directly mapped to Karnaugh maps.",
+        "op": [
+            "Flip-flop",
+            "S-R",
+            "External",
+            "J-K"
+        ],
+        "created_at": "2026-06-28T19:06:18.424948+00:00",
+        "ca": "Flip-flop"
+    },
+    {
+        "id": 23409,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The characteristic equation of D-flip-flop implies that .",
+        "op": [
+            "The next state is dependent on previous state",
+            "The next state is independent of inputs",
+            "The next state is independent of present state",
+            "The next state is dependent on present state"
+        ],
+        "created_at": "2026-06-28T19:06:24.952933+00:00",
+        "ca": "The next state is independent of present state"
+    },
+    {
+        "id": 23410,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Each stage of Master-slave flip-flop works at ____ of the clock signal",
+        "op": [
+            "One fourth",
+            "One third",
+            "Each stage works on complete clock signal",
+            "One half"
+        ],
+        "created_at": "2026-06-28T19:06:26.983839+00:00",
+        "ca": "One half"
+    },
+    {
+        "id": 23417,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The 74HC163 is a 4-bit Synchronous Counter.it has..............data output pins",
+        "op": [
+            "4",
+            "2",
+            "6",
+            "8"
+        ],
+        "created_at": "2026-06-28T19:06:34.78269+00:00",
+        "ca": "4"
+    },
+    {
+        "id": 23437,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "An Asynchronous Down-counter is implemented (Using J-K flip-flop) by connecting ",
+        "op": [
+            "Q output of all flip-flops to J input of next flip-flops",
+            "Q’ output of all flip-flops to clock input of next flip-flops",
+            "Q’ output of all flip-flops to K input of next flip-flops",
+            "Q output of all flip-flops to clock input of next flip-flops"
+        ],
+        "created_at": "2026-06-28T19:07:02.126158+00:00",
+        "ca": "Q’ output of all flip-flops to clock input of next flip-flops"
+    },
+    {
+        "id": 23451,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The counter states or the range of numbers of a counter is determined by the formula. (“n” represents the total number of flip-flops)",
+        "op": [
+            "(2 raise to power n)",
+            "(2 raise to power n and then minus 1)",
+            "(n raise to power 2 and then minus 1)",
+            "(n raise to power 2)"
+        ],
+        "created_at": "2026-06-28T19:07:12.252306+00:00",
+        "ca": "(2 raise to power n)"
+    },
+    {
+        "id": 23463,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Karnaugh map is used in designing",
+        "op": [
+            "a clock",
+            "a counter",
+            "an UP/DOWN counter",
+            "All of the above"
+        ],
+        "created_at": "2026-06-28T19:07:27.171914+00:00",
+        "ca": "All of the above"
+    },
+    {
+        "id": 23469,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " is one of the examples of asynchronous inputs.",
+        "op": [
+            "J-K input",
+            "Clear Input (CLR)",
+            "S-R input",
+            "D input"
+        ],
+        "created_at": "2026-06-28T19:07:35.170782+00:00",
+        "ca": "Clear Input (CLR)"
+    },
+    {
+        "id": 23480,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " flip-flops are obsolete now.",
+        "op": [
+            "Master-Slave",
+            "D-Flipflop",
+            "T-Flipflop",
+            "Edge-triggered"
+        ],
+        "created_at": "2026-06-28T19:07:46.822248+00:00",
+        "ca": "Master-Slave"
+    },
+    {
+        "id": 23499,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The absence of a ________________ element in sequential circuit restricts the use of digital combinational circuits to certain application areas.",
+        "op": [
+            "memory",
+            "cell",
+            "clock",
+            "device"
+        ],
+        "created_at": "2026-06-28T19:08:06.250048+00:00",
+        "ca": "memory"
+    },
+    {
+        "id": 23511,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A divide-by-10 ring counter requires a minimum of",
+        "op": [
+            "ten flip-flops",
+            "five flip-flops",
+            "four flip-flops",
+            "twelve flip-flops"
+        ],
+        "created_at": "2026-06-28T19:08:14.955743+00:00",
+        "ca": "ten flip-flops"
+    },
+    {
+        "id": 23515,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "An Astable multivibrator is known as a(n) ",
+        "op": [
+            "Dual-shot",
+            "Oscillator",
+            "One-shot",
+            "Booster"
+        ],
+        "created_at": "2026-06-28T19:08:19.017656+00:00",
+        "ca": "Oscillator"
+    },
+    {
+        "id": 23523,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In designing any synchronous counter a modulus number is used which determine the number of............ used in a counter",
+        "op": [
+            "Counters",
+            "Registers",
+            "Flip Flops",
+            "Latches"
+        ],
+        "created_at": "2026-06-28T19:08:30.51742+00:00",
+        "ca": "Flip Flops"
+    },
+    {
+        "id": 23526,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In case of cascading Integrated Circuit counters, the enable inputs and RCOof the Integrated Circuit counters allow cascading of multiple counters together",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-28T19:08:32.602811+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 23528,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Demultiplexer can also be used as",
+        "op": [
+            "Decoder",
+            "Encoder",
+            "Deselector",
+            "Inverse multiplexer"
+        ],
+        "created_at": "2026-06-28T19:08:33.362901+00:00",
+        "ca": "Decoder"
+    },
+    {
+        "id": 23529,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "ABEL is an acronym for",
+        "op": [
+            "Advanced Broadband Enabled Longitude",
+            "None of the given options",
+            "Advanced Boolean Equation Language",
+            "Advanced Boolean Expression Language"
+        ],
+        "created_at": "2026-06-28T19:08:33.426374+00:00",
+        "ca": "Advanced Boolean Expression Language"
+    },
+    {
+        "id": 23534,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The declaration section of ABEL generally includes the device declaration, __________ declarations and set declarations.",
+        "op": [
+            "system",
+            "pin",
+            "model",
+            "cell"
+        ],
+        "created_at": "2026-06-28T19:08:43.400494+00:00",
+        "ca": "pin"
+    },
+    {
+        "id": 23536,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In designing any counter the transition from a current state to the next sate is determined by",
+        "op": [
+            "Only inputs",
+            "Current state and inputs",
+            "current state and outputs",
+            "Only current state"
+        ],
+        "created_at": "2026-06-28T19:08:44.468099+00:00",
+        "ca": "Current state and inputs"
+    },
+    {
+        "id": 23538,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "To implement the counter using S-R flip-flops instead of J-K flip-flops, the _____ transition table is used.",
+        "op": [
+            "S-R",
+            "J-K",
+            "Next State",
+            "None of above"
+        ],
+        "created_at": "2026-06-28T19:08:47.581408+00:00",
+        "ca": "S-R"
+    },
+    {
+        "id": 23543,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A’ is written in ABEL as.",
+        "op": [
+            "@A",
+            "$A",
+            "#A",
+            "!A"
+        ],
+        "created_at": "2026-06-28T19:08:56.533685+00:00",
+        "ca": "!A"
+    },
+    {
+        "id": 23548,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In gated SR latch, what is the value of the output if EN=1, S=0 and R=1?",
+        "op": [
+            "1",
+            "Qt",
+            "0",
+            "Invalid"
+        ],
+        "created_at": "2026-06-28T19:09:01.000178+00:00",
+        "ca": "0"
+    },
+    {
+        "id": 23554,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "For a gated D-Latch if EN=1 and D=1 then Q(t+1) = _________",
+        "op": [
+            "Q(t)",
+            "0",
+            "1",
+            "Invalid"
+        ],
+        "created_at": "2026-06-28T19:09:10.432741+00:00",
+        "ca": "1"
+    },
+    {
+        "id": 23558,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The Programmable Array Logic (PAL) has ___________ AND array and a _______ OR array.",
+        "op": [
+            "Fixed, Fixed",
+            "Programmable ,Programmable",
+            "Fixed, Programmable",
+            "Programmable, Fixed"
+        ],
+        "created_at": "2026-06-28T19:09:15.678702+00:00",
+        "ca": "Programmable, Fixed"
+    },
+    {
+        "id": 23565,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "If data is brought into the J terminal and its complement to the K terminal, a J-K flip-flop operates as a(n) ________.",
+        "op": [
+            "N flip-flop",
+            "S-C flip-flop",
+            "D flip-flop",
+            "S-R flip-flop"
+        ],
+        "created_at": "2026-06-28T19:09:31.225603+00:00",
+        "ca": "D flip-flop"
+    },
+    {
+        "id": 23571,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In Declaration section of ABEL, Device declaration is used to specify the ________ device that is to be programmed.",
+        "op": [
+            "PLA",
+            "PLD",
+            "PAL",
+            "EPROM"
+        ],
+        "created_at": "2026-06-28T19:09:37.603701+00:00",
+        "ca": "PLD"
+    },
+    {
+        "id": 23573,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When the control line in tri-state buffer is high, the buffer operates like a ________ gate",
+        "op": [
+            "OR",
+            "XOR",
+            "NOT",
+            "AND"
+        ],
+        "created_at": "2026-06-28T19:09:39.599113+00:00",
+        "ca": "NOT"
+    },
+    {
+        "id": 23575,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The GAL16V8 has eight _________each connected to eight product terms.",
+        "op": [
+            "cells",
+            "OLMCs",
+            "POS",
+            "SOP"
+        ],
+        "created_at": "2026-06-28T19:09:40.343879+00:00",
+        "ca": "OLMCs"
+    },
+    {
+        "id": 23578,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A 4-bit binary up/down counter is in the binary state of zero. The next state in the DOWN mode is:",
+        "op": [
+            "1111",
+            "0001",
+            "1110",
+            "1000"
+        ],
+        "created_at": "2026-06-28T19:09:41.158339+00:00",
+        "ca": "1111"
+    },
+    {
+        "id": 23581,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A NOR based S-R latch is implemented using _______ gates instead of _________ gates.",
+        "op": [
+            "NOR,NAND",
+            "NOR,XOR",
+            "OR,XOR",
+            "XOR,NAND"
+        ],
+        "created_at": "2026-06-28T19:09:43.095461+00:00",
+        "ca": "NOR,NAND"
+    },
+    {
+        "id": 23587,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Divide-by-160 counter is acheived by using",
+        "op": [
+            "DIV 16 and DIV 10",
+            "Flip-Flop and DIV 10",
+            "Flip-Flop and DIV 16",
+            "DIV 16 and DIV 32"
+        ],
+        "created_at": "2026-06-28T19:09:53.214344+00:00",
+        "ca": "DIV 16 and DIV 10"
+    },
+    {
+        "id": 23593,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "All ABEL statements must end with _____.",
+        "op": [
+            "\"",
+            "'",
+            ";",
+            ":"
+        ],
+        "created_at": "2026-06-28T19:09:56.950321+00:00",
+        "ca": ";"
+    },
+    {
+        "id": 23598,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "OLMC stands for ______________.",
+        "op": [
+            "Ordered Logic Macro Cells",
+            "Output Logic Macro Cells",
+            "Output Logic Micro Cells",
+            "Ordered Logic Micro Cells"
+        ],
+        "created_at": "2026-06-28T19:10:01.101478+00:00",
+        "ca": "Output Logic Macro Cells"
+    },
+    {
+        "id": 23606,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Why demultiplexer is called a data distributor?",
+        "op": [
+            "One of the inputs will be selected for the output",
+            "The output will be distributed to one of the inputs",
+            "The input will be distributed to one of the outputs",
+            "Single input to Single Output"
+        ],
+        "created_at": "2026-06-28T19:10:08.407828+00:00",
+        "ca": "The input will be distributed to one of the outputs"
+    },
+    {
+        "id": 23610,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A latch is a temporary storage device that has _________ stable states.",
+        "op": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "created_at": "2026-06-28T19:10:09.790473+00:00",
+        "ca": "two"
+    },
+    {
+        "id": 23612,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "_________ have Buffers at the inputs which produce the\nactual variable and its complement.",
+        "op": [
+            "GAL",
+            "PLA",
+            "PAL",
+            "EPROM"
+        ],
+        "created_at": "2026-06-28T19:10:11.074204+00:00",
+        "ca": "PAL"
+    },
+    {
+        "id": 23625,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A decade counter can be implemented by truncating the counting sequence of a MOD-20 counter.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:10:20.173283+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 23640,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The n flip-flops store _____ states.",
+        "op": [
+            "0",
+            "1",
+            "2^(n+1)",
+            "2^n"
+        ],
+        "created_at": "2026-06-28T19:10:36.012612+00:00",
+        "ca": "2^n"
+    },
+    {
+        "id": 23669,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _____________ input overrides the ________ input",
+        "op": [
+            "Asynchronous, synchronous",
+            "Synchronous, asynchronous",
+            "Clear input (CLR), Preset input (PRE)",
+            "Preset input (PRE), Clear input (CLR)"
+        ],
+        "created_at": "2026-06-28T19:11:27.557018+00:00",
+        "ca": "Asynchronous, synchronous"
+    },
+    {
+        "id": 23690,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A stage in the shift register consists of",
+        "op": [
+            "a latch",
+            "a byte of storage",
+            "a flip flop",
+            "four bits of storage"
+        ],
+        "created_at": "2026-06-28T19:12:03.335975+00:00",
+        "ca": "a flip flop"
+    },
+    {
+        "id": 23691,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A _________ can not operate without a memory element.",
+        "op": [
+            "counter",
+            "unit",
+            "clock",
+            "cell"
+        ],
+        "created_at": "2026-06-28T19:12:03.806643+00:00",
+        "ca": "counter"
+    },
+    {
+        "id": 23701,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A one-shot mono-stable device contains _________",
+        "op": [
+            "NAND gate, Resistor, Capacitor and NOT Gate",
+            "XNOR gate, Resistor, Capacitor and NOT Gate",
+            "AND gate, Resistor, Capacitor and NOT Gate",
+            "NOR gate, Resistor, Capacitor and NOT Gate"
+        ],
+        "created_at": "2026-06-28T19:12:28.97794+00:00",
+        "ca": "NAND gate, Resistor, Capacitor and NOT Gate"
+    },
+    {
+        "id": 23713,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A multiplexer with a register circuit converts",
+        "op": [
+            "Parallel data to parallel",
+            "Parallel data to serial",
+            "Serial data to parallel",
+            "Serial data to serial"
+        ],
+        "created_at": "2026-06-28T19:12:51.641967+00:00",
+        "ca": "Parallel data to serial"
+    },
+    {
+        "id": 23720,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In NAND based S-R latch, output of each __________ gate is connected to the input of the other ____________ gate.",
+        "op": [
+            "NOR,NAND",
+            "NAND,NAND",
+            "NOR,NOR",
+            "NAND,NOR"
+        ],
+        "created_at": "2026-06-28T19:13:12.064288+00:00",
+        "ca": "NAND,NAND"
+    },
+    {
+        "id": 23724,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "If the S and R inputs of the gated S-R latch are connected together using a ______ gate then there is only a single input to the latch. The input is represented by D instead of S or R (A gated D-Latch)",
+        "op": [
+            "OR",
+            "AND",
+            "XOR",
+            "NOT"
+        ],
+        "created_at": "2026-06-28T19:13:19.194609+00:00",
+        "ca": "NOT"
+    },
+    {
+        "id": 23732,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The latch is said to be in logic _________ state when\nQ=1 and Q'=0 and it is in the logic low state when Q=0 and Q'=1.",
+        "op": [
+            "constant",
+            "high",
+            "zero",
+            "low"
+        ],
+        "created_at": "2026-06-28T19:13:47.404148+00:00",
+        "ca": "high"
+    },
+    {
+        "id": 23733,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "System having memory elements are called______ circuits.",
+        "op": [
+            "Sequential",
+            "Quadrantal",
+            "Simplex",
+            "Combinational"
+        ],
+        "created_at": "2026-06-28T19:13:48.867497+00:00",
+        "ca": "Sequential"
+    },
+    {
+        "id": 23744,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The low to high or high to low transition of the clock is considered to be a(n) ________",
+        "op": [
+            "State",
+            "Trigger",
+            "Edge",
+            "One-shot"
+        ],
+        "created_at": "2026-06-28T19:14:06.819478+00:00",
+        "ca": "Edge"
+    },
+    {
+        "id": 23750,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The minimum time for which the input signal has to be maintained at the input of flip-flop is called ______ of the flip-flop.",
+        "op": [
+            "Pulse Interval time",
+            "Hold time",
+            "Pulse Stability time (PST)",
+            "Set-up time"
+        ],
+        "created_at": "2026-06-28T19:14:16.065227+00:00",
+        "ca": "Hold time"
+    },
+    {
+        "id": 23751,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The GAL22V10 device is available as low-voltage \n__________ version.",
+        "op": [
+            "2.0v",
+            "1.5v",
+            "3.0v",
+            "3.3v"
+        ],
+        "created_at": "2026-06-28T19:14:17.349638+00:00",
+        "ca": "3.3v"
+    },
+    {
+        "id": 23753,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When the _____ Hz sampling interval is selected, the signal at the output of the J-K flip-flop has a time period of _____ seconds.",
+        "op": [
+            "1,1",
+            "1,2",
+            "0,2",
+            "2,5"
+        ],
+        "created_at": "2026-06-28T19:14:17.378588+00:00",
+        "ca": "1,2"
+    },
+    {
+        "id": 23757,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A mono-stable device only has a single stable state",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:14:29.571832+00:00",
+        "ca": "True"
+    },
+    {
+        "id": 23761,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In moore machine the output depends on",
+        "op": [
+            "the current state and inputs",
+            "only inputs",
+            "the current state and the output of previous flip flop",
+            "the current state"
+        ],
+        "created_at": "2026-06-28T19:14:36.247556+00:00",
+        "ca": "the current state"
+    },
+    {
+        "id": 23765,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A divide-by-10 Johnson counter requires",
+        "op": [
+            "five flip-flops",
+            "twelve flip-flops",
+            "ten flip-flops",
+            "four flip-flops"
+        ],
+        "created_at": "2026-06-28T19:14:41.997922+00:00",
+        "ca": "five flip-flops"
+    },
+    {
+        "id": 23769,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The ABEL symbol for “OR” operation is",
+        "op": [
+            "&",
+            "!",
+            "$",
+            "#"
+        ],
+        "created_at": "2026-06-28T19:14:47.445613+00:00",
+        "ca": "#"
+    },
+    {
+        "id": 23775,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Two states are said to be equal if they have exactly same.",
+        "op": [
+            "Outputs",
+            "Inputs",
+            "None of the given options",
+            "Next state"
+        ],
+        "created_at": "2026-06-28T19:14:58.247655+00:00",
+        "ca": "None of the given options"
+    },
+    {
+        "id": 23855,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Three cascaded modulus-10 counters have an overall modulus of",
+        "op": [
+            "100",
+            "10000",
+            "30",
+            "1000"
+        ],
+        "created_at": "2026-06-28T19:17:19.300842+00:00",
+        "ca": "1000"
+    },
+    {
+        "id": 23875,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Flip flops are also called ",
+        "op": [
+            "Bi-stable transformer",
+            "Bi-stable multivibrators",
+            "Bi-stable dualvibrators",
+            "Bi-stable singlevibrators"
+        ],
+        "created_at": "2026-06-28T19:17:44.655023+00:00",
+        "ca": "Bi-stable multivibrators"
+    },
+    {
+        "id": 23879,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The duration for which the elevator doors are opened, and remain open, and time it takes for the elevator to move from one floor to the next can be determined by a/an.",
+        "op": [
+            "Clock Signal",
+            "None of the given options",
+            "Input Signal",
+            "Output Signal"
+        ],
+        "created_at": "2026-06-28T19:17:51.294515+00:00",
+        "ca": "Clock Signal"
+    },
+    {
+        "id": 23883,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In a 4-bit binary counter, the next state after the terminal count in the DOWN mode is ",
+        "op": [
+            "0000",
+            "0001",
+            "10000",
+            "1111"
+        ],
+        "created_at": "2026-06-28T19:17:59.064648+00:00",
+        "ca": "1111"
+    },
+    {
+        "id": 23896,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In asynchronous digital systems all the circuits change their state with respect to a common clock",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:18:20.073513+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 23904,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In synchronous digital circuits the of one flip-flop is connected to the of a second flip-flop.",
+        "op": [
+            "Output, input",
+            "Clock signal, Output",
+            "Input, Output",
+            "Input, clock signal"
+        ],
+        "created_at": "2026-06-28T19:18:28.858503+00:00",
+        "ca": "Output, input"
+    },
+    {
+        "id": 23921,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Select the mode of programming in which GAL16V8 can be programmed.",
+        "op": [
+            "Registered Mode",
+            "All of the given options",
+            "Simple Mode",
+            "Complex Mode"
+        ],
+        "created_at": "2026-06-28T19:18:53.425927+00:00",
+        "ca": "All of the given options"
+    },
+    {
+        "id": 23943,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A Divide-by-20 counter can be acheived by using",
+        "op": [
+            "Flip-Flop and DIV 32",
+            "Flip-Flop and DIV 10",
+            "Div 10 and DIV 16",
+            "Flip-Flop and DIV 16"
+        ],
+        "created_at": "2026-06-28T19:19:26.212479+00:00",
+        "ca": "Flip-Flop and DIV 10"
+    },
+    {
+        "id": 23984,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When an eight bit serial in/out shift register is used for a 24 micro seconds time delay, the clock frequency must be",
+        "op": [
+            "8 MHz",
+            "333 KHz",
+            "41.67 KHz",
+            "125 KHz"
+        ],
+        "created_at": "2026-06-28T19:20:36.732286+00:00",
+        "ca": "333 KHz"
+    },
+    {
+        "id": 23991,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The 3-bit up counter can be implemented using ________ flip-flop(s).",
+        "op": [
+            "S-R Flip-flips and D-Flip-flops",
+            "S-R Flip-flops Only",
+            "S-R Flip-flops or D-Flip-flops",
+            "D-Flip-flop Only"
+        ],
+        "created_at": "2026-06-28T19:20:51.624544+00:00",
+        "ca": "S-R Flip-flops or D-Flip-flops"
+    },
+    {
+        "id": 23994,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Combinational Logic is used for combinational circuits, where as Registered Logic is based on _____________ circuits.",
+        "op": [
+            "Multiple",
+            "Consecutive",
+            "Single",
+            "Sequential"
+        ],
+        "created_at": "2026-06-28T19:21:02.565456+00:00",
+        "ca": "Sequential"
+    },
+    {
+        "id": 23998,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The output has the output of the OR gate connected through an XOR gate to the tri-state buffer.",
+        "op": [
+            "PLA",
+            "Programmed Polarity",
+            "Combinational input/",
+            "Combinational"
+        ],
+        "created_at": "2026-06-28T19:21:06.080491+00:00",
+        "ca": "Programmed Polarity"
+    },
+    {
+        "id": 24000,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A NOR based S-R latches maintain the output state when both the set and reset inputs are .",
+        "op": [
+            "invalid",
+            "active",
+            "inactive",
+            "consistent"
+        ],
+        "created_at": "2026-06-28T19:21:12.102219+00:00",
+        "ca": "inactive"
+    },
+    {
+        "id": 24005,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The terminal count of a 4-bit binary counter in the DOWN mode is",
+        "op": [
+            "0000",
+            "1111",
+            "1100",
+            "0011"
+        ],
+        "created_at": "2026-06-28T19:21:22.330901+00:00",
+        "ca": "0000"
+    },
+    {
+        "id": 24009,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "On a positive edge-triggered S-R flip-flop, the outputs reflect the input condition when ",
+        "op": [
+            "The clock pulse is HIGH",
+            "The clock pulse is LOW",
+            "The clock pulse transition from HIGH to LOW",
+            "The clock pulse transition from LOW to HIGH"
+        ],
+        "created_at": "2026-06-28T19:21:24.032764+00:00",
+        "ca": "The clock pulse transition from LOW to HIGH"
+    },
+    {
+        "id": 24019,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "when the transmission line is idle in an asynchronous transmission",
+        "op": [
+            "State of transmission line is not used to start transmission",
+            "It is set to logic high",
+            "It is set to logic low",
+            "It remains in previous state"
+        ],
+        "created_at": "2026-06-28T19:21:43.181828+00:00",
+        "ca": "It is set to logic high"
+    },
+    {
+        "id": 24030,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In 1-to-4 demultiplexer, how many select lines are required",
+        "op": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-06-28T19:21:58.452861+00:00",
+        "ca": "2"
+    },
+    {
+        "id": 24036,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A positive edge-triggered flip-flop changes its state when   ",
+        "op": [
+            "High-to-low transition of clock",
+            "Low-to-high transition of clock",
+            "Preset input (PRE) is set",
+            "Enable input (EN) is set"
+        ],
+        "created_at": "2026-06-28T19:22:05.948462+00:00",
+        "ca": "Low-to-high transition of clock"
+    },
+    {
+        "id": 24059,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "the terminal count of a modulus-13 binary counter is",
+        "op": [
+            "1100",
+            "1101",
+            "0000",
+            "1111"
+        ],
+        "created_at": "2026-06-28T19:22:41.859536+00:00",
+        "ca": "1100"
+    },
+    {
+        "id": 24079,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The ________ allows both its AND Gate array and the OR gate array to be programmed independently.",
+        "op": [
+            "PAL",
+            "PLA",
+            "EPROM",
+            "GAL"
+        ],
+        "created_at": "2026-06-28T19:23:16.501257+00:00",
+        "ca": "PLA"
+    },
+    {
+        "id": 24121,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "PALs tend to execute ________ logic.",
+        "op": [
+            "SPD",
+            "SOP",
+            "SAP",
+            "SAC"
+        ],
+        "created_at": "2026-06-28T19:25:08.921195+00:00",
+        "ca": "SOP"
+    },
+    {
+        "id": 24129,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A __________ output can change from one state to the other by applying appropriate inputs.",
+        "op": [
+            "flip flop",
+            "counter",
+            "latch",
+            "system"
+        ],
+        "created_at": "2026-06-28T19:25:33.109987+00:00",
+        "ca": "flip flop"
+    },
+    {
+        "id": 24151,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In Complex mode of GAL16V8, OLMCs can be configured in _________ ways.",
+        "op": [
+            "two",
+            "four",
+            "three",
+            "five"
+        ],
+        "created_at": "2026-06-28T19:27:03.611335+00:00",
+        "ca": "two"
+    },
+    {
+        "id": 24162,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In mealy machine the output depends on",
+        "op": [
+            "the inputs",
+            "None of the above",
+            "current state and the inputs",
+            "the current state"
+        ],
+        "created_at": "2026-06-28T19:27:21.888278+00:00",
+        "ca": "current state and the inputs"
+    },
+    {
+        "id": 24181,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "According to Moore circuit, the output of synchronous sequential circuit depend/s on ______ of flip flop.",
+        "op": [
+            "Previous State",
+            "Next State",
+            "Present State",
+            "External Inputs"
+        ],
+        "created_at": "2026-06-28T19:27:55.050084+00:00",
+        "ca": "Present State"
+    },
+    {
+        "id": 24205,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " Counters as the name indicates are not triggered simultaneously",
+        "op": [
+            "Positive-Edge triggered",
+            "Synchronous",
+            "Negative-Edge triggered",
+            "Asynchronous"
+        ],
+        "created_at": "2026-06-28T19:29:04.213547+00:00",
+        "ca": "Asynchronous"
+    },
+    {
+        "id": 24206,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In GAL16V8, each product term is implemented using a 32-bit input ___________ gate.",
+        "op": [
+            "NAND",
+            "AND",
+            "XOR",
+            "OR"
+        ],
+        "created_at": "2026-06-28T19:29:08.429606+00:00",
+        "ca": "AND"
+    },
+    {
+        "id": 24209,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "State of flip-flop can be switched by changing its.",
+        "op": [
+            "Momentary Signal",
+            "Input Signal",
+            "Output Signal",
+            "Contemporary Signal"
+        ],
+        "created_at": "2026-06-28T19:29:11.044908+00:00",
+        "ca": "Input Signal"
+    },
+    {
+        "id": 24214,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The operation of J-K flip-flop is similar to that of the SR flip-flop except that the J-K flip-flop ",
+        "op": [
+            "It does not show transition on change in pulse",
+            "Sets to clear when both J = 0 and K = 0",
+            "It does not accept asynchronous inputs",
+            "Doesn’t have an invalid state"
+        ],
+        "created_at": "2026-06-28T19:29:19.23933+00:00",
+        "ca": "Doesn’t have an invalid state"
+    },
+    {
+        "id": 24235,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " is one of the examples of synchronous inputs.",
+        "op": [
+            "J-K input",
+            "Clear Input (CLR)",
+            "Preset input (PRE)",
+            "EN input"
+        ],
+        "created_at": "2026-06-28T19:30:04.36363+00:00",
+        "ca": "EN input"
+    },
+    {
+        "id": 24236,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A synchronous decade counter will have _______ flip-flops",
+        "op": [
+            "10",
+            "7",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-06-28T19:30:05.888813+00:00",
+        "ca": "4"
+    },
+    {
+        "id": 24269,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A modulus-14 counter has fourteen states requiring",
+        "op": [
+            "4 Registers",
+            "14 Flip Flops",
+            "4 Flip Flops",
+            "14 Registers"
+        ],
+        "created_at": "2026-06-28T19:31:34.646414+00:00",
+        "ca": "4 Flip Flops"
+    },
+    {
+        "id": 24282,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Design of state diagram is one of many steps used to design",
+        "op": [
+            "any counter",
+            "an UP/DOWN counter",
+            "a truncated counter",
+            "a clock"
+        ],
+        "created_at": "2026-06-28T19:32:17.026912+00:00",
+        "ca": "any counter"
+    },
+    {
+        "id": 24291,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The combinational digital circuits have ___________ storage element; therefore combinational circuits handle only instantaneous inputs.",
+        "op": [
+            "no",
+            "one",
+            "two",
+            "three"
+        ],
+        "created_at": "2026-06-28T19:32:40.118679+00:00",
+        "ca": "no"
+    },
+    {
+        "id": 24314,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "PLDs have In-System Programming (ISP) capability that allows the _________ to be programmed after they have been installed on a circuit board.",
+        "op": [
+            "PLAs",
+            "PLDs",
+            "EPROM",
+            "PALs"
+        ],
+        "created_at": "2026-06-28T19:33:43.974597+00:00",
+        "ca": "PLDs"
+    },
+    {
+        "id": 24346,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The Synchronous counters are also known as Ripple Counters:",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:34:42.036293+00:00",
+        "ca": "False"
+    },
+    {
+        "id": 24443,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The glitches due to Race Condition can be avoided by using a ",
+        "op": [
+            "Gated flip-flops",
+            "Negative-Edge triggered flip-flops",
+            "Pulse triggered flip-flops",
+            "Positive-Edge triggered flip-flops"
+        ],
+        "created_at": "2026-06-28T19:40:00.508257+00:00",
+        "ca": "Negative-Edge triggered flip-flops"
+    },
+    {
+        "id": 24457,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " come in different configurations they are identified by unique number",
+        "op": [
+            "PALs",
+            "EPROM",
+            "PLAs",
+            "GAL"
+        ],
+        "created_at": "2026-06-28T19:41:18.031324+00:00",
+        "ca": "PALs"
+    },
+    {
+        "id": 24501,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Assume a J-K flip-flop has 1s on the J and K inputs. The next clock pulse will cause the output to .",
+        "op": [
+            "Reset",
+            "Latch",
+            "Toggle",
+            "Set"
+        ],
+        "created_at": "2026-06-28T19:45:54.953592+00:00",
+        "ca": "Toggle"
+    },
+    {
+        "id": 24581,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The Test Vector definition defines the test vectors for all the three counter inputs and counter output/outputs.",
+        "op": [
+            "Two",
+            "Four",
+            "One",
+            "Three"
+        ],
+        "created_at": "2026-06-28T19:52:05.369803+00:00",
+        "ca": "Three"
+    },
+    {
+        "id": 24648,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Asynchronous mean that",
+        "op": [
+            "Each flip-flop is enabled by the output of the preceding flip-flop",
+            "Each alternative flip-flop after the first one is enabled by the output of the preceding flip-flop",
+            "Each flip-flop except the last one is enabled by the output of the preceding flip-flop",
+            "Each flip-flop after the first one is enabled by the output of the preceding flip-flop"
+        ],
+        "created_at": "2026-06-28T19:58:31.196409+00:00",
+        "ca": "Each flip-flop after the first one is enabled by the output of the preceding flip-flop"
+    },
+    {
+        "id": 24668,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _____________ description is used to simulate the logic circuit and verify its operation.",
+        "op": [
+            "Test file",
+            "Logic",
+            "Test vector",
+            "Declaration"
+        ],
+        "created_at": "2026-06-28T20:00:49.871005+00:00",
+        "ca": "Test vector"
+    },
+    {
+        "id": 24669,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "+ is written in ABEL as .",
+        "op": [
+            "!",
+            "@",
+            "$",
+            "#"
+        ],
+        "created_at": "2026-06-28T20:01:08.113026+00:00",
+        "ca": "#"
+    },
+    {
+        "id": 24719,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Demultiplexer is also called ",
+        "op": [
+            "Data router",
+            "Data distributor",
+            "Data selector",
+            "Data encoder"
+        ],
+        "created_at": "2026-06-28T20:07:02.263511+00:00",
+        "ca": "Data distributor"
+    },
+    {
+        "id": 24734,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In Combinational Output with feedback to AND array, the active-state of the output is determined by the _________ input.",
+        "op": [
+            "OR",
+            "NOT",
+            "XOR",
+            "AND"
+        ],
+        "created_at": "2026-06-28T20:09:52.798885+00:00",
+        "ca": "XOR"
+    },
+    {
+        "id": 24802,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "If S=1 and R=0, then for positive edge triggered flip-flop \nQ(t+1) = ",
+        "op": [
+            "Invalid",
+            "0",
+            "Input is invalid",
+            "1"
+        ],
+        "created_at": "2026-06-28T20:17:10.236045+00:00",
+        "ca": "1"
+    },
+    {
+        "id": 24865,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The S-R latch has two inputs, therefore _________ different combinations of inputs can be applied to control the operation of the S-R latch.",
+        "op": [
+            "eight",
+            "sixteen",
+            "two",
+            "four"
+        ],
+        "created_at": "2026-06-28T20:25:56.109793+00:00",
+        "ca": "four"
+    },
+    {
+        "id": 24876,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Which mechanism allocate the binary values to the states in order to reduce the cost of the combinational circuits?",
+        "op": [
+            "State Reduction",
+            "State Minimization",
+            "State Evaluation",
+            "State Assignment"
+        ],
+        "created_at": "2026-06-28T20:26:47.678697+00:00",
+        "ca": "State Assignment"
+    },
+    {
+        "id": 24879,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Choose the best possible answer of following question:\nThe D flip-flop is only activated by.",
+        "op": [
+            "both positive & negative edge trigger",
+            "a negative edge trigger",
+            "a positive edge trigger",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-28T20:26:58.177282+00:00",
+        "ca": "a positive edge trigger"
+    },
+    {
+        "id": 24881,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "With a 100 KHz clock frequency, eight bits can be serially entered into a shift register in",
+        "op": [
+            "10 micro seconds",
+            "80 micro seconds",
+            "8 micro seconds",
+            "80 mili seconds"
+        ],
+        "created_at": "2026-06-28T20:27:08.468858+00:00",
+        "ca": "80 micro seconds"
+    },
+    {
+        "id": 24986,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In gated SR latch, what is the value of the output if EN=1, S=1 and R=0?",
+        "op": [
+            "0",
+            "Qt",
+            "Invalid",
+            "1"
+        ],
+        "created_at": "2026-06-28T20:56:38.193098+00:00",
+        "ca": "1"
+    },
+    {
+        "id": 25026,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A __________ attached to the Select inputs of the Demultiplexer routes the incoming serial bits to successive outputs where each bit is stored.",
+        "op": [
+            "memory",
+            "counter",
+            "buffer",
+            "data"
+        ],
+        "created_at": "2026-06-28T21:04:38.964761+00:00",
+        "ca": "counter"
+    },
+    {
+        "id": 25027,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A 4-bit binary UP/DOWN counter is in the binary state zero. the next state in the DOWN mode is",
+        "op": [
+            "1111",
+            "1000",
+            "1110",
+            "0001"
+        ],
+        "created_at": "2026-06-28T21:04:42.912077+00:00",
+        "ca": "1111"
+    },
+    {
+        "id": 25028,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Once the state diagram is drawn for any sequential circuit the next step is to draw",
+        "op": [
+            "Next-state table",
+            "Karnaugh map",
+            "Logic expression",
+            "Transiation table"
+        ],
+        "created_at": "2026-06-28T21:05:32.111184+00:00",
+        "ca": "Next-state table"
+    },
+    {
+        "id": 25047,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The PROM consists of a fixed non-programmable ____________ Gate array configured as a decoder.",
+        "op": [
+            "XOR",
+            "AND",
+            "OR",
+            "NOT"
+        ],
+        "created_at": "2026-06-28T21:13:09.108491+00:00",
+        "ca": "AND"
+    },
+    {
+        "id": 25102,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A-stable multi-vibrator continuously changes from one unstable state to the other without any.",
+        "op": [
+            "External trigger",
+            "Output",
+            "Flip flop",
+            "Variable"
+        ],
+        "created_at": "2026-06-28T21:30:47.739292+00:00",
+        "ca": "External trigger"
+    },
+    {
+        "id": 25374,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "There are _____________ possible combinations of the Simple Mode in which OLMC can be configured.",
+        "op": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "created_at": "2026-06-29T00:07:20.149766+00:00",
+        "ca": "three"
+    },
+    {
+        "id": 25388,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Divide-by-32 counter can be acheived by using",
+        "op": [
+            "DIV 16 and DIV 32",
+            "Flip-Flop and DIV 32",
+            "Flip-Flop and DIV 10",
+            "Flip-Flop and DIV 16"
+        ],
+        "created_at": "2026-06-29T00:12:11.174653+00:00",
+        "ca": "Flip-Flop and DIV 16"
+    },
+    {
+        "id": 25474,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A source file that is created in ABEL has ____________ sections.",
+        "op": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "created_at": "2026-06-29T00:56:38.245467+00:00",
+        "ca": "three"
+    },
+    {
+        "id": 42407,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "the terminal count of a modulus-13 binary counter is",
+        "op": [
+            "0000",
+            "1101",
+            "1111",
+            "1100"
+        ],
+        "created_at": "2026-06-28T19:53:01.71275+00:00",
+        "ca": "1100"
+    },
+    {
+        "id": 42408,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The ABEL symbol for “OR” operation is",
+        "op": [
+            "$",
+            "#",
+            "!",
+            "&"
+        ],
+        "created_at": "2026-06-28T19:59:41.570456+00:00",
+        "ca": "#"
+    },
+    {
+        "id": 42409,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "OLMC stands for .",
+        "op": [
+            "Output Logic Micro Cells",
+            "Ordered Logic Micro Cells",
+            "Output Logic Macro Cells",
+            "Ordered Logic Macro Cells"
+        ],
+        "created_at": "2026-06-28T19:56:09.730808+00:00",
+        "ca": "Output Logic Macro Cells"
+    },
+    {
+        "id": 42410,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In GAL16V8, each product term is implemented using a 32-bit input ___________ gate.",
+        "op": [
+            "XOR",
+            "NAND",
+            "AND",
+            "OR"
+        ],
+        "created_at": "2026-06-28T19:57:11.186198+00:00",
+        "ca": "AND"
+    },
+    {
+        "id": 42411,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The terminal count of a 4-bit binary counter in the UP mode is",
+        "op": [
+            "1100",
+            "0011",
+            "0000",
+            "1111"
+        ],
+        "created_at": "2026-06-28T19:57:41.062261+00:00",
+        "ca": "1111"
+    },
+    {
+        "id": 42412,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "When the fuse of the _________ gate input is blown to set the input to logic high, the output of the XOR gate is opposite of the OR gate output.",
+        "op": [
+            "OR",
+            "NAND",
+            "XOR",
+            "AND"
+        ],
+        "created_at": "2026-06-28T19:57:52.37549+00:00",
+        "ca": "XOR"
+    },
+    {
+        "id": 42414,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Divide-by-160 counter is acheived by using",
+        "op": [
+            "DIV 16 and DIV 32",
+            "Flip-Flop and DIV 16",
+            "Flip-Flop and DIV 10",
+            "DIV 16 and DIV 10"
+        ],
+        "created_at": "2026-06-28T19:58:40.405932+00:00",
+        "ca": "DIV 16 and DIV 10"
+    },
+    {
+        "id": 42415,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": " have Buffers at the inputs which produce the\nactual variable and its complement.",
+        "op": [
+            "PAL",
+            "PLA",
+            "GAL",
+            "EPROM"
+        ],
+        "created_at": "2026-06-28T19:59:49.588161+00:00",
+        "ca": "PAL"
+    },
+    {
+        "id": 42416,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The term hold always means _______.",
+        "op": [
+            "Q=0, Q ̅=1",
+            "No change",
+            "Q=1, Q ̅=0",
+            "Q=0, Q ̅=0"
+        ],
+        "created_at": "2026-06-28T20:00:02.1629+00:00",
+        "ca": "No change"
+    },
+    {
+        "id": 47478,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Two signals_______and________provide the timing inputs to the State Machine.",
+        "op": [
+            "LTIME and STIME",
+            "PTIME and QTIME",
+            "NSGrn and NSYel",
+            "NSSR and EWSR"
+        ],
+        "created_at": "2026-07-05T19:02:12.877707+00:00",
+        "ca": "LTIME and STIME"
+    },
+    {
+        "id": 47533,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Which of the following Output Equations determines the output of the State Machine?",
+        "op": [
+            "MAX = Q0Q1EN",
+            "MAX = Q1EN",
+            "MIN = Q0Q1EN",
+            "MIN = Q0Q1"
+        ],
+        "created_at": "2026-07-05T19:02:59.110635+00:00",
+        "ca": "MAX = Q0Q1EN"
+    },
+    {
+        "id": 47542,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Smallest unit of data is",
+        "op": [
+            "an 8-bits word",
+            "a bit",
+            "a 4-bits nibble",
+            "a 16-bits word"
+        ],
+        "created_at": "2026-07-05T19:03:08.718563+00:00",
+        "ca": "a bit"
+    },
+    {
+        "id": 47592,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A memory organized to store nibble data values requires a _____ wide data bus.",
+        "op": [
+            "2-bit",
+            "8-bit",
+            "4-bit",
+            "16-bit"
+        ],
+        "created_at": "2026-07-05T19:03:58.731568+00:00",
+        "ca": "4-bit"
+    },
+    {
+        "id": 47666,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The next state table for REQ1, FLOOR1 and OPEN inputs indicates that the _____ can be pressed at any time either on the first floor or the second floor in elevator.",
+        "op": [
+            "REQ1",
+            "FLOOR1",
+            "OPEN",
+            "REQ0"
+        ],
+        "created_at": "2026-07-05T19:04:43.596137+00:00",
+        "ca": "OPEN"
+    },
+    {
+        "id": 47684,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In elevator circuit, the floor display circuit is a combinational circuit which uses the _____ and _______ inputs two determine the floor number and the direction of the display arrow.",
+        "op": [
+            "OPEN, DIR",
+            "MOTION, DIR",
+            "CONSTATE, FB",
+            "MOTION, FB"
+        ],
+        "created_at": "2026-07-05T19:04:57.611093+00:00",
+        "ca": "MOTION, DIR"
+    },
+    {
+        "id": 47859,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The CONSTATE.CLK =Clock is used to indicate that the state variables change on a clock transition.",
+        "op": [
+            "FLOOR",
+            "MOTION",
+            "CONSTATE",
+            "OPEN"
+        ],
+        "created_at": "2026-07-05T19:07:03.475817+00:00",
+        "ca": "CONSTATE"
+    },
+    {
+        "id": 47890,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "How many state variables does each state in Traffic Light Controller have?",
+        "op": [
+            "Four",
+            "One",
+            "Two",
+            "Three"
+        ],
+        "created_at": "2026-07-05T19:07:24.422474+00:00",
+        "ca": "Two"
+    },
+    {
+        "id": 47912,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The outputs of SR latches in elevator state machine are generated by combinational circuits therefore, these outputs are defined as ISTYPE ‘’.",
+        "op": [
+            "com.buffer",
+            "com.org",
+            "com.reg",
+            "reg.buffer"
+        ],
+        "created_at": "2026-07-05T19:07:40.501537+00:00",
+        "ca": "com.buffer"
+    },
+    {
+        "id": 47916,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The bit capacity of a memory that has 1024 addresses and can store 8 bits at each address is:",
+        "op": [
+            "4096",
+            "8",
+            "8192",
+            "1024"
+        ],
+        "created_at": "2026-07-05T19:07:42.928619+00:00",
+        "ca": "8192"
+    },
+    {
+        "id": 47925,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "You have to choose suitable option when your timer will reset by considering this given code:\nTRSTATE.CLK = clk;\nTMRST: = (TRSTATE = = NSY2) # (TRSTATE = = EWY2);",
+        "op": [
+            "NSSR or TMRST",
+            "EWRed or EWYel",
+            "EWSR or NSRED",
+            "NSY2 or EWY2"
+        ],
+        "created_at": "2026-07-05T19:07:53.127529+00:00",
+        "ca": "NSY2 or EWY2"
+    },
+    {
+        "id": 47947,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A complete unit of information is sometimes called a .",
+        "op": [
+            "Byte",
+            "Nibble",
+            "Word",
+            "Bit"
+        ],
+        "created_at": "2026-07-05T19:08:15.201353+00:00",
+        "ca": "Word"
+    },
+    {
+        "id": 48177,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A 32-bit data word consists of:",
+        "op": [
+            "2 bytes",
+            "2 nibbles",
+            "4 bytes",
+            "4 nibbles"
+        ],
+        "created_at": "2026-07-05T19:11:38.25478+00:00",
+        "ca": "4 bytes"
+    },
+    {
+        "id": 48194,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Two State variables allow a maximum of ______ states.",
+        "op": [
+            "Four",
+            "Two",
+            "Eight",
+            "Sixteen"
+        ],
+        "created_at": "2026-07-05T19:11:51.900987+00:00",
+        "ca": "Four"
+    },
+    {
+        "id": 48203,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a volatile memory?",
+        "op": [
+            "EPROM",
+            "EEPROM",
+            "PROM",
+            "DRAM"
+        ],
+        "created_at": "2026-07-05T19:11:54.375392+00:00",
+        "ca": "DRAM"
+    },
+    {
+        "id": 48221,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The 64-cell array organized as 8 x 8 cell array is considered",
+        "op": [
+            "as an 64 byte memory",
+            "as a 16 byte memory",
+            "as an 8 byte memory",
+            "as an 4 byte memory"
+        ],
+        "created_at": "2026-07-05T19:12:11.164801+00:00",
+        "ca": "as an 8 byte memory"
+    },
+    {
+        "id": 48393,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The outputs of SR latches in elevator state machine are feed back to the _____ gate array for connection to the D-flipflops.",
+        "op": [
+            "AND",
+            "XOR",
+            "OR",
+            "NOT"
+        ],
+        "created_at": "2026-07-05T19:14:07.420145+00:00",
+        "ca": "AND"
+    },
+    {
+        "id": 48854,
+        "cc": "CS302",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": " Yellow signal controlling the traffic on the East-West section.",
+        "op": [
+            "NSYel",
+            "EWRed",
+            "EWYel",
+            "NSGrn"
+        ],
+        "created_at": "2026-07-05T19:22:39.374769+00:00",
+        "ca": "EWYel"
+    },
+    {
+        "id": 73634,
+        "cc": "CS302",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "A negative edge-triggered flip-flop changes its state when ",
+        "op": [
+            "Enable input (EN) is set",
+            "High-to-low transition of clock",
+            "Low-to-high transition of clock",
+            "Preset input (PRE) is set"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00",
+        "ca": "High-to-low transition of clock"
+    }
+]

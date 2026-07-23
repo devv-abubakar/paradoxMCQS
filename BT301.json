@@ -1,0 +1,422 @@
+[
+    {
+        "id": 28565,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "ABC pathway for protein export and Type II secretion pathway are used for",
+        "op": [
+            "Protein trafficking",
+            "DNA trafficking",
+            "RNA trafficking",
+            "Chromosome trafficking"
+        ],
+        "ca": "Protein trafficking",
+        "created_at": "2026-06-30T02:49:14.084555+00:00"
+    },
+    {
+        "id": 28567,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "____________________ depends upon transcription of appropriate gene, efficient translation of mRNA and in many cases, post-translational processing and compartmentalization of nascent polypeptide.",
+        "op": [
+            "Synthesis of genome",
+            "Synthesis of functional protein",
+            "Synthesis of functional RNA",
+            "Synthesis of functional DNA"
+        ],
+        "ca": "Synthesis of functional protein",
+        "created_at": "2026-06-30T02:49:24.794543+00:00"
+    },
+    {
+        "id": 28568,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "________ are simply plasmids designed for the cloning of very long segments",
+        "op": [
+            "Human artificial chromosomes",
+            "Bacterial artificial chromosomes",
+            "Viral artificial chromosomes",
+            "Yeast artificial chromosomes"
+        ],
+        "ca": "Bacterial artificial chromosomes",
+        "created_at": "2026-06-30T02:49:33.970772+00:00"
+    },
+    {
+        "id": 28569,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Vectors that can replicate and are maintained in two or more unrelated host organisms are called ____vectors",
+        "op": [
+            "expression",
+            "shuttle",
+            "host",
+            "house keeping"
+        ],
+        "ca": "shuttle",
+        "created_at": "2026-06-30T02:49:41.640456+00:00"
+    },
+    {
+        "id": 28570,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Expression from a strong promoter can represent ________ of cloned gene product of total cell protein",
+        "op": [
+            "20-50%",
+            "30-40%",
+            "20-40%",
+            "10-40%"
+        ],
+        "ca": "20-50%",
+        "created_at": "2026-06-30T02:49:48.318311+00:00"
+    },
+    {
+        "id": 28572,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "YACs are the ______ used for large DNA fragments insertion",
+        "op": [
+            "Yeast artificial chromosomes",
+            "Y-cloned artificial chromosomes",
+            "Yok artificial chromosomes",
+            "Y-linked autosomal clones"
+        ],
+        "ca": "Yeast artificial chromosomes",
+        "created_at": "2026-06-30T02:49:58.201047+00:00"
+    },
+    {
+        "id": 28576,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Vectors that can replicate and are stably maintained in two or more unrelated host organisms are called ____",
+        "op": [
+            "internal vectors",
+            "shuttle vectors",
+            "target vectors",
+            "host specific vectors"
+        ],
+        "ca": "shuttle vectors",
+        "created_at": "2026-06-30T02:50:46.242597+00:00"
+    },
+    {
+        "id": 28578,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "A great advantage of hybridization for library screening is that it is",
+        "op": [
+            "Difficult",
+            "Good",
+            "Versatile",
+            "Unique"
+        ],
+        "ca": "Versatile",
+        "created_at": "2026-06-30T02:50:53.944858+00:00"
+    },
+    {
+        "id": 28876,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "It is much more convenient to use ________________, because these have a higher capacity and the efficiency of in vitro packaging",
+        "op": [
+            "bacteriophage simple insertion vectors",
+            "Bacteriophage-ʎ insertion vectors",
+            "Bacteriophage-ECol I insertion vectors",
+            "Bacteriophage-ʎ deletion vectors"
+        ],
+        "ca": "Bacteriophage-ʎ deletion vectors",
+        "created_at": "2026-06-30T04:37:19.073112+00:00"
+    },
+    {
+        "id": 28877,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Gram-negative bacteria such as E. coli have a",
+        "op": [
+            "complex wall-membrane mitochondia",
+            "Complex wall-membrane",
+            "Difficult wall-membrane",
+            "Simple wall-membrane"
+        ],
+        "ca": "Complex wall-membrane",
+        "created_at": "2026-06-30T04:37:58.454556+00:00"
+    },
+    {
+        "id": 28878,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "This is the process by which a particular DNA sequence compensates for a missing function in a mutant cell and thus restores the wild type phenotype.",
+        "op": [
+            "Functional complementation",
+            "Functional genomics",
+            "Non-Functional complementation",
+            "Functional analysis"
+        ],
+        "ca": "Functional complementation",
+        "created_at": "2026-06-30T04:38:15.76941+00:00"
+    },
+    {
+        "id": 28879,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "________ with specific primers could be used to isolate genes directly from genomic DNA",
+        "op": [
+            "SNPs",
+            "PCR",
+            "AFLP",
+            "RFLP"
+        ],
+        "ca": "PCR",
+        "created_at": "2026-06-30T04:38:25.892605+00:00"
+    },
+    {
+        "id": 28881,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Bacterial artificial chromosomes are used as_____",
+        "op": [
+            "plasmid recombinant vectors",
+            "cloning vectors",
+            "restriction enzymes",
+            "protein docking molecules"
+        ],
+        "ca": "cloning vectors",
+        "created_at": "2026-06-30T04:38:47.553274+00:00"
+    },
+    {
+        "id": 28883,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "_______ are the plasmids containing a fragment of ʎ DNA including ‘cos’ site",
+        "op": [
+            "phasmid",
+            "M13",
+            "none of these",
+            "cosmid"
+        ],
+        "ca": "cosmid",
+        "created_at": "2026-06-30T04:38:55.776895+00:00"
+    },
+    {
+        "id": 29624,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In chromosome jumping, the DNA of interest is identified, cut into fragments with restriction enzymes and",
+        "op": [
+            "Breaks down",
+            "Circularized",
+            "Straighten",
+            "Elongates"
+        ],
+        "ca": "Circularized",
+        "created_at": "2026-06-30T07:48:21.501149+00:00"
+    },
+    {
+        "id": 29628,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In Genomic DNA libraries, the appropriately sized random fragments can be produced by ______",
+        "op": [
+            "polymerases",
+            "ligases",
+            "lysozymes",
+            "restriction endonucleases"
+        ],
+        "ca": "restriction endonucleases",
+        "created_at": "2026-06-30T07:48:58.573353+00:00"
+    },
+    {
+        "id": 29632,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In South-western and north-western blotting screening is carried out without using an antibody, by incubating the membranes with",
+        "op": [
+            "Radiolabelled single stranded DNA probe",
+            "Unlabelled double stranded DNA probe",
+            "Radiolabelled double stranded DNA probe",
+            "Radiolabelled double stranded RNA probe"
+        ],
+        "ca": "Radiolabelled double stranded DNA probe",
+        "created_at": "2026-06-30T07:49:50.718776+00:00"
+    },
+    {
+        "id": 29637,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "________ vectors are combination of plasmid and ʎ phage sequences",
+        "op": [
+            "M13",
+            "Phasmid",
+            "Cosmid",
+            "Chloroplast"
+        ],
+        "ca": "Cosmid",
+        "created_at": "2026-06-30T07:51:12.52498+00:00"
+    },
+    {
+        "id": 30344,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "M13 is a filamentous _________ with single stranded DNA that replicates without killing its host",
+        "op": [
+            "mitochondrial",
+            "chloroplast",
+            "bacteriophage",
+            "plasmid"
+        ],
+        "ca": "bacteriophage",
+        "created_at": "2026-06-30T13:21:58.460826+00:00"
+    },
+    {
+        "id": 30345,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "To isolate specific clone, PCR is carried out with gene-specific primers",
+        "op": [
+            "universal primers",
+            "simple primers",
+            "special primers",
+            "gene-specific primers"
+        ],
+        "ca": "gene-specific primers",
+        "created_at": "2026-06-30T13:22:06.28433+00:00"
+    },
+    {
+        "id": 30346,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Benton and Davis (1977) devised a method called",
+        "op": [
+            "Plaque up",
+            "Plaque lift",
+            "Plaque down",
+            "Plaque rite"
+        ],
+        "ca": "Plaque lift",
+        "created_at": "2026-06-30T13:22:46.313161+00:00"
+    },
+    {
+        "id": 30347,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Chromosome Walking, In human genome, the starting point may be",
+        "op": [
+            "Cleaved Amplified Polymorphic Sequence (CAPS)",
+            "restriction fragment length polymorphism (RFLP)",
+            "Amplified fragment length polymorphism (AFLP)",
+            "single-nucleotide polymorphisms (SNPs)"
+        ],
+        "ca": "restriction fragment length polymorphism (RFLP)",
+        "created_at": "2026-06-30T13:23:36.47185+00:00"
+    },
+    {
+        "id": 34275,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "BamHI is an enzymes used in the creation of ____ by using the phage-ʎ vector EMBL3A",
+        "op": [
+            "Mutated DNA",
+            "genomic DNA library",
+            "Protein molecules",
+            "rRNA molecules"
+        ],
+        "ca": "genomic DNA library",
+        "created_at": "2026-07-01T04:38:10.737531+00:00"
+    },
+    {
+        "id": 34281,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Immunochemical  screening involves the use of",
+        "op": [
+            "PCR",
+            "Antigens",
+            "DNA",
+            "Antibodies"
+        ],
+        "ca": "Antibodies",
+        "created_at": "2026-07-01T04:38:31.170485+00:00"
+    },
+    {
+        "id": 35953,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Functional complementation is also possible in",
+        "op": [
+            "Transgenic mitochondria",
+            "Transgenic animals and plants",
+            "Artificial animals and plants",
+            "Non-Transgenic animals and plants"
+        ],
+        "ca": "Transgenic animals and plants",
+        "created_at": "2026-07-01T12:19:30.015532+00:00"
+    },
+    {
+        "id": 36481,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which statement is correct for bacterial artificial chromosomes",
+        "op": [
+            "They are simply plasmids designed for the cloning of very long segments of DNA",
+            "They are simply DNA molecules designed for the cloning of proteins",
+            "They are protein molecules designed for the recombination of RNA",
+            "They are simply plasmids designed for the cloning of very short segments of DNA"
+        ],
+        "ca": "They are simply plasmids designed for the cloning of very long segments of DNA",
+        "created_at": "2026-07-01T18:18:42.173497+00:00"
+    },
+    {
+        "id": 37163,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Major screening strategies involve _____",
+        "op": [
+            "Genetic methods",
+            "Screening expression libraries",
+            "All of these",
+            "Sequence-dependent screenings"
+        ],
+        "ca": "All of these",
+        "created_at": "2026-07-02T00:07:09.716035+00:00"
+    },
+    {
+        "id": 37164,
+        "cc": "BT301",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Genomic DNA library is constructed using _______ cloning vectors",
+        "op": [
+            "low copy and capacity",
+            "low capacity",
+            "low copy number",
+            "high capacity"
+        ],
+        "ca": "high capacity",
+        "created_at": "2026-07-02T00:08:39.77208+00:00"
+    }
+]

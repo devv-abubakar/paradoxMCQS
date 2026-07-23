@@ -1,0 +1,301 @@
+[
+{
+"id": 58445,
+"cc": "BT603",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Oxygen Transfer Process through air bubble is consist of how many steps?",
+"op": [
+"7",
+"9",
+"6",
+"8"
+],
+"created_at": "2026-07-08T10:32:19.489131+00:00",
+"ca": "8"
+},
+{
+"id": 58447,
+"cc": "BT603",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "The oxygen demand of an industrial fermentation process is normally satisfied by ____________ the fermentation broth.",
+"op": [
+"agitating",
+"aerating and agitating",
+"Peptones",
+"aerating"
+],
+"created_at": "2026-07-08T10:32:40.740118+00:00",
+"ca": "aerating and agitating"
+},
+{
+"id": 58450,
+"cc": "BT603",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "Maximum biomass production may be achieved by satisfying the organism's maximum specific _______________ demand by maintaining the dissolved oxygen concentration greater than the critical level.",
+"op": [
+"NaCl",
+"SnCl2",
+"MgCl2",
+"oxygen"
+],
+"created_at": "2026-07-08T10:33:08.940589+00:00",
+"ca": "oxygen"
+},
+{
+"id": 58451,
+"cc": "BT603",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "NCTC stands for ____________?",
+"op": [
+"National Collection of Type citation",
+"National Collection of Typical cultures",
+"National Collection of Type cultures",
+"National collect of Type cultures"
+],
+"created_at": "2026-07-08T10:33:28.466551+00:00",
+"ca": "National Collection of Type cultures"
+},
+{
+"id": 58740,
+"cc": "BT603",
+"qn": "2",
+"dt": "08 July 2026",
+"qt": "If during fermentation the dissolved oxygen concentration were to fall below the critical level then the cells may be metabolically __.",
+"op": [
+"increase",
+"disturbed",
+"Magnetodynamic",
+"decrease"
+],
+"created_at": "2026-07-08T15:56:21.703345+00:00",
+"ca": "disturbed"
+},
+{
+"id": 59548,
+"cc": "BT603",
+"qn": "2",
+"dt": "09 July 2026",
+"qt": "It may be seen that the specific oxygen uptake rate increases with increase in the dissolved oxygen concentration up to a certain point called",
+"op": [
+"C critical",
+"All of these",
+"O critical",
+"T critical"
+],
+"created_at": "2026-07-09T08:12:49.834617+00:00",
+"ca": "C critical"
+},
+{
+"id": 59550,
+"cc": "BT603",
+"qn": "2",
+"dt": "09 July 2026",
+"qt": "Aeration refers to the process of introducing _______________ to increase oxygen concentration in liquids.",
+"op": [
+"hydrogen",
+"air",
+"nitrogen",
+"neon"
+],
+"created_at": "2026-07-09T08:13:09.477737+00:00",
+"ca": "air"
+},
+{
+"id": 59552,
+"cc": "BT603",
+"qn": "2",
+"dt": "09 July 2026",
+"qt": "Which of the following is not a non-essential mineral?",
+"op": [
+"Molybdenum",
+"Cobalt",
+"Iron",
+"Calcium"
+],
+"created_at": "2026-07-09T08:13:27.445499+00:00",
+"ca": "Iron"
+},
+{
+"id": 59555,
+"cc": "BT603",
+"qn": "2",
+"dt": "09 July 2026",
+"qt": "From Darlington's and Johnson's equations (in above mentioned Table) it may be seen that the production of 100 grams of biomass from hydrocarbon requires approximately the amount of oxygen to produce the same amount of biomass from carbohydrate.",
+"op": [
+"two times",
+"four times",
+"five times",
+"three times"
+],
+"created_at": "2026-07-09T08:15:09.2851+00:00",
+"ca": "three times"
+},
+{
+"id": 59556,
+"cc": "BT603",
+"qn": "2",
+"dt": "09 July 2026",
+"qt": "Which of the following is not the component of aeration and agitation system?",
+"op": [
+"Impeller",
+"Baffles",
+"Stirrer gland and bearing",
+"Thermometer"
+],
+"created_at": "2026-07-09T08:15:28.401038+00:00",
+"ca": "Thermometer"
+},
+{
+"id": 66621,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "In Henry’s Law, the the oxygen saturation concentration of the nutrient solution is represented by",
+"op": [
+"None of these",
+"O*",
+"H*",
+"C*"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "C*"
+},
+{
+"id": 66622,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "An ideal anti foam should be __________ to the micro-organism.",
+"op": [
+"Rheology",
+"non-toxic",
+"Fast",
+"Antifoams"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "non-toxic"
+},
+{
+"id": 66623,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "Methylotrophic yeasts such as Hansenula polymorpha and Pichia pastoris may be used as alternative systems because of the presence of an ____________ promoter.",
+"op": [
+"alcohol oxidase",
+"Dry heat",
+"oxidase",
+"alcohol"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "alcohol oxidase"
+},
+{
+"id": 66624,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "Inhibitor for Citric acid is ________________",
+"op": [
+"Alkali metal/ phosphate,  pH below 2.0",
+"hydrogen",
+"Surgical sterilization",
+"Disinfection"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "Alkali metal/ phosphate,  pH below 2.0"
+},
+{
+"id": 66625,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "Important factor in a fermenters  is provision for adequate __________ of its contents.",
+"op": [
+"mixing",
+"carbon mass transfer coefficient",
+"nutrient mass transfer coefficient",
+"nitrogen mass transfer coefficient"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "mixing"
+},
+{
+"id": 66626,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "The solubility of oxygen decreases as with  ____________ temperature and concentration of solutes in the solution.",
+"op": [
+"constant",
+"medium",
+"decreasing",
+"increasing"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "increasing"
+},
+{
+"id": 66627,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "In fermentation DOT stands for ________?",
+"op": [
+"dissolved oxygen tensioning",
+"dissolving oxygen tension",
+"dissolved oxygen track",
+"dissolved oxygen tension"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "dissolved oxygen tension"
+},
+{
+"id": 66628,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "Growth period of the culture is ______________",
+"op": [
+"Isolation",
+"Inoculation",
+"Incubation",
+"Incineration"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "Incubation"
+},
+{
+"id": 66629,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "pH is the measurement of _________",
+"op": [
+"concentration of OH+",
+"concentration of OH–",
+"concentration of H–",
+"concentration of H+"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "concentration of H+"
+},
+{
+"id": 66630,
+"cc": "BT603",
+"qn": "3",
+"dt": "31 December 2025",
+"qt": "Inducer of enzyme α-Amylase is ___________",
+"op": [
+"silicon",
+"hydrogen",
+"Starch Maltose",
+"Fermentation"
+],
+"created_at": "2026-07-15T13:27:25.598291+00:00",
+"ca": "Starch Maltose"
+}]
