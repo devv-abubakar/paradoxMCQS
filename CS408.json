@@ -1,0 +1,1010 @@
+[
+{
+    "id": 23709,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Desktop applications fit into _____________ categories of posture.",
+    "op": [
+        "Four",
+        "Five",
+        "Three",
+        "Two"
+    ],
+    "created_at": "2026-06-28T19:12:41.448007+00:00"
+},
+{
+    "id": 23712,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the fourth step in defining the requirements with respect to persona-based design?",
+    "op": [
+        "Creating problem and vision statement.",
+        "Identifying persona expectations.",
+        "Brainstorming.",
+        "Constructing the context scenario."
+    ],
+    "created_at": "2026-06-28T19:12:50.48615+00:00"
+},
+{
+    "id": 23714,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _____________ phase sets the stage for the core of the design effort.",
+    "op": [
+        "Evaluation",
+        "Modeling",
+        "Implementation",
+        "Requirement definition"
+    ],
+    "created_at": "2026-06-28T19:12:58.881879+00:00"
+},
+{
+    "id": 23721,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ capture the non-verbal dialogue between artifact and user over time.",
+    "op": [
+        "Scenario",
+        "Design model",
+        "Dialogue",
+        "Persona"
+    ],
+    "created_at": "2026-06-28T19:13:12.705334+00:00"
+},
+{
+    "id": 23730,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Panes, frames and other containers on screen is a kind of _____________.",
+    "op": [
+        "Functional and data elements",
+        "Input method",
+        "View",
+        "Form factor"
+    ],
+    "created_at": "2026-06-28T19:13:43.300952+00:00"
+},
+{
+    "id": 23735,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What do you procrastinate on? is type of __________.",
+    "op": [
+        "Exceptions",
+        "Priorities",
+        "Avoidance",
+        "Preference"
+    ],
+    "created_at": "2026-06-28T19:13:51.706469+00:00"
+},
+{
+    "id": 23742,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Goal-oriented context scenarios are _____________ task-oriented than key path scenario.",
+    "op": [
+        "Less",
+        "Alike",
+        "Very less",
+        "More"
+    ],
+    "created_at": "2026-06-28T19:13:59.07051+00:00"
+},
+{
+    "id": 23772,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What do you enjoy most about your job (or lifestyle) is an example of _________.",
+    "op": [
+        "Attitude-oriented questions",
+        "Exceptions",
+        "Motivation",
+        "Avoidance"
+    ],
+    "created_at": "2026-06-28T19:14:52.397228+00:00"
+},
+{
+    "id": 24143,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Because the user's interaction with a _________ program dominates his session at the computer, the program shouldn't be afraid to take as much screen real estate as possible.",
+    "op": [
+        "Transient",
+        "Sovereign",
+        "Auxiliary",
+        "Daemonic"
+    ],
+    "created_at": "2026-06-28T19:26:38.54529+00:00"
+},
+{
+    "id": 24149,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ represent the user’s expectations of the tangible outcomes of using a specific product.",
+    "op": [
+        "Experience goals",
+        "End goals",
+        "Life goals",
+        "Non-user goals"
+    ],
+    "created_at": "2026-06-28T19:26:56.428237+00:00"
+},
+{
+    "id": 24152,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Among followings, which type of the information should be provided by stakeholders?",
+    "op": [
+        "Preliminary vision of the product",
+        "Their role in installation, maintenance, and management of the product",
+        "Their frustrations with current solutions",
+        "Their decision process for purchasing a product of the type you’re designing"
+    ],
+    "created_at": "2026-06-28T19:27:04.657119+00:00"
+},
+{
+    "id": 24158,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The user’s expectations of the tangible outcomes of using aspecific product are represented by:",
+    "op": [
+        "technical goals",
+        "end goals",
+        "life goals",
+        "experience goals"
+    ],
+    "created_at": "2026-06-28T19:27:15.033568+00:00"
+},
+{
+    "id": 24167,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An interface will have zero to two _________ personas.",
+    "op": [
+        "Secondary",
+        "Customer",
+        "Supplemental",
+        "Primary"
+    ],
+    "created_at": "2026-06-28T19:27:36.793642+00:00"
+},
+{
+    "id": 24179,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "User personas that are not primary or secondary are ____________ personas.",
+    "op": [
+        "Served",
+        "Supplemental",
+        "Customer",
+        "Negative"
+    ],
+    "created_at": "2026-06-28T19:27:54.920594+00:00"
+},
+{
+    "id": 24191,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Social science and usability texts are full of methods and techniques for conducting _______ research.",
+    "op": [
+        "Quantitative",
+        "Conceptual",
+        "Qualitative",
+        "Specialized"
+    ],
+    "created_at": "2026-06-28T19:28:15.478196+00:00"
+},
+{
+    "id": 24280,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ personas address the needs of customers, not end users.",
+    "op": [
+        "Supplemental",
+        "Negative",
+        "Served",
+        "Customer"
+    ],
+    "created_at": "2026-06-28T19:32:05.800412+00:00"
+},
+{
+    "id": 24283,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ are concise narrative descriptions of one or more personas using a product to achieve a specific goal.",
+    "op": [
+        "Context scenario",
+        "Dialogue",
+        "Simple scenario",
+        "Persona-based scenario"
+    ],
+    "created_at": "2026-06-28T19:32:24.010302+00:00"
+},
+{
+    "id": 24288,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The workflow models and organizational charts, fall under the following ethnographic framework.",
+    "op": [
+        "Distributed co-ordination",
+        "Data-centric design",
+        "Plans and procedures",
+        "Awareness of work"
+    ],
+    "created_at": "2026-06-28T19:32:35.492331+00:00"
+},
+{
+    "id": 24750,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which of the following Qualitative research technique, you will need to understand: \n•\tTheir goals in purchasing the product\n•\tTheir frustrations with current solutions",
+    "op": [
+        "Stakeholder interviews",
+        "User and customer interviews",
+        "Product/prototype and competitive audits",
+        "Subject matter expert (SME) interviews"
+    ],
+    "created_at": "2026-06-28T20:11:27.562372+00:00"
+},
+{
+    "id": 24751,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Programs that are best used full-screen, monopolizing the user’s attention for long periods of time, are _____________ posture application.",
+    "op": [
+        "Auxiliary",
+        "Sovereign",
+        "Redundant",
+        "Transient"
+    ],
+    "created_at": "2026-06-28T20:11:36.813101+00:00"
+},
+{
+    "id": 24752,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In an organization individuals may keep their own records, or there may be local gurus. This statement concerns with ____________.",
+    "op": [
+        "Paper work and computer work",
+        "Spatial and temporal organizations",
+        "Distributed co-ordination",
+        "Organizational memory"
+    ],
+    "created_at": "2026-06-28T20:11:53.524316+00:00"
+},
+{
+    "id": 24753,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Transactional sites that are used for a significant part of an employee’s job should be considered full _____________ applications.",
+    "op": [
+        "None of the given",
+        "Temporary",
+        "Transient",
+        "Sovereign"
+    ],
+    "created_at": "2026-06-28T20:12:01.055593+00:00"
+},
+{
+    "id": 24755,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The aim of an ethnographic study is to make the ___________ design into  __________design (respectively).",
+    "op": [
+        "Implicit, explicit",
+        "Obvious, implicit",
+        "Obvious, Explicit",
+        "Explicit, implicit"
+    ],
+    "created_at": "2026-06-28T20:12:18.194834+00:00"
+},
+{
+    "id": 24757,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Number of keystrokes is the type of  ____________ work.",
+    "op": [
+        "Mnemonic",
+        "Structural",
+        "Physical",
+        "Logical"
+    ],
+    "created_at": "2026-06-28T20:12:24.90739+00:00"
+},
+{
+    "id": 24759,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Subject matter experts (SME) are",
+    "op": [
+        "expert users",
+        "intermediate users",
+        "beginners",
+        "the beginners in two or more related fields"
+    ],
+    "created_at": "2026-06-28T20:12:39.738473+00:00"
+},
+{
+    "id": 24995,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Recalling password is ____________ work.",
+    "op": [
+        "Logical",
+        "Physical",
+        "Structural",
+        "Mnemonic"
+    ],
+    "created_at": "2026-06-28T20:59:59.719674+00:00"
+},
+{
+    "id": 24998,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A qualitative research helps us to understand following except ------------.",
+    "op": [
+        "The domain of the product to be designed",
+        "Existing products and how they are used",
+        "Vocabulary and other social aspects of the domain",
+        "Statistical data analysis of the survey and observational data"
+    ],
+    "created_at": "2026-06-28T21:00:19.756953+00:00"
+},
+{
+    "id": 25002,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the second step in defining the requirements with respect to persona-based design?",
+    "op": [
+        "Creating problem and vision statement.",
+        "Brainstorming",
+        "Constructing the context scenario.",
+        "Identifying persona expectations."
+    ],
+    "created_at": "2026-06-28T21:01:22.864083+00:00"
+},
+{
+    "id": 25008,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Scenario content and context are derived from information gathered during the ____________ phase and analyzed during the ______________ phase (respectively)",
+    "op": [
+        "Research, implementation",
+        "Modeling,Research",
+        "Research, modeling",
+        "Modeling, implementation"
+    ],
+    "created_at": "2026-06-28T21:02:18.609559+00:00"
+},
+{
+    "id": 25447,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To make an appointment you need to see a calendar and possibly contacts you might incorporate all these together, due to ______________.",
+    "op": [
+        "View",
+        "Form factor",
+        "Output method",
+        "Input method"
+    ],
+    "created_at": "2026-06-29T00:37:59.147889+00:00"
+},
+{
+    "id": 25498,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There can only be one ____________ persona per interface for a product.",
+    "op": [
+        "Supplemental",
+        "Primary",
+        "Customer",
+        "Secondary"
+    ],
+    "created_at": "2026-06-29T01:10:16.923654+00:00"
+},
+{
+    "id": 25502,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is least likely to be revealed by a paper prototype?",
+    "op": [
+        "Toolbar buttons are too small to press.",
+        "Search option isn't in the right place.",
+        "Your users don’t know the term algorithm",
+        "The Help menu isn’t in the right place."
+    ],
+    "created_at": "2026-06-29T01:11:38.94202+00:00"
+},
+{
+    "id": 25760,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What do you see yourself doing say five years from now is an example of _________.",
+    "op": [
+        "Avoidance",
+        "Exceptions",
+        "Motivation",
+        "Attitude-oriented questions"
+    ],
+    "created_at": "2026-06-29T02:50:12.38824+00:00"
+},
+{
+    "id": 25926,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ patterns can be applied at the conceptual level.",
+    "op": [
+        "Behavioral",
+        "Structural",
+        "Mnemonic",
+        "Postural"
+    ],
+    "created_at": "2026-06-29T03:35:09.580961+00:00"
+},
+{
+    "id": 25928,
+    "cc": "CS408",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "______________ applications are great platforms for creating an environment rich in visual feedback for the user.",
+    "op": [
+        "Sovereign",
+        "Transient",
+        "Daemonic",
+        "Auxiliary"
+    ],
+    "created_at": "2026-06-29T03:35:22.241913+00:00"
+},
+{
+    "id": 47492,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Exploring how children talk together in order to see if an innovative new groupware product would help them to be more engaged would probably be better informed by a ______________.",
+    "op": [
+        "Predictive evaluation",
+        "Field study",
+        "DECIDE framework",
+        "Usability testing"
+    ],
+    "created_at": "2026-07-05T19:02:24.505103+00:00"
+},
+{
+    "id": 47505,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Navigation represents excise except in ___________.",
+    "op": [
+        "Web",
+        "Menus",
+        "Windows",
+        "Games"
+    ],
+    "created_at": "2026-07-05T19:02:36.518318+00:00"
+},
+{
+    "id": 47515,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is a multimedia system?",
+    "op": [
+        "A human-computer interface that provides a discrete interaction with digital, pre-recorded text, audio, graphics, and video.",
+        "A human-computer interface designed for the purposes of entertainment.",
+        "A human-computer interface that provides multisensory, three-dimensional, and real-time interaction within computer-generated environments.",
+        "A human-computer interface that provides multisensory, three-dimensional, and real-time interaction within computer-generated environments that requires the use of a head-mounted display (HMD)."
+    ],
+    "created_at": "2026-07-05T19:02:44.659794+00:00"
+},
+{
+    "id": 47529,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Engineering a user interface involves a quantitative engineering style of working in which measurements are used to judge the quality of interface. Hence ____________ is appropriate.",
+    "op": [
+        "Field study",
+        "DECIDE framework",
+        "Usability testing",
+        "Predictive evaluation"
+    ],
+    "created_at": "2026-07-05T19:02:55.083057+00:00"
+},
+{
+    "id": 47538,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ is a usability test in which a member of the test team sits in the room with the participant and actively probes the participant's understanding of whatever is being tested.",
+    "op": [
+        "Active intervention",
+        "Trunk test",
+        "Beta test",
+        "Co discovery"
+    ],
+    "created_at": "2026-07-05T19:03:03.984134+00:00"
+},
+{
+    "id": 47545,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ is particularly useful early in design. It is excellent technique to use with the prototype, because it provides a wealth of diagnostic information.",
+    "op": [
+        "Active intervention",
+        "Formal test report",
+        "Splendid research",
+        "Co-discovery"
+    ],
+    "created_at": "2026-07-05T19:03:11.620059+00:00"
+},
+{
+    "id": 47556,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ frequent your primary personas access the site, _____________ transient a stance the site needs to take (respectively).",
+    "op": [
+        "Less, more",
+        "More, more",
+        "Less, less",
+        "More, Less"
+    ],
+    "created_at": "2026-07-05T19:03:24.206941+00:00"
+},
+{
+    "id": 47566,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In usability test, which is a technique from given below opttions, in which you have two participants work together to perform the tasks.",
+    "op": [
+        "Trunk test",
+        "Maintenance",
+        "Active Intervention",
+        "Co-Discovery"
+    ],
+    "created_at": "2026-07-05T19:03:34.347246+00:00"
+},
+{
+    "id": 47574,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ is an early release of a product to a few users.",
+    "op": [
+        "Beta test",
+        "Final version",
+        "Survey",
+        "Focus"
+    ],
+    "created_at": "2026-07-05T19:03:45.225683+00:00"
+},
+{
+    "id": 47582,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In DECIDE frame work choosing the evaluation paradigm and techniques comes just after _____________.",
+    "op": [
+        "Resolving the issues of users",
+        "Exploring the questions",
+        "Identifying the practical issues",
+        "Deciding about ethical issues"
+    ],
+    "created_at": "2026-07-05T19:03:51.195309+00:00"
+},
+{
+    "id": 49059,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Evaluations done during design to check that product continues to meet users’ needs are known as _____________ evaluation.",
+    "op": [
+        "Formative",
+        "Relative",
+        "Opposite",
+        "Summative"
+    ],
+    "created_at": "2026-07-05T19:28:19.923205+00:00"
+},
+{
+    "id": 49062,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ is the extra work that satisfies the needs to achieve our objective.",
+    "op": [
+        "Maintenance",
+        "Excise",
+        "Testing",
+        "Evaluation"
+    ],
+    "created_at": "2026-07-05T19:28:27.076756+00:00"
+},
+{
+    "id": 49067,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Use of highlighted tabs in global navigation bar shows this is the _____________ page.",
+    "op": [
+        "legal",
+        "white",
+        "A4",
+        "home"
+    ],
+    "created_at": "2026-07-05T19:28:34.939952+00:00"
+},
+{
+    "id": 49071,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Amazon's single row of tabs required only _____________ graphics per page.",
+    "op": [
+        "five",
+        "four",
+        "three",
+        "two"
+    ],
+    "created_at": "2026-07-05T19:28:43.334676+00:00"
+},
+{
+    "id": 49072,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ is needed to check that users can use the product and like it.",
+    "op": [
+        "Maintenance",
+        "Evaluation",
+        "Coding",
+        "Guideline"
+    ],
+    "created_at": "2026-07-05T19:28:50.779344+00:00"
+},
+{
+    "id": 49080,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In DECIDE frame work _______________ comes just after choosing the evaluation paradigm and techniques.",
+    "op": [
+        "Resolving the issues of users",
+        "Exploring the questions",
+        "Identifying the practical issues",
+        "Deciding about ethical issues"
+    ],
+    "created_at": "2026-07-05T19:28:58.023041+00:00"
+},
+{
+    "id": 49088,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Information sites with daily-updated information will naturally attract repeat users more than a ____________ site.",
+    "op": [
+        "monthly-updated",
+        "quarterly-updated",
+        "weekly-updated",
+        "annually-updated"
+    ],
+    "created_at": "2026-07-05T19:29:13.78767+00:00"
+},
+{
+    "id": 49093,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "“What site is this”,  statement represents _____________.",
+    "op": [
+        "Toolbar",
+        "Site ID",
+        "Folder",
+        "Scroll bar"
+    ],
+    "created_at": "2026-07-05T19:29:21.591404+00:00"
+},
+{
+    "id": 49097,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If the product is new then _____________ time is usually invested in market research.",
+    "op": [
+        "Less",
+        "moderate",
+        "More",
+        "Very less"
+    ],
+    "created_at": "2026-07-05T19:29:29.378769+00:00"
+},
+{
+    "id": 49733,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ is the remarkable facility that lets us reverse a previous action.",
+    "op": [
+        "Both Redo and Forward",
+        "Undo",
+        "Forward",
+        "Redo"
+    ],
+    "created_at": "2026-07-05T19:54:07.576099+00:00"
+},
+{
+    "id": 49738,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Global Navigation system is also called__________.",
+    "op": [
+        "Persistent Navigation",
+        "Site ID",
+        "Web Navigation",
+        "Address Navigation"
+    ],
+    "created_at": "2026-07-05T19:54:17.488451+00:00"
+},
+{
+    "id": 49748,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ has a goal of assessing whether the product works according to its specifications.",
+    "op": [
+        "Maintenance",
+        "Quality assurance",
+        "Trunk Test",
+        "Requirement elicitation"
+    ],
+    "created_at": "2026-07-05T19:54:45.638676+00:00"
+},
+{
+    "id": 49752,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When the user mistypes, the ______________ key \"undoes\" the erroneous characters.",
+    "op": [
+        "shift",
+        "tab",
+        "Backspace",
+        "insert"
+    ],
+    "created_at": "2026-07-05T19:54:52.492945+00:00"
+},
+{
+    "id": 49755,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If the user requires access via a navigational portal relatively infrequently, the appropriate posture is ______________.",
+    "op": [
+        "Sovereign",
+        "Auxiliary",
+        "Temporary",
+        "Transient"
+    ],
+    "created_at": "2026-07-05T19:54:58.963222+00:00"
+},
+{
+    "id": 49759,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Overviews serve a similar purpose to _________ in an interface.",
+    "op": [
+        "Both navigation and excise",
+        "Signposts",
+        "Excise",
+        "Navigation"
+    ],
+    "created_at": "2026-07-05T19:55:08.774338+00:00"
+},
+{
+    "id": 49764,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Web designers use the term __________to describes the set of navigation elements that appear on every page of a site.",
+    "op": [
+        "Address Navigation",
+        "Persistent navigation or global navigation",
+        "No sense of location",
+        "Overlooked purposes of navigation"
+    ],
+    "created_at": "2026-07-05T19:55:18.162886+00:00"
+},
+{
+    "id": 49780,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The ___________ suggests identifying goals and questions first before selecting techniques for the study.",
+    "op": [
+        "RVM model",
+        "Usability testing",
+        "Field study",
+        "DECIDE framework"
+    ],
+    "created_at": "2026-07-05T19:55:55.096246+00:00"
+},
+{
+    "id": 49798,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The secret to designing a successful undo system is to make sure that it supports typically ______________ tools.",
+    "op": [
+        "cheap",
+        "expensive",
+        "used",
+        "unused"
+    ],
+    "created_at": "2026-07-05T19:56:38.840975+00:00"
+},
+{
+    "id": 49826,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ format do not follow standard conventions.",
+    "op": [
+        "Basic",
+        "Highlighted",
+        "Breadcrumbs",
+        "Design"
+    ],
+    "created_at": "2026-07-05T19:57:55.901939+00:00"
+},
+{
+    "id": 49884,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Figuring out \"where you are\" on the Web is called _____________.",
+    "op": [
+        "Webinar",
+        "Web Portal",
+        "Web Navigation",
+        "Web Designing"
+    ],
+    "created_at": "2026-07-05T20:02:22.499116+00:00"
+},
+{
+    "id": 49889,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The skeleton plane breaks down into _____________ components.",
+    "op": [
+        "three",
+        "four",
+        "two",
+        "five"
+    ],
+    "created_at": "2026-07-05T20:02:33.211685+00:00"
+},
+{
+    "id": 49890,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "______________ was one of the first sites to use tab\ndividers for navigation.",
+    "op": [
+        "Trello",
+        "Daraz",
+        "Amazon",
+        "GitHub"
+    ],
+    "created_at": "2026-07-05T20:02:44.366929+00:00"
+},
+{
+    "id": 49897,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Errors are generally ______________, incorrect actions.",
+    "op": [
+        "single",
+        "bi-directional",
+        "double",
+        "triple"
+    ],
+    "created_at": "2026-07-05T20:03:11.330165+00:00"
+},
+{
+    "id": 50305,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one is not a characteristic of usability test?",
+    "op": [
+        "The participants do not represent real users",
+        "Observe and record what participants do and say",
+        "Analyze the data, diagnose the real problems, and recommend changes to fix those problems",
+        "The primary goal is to improve usability"
+    ],
+    "created_at": "2026-07-05T20:42:16.385714+00:00"
+},
+{
+    "id": 50401,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ and ____________ are the same things.",
+    "op": [
+        "Excise and Navigation",
+        "Excise and Maintenance",
+        "Excise and Testing",
+        "Excise and Evaluation"
+    ],
+    "created_at": "2026-07-05T20:57:13.553542+00:00"
+},
+{
+    "id": 50770,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The _____________ is given structure on the software side through interaction design.",
+    "op": [
+        "skeleton",
+        "scope",
+        "surface",
+        "element"
+    ],
+    "created_at": "2026-07-05T22:53:17.749248+00:00"
+},
+{
+    "id": 50772,
+    "cc": "CS408",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The __________ is like a building name for a Web site.",
+    "op": [
+        "Subsections",
+        "Page name",
+        "Site ID or logo",
+        "Windows"
+    ],
+    "created_at": "2026-07-05T22:54:00.461241+00:00"
+}
+]

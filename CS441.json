@@ -1,0 +1,1010 @@
+[
+    {
+        "id": 31209,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, which of the following command does not belong to DDL?",
+        "op": [
+            "describe",
+            "list",
+            "create",
+            "count"
+        ],
+        "created_at": "2026-06-30T19:15:45.223672+00:00"
+    },
+    {
+        "id": 31215,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "drop_all and alter commands belong to _____________ in Hbase.",
+        "op": [
+            "Basic Commands",
+            "DML",
+            "General Commands",
+            "DDL"
+        ],
+        "created_at": "2026-06-30T19:15:54.292494+00:00"
+    },
+    {
+        "id": 31217,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, which command is used to provide information about user?",
+        "op": [
+            "version",
+            "status",
+            "whoami",
+            "table_help"
+        ],
+        "created_at": "2026-06-30T19:16:00.693063+00:00"
+    },
+    {
+        "id": 31222,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Apache Hive is used to process ___________ data in Hadoop.",
+        "op": [
+            "Semi-structured",
+            "Structured",
+            "Both Structured and Un-structured",
+            "Un-structured"
+        ],
+        "created_at": "2026-06-30T19:16:08.414639+00:00"
+    },
+    {
+        "id": 31227,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The system having the namenode acts as the __________ server.",
+        "op": [
+            "Slave",
+            "Data",
+            "Master",
+            "Block"
+        ],
+        "created_at": "2026-06-30T19:16:16.079207+00:00"
+    },
+    {
+        "id": 31233,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Sqoop, the input to the import process is a _____________.",
+        "op": [
+            "Database record",
+            "Database field",
+            "Database table",
+            "Database relationships"
+        ],
+        "created_at": "2026-06-30T19:16:22.801729+00:00"
+    },
+    {
+        "id": 31237,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "MapReduce is devised at _______________.",
+        "op": [
+            "Google",
+            "Facebook",
+            "Yahoo",
+            "Amazon"
+        ],
+        "created_at": "2026-06-30T19:16:28.663356+00:00"
+    },
+    {
+        "id": 31240,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Hadoop Distributed File System (HDFS) is a distributed file system which is designed to run on:",
+        "op": [
+            "Powerful hardware",
+            "Costly hardware",
+            "Commodity hardware",
+            "Special hardware"
+        ],
+        "created_at": "2026-06-30T19:16:34.791658+00:00"
+    },
+    {
+        "id": 31250,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following command will start the namenode as well as the data nodes as cluster?",
+        "op": [
+            "$ start-dfs.sh",
+            "$ start-dfs.hh",
+            "$ start-dfs.sn",
+            "$ start-dfs.hs"
+        ],
+        "created_at": "2026-06-30T19:17:02.759764+00:00"
+    },
+    {
+        "id": 31596,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is known as a Complex type in Hive?",
+        "op": [
+            "STRING",
+            "FLOAT",
+            "INT",
+            "STRUCT"
+        ],
+        "created_at": "2026-06-30T19:32:15.337422+00:00"
+    },
+    {
+        "id": 31614,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "HDFS follows the __________ architecture.",
+        "op": [
+            "Node-node",
+            "Worker-slave",
+            "Master-slave",
+            "Master-worker"
+        ],
+        "created_at": "2026-06-30T19:32:57.816567+00:00"
+    },
+    {
+        "id": 31677,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The minimum amount of data that HDFS can read or write is called a __________________.",
+        "op": [
+            "WORD",
+            "Block",
+            "Bit",
+            "Byte"
+        ],
+        "created_at": "2026-06-30T19:34:45.700873+00:00"
+    },
+    {
+        "id": 31708,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, which of the following command deletes all the cells in a given row?",
+        "op": [
+            "delete",
+            "drop",
+            "truncate",
+            "deleteall"
+        ],
+        "created_at": "2026-06-30T19:35:41.181693+00:00"
+    },
+    {
+        "id": 31739,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is not related to Hadoop file system?",
+        "op": [
+            "Hbase",
+            "Hive",
+            "Oracle",
+            "HDFS"
+        ],
+        "created_at": "2026-06-30T19:36:21.853322+00:00"
+    },
+    {
+        "id": 31775,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Hbase provides data replication across ____________.",
+        "op": [
+            "Tables",
+            "Servers",
+            "Clients",
+            "Clusters"
+        ],
+        "created_at": "2026-06-30T19:37:10.616572+00:00"
+    },
+    {
+        "id": 31791,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Sqoop Import is used to transfer data:",
+        "op": [
+            "From Hadoop file system to Relational Database Management System.",
+            "From Relational Database Management System to Hadoop file system",
+            "From Relational Database Management System to Relational Database Management System.",
+            "From Hadoop file system to Hadoop file system."
+        ],
+        "created_at": "2026-06-30T19:37:47.909342+00:00"
+    },
+    {
+        "id": 33025,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "________ is the slave/worker node and holds the user data in the form of Data Blocks.",
+        "op": [
+            "NameNode",
+            "Data block",
+            "DataNode",
+            "Replication"
+        ],
+        "created_at": "2026-07-01T00:47:46.34958+00:00"
+    },
+    {
+        "id": 33027,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Sqoop, the import tool imports _________from RDBMS to HDFS.",
+        "op": [
+            "Individual Tables",
+            "Individual Columns",
+            "Individual Rows",
+            "Individual record"
+        ],
+        "created_at": "2026-07-01T00:47:53.979019+00:00"
+    },
+    {
+        "id": 33028,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Sqoop Export is used to transfer data:",
+        "op": [
+            "From Hadoop file system to Hadoop file system.",
+            "From Relational Database Management System to Relational Database Management System.",
+            "From Hadoop file system to Relational Database Management System.",
+            "From Relational Database Management System to Hadoop file system."
+        ],
+        "created_at": "2026-07-01T00:48:09.953078+00:00"
+    },
+    {
+        "id": 33029,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Data consumer reads/accesses the data in HDFS ________ using HBase.",
+        "op": [
+            "Parallel",
+            "Sequentially",
+            "Directly",
+            "Randomly"
+        ],
+        "created_at": "2026-07-01T00:48:29.716073+00:00"
+    },
+    {
+        "id": 33074,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is not belongs to RDBMS?",
+        "op": [
+            "DB2",
+            "Postgresql",
+            "HDFS",
+            "Mysql"
+        ],
+        "created_at": "2026-07-01T01:05:55.504011+00:00"
+    },
+    {
+        "id": 33077,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "exists is a _______________, while truncate is  a  __________ command in Hbase.",
+        "op": [
+            "General , DML",
+            "DDL , DML",
+            "DML , DDL",
+            "DDL , General"
+        ],
+        "created_at": "2026-07-01T01:06:25.854117+00:00"
+    },
+    {
+        "id": 33086,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Put and Get commands belong to ___________ in Hbase.",
+        "op": [
+            "General Commands",
+            "Basic Commands",
+            "DDL",
+            "DML"
+        ],
+        "created_at": "2026-07-01T01:08:33.012048+00:00"
+    },
+    {
+        "id": 33099,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Hadoop streaming is a utility comes with Hadoop distribution that allows to:",
+        "op": [
+            "Write and execute MapReduce code in C++ only",
+            "Write and execute MapReduce code in JAVA only",
+            "Write and execute MapReduce code in Python only",
+            "Write and execute MapReduce code in languages other than JAVA"
+        ],
+        "created_at": "2026-07-01T01:09:59.912184+00:00"
+    },
+    {
+        "id": 33105,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "MapReduce is a ________________ programming model for writing distributed applications.",
+        "op": [
+            "Serial",
+            "Linear",
+            "Sequential",
+            "Parallel"
+        ],
+        "created_at": "2026-07-01T01:10:40.658621+00:00"
+    },
+    {
+        "id": 33110,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The Hadoop Distributed File System has the following elements except _____.",
+        "op": [
+            "Datanode",
+            "Block",
+            "Namenode",
+            "Slavenode"
+        ],
+        "created_at": "2026-07-01T01:11:07.583949+00:00"
+    },
+    {
+        "id": 33140,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Hadoop Distributed File System (HDFS) is based on the ______________.",
+        "op": [
+            "Google File System (GFS)",
+            "Amazon File System (AFS)",
+            "Yahoo File System (YFS)",
+            "Flat File System (FFS)"
+        ],
+        "created_at": "2026-07-01T01:15:17.749406+00:00"
+    },
+    {
+        "id": 33142,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the name of default database in Hive?",
+        "op": [
+            "default",
+            "db",
+            "default db",
+            "database"
+        ],
+        "created_at": "2026-07-01T01:15:24.467351+00:00"
+    },
+    {
+        "id": 33145,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "HBase uses ________________  File System to store its data.",
+        "op": [
+            "CloudStore",
+            "MapR",
+            "Google",
+            "Hadoop"
+        ],
+        "created_at": "2026-07-01T01:15:45.176566+00:00"
+    },
+    {
+        "id": 33513,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Initially Hive was developed by:",
+        "op": [
+            "Apple",
+            "Facebook",
+            "IBM",
+            "Microsoft"
+        ],
+        "created_at": "2026-07-01T02:20:37.169455+00:00"
+    },
+    {
+        "id": 33514,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "HBase is a _________ database management system that runs on top of Hadoop Distributed File System.",
+        "op": [
+            "Record-oriented",
+            "Table-oriented",
+            "Column-oriented",
+            "Row-oriented"
+        ],
+        "created_at": "2026-07-01T02:20:44.596171+00:00"
+    },
+    {
+        "id": 33517,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In HBase, Scan command is used to scan and return __________.",
+        "op": [
+            "None of the given options",
+            "Data of HTable",
+            "Schema of HTable",
+            "Database structure of HTable"
+        ],
+        "created_at": "2026-07-01T02:21:11.247361+00:00"
+    },
+    {
+        "id": 33518,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, which API is used to achieve DDL functionalities through programming?",
+        "op": [
+            "Java OpenGL",
+            "Java Persistence API",
+            "JAVA Data Objects",
+            "JAVA admin API"
+        ],
+        "created_at": "2026-07-01T02:21:19.409747+00:00"
+    },
+    {
+        "id": 33935,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is smallest integral type in HiveQL?",
+        "op": [
+            "SMALLLINT",
+            "TINYINT",
+            "BIGINT",
+            "INT"
+        ],
+        "created_at": "2026-07-01T03:44:17.566026+00:00"
+    },
+    {
+        "id": 33954,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Hadoop Distributed File System (HDFS) provides _______________ architecture.",
+        "op": [
+            "Master Slave",
+            "Standalone",
+            "Peer to Peer",
+            "Single User"
+        ],
+        "created_at": "2026-07-01T03:48:08.389014+00:00"
+    },
+    {
+        "id": 34084,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, which of the following command does not belong to DML?",
+        "op": [
+            "CRUD",
+            "get",
+            "list",
+            "put"
+        ],
+        "created_at": "2026-07-01T04:10:43.153072+00:00"
+    },
+    {
+        "id": 34091,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is not a general command supported by HBase shell?",
+        "op": [
+            "table_status",
+            "version",
+            "table_help",
+            "status"
+        ],
+        "created_at": "2026-07-01T04:12:30.290542+00:00"
+    },
+    {
+        "id": 34324,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is NOT true about Scoop Export command?",
+        "op": [
+            "The files given as input to Sqoop Export contain records called rows in table.",
+            "To export the data in scoop the target table must exist in the target database.",
+            "It exports a set of files from RDBMS back to an HDFS.",
+            "It exports a set of files from HDFS back to an RDBMS."
+        ],
+        "created_at": "2026-07-01T04:41:47.4531+00:00"
+    },
+    {
+        "id": 35076,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following statements is used to insert data in Hive?",
+        "op": [
+            "LOAD DATA",
+            "INSERT DATA",
+            "STORE DATA",
+            "ADD DATA"
+        ],
+        "created_at": "2026-07-01T06:42:24.061544+00:00"
+    },
+    {
+        "id": 35078,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The MapReduce program runs on _____ which is an Apache open-source framework.",
+        "op": [
+            "Brute Force",
+            "Binary Search",
+            "Hadoop",
+            "HadReduce"
+        ],
+        "created_at": "2026-07-01T06:42:36.676946+00:00"
+    },
+    {
+        "id": 35094,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "MapReduce runs on _____________ framework.",
+        "op": [
+            "Hive",
+            "Hadoop",
+            "MongoDB",
+            "Sqoop"
+        ],
+        "created_at": "2026-07-01T06:44:39.958903+00:00"
+    },
+    {
+        "id": 35277,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "MapReduce programs execute in _________ stages.",
+        "op": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-07-01T07:26:26.690247+00:00"
+    },
+    {
+        "id": 35710,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Hbase, data is stored in which form?",
+        "op": [
+            "None of the given options",
+            "Regions",
+            "Rows",
+            "Columns"
+        ],
+        "created_at": "2026-07-01T09:52:56.613485+00:00"
+    },
+    {
+        "id": 35711,
+        "cc": "CS441",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Enable and Is_enable commands belong to _____________ in Hbase.",
+        "op": [
+            "DDL",
+            "General Commands",
+            "Basic Commands",
+            "DML"
+        ],
+        "created_at": "2026-07-01T09:53:05.034473+00:00"
+    },
+    {
+        "id": 50031,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________ is an unsupervised learning approach.",
+        "op": [
+            "Voice Recognition",
+            "Clustering",
+            "Labeling",
+            "Classification"
+        ],
+        "created_at": "2026-07-05T20:14:54.916401+00:00"
+    },
+    {
+        "id": 50042,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In k-means, closeness is measured using ________________ formula.",
+        "op": [
+            "Mean absolute deviation",
+            "Simple Matching",
+            "Minkowski distances",
+            "Euclidean distance"
+        ],
+        "created_at": "2026-07-05T20:15:54.016964+00:00"
+    },
+    {
+        "id": 50048,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which data type is used in MongoDB to store strings in a variable?",
+        "op": [
+            "String",
+            "Char",
+            "Varchar",
+            "Varchar2"
+        ],
+        "created_at": "2026-07-05T20:16:09.809443+00:00"
+    },
+    {
+        "id": 50053,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which one is not common observation about NoSQL Databases?",
+        "op": [
+            "Built for the 21st century web estates",
+            "Running well on clusters",
+            "Mostly open-source",
+            "Schema Oriented"
+        ],
+        "created_at": "2026-07-05T20:16:25.696291+00:00"
+    },
+    {
+        "id": 50059,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________________ is a classification algorithm.",
+        "op": [
+            "K-Means",
+            "Naïve Bayes",
+            "Density-based Method",
+            "Hierarchical Method"
+        ],
+        "created_at": "2026-07-05T20:16:37.445568+00:00"
+    },
+    {
+        "id": 50061,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ is an example of NoSQL database.",
+        "op": [
+            "MS Access",
+            "Oracle",
+            "DB2",
+            "Neo4j"
+        ],
+        "created_at": "2026-07-05T20:16:46.581486+00:00"
+    },
+    {
+        "id": 50062,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A table in Relational Database Management System is called _____________ in MongoDB.",
+        "op": [
+            "Page",
+            "Collection",
+            "Embedded Document",
+            "Document"
+        ],
+        "created_at": "2026-07-05T20:16:55.909887+00:00"
+    },
+    {
+        "id": 50065,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________ is not a supervised learning approach.",
+        "op": [
+            "Voice Recognition",
+            "Labeling",
+            "Clustering",
+            "Classification"
+        ],
+        "created_at": "2026-07-05T20:17:05.784152+00:00"
+    },
+    {
+        "id": 50068,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "________________ deals with finding a structure in a collection of unlabeled data.",
+        "op": [
+            "Voice Recognition",
+            "Labeling",
+            "Clustering",
+            "Classification"
+        ],
+        "created_at": "2026-07-05T20:17:15.771072+00:00"
+    },
+    {
+        "id": 50069,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "K-Means works only for ________ data.",
+        "op": [
+            "Binary",
+            "Time",
+            "Text",
+            "Numerical"
+        ],
+        "created_at": "2026-07-05T20:17:27.614895+00:00"
+    },
+    {
+        "id": 50134,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______ uses Mahout for user interest modeling.",
+        "op": [
+            "Facebook",
+            "Twitter",
+            "Instagram",
+            "Yahoo"
+        ],
+        "created_at": "2026-07-05T20:26:52.828593+00:00"
+    },
+    {
+        "id": 50140,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "__________ is a Clustering Algorithm.",
+        "op": [
+            "K-Means",
+            "Decision Tree based Methods",
+            "Naïve Bayes",
+            "Neural Networks"
+        ],
+        "created_at": "2026-07-05T20:28:02.911405+00:00"
+    },
+    {
+        "id": 50145,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "MongoDB is an example of ____________________ NoSQL database.",
+        "op": [
+            "Columnar Database",
+            "Graph Database",
+            "Key Value Database",
+            "Document Store"
+        ],
+        "created_at": "2026-07-05T20:28:18.203435+00:00"
+    },
+    {
+        "id": 50146,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Mahout, Data object hold a file that does not contain ________.",
+        "op": [
+            "Users",
+            "Preferences details of a product",
+            "Items",
+            "Items Price"
+        ],
+        "created_at": "2026-07-05T20:28:23.874418+00:00"
+    },
+    {
+        "id": 70835,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "_________is the process by which we gather pages from the Web, in order to index them and support a search engine.",
+        "op": [
+            "Web Server",
+            "Search Engine",
+            "Web Application",
+            "Web Crawling"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70837,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "In Indexing, most common words of vocabulary are called ______ words. ",
+        "op": [
+            "Frequent",
+            "Start",
+            "Famous",
+            "Stop"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70838,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is the correct output of the 10001 AND 11011 AND 10101?",
+        "op": [
+            "10001",
+            "10101",
+            "10101",
+            "11010"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70839,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is NOT a method/strategy of Indexing?",
+        "op": [
+            "Boolean Index",
+            "Converted Index",
+            "Inverted Vectors",
+            "Inverted Index"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70840,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "IDF stands for:",
+        "op": [
+            "Inverse Document Frequency",
+            "Inverted Deficiency Frequency",
+            "International Distributed Frequency",
+            "Inverse Digital Frequency"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70841,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "__________is a software tool used to access and search information on the web.",
+        "op": [
+            "Web browser",
+            "Web server",
+            "MS Excel",
+            "MS Word"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70861,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "_______ are more informative than _________ terms.",
+        "op": [
+            "Frequent terms, rare",
+            "Rare terms, frequent",
+            "Regular terms, non regular",
+            "Important terms, non important"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70862,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "The ________collects, parse, and stores data to facilitate fast and accurate information retrieval.",
+        "op": [
+            "Indexing stage",
+            "Storing stage",
+            "Collecting stage",
+            "Parsing stage"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70899,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "________ are the devices that request and render web contents.",
+        "op": [
+            "Applications",
+            "Providers",
+            "Clients",
+            "Servers"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70900,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "_________are special websites that have indexed billions of pages - and make it easy for you to find a website or page in an instant.",
+        "op": [
+            "Web applications",
+            "Web users",
+            "Web browsers",
+            "Search engines"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70902,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "________ are the applications that deliver web contents or services to __________.",
+        "op": [
+            "Clients, Servers",
+            "Consumer, Providers",
+            "Users, Applications",
+            "Servers, Clients"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 71012,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "We define the idf (inverse document frequency) of t by______. ",
+        "op": [
+            "\\(idf_{t} df_{t}/N = log_{10}\\)",
+            "\\(idf_{t} = log_{10}N/df_{t}\\)",
+            "\\(idf_{t} = log_{10}df_{t}/N\\)",
+            "\\(idf_{t} log_{10}= N/df_{t}\\)"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71053,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "There are ______ types of retrieval models. ",
+        "op": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71054,
+        "cc": "CS441",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "It is better to ____________ stop words before indexing. ",
+        "op": [
+            "Ignore",
+            "Update",
+            "Remove",
+            "Insert"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    }
+]

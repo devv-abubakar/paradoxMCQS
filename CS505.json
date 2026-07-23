@@ -1,0 +1,674 @@
+[
+    {
+        "id": 19765,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is a virtual machine in the context of VMware ESXi?",
+        "op": [
+            "A virtualization technique used by VMware ESXi",
+            "A physical server dedicated to running virtualization software",
+            "A tool for managing virtual networks",
+            "A software-based representation of a physical computer"
+        ],
+        "created_at": "2026-06-23T19:11:02.012267+00:00"
+    },
+    {
+        "id": 19777,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Virtual Machine is also called as _____________.",
+        "op": [
+            "Real Machine",
+            "Universal Machine",
+            "Guest machine",
+            "Guest Operating System"
+        ],
+        "created_at": "2026-06-23T19:12:08.561909+00:00"
+    },
+    {
+        "id": 19781,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the purpose of Hyper-V Manager?",
+        "op": [
+            "To allocate virtual storage resources",
+            "To create and manage virtual machines",
+            "To manage physical hardware resources",
+            "To optimize virtual machine performance"
+        ],
+        "created_at": "2026-06-23T19:12:31.593485+00:00"
+    },
+    {
+        "id": 19787,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which one is not the merit of using Virtual Machine?",
+        "op": [
+            "Runs incompatible software",
+            "VM cannot be migrated across the virtual environment",
+            "Reduce cost",
+            "Enable multiple operating systems to run"
+        ],
+        "created_at": "2026-06-23T19:12:58.009198+00:00"
+    },
+    {
+        "id": 19792,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which one is an open source virtualization product available under the terms of GNU General Public License (GPL)?",
+        "op": [
+            "VMware",
+            "Virtual Box",
+            "SuperBox",
+            "Docker"
+        ],
+        "created_at": "2026-06-23T19:13:17.722751+00:00"
+    },
+    {
+        "id": 19795,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Esxi server can be downloaded from_________Website.",
+        "op": [
+            "Microsoft Website",
+            "Vmware Website",
+            "Apple Website",
+            "Oracle website"
+        ],
+        "created_at": "2026-06-23T19:13:34.362692+00:00"
+    },
+    {
+        "id": 19800,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following components handles the communication between the management operating system and the hypervisor in Hyper-V?",
+        "op": [
+            "Virtual Machine Connection (VMConnect)",
+            "Integration Services",
+            "Virtual Machine Bus (VMBus)",
+            "Virtualization Service Provider (VSP)"
+        ],
+        "created_at": "2026-06-23T19:13:52.286868+00:00"
+    },
+    {
+        "id": 19806,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "______________ allow us to run multiple operating systems on a single host.",
+        "op": [
+            "Dockers",
+            "Virtual Machines",
+            "Virtual Machines Monitors (VMMs)",
+            "Containers"
+        ],
+        "created_at": "2026-06-23T19:14:28.635637+00:00"
+    },
+    {
+        "id": 19815,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is a virtual disk in the context of VMware ESXi?",
+        "op": [
+            "A storage device dedicated to a specific virtual machine",
+            "A software-based representation of a physical disk",
+            "A physical disk attached to the host machine",
+            "A network-based storage protocol"
+        ],
+        "created_at": "2026-06-23T19:14:53.314163+00:00"
+    },
+    {
+        "id": 20053,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is Hyper-V?",
+        "op": [
+            "An operating system",
+            "A storage technology",
+            "A virtualization platform",
+            "A networking protocol"
+        ],
+        "created_at": "2026-06-23T20:02:35.239355+00:00"
+    },
+    {
+        "id": 20057,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is true about VMware ESXi?",
+        "op": [
+            "It is a free and open-source software",
+            "It requires dedicated hardware to run",
+            "It can only run on Windows-based systems",
+            "It supports a wide range of operating systems"
+        ],
+        "created_at": "2026-06-23T20:03:45.502615+00:00"
+    },
+    {
+        "id": 20058,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Esxi is_________Hypervisor.",
+        "op": [
+            "Type 3 Hipervisor",
+            "Type 2 Hypervisor",
+            "Type 4 Hipervisor",
+            "Type 1 Hypervisor"
+        ],
+        "created_at": "2026-06-23T20:04:14.690407+00:00"
+    },
+    {
+        "id": 20080,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which operating systems can host Hyper-V?",
+        "op": [
+            "Windows 10",
+            "Windows Server",
+            "Windows Server and Windows 10",
+            "Linux distributions"
+        ],
+        "created_at": "2026-06-23T20:12:54.547127+00:00"
+    },
+    {
+        "id": 20131,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Virtual Box is developed by vendor___________",
+        "op": [
+            "Oracle Corporation",
+            "Docker",
+            "VMware",
+            "Microsoft"
+        ],
+        "created_at": "2026-06-23T20:28:11.770477+00:00"
+    },
+    {
+        "id": 20157,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which statement is incorrect about the Virtual Machine?",
+        "op": [
+            "Multiple VMs can run simultaneously",
+            "Virtual representation of a physical machine",
+            "Virtual machine runs without guest operating system",
+            "Uses the resources of a physical machine"
+        ],
+        "created_at": "2026-06-23T20:40:13.648063+00:00"
+    },
+    {
+        "id": 20158,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is NOT a component of the Hyper-V architecture?",
+        "op": [
+            "Root Partition",
+            "Child Partition",
+            "Host Operating System",
+            "Hosted Virtual Machines"
+        ],
+        "created_at": "2026-06-23T20:40:47.411256+00:00"
+    },
+    {
+        "id": 20192,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is NOT a required component when creating a new virtual machine?",
+        "op": [
+            "Operating system selection",
+            "Resource allocation (CPU, memory, storage)",
+            "Network configuration",
+            "Virtual machine name"
+        ],
+        "created_at": "2026-06-23T21:08:57.966926+00:00"
+    },
+    {
+        "id": 47595,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Virtual storage refers to the creation of a virtual representation of:",
+        "op": [
+            "Physical storage resources and devices",
+            "Cloud computing platforms",
+            "Artificial intelligence algorithm",
+            "Network connections"
+        ],
+        "created_at": "2026-07-05T19:04:02.446604+00:00"
+    },
+    {
+        "id": 47627,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Time-series databases are optimized for storing and querying:",
+        "op": [
+            "Unstructured data",
+            "Time-stamped data",
+            "Object-oriented data",
+            "Structured data"
+        ],
+        "created_at": "2026-07-05T19:04:21.710976+00:00"
+    },
+    {
+        "id": 47659,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Relational databases store data in which format?",
+        "op": [
+            "Objects",
+            "Tables with rows and columns",
+            "Key-value pairs",
+            "Documents"
+        ],
+        "created_at": "2026-07-05T19:04:40.416961+00:00"
+    },
+    {
+        "id": 48399,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Object-oriented databases store data as:",
+        "op": [
+            "Tables with rows and columns",
+            "Key-value pairs",
+            "Objects",
+            "Tables with rows and columns"
+        ],
+        "created_at": "2026-07-05T19:14:17.638429+00:00"
+    },
+    {
+        "id": 48461,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is the purpose of traffic shaping?",
+        "op": [
+            "To combine multiple network interfaces",
+            "To manage network policies",
+            "To manage the flow of network traffic",
+            "To prevent unauthorized access"
+        ],
+        "created_at": "2026-07-05T19:15:24.576526+00:00"
+    },
+    {
+        "id": 48493,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is the purpose of network policies?",
+        "op": [
+            "To govern the use of the network",
+            "To encrypt network traffic",
+            "To manage network traffic",
+            "To provide failover protection"
+        ],
+        "created_at": "2026-07-05T19:15:47.457513+00:00"
+    },
+    {
+        "id": 48599,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "NoSQL databases are often used for handling:",
+        "op": [
+            "Unstructured data",
+            "Structured data",
+            "Time-stamped data",
+            "Object-oriented data"
+        ],
+        "created_at": "2026-07-05T19:17:36.799798+00:00"
+    },
+    {
+        "id": 48631,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What does NIC teaming involve?",
+        "op": [
+            "Providing failover protection",
+            "Encrypting network traffic",
+            "Managing network policies",
+            "Combining multiple network interfaces into a single logical interface"
+        ],
+        "created_at": "2026-07-05T19:18:01.358214+00:00"
+    },
+    {
+        "id": 49437,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which component helps prevent unauthorized access and protect against security threats?",
+        "op": [
+            "Network policies",
+            "Security",
+            "NIC teaming",
+            "Traffic shaping"
+        ],
+        "created_at": "2026-07-05T19:41:30.904816+00:00"
+    },
+    {
+        "id": 49740,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which component acts as an intermediary between the operating system and physical storage in virtual storage?",
+        "op": [
+            "Operating system kernel",
+            "Hardware devices",
+            "Software layer",
+            "Network connections"
+        ],
+        "created_at": "2026-07-05T19:54:21.861277+00:00"
+    },
+    {
+        "id": 50016,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which component governs the use of a network and helps ensure data and device protection?",
+        "op": [
+            "NIC teaming",
+            "Security",
+            "Network policies",
+            "Traffic shaping"
+        ],
+        "created_at": "2026-07-05T20:13:34.34132+00:00"
+    },
+    {
+        "id": 50523,
+        "cc": "CS505",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which aspect of network management involves managing the flow of network traffic?",
+        "op": [
+            "Traffic shaping",
+            "Security",
+            "Network policies",
+            "NIC teaming"
+        ],
+        "created_at": "2026-07-05T21:26:05.929739+00:00"
+    },
+    {
+        "id": 66311,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "What is the primary use case for Type 2 hypervisors?   ",
+        "op": [
+            "Cloud computing and virtualization",
+            "Development and testing environments",
+            "High-performance computing clusters",
+            "Server consolidation in data centers"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66312,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which type of Hypervisor is shown in this diagram? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RCgRXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQeuocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAAAeocAAcAAAgMAAAIbAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "op": [
+            "Type 3",
+            "Type 1",
+            "Type 1 & Type 2",
+            "Type 2"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66313,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following will be the host operating system for Windows Server? ",
+        "op": [
+            "VirtualLogix VLX",
+            "Microsoft Hyper-V",
+            "virtualbox",
+            "Xen"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66314,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which are not properties of a vCenter ? ",
+        "op": [
+            "Performs day to day task",
+            "Physical resource sharing",
+            "Manage entire Virtualization Data Center",
+            "Provide Management consoles"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66424,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following should be placed in the empty box for virtualization? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADNTAAAJKSAAIAAAADNTAAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "op": [
+            "Hypervisor",
+            "Container engine",
+            "Any software",
+            "Guest OS"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66425,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "__________ provides support for virtualized hardware such as virtualized GPUs and virtualized USB devices. ",
+        "op": [
+            "Citrix XenServer",
+            "VMware Workstation",
+            "Oracle VirtualBox",
+            "VMware vSphere"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66426,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "VMware Vsphere is best suited for __________ ",
+        "op": [
+            "Cloud Infrastructure",
+            "Virtualized GPUs",
+            "Testing",
+            "Health Care"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66429,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Hyper-V provides support for ___________ ",
+        "op": [
+            "Testing",
+            "Virtualized GPUs",
+            "Windows Server operating systems",
+            "Health Care"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66430,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which hypervisor type is vulnerable to attacks on the host operating system? ",
+        "op": [
+            "Type 3",
+            "Type 4",
+            "Type 2",
+            "Type 1"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66431,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Using ______________ Hypervisor, host Operating System is required. ",
+        "op": [
+            "Type 3",
+            "Type 2",
+            "Type 1 and Type 2",
+            "Type 1"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66593,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "What can be customized during the virtual machine setup process? ",
+        "op": [
+            "The number of virtual CPUs assigned to the virtual machine",
+            "Processor architecture of the virtual machine",
+            "The amount of physical RAM available to the virtual machine",
+            "The type of hypervisor used for virtualization"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66595,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "What is a Type 2 hypervisor? ",
+        "op": [
+            "A hypervisor that is used exclusively for desktop virtualization",
+            "A hypervisor that runs directly on the host hardware",
+            "A hypervisor that is designed for cloud-based virtualization",
+            "A hypervisor that runs on top of an operating system"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66596,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Oracle VirtualBox is used for ___________. ",
+        "op": [
+            "Cloud Infrastructure",
+            "Testing and Development",
+            "Virtualized GPUs",
+            "Health Care"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66643,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which hypervisor is typically used in scenarios where a higher level of performance is not as critical? ",
+        "op": [
+            "Type 1",
+            "Type 3",
+            "Type 4",
+            "Type 2"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66645,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Cloning of virtual machines is done by ________. ",
+        "op": [
+            "VMware vSphere",
+            "Oracle VirtualBox",
+            "Citrix XenServer",
+            "VMware Workstation"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66649,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which type of hypervisor is less secure than Type 1 hypervisors? ",
+        "op": [
+            "Type 3",
+            "Type 1",
+            "Type 4",
+            "Type 2"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66661,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Citrix XenServer is mostly used in ___________. ",
+        "op": [
+            "Cloud Infrastructure",
+            "Virtualized GPUs",
+            "Health Care",
+            "Testing"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66663,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Hypervisor is a ________ ",
+        "op": [
+            "Software layer",
+            "Host OS",
+            "Virtual Machine",
+            "Guest OS"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66724,
+        "cc": "CS505",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following provide system resources like CPU, RAM and memory to Virtual Machine? ",
+        "op": [
+            "Virtual Network Monitor",
+            "Virtual Machine Coordinator",
+            "Guest Operating System",
+            "Hypervisor"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    }
+]

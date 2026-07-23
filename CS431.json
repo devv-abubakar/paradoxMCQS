@@ -1,0 +1,548 @@
+[
+{
+    "id": 26614,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Forward error correction is the process in which the receiver tries to guess the message by using _____________.",
+    "op": [
+        "Corrupted bits",
+        "Error Codes",
+        "Redundant bits",
+        "Table segments"
+    ],
+    "created_at": "2026-06-29T07:16:19.834068+00:00"
+},
+{
+    "id": 26619,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Orthogonal codes are spreading sequence type used in ______________ technique.",
+    "op": [
+        "CDMA",
+        "TDMA",
+        "FDMA",
+        "TMPT"
+    ],
+    "created_at": "2026-06-29T07:16:36.514672+00:00"
+},
+{
+    "id": 26621,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of CRC, the _______ is based on modulo-2 Arithmetic.",
+    "op": [
+        "Multiplication",
+        "Addition",
+        "Division",
+        "Subtraction"
+    ],
+    "created_at": "2026-06-29T07:16:45.768363+00:00"
+},
+{
+    "id": 26623,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "LFSRs are easy to implement in ______________.",
+    "op": [
+        "Register",
+        "Software",
+        "Gates",
+        "Hardware"
+    ],
+    "created_at": "2026-06-29T07:16:55.636747+00:00"
+},
+{
+    "id": 26625,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The attenuation, distortion and ______________ make the signal weak.",
+    "op": [
+        "Noise",
+        "PSK",
+        "FSK",
+        "CRC"
+    ],
+    "created_at": "2026-06-29T07:17:10.508094+00:00"
+},
+{
+    "id": 26627,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_______________ is the simplest and the most popular error detection scheme.",
+    "op": [
+        "FSK",
+        "Hamming Distance",
+        "Parity check",
+        "Burst"
+    ],
+    "created_at": "2026-06-29T07:17:20.286869+00:00"
+},
+{
+    "id": 26628,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The Hamming distance can easily be found if we apply the ___________ on the two words and count the number of 1s in the result.",
+    "op": [
+        "XOR operation",
+        "OR operation",
+        "XNOR operation",
+        "AND operation"
+    ],
+    "created_at": "2026-06-29T07:17:28.395503+00:00"
+},
+{
+    "id": 26655,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________ is very common in serial transmission.",
+    "op": [
+        "Polynomial",
+        "Single bit error",
+        "Burst error",
+        "CRC"
+    ],
+    "created_at": "2026-06-29T07:25:35.838283+00:00"
+},
+{
+    "id": 26656,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Parity check is error ________________technique.",
+    "op": [
+        "Detection",
+        "Removing",
+        "Reduction",
+        "Correction"
+    ],
+    "created_at": "2026-06-29T07:25:50.883747+00:00"
+},
+{
+    "id": 26658,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In orthogonal codes all pairwise cross relations is/are _______________.",
+    "op": [
+        "Numbers",
+        "Bit",
+        "Zero",
+        "One"
+    ],
+    "created_at": "2026-06-29T07:25:56.085068+00:00"
+},
+{
+    "id": 26659,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of Checksum, the sum is _______ to get the checksum.",
+    "op": [
+        "Added",
+        "Complemented",
+        "Removed",
+        "Segmented"
+    ],
+    "created_at": "2026-06-29T07:26:02.715377+00:00"
+},
+{
+    "id": 26660,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "CRC can detect all burst errors of less than the degree of_____________.",
+    "op": [
+        "Polynomials",
+        "Coefficients",
+        "Reminders",
+        "Divisors"
+    ],
+    "created_at": "2026-06-29T07:26:14.696291+00:00"
+},
+{
+    "id": 26661,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A __________error means that 2 or more bits in the data unit have changed.",
+    "op": [
+        "Burst",
+        "CRC",
+        "Polynomial",
+        "Single bit"
+    ],
+    "created_at": "2026-06-29T07:26:31.177457+00:00"
+},
+{
+    "id": 26662,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Codes have well defined cross correlation properties in _______________sequences.",
+    "op": [
+        "Orthogonal",
+        "N",
+        "Gold",
+        "M"
+    ],
+    "created_at": "2026-06-29T07:26:37.414174+00:00"
+},
+{
+    "id": 26860,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Gold sequences are constructed by the _____ of two m-sequences with the same clocking.",
+    "op": [
+        "X-NOR",
+        "XOR",
+        "OR",
+        "NOR"
+    ],
+    "created_at": "2026-06-29T09:56:32.316085+00:00"
+},
+{
+    "id": 26861,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In linear feedback shift register, ________________ line indicates the value currently stored.",
+    "op": [
+        "Forward",
+        "Input",
+        "Output",
+        "Reverse"
+    ],
+    "created_at": "2026-06-29T09:56:42.384903+00:00"
+},
+{
+    "id": 26864,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Checksum the segments are _______ using one complement arithmetic to get the sum.",
+    "op": [
+        "Subtracted",
+        "Multiplied",
+        "Divided",
+        "Added"
+    ],
+    "created_at": "2026-06-29T09:57:24.577507+00:00"
+},
+{
+    "id": 26866,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "We need more _______ for error correction than for error detection.",
+    "op": [
+        "Corrupted bytes",
+        "Redundant bits",
+        "Error codes",
+        "Tables"
+    ],
+    "created_at": "2026-06-29T09:57:41.154764+00:00"
+},
+{
+    "id": 26867,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _____________ shows the value of the bit in CRC technique.",
+    "op": [
+        "Position",
+        "Coefficient",
+        "Size",
+        "Number"
+    ],
+    "created_at": "2026-06-29T09:58:04.908543+00:00"
+},
+{
+    "id": 27078,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A circuit consisting of ______ gates and a shift register is called a linear feedback shift register (LFSR).",
+    "op": [
+        "XOR",
+        "AND",
+        "NOR",
+        "OR"
+    ],
+    "created_at": "2026-06-29T13:35:16.355708+00:00"
+},
+{
+    "id": 27079,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Linear Feedback Shift Register can run at high speeds, this is important because the ______is higher than the data rate.",
+    "op": [
+        "Error Rate",
+        "SNR Rate",
+        "Spreading rate",
+        "Noise Rate"
+    ],
+    "created_at": "2026-06-29T13:35:57.310689+00:00"
+},
+{
+    "id": 27332,
+    "cc": "CS431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____________ is common in parallel transmission.",
+    "op": [
+        "Single bit error",
+        "Polynomial",
+        "Burst error",
+        "CRC"
+    ],
+    "created_at": "2026-06-29T18:28:17.806977+00:00"
+},
+{
+    "id": 55918,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In cellular network cells are _________ in shape",
+    "op": [
+        "Circular",
+        "Square",
+        "Hexagonal",
+        "Triangle"
+    ],
+    "created_at": "2026-07-07T05:07:23.108092+00:00"
+},
+{
+    "id": 55923,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "A matrix of squares cells would be the simplest layout to define _________________ geometries.",
+    "op": [
+        "Network",
+        "Cellular",
+        "Antenna",
+        "Station"
+    ],
+    "created_at": "2026-07-07T05:08:14.333996+00:00"
+},
+{
+    "id": 55925,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "___________ is a circle that divides the surface of an object into two equal halves.",
+    "op": [
+        "Elevation angle",
+        "Longitude",
+        "Latitude",
+        "An equator"
+    ],
+    "created_at": "2026-07-07T05:08:42.713336+00:00"
+},
+{
+    "id": 55926,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "It is best if all adjacent ______________are equidistant.",
+    "op": [
+        "Networks",
+        "Antennas",
+        "Stations",
+        "Satellite"
+    ],
+    "created_at": "2026-07-07T05:09:03.449954+00:00"
+},
+{
+    "id": 55928,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Theoretically ____ geostationary satellites provides 100% earth coverage.",
+    "op": [
+        "5",
+        "6",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-07T05:09:50.629393+00:00"
+},
+{
+    "id": 55929,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In context of Selective Repeat ARQ, receiver requires ________ to contain out-of-order frames until the frame in error is correctly received.",
+    "op": [
+        "Storage buffers",
+        "Large window",
+        "MTU",
+        "Logic circuitry"
+    ],
+    "created_at": "2026-07-07T05:10:15.124043+00:00"
+},
+{
+    "id": 55932,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The link from an earth station to the satellite is referred to as",
+    "op": [
+        "Downlink",
+        "Shared link",
+        "Uplink",
+        "Dedicated link"
+    ],
+    "created_at": "2026-07-07T05:10:37.181568+00:00"
+},
+{
+    "id": 55935,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In context of Go-back-N ARQ, if the destination detects error in a frame, or it receives a frame out of order, it sends a(n) _____for that frame.",
+    "op": [
+        "NAK",
+        "ACK",
+        "Copy",
+        "Parity bit"
+    ],
+    "created_at": "2026-07-07T05:11:35.458801+00:00"
+},
+{
+    "id": 55936,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Lines of ________ run between the North and South Poles. They measure east-west position.",
+    "op": [
+        "Latitude",
+        "Longitude",
+        "Elevation angle",
+        "An equator"
+    ],
+    "created_at": "2026-07-07T05:12:11.746127+00:00"
+},
+{
+    "id": 56225,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In context of Go-back-N ARQ, the number of un-acknowledgment frames outstanding is determined by_______, using the sliding-window flow control technique.",
+    "op": [
+        "Window size",
+        "Lost frames size",
+        "Data size",
+        "Acknowledgment size"
+    ],
+    "created_at": "2026-07-07T07:39:52.680757+00:00"
+},
+{
+    "id": 56226,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In context of FDMA types, FAMA stands for _______________.",
+    "op": [
+        "First Assignment Multiple Access",
+        "First Allocation Multiple Attempt",
+        "Fixed Assignment Multiple Access",
+        "Fixed Allocation Multiple Attempt"
+    ],
+    "created_at": "2026-07-07T07:40:23.435292+00:00"
+},
+{
+    "id": 56227,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The antenna systems near the earth are referred to as ___________.",
+    "op": [
+        "Antenna station",
+        "Earth station",
+        "Equator system",
+        "Transponder system"
+    ],
+    "created_at": "2026-07-07T07:40:40.155189+00:00"
+},
+{
+    "id": 56228,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Lines of _______ measure north-south position between the poles.",
+    "op": [
+        "Latitude",
+        "An equator",
+        "Elevation angle",
+        "Longitude"
+    ],
+    "created_at": "2026-07-07T07:40:54.569406+00:00"
+},
+{
+    "id": 56280,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In_________, the entire bandwidth is available to the user but only for a finite period of time.",
+    "op": [
+        "TDMA",
+        "FDMA",
+        "NDMA",
+        "CDMA"
+    ],
+    "created_at": "2026-07-07T08:05:20.098466+00:00"
+},
+{
+    "id": 56283,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In context of Stop-and-Wait ARQ, the source station transmits a single frame and then waits for _________.",
+    "op": [
+        "Retransmission",
+        "An acknowledgement (ACK)",
+        "Redundant frames",
+        "Lost Frames"
+    ],
+    "created_at": "2026-07-07T08:05:31.273748+00:00"
+},
+{
+    "id": 56545,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The link from a satellite down to one or more ground stations or receivers is referred to as",
+    "op": [
+        "Shared link",
+        "Downlink",
+        "Dedicated link",
+        "Uplink"
+    ],
+    "created_at": "2026-07-07T10:27:16.589425+00:00"
+},
+{
+    "id": 56722,
+    "cc": "CS431",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Multiple access techniques are used to allow a large number of users to share the allocated ___________ in the most efficient manner.",
+    "op": [
+        "Memory",
+        "Address space",
+        "Disk Space",
+        "Spectrum"
+    ],
+    "created_at": "2026-07-07T12:57:04.632781+00:00"
+}
+]

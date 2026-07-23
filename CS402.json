@@ -1,0 +1,1878 @@
+[
+{
+    "id": 23514,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Closure of an FA is the same as ___________ of an FA with itself except that the initial state of the required FA is a final state as well.",
+    "op": [
+        "Concatenation",
+        "Union",
+        "Intersection",
+        "Sum"
+    ],
+    "created_at": "2026-06-28T19:08:18.841577+00:00"
+},
+{
+    "id": 23531,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Moore machine the output depends on",
+    "op": [
+        "Nothing",
+        "Present state and present input",
+        "Only present state",
+        "Type of input"
+    ],
+    "created_at": "2026-06-28T19:08:35.363392+00:00"
+},
+{
+    "id": 23542,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Subtraction of binary numbers is possible through:",
+    "op": [
+        "Incrementing machine",
+        "Both complementing and incrementing machine",
+        "Complementing machine",
+        "Converting machine"
+    ],
+    "created_at": "2026-06-28T19:08:54.9047+00:00"
+},
+{
+    "id": 23555,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Mealy machine the output depends on __________________",
+    "op": [
+        "Only present state",
+        "Present state and Present input",
+        "Type of input",
+        "Nothing"
+    ],
+    "created_at": "2026-06-28T19:09:12.163863+00:00"
+},
+{
+    "id": 23567,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While developing NFA for the union of FA1 and FA2, if there is a loop of ‘a’ at the initial state of FA1 then the new initial state will have a transition for ‘a’ that goes straight to:",
+    "op": [
+        "the initial state of FA1*FA1",
+        "the final state of FA1",
+        "the initial state of FA2",
+        "the initial state of FA1"
+    ],
+    "created_at": "2026-06-28T19:09:32.216032+00:00"
+},
+{
+    "id": 23600,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Moore machine can have -------- final states.",
+    "op": [
+        "One",
+        "More than one but infinite",
+        "Zero",
+        "More than one but finite"
+    ],
+    "created_at": "2026-06-28T19:10:04.036952+00:00"
+},
+{
+    "id": 23617,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In NFA having multiple transitions at certain state, FA can be built by introducing:",
+    "op": [
+        "Final state",
+        "Combination of states",
+        "Initial state",
+        "Empty state"
+    ],
+    "created_at": "2026-06-28T19:10:16.605452+00:00"
+},
+{
+    "id": 23628,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Strings x,y,z belongs to Σ * such that both xz or yz ∈ L where L ⊆ Σ* are:",
+    "op": [
+        "Indistinguishable",
+        "Both distinguishable and indistinguishable",
+        "Distinguishable",
+        "Undetermined"
+    ],
+    "created_at": "2026-06-28T19:10:24.469114+00:00"
+},
+{
+    "id": 23641,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let L be the language of all strings, defined over Σ = {0,1}, ending in 10. Which of the following strings are indistinguishable with respect to L with z being 0?",
+    "op": [
+        "010, 101",
+        "100, 101",
+        "111, 101",
+        "110, 101"
+    ],
+    "created_at": "2026-06-28T19:10:37.076974+00:00"
+},
+{
+    "id": 23783,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For a given Moore Machine, the input string is '101010', thus the output string would be of length:",
+    "op": [
+        "Length of input string - 2",
+        "Length of input string - 1",
+        "Length of input string + 1",
+        "Length of input string + 2"
+    ],
+    "created_at": "2026-06-28T19:15:18.591435+00:00"
+},
+{
+    "id": 23790,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following represent the absence and presence of current in sequential circuit respectively?",
+    "op": [
+        "1, 1",
+        "1, 0",
+        "0, 1",
+        "0, 0"
+    ],
+    "created_at": "2026-06-28T19:15:37.404407+00:00"
+},
+{
+    "id": 23798,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let FA1 has x number of states and FA2 has y number of states. Now FA1+FA2 can have maximum _______________ number of states.",
+    "op": [
+        "x/y",
+        "None of the given options",
+        "x+y",
+        "x-y"
+    ],
+    "created_at": "2026-06-28T19:15:51.164602+00:00"
+},
+{
+    "id": 23811,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The values of input (say a & b) do not remain same in one cycle due to",
+    "op": [
+        "OR gate",
+        "Clock pulse",
+        "NAND gate",
+        "NOT gate"
+    ],
+    "created_at": "2026-06-28T19:16:14.895586+00:00"
+},
+{
+    "id": 23826,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If FA1 corresponds to (a+b)* then FA1 must accept ___________ string/strings.",
+    "op": [
+        "Every",
+        "Even length",
+        "Odd length",
+        "No"
+    ],
+    "created_at": "2026-06-28T19:16:37.427608+00:00"
+},
+{
+    "id": 23833,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "There may be more than one transition for a certain letter on a state in:",
+    "op": [
+        "Transition Table",
+        "Moore Machine",
+        "Non-Deterministic Finite Automata",
+        "Finite Automata"
+    ],
+    "created_at": "2026-06-28T19:16:49.488701+00:00"
+},
+{
+    "id": 23841,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "All possible combinations of strings of a language including null string is referred as:",
+    "op": [
+        "Addition of a language with itself",
+        "Subtraction of a language with itself",
+        "Concatenation of a language with itself",
+        "Kleene star closure of a language"
+    ],
+    "created_at": "2026-06-28T19:17:00.724679+00:00"
+},
+{
+    "id": 23848,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Keeping in view the discussion by Martin, how many states are required to recognize the language of all strings of length 2 or more defined over ∑= {a,b}, with ‘b’ being the second letter from right?",
+    "op": [
+        "9",
+        "8",
+        "6",
+        "7"
+    ],
+    "created_at": "2026-06-28T19:17:11.122992+00:00"
+},
+{
+    "id": 23857,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A loop at a state is supposed to be ---------- transition while converting Moore machine into an equivalent Melay machine.",
+    "op": [
+        "Incoming",
+        "Complex",
+        "Outgoing",
+        "Both incoming and outgoing"
+    ],
+    "created_at": "2026-06-28T19:17:21.001616+00:00"
+},
+{
+    "id": 23917,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The language L defined over Σ, not belonging to L, is called _______ of the language L.",
+    "op": [
+        "closure",
+        "intersection",
+        "union",
+        "complement"
+    ],
+    "created_at": "2026-06-28T19:18:49.10603+00:00"
+},
+{
+    "id": 23968,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the context of make NFA for the concatenation of FA1 and FA2 (FA2 accepting null string), which of the following option is correct?",
+    "op": [
+        "FA2 having final state only",
+        "FA2 having initial state only",
+        "Initial states in both FAs",
+        "Final states in both FAs"
+    ],
+    "created_at": "2026-06-28T19:20:04.480629+00:00"
+},
+{
+    "id": 23978,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Considering FA1 and FA2 having 2 states each. Now FA1+FA2 can have maximum ______________ number of states.",
+    "op": [
+        "more than 3",
+        "None of the given options",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:20:25.639425+00:00"
+},
+{
+    "id": 23988,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Moore machine, output is produced over the change of:",
+    "op": [
+        "Transitions",
+        "States",
+        "Transitions and states",
+        "None of the mentioned"
+    ],
+    "created_at": "2026-06-28T19:20:44.3118+00:00"
+},
+{
+    "id": 24014,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the context of make NFA for the concatenation of FA1 and FA2 (FA1 accepting null string), which of the following option is correct?",
+    "op": [
+        "FA2 having final state only",
+        "Final states in both FAs",
+        "Initial states in both FAs",
+        "FA2 having initial state only"
+    ],
+    "created_at": "2026-06-28T19:21:36.713953+00:00"
+},
+{
+    "id": 24055,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let FA3 be an FA corresponding to FA1FA2, then the initial state of FA3 must correspond to the initial state of",
+    "op": [
+        "FA1 or FA2",
+        "FA1 and FA2",
+        "FA2 only",
+        "FA1 only"
+    ],
+    "created_at": "2026-06-28T19:22:34.041675+00:00"
+},
+{
+    "id": 24058,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Two machines are said to be equivalent if they print the _____ output string when the _____input string is run on them.",
+    "op": [
+        "unique, different",
+        "different, same",
+        "same, same",
+        "same, different"
+    ],
+    "created_at": "2026-06-28T19:22:41.005832+00:00"
+},
+{
+    "id": 24066,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If L1 and L2 are regular languages then which statement is NOT true?",
+    "op": [
+        "L1/L2 is always regular",
+        "L1 + L2 is always regular",
+        "L1 L2 is always regular",
+        "L1* is always regular"
+    ],
+    "created_at": "2026-06-28T19:22:48.314773+00:00"
+},
+{
+    "id": 24091,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In which of the following machine, the length of output string is the same to that of input string?",
+    "op": [
+        "Finite automaton with output",
+        "Moore machine",
+        "Non-deterministic finite automaton",
+        "Mealy machine"
+    ],
+    "created_at": "2026-06-28T19:23:54.240483+00:00"
+},
+{
+    "id": 24097,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The language {a, ab, aba, bab} is __________ .",
+    "op": [
+        "infinite",
+        "recursive",
+        "irregular",
+        "regular"
+    ],
+    "created_at": "2026-06-28T19:24:03.290228+00:00"
+},
+{
+    "id": 24100,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following machine is represented as a pictorial representation with states and directed edges labeled by an input letter along with an output character?",
+    "op": [
+        "Mealy machine",
+        "Finite state machine",
+        "Moore machine",
+        "Deterministic finite state machine"
+    ],
+    "created_at": "2026-06-28T19:24:10.077931+00:00"
+},
+{
+    "id": 24637,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following machine has only one initial state and no final state?",
+    "op": [
+        "Non deterministic finite state machine",
+        "Moore machine",
+        "Deterministic finite state machine",
+        "Finite state machine"
+    ],
+    "created_at": "2026-06-28T19:57:21.312071+00:00"
+},
+{
+    "id": 24639,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The minimum length of the strings(except null string) of a language that starts and ends in different letters will be:",
+    "op": [
+        "4",
+        "2",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-06-28T19:57:32.136024+00:00"
+},
+{
+    "id": 24640,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In NFA having no transition at certain state, FA can be built by introducing:",
+    "op": [
+        "Final state",
+        "Combination of states",
+        "Initial state",
+        "Empty state"
+    ],
+    "created_at": "2026-06-28T19:57:38.929017+00:00"
+},
+{
+    "id": 24641,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The minimum length of the strings(except null string) of a language that starts and ends in the same letters will be:",
+    "op": [
+        "2",
+        "1",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:57:41.52092+00:00"
+},
+{
+    "id": 24642,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "There ______ a language for which only FA can be built but not the RE.",
+    "op": [
+        "cannot be",
+        "may be",
+        "is",
+        "can be"
+    ],
+    "created_at": "2026-06-28T19:57:54.256348+00:00"
+},
+{
+    "id": 24643,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we have only one state, having no transition for input letters, then it is an example of:",
+    "op": [
+        "FA",
+        "RE",
+        "TG",
+        "NFA"
+    ],
+    "created_at": "2026-06-28T19:58:01.344177+00:00"
+},
+{
+    "id": 24645,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The complement of a regular language is also __________.",
+    "op": [
+        "regular",
+        "irregular",
+        "irregular but infinite",
+        "irregular but finite"
+    ],
+    "created_at": "2026-06-28T19:58:17.409147+00:00"
+},
+{
+    "id": 24646,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "NFA corresponding to union of FAs is built by introducing a new start state and connect it to the states originally connected to the old start state with the --------- transitions as the old start state:",
+    "op": [
+        "Different",
+        "Union of",
+        "Concatenated",
+        "Same"
+    ],
+    "created_at": "2026-06-28T19:58:19.248067+00:00"
+},
+{
+    "id": 24651,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Keeping in view the discussion by Martin, how many states are required to recognize the language of all strings of length 3 or more defined over ∑= {a,b}, with ‘a’ being the third letter from right?",
+    "op": [
+        "16",
+        "15",
+        "14",
+        "13"
+    ],
+    "created_at": "2026-06-28T19:58:57.529251+00:00"
+},
+{
+    "id": 24667,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we have input 110010111 and the machine generates the 001101000 as an output, then that machine will be called?",
+    "op": [
+        "Mealy machine",
+        "Moore machine",
+        "Complementing machine",
+        "Incrementing machine"
+    ],
+    "created_at": "2026-06-28T20:00:49.010976+00:00"
+},
+{
+    "id": 24683,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let L be the language of all strings, defined over Σ = {0,1}, ending in 10. Which of the following strings are distinguishable with respect to L with z being 0?",
+    "op": [
+        "111, 101",
+        "001, 101",
+        "010, 101",
+        "111, 111"
+    ],
+    "created_at": "2026-06-28T20:02:54.259273+00:00"
+},
+{
+    "id": 24713,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statements is true about NFA with Null String?",
+    "op": [
+        "Infinite set of transitions",
+        "Infinite states",
+        "Infinite set of letters",
+        "Transition of null string is allowed at any stage"
+    ],
+    "created_at": "2026-06-28T20:05:31.144553+00:00"
+},
+{
+    "id": 24726,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "What will be the 9’s complement of the number 872?",
+    "op": [
+        "127",
+        "271",
+        "172",
+        "721"
+    ],
+    "created_at": "2026-06-28T20:08:47.856376+00:00"
+},
+{
+    "id": 24727,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "FA corresponding to an NFA can be built by introducing an empty state for a letter having",
+    "op": [
+        "two transitions at certain state",
+        "no transition at certain state",
+        "one transition at certain state",
+        "more than two transitions at certain state"
+    ],
+    "created_at": "2026-06-28T20:08:59.193204+00:00"
+},
+{
+    "id": 24733,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Moore Machine is an application of:",
+    "op": [
+        "None of the mentioned",
+        "Finite automata without input",
+        "Finite automata with output",
+        "Non- Finite automata with output"
+    ],
+    "created_at": "2026-06-28T20:09:42.000742+00:00"
+},
+{
+    "id": 24735,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In which of the following machine, the length of output string is 1 more than that of input string?",
+    "op": [
+        "Non-deterministic finite automaton",
+        "Mealy machine",
+        "Finite automaton with output",
+        "Moore machine"
+    ],
+    "created_at": "2026-06-28T20:09:55.181273+00:00"
+},
+{
+    "id": 24739,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The length of output string in case of _________ is one more than the length of corresponding input string.",
+    "op": [
+        "Incremental machine",
+        "Adding Machine",
+        "Mealy machine",
+        "Moore machine"
+    ],
+    "created_at": "2026-06-28T20:10:12.822677+00:00"
+},
+{
+    "id": 24743,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Moore machine, if the length of input string is 9, then the length of output string will be:",
+    "op": [
+        "8",
+        "9",
+        "7",
+        "10"
+    ],
+    "created_at": "2026-06-28T20:10:23.97332+00:00"
+},
+{
+    "id": 24745,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let L be the language of all strings, defined over Σ = {0,1}, ending in 111. Which of the following strings are distinguishable with respect to L with z being 11?",
+    "op": [
+        "010, 101",
+        "111, 101",
+        "001, 101",
+        "111, 111"
+    ],
+    "created_at": "2026-06-28T20:10:33.197567+00:00"
+},
+{
+    "id": 24963,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "NFA with null string has ---------- initial state(s).",
+    "op": [
+        "Many",
+        "One",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-06-28T20:48:57.357388+00:00"
+},
+{
+    "id": 24966,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In _______ there must be transitions for all the alphabets over which a language is defined.",
+    "op": [
+        "FA",
+        "TG",
+        "GTG",
+        "NFA"
+    ],
+    "created_at": "2026-06-28T20:49:14.026994+00:00"
+},
+{
+    "id": 24967,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While developing NFA for the union of FA1 and FA2, there will be _____________ transition/transitions for both ‘a’ and ‘b’ on the new initial state.",
+    "op": [
+        "Multiple",
+        "Only one",
+        "Single",
+        "Only three"
+    ],
+    "created_at": "2026-06-28T20:49:24.730123+00:00"
+},
+{
+    "id": 24968,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following doesn't accept any language?",
+    "op": [
+        "Deterministic finite state machine",
+        "Finite state machine",
+        "Moore machine",
+        "Regular expression"
+    ],
+    "created_at": "2026-06-28T20:49:53.077562+00:00"
+},
+{
+    "id": 24969,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "We cannot construct an NFA for the language of ______ defined over alphabet set {a,b}.",
+    "op": [
+        "Even even",
+        "Integers",
+        "Palindromes",
+        "odd"
+    ],
+    "created_at": "2026-06-28T20:50:16.505702+00:00"
+},
+{
+    "id": 24999,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Given the language L = {ab, aa, baa}, which of the following strings are in L*?\n1) abaabaaabaa\n2) aaaabaaaa\n3) baaaaabaaaab\n4) baaaaabaa",
+    "op": [
+        "2, 3 and 4",
+        "1, 3 and 4",
+        "1, 2 and 3",
+        "1, 2 and 4"
+    ],
+    "created_at": "2026-06-28T21:00:36.238143+00:00"
+},
+{
+    "id": 25004,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the context of make NFA for the concatenation of FA1 and FA2 (Both FAs accepting null string), which of the following option is correct?",
+    "op": [
+        "FA2 having final state only",
+        "Final states in both FAs",
+        "Initial states in both FAs",
+        "FA2 having initial state only"
+    ],
+    "created_at": "2026-06-28T21:01:26.598839+00:00"
+},
+{
+    "id": 25012,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following form correctly expressed the regular expression RR*?",
+    "op": [
+        "R-",
+        "R+R-",
+        "R*",
+        "R+"
+    ],
+    "created_at": "2026-06-28T21:02:41.454399+00:00"
+},
+{
+    "id": 25089,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Mealy machine is equivalent to Moore machine, if we:",
+    "op": [
+        "Ignore the extra input character inserted by the Mealy machine",
+        "Ignore the extra character printed by the Moore machine",
+        "Ignore the extra input character inserted by the Moore machine",
+        "Ignore the extra character printed by the Mealy machine"
+    ],
+    "created_at": "2026-06-28T21:25:25.022087+00:00"
+},
+{
+    "id": 25094,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If two finite state machines are equivalent, they should have the same number of ____________________",
+    "op": [
+        "none of these",
+        "states",
+        "states and edges",
+        "edges"
+    ],
+    "created_at": "2026-06-28T21:25:44.274971+00:00"
+},
+{
+    "id": 25099,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "---------- state is not important in Melay machine.",
+    "op": [
+        "Empty",
+        "Initial",
+        "Combination of",
+        "Final"
+    ],
+    "created_at": "2026-06-28T21:27:13.190935+00:00"
+},
+{
+    "id": 25105,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "How many new states are introduced while developing NFA for the closure of an FA?",
+    "op": [
+        "three",
+        "four",
+        "two",
+        "one"
+    ],
+    "created_at": "2026-06-28T21:32:17.492095+00:00"
+},
+{
+    "id": 25106,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "An ___________ can be considered to be an intermediate structure between Finite automaton and Transition Graph.",
+    "op": [
+        "None of the given options",
+        "GTG",
+        "NFA",
+        "RE"
+    ],
+    "created_at": "2026-06-28T21:32:23.947105+00:00"
+},
+{
+    "id": 25107,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "We have FA accepting the language L, now if we are going to find the complement of L, then we should:",
+    "op": [
+        "Change FA final states into non final states",
+        "Only change FA old final states into non final states",
+        "Change FA non final states into final states",
+        "Change FA non final states into final and final states into non final states"
+    ],
+    "created_at": "2026-06-28T21:32:45.255601+00:00"
+},
+{
+    "id": 25205,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Melay machine to increase the output string in magnitude by 1 is called:",
+    "op": [
+        "Decrementing machine",
+        "Incrementing machine",
+        "Converting machine",
+        "Complementing machine"
+    ],
+    "created_at": "2026-06-28T21:55:50.450377+00:00"
+},
+{
+    "id": 25206,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Melay machine can have -------- final states.",
+    "op": [
+        "One",
+        "More than one but infinite",
+        "More than one but finite",
+        "Zero"
+    ],
+    "created_at": "2026-06-28T21:56:31.511772+00:00"
+},
+{
+    "id": 25209,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "---------- state is not important in Moore machine.",
+    "op": [
+        "Final",
+        "Combination of",
+        "Empty",
+        "Initial"
+    ],
+    "created_at": "2026-06-28T21:57:40.744836+00:00"
+},
+{
+    "id": 25261,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The strings or words which do not belong to a language are called ________ of that language.",
+    "op": [
+        "Intersection",
+        "Union",
+        "Quotient",
+        "Complement"
+    ],
+    "created_at": "2026-06-28T22:03:20.439501+00:00"
+},
+{
+    "id": 25264,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let L be the language of all strings, defined over Σ = {0,1}, ending in 111. Which of the following strings are indistinguishable with respect to L with z being 11?",
+    "op": [
+        "100, 101",
+        "010, 101",
+        "110, 101",
+        "111, 101"
+    ],
+    "created_at": "2026-06-28T22:04:02.973055+00:00"
+},
+{
+    "id": 25267,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In concatenation, we include the initial state of FA2 automatically after the final state of FA1 because of:",
+    "op": [
+        "We need just one initial state",
+        "The strings of FA2 are accepted first before the strings of FA1",
+        "Some part of the string may be accepted by FA2",
+        "We need just two initial states"
+    ],
+    "created_at": "2026-06-28T22:04:20.814506+00:00"
+},
+{
+    "id": 25279,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we subtract a binary number 1010 from the binary number 1101(ignore the overflow), then the result will be:",
+    "op": [
+        "1100",
+        "1010",
+        "0010",
+        "0011"
+    ],
+    "created_at": "2026-06-28T22:18:33.867291+00:00"
+},
+{
+    "id": 25284,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let FA1 accepts many strings and FA2 accepts no string, then FA1+FA2 will be equal to:",
+    "op": [
+        "FA2",
+        "FA2-FA1",
+        "FA1",
+        "(FA2)*"
+    ],
+    "created_at": "2026-06-28T22:29:02.361966+00:00"
+},
+{
+    "id": 25288,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we have an NFA having 3 states, and we convert that NFA to an FA. The resultant FA will contains _______ states.",
+    "op": [
+        "5",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-06-28T22:41:00.903454+00:00"
+},
+{
+    "id": 25291,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A string will be accepted by an NFA if there exists _______ one successful path.",
+    "op": [
+        "atmost",
+        "maximum",
+        "none of the given options",
+        "atleast"
+    ],
+    "created_at": "2026-06-28T22:43:42.65204+00:00"
+},
+{
+    "id": 25405,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Let FA3 be an FA corresponding to FA1FA2, then the final state of FA3 must correspond to the final state of",
+    "op": [
+        "FA1 only",
+        "FA1 or FA2",
+        "FA1 and FA2",
+        "FA2 only"
+    ],
+    "created_at": "2026-06-29T00:19:39.991667+00:00"
+},
+{
+    "id": 25406,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "------------ can also help in proving Kleene Theorem III.",
+    "op": [
+        "NFA",
+        "Moore machine",
+        "PDA",
+        "Melay machine"
+    ],
+    "created_at": "2026-06-29T00:21:22.338764+00:00"
+},
+{
+    "id": 25461,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Strings x,y,z belongs to Σ * such that xz ∈ L but yz ∉ L where L ⊆ Σ* are:",
+    "op": [
+        "Both distinguishable and indistinguishable",
+        "Indistinguishable",
+        "Undetermined",
+        "Distinguishable"
+    ],
+    "created_at": "2026-06-29T00:49:00.552057+00:00"
+},
+{
+    "id": 25462,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A _______ with \"n\" states must accept at least one string of length greater than \"n\".",
+    "op": [
+        "DFA",
+        "Irrelevant language",
+        "Irregular language",
+        "RE"
+    ],
+    "created_at": "2026-06-29T00:49:48.477531+00:00"
+},
+{
+    "id": 25556,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the context of make NFA for the concatenation of FA1 and FA2 (none accepting null string), which of the following option is correct?",
+    "op": [
+        "No final and initial states in FA1 and FA2 respectively",
+        "No initial and final states in FA1 and FA2 respectively",
+        "No final state in FA2 only",
+        "No initial state in FA1 only"
+    ],
+    "created_at": "2026-06-29T01:54:26.316746+00:00"
+},
+{
+    "id": 25558,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In NFA,if null word (lambda) is allowed to be a label of an edge, then that NFA is called   _________.",
+    "op": [
+        "NFA with one string",
+        "NFA without null string",
+        "NFA with null string",
+        "NFA with two strings"
+    ],
+    "created_at": "2026-06-29T01:54:56.393633+00:00"
+},
+{
+    "id": 25883,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Every NFA can be considered to be a -------- as well, but the converse may not be true.",
+    "op": [
+        "GTG",
+        "FA",
+        "PDA",
+        "TG"
+    ],
+    "created_at": "2026-06-29T03:20:48.016164+00:00"
+},
+{
+    "id": 25891,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Every _______ can be considered to be ______ as well, but the converse may not be true.",
+    "op": [
+        "NFA,FA",
+        "FA,NFA",
+        "None of the given options",
+        "TG,FA"
+    ],
+    "created_at": "2026-06-29T03:23:26.08599+00:00"
+},
+{
+    "id": 25902,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In order to make NFA for the union of FA1 and FA2, the new initial state should be linked to:",
+    "op": [
+        "initial and final states of FA1 and FA2 respectively",
+        "final and initial states of FA1 and FA2 respectively",
+        "initial states of both FAs",
+        "initial state of FA1 only"
+    ],
+    "created_at": "2026-06-29T03:24:34.892907+00:00"
+},
+{
+    "id": 25951,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "FA corresponding to an NFA can be built by introducing a state corresponding to the combination of states, for a letter having",
+    "op": [
+        "more than one transitions at certain state",
+        "one transition at certain state",
+        "none of the given options",
+        "no transition at certain state"
+    ],
+    "created_at": "2026-06-29T03:41:22.596082+00:00"
+},
+{
+    "id": 25955,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "FA and _______ are same except that _______ has unique symbol for each transition.",
+    "op": [
+        "GTG,NFA",
+        "NFA,FA",
+        "NFA,TG",
+        "FA,TG"
+    ],
+    "created_at": "2026-06-29T03:42:22.190923+00:00"
+},
+{
+    "id": 26165,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following state is introduced while developing NFA for the closure of an FA?",
+    "op": [
+        "An initial state which should be final as well",
+        "An initial state with loop for all letters",
+        "Simply an initial state",
+        "Final state"
+    ],
+    "created_at": "2026-06-29T04:40:36.183631+00:00"
+},
+{
+    "id": 26401,
+    "cc": "CS402",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In order to make NFA for the union of FA1 and FA2, the final state/ states of:",
+    "op": [
+        "FA2 have a transition to the final state of FA1",
+        "both FAs should be left intact",
+        "FA1 have a transition to the final state of FA2",
+        "both FAs should be linked"
+    ],
+    "created_at": "2026-06-29T05:51:18.682208+00:00"
+},
+{
+    "id": 48224,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The product of two regular languages is __________.",
+    "op": [
+        "infinite",
+        "regular",
+        "non-regular",
+        "closure of a regular language"
+    ],
+    "created_at": "2026-07-05T19:12:14.174522+00:00"
+},
+{
+    "id": 48237,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A language that can be expressed by RE, is said to be a _______ language.",
+    "op": [
+        "finite",
+        "regular",
+        "irregular",
+        "infinite"
+    ],
+    "created_at": "2026-07-05T19:12:21.630025+00:00"
+},
+{
+    "id": 48259,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is pumped to generate further strings in the definition of Pumping Lemma?",
+    "op": [
+        "n",
+        "z",
+        "x",
+        "y"
+    ],
+    "created_at": "2026-07-05T19:12:33.814136+00:00"
+},
+{
+    "id": 48300,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Finite Automaton (FA) must have __________ number of states while a language has _________ words.",
+    "op": [
+        "infinite, infinite",
+        "infinite, finite",
+        "finite, finite",
+        "finite, infinite"
+    ],
+    "created_at": "2026-07-05T19:12:59.146761+00:00"
+},
+{
+    "id": 48313,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following refers to the set of strings of letters that when concatenated to the front of some word in Q produces some word in R?",
+    "op": [
+        "Pref(R in Q)",
+        "Postf(R in Q)",
+        "Postf(Q in R)",
+        "Pref(Q in R)"
+    ],
+    "created_at": "2026-07-05T19:13:06.104889+00:00"
+},
+{
+    "id": 48333,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The CFG is said to be ambiguous if there exist at least one word of its language that can be generated by ______ production tree(s).",
+    "op": [
+        "More than one",
+        "At most one",
+        "Zero",
+        "One"
+    ],
+    "created_at": "2026-07-05T19:13:18.178106+00:00"
+},
+{
+    "id": 49508,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If R is regular language and Q is any language (regular/ non-regular), then Pref( _______in _______) is regular.",
+    "op": [
+        "R,Q",
+        "Q,R",
+        "Q,Q",
+        "R,R"
+    ],
+    "created_at": "2026-07-05T19:43:41.283638+00:00"
+},
+{
+    "id": 49516,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If a language is regular it must generate ____________ number of distinct classes.",
+    "op": [
+        "two",
+        "three",
+        "finite",
+        "infinite"
+    ],
+    "created_at": "2026-07-05T19:44:03.688214+00:00"
+},
+{
+    "id": 49528,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Set of all palindromes over {a,b} is:",
+    "op": [
+        "Regular and infinite",
+        "Regular",
+        "Non-regular",
+        "Regular and finite"
+    ],
+    "created_at": "2026-07-05T19:44:43.054849+00:00"
+},
+{
+    "id": 49532,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A problem is said to be _________ if there exists an algorithm that provides the solution in __________ number of steps.",
+    "op": [
+        "effectively solvable, infinite",
+        "effectively solvable, finite",
+        "effectively unsolvable, finite",
+        "effectively unsolvable, infinite"
+    ],
+    "created_at": "2026-07-05T19:44:52.43107+00:00"
+},
+{
+    "id": 49540,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Prime is a ______________ language.",
+    "op": [
+        "finite",
+        "regular",
+        "both context free and regular",
+        "non-regular"
+    ],
+    "created_at": "2026-07-05T19:45:02.952459+00:00"
+},
+{
+    "id": 49680,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The operators like (* , +) in the parse tree are considered as ________.",
+    "op": [
+        "productions",
+        "terminals",
+        "non-terminals",
+        "intermediates"
+    ],
+    "created_at": "2026-07-05T19:51:19.498796+00:00"
+},
+{
+    "id": 49705,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A  non regular language can be represented by",
+    "op": [
+        "None of the given options",
+        "FA",
+        "TG",
+        "RE"
+    ],
+    "created_at": "2026-07-05T19:52:27.78495+00:00"
+},
+{
+    "id": 49777,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following cannot be represented by a regular expression?",
+    "op": [
+        "String of 0’s with a prime length",
+        "Language of even-even",
+        "String of 0’s with an odd length",
+        "Language of odd-odd"
+    ],
+    "created_at": "2026-07-05T19:55:51.115358+00:00"
+},
+{
+    "id": 50013,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Even-Even language partitions ∑* into ___________ distinct classes.",
+    "op": [
+        "two",
+        "five",
+        "four",
+        "three"
+    ],
+    "created_at": "2026-07-05T20:13:14.456475+00:00"
+},
+{
+    "id": 50019,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The language of all strings not beginning with ‘b’ partitions ∑* into ___________distinct classes.",
+    "op": [
+        "four",
+        "two",
+        "five",
+        "three"
+    ],
+    "created_at": "2026-07-05T20:13:49.679182+00:00"
+},
+{
+    "id": 50030,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The production S --> SS | a | b | ^ can be expressed by Regular expression _________.",
+    "op": [
+        "(ab)*",
+        "(a+b)",
+        "(a+b)*",
+        "(a+b)+"
+    ],
+    "created_at": "2026-07-05T20:14:44.490202+00:00"
+},
+{
+    "id": 50033,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The grammatical rules which involve meaning of words are called ___________.",
+    "op": [
+        "strings",
+        "alphabets",
+        "semantics",
+        "syntactics"
+    ],
+    "created_at": "2026-07-05T20:14:59.722953+00:00"
+},
+{
+    "id": 50111,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The CFG S → aSb|ab|Λ is used to express the language _________.",
+    "op": [
+        "Palindrome",
+        "Prime",
+        "Even",
+        "Equal"
+    ],
+    "created_at": "2026-07-05T20:22:21.649043+00:00"
+},
+{
+    "id": 50116,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Incase of Myhill Nerode theorem, if a language L partitions sigma star into distinct classes and L is also regular then L generates ___________ number of classes.",
+    "op": [
+        "specified",
+        "odd",
+        "infinite",
+        "finite"
+    ],
+    "created_at": "2026-07-05T20:23:00.148263+00:00"
+},
+{
+    "id": 50126,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A problem that has decision procedure is called _________ problem.",
+    "op": [
+        "Regular language",
+        "un-decidable",
+        "Infinite",
+        "decidable"
+    ],
+    "created_at": "2026-07-05T20:23:53.504689+00:00"
+},
+{
+    "id": 50228,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a true theorem?",
+    "op": [
+        "Equivalency theorem",
+        "Pseudo theorem",
+        "Myhill Nerode theorem",
+        "Decidability theorem"
+    ],
+    "created_at": "2026-07-05T20:37:02.16315+00:00"
+},
+{
+    "id": 50257,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In polish notation, (o-o-o) is the abbreviation of _________.",
+    "op": [
+        "Operand - Operator – Operand",
+        "Operator - Operand – Operand",
+        "Operand - Operand – Operand",
+        "Operand - Operand - Operator"
+    ],
+    "created_at": "2026-07-05T20:38:53.444318+00:00"
+},
+{
+    "id": 50261,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The language “PRIME” is an example of ________ language.",
+    "op": [
+        "non regular",
+        "non regular but finite",
+        "regular but finite",
+        "regular"
+    ],
+    "created_at": "2026-07-05T20:39:12.681115+00:00"
+},
+{
+    "id": 50270,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following languages is a non regular language?",
+    "op": [
+        "Start and end with same letter",
+        "Palindrome",
+        "Even-even",
+        "Containing double a"
+    ],
+    "created_at": "2026-07-05T20:39:32.526046+00:00"
+},
+{
+    "id": 50273,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The basic approach of Myhill Nerode theorem is similar to the concept of:",
+    "op": [
+        "closure of FAs",
+        "distinguishable and indistinguishable strings",
+        "union of FAs",
+        "concatenation of FAs"
+    ],
+    "created_at": "2026-07-05T20:39:44.051715+00:00"
+},
+{
+    "id": 50282,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If the intersection of two regular languages is regular then the complement of the intersection of these two languages is __________.",
+    "op": [
+        "regular",
+        "irregular but infinite",
+        "irregular but finite",
+        "irregular"
+    ],
+    "created_at": "2026-07-05T20:40:11.569501+00:00"
+},
+{
+    "id": 50289,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If an FA accepts a word then there must exist a path from __________.",
+    "op": [
+        "Initial to final state",
+        "Initial to each state",
+        "Initial to each state but not to final state",
+        "Initial to final state by traversing each state"
+    ],
+    "created_at": "2026-07-05T20:40:58.992994+00:00"
+},
+{
+    "id": 50293,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If there is no final state of two FAs then their ______ also have no _____ state",
+    "op": [
+        "final, union",
+        "initial, union",
+        "union, initial",
+        "union,final"
+    ],
+    "created_at": "2026-07-05T20:41:16.87153+00:00"
+},
+{
+    "id": 50295,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In CFG, symbols that cannot be replaced by anything are called __________.",
+    "op": [
+        "terminals",
+        "productions",
+        "null productions",
+        "non-terminals"
+    ],
+    "created_at": "2026-07-05T20:41:30.204437+00:00"
+},
+{
+    "id": 50379,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "To examine whether a certain FA accepts any words, it is required to seek the paths _______ state.",
+    "op": [
+        "from initial to initial back",
+        "from initial to final",
+        "from final to back final",
+        "from final to initial"
+    ],
+    "created_at": "2026-07-05T20:52:24.515001+00:00"
+},
+{
+    "id": 50390,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If a language generates finite number of distinct classes then it must be _____________.",
+    "op": [
+        "context free",
+        "regular",
+        "non-regular",
+        "both regular and context free"
+    ],
+    "created_at": "2026-07-05T20:53:58.482501+00:00"
+},
+{
+    "id": 50418,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If an FA has N states then it must accept the word of length",
+    "op": [
+        "N",
+        "N-1",
+        "2N",
+        "N+1"
+    ],
+    "created_at": "2026-07-05T21:03:26.112938+00:00"
+},
+{
+    "id": 50495,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In large FA with thousands of states and millions of directed edges, without an effective procedure it is ________ to find a path from initial to final state.",
+    "op": [
+        "Always easy",
+        "may be good",
+        "always impossible",
+        "Impossible"
+    ],
+    "created_at": "2026-07-05T21:17:53.245153+00:00"
+},
+{
+    "id": 50497,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In a CFG, the non-terminals are denoted by _________.",
+    "op": [
+        "Small letters",
+        "Small letters and numbers",
+        "Numbers",
+        "Capital letters"
+    ],
+    "created_at": "2026-07-05T21:18:09.96546+00:00"
+},
+{
+    "id": 50498,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "For a machine with N number of states, the total number of strings to be tested, defined over an alphabet of m letters, is _____________.",
+    "op": [
+        "mN",
+        "Nm +Nm+1+ N m+2 +… + N2m-1",
+        "mN +mN+1+ mN+2 +… +m2N-1",
+        "Nm"
+    ],
+    "created_at": "2026-07-05T21:18:48.236519+00:00"
+},
+{
+    "id": 50532,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A language ending with ‘b’ partitions ∑* into ___________distinct classes.",
+    "op": [
+        "four",
+        "three",
+        "two",
+        "five"
+    ],
+    "created_at": "2026-07-05T21:28:30.786852+00:00"
+},
+{
+    "id": 50535,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "For a non-regular language, there exists ___________ FA.",
+    "op": [
+        "at least one",
+        "at most one",
+        "no",
+        "one"
+    ],
+    "created_at": "2026-07-05T21:29:21.16592+00:00"
+},
+{
+    "id": 50542,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Using Myhill Nerode theorem we partition sigma star into distinct __________.",
+    "op": [
+        "instances",
+        "objects",
+        "classes",
+        "templates"
+    ],
+    "created_at": "2026-07-05T21:31:18.622209+00:00"
+},
+{
+    "id": 50545,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If an effectively solvable problem has answer in YES or NO, then the solution is called _________.",
+    "op": [
+        "decision procedure",
+        "optimal procedure",
+        "infinite problem",
+        "finite solution"
+    ],
+    "created_at": "2026-07-05T21:31:46.340833+00:00"
+},
+{
+    "id": 50546,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should not be NULL in the context of Pumping Lemma?",
+    "op": [
+        "y",
+        "z",
+        "x",
+        "n"
+    ],
+    "created_at": "2026-07-05T21:32:08.117148+00:00"
+},
+{
+    "id": 50665,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If L1 and L2 are two regular languages, then they _______ expressed by FAs.",
+    "op": [
+        "can be",
+        "May be",
+        "cannot be",
+        "may or may not be"
+    ],
+    "created_at": "2026-07-05T22:15:49.006075+00:00"
+},
+{
+    "id": 50737,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a non-regular language?",
+    "op": [
+        "Even-Even",
+        "Odd-Odd",
+        "Language of strings ending in abba",
+        "Prime"
+    ],
+    "created_at": "2026-07-05T22:35:08.867455+00:00"
+},
+{
+    "id": 50738,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "One language can have ______ CFG(s).",
+    "op": [
+        "At least one",
+        "More than one",
+        "Only one",
+        "At most one"
+    ],
+    "created_at": "2026-07-05T22:36:36.929547+00:00"
+},
+{
+    "id": 50887,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "There is at least one production in CFG that has one _________ on its left side.",
+    "op": [
+        "Terminal",
+        "Unit production",
+        "Null production",
+        "Non terminal"
+    ],
+    "created_at": "2026-07-05T23:29:32.292036+00:00"
+},
+{
+    "id": 51282,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "To write the expression from the tree, it is required to traverse from ___________.",
+    "op": [
+        "Right side of the tree",
+        "Left side of the tree",
+        "Bottom to top of the tree",
+        "Top to bottom of the tree"
+    ],
+    "created_at": "2026-07-06T01:03:11.713263+00:00"
+},
+{
+    "id": 51725,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In pumping lemma theorem (x y^n z) the range of n is",
+    "op": [
+        "n=…….-3,-2,-1, 0, 1, 2, 3, 4……",
+        "n=1, 2, 3, 4……….",
+        "n=0, 1, 2, 3, 4……….",
+        "n=…….-3,-2,-1, 1, 2, 3, 4……"
+    ],
+    "created_at": "2026-07-06T02:18:39.91959+00:00"
+},
+{
+    "id": 51761,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The language of all strings partition ∑* into ___________ class(es).",
+    "op": [
+        "one",
+        "three",
+        "two",
+        "four"
+    ],
+    "created_at": "2026-07-06T02:24:38.793092+00:00"
+},
+{
+    "id": 52115,
+    "cc": "CS402",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In pref(Q in R), Q is _______ to/than R.",
+    "op": [
+        "Not equal",
+        "Equal",
+        "Greater",
+        "Smaller"
+    ],
+    "created_at": "2026-07-06T03:28:09.46715+00:00"
+}
+]

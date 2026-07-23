@@ -1,0 +1,366 @@
+[
+    {
+        "id": 23462,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "__________________ can be defined as an agreement or contract between two companies where the owner of one company let the other company use its property under pre-decided specific parameters.",
+        "op": [
+            "Negligence",
+            "Licensing",
+            "Standards",
+            "Certification"
+        ],
+        "created_at": "2026-06-28T19:07:23.278643+00:00"
+    },
+    {
+        "id": 23477,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The know-how which goes into the development of the product may be protected as which intellectual property?",
+        "op": [
+            "Confidential Information",
+            "Trademark",
+            "Patent",
+            "Copyright"
+        ],
+        "created_at": "2026-06-28T19:07:43.784262+00:00"
+    },
+    {
+        "id": 23494,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "GATT stands for",
+        "op": [
+            "General Agreement on Trade and Tariffic",
+            "General Agreement on Tariffic and Trade",
+            "General Agreement on Tariffs and Trade",
+            "General Agreement on Trade and Tariffs"
+        ],
+        "created_at": "2026-06-28T19:08:01.329884+00:00"
+    },
+    {
+        "id": 23506,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Software can be protected by:",
+        "op": [
+            "Design Registry",
+            "Patent",
+            "Copyright",
+            "Trademark"
+        ],
+        "created_at": "2026-06-28T19:08:10.220808+00:00"
+    },
+    {
+        "id": 23533,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "GATT concerned the intellectual property rights of which product’s piracy?",
+        "op": [
+            "Intellectual Products",
+            "Hardware Products",
+            "Commercial Products",
+            "Software Products"
+        ],
+        "created_at": "2026-06-28T19:08:39.942603+00:00"
+    },
+    {
+        "id": 23725,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Intellectual property rights are often the most valuable ______ owned.",
+        "op": [
+            "Equity",
+            "Capital",
+            "Assets",
+            "Liabilities"
+        ],
+        "created_at": "2026-06-28T19:13:20.741667+00:00"
+    },
+    {
+        "id": 23729,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If the contracts are too harsh or unfair causing any issue between parties to be unresolved, it is the responsibility of ________ to contemplate according to the rules.",
+        "op": [
+            "Manager",
+            "Consultancy hire",
+            "Contract laws",
+            "Contract hire"
+        ],
+        "created_at": "2026-06-28T19:13:39.893678+00:00"
+    },
+    {
+        "id": 23749,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Consultancy projects are usually undertaken for a fixed price but the form of contract is very much _________.",
+        "op": [
+            "Ambiguous",
+            "Difficult",
+            "Simpler",
+            "Complex"
+        ],
+        "created_at": "2026-06-28T19:14:14.502284+00:00"
+    },
+    {
+        "id": 23888,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "After acceptance of the product the warranty period is of how many days?",
+        "op": [
+            "30",
+            "60",
+            "120",
+            "90"
+        ],
+        "created_at": "2026-06-28T19:18:05.650816+00:00"
+    },
+    {
+        "id": 23894,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "One of the main concern associated with a product in mission critical applications is ______________.",
+        "op": [
+            "Safety and Reliability",
+            "Launch time",
+            "Scalibilty",
+            "End users"
+        ],
+        "created_at": "2026-06-28T19:18:13.923107+00:00"
+    },
+    {
+        "id": 23932,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Product liability and the Consumer Protection Act ensures that ________________________________________.",
+        "op": [
+            "the product meets some standard",
+            "the manufacturer is liable for damage in product",
+            "the product is licensed",
+            "the product is well designed"
+        ],
+        "created_at": "2026-06-28T19:19:08.652164+00:00"
+    },
+    {
+        "id": 23936,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The term negligence in software liability refers to ________________.",
+        "op": [
+            "Ignore users",
+            "Lack of care",
+            "Licensing",
+            "System safety"
+        ],
+        "created_at": "2026-06-28T19:19:15.394467+00:00"
+    },
+    {
+        "id": 23942,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The look of the product may be registered by which intellectual property?",
+        "op": [
+            "Patent",
+            "Trademark",
+            "Copyright",
+            "Design Registry"
+        ],
+        "created_at": "2026-06-28T19:19:26.084035+00:00"
+    },
+    {
+        "id": 24176,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Software can be protected by which intellectual property?",
+        "op": [
+            "Copyright",
+            "Patent",
+            "Trademark",
+            "Design Registry"
+        ],
+        "created_at": "2026-06-28T19:27:51.665013+00:00"
+    },
+    {
+        "id": 24256,
+        "cc": "CS625",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The name under which a product is sold may be registered as a _____________.",
+        "op": [
+            "Trademark",
+            "Copyright",
+            "Patent",
+            "Designs Registry"
+        ],
+        "created_at": "2026-06-28T19:30:41.629196+00:00"
+    },
+    {
+        "id": 48068,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Accessing a computer without the authorization of the owner is called _______________.",
+        "op": [
+            "Eavesdropping",
+            "Output fraud",
+            "Hacking",
+            "Input fraud"
+        ],
+        "created_at": "2026-07-05T19:09:37.968437+00:00"
+    },
+    {
+        "id": 48106,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Modification of existing features of an application is called __________________.",
+        "op": [
+            "software hacking",
+            "password hacking",
+            "computer hacking",
+            "net hacking"
+        ],
+        "created_at": "2026-07-05T19:10:35.165085+00:00"
+    },
+    {
+        "id": 48120,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Listening to the private conversation of other people without their consent is called _______________.",
+        "op": [
+            "Eavesdropping",
+            "Authorization",
+            "Data Analysis",
+            "Authentication"
+        ],
+        "created_at": "2026-07-05T19:10:54.341982+00:00"
+    },
+    {
+        "id": 48135,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Computer Misuse Act is an Act of the Parliament of the _________________________.",
+        "op": [
+            "United Kingdom",
+            "Germany",
+            "France",
+            "United States of America"
+        ],
+        "created_at": "2026-07-05T19:11:06.191596+00:00"
+    },
+    {
+        "id": 48149,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________________ is defined as \"theft\" of property following and directly related to the use of any computer to fraudulently cause a transfer of that property from inside the premises to a person outside those premises.",
+        "op": [
+            "Input Fraud",
+            "Computer Fraud",
+            "Program Fraud",
+            "Output Fruad"
+        ],
+        "created_at": "2026-07-05T19:11:17.92549+00:00"
+    },
+    {
+        "id": 48168,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Intentionally entering false data or amending data in the computer is called _______________.",
+        "op": [
+            "Hacking",
+            "Program fraud",
+            "Eavesdropping",
+            "Input fraud"
+        ],
+        "created_at": "2026-07-05T19:11:31.124001+00:00"
+    },
+    {
+        "id": 48878,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Physical address of a system on a network is also called __________________.",
+        "op": [
+            "Logical address",
+            "Domain address",
+            "MAC address",
+            "Quantum address"
+        ],
+        "created_at": "2026-07-05T19:23:13.248503+00:00"
+    },
+    {
+        "id": 48918,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_____________ does not come under category of misuse.",
+        "op": [
+            "Hacking",
+            "unauthorized access",
+            "Authorized access",
+            "Eavesdropping"
+        ],
+        "created_at": "2026-07-05T19:24:38.194709+00:00"
+    },
+    {
+        "id": 48933,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ fraud involves the victim being contacted, told that there is a problem with their computer, and that for a fee this issue can be resolved.",
+        "op": [
+            "Input Fraud",
+            "Program Fraud",
+            "Output Fruad",
+            "Computer Fraud"
+        ],
+        "created_at": "2026-07-05T19:25:02.247739+00:00"
+    },
+    {
+        "id": 49193,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In dictionary based password retrieval, the hackers tries to find password by __________________.",
+        "op": [
+            "all possible letter combinations",
+            "symmetric key",
+            "asymmetric key",
+            "applying predefined passwords"
+        ],
+        "created_at": "2026-07-05T19:33:05.149675+00:00"
+    },
+    {
+        "id": 49200,
+        "cc": "CS625",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Defamation is the ___________ of information.",
+        "op": [
+            "leak",
+            "correctness",
+            "store",
+            "integrity"
+        ],
+        "created_at": "2026-07-05T19:33:20.14937+00:00"
+    }
+]

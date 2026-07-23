@@ -1,0 +1,1864 @@
+[
+{
+    "id": 54694,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Datagram approach and virtual circuit approach are two popular approaches which lead us to ______________.",
+    "op": [
+        "Dynamic switching",
+        "Line switching",
+        "Circuit switching",
+        "Packet switching"
+    ],
+    "created_at": "2026-07-06T19:01:40.127214+00:00"
+},
+{
+    "id": 54695,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Electromagnetic waves ranging in frequencies between 3 kHz and 1 GHz are called_____________.",
+    "op": [
+        "Light wave",
+        "Infrared waves",
+        "Radio waves",
+        "Microwaves"
+    ],
+    "created_at": "2026-07-06T19:01:44.623914+00:00"
+},
+{
+    "id": 54698,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Electromagnetic waves ranging in frequencies between 1 and 300 GHz are called_____________.",
+    "op": [
+        "Infrared waves",
+        "Radio waves",
+        "Light wave",
+        "Microwaves"
+    ],
+    "created_at": "2026-07-06T19:01:48.75616+00:00"
+},
+{
+    "id": 54699,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Cable TV networks use_____________ cables.",
+    "op": [
+        "Twisted pair",
+        "Coaxial",
+        "UTP",
+        "STP"
+    ],
+    "created_at": "2026-07-06T19:01:57.380856+00:00"
+},
+{
+    "id": 54700,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Data link layer is divided into ________ sub layers.",
+    "op": [
+        "Seven",
+        "Three",
+        "Five",
+        "Two"
+    ],
+    "created_at": "2026-07-06T19:01:59.437575+00:00"
+},
+{
+    "id": 54703,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Packet Switching operates on ___________ layer.",
+    "op": [
+        "Data link layer",
+        "Application layer",
+        "Physical layer",
+        "Network layer"
+    ],
+    "created_at": "2026-07-06T19:02:04.084057+00:00"
+},
+{
+    "id": 54704,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Switching at the _____layer in the traditional telephone network uses the circuit-switching approach.",
+    "op": [
+        "Session Layer",
+        "Network Layer",
+        "Data Layer",
+        "Physical Layer"
+    ],
+    "created_at": "2026-07-06T19:02:09.251599+00:00"
+},
+{
+    "id": 54705,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Microwaves are ______________.",
+    "op": [
+        "Multi directional",
+        "Bi directional",
+        "Unidirectional",
+        "Omni directional"
+    ],
+    "created_at": "2026-07-06T19:02:18.358493+00:00"
+},
+{
+    "id": 54706,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "If the message is going to pass through a packet-switched network, it can be divided into packets of ________________.",
+    "op": [
+        "None",
+        "Both fix and variable size",
+        "Variable size",
+        "Fixed size"
+    ],
+    "created_at": "2026-07-06T19:02:21.285173+00:00"
+},
+{
+    "id": 54709,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Congestion Control is a feature of _______ layer(s).",
+    "op": [
+        "Data Link",
+        "Transport",
+        "Network",
+        "All mentioned"
+    ],
+    "created_at": "2026-07-06T19:02:28.449631+00:00"
+},
+{
+    "id": 54711,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In circuit switched networks we have low efficiency but minimal ____________.",
+    "op": [
+        "Speed",
+        "Errors",
+        "Throughput",
+        "Delay"
+    ],
+    "created_at": "2026-07-06T19:02:36.361628+00:00"
+},
+{
+    "id": 54712,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "When certain obstacles block the cellular towers to communicate, _______ are required for long distance communication.",
+    "op": [
+        "Servers",
+        "Repeaters",
+        "Switches",
+        "Routers"
+    ],
+    "created_at": "2026-07-06T19:02:40.34185+00:00"
+},
+{
+    "id": 54714,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In circuit switching total Delay is combination of Connection Time, Data transfer time and _______________.",
+    "op": [
+        "Receiving time",
+        "Connection Tear down time",
+        "Switching time",
+        "Acknowledgement time"
+    ],
+    "created_at": "2026-07-06T19:02:45.35513+00:00"
+},
+{
+    "id": 54715,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A3:34:45:11:92:F1 is a ____________________ link layer address.",
+    "op": [
+        "Multicast",
+        "Broadcast",
+        "Unicast",
+        "Multiplex"
+    ],
+    "created_at": "2026-07-06T19:02:49.171681+00:00"
+},
+{
+    "id": 54716,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Most commonly used connector for twisted pair cable is ________.",
+    "op": [
+        "RJ-44",
+        "RJ-52",
+        "RJ-45",
+        "RJ-11"
+    ],
+    "created_at": "2026-07-06T19:02:55.692852+00:00"
+},
+{
+    "id": 54717,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Circuit switch is not as efficient as Packet switch because of the______.",
+    "op": [
+        "Limited Resource",
+        "Resource Unavailability",
+        "Un optimized Resource",
+        "Dead Resource"
+    ],
+    "created_at": "2026-07-06T19:02:57.166285+00:00"
+},
+{
+    "id": 54718,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Density of the core at the destination decreases in_______ propagation mode.",
+    "op": [
+        "Multimode, step index",
+        "Single mode, step index",
+        "Multimode, graded index",
+        "Single mode, graded index"
+    ],
+    "created_at": "2026-07-06T19:03:05.319616+00:00"
+},
+{
+    "id": 54740,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "RG-11 having impedance of 50 Ohm is used in ______ Ethernet.",
+    "op": [
+        "Fast",
+        "Thick",
+        "Gigabit",
+        "Thin"
+    ],
+    "created_at": "2026-07-06T19:05:25.105299+00:00"
+},
+{
+    "id": 54752,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Paging System in data communication uses ________ waves.",
+    "op": [
+        "Micro waves",
+        "Radio waves",
+        "Ultraviolet waves",
+        "Infrared waves"
+    ],
+    "created_at": "2026-07-06T19:06:04.082738+00:00"
+},
+{
+    "id": 54754,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "FF:FF:FF:FF:FF:FF is a ____________________ link layer address.",
+    "op": [
+        "Subnet mask",
+        "Unicast",
+        "Multicast",
+        "Broadcast"
+    ],
+    "created_at": "2026-07-06T19:06:11.95337+00:00"
+},
+{
+    "id": 54759,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Connection setup means using ______channels in circuit switched network.",
+    "op": [
+        "Communication",
+        "Authenticated",
+        "Dedicated",
+        "Satellite"
+    ],
+    "created_at": "2026-07-06T19:06:28.946995+00:00"
+},
+{
+    "id": 54761,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A virtual-circuit network is a cross between a ______________ network and a datagram network.",
+    "op": [
+        "Packet switched",
+        "Message switched",
+        "Both message and packet switched network",
+        "Circuit switched"
+    ],
+    "created_at": "2026-07-06T19:06:40.136231+00:00"
+},
+{
+    "id": 54762,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Entire band in United States is regulated by______________ authorities.",
+    "op": [
+        "ITU",
+        "NASA",
+        "FCC",
+        "ANSI"
+    ],
+    "created_at": "2026-07-06T19:06:40.471356+00:00"
+},
+{
+    "id": 54764,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The material used for conduction in twisted pair cable is ______.",
+    "op": [
+        "Copper",
+        "Aluminum",
+        "Silver",
+        "Gold"
+    ],
+    "created_at": "2026-07-06T19:06:58.6516+00:00"
+},
+{
+    "id": 54771,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Coaxial cable carries signals of higher frequency ranges than those in _____________ cable.",
+    "op": [
+        "Twisted pair",
+        "Television",
+        "Fiber optic",
+        "T Lines"
+    ],
+    "created_at": "2026-07-06T19:07:23.110684+00:00"
+},
+{
+    "id": 54773,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Switching in Datagram is normally done at______.",
+    "op": [
+        "Session Layer",
+        "Transport Layer",
+        "Physical Layer",
+        "Network Layer"
+    ],
+    "created_at": "2026-07-06T19:07:25.482463+00:00"
+},
+{
+    "id": 54776,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "___________ and ______are the two types of addressing in virtual circuit approach.",
+    "op": [
+        "Private, Public",
+        "Variable, Dynamic",
+        "Dependent, Independent",
+        "Local, Global"
+    ],
+    "created_at": "2026-07-06T19:07:31.652467+00:00"
+},
+{
+    "id": 54778,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In a circuit switched network, the link between the switches is segregated into ____ number of channels.",
+    "op": [
+        "2n",
+        "n",
+        "n2",
+        "n-1"
+    ],
+    "created_at": "2026-07-06T19:07:41.437314+00:00"
+},
+{
+    "id": 54782,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In circuit switching, when two end devices “A” and “B” connects with each other they send ___________ request.",
+    "op": [
+        "Switching",
+        "Setup",
+        "Inquiry",
+        "Acceptance"
+    ],
+    "created_at": "2026-07-06T19:08:03.724657+00:00"
+},
+{
+    "id": 54785,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Cellular telephone uses __________waves for communication.",
+    "op": [
+        "Microwaves",
+        "Infrared waves",
+        "Radio waves",
+        "Light waves"
+    ],
+    "created_at": "2026-07-06T19:08:11.60354+00:00"
+},
+{
+    "id": 54787,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In optical fiber cable, the ratio of the diameter of their core to the diameter of their cladding, both expressed in _____________.",
+    "op": [
+        "Centimeters",
+        "Millimeters",
+        "Meters",
+        "Micrometers"
+    ],
+    "created_at": "2026-07-06T19:08:24.451671+00:00"
+},
+{
+    "id": 54788,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Frequency division multiplexing (FDM) or ______ are the resources that a station reserves before starting communication.",
+    "op": [
+        "ADM (Amplitude Division Multiplexing)",
+        "SDM (Space Division Multiplexing)",
+        "TDM (Time Division Multiplexing)",
+        "All of the given"
+    ],
+    "created_at": "2026-07-06T19:08:31.90337+00:00"
+},
+{
+    "id": 54790,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In_______________ medium, signals are normally broadcast through free space and thus are available to anyone who has a device capable of receiving them.",
+    "op": [
+        "Fiber optical",
+        "Wireless",
+        "Coaxial cable",
+        "STP"
+    ],
+    "created_at": "2026-07-06T19:08:42.552772+00:00"
+},
+{
+    "id": 54795,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "_____ has less electromagnetic interference as compared to other guided medium.",
+    "op": [
+        "Fiber Optic",
+        "Coaxial",
+        "Unshielded Twisted Pair",
+        "Shielded Twisted Pair"
+    ],
+    "created_at": "2026-07-06T19:09:22.840709+00:00"
+},
+{
+    "id": 54796,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Current technology supports ___________modes for propagation of light.",
+    "op": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+    ],
+    "created_at": "2026-07-06T19:09:30.665021+00:00"
+},
+{
+    "id": 54797,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "_______________category of coaxial cable is used for thick Ethernet.",
+    "op": [
+        "RG-47",
+        "RG-59",
+        "RG-58",
+        "RG-11"
+    ],
+    "created_at": "2026-07-06T19:09:30.9801+00:00"
+},
+{
+    "id": 54799,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In single crossbar switch, only __________ row(s) or column(s) is/are active at a time while others are not active.",
+    "op": [
+        "Three",
+        "Four",
+        "Two",
+        "One"
+    ],
+    "created_at": "2026-07-06T19:09:39.313103+00:00"
+},
+{
+    "id": 54800,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In cross bar switch, the cross points can be calculated by_____ inputs and outputs.",
+    "op": [
+        "Subtracting",
+        "Adding",
+        "Dividing",
+        "Multiplying"
+    ],
+    "created_at": "2026-07-06T19:09:46.642295+00:00"
+},
+{
+    "id": 54802,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A fiber-optic cable transmit signals in the form of ____________.",
+    "op": [
+        "Sound",
+        "None of the given",
+        "Waves",
+        "Light"
+    ],
+    "created_at": "2026-07-06T19:09:47.56792+00:00"
+},
+{
+    "id": 54805,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "_______________category of coaxial cable is used for thin Ethernet.",
+    "op": [
+        "RG-1",
+        "RG-59",
+        "RG-58",
+        "RG-47"
+    ],
+    "created_at": "2026-07-06T19:10:00.76275+00:00"
+},
+{
+    "id": 54807,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Radio waves are propagated in____________ whenever they are transmitted by an antenna.",
+    "op": [
+        "Only up and down direction",
+        "Right direction",
+        "Left direction",
+        "All directions"
+    ],
+    "created_at": "2026-07-06T19:10:09.663556+00:00"
+},
+{
+    "id": 54811,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The most common type of connector used by coaxial cable is ___________.",
+    "op": [
+        "RJ-11",
+        "RJ-45",
+        "RJ-57",
+        "BNC"
+    ],
+    "created_at": "2026-07-06T19:10:25.52904+00:00"
+},
+{
+    "id": 54819,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Coaxial cables are categorized by their_____________ ratings.",
+    "op": [
+        "Amplitude modulation (AM)",
+        "Electronic Industries Association (EIA)",
+        "Frequency modulation (FM)",
+        "Radio Government (RG)"
+    ],
+    "created_at": "2026-07-06T19:11:02.776697+00:00"
+},
+{
+    "id": 54820,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The fiber optic cable of type 7/125 is of _____ mode.",
+    "op": [
+        "Multimode, graded index",
+        "Multimode, step index",
+        "Single mode, step index",
+        "Single mode, graded index"
+    ],
+    "created_at": "2026-07-06T19:11:07.670788+00:00"
+},
+{
+    "id": 54823,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In unidirectional antenna, the common point where all the lines intersect each other is _______.",
+    "op": [
+        "Center",
+        "Origin",
+        "Focus",
+        "Axis"
+    ],
+    "created_at": "2026-07-06T19:11:15.206065+00:00"
+},
+{
+    "id": 54828,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Cable TV uses the _______________category of coaxial cable.",
+    "op": [
+        "RG-11",
+        "RG-59",
+        "RG-47",
+        "RG-58"
+    ],
+    "created_at": "2026-07-06T19:11:31.592776+00:00"
+},
+{
+    "id": 54830,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is not among the required phases for the actual communication in a circuit-switched network?",
+    "op": [
+        "Data transfer",
+        "Protocol",
+        "Setup",
+        "Connection teardown"
+    ],
+    "created_at": "2026-07-06T19:11:35.823773+00:00"
+},
+{
+    "id": 54832,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In _________ systems, resources are allocated on demand.",
+    "op": [
+        "Circuit switching",
+        "Frequency switching",
+        "Packet switching",
+        "Line switching"
+    ],
+    "created_at": "2026-07-06T19:11:44.768112+00:00"
+},
+{
+    "id": 54837,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A virtual-circuit network operates on ____________ layer.",
+    "op": [
+        "Network",
+        "Datalink",
+        "Application",
+        "Physical"
+    ],
+    "created_at": "2026-07-06T19:11:53.020487+00:00"
+},
+{
+    "id": 54840,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "LF (Low Frequency) band is used in _____ propagation.",
+    "op": [
+        "Sky",
+        "Single Mode",
+        "Ground",
+        "Line of Sight"
+    ],
+    "created_at": "2026-07-06T19:12:04.461753+00:00"
+},
+{
+    "id": 54843,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Wireless transmission can be divided into ____________ broad groups.",
+    "op": [
+        "Two",
+        "Five",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-07-06T19:12:16.62358+00:00"
+},
+{
+    "id": 54846,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Multi-mode technology has ______________main types for light propagation.",
+    "op": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+    ],
+    "created_at": "2026-07-06T19:12:29.938329+00:00"
+},
+{
+    "id": 54847,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Ships use ______ communication bands of frequency.",
+    "op": [
+        "3-30 GHz",
+        "3-30 THz",
+        "3-30 MHz",
+        "3-30 kHz"
+    ],
+    "created_at": "2026-07-06T19:12:37.370562+00:00"
+},
+{
+    "id": 54970,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Virtual Circuit Identifier is the ________________ of packet.",
+    "op": [
+        "Size",
+        "Length",
+        "Address",
+        "Header"
+    ],
+    "created_at": "2026-07-06T19:21:49.657896+00:00"
+},
+{
+    "id": 54971,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "______________have established standards for using these signals for communication between devices such as keyboards, mice, PCs, and printers.",
+    "op": [
+        "Radio waves",
+        "Infrared waves",
+        "Simple waves",
+        "Microwaves"
+    ],
+    "created_at": "2026-07-06T19:21:54.110044+00:00"
+},
+{
+    "id": 54974,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Among the following cables given below, ___________cable provides highest bandwidth and less attenuation.",
+    "op": [
+        "STP",
+        "UTP",
+        "Coaxial cable",
+        "Fiber optical"
+    ],
+    "created_at": "2026-07-06T19:22:10.366587+00:00"
+},
+{
+    "id": 54975,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "VCI address is _____________ address in virtual circuit approach.",
+    "op": [
+        "Variable",
+        "Global",
+        "Local",
+        "Private"
+    ],
+    "created_at": "2026-07-06T19:22:20.569275+00:00"
+},
+{
+    "id": 54986,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "According to stats, fewer than _____________ crossbar points can be used at once.",
+    "op": [
+        "25%",
+        "100%",
+        "14%",
+        "30%"
+    ],
+    "created_at": "2026-07-06T19:23:47.633244+00:00"
+},
+{
+    "id": 54990,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In virtual Circuit network all packets follow ____________ path.",
+    "op": [
+        "Individual",
+        "Alternative",
+        "Centralized",
+        "Dedicated"
+    ],
+    "created_at": "2026-07-06T19:24:13.697035+00:00"
+},
+{
+    "id": 54995,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "_______________ does not happen until all the data is transferred and all of the resources are freed.",
+    "op": [
+        "Resource Allocation",
+        "Acknowledgement",
+        "Switching",
+        "Tear Down"
+    ],
+    "created_at": "2026-07-06T19:24:30.396618+00:00"
+},
+{
+    "id": 54998,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In virtual circuit approach when a frame enters a switch and when it leaves a switch its VCI_______________.",
+    "op": [
+        "Always Changes",
+        "Sometimes Remain Same",
+        "Remain the Same",
+        "Sometimes Changes"
+    ],
+    "created_at": "2026-07-06T19:24:39.538083+00:00"
+},
+{
+    "id": 55003,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In ____________ switching resources are allocated during the entire duration of the connection and these resources are unavailable to other connections.",
+    "op": [
+        "Packet-switched networks",
+        "Circuit Switched Networks",
+        "Both circuit and message switch network.",
+        "Message switched networks"
+    ],
+    "created_at": "2026-07-06T19:24:51.528488+00:00"
+},
+{
+    "id": 55019,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In datagram network, each data packet contains its _____.",
+    "op": [
+        "ID",
+        "Name",
+        "Number",
+        "Address"
+    ],
+    "created_at": "2026-07-06T19:25:47.018893+00:00"
+},
+{
+    "id": 55025,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "______________are used for multicast communications, such as radio and television.",
+    "op": [
+        "Light wave",
+        "Microwaves",
+        "Radio waves",
+        "Infrared waves"
+    ],
+    "created_at": "2026-07-06T19:26:09.308536+00:00"
+},
+{
+    "id": 55102,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Some manufacturers provide a special port called the __________ port that allows a wireless keyboard to communicate with a PC.",
+    "op": [
+        "IrDA",
+        "USB",
+        "Parallel",
+        "Consol"
+    ],
+    "created_at": "2026-07-06T19:34:53.934891+00:00"
+},
+{
+    "id": 55107,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Data Link layer receives services from the ___________ layer.",
+    "op": [
+        "Physical",
+        "Transport",
+        "Session",
+        "Application"
+    ],
+    "created_at": "2026-07-06T19:36:15.28786+00:00"
+},
+{
+    "id": 55108,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In order to resolve link layer address of the next node, the first generated ARP request is always in _________ mode.",
+    "op": [
+        "Multiplex",
+        "Multicast",
+        "Broadcast",
+        "Unicast"
+    ],
+    "created_at": "2026-07-06T19:36:15.296578+00:00"
+},
+{
+    "id": 55109,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The size of the packet is determined by the network and _______________.",
+    "op": [
+        "Switching Type",
+        "Instructions",
+        "Delays",
+        "Governing Protocol"
+    ],
+    "created_at": "2026-07-06T19:36:30.144595+00:00"
+},
+{
+    "id": 55110,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In optical fiber a glass or plastic core is surrounded by a __________.",
+    "op": [
+        "Insulator",
+        "Inner Conductor shield",
+        "Outer conductor shield",
+        "Cladding"
+    ],
+    "created_at": "2026-07-06T19:36:38.123368+00:00"
+},
+{
+    "id": 55121,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Among the following cables given below, __________cable has the highest cost as compared to others.",
+    "op": [
+        "UTP",
+        "Fiber optical",
+        "STP",
+        "Coaxial cable"
+    ],
+    "created_at": "2026-07-06T19:38:42.152359+00:00"
+},
+{
+    "id": 55129,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Media Access Control (MAC) and Data Link Control (DLC) constitute _____________ layer.",
+    "op": [
+        "Physical",
+        "Network",
+        "Transport",
+        "Data link"
+    ],
+    "created_at": "2026-07-06T19:41:34.303312+00:00"
+},
+{
+    "id": 55134,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A switched network consists of a series of interlinked _____ called switches.",
+    "op": [
+        "Systems",
+        "Nodes",
+        "Roots",
+        "Points"
+    ],
+    "created_at": "2026-07-06T19:43:06.920459+00:00"
+},
+{
+    "id": 55197,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "____________ is responsible for governing node to node communication.",
+    "op": [
+        "Session Layer",
+        "Presentation Layer",
+        "Application Layer",
+        "Data Link layer"
+    ],
+    "created_at": "2026-07-06T20:01:35.114398+00:00"
+},
+{
+    "id": 55206,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "DLC in Data Link Layer stands for ____.",
+    "op": [
+        "Demand Link Coordination",
+        "Data Line Code",
+        "Divide Line Communication",
+        "Data Link Control"
+    ],
+    "created_at": "2026-07-06T20:02:43.616238+00:00"
+},
+{
+    "id": 55268,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "A local telephone network use __________ network.",
+    "op": [
+        "Bit switched",
+        "Line switched",
+        "Circuit switched",
+        "Packet switched"
+    ],
+    "created_at": "2026-07-06T20:16:48.871775+00:00"
+},
+{
+    "id": 55375,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "_______________ is the scope of VCI variable in virtual circuit approach.",
+    "op": [
+        "Global",
+        "Private",
+        "Variable",
+        "Local"
+    ],
+    "created_at": "2026-07-06T21:43:24.325401+00:00"
+},
+{
+    "id": 55376,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Virtual-Circuit Networks and datagram networks are the sub categories of ________________.",
+    "op": [
+        "Message switched networks",
+        "Packet-switched networks",
+        "Both circuit and message switched networks",
+        "Circuit Switched Networks"
+    ],
+    "created_at": "2026-07-06T21:47:41.176827+00:00"
+},
+{
+    "id": 55557,
+    "cc": "CS601",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Parabolic antenna is used for_____________ communication.",
+    "op": [
+        "Microwave",
+        "Infrared waves",
+        "Radio waves",
+        "Light wave"
+    ],
+    "created_at": "2026-07-07T02:09:54.739242+00:00"
+},
+{
+    "id": 58971,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In order to find the location of two errors in an eight bit stream, we have to see _____ different combinations.",
+    "op": [
+        "4",
+        "8",
+        "28",
+        "16"
+    ],
+    "created_at": "2026-07-08T19:01:26.588688+00:00"
+},
+{
+    "id": 59003,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Error correction is more ____________ than the error detection.",
+    "op": [
+        "Difficult",
+        "Informal",
+        "Easy",
+        "Useless"
+    ],
+    "created_at": "2026-07-08T19:02:32.382027+00:00"
+},
+{
+    "id": 59004,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The purpose of adding redundant bits in block coding is",
+    "op": [
+        "to improve the efficiency of data transmission",
+        "to increase the size of data words",
+        "to decrease the size of codewords",
+        "to provide error detection and correction capability"
+    ],
+    "created_at": "2026-07-08T19:02:33.402149+00:00"
+},
+{
+    "id": 59011,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The _________ is the number of signal elements sent per unit time.",
+    "op": [
+        "Period",
+        "Signal rate",
+        "Data rate",
+        "Bit rate"
+    ],
+    "created_at": "2026-07-08T19:02:50.54543+00:00"
+},
+{
+    "id": 59014,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Error detection and correction are the services provided by _________ layer.",
+    "op": [
+        "Application layer",
+        "Data link layer",
+        "Physical layer",
+        "Session layer"
+    ],
+    "created_at": "2026-07-08T19:02:58.385971+00:00"
+},
+{
+    "id": 59023,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "PAP and CHAP are used by ____________ as Authentication Protocols.",
+    "op": [
+        "TCP/ IP",
+        "PPP",
+        "ICMP",
+        "SMTP"
+    ],
+    "created_at": "2026-07-08T19:03:12.427752+00:00"
+},
+{
+    "id": 59026,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "To control and manage the transfer of data, a protocol called Point to Point Protocol (PPP) is used at the _________________ layer.",
+    "op": [
+        "Data link",
+        "Physical",
+        "Presentation",
+        "Network"
+    ],
+    "created_at": "2026-07-08T19:03:19.625097+00:00"
+},
+{
+    "id": 59027,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In digital communication, why do we use a checksum for error detection in a message?",
+    "op": [
+        "To encrypt the data",
+        "To facilitate faster data transmission",
+        "To ensure even or odd parity",
+        "To correct errors"
+    ],
+    "created_at": "2026-07-08T19:03:22.121866+00:00"
+},
+{
+    "id": 59029,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "___________ is an Authentication Protocol, which uses two-step process to authenticate user information.",
+    "op": [
+        "PAP",
+        "LCP",
+        "CHAP",
+        "ICMP"
+    ],
+    "created_at": "2026-07-08T19:03:27.563245+00:00"
+},
+{
+    "id": 59031,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The flag in PPP is a byte that needs to be ____________ whenever it appears in the data section of the frame.",
+    "op": [
+        "Duplicated",
+        "Blocked",
+        "Cleaned",
+        "Escaped"
+    ],
+    "created_at": "2026-07-08T19:03:29.592104+00:00"
+},
+{
+    "id": 59035,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In character oriented protocol, each character of frame is encoded using---------- coding system.",
+    "op": [
+        "Unicode",
+        "Bipolar AMI",
+        "NRZ",
+        "ASCII"
+    ],
+    "created_at": "2026-07-08T19:03:34.468943+00:00"
+},
+{
+    "id": 59036,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In _________ type of error, two or more bits in the data unit will be changed.",
+    "op": [
+        "Mono",
+        "Single bit",
+        "Zero",
+        "Burst"
+    ],
+    "created_at": "2026-07-08T19:03:38.264895+00:00"
+},
+{
+    "id": 59037,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Primary purpose of adding redundant bits to transmitted data in error detection and correction is _______",
+    "op": [
+        "to enhance data encryption",
+        "to detect or correct errors",
+        "to reduce network congestion",
+        "to increase data transmission speed"
+    ],
+    "created_at": "2026-07-08T19:03:40.077748+00:00"
+},
+{
+    "id": 59038,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "High-Level Data Link Control (HDLC) defines ________ types of frames to deal with the transfer modes.",
+    "op": [
+        "Four",
+        "Two",
+        "Six",
+        "Three"
+    ],
+    "created_at": "2026-07-08T19:03:41.638042+00:00"
+},
+{
+    "id": 59041,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "______________ is the Hamming distance between the binary strings '01001' and '10001.'",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-07-08T19:03:44.860562+00:00"
+},
+{
+    "id": 59045,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The Hamming distance measure _______ in the context of error control coding",
+    "op": [
+        "the time taken for data transmission",
+        "the frequency of data errors",
+        "the number of differences between two codewords",
+        "the strength of encryption"
+    ],
+    "created_at": "2026-07-08T19:03:46.943573+00:00"
+},
+{
+    "id": 59046,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Payload field of the PPP frame is of variable size and it can carry maximum data up to ____________.",
+    "op": [
+        "100 bytes",
+        "1500 bytes",
+        "500 bytes",
+        "10 bytes"
+    ],
+    "created_at": "2026-07-08T19:03:48.696425+00:00"
+},
+{
+    "id": 59048,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In block coding, how is the length of codewords (n) related to the length of data words (k)?",
+    "op": [
+        "n = k",
+        "n < k",
+        "n > k",
+        "n = 2k"
+    ],
+    "created_at": "2026-07-08T19:03:50.069542+00:00"
+},
+{
+    "id": 59049,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Redundancy contribute to error detection by _______",
+    "op": [
+        "encrypting data for secure transmission",
+        "increasing the speed of data transmission",
+        "reducing the size of data frames",
+        "adding extra bits to create relationships for error detection"
+    ],
+    "created_at": "2026-07-08T19:03:50.224158+00:00"
+},
+{
+    "id": 59051,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In case of higher data rate, the number of impacted bits will be __________.",
+    "op": [
+        "Lower",
+        "Normal",
+        "Zero",
+        "Higher"
+    ],
+    "created_at": "2026-07-08T19:03:53.626912+00:00"
+},
+{
+    "id": 59052,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "S-frames in High-Level Data Link Control (HDLC) are only used to transfer __________ information.",
+    "op": [
+        "Original",
+        "Control",
+        "Redundant",
+        "User data"
+    ],
+    "created_at": "2026-07-08T19:03:55.066064+00:00"
+},
+{
+    "id": 59053,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The term \"single-bit error\" refer to _______",
+    "op": [
+        "interfering with the flow control process",
+        "changing 1 bit of a data unit",
+        "changing multiple bits in a data unit",
+        "changing the shape of the signal"
+    ],
+    "created_at": "2026-07-08T19:03:56.093788+00:00"
+},
+{
+    "id": 59056,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "What is the primary function of a checksum in digital communication?",
+    "op": [
+        "Data compression",
+        "Error detection",
+        "Encryption",
+        "Error correction"
+    ],
+    "created_at": "2026-07-08T19:03:59.098279+00:00"
+},
+{
+    "id": 59059,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In Block coding scheme, number of code words is always __________ data words.",
+    "op": [
+        "Less than",
+        "Greater than",
+        "Same as",
+        "Equal to"
+    ],
+    "created_at": "2026-07-08T19:04:13.499106+00:00"
+},
+{
+    "id": 59064,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If the Hamming distance between sent and received code word is ______, then it shows that received data is corrupted.",
+    "op": [
+        "= 0",
+        "=1",
+        "≠ 0",
+        "≠ 1"
+    ],
+    "created_at": "2026-07-08T19:04:27.337488+00:00"
+},
+{
+    "id": 59067,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "One of the most common protocols for point-to-point access is ___________________.",
+    "op": [
+        "PPP",
+        "IP",
+        "TCP",
+        "UDP"
+    ],
+    "created_at": "2026-07-08T19:04:31.156613+00:00"
+},
+{
+    "id": 59068,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The extra bits added with the original data for error detection/correction are called _______.",
+    "op": [
+        "Process IDs",
+        "Fault bits",
+        "Redundant bits",
+        "Port numbers"
+    ],
+    "created_at": "2026-07-08T19:04:35.580699+00:00"
+},
+{
+    "id": 59070,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In ______________ protocol, the sender sends one frame at a time and waits for an acknowledgment before sending the next one.",
+    "op": [
+        "Stop-and-Wait",
+        "Selective-Repeat",
+        "Go-Back-N",
+        "Simple"
+    ],
+    "created_at": "2026-07-08T19:04:46.527751+00:00"
+},
+{
+    "id": 59073,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "___________________________ is used in the Stop-and-Wait protocol to overcome the issue of duplication.",
+    "op": [
+        "Frame sequencing",
+        "Frame sequencing and Acknowledgement numbering",
+        "Acknowledgement numbering",
+        "Counter and Timer reset"
+    ],
+    "created_at": "2026-07-08T19:04:56.685891+00:00"
+},
+{
+    "id": 59075,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The primary cause of unpredictable changes in bits during data transmission is _______",
+    "op": [
+        "decapsulation",
+        "encryption",
+        "interference",
+        "framing"
+    ],
+    "created_at": "2026-07-08T19:05:03.685552+00:00"
+},
+{
+    "id": 59076,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The message 110 sent by a source is received by a destination as 111. This is ______type of error.",
+    "op": [
+        "Single-Bit",
+        "Burst",
+        "Byte",
+        "Multi-Bit"
+    ],
+    "created_at": "2026-07-08T19:05:15.931173+00:00"
+},
+{
+    "id": 59077,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In Linear Block codes, _______ of two valid code words creates another valid code word.",
+    "op": [
+        "OR",
+        "NOR",
+        "AND",
+        "XOR"
+    ],
+    "created_at": "2026-07-08T19:05:17.652499+00:00"
+},
+{
+    "id": 59081,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The message 1110 sent by a source is received by a destination as 1011. This is ______type of error.",
+    "op": [
+        "Single-Bit",
+        "Uni-Bit",
+        "Hamming",
+        "Burst"
+    ],
+    "created_at": "2026-07-08T19:05:28.292211+00:00"
+},
+{
+    "id": 59083,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In Block coding we divide our message into blocks of k bits called as ____________",
+    "op": [
+        "Passwords",
+        "Data words",
+        "Code words",
+        "Cross words"
+    ],
+    "created_at": "2026-07-08T19:05:35.54521+00:00"
+},
+{
+    "id": 59086,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Go-Back-N protocol is one of the _______________ layer protocols, which is used to control the flow of data during the transmission.",
+    "op": [
+        "Physical",
+        "Presentation",
+        "Network",
+        "Data link"
+    ],
+    "created_at": "2026-07-08T19:05:56.370081+00:00"
+},
+{
+    "id": 59090,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "CHAP is an Authentication Protocol, which uses ___________ process to authenticate user information.",
+    "op": [
+        "Five-way",
+        "Two-way",
+        "Three-way",
+        "Four-way"
+    ],
+    "created_at": "2026-07-08T19:06:13.709297+00:00"
+},
+{
+    "id": 59093,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "_______ is the purpose of the Cyclic Redundancy Check (CRC) method",
+    "op": [
+        "Regulating data flow",
+        "Adding redundancy for encryption",
+        "Detecting and correcting errors",
+        "Counting the number of bits in a frame"
+    ],
+    "created_at": "2026-07-08T19:06:19.054769+00:00"
+},
+{
+    "id": 59094,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Stop-and-Wait protocol is used for _____________________.",
+    "op": [
+        "Flow control only",
+        "Neither flow nor error control",
+        "Error control only",
+        "Both flow and error control"
+    ],
+    "created_at": "2026-07-08T19:06:19.256585+00:00"
+},
+{
+    "id": 59095,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If we increase the data rate of a transmission over noisy channel, fixed noise duration will cause _______ number of bits being impacted by the noise.",
+    "op": [
+        "More",
+        "Constant",
+        "Less",
+        "Same"
+    ],
+    "created_at": "2026-07-08T19:06:22.352307+00:00"
+},
+{
+    "id": 59096,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In even parity check code, the value of syndrome is ______ if the number of 1s is even.",
+    "op": [
+        "4",
+        "1",
+        "0",
+        "2"
+    ],
+    "created_at": "2026-07-08T19:06:28.831036+00:00"
+},
+{
+    "id": 59099,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "_________ is not a function of Data Link Control.",
+    "op": [
+        "Framing",
+        "Flow Control",
+        "Error Control",
+        "Modulation"
+    ],
+    "created_at": "2026-07-08T19:06:40.318048+00:00"
+},
+{
+    "id": 59101,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "______________ is an Authentication Protocol, which is used by the PPP to authenticate passwords.",
+    "op": [
+        "LCP",
+        "CHAP",
+        "ICMP",
+        "PAP"
+    ],
+    "created_at": "2026-07-08T19:06:45.722412+00:00"
+},
+{
+    "id": 59104,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "__________ is the process of converting digital data to digital signals.",
+    "op": [
+        "CSMA/CA",
+        "CSMA/CD",
+        "Line coding",
+        "Segmentation"
+    ],
+    "created_at": "2026-07-08T19:07:27.882565+00:00"
+},
+{
+    "id": 59105,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "_______ is the process in which the sender adds redundant bits to the actual data bits.",
+    "op": [
+        "Framing",
+        "Decapsulation",
+        "Coding",
+        "Encapsulation"
+    ],
+    "created_at": "2026-07-08T19:07:28.59983+00:00"
+},
+{
+    "id": 59110,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If we need to correct a single error in an 8-bit data unit, we need to consider _________ possible error locations.",
+    "op": [
+        "16",
+        "2",
+        "8",
+        "4"
+    ],
+    "created_at": "2026-07-08T19:07:56.846988+00:00"
+},
+{
+    "id": 59120,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "No matter whether the link is dedicated or broadcast, data link control (DLC) layer provides services between --------.",
+    "op": [
+        "Source and destination PCs",
+        "Tow adjacent nodes",
+        "Virtual LANs",
+        "Ethernet links"
+    ],
+    "created_at": "2026-07-08T19:08:41.355451+00:00"
+},
+{
+    "id": 59127,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If duration of noise is decreased during a transmission over noisy channel, fixed data rate of the channel will cause _______ number of bits being impacted by the noise.",
+    "op": [
+        "Zero",
+        "Less",
+        "More",
+        "Constant"
+    ],
+    "created_at": "2026-07-08T19:09:20.758493+00:00"
+},
+{
+    "id": 59129,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Checksum is an error-detection technique that can be applied to a message of _____ length.",
+    "op": [
+        "Exactly 32",
+        "Any",
+        "Exactly 4",
+        "Exactly 8"
+    ],
+    "created_at": "2026-07-08T19:09:28.541507+00:00"
+},
+{
+    "id": 59135,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "In order to find Hamming distance between two pair of words, _______ logical operation is used.",
+    "op": [
+        "NAND",
+        "OR",
+        "AND",
+        "XOR"
+    ],
+    "created_at": "2026-07-08T19:09:48.534981+00:00"
+},
+{
+    "id": 59136,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "______________are used to exchange session management and control information between connected devices.",
+    "op": [
+        "N-frames",
+        "U-frames",
+        "S-frames",
+        "I-frames"
+    ],
+    "created_at": "2026-07-08T19:10:08.845876+00:00"
+},
+{
+    "id": 59142,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The ______________ protocol uses both flow and error control.",
+    "op": [
+        "Stop-and-Wait",
+        "TCP/IP",
+        "HDLC",
+        "ICMP"
+    ],
+    "created_at": "2026-07-08T19:10:41.252866+00:00"
+},
+{
+    "id": 59145,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Which of the following is a subset of Cyclic Codes?",
+    "op": [
+        "Parity Check",
+        "Cyclic Redundancy Check (CRC)",
+        "Hamming Codes",
+        "Linear Block Codes"
+    ],
+    "created_at": "2026-07-08T19:11:11.941135+00:00"
+},
+{
+    "id": 59147,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "Hamming distance is important for error detection in coding as",
+    "op": [
+        "it measures the transmission speed of data.",
+        "it indicates the strength of the error correction code.",
+        "it measures the signal-to-noise ratio in communication.",
+        "it represents the number of corrupted bits during transmission."
+    ],
+    "created_at": "2026-07-08T19:11:26.570308+00:00"
+},
+{
+    "id": 59153,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The purpose of block coding is _______",
+    "op": [
+        "regulating data flow",
+        "adding redundancy to data in fixed-size blocks",
+        "creating relationships between bits",
+        "removing errors from transmitted data"
+    ],
+    "created_at": "2026-07-08T19:12:37.407856+00:00"
+},
+{
+    "id": 59170,
+    "cc": "CS601",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "The purpose of a checksum in error detection is _______",
+    "op": [
+        "to count the number of bits in a data frame",
+        "to verify the integrity of transmitted data",
+        "to regulate data flow between devices",
+        "to add redundancy for error correction"
+    ],
+    "created_at": "2026-07-08T19:14:33.78895+00:00"
+}
+]

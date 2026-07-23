@@ -1,0 +1,2524 @@
+[
+{
+    "id": 10005,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In an LR(1) parser, Reduce action does not consume the input, while shift action advances the input by consuming the current token.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-21T19:38:37.513419+00:00"
+},
+{
+    "id": 10021,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The canonical collection is constructed by repeatedly applying which operations?",
+    "op": [
+        "Closure and goto",
+        "Reduce and goto",
+        "Closure and shift",
+        "Shift and reduce"
+    ],
+    "created_at": "2026-06-21T19:40:10.725374+00:00"
+},
+{
+    "id": 10047,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the handle representation <A → α, k>, what does A represent?",
+    "op": [
+        "The lookahead symbol.",
+        "The position of the handle within the input string.",
+        "The last symbol in the input string.",
+        "The non-terminal on the left-hand side of the production rule."
+    ],
+    "created_at": "2026-06-21T19:43:19.514535+00:00"
+},
+{
+    "id": 10073,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The LR table is typically represented as a _______________ table.",
+    "op": [
+        "Four-dimensional",
+        "Three-dimensional",
+        "One-dimensional",
+        "Two-dimensional"
+    ],
+    "created_at": "2026-06-21T19:44:17.897227+00:00"
+},
+{
+    "id": 10082,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If find ε in FIRST(α), add production rule \"A → α\" to LL(1) parsing table entry M[A, b] for each ____________ in FOLLOW(A).",
+    "op": [
+        "Terminal a",
+        "Terminal b",
+        "Non-Terminal B",
+        "Non-Terminal A"
+    ],
+    "created_at": "2026-06-21T19:44:40.505186+00:00"
+},
+{
+    "id": 10098,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When transitioning from \"A → α•Xη\" to \"A → αX•η\" in the NFA of LR(0) items, the symbol X is a/an ____________ symbol.",
+    "op": [
+        "Lookahead",
+        "Terminal",
+        "Start",
+        "Non-terminal"
+    ],
+    "created_at": "2026-06-21T19:45:22.870102+00:00"
+},
+{
+    "id": 10115,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "For each ____________, add production rule \"A → α\" to LL(1) parsing table entry M[A, a].",
+    "op": [
+        "Non-terminal 'A' in FIRST(α).",
+        "Non-terminal 'A' in FOLLOW(α).",
+        "Terminal 'a' in FIRST(α).",
+        "Terminal 'a' in FOLLOW(α)."
+    ],
+    "created_at": "2026-06-21T19:46:21.693189+00:00"
+},
+{
+    "id": 10129,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What does the GoTo table in the DFA representation table represent?",
+    "op": [
+        "Accepting the input",
+        "Applying production rules",
+        "Transitioning to non-terminals",
+        "Transitioning to terminals"
+    ],
+    "created_at": "2026-06-21T19:47:07.507677+00:00"
+},
+{
+    "id": 10136,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The identification of a handle in shift-reduce parsing is an indication that:",
+    "op": [
+        "A reduction can be performed.",
+        "The next token needs to be shifted.",
+        "A syntax error has occurred.",
+        "The parsing process is complete."
+    ],
+    "created_at": "2026-06-21T19:47:38.263778+00:00"
+},
+{
+    "id": 10508,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If find ε in FIRST(α), the production rule \"A → α\" should be added to the LL(1) parsing table entry M[A, b] for each terminal 'b' in:",
+    "op": [
+        "FIRST(A)",
+        "FOLLOW(A)",
+        "FOLLOW(B)",
+        "FIRST(B)"
+    ],
+    "created_at": "2026-06-21T20:23:41.19158+00:00"
+},
+{
+    "id": 10511,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If FIRST(α) = {ε} and ____________, then add production rule \"A → α\" to LL(1) parsing table entry M[A, $].",
+    "op": [
+        "FOLLOW(α) = {ε}",
+        "FOLLOW(α) = {a}",
+        "FOLLOW(α) = {$}",
+        "FOLLOW(α) = {A}"
+    ],
+    "created_at": "2026-06-21T20:23:58.900964+00:00"
+},
+{
+    "id": 10514,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What does the marking of an entry in the LR table as \"error\" indicate?",
+    "op": [
+        "A reduction operation is to be performed",
+        "An error has occurred in the parsing process",
+        "A shift operation is to be performed",
+        "The entry is unreachable in the LR automaton"
+    ],
+    "created_at": "2026-06-21T20:24:06.669427+00:00"
+},
+{
+    "id": 10517,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In LR parsing, the error action indicates that the input has been successfully parsed, and the parsing process can be completed.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-21T20:24:16.460474+00:00"
+},
+{
+    "id": 10531,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In an LR(1) parser, does the Error action consume any input?",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-21T20:25:15.411515+00:00"
+},
+{
+    "id": 10534,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "At the start of LR(1) parser, a dummy symbol is pushed on stack \"stack.push(dummy)\". The purpose of it is;",
+    "op": [
+        "To assist in error recovery when encountering unexpected tokens.",
+        "To prevent stack underflow during reduction operations.",
+        "To handle conflicts in the parsing tables.",
+        "To indicate the end of the parsing process."
+    ],
+    "created_at": "2026-06-21T20:25:24.627104+00:00"
+},
+{
+    "id": 10535,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In Shift-Reduce parsing, the process of identifying and reducing handles is essential for determining the validity of a given input string according to the given grammar.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-21T20:25:32.827642+00:00"
+},
+{
+    "id": 10543,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The LR(1) items are used as the states of a finite automaton (FA) that maintains information about the parsing stack and progress of a/an ____________ parser.",
+    "op": [
+        "LL(1)",
+        "RR(1)",
+        "Top-down",
+        "Shift-reduce"
+    ],
+    "created_at": "2026-06-21T20:26:08.506215+00:00"
+},
+{
+    "id": 10545,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Both the original grammar and augmented grammar define the same language or set of valid strings.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-21T20:26:15.835317+00:00"
+},
+{
+    "id": 10546,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The Upper Frontier is associated with which type of parsing algorithm?",
+    "op": [
+        "Bottom-Down",
+        "Top-Up",
+        "Top-Down",
+        "Bottom-Up"
+    ],
+    "created_at": "2026-06-21T20:26:23.14846+00:00"
+},
+{
+    "id": 10549,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What would be the potential handle for the grammar \"T → Ua, U → vw\" at the start of Shift-Reduce parsing?",
+    "op": [
+        "<T → Ua, 1>",
+        "<U → vw,1>",
+        "<U → wv,1>",
+        "<T → aU, 1>"
+    ],
+    "created_at": "2026-06-21T20:26:37.762329+00:00"
+},
+{
+    "id": 10550,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What is the upper frontier in a partially constructed parse tree?",
+    "op": [
+        "The bottommost part of the tree.",
+        "The topmost part of the tree.",
+        "The leftmost part of the tree.",
+        "The rightmost part of the tree."
+    ],
+    "created_at": "2026-06-21T20:26:45.233205+00:00"
+},
+{
+    "id": 10551,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The Closure procedure inserts a dot ('•') before the production γ to:",
+    "op": [
+        "Identify the non-terminal symbols in the production.",
+        "Indicate the start of a reduction.",
+        "Track the position of the dot in the grammar rules.",
+        "Mark the completion of the left context."
+    ],
+    "created_at": "2026-06-21T20:26:52.709857+00:00"
+},
+{
+    "id": 10553,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Shift-Reduce parser uses a/an ____________ to hold grammar symbols.",
+    "op": [
+        "Tree",
+        "Stack",
+        "Array",
+        "Queue"
+    ],
+    "created_at": "2026-06-21T20:27:04.58752+00:00"
+},
+{
+    "id": 10554,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of canonical collection of LR(1) items, compute the state I0 for the grammar \" S → E, E → E + (E) | int\".",
+    "op": [
+        "s = { [S → •E, $] , [S → •S + (S),$] , [E → •int, $] }",
+        "s = { [S → •E, $] , [E → •E + (E),$] , [E → •int, $] }",
+        "s = { [E → •S, $] , [E → •E + (E),$] , [E → •int, $] }",
+        "s = { [E → •S, $] , [S → •S + (S),$] , [E → •int, $] }"
+    ],
+    "created_at": "2026-06-21T20:27:06.374483+00:00"
+},
+{
+    "id": 10556,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Left factoring is primarily used in which type of parsing?",
+    "op": [
+        "Shift-Reduce parsing",
+        "Bottom-up parsing",
+        "LR parsing",
+        "Predictive parsing"
+    ],
+    "created_at": "2026-06-21T20:27:17.550038+00:00"
+},
+{
+    "id": 10564,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "For the grammar \"S → a c T | a U\", it is very easy to predict because two productions start with 'a'.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-21T20:29:04.90135+00:00"
+},
+{
+    "id": 10566,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In a shift-reduce parser, a placeholder is used to represent an incomplete or partial structure during the parsing process.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-21T20:29:40.260062+00:00"
+},
+{
+    "id": 10570,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "After performing left factoring on the grammar \"S → a X | a\", the resultant grammar will be;",
+    "op": [
+        "S → a X, S'→ S | ε",
+        "S → X a, S'→ S | ε",
+        "S → S' a, S'→ X | ε",
+        "S → a S', S'→ X | ε"
+    ],
+    "created_at": "2026-06-21T20:31:27.570058+00:00"
+},
+{
+    "id": 10575,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following production contains a placeholder at its end of right-hand side?",
+    "op": [
+        "Expr → Expr • – Term",
+        "Expr → Expr – Term •",
+        "Expr → Expr – •Term",
+        "Expr → • Expr –Term"
+    ],
+    "created_at": "2026-06-21T20:32:03.718361+00:00"
+},
+{
+    "id": 10579,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the handle representation <A → α, k>, what does k represent?",
+    "op": [
+        "The index of the first symbol in the handle.",
+        "The length of the handle.",
+        "The number of non-terminal symbols in the handle.",
+        "The position of the handle within the input string."
+    ],
+    "created_at": "2026-06-21T20:32:30.346529+00:00"
+},
+{
+    "id": 10583,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The NFA of LR(0) items represents transitions between:",
+    "op": [
+        "LR(0) items without considering lookahead symbols.",
+        "Non-terminal symbols and their productions.",
+        "LR(1) items.",
+        "Grammar symbols and their derivations."
+    ],
+    "created_at": "2026-06-21T20:32:54.644619+00:00"
+},
+{
+    "id": 10584,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The canonical collection is used to generate which of the following parsing tables?",
+    "op": [
+        "Action and goto tables",
+        "First and follow tables",
+        "Closure and reduction tables",
+        "Production and symbol tables"
+    ],
+    "created_at": "2026-06-21T20:33:35.040635+00:00"
+},
+{
+    "id": 10588,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The input to the algorithm for the construction of collection of canonical sets of LR(1) items is _______________.",
+    "op": [
+        "Original Grammar G",
+        "Augmented Grammar G'",
+        "CC sets of LR(1)",
+        "CC sets of LR(0)"
+    ],
+    "created_at": "2026-06-21T20:34:07.921217+00:00"
+},
+{
+    "id": 10590,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In bottom-up parsing, _______________ conflicts occur when the parser encounters a state where it needs to decide between shifting and reducing.",
+    "op": [
+        "Terminal-Nonterminal",
+        "Precedence-Associativity",
+        "Continue-Goto",
+        "Shift-Reduce"
+    ],
+    "created_at": "2026-06-21T20:34:30.952695+00:00"
+},
+{
+    "id": 10870,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The output from the algorithm for the construction of collection of canonical sets of LR(1) items is _______________.",
+    "op": [
+        "CC sets of LR(0)",
+        "Original Grammar G",
+        "Augmented Grammar G'",
+        "CC sets of LR(1)"
+    ],
+    "created_at": "2026-06-21T21:23:03.045488+00:00"
+},
+{
+    "id": 10871,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In LR table construction, for each non-terminal A Î G; if goto (Ii, A) = Ij , then _______________.",
+    "op": [
+        "Goto [i, A] ← j",
+        "Goto [i, G] ← j",
+        "Goto [i, A] ← i",
+        "Goto [i, G] ← i"
+    ],
+    "created_at": "2026-06-21T21:23:24.770087+00:00"
+},
+{
+    "id": 10872,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In Shift-Reduce parser, the handle-recognizing DFA is basically represented as a 2-dimensional table, where ____________ correspond to terminals and non-terminals.",
+    "op": [
+        "Rows",
+        "Captions",
+        "Columns",
+        "Cells"
+    ],
+    "created_at": "2026-06-21T21:23:36.971131+00:00"
+},
+{
+    "id": 10905,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If [X → α • β, c] is an LR(1) item, then \"c\" is a/an _______________.",
+    "op": [
+        "Non-terminal",
+        "Terminal",
+        "Production",
+        "Look-ahead symbol"
+    ],
+    "created_at": "2026-06-21T21:36:23.124841+00:00"
+},
+{
+    "id": 10906,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The pair <A → β, k> is called the handle of the ____________ parse.",
+    "op": [
+        "Bottom-Up",
+        "Bottom-Down",
+        "Top-Up",
+        "Top-Down"
+    ],
+    "created_at": "2026-06-21T21:36:35.580436+00:00"
+},
+{
+    "id": 10907,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In shift-reduce parsing, what does a handle represent?",
+    "op": [
+        "The non-terminal symbol on the left-hand side of a production rule.",
+        "The right-hand side of a production rule that matches a portion of the input string.",
+        "The terminal symbol at the top of the parser's stack.",
+        "The current state of the parser's stack."
+    ],
+    "created_at": "2026-06-21T21:36:43.591119+00:00"
+},
+{
+    "id": 10910,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "LR parsers are commonly used for:",
+    "op": [
+        "Lexical analysis",
+        "Register Allocation",
+        "Code generation",
+        "Syntax analysis"
+    ],
+    "created_at": "2026-06-21T21:37:22.665103+00:00"
+},
+{
+    "id": 10912,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In bottom-up parsing, _______________ conflict occurs when the parser encounters a state where it has multiple valid shift actions but needs to decide which one to choose.",
+    "op": [
+        "Reduce-Reduce",
+        "Shift-Reduce",
+        "Shift-Shift",
+        "Reduce-Shift"
+    ],
+    "created_at": "2026-06-21T21:37:33.362473+00:00"
+},
+{
+    "id": 10921,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the LR table, how are the entries other than the state containing [S' → •S, $] initialized?",
+    "op": [
+        "Assigned with shift actions",
+        "Marked as \"accept\"",
+        "Marked as \"error\"",
+        "Assigned with reduce actions"
+    ],
+    "created_at": "2026-06-21T21:41:35.824881+00:00"
+},
+{
+    "id": 10923,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In LR(1) parser, the Action table specifies the next state, while the GoTo table determines the particular action (i.e., shift / reduce).",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-21T21:41:51.891588+00:00"
+},
+{
+    "id": 10925,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of LR(1) parser, each set in _______________ represents a state in the eventual parser DFA.",
+    "op": [
+        "Upper Frontier",
+        "Closure Procedure",
+        "Canonical Collection",
+        "Handle"
+    ],
+    "created_at": "2026-06-21T21:42:01.765265+00:00"
+},
+{
+    "id": 11235,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "By setting the initial state and marking the remaining entries as \"error\", the LR table is properly initialized to begin the LR parsing process.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T00:03:15.590436+00:00"
+},
+{
+    "id": 11236,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of Shift-Reduce parser, the number of potential handles for a grammar is equal to the ____________ of the lengths of the right-hand side of all the productions.",
+    "op": [
+        "Multiplication",
+        "Division",
+        "Sum",
+        "Subtraction"
+    ],
+    "created_at": "2026-06-22T00:04:10.980643+00:00"
+},
+{
+    "id": 11237,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In LR grammar, the R stands for ________________.",
+    "op": [
+        "Right shift",
+        "Right most derivation",
+        "Right hand side of grammar",
+        "Right to left scan"
+    ],
+    "created_at": "2026-06-22T00:06:06.759239+00:00"
+},
+{
+    "id": 11285,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the LR(1) parser code, the statement \"stack.pop(2×|β|)\" pops twice the length of the _______________ side of the production rule from the stack.",
+    "op": [
+        "Bottom-hand",
+        "Right-hand",
+        "Top-hand",
+        "Left-hand"
+    ],
+    "created_at": "2026-06-22T00:19:40.478851+00:00"
+},
+{
+    "id": 11286,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of canonical collection of LR(1) items, if a terminal appears after the placeholder \"·\" then no further closure is possible.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T00:19:49.367601+00:00"
+},
+{
+    "id": 11287,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In compiler construction, an LR parser is a type of:",
+    "op": [
+        "Bottom-up parser",
+        "Non-recursive parser",
+        "Top-down parser",
+        "Recursive descent parser"
+    ],
+    "created_at": "2026-06-22T00:20:07.636307+00:00"
+},
+{
+    "id": 11288,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of LR(1) parser, which of the following forms the GoTo table in the DFA representation table?",
+    "op": [
+        "Columns with non-terminals",
+        "Rows with non-terminals",
+        "Rows with terminals",
+        "Columns with terminals"
+    ],
+    "created_at": "2026-06-22T00:20:22.330083+00:00"
+},
+{
+    "id": 11387,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What does the term \"canonical collection\" refer to in LR parsing?",
+    "op": [
+        "A list of production rules in a grammar.",
+        "The final output of the parsing process.",
+        "A set of LR items representing the states of the parser during parsing.",
+        "A table used for storing parsing actions."
+    ],
+    "created_at": "2026-06-22T00:43:04.039738+00:00"
+},
+{
+    "id": 11389,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of canonical collection of LR(1) items, if a non-terminal appears after the placeholder \"·\" then no further closure is possible.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T00:43:11.112211+00:00"
+},
+{
+    "id": 11390,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the grammar \"T → a b c d | a b d c\", the ____________ is a common prefix for non-terminal 'T'.",
+    "op": [
+        "c d",
+        "a b",
+        "a c",
+        "b d"
+    ],
+    "created_at": "2026-06-22T00:43:17.353105+00:00"
+},
+{
+    "id": 11391,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If the parsing loop terminates without encountering any errors, then the parsing process is considered as successful.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T00:43:23.90336+00:00"
+},
+{
+    "id": 11392,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "LR(0) parsing is a more powerful parsing technique than LR(1) parsing.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T00:43:30.147041+00:00"
+},
+{
+    "id": 11393,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "At each step, the ____________ parser looks for a section of the upper frontier that matches right-hand side of some production.",
+    "op": [
+        "Predictive",
+        "LL(1)",
+        "Top-down",
+        "Shift-Reduce"
+    ],
+    "created_at": "2026-06-22T00:43:43.161034+00:00"
+},
+{
+    "id": 11394,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In Shift-Reduce parser, the handle-recognizing DFA is basically represented as a 2-dimensional table, where ____________ correspond to DFA states.",
+    "op": [
+        "Cells",
+        "Rows",
+        "Columns",
+        "Captions"
+    ],
+    "created_at": "2026-06-22T00:43:50.943309+00:00"
+},
+{
+    "id": 11395,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In Shift-Reduce parsing, every legal input eventually reduces the entire frontier to grammar’s goal symbol.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T00:44:00.158465+00:00"
+},
+{
+    "id": 11420,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Is it true that LR parsers do not need left-factored grammars?",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-22T00:53:33.805289+00:00"
+},
+{
+    "id": 11421,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What should be added to the LL(1) parsing table entry M[A, a] during the construction process?",
+    "op": [
+        "The non-terminal A.",
+        "The production rule A → α.",
+        "The FOLLOW set of A.",
+        "The FIRST set of A."
+    ],
+    "created_at": "2026-06-22T00:54:00.059893+00:00"
+},
+{
+    "id": 11440,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The upper frontier in a shift-reduce parser is the set of symbols at the top of the parser's stack that have not been reduced yet.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T01:03:55.111477+00:00"
+},
+{
+    "id": 11445,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If [X → α • β, a] is an LR(1) item, then symbol \"•\" (between α and β) represents a/an _______________.",
+    "op": [
+        "Placeholder",
+        "Terminal",
+        "Production",
+        "Non-terminal"
+    ],
+    "created_at": "2026-06-22T01:05:59.920571+00:00"
+},
+{
+    "id": 11446,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The augmented grammar is particularly important in which parsing algorithm?",
+    "op": [
+        "Recursive descent parsing.",
+        "LR(1) parsing.",
+        "LL(1) parsing.",
+        "Top-down parsing."
+    ],
+    "created_at": "2026-06-22T01:06:10.356499+00:00"
+},
+{
+    "id": 11447,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If closure(I) is \"I0 = [S' → ·S, S → ·s]\" for a typical grammar, then goto(I0, s) would be _______________.",
+    "op": [
+        "S → S·",
+        "S → s·",
+        "S' → s·",
+        "S' → S·"
+    ],
+    "created_at": "2026-06-22T01:06:18.443039+00:00"
+},
+{
+    "id": 11513,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "One of the rationales behind the Closure procedure is to:",
+    "op": [
+        "Handle conflicts arising from ambiguous grammar rules.",
+        "Determine potential reductions and expansions in the grammar.",
+        "Optimize the performance of the parsing algorithm.",
+        "Identify grammar errors in the production rules."
+    ],
+    "created_at": "2026-06-22T01:19:53.683255+00:00"
+},
+{
+    "id": 11522,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The recognition of potential handles is crucial for the parser to:",
+    "op": [
+        "Decide when to perform a reduce operation.",
+        "Determine the previous state in the parsing table.",
+        "Decide when to perform a shift operation.",
+        "Determine the next state in the parsing table."
+    ],
+    "created_at": "2026-06-22T01:20:25.802279+00:00"
+},
+{
+    "id": 11547,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If the parser encounters an unexpected input symbol or an invalid configuration, then an accept action is taken.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T01:26:53.347083+00:00"
+},
+{
+    "id": 11549,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Is it true that assigning precedence levels to grammar rules or tokens can help resolve shift-reduce conflicts?",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-22T01:28:06.019058+00:00"
+},
+{
+    "id": 11555,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "LR parsers CAN NOT handle left-recursive grammars.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T01:34:04.789855+00:00"
+},
+{
+    "id": 11718,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In an LR(1) parser, which of the following actions consumes the input (i.e., advance the input by consuming the current token)?",
+    "op": [
+        "Error",
+        "Reduce",
+        "Accept",
+        "Shift"
+    ],
+    "created_at": "2026-06-22T02:25:57.501477+00:00"
+},
+{
+    "id": 11719,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In shift-reduce parsing, Shift action moves ► one place to the ________________ which shifts a terminal to the left string.",
+    "op": [
+        "Right",
+        "Top",
+        "Bottom",
+        "Left"
+    ],
+    "created_at": "2026-06-22T02:26:08.61485+00:00"
+},
+{
+    "id": 11722,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following production contains a placeholder at its start of right-hand side?",
+    "op": [
+        "Expr → Expr – Term •",
+        "Expr → • Expr –Term",
+        "Expr → Expr • – Term",
+        "Expr → Expr – •Term"
+    ],
+    "created_at": "2026-06-22T02:26:36.503441+00:00"
+},
+{
+    "id": 11794,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is NOT a step in the closure procedure for an LR item?",
+    "op": [
+        "Identify the symbols immediately following the dot in the item.",
+        "Compute the FIRST set for the nonterminal symbol following the dot.",
+        "Determine the lookahead symbols for the item.",
+        "Add the item to the closure set."
+    ],
+    "created_at": "2026-06-22T02:44:19.713167+00:00"
+},
+{
+    "id": 11875,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the reduce action, the shift-reduce parser applies an inverse production at the right end of the ________________ string.",
+    "op": [
+        "Left",
+        "Right",
+        "Bottom",
+        "Top"
+    ],
+    "created_at": "2026-06-22T03:04:21.603685+00:00"
+},
+{
+    "id": 11979,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The purpose of the added ε-transitions in the NFA is to:",
+    "op": [
+        "Resolve conflicts in the parsing process.",
+        "Recognize the symbols β before a reduction by X → β.",
+        "Identify the start state of the grammar.",
+        "Push the non-terminal X onto the parse stack."
+    ],
+    "created_at": "2026-06-22T03:20:08.631581+00:00"
+},
+{
+    "id": 12303,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In LR grammar, the L stands for ________________.",
+    "op": [
+        "Left to right scan",
+        "Left hand side of grammar",
+        "Left most derivation",
+        "Left Shift"
+    ],
+    "created_at": "2026-06-22T03:58:42.562409+00:00"
+},
+{
+    "id": 12305,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "This initial state signifies the starting point of the parsing process and serves as the entry point for constructing the LR table.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T03:59:05.331205+00:00"
+},
+{
+    "id": 12323,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the grammar \"A → a d c b | a d b c\", the ____________ is a common prefix for non-terminal 'A'.",
+    "op": [
+        "b",
+        "d c b",
+        "a d",
+        "a b c d"
+    ],
+    "created_at": "2026-06-22T04:01:55.691603+00:00"
+},
+{
+    "id": 12429,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If X is a non-terminal symbol, the transition on symbol X in the NFA of LR(0) items corresponds to:",
+    "op": [
+        "Shifting X from the parse stack to the input.",
+        "Applying the closure operation to the LR(0) items.",
+        "Determining the valid lookahead symbols.",
+        "Performing a reduction based on the production rule X → γ."
+    ],
+    "created_at": "2026-06-22T04:14:04.388202+00:00"
+},
+{
+    "id": 12485,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What is the purpose of the augmented start production in the augmented grammar?",
+    "op": [
+        "It ensures that the grammar meets the requirements of parsing algorithms.",
+        "It indicates the end of the input for parsing purposes.",
+        "It represents the first production rule in the grammar.",
+        "It introduces a new non-terminal symbol in the grammar."
+    ],
+    "created_at": "2026-06-22T04:21:54.43236+00:00"
+},
+{
+    "id": 12851,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A top-bottom parser operates by repeatedly locating handles on the frontier of the partial parse tree and performing reductions that they specify.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T04:55:45.27877+00:00"
+},
+{
+    "id": 12886,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "For every LR(0) item \"A → α•Xη\", the ε-transitions are added for:",
+    "op": [
+        "The terminal symbols in the input sequence.",
+        "The lookahead symbols of X.",
+        "The non-terminal symbols in the grammar.",
+        "The production rules containing X as a non-terminal."
+    ],
+    "created_at": "2026-06-22T04:57:52.864258+00:00"
+},
+{
+    "id": 12893,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the context of LR(1) parser, the construction of _______________ begins by building a model of parser’s initial state.",
+    "op": [
+        "Handle",
+        "Canonical Collection",
+        "Upper Frontier",
+        "Closure Procedure"
+    ],
+    "created_at": "2026-06-22T04:58:07.976598+00:00"
+},
+{
+    "id": 12909,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the handle representation <A → α, k>, where A is the left-hand side non-terminal and α is the right-hand side, what does α represent?",
+    "op": [
+        "The entire input string.",
+        "The stack symbols of the parser.",
+        "The input symbols matched by the handle.",
+        "The handle itself."
+    ],
+    "created_at": "2026-06-22T04:59:35.3694+00:00"
+},
+{
+    "id": 12927,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The action table in the DFA representation table is used for:",
+    "op": [
+        "Shifting terminals",
+        "Transitioning to non-terminals",
+        "Accepting the input",
+        "Reducing using production rules"
+    ],
+    "created_at": "2026-06-22T05:00:54.731277+00:00"
+},
+{
+    "id": 12977,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the LR item [S' → •S, $], the \"S\" represents a non-terminal symbol in the grammar.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T05:05:03.14761+00:00"
+},
+{
+    "id": 12994,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The augmented grammar has its own start symbol, while original grammar includes an additional production rule, called the augmented start production.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-22T05:07:55.460154+00:00"
+},
+{
+    "id": 42897,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is NOT a step in the closure procedure for an LR item?",
+    "op": [
+        "Add the item to the closure set.",
+        "Determine the lookahead symbols for the item.",
+        "Identify the symbols immediately following the dot in the item.",
+        "Compute the FIRST set for the nonterminal symbol following the dot."
+    ],
+    "created_at": "2026-06-23T18:22:32.209397+00:00"
+},
+{
+    "id": 42898,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "For the grammar \"S → a c T | a U\", it is very easy to predict because two productions start with 'a'.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-23T18:22:51.300889+00:00"
+},
+{
+    "id": 42899,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "If find ε in FIRST(α), add production rule \"A → α\" to LL(1) parsing table entry M[A, b] for each ____________ in FOLLOW(A).",
+    "op": [
+        "Non-Terminal B",
+        "Terminal a",
+        "Terminal b",
+        "Non-Terminal A"
+    ],
+    "created_at": "2026-06-23T18:23:01.670772+00:00"
+},
+{
+    "id": 42900,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In an LR(1) parser, Reduce action does not consume the input, while shift action advances the input by consuming the current token.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T18:23:10.88457+00:00"
+},
+{
+    "id": 42901,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "At the start of LR(1) parser, a dummy symbol is pushed on stack \"stack.push(dummy)\". The purpose of it is;",
+    "op": [
+        "To prevent stack underflow during reduction operations.",
+        "To handle conflicts in the parsing tables.",
+        "To assist in error recovery when encountering unexpected tokens.",
+        "To indicate the end of the parsing process."
+    ],
+    "created_at": "2026-06-23T18:23:18.00727+00:00"
+},
+{
+    "id": 42902,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In the reduce action, the shift-reduce parser applies an inverse production at the right end of the ________________ string.",
+    "op": [
+        "Left",
+        "Right",
+        "Top",
+        "Bottom"
+    ],
+    "created_at": "2026-06-23T18:23:27.201752+00:00"
+},
+{
+    "id": 42903,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In the context of LR(1) parser, each set in _______________ represents a state in the eventual parser DFA.",
+    "op": [
+        "Upper Frontier",
+        "Handle",
+        "Canonical Collection",
+        "Closure Procedure"
+    ],
+    "created_at": "2026-06-23T18:23:38.932763+00:00"
+},
+{
+    "id": 42904,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In shift-reduce parsing, what does a handle represent?",
+    "op": [
+        "The terminal symbol at the top of the parser's stack.",
+        "The right-hand side of a production rule that matches a portion of the input string.",
+        "The non-terminal symbol on the left-hand side of a production rule.",
+        "The current state of the parser's stack."
+    ],
+    "created_at": "2026-06-23T18:23:46.708007+00:00"
+},
+{
+    "id": 42905,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "By setting the initial state and marking the remaining entries as \"error\", the LR table is properly initialized to begin the LR parsing process.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-23T18:23:54.039504+00:00"
+},
+{
+    "id": 42906,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In an LR(1) parser, which of the following actions consumes the input (i.e., advance the input by consuming the current token)?",
+    "op": [
+        "Reduce",
+        "Accept",
+        "Error",
+        "Shift"
+    ],
+    "created_at": "2026-06-23T17:32:35.411534+00:00"
+},
+{
+    "id": 42907,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The canonical collection is constructed by repeatedly applying which operations?",
+    "op": [
+        "Closure and shift",
+        "Shift and reduce",
+        "Reduce and goto",
+        "Closure and goto"
+    ],
+    "created_at": "2026-06-23T17:32:43.686144+00:00"
+},
+{
+    "id": 42908,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "What is the upper frontier in a partially constructed parse tree?",
+    "op": [
+        "The leftmost part of the tree.",
+        "The bottommost part of the tree.",
+        "The topmost part of the tree.",
+        "The rightmost part of the tree."
+    ],
+    "created_at": "2026-06-23T17:32:52.830873+00:00"
+},
+{
+    "id": 42909,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "For each ____________, add production rule \"A → α\" to LL(1) parsing table entry M[A, a].",
+    "op": [
+        "Non-terminal 'A' in FOLLOW(α).",
+        "Terminal 'a' in FIRST(α).",
+        "Terminal 'a' in FOLLOW(α).",
+        "Non-terminal 'A' in FIRST(α)."
+    ],
+    "created_at": "2026-06-23T17:32:59.720666+00:00"
+},
+{
+    "id": 42910,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The NFA of LR(0) items represents transitions between:",
+    "op": [
+        "LR(1) items.",
+        "Non-terminal symbols and their productions.",
+        "LR(0) items without considering lookahead symbols.",
+        "Grammar symbols and their derivations."
+    ],
+    "created_at": "2026-06-23T17:33:09.960158+00:00"
+},
+{
+    "id": 42911,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "If the parsing loop terminates without encountering any errors, then the parsing process is considered as successful.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-23T17:33:18.376157+00:00"
+},
+{
+    "id": 42912,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The augmented grammar has its own start symbol, while original grammar includes an additional production rule, called the augmented start production.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-23T17:33:25.818947+00:00"
+},
+{
+    "id": 42913,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "What does the GoTo table in the DFA representation table represent?",
+    "op": [
+        "Accepting the input",
+        "Transitioning to terminals",
+        "Applying production rules",
+        "Transitioning to non-terminals"
+    ],
+    "created_at": "2026-06-23T17:33:33.994251+00:00"
+},
+{
+    "id": 42914,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "A top-bottom parser operates by repeatedly locating handles on the frontier of the partial parse tree and performing reductions that they specify.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T17:33:41.293925+00:00"
+},
+{
+    "id": 42915,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "When transitioning from \"A → α•Xη\" to \"A → αX•η\" in the NFA of LR(0) items, the symbol X is a/an ____________ symbol.",
+    "op": [
+        "Non-terminal",
+        "Terminal",
+        "Lookahead",
+        "Start"
+    ],
+    "created_at": "2026-06-23T17:33:49.819504+00:00"
+},
+{
+    "id": 42916,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Is it true that LR parsers do not need left-factored grammars?",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-23T07:12:03.980838+00:00"
+},
+{
+    "id": 42917,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "If the parser encounters an unexpected input symbol or an invalid configuration, then an accept action is taken.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T07:12:22.446667+00:00"
+},
+{
+    "id": 42918,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In a shift-reduce parser, a placeholder is used to represent an incomplete or partial structure during the parsing process.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T07:12:49.129094+00:00"
+},
+{
+    "id": 42919,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In the context of canonical collection of LR(1) items, if a non-terminal appears after the placeholder \"·\" then no further closure is possible.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T07:13:19.804288+00:00"
+},
+{
+    "id": 42920,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The canonical collection is used to generate which of the following parsing tables?",
+    "op": [
+        "Action and goto tables",
+        "Production and symbol tables",
+        "First and follow tables",
+        "Closure and reduction tables"
+    ],
+    "created_at": "2026-06-23T07:13:35.918665+00:00"
+},
+{
+    "id": 42921,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "LR parsers are commonly used for:",
+    "op": [
+        "Syntax analysis",
+        "Lexical analysis",
+        "Code generation",
+        "Register Allocation"
+    ],
+    "created_at": "2026-06-23T07:15:38.635821+00:00"
+},
+{
+    "id": 42922,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Which direction does a bottom-up parser use to build the parse tree?",
+    "op": [
+        "From the root to the leaves.",
+        "From the right to the left.",
+        "From the left to the right.",
+        "From the leaves to the root."
+    ],
+    "created_at": "2026-06-23T07:15:51.27864+00:00"
+},
+{
+    "id": 42923,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The augmented grammar is particularly important in which parsing algorithm?",
+    "op": [
+        "Top-down parsing.",
+        "Recursive descent parsing.",
+        "LL(1) parsing.",
+        "LR(1) parsing."
+    ],
+    "created_at": "2026-06-23T07:16:03.436862+00:00"
+},
+{
+    "id": 42924,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "What should be added to the LL(1) parsing table entry M[A, a] during the construction process?",
+    "op": [
+        "The FIRST set of A.",
+        "The FOLLOW set of A.",
+        "The production rule A → α.",
+        "The non-terminal A."
+    ],
+    "created_at": "2026-06-23T07:16:19.969374+00:00"
+},
+{
+    "id": 42925,
+    "cc": "CS606",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In the LR item [S' → •S, $], the \"S\" represents a non-terminal symbol in the grammar.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-23T07:16:33.856482+00:00"
+},
+{
+    "id": 47547,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the main characteristic of linear IRs?",
+    "op": [
+        "They represent the program as a linear sequence of instructions or statements.",
+        "They represent the program as a graph.",
+        "They combine elements of graphical and linear representations.",
+        "They allow for complex program structures and sophisticated analyses."
+    ],
+    "created_at": "2026-07-05T19:03:13.869882+00:00"
+},
+{
+    "id": 47557,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The size of an LR(1) parsing table can be calculated by multiplying the number of ___________ with the number of symbols.",
+    "op": [
+        "Rules",
+        "Terminals",
+        "Actions",
+        "States"
+    ],
+    "created_at": "2026-07-05T19:03:24.43654+00:00"
+},
+{
+    "id": 47568,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, an attribute (e.g., val) of a symbol (e.g., B) can be written as ____________.",
+    "op": [
+        "val.B",
+        "val@B",
+        "B@val",
+        "B.val"
+    ],
+    "created_at": "2026-07-05T19:03:35.995226+00:00"
+},
+{
+    "id": 47587,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Why have LALR(1) grammars become a standard for parser generators?",
+    "op": [
+        "They offer better performance than other grammars.",
+        "They are compatible with natural languages.",
+        "They have widespread adoption and support for programming languages.",
+        "They allow for automatic code generation."
+    ],
+    "created_at": "2026-07-05T19:03:55.171145+00:00"
+},
+{
+    "id": 47599,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the purpose of the $3 notation in YACC?",
+    "op": [
+        "To refer to the third symbol on the right-hand side of a production",
+        "To refer to the first symbol on the right-hand side of a production",
+        "To refer to the second symbol on the right-hand side of a production",
+        "To refer to the fourth symbol on the right-hand side of a production"
+    ],
+    "created_at": "2026-07-05T19:04:04.440424+00:00"
+},
+{
+    "id": 47611,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Compared to LR(1), LALR(1) parsing tables typically have:",
+    "op": [
+        "No states",
+        "Less states",
+        "Same states",
+        "More states"
+    ],
+    "created_at": "2026-07-05T19:04:12.020379+00:00"
+},
+{
+    "id": 47624,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which section in a YACC specification file contains the \"grammar rules\"?",
+    "op": [
+        "First Section",
+        "Fourth Section",
+        "Third Section",
+        "Second Section"
+    ],
+    "created_at": "2026-07-05T19:04:20.461258+00:00"
+},
+{
+    "id": 47640,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Why is a topological sort necessary in the dynamic method of attribute grammar evaluation?",
+    "op": [
+        "It simplifies the construction of the parse tree.",
+        "It ensures that attribute dependencies are resolved correctly.",
+        "It guarantees efficient attribute computation.",
+        "It eliminates circular dependencies."
+    ],
+    "created_at": "2026-07-05T19:04:30.082416+00:00"
+},
+{
+    "id": 47656,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What does the notation $$ refer to in YACC?",
+    "op": [
+        "The symbol on the right-hand side of the production",
+        "The symbol on the down-hand side of the production",
+        "The symbol on the left-hand side of the production",
+        "The symbol on the up-hand side of the production"
+    ],
+    "created_at": "2026-07-05T19:04:39.58839+00:00"
+},
+{
+    "id": 49038,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the purpose of using an intermediate representation (IR) in a compiler?",
+    "op": [
+        "To eliminate the need for multiple passes in the compilation process.",
+        "To directly translate high-level code into machine code.",
+        "To provide a structured and uniform representation for code analysis and transformation.",
+        "To simplify the debugging process for the compiled code."
+    ],
+    "created_at": "2026-07-05T19:27:52.188037+00:00"
+},
+{
+    "id": 49044,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, when the parse tree is peeled away, we get the attribute independence graph",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T19:27:57.96469+00:00"
+},
+{
+    "id": 49047,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the advantage of adopting YACC notation in the ad-hoc scheme for semantic analysis?",
+    "op": [
+        "It provides a standardized approach for attribute handling.",
+        "It simplifies the attribute dependency analysis process.",
+        "It guarantees efficient attribute propagation.",
+        "It ensures compatibility with existing parsing tools."
+    ],
+    "created_at": "2026-07-05T19:28:03.683495+00:00"
+},
+{
+    "id": 49051,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which category of intermediate representation (IR) represents the program as a graph?",
+    "op": [
+        "Linear IRs",
+        "Hybrid IRs",
+        "Sequential IRs",
+        "Graphical IRs"
+    ],
+    "created_at": "2026-07-05T19:28:09.126141+00:00"
+},
+{
+    "id": 49056,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How is the attribute evaluation order determined in the oblivious methodology?",
+    "op": [
+        "Chosen at compiler design time",
+        "Based on the syntax tree structure",
+        "By considering the attribute dependencies",
+        "By analyzing the attribute rules"
+    ],
+    "created_at": "2026-07-05T19:28:14.878659+00:00"
+},
+{
+    "id": 49060,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which two linear intermediate representations (IRs) are commonly used in modern compilers?",
+    "op": [
+        "High-level language and low-level language",
+        "Stack-machine code and three-address code",
+        "Register-transfer language and SSA form",
+        "Assembly code and bytecode"
+    ],
+    "created_at": "2026-07-05T19:28:21.920414+00:00"
+},
+{
+    "id": 49063,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the characteristic of the ordering of attribute evaluation in the rule-based methodology?",
+    "op": [
+        "It is fixed and determined at compiler-generation time.",
+        "It is determined based on the values of the attributes.",
+        "It is dynamically determined during the compilation process.",
+        "It is randomly assigned during the dependency graph construction."
+    ],
+    "created_at": "2026-07-05T19:28:28.980521+00:00"
+},
+{
+    "id": 49068,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the modified parser for the implementation of ad-hoc scheme for semantic analysis, what happens when a reduction by the production rule A → β occurs?",
+    "op": [
+        "The parser pops 2×|β| items from the stack.",
+        "The parser pops 3×|β| items from the stack.",
+        "The parser pushes 2×|β| items onto the stack.",
+        "The parser pushes 3×|β| items onto the stack."
+    ],
+    "created_at": "2026-07-05T19:28:36.40683+00:00"
+},
+{
+    "id": 49070,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, values used to compute inherited attributes flow ____________ in the parse tree.",
+    "op": [
+        "Top-down",
+        "Bottom-up",
+        "Top-up",
+        "Bottom-down"
+    ],
+    "created_at": "2026-07-05T19:28:42.468245+00:00"
+},
+{
+    "id": 49523,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the first step performed by the compiler application when using the dynamic method in attribute grammar evaluation?",
+    "op": [
+        "Constructing the parse tree",
+        "Performing a topological sort",
+        "Building the dependence graph",
+        "Evaluating attributes in topological order"
+    ],
+    "created_at": "2026-07-05T19:44:16.768291+00:00"
+},
+{
+    "id": 49550,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How is a symbol table implemented?",
+    "op": [
+        "As a stack",
+        "As a queue",
+        "As an array",
+        "As a hash table"
+    ],
+    "created_at": "2026-07-05T19:45:29.64345+00:00"
+},
+{
+    "id": 49558,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, attributes are distinguished based on the direction of value flow.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T19:45:42.340362+00:00"
+},
+{
+    "id": 49574,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In syntax-directed translation, every time the parser encounters an identifier, it stores it in the _______________.",
+    "op": [
+        "Linear Array",
+        "Parsing Stack",
+        "Symbol table",
+        "Priority Queue"
+    ],
+    "created_at": "2026-07-05T19:46:24.720255+00:00"
+},
+{
+    "id": 49891,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, a CFG is augmented with a set of ____________.",
+    "op": [
+        "Terminals",
+        "Symbols",
+        "Rules",
+        "Non-terminals"
+    ],
+    "created_at": "2026-07-05T20:02:48.198959+00:00"
+},
+{
+    "id": 49893,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Selecting an appropriate IR for a compiler project requires an understanding of both the source language and the target machine.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T20:02:58.487391+00:00"
+},
+{
+    "id": 49896,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What does LALR(1) stand for?",
+    "op": [
+        "Look Ahead LL(1)",
+        "Look Ahead RL(1)",
+        "Look Ahead RR(1)",
+        "Look Ahead LR(1)"
+    ],
+    "created_at": "2026-07-05T20:03:05.442037+00:00"
+},
+{
+    "id": 49898,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the foundation of the ad-hoc scheme for semantic analysis?",
+    "op": [
+        "Formal language theory",
+        "Abstract syntax trees",
+        "Attribute grammars",
+        "Compiler optimization techniques"
+    ],
+    "created_at": "2026-07-05T20:03:13.529225+00:00"
+},
+{
+    "id": 49900,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the oblivious methodology of attribute grammar evaluation, what is ignored during the compilation process?",
+    "op": [
+        "Attribute design considerations",
+        "Attribute values",
+        "Attribute dependencies",
+        "Attribute rules and parse tree"
+    ],
+    "created_at": "2026-07-05T20:03:22.722557+00:00"
+},
+{
+    "id": 49902,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT a typical use of attributed trees in compiler design?",
+    "op": [
+        "Error handling",
+        "Type checking",
+        "Optimization",
+        "Syntax analysis"
+    ],
+    "created_at": "2026-07-05T20:03:30.880998+00:00"
+},
+{
+    "id": 49905,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Stack-machine code and three-address code are mutually exclusive and cannot be used together in modern compilers.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T20:03:38.239441+00:00"
+},
+{
+    "id": 49907,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In YACC, what does the notation $1 refer to?",
+    "op": [
+        "The second symbol on the left-hand side of a production.",
+        "The first symbol on the right-hand side of a production.",
+        "The first symbol on the left-hand side of a production.",
+        "The second symbol on the right-hand side of a production."
+    ],
+    "created_at": "2026-07-05T20:03:46.122194+00:00"
+},
+{
+    "id": 49909,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which tool uses the '$' notation to refer to values of symbols on the right-hand side of grammar productions?",
+    "op": [
+        "YACC",
+        "Bison",
+        "Flex",
+        "Lex"
+    ],
+    "created_at": "2026-07-05T20:03:53.29977+00:00"
+},
+{
+    "id": 49985,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If \"A → B C D\" is a production, then B is a child node of ____________ node.",
+    "op": [
+        "C",
+        "B",
+        "D",
+        "A"
+    ],
+    "created_at": "2026-07-05T20:10:20.664399+00:00"
+},
+{
+    "id": 49989,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which type of intermediate representation is typically used in compilers for advanced optimization techniques?",
+    "op": [
+        "Three-address code",
+        "Byte code",
+        "Stack-machine code",
+        "Assembly code"
+    ],
+    "created_at": "2026-07-05T20:10:52.870179+00:00"
+},
+{
+    "id": 49993,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Abstract Syntax Tree is less concise than a parse tree.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T20:11:07.10378+00:00"
+},
+{
+    "id": 49998,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which section in a YACC specification file contains the \"tokens definitions\"?",
+    "op": [
+        "Fourth Section",
+        "First Section",
+        "Third Section",
+        "Second Section"
+    ],
+    "created_at": "2026-07-05T20:11:22.098493+00:00"
+},
+{
+    "id": 49999,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "S --> A B A --> ∈ | aA B --> ∈ | bB. FIRST(S) contains ___ elements.",
+    "op": [
+        "5",
+        "4",
+        "6",
+        "3"
+    ],
+    "created_at": "2026-07-05T20:11:41.395997+00:00"
+},
+{
+    "id": 50153,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "LALR(1) parsing reduces the size of the parsing tables by:",
+    "op": [
+        "Ignoring reduce actions.",
+        "Merging states with identical cores.",
+        "Limiting the number of lookahead tokens.",
+        "Using an enhanced parsing algorithm."
+    ],
+    "created_at": "2026-07-05T20:29:06.44199+00:00"
+},
+{
+    "id": 50157,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the size, in bytes, typically allocated for addresses in three-address code?",
+    "op": [
+        "1 byte",
+        "8 bytes",
+        "2 bytes",
+        "4 bytes"
+    ],
+    "created_at": "2026-07-05T20:29:16.153413+00:00"
+},
+{
+    "id": 50161,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Compared to an LALR(1) parsing table, the size of an LR(1) parsing table is:",
+    "op": [
+        "Equal",
+        "Larger",
+        "Smaller",
+        "Same"
+    ],
+    "created_at": "2026-07-05T20:29:52.897768+00:00"
+},
+{
+    "id": 50303,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In YACC specification file, different sections are separated by ____________ symbol.",
+    "op": [
+        "@@",
+        "&&",
+        "##",
+        "%%"
+    ],
+    "created_at": "2026-07-05T20:42:09.986514+00:00"
+},
+{
+    "id": 50332,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "It is mandatory to deliver efficient target code by lowering the number of instructions in a program.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T20:44:25.049955+00:00"
+},
+{
+    "id": 50430,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "It is impossible to reduce the size of a large LR(1) table.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T21:05:03.168453+00:00"
+},
+{
+    "id": 50431,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, values used to compute synthesized attributes flow ____________ in the parse tree.",
+    "op": [
+        "Bottom-up",
+        "Bottom-down",
+        "Top-up",
+        "Top-down"
+    ],
+    "created_at": "2026-07-05T21:05:14.140561+00:00"
+},
+{
+    "id": 50436,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "CLR(1) has become a standard for programming languages and for parser generators.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T21:06:34.065646+00:00"
+},
+{
+    "id": 50445,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What does the \"sizeof\" operator return in C++?",
+    "op": [
+        "The size of a variable in megabytes.",
+        "The size of a variable in kilobytes.",
+        "The size of a variable in bits.",
+        "The size of a variable in bytes."
+    ],
+    "created_at": "2026-07-05T21:07:09.011365+00:00"
+},
+{
+    "id": 50496,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the context of the ad-hoc scheme for semantic analysis, which notation is adopted for specifying snippets and passing values?",
+    "op": [
+        "RE notation",
+        "NFA notation",
+        "BNF notation",
+        "YACC notation"
+    ],
+    "created_at": "2026-07-05T21:18:02.468167+00:00"
+},
+{
+    "id": 50509,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following attributes flows from parent nodes to child nodes in an attributed tree?",
+    "op": [
+        "Structural attributes",
+        "Semantic attributes",
+        "Inherited attributes",
+        "Synthesized attributes"
+    ],
+    "created_at": "2026-07-05T21:20:51.897527+00:00"
+},
+{
+    "id": 50518,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If \"A → B C D\" is a production, then A is a/an ____________ node of B, C and D nodes.",
+    "op": [
+        "Parent",
+        "Child",
+        "Sibling",
+        "Kid"
+    ],
+    "created_at": "2026-07-05T21:24:28.016005+00:00"
+},
+{
+    "id": 50522,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "YACC is often used in combination with Lex, a lexical analyzer generator, to create complete language processors.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T21:25:55.874559+00:00"
+},
+{
+    "id": 50601,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What consideration might influence the choice of the attribute evaluation order in the oblivious methodology?",
+    "op": [
+        "Dynamic attribute dependencies",
+        "Optimization goals",
+        "Syntax tree generation algorithms",
+        "Attribute propagation rules"
+    ],
+    "created_at": "2026-07-05T21:39:43.264808+00:00"
+},
+{
+    "id": 50603,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which file extension is commonly used for YACC specification file?",
+    "op": [
+        ".bin",
+        ".bnf",
+        ".y",
+        ".lex"
+    ],
+    "created_at": "2026-07-05T21:40:05.419698+00:00"
+},
+{
+    "id": 50604,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "LR(1) parsing table for even a simple language can be extremely large with thousands of entries.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T21:40:18.79644+00:00"
+},
+{
+    "id": 50605,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Stack-machine code is also called _______________ code.",
+    "op": [
+        "Three-address",
+        "Two-address",
+        "Zero-address",
+        "One-address"
+    ],
+    "created_at": "2026-07-05T21:40:26.645341+00:00"
+},
+{
+    "id": 50606,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In stack-machine code, how are operands typically accessed for operations?",
+    "op": [
+        "By using index-based addressing",
+        "Through explicit register allocations",
+        "By pushing them onto a stack",
+        "Through memory loads and stores"
+    ],
+    "created_at": "2026-07-05T21:40:39.10053+00:00"
+},
+{
+    "id": 50610,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the purpose of analyzing attribute rules in the rule-based methodology of attribute grammar evaluation?",
+    "op": [
+        "To optimize the attribute computation process",
+        "To generate the parse tree",
+        "To establish a fixed ordering of attribute evaluation",
+        "To determine the syntax of the source code"
+    ],
+    "created_at": "2026-07-05T21:41:13.44866+00:00"
+},
+{
+    "id": 50617,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following information is typically stored in a symbol table?",
+    "op": [
+        "Name and value of variables",
+        "Execution order of functions",
+        "Assembly instructions",
+        "Source code comments"
+    ],
+    "created_at": "2026-07-05T21:43:03.021134+00:00"
+},
+{
+    "id": 50619,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What does the symbol table use to uniquely identify each symbol?",
+    "op": [
+        "Location",
+        "Scope",
+        "Type",
+        "Name"
+    ],
+    "created_at": "2026-07-05T21:43:23.837662+00:00"
+},
+{
+    "id": 50675,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "YACC was originally developed at:",
+    "op": [
+        "IBM Research",
+        "Google Research",
+        "AT&T Bell Laboratories",
+        "Microsoft Research"
+    ],
+    "created_at": "2026-07-05T22:20:07.61614+00:00"
+},
+{
+    "id": 50680,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Three-address code is designed to minimize memory usage by using short representations for operations and addresses.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T22:20:50.662786+00:00"
+},
+{
+    "id": 50776,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What purpose does the topological sort serve in the dynamic method of attribute grammar evaluation?",
+    "op": [
+        "It builds the dependence graph.",
+        "It defines the order of attribute evaluation.",
+        "It constructs the parse tree.",
+        "It ensures the absence of circular dependencies."
+    ],
+    "created_at": "2026-07-05T22:54:41.173609+00:00"
+},
+{
+    "id": 50799,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What is the primary advantage of using three-address code as an intermediate representation (IR)?",
+    "op": [
+        "It ensures that each instruction has a maximum of three arguments.",
+        "It reduces the number of instructions required for complex operations.",
+        "It enables efficient memory management in the compiled code.",
+        "It simplifies the process of debugging the compiled code."
+    ],
+    "created_at": "2026-07-05T22:59:44.582055+00:00"
+},
+{
+    "id": 50800,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which section in a YACC specification file contains the \"c/c++ functions\"?",
+    "op": [
+        "Third Section",
+        "Fourth Section",
+        "First Section",
+        "Second Section"
+    ],
+    "created_at": "2026-07-05T23:01:45.114067+00:00"
+},
+{
+    "id": 50801,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How are the nodes in the dependency graph evaluated in the rule-based methodology of attribute grammar evaluation?",
+    "op": [
+        "In a bottom-up order",
+        "In a random order",
+        "In a topological order",
+        "In an order specified by the attribute rules"
+    ],
+    "created_at": "2026-07-05T23:02:53.415324+00:00"
+},
+{
+    "id": 50906,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Code optimization is essential to enhance the execution and efficiency of a source code.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T23:36:43.730764+00:00"
+},
+{
+    "id": 50910,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, each symbol in the derivation has a set of values or attributes.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T23:37:10.361459+00:00"
+},
+{
+    "id": 51057,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "YACC-generated parsers are based on which formal notation?",
+    "op": [
+        "Abstract Syntax Trees",
+        "Backus Naur Form",
+        "Regular Expressions",
+        "Chomsky Hierarchy"
+    ],
+    "created_at": "2026-07-06T00:14:35.523076+00:00"
+},
+{
+    "id": 51066,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In attribute grammars, rules and parse tree define an attribute dependence ____________ which must be acyclic.",
+    "op": [
+        "Stack",
+        "List",
+        "Table",
+        "Graph"
+    ],
+    "created_at": "2026-07-06T00:16:28.192295+00:00"
+},
+{
+    "id": 51138,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How does the symbol table help in detecting undefined symbols?",
+    "op": [
+        "By checking if symbols are declared before they are used",
+        "By performing lexical analysis of the source code",
+        "By identifying symbols with missing type information",
+        "By associating symbols with their memory locations"
+    ],
+    "created_at": "2026-07-06T00:35:44.32075+00:00"
+},
+{
+    "id": 51287,
+    "cc": "CS606",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Different compilers always use the same intermediate representation (IR) during the compilation process.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-06T01:07:31.614148+00:00"
+}
+]

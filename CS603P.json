@@ -1,0 +1,744 @@
+[
+    {
+        "id": 4327,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "Which one of the following provides implementation for methods described in state?",
+        "op": [
+            "Concrete State",
+            "Function",
+            "Context",
+            "State"
+        ],
+        "created_at": "2026-06-17T19:16:02.926541+00:00"
+    },
+    {
+        "id": 4331,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "For the purpose of interaction, _____________ can be used to show an interface to the client.",
+        "op": [
+            "Context",
+            "Concrete State",
+            "Function",
+            "State"
+        ],
+        "created_at": "2026-06-17T19:16:27.959836+00:00"
+    },
+    {
+        "id": 4333,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "Which one of the following statement will be true for state pattern?",
+        "op": [
+            "It allows an object to change its behaviour when it’s internal state changes.",
+            "It allows an object to change its behaviour when it’s external state changes.",
+            "It doesn't allow an object to change its behaviour when it’s external state changes.",
+            "It doesn't allow an object to change its behaviour when it’s internal state changes."
+        ],
+        "created_at": "2026-06-17T19:16:49.993837+00:00"
+    },
+    {
+        "id": 4334,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "______________ handle request from the ______________.",
+        "op": [
+            "Context, state",
+            "Concrete State, context",
+            "State, context",
+            "Context, concrete state"
+        ],
+        "created_at": "2026-06-17T19:16:59.631097+00:00"
+    },
+    {
+        "id": 10153,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "__________ shows a certain structure in the code that represent violation of fundamental design principles and may negatively impact design quality.",
+        "op": [
+            "Move method",
+            "Code smell",
+            "Refactoring",
+            "Extract Method"
+        ],
+        "created_at": "2026-06-21T19:48:37.967304+00:00"
+    },
+    {
+        "id": 10155,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Extract method type of code refactoring helps to ___________ complexity, while ___________ the overall readability of the code.",
+        "op": [
+            "Decrease, Increasing",
+            "Increase, Decreasing",
+            "Increase, Increasing",
+            "Decrease, Decreasing"
+        ],
+        "created_at": "2026-06-21T19:48:52.158758+00:00"
+    },
+    {
+        "id": 10160,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Refactoring refers to the process of restructuring existing code without changing its external behavior, it can be applied to ___________.",
+        "op": [
+            "Java language",
+            "Any programming language",
+            "C/C++ Language",
+            "Python language"
+        ],
+        "created_at": "2026-06-21T19:49:01.041279+00:00"
+    },
+    {
+        "id": 10162,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "_________ can be an indicator of the factors that contribute to technical debt.",
+        "op": [
+            "Extract Method",
+            "Move method",
+            "Refactoring",
+            "Bad Code smell"
+        ],
+        "created_at": "2026-06-21T19:49:09.881399+00:00"
+    },
+    {
+        "id": 10170,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "___________ Refactoring helps to separate and group a certain code fragment whereas the old code is substituted with just a call to the method.",
+        "op": [
+            "Extract Method",
+            "Move Method",
+            "Factory Method",
+            "Large Method"
+        ],
+        "created_at": "2026-06-21T19:49:50.188626+00:00"
+    },
+    {
+        "id": 11477,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Pick the correct option for step “2” in the following java code fragment. 1. public double A=0.0, B=0.0; 2. ______________ 3. System.out.println(\"Value returned by A is given by, A = \" +A);",
+        "op": [
+            "A= 5/3 * B.double;",
+            "A= 5/3 * B = double;",
+            "A= (double) 5/3 * B;",
+            "A= 5/3B * double;"
+        ],
+        "created_at": "2026-06-22T01:10:07.929783+00:00"
+    },
+    {
+        "id": 11841,
+        "cc": "CS603P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "One of the key advantages of Extract Method type of refactoring is that it provides ______________.",
+        "op": [
+            "Less code duplication",
+            "Code dependency is enhanced",
+            "Merges independent parts of code",
+            "Less readable code"
+        ],
+        "created_at": "2026-06-22T02:53:34.774945+00:00"
+    },
+    {
+        "id": 21770,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "A model in the Model View Controller (MVC) pattern is allowed to have _________.",
+        "op": [
+            "Zero views",
+            "No more than two views",
+            "A single view",
+            "Multiple views"
+        ],
+        "created_at": "2026-06-25T19:00:33.381329+00:00"
+    },
+    {
+        "id": 21771,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "In Model View Controller (MVC) pattern, the responsibility of “model” component is concerned with the __________.",
+        "op": [
+            "Data-link layer",
+            "Business-logic layer",
+            "Transport Layer",
+            "User interface layer"
+        ],
+        "created_at": "2026-06-25T19:00:47.318029+00:00"
+    },
+    {
+        "id": 21772,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "The Client is allowed to interact directly with _________ layer(s) in a Model View Controller (MVC) architectural pattern.",
+        "op": [
+            "Model and Controller",
+            "Model",
+            "View and Model",
+            "View and Controller"
+        ],
+        "created_at": "2026-06-25T19:00:55.318546+00:00"
+    },
+    {
+        "id": 21773,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "In Model View Controller (MVC) pattern, the data in the database can be updated/modified using the __________.",
+        "op": [
+            "Controller class",
+            "Model class",
+            "Data-link class",
+            "View class"
+        ],
+        "created_at": "2026-06-25T19:01:20.252175+00:00"
+    },
+    {
+        "id": 21774,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "The Client does not have the right to access which of the following layers in a Model View Controller (MVC) pattern?",
+        "op": [
+            "Controller",
+            "Presentation",
+            "View",
+            "Model"
+        ],
+        "created_at": "2026-06-25T19:01:32.722429+00:00"
+    },
+    {
+        "id": 21781,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "The component that receives the events in the Model View Controller (MVC) Pattern is called _________.",
+        "op": [
+            "Observer",
+            "Receiver",
+            "Model",
+            "Controller"
+        ],
+        "created_at": "2026-06-25T19:12:23.200269+00:00"
+    },
+    {
+        "id": 21804,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "Model View Controller (MVC) ensures _________ among models, views or controllers.",
+        "op": [
+            "Low cohesion",
+            "Low coupling",
+            "Hard modifiability",
+            "High coupling"
+        ],
+        "created_at": "2026-06-25T21:11:44.084927+00:00"
+    },
+    {
+        "id": 28846,
+        "cc": "CS603P",
+        "qn": "5",
+        "dt": "30 June 2026",
+        "qt": "Ignoring the functionality defined in the base class is violation of ________________.",
+        "op": [
+            "ISP",
+            "LSP",
+            "DIP",
+            "OCP"
+        ],
+        "created_at": "2026-06-30T04:28:23.167364+00:00"
+    },
+    {
+        "id": 28847,
+        "cc": "CS603P",
+        "qn": "5",
+        "dt": "30 June 2026",
+        "qt": "Modules that conform to the __________ principle are open for extension and closed for modification.",
+        "op": [
+            "DIP",
+            "ISP",
+            "LSP",
+            "OCP"
+        ],
+        "created_at": "2026-06-30T04:28:30.905444+00:00"
+    },
+    {
+        "id": 28848,
+        "cc": "CS603P",
+        "qn": "5",
+        "dt": "30 June 2026",
+        "qt": "Typically, dependency injection is used simply by ‘injecting’ any dependencies of a class through the class ___________ as an input parameter.",
+        "op": [
+            "Constructor",
+            "Object",
+            "Destructor",
+            "Interface"
+        ],
+        "created_at": "2026-06-30T04:28:38.570523+00:00"
+    },
+    {
+        "id": 28849,
+        "cc": "CS603P",
+        "qn": "5",
+        "dt": "30 June 2026",
+        "qt": "In programming, the __________________ states that no client should be forced to depend on methods it does not use.",
+        "op": [
+            "ISP",
+            "LSP",
+            "DIP",
+            "OCP"
+        ],
+        "created_at": "2026-06-30T04:28:44.937883+00:00"
+    },
+    {
+        "id": 28850,
+        "cc": "CS603P",
+        "qn": "5",
+        "dt": "30 June 2026",
+        "qt": "In programming, the ________________ is a way to decouple software modules.",
+        "op": [
+            "OCP",
+            "ISP",
+            "LSP",
+            "DIP"
+        ],
+        "created_at": "2026-06-30T04:28:51.479746+00:00"
+    },
+    {
+        "id": 32593,
+        "cc": "CS603P",
+        "qn": "6",
+        "dt": "01 July 2026",
+        "qt": "What is true about the strategy pattern? It defines a family of interchangeable algorithm It encapsulates each algorithm It does not let the algorithm vary independently from the clients that use it",
+        "op": [
+            "Both 1 & 2",
+            "Only 2",
+            "Only 1",
+            "Only 3"
+        ],
+        "created_at": "2026-06-30T21:49:32.922956+00:00"
+    },
+    {
+        "id": 32595,
+        "cc": "CS603P",
+        "qn": "6",
+        "dt": "01 July 2026",
+        "qt": "Strategy Pattern is a __________",
+        "op": [
+            "Class Pattern",
+            "Creational Pattern",
+            "Behavioral Pattern",
+            "Structural Pattern"
+        ],
+        "created_at": "2026-06-30T21:49:42.773986+00:00"
+    },
+    {
+        "id": 32596,
+        "cc": "CS603P",
+        "qn": "6",
+        "dt": "01 July 2026",
+        "qt": "Which design pattern will be appropriate for the application where the sorting algorithm (Bubble sort, QuickSort, MergeSort, etc.) can be decided at runtime?",
+        "op": [
+            "Strategy Pattern",
+            "Factory Pattern",
+            "Singleton Pattern",
+            "Facade Pattern"
+        ],
+        "created_at": "2026-06-30T21:49:49.854636+00:00"
+    },
+    {
+        "id": 32597,
+        "cc": "CS603P",
+        "qn": "6",
+        "dt": "01 July 2026",
+        "qt": "Design Patterns have ____ essential elements.",
+        "op": [
+            "4",
+            "3",
+            "1",
+            "2"
+        ],
+        "created_at": "2026-06-30T21:49:57.115559+00:00"
+    },
+    {
+        "id": 32598,
+        "cc": "CS603P",
+        "qn": "6",
+        "dt": "01 July 2026",
+        "qt": "//Here, we have an interface “sampleInterface” with only one method. interface sampleInterface { double sampleMethod(double arg); } //The implementation of the method is provided in the classA class classA ________ sampleInterface { @Override double sampleMethod(double arg); { return arg * (10); } } Fill in the blank by choosing an appropriate keyword from the given options.",
+        "op": [
+            "extends",
+            "ref",
+            "implements",
+            "inherits"
+        ],
+        "created_at": "2026-06-30T21:50:08.504166+00:00"
+    },
+    {
+        "id": 36541,
+        "cc": "CS603P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is not included in Architectural design decisions?",
+        "op": [
+            "Distribution of the system",
+            "Testing the system",
+            "Architectural styles",
+            "Type of application"
+        ],
+        "created_at": "2026-07-01T19:01:16.886026+00:00"
+    },
+    {
+        "id": 36545,
+        "cc": "CS603P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which view in architectural design shows the key abstractions in the system as objects or object classes?",
+        "op": [
+            "Process",
+            "Logical",
+            "Physical",
+            "Development"
+        ],
+        "created_at": "2026-07-01T19:01:28.694081+00:00"
+    },
+    {
+        "id": 36546,
+        "cc": "CS603P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which of the following view shows that the system is composed of interacting processes at run time?",
+        "op": [
+            "Physical",
+            "Development",
+            "Process",
+            "Logical"
+        ],
+        "created_at": "2026-07-01T19:01:33.720268+00:00"
+    },
+    {
+        "id": 36550,
+        "cc": "CS603P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "A ________ view shows the system hardware and how software components are distributed across the processors in the system.",
+        "op": [
+            "Logical",
+            "Development",
+            "Physical",
+            "Process"
+        ],
+        "created_at": "2026-07-01T19:01:37.358445+00:00"
+    },
+    {
+        "id": 36552,
+        "cc": "CS603P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "The UML was designed for describing _________",
+        "op": [
+            "Object-oriented systems",
+            "Architectural design",
+            "Both object-oriented systems and Architectural design",
+            "SRS"
+        ],
+        "created_at": "2026-07-01T19:01:41.994046+00:00"
+    },
+    {
+        "id": 42829,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "To show the present condition of the object _____________ can be used, because it sustains address to concrete state object.",
+        "op": [
+            "State",
+            "Function",
+            "Context",
+            "Concrete State"
+        ],
+        "created_at": "2026-06-17T21:07:04.4596+00:00"
+    },
+    {
+        "id": 42830,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "______________ handle request from the ______________.",
+        "op": [
+            "Concrete State, context",
+            "State, context",
+            "Context, concrete state",
+            "Context, state"
+        ],
+        "created_at": "2026-06-17T21:07:16.488214+00:00"
+    },
+    {
+        "id": 42831,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "For the purpose of interaction, _____________ can be used to show an interface to the client.",
+        "op": [
+            "Concrete State",
+            "State",
+            "Context",
+            "Function"
+        ],
+        "created_at": "2026-06-17T21:07:29.051486+00:00"
+    },
+    {
+        "id": 42832,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "Which one of the following provides implementation for methods described in state?",
+        "op": [
+            "Context",
+            "State",
+            "Concrete State",
+            "Function"
+        ],
+        "created_at": "2026-06-17T21:07:41.925498+00:00"
+    },
+    {
+        "id": 42833,
+        "cc": "CS603P",
+        "qn": "7",
+        "dt": "18 June 2026",
+        "qt": "Which one of the following statement will be true for state pattern?",
+        "op": [
+            "It doesn't allow an object to change its behaviour when it’s internal state changes.",
+            "It doesn't allow an object to change its behaviour when it’s external state changes.",
+            "It allows an object to change its behaviour when it’s internal state changes.",
+            "It allows an object to change its behaviour when it’s external state changes."
+        ],
+        "created_at": "2026-06-17T21:07:49.540117+00:00"
+    },
+    {
+        "id": 42834,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "Model View Controller (MVC) ensures _________ among models, views or controllers.",
+        "op": [
+            "Low cohesion",
+            "High coupling",
+            "Hard modifiability",
+            "Low coupling"
+        ],
+        "created_at": "2026-06-26T14:37:30.765216+00:00"
+    },
+    {
+        "id": 42835,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "A model in the Model View Controller (MVC) pattern is allowed to have _________.",
+        "op": [
+            "Multiple views",
+            "A single view",
+            "Zero views",
+            "No more than two views"
+        ],
+        "created_at": "2026-06-26T14:37:47.306799+00:00"
+    },
+    {
+        "id": 42836,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "The Client does not have the right to access which of the following layers in a Model View Controller (MVC) pattern?",
+        "op": [
+            "View",
+            "Model",
+            "Presentation",
+            "Controller"
+        ],
+        "created_at": "2026-06-26T14:38:04.99225+00:00"
+    },
+    {
+        "id": 42837,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "The component that receives the events in the Model View Controller (MVC) Pattern is called _________.",
+        "op": [
+            "Receiver",
+            "Controller",
+            "Model",
+            "Observer"
+        ],
+        "created_at": "2026-06-26T14:38:30.331277+00:00"
+    },
+    {
+        "id": 42838,
+        "cc": "CS603P",
+        "qn": "9",
+        "dt": "26 June 2026",
+        "qt": "In Model View Controller (MVC) pattern, the data in the database can be updated/modified using the __________.",
+        "op": [
+            "Model class",
+            "View class",
+            "Controller class",
+            "Data-link class"
+        ],
+        "created_at": "2026-06-26T14:38:48.191328+00:00"
+    },
+    {
+        "id": 49974,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Quality attribute (QA) is a _________ or __________ property of a system that is used to indicate the extent to which the system meets the needs of its stakeholders.",
+        "op": [
+            "measureable, untestable",
+            "unbounded, testable",
+            "measureable, testable",
+            "immeasurable, untestable"
+        ],
+        "created_at": "2026-07-05T20:09:09.1795+00:00"
+    },
+    {
+        "id": 49977,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "______________ improves performance, reduces server round trips, and can be used to maintain the state of your application.",
+        "op": [
+            "Authorization",
+            "Caching",
+            "Framework",
+            "Authentication"
+        ],
+        "created_at": "2026-07-05T20:09:16.576775+00:00"
+    },
+    {
+        "id": 49978,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "“System should not be accessed by unauthorized people”. What quality category does this statement fall into?",
+        "op": [
+            "Reliability",
+            "Performance",
+            "Security",
+            "Scalability"
+        ],
+        "created_at": "2026-07-05T20:09:22.899921+00:00"
+    },
+    {
+        "id": 49979,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "An __________________ is an end-to-end test of a small segment of the application.",
+        "op": [
+            "Review",
+            "Testing",
+            "Architectural framework",
+            "Architectural spike"
+        ],
+        "created_at": "2026-07-05T20:09:44.96491+00:00"
+    },
+    {
+        "id": 49980,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "“The system has no user guide in place”. Which quality attribute is compromised here?",
+        "op": [
+            "Reliability",
+            "Flexibility",
+            "Maintainability",
+            "Usability"
+        ],
+        "created_at": "2026-07-05T20:09:59.440505+00:00"
+    },
+    {
+        "id": 49981,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ is concerned with the way that your application handles conflicts caused by multiple users creating, reading, updating, and deleting data at the same time.",
+        "op": [
+            "Framework",
+            "Authorization",
+            "Concurrency",
+            "Caching"
+        ],
+        "created_at": "2026-07-05T20:10:05.770245+00:00"
+    },
+    {
+        "id": 49983,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which quality attribute matters the most in the systems like radiation therapy machines, airplanes and heart pace-makers",
+        "op": [
+            "Flexibility",
+            "Performance",
+            "Reliability",
+            "Security"
+        ],
+        "created_at": "2026-07-05T20:10:10.965516+00:00"
+    },
+    {
+        "id": 49984,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Each ______________ consists of a context, a problem, and a solution.",
+        "op": [
+            "Pattern",
+            "Architecture",
+            "View",
+            "Model"
+        ],
+        "created_at": "2026-07-05T20:10:16.261787+00:00"
+    },
+    {
+        "id": 50769,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A system easy to reconfigure or adopt in response to different user and system requirements is a",
+        "op": [
+            "Maintainable System",
+            "Interoperable System",
+            "Flexible System",
+            "Reliabale System"
+        ],
+        "created_at": "2026-07-05T22:52:58.209684+00:00"
+    },
+    {
+        "id": 51109,
+        "cc": "CS603P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The _____________ is a collection of hotspots that you can use to analyze your application architecture.",
+        "op": [
+            "Components frame",
+            "Modules frame",
+            "Architecture frame",
+            "Framework"
+        ],
+        "created_at": "2026-07-06T00:26:32.363842+00:00"
+    }
+]

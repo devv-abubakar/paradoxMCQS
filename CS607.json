@@ -1,0 +1,1836 @@
+[
+{
+    "id": 9503,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify correct statement for the given rule.\n\nIF\nIELTS score of Ali is 6 and\nCGPA of Ali is 3.7 and\nGRE score of Ali is 66\nThen\nHe is eligible to take admission in any of the University abroad",
+    "op": [
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n<=\n(printout t “He is eligible to take admission in any of the University abroad”))",
+        "(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”))",
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”)",
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”))"
+    ],
+    "created_at": "2026-06-21T19:07:49.901453+00:00"
+},
+{
+    "id": 9508,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In CLIPS, _______ command is used to remove facts.",
+    "op": [
+        "erase",
+        "retract",
+        "facts",
+        "delete"
+    ],
+    "created_at": "2026-06-21T19:08:05.515087+00:00"
+},
+{
+    "id": 9513,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Using deduction to reach a conclusion from a set of antecedents is called:",
+    "op": [
+        "Backward propagation",
+        "Forward propagation",
+        "Forward chaining",
+        "Backward chaining"
+    ],
+    "created_at": "2026-06-21T19:08:15.559053+00:00"
+},
+{
+    "id": 9517,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify correct statement for the given rule.\n\nIF\nThe aptitude level of an undergraduate student is low and\nThe English understanding level of undergraduate student is dull\nTHEN\nHe is not eligible to go abroad for higher studies.",
+    "op": [
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”)",
+        "(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n<=>\n(printout t “He is not eligible to go abroad for higher studies”))"
+    ],
+    "created_at": "2026-06-21T19:08:25.414649+00:00"
+},
+{
+    "id": 9528,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "“Focused area of expertise” in human experts is referred to as _____ in expert systems",
+    "op": [
+        "Inference engine",
+        "Reasoning",
+        "Knowledge",
+        "Domain"
+    ],
+    "created_at": "2026-06-21T19:08:52.149949+00:00"
+},
+{
+    "id": 9531,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Reasoning in fuzzy logic is just a matter of generalizing the familiar _________  logic.",
+    "op": [
+        "Coagnitive",
+        "Boolean",
+        "Complex",
+        "Supervised"
+    ],
+    "created_at": "2026-06-21T19:09:00.710757+00:00"
+},
+{
+    "id": 9535,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Expert system technique where a hypothesis is given at the beginning and the inference engine proceeds to ask the user questions about selected facts until the hypothesis is either confirmed or denied",
+    "op": [
+        "Network Knowledge",
+        "Backward chaining",
+        "Data mining",
+        "Forward chaining"
+    ],
+    "created_at": "2026-06-21T19:09:09.693364+00:00"
+},
+{
+    "id": 9540,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is correct CLIPS command to display the product of two numbers \"5\" and \"3\"?",
+    "op": [
+        "(printout t \"Product of two numbers is \" (5 * 3))",
+        "(printout t \"Product of two numbers is \" (* 5 3))",
+        "(printout t \"Product of two numbers is \" (x 5 3))",
+        "(printout t \"Product of two numbers is \" (5 x 3))"
+    ],
+    "created_at": "2026-06-21T19:09:18.225915+00:00"
+},
+{
+    "id": 9545,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Backward chaining is more focused and tries to avoid exploring ____________ paths of reasoning.",
+    "op": [
+        "different",
+        "unnecessary",
+        "necessary",
+        "searching"
+    ],
+    "created_at": "2026-06-21T19:09:26.923043+00:00"
+},
+{
+    "id": 9915,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In context of CLIPS, \"agenda\" is the list of ________",
+    "op": [
+        "Activated deftemplates",
+        "Deactivated rules",
+        "Activated relations",
+        "Activated rules"
+    ],
+    "created_at": "2026-06-21T19:30:45.0578+00:00"
+},
+{
+    "id": 9926,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is one of the general stages of ESDLC?",
+    "op": [
+        "Design coding",
+        "Linear model",
+        "Beta system (tested by users)",
+        "Spiral model"
+    ],
+    "created_at": "2026-06-21T19:31:42.941298+00:00"
+},
+{
+    "id": 9932,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "During ______ stage, knowledge engineer works with the domain expert to acquire, organize and analyse the domain knowledge.",
+    "op": [
+        "Feasibility Study",
+        "System Design",
+        "System Planning",
+        "Knowledge acquisition"
+    ],
+    "created_at": "2026-06-21T19:32:08.517624+00:00"
+},
+{
+    "id": 9940,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify that for which purpose statment given below is used\n \n(deftamplate Person \n(slot name (type STRING))\n(slot age(type NUMBER))\n)",
+    "op": [
+        "Rule definition",
+        "CLIPS",
+        "Attributes of a fact",
+        "Rule"
+    ],
+    "created_at": "2026-06-21T19:32:47.003532+00:00"
+},
+{
+    "id": 9941,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The correct command to load a CLIPS file is:",
+    "op": [
+        "(load \"filename.clp\")",
+        "(readfile \"filename.clp\")",
+        "(read \"filename.clp\")",
+        "(loadfile \"filename.clp\")"
+    ],
+    "created_at": "2026-06-21T19:32:54.359269+00:00"
+},
+{
+    "id": 9946,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Knowledge acquisition techniques may not include:",
+    "op": [
+        "Electronic brainstorming",
+        "Interviews",
+        "On-site observation",
+        "Surveys"
+    ],
+    "created_at": "2026-06-21T19:33:06.637421+00:00"
+},
+{
+    "id": 9949,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the correct definition of linear model given below.",
+    "op": [
+        "A non linear sequence of steps is applied repeatedly in an iterative fashion to develop the expert systems.",
+        "A linear sequence of steps is applied repeatedly in an iterative fashion to develop the Expert Systems.",
+        "A arbitrary set of steps is applied repeatedly in an iterative fashion to develop the software models.",
+        "A non sequential set of steps is applied repeatedly in an iterative fashion to develop the expert systems."
+    ],
+    "created_at": "2026-06-21T19:33:14.21753+00:00"
+},
+{
+    "id": 9950,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is not the main phase of the linear sequence?",
+    "op": [
+        "Requirement engineering",
+        "System evaluation",
+        "Code",
+        "Planning"
+    ],
+    "created_at": "2026-06-21T19:33:20.221189+00:00"
+},
+{
+    "id": 9952,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Backward chaining, however, starts with the __________ and tries to reach down to all primitive nodes (marked by ‘?’), where information is sought from the user.",
+    "op": [
+        "transition state",
+        "goal state",
+        "last state",
+        "intermediate state"
+    ],
+    "created_at": "2026-06-21T19:33:30.317826+00:00"
+},
+{
+    "id": 9953,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Problems faced during knowledge acquisition may not include:",
+    "op": [
+        "Expert may provide inconsistent or incorrect knowledge",
+        "Expert provide exact and accurate knowledge",
+        "Expert may not provide relevant information",
+        "Expert may provide incomplete knowledge"
+    ],
+    "created_at": "2026-06-21T19:33:37.343389+00:00"
+},
+{
+    "id": 9955,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The rules that define how conflict resolution will be used, and how other aspects of the system itself will run, are called ___________.",
+    "op": [
+        "Conflict resolution rules",
+        "Forward chain rules",
+        "backward chain rules",
+        "Meta rules"
+    ],
+    "created_at": "2026-06-21T19:33:52.520535+00:00"
+},
+{
+    "id": 9956,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Within an expert system, the ______________ contains facts about a specific subject area and rules that express the reasoning procedures of an expert on the subject.",
+    "op": [
+        "Inference engine",
+        "inference logic",
+        "Knowledge engineer",
+        "Knowledge base"
+    ],
+    "created_at": "2026-06-21T19:33:56.85745+00:00"
+},
+{
+    "id": 9960,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The goal of ___________ is to analyse and structure the knowledge gained during the knowledge acquisition phase.",
+    "op": [
+        "Knowledge analysis",
+        "Knowledge structure",
+        "ES design",
+        "Knowledge design"
+    ],
+    "created_at": "2026-06-21T19:34:11.624546+00:00"
+},
+{
+    "id": 10111,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________________ is the part of the system that controls the process of deriving conclusions.",
+    "op": [
+        "An object",
+        "A knowledge base",
+        "A database of facts",
+        "An interpreter, or inference engine"
+    ],
+    "created_at": "2026-06-21T19:46:13.852512+00:00"
+},
+{
+    "id": 10113,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "__________ encode the knowledge of rules and strategies.",
+    "op": [
+        "ES model",
+        "Knowledge base",
+        "ES requirements",
+        "Inference networks"
+    ],
+    "created_at": "2026-06-21T19:46:20.784914+00:00"
+},
+{
+    "id": 10118,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following window is not present in CLIPS tool.",
+    "op": [
+        "Facts window",
+        "Rule window",
+        "Agenda window",
+        "Focus window"
+    ],
+    "created_at": "2026-06-21T19:46:32.529169+00:00"
+},
+{
+    "id": 10120,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The process continues recursively until a premise is found that is not supported by a rule, i.e. a premise is called a ___________ if it cannot be concluded by any rule.",
+    "op": [
+        "antique",
+        "primitive",
+        "elementary",
+        "secondary"
+    ],
+    "created_at": "2026-06-21T19:46:38.892624+00:00"
+},
+{
+    "id": 10122,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An expert system models the following aspect(s) of human expert",
+    "op": [
+        "Implications",
+        "Knowledge and reasoning",
+        "Operations",
+        "Operators"
+    ],
+    "created_at": "2026-06-21T19:46:44.454204+00:00"
+},
+{
+    "id": 10123,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The \"part of the expert system that contains the problem facts that are discovered during the session\" is called:",
+    "op": [
+        "Working memory",
+        "System memory",
+        "Secondary storage",
+        "Reserved media"
+    ],
+    "created_at": "2026-06-21T19:46:49.956492+00:00"
+},
+{
+    "id": 10126,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In CLIPS, the Defrule construct is used to add _________.",
+    "op": [
+        "principles",
+        "rules",
+        "facts",
+        "agenda"
+    ],
+    "created_at": "2026-06-21T19:46:56.620174+00:00"
+},
+{
+    "id": 10394,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In CLIPS, _____ command erases contents of working memory",
+    "op": [
+        "(clear)",
+        "(remove)",
+        "(retract)",
+        "(erase)"
+    ],
+    "created_at": "2026-06-21T20:15:06.440754+00:00"
+},
+{
+    "id": 10400,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Reasoning in backward chaining is known as:",
+    "op": [
+        "Data-driven reasoning",
+        "Rule-driven reasoning",
+        "Goal-driven reasoning",
+        "Intelligence-driven reasoning"
+    ],
+    "created_at": "2026-06-21T20:15:30.592524+00:00"
+},
+{
+    "id": 10402,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Forward chaining is known as",
+    "op": [
+        "Goal-driven reasoning",
+        "Rule-driven reasoning",
+        "Intelligence-driven reasoning",
+        "Data-driven reasoning"
+    ],
+    "created_at": "2026-06-21T20:15:39.867542+00:00"
+},
+{
+    "id": 10404,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In context of ES development, which of the following will be part of Planning phase?",
+    "op": [
+        "Identify concrete knowledge elements",
+        "Feasibility assessment",
+        "Coding",
+        "Knowledge acquisition from expert"
+    ],
+    "created_at": "2026-06-21T20:15:50.479747+00:00"
+},
+{
+    "id": 10629,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Clips command for multiplying two numbers 3 and 4 is.",
+    "op": [
+        "CLIPS> (3 * 4)",
+        "CLIPS> (3 4 *)",
+        "CLIPS> *(3 4)",
+        "CLIPS> (* 3 4)"
+    ],
+    "created_at": "2026-06-21T20:38:21.477278+00:00"
+},
+{
+    "id": 10633,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the step involved in planning phase.",
+    "op": [
+        "Knowledge acquisition from expert",
+        "Coding",
+        "Resource allocation",
+        "Identify concrete knowledge elements"
+    ],
+    "created_at": "2026-06-21T20:39:17.49766+00:00"
+},
+{
+    "id": 10634,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "____ can be viewed as the processor in an expert system.",
+    "op": [
+        "Knowledge base",
+        "Inference engine",
+        "System memory",
+        "Working memory"
+    ],
+    "created_at": "2026-06-21T20:39:35.030742+00:00"
+},
+{
+    "id": 10873,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Rule, which may have a priority in expert systems, is called",
+    "op": [
+        "Meta rule",
+        "Conflict resolution rule",
+        "Forward chain rule",
+        "backward chain rule"
+    ],
+    "created_at": "2026-06-21T21:23:39.614972+00:00"
+},
+{
+    "id": 10879,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In CLIPS, the ______ command is used for debugging programs.",
+    "op": [
+        "DEBUG",
+        "CLEAR",
+        "FACT",
+        "WATCH"
+    ],
+    "created_at": "2026-06-21T21:25:26.684597+00:00"
+},
+{
+    "id": 10885,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following command is used to see the added facts in CLIPS?",
+    "op": [
+        "Fact",
+        "(fact)",
+        "deftemplate",
+        "(facts)"
+    ],
+    "created_at": "2026-06-21T21:26:44.505276+00:00"
+},
+{
+    "id": 11250,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the sequence wise main phases of Linear model used in developing expert systems.",
+    "op": [
+        "1)Planning. 2)Knowledge acquisition and analysis. 3)Knowledge design. 4)System evaluation. 5)Code. 6)Knowledge verification.",
+        "1)Planning. 2)Knowledge acquisition and analysis. 3)Knowledge design. 4)Code. 5)Knowledge verification. 6)System evaluation.",
+        "1)Planning. 2)Knowledge acquisition and analysis. 3)Knowledge design. 4)Code. 5)System evaluation. 6)Knowledge verification.",
+        "1)Planning. 2)Knowledge acquisition and analysis. 3)System evaluation. 4)Knowledge design. 5)Code. 6)Knowledge verification."
+    ],
+    "created_at": "2026-06-22T00:11:24.510636+00:00"
+},
+{
+    "id": 11270,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Expert system can be expressed as:",
+    "op": [
+        "Intelligent technique for capturing tacit knowledge in a very specific and limited domain of human expertise, this knowledge is converted to rules that can be used throughout the entire organization",
+        "Used for finding the optimal solution for a specific problem by examining a very large number or possible solutions for that problem",
+        "The set of business processes, culture, and behavior required to obtain value from investments in information systems",
+        "It provides tools for the management, delivery, tracking, and assessment of various types of employee learning and training"
+    ],
+    "created_at": "2026-06-22T00:17:42.843103+00:00"
+},
+{
+    "id": 11277,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "____________ are able to override the normal rules in expert systems.",
+    "op": [
+        "Forward chain rules",
+        "Backward chain rules",
+        "Meta rules",
+        "Conflict resolution rules"
+    ],
+    "created_at": "2026-06-22T00:18:51.755848+00:00"
+},
+{
+    "id": 11321,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the correct statement to list facts numbers 1 through 10",
+    "op": [
+        "clips> (facts 1)",
+        "clips> (facts 1 to 10)",
+        "clips> (facts 10)",
+        "clips> (facts 1 10)"
+    ],
+    "created_at": "2026-06-22T00:29:15.581491+00:00"
+},
+{
+    "id": 11325,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the linear model which is not the step of the planning phase?",
+    "op": [
+        "Knowledge engineering",
+        "Task phasing and scheduling",
+        "Feasibility assessment",
+        "Resource allocation"
+    ],
+    "created_at": "2026-06-22T00:30:02.835838+00:00"
+},
+{
+    "id": 11327,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An alternative method is the longest-matching strategy. This method involves firing the conclusion that was derived from the _______________.",
+    "op": [
+        "Complex rule",
+        "Forward chain rule",
+        "Longest rule",
+        "Shortest rule"
+    ],
+    "created_at": "2026-06-22T00:30:22.180448+00:00"
+},
+{
+    "id": 11334,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Inference engine matches the facts contained in the _______ with the ______contained in the knowledge base, to draw conclusions about the problem.",
+    "op": [
+        "object, class",
+        "Fact table, working memory",
+        "Working memory, domain knowledge",
+        "Rule engine, operators"
+    ],
+    "created_at": "2026-06-22T00:31:32.945593+00:00"
+},
+{
+    "id": 11340,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the correct step used to start designe of an expert system.",
+    "op": [
+        "Rapid prototyping",
+        "Feasiblity study",
+        "Problem recognization",
+        "Scope study"
+    ],
+    "created_at": "2026-06-22T00:32:15.717496+00:00"
+},
+{
+    "id": 11553,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "CLIPS stands for:",
+    "op": [
+        "C Language Integrated Production System",
+        "C++ Linguist Integrated Production System",
+        "C# Language Integrated Production System",
+        "COBOL Language Integrated Production System"
+    ],
+    "created_at": "2026-06-22T01:30:28.116827+00:00"
+},
+{
+    "id": 11622,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Knowledge elicitation methods may be classified into:",
+    "op": [
+        "Direct and hierarchical",
+        "Data Driven and application driven methods",
+        "Hierarchical and non hierarchical methods",
+        "Direct and indirect methods"
+    ],
+    "created_at": "2026-06-22T01:56:11.156447+00:00"
+},
+{
+    "id": 11638,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "“Specialized knowledge” in human experts is referred to as __________, when it comes to an expert system.",
+    "op": [
+        "Domain Knowledge",
+        "Reasoning Knowledge",
+        "Affirmation knowledge",
+        "Predicate engine"
+    ],
+    "created_at": "2026-06-22T02:08:58.54256+00:00"
+},
+{
+    "id": 11639,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If more than one domain experts have to be consulted for knowledge acquisition, than its better to use:",
+    "op": [
+        "Electronic brainstorming",
+        "Surveys",
+        "Interviews",
+        "Blackboard system"
+    ],
+    "created_at": "2026-06-22T02:09:09.453767+00:00"
+},
+{
+    "id": 36558,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The Candidate-Elimination algorithm represents the ____________",
+    "op": [
+        "None of the given",
+        "Version Space",
+        "Elimination Space",
+        "Solution Space"
+    ],
+    "created_at": "2026-07-01T19:02:02.44533+00:00"
+},
+{
+    "id": 36567,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Many machine learning systems are _________ .",
+    "op": [
+        "Intelligent",
+        "Classifiers",
+        "Agents",
+        "Clusters"
+    ],
+    "created_at": "2026-07-01T19:02:53.028975+00:00"
+},
+{
+    "id": 36574,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Learning denotes changes in a system that enables a system to do the same task more _______ the next time.",
+    "op": [
+        "Effectively",
+        "Efficiently",
+        "With Reliability",
+        "Conveniently"
+    ],
+    "created_at": "2026-07-01T19:03:21.938068+00:00"
+},
+{
+    "id": 36582,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Identify which statement defines classical sets in a best way:",
+    "op": [
+        "A classical set is a container, which wholly includes but not wholly excludes any given\nelement.",
+        "A classical set is a container, which sometimes wholly includes or wholly excludes any given element.",
+        "A classical set is a container, which does not wholly include or wholly exclude any given\nelement.",
+        "A classical set is a container, which wholly includes or wholly excludes any given element."
+    ],
+    "created_at": "2026-07-01T19:03:43.260658+00:00"
+},
+{
+    "id": 36593,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_______ problems usually have well-defined steps.",
+    "op": [
+        "Simple",
+        "Refined",
+        "Defined",
+        "Complex"
+    ],
+    "created_at": "2026-07-01T19:04:10.439678+00:00"
+},
+{
+    "id": 36616,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_________ characterizes the purity/impurity of an arbitrary collection of examples.",
+    "op": [
+        "Complexity",
+        "Scale",
+        "Entropy",
+        "Metric"
+    ],
+    "created_at": "2026-07-01T19:04:40.673553+00:00"
+},
+{
+    "id": 36627,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Fuzzy ________ system have multidisciplinary nature.",
+    "op": [
+        "Logic",
+        "Intelligent",
+        "Inference",
+        "Set"
+    ],
+    "created_at": "2026-07-01T19:04:56.875441+00:00"
+},
+{
+    "id": 36637,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Identify the sets in which Membership Function is used.",
+    "op": [
+        "Fuzzy set",
+        "Classical set",
+        "Boolean set",
+        "Crisp set"
+    ],
+    "created_at": "2026-07-01T19:05:16.684628+00:00"
+},
+{
+    "id": 36652,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_____ do not restrict themselves to something lying\nwholly in either set A or in set not-A.",
+    "op": [
+        "Complex sets",
+        "Classical sets",
+        "Fuzzy sets",
+        "Boolean sets"
+    ],
+    "created_at": "2026-07-01T19:05:55.500759+00:00"
+},
+{
+    "id": 36656,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Hypothesis space uses the ________________ of the attributes.",
+    "op": [
+        "Disjunctions (OR)",
+        "None of the given",
+        "Negation (NOR)",
+        "Conjunctions (AND)"
+    ],
+    "created_at": "2026-07-01T19:06:12.952697+00:00"
+},
+{
+    "id": 36722,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In Fuzzy Inputs we resolve all fuzzy statements in the antecedent to a degree of membership between 0 and _____.",
+    "op": [
+        "4",
+        "1",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-07-01T19:11:27.436689+00:00"
+},
+{
+    "id": 36726,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In Candidate-Elimination algorithm version space is represented by two sets named:",
+    "op": [
+        "G and S",
+        "H and S",
+        "S and F",
+        "G and F"
+    ],
+    "created_at": "2026-07-01T19:11:35.656004+00:00"
+},
+{
+    "id": 36730,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In theoretical computer science there are two main branches of problems:",
+    "op": [
+        "None of the given",
+        "Intractable and Induction",
+        "Tractable and Intractable",
+        "Tractable and Induction"
+    ],
+    "created_at": "2026-07-01T19:11:43.179702+00:00"
+},
+{
+    "id": 36732,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If there are multiple parts to the antecedent, apply fuzzy logic _________ and resolve the antecedent to a single number between 0 and 1.",
+    "op": [
+        "Rules",
+        "Conditions",
+        "Operators",
+        "operations"
+    ],
+    "created_at": "2026-07-01T19:11:49.81756+00:00"
+},
+{
+    "id": 36738,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_________ logic lets us define more realistically the true functions that define real world scenarios.",
+    "op": [
+        "Boolean",
+        "Classical",
+        "Crisp",
+        "Fuzzy"
+    ],
+    "created_at": "2026-07-01T19:12:11.447857+00:00"
+},
+{
+    "id": 36740,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The degree of truth is specifically driven out by a function called the ___________ function.",
+    "op": [
+        "Membership",
+        "Boolean",
+        "Ordinary",
+        "Inline"
+    ],
+    "created_at": "2026-07-01T19:12:19.617705+00:00"
+},
+{
+    "id": 36747,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The tractable problems are further divided into structured and ________ problems",
+    "op": [
+        "Simple",
+        "None of the given",
+        "Non-structured",
+        "Complex"
+    ],
+    "created_at": "2026-07-01T19:12:51.621029+00:00"
+},
+{
+    "id": 36748,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Decision trees give us disjunctions of conjunctions, that is, they have the form:\n(A AND B) _______ (C AND D).",
+    "op": [
+        "XOR",
+        "None of the given",
+        "AND",
+        "OR"
+    ],
+    "created_at": "2026-07-01T19:12:59.228701+00:00"
+},
+{
+    "id": 36749,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Choose the field(s) in which Fuzzy inference systems have been successfully applied:",
+    "op": [
+        "Data Classification",
+        "Automatic Control, Data Classification and Decision Analysis",
+        "Automatic Control",
+        "Decision Analysis"
+    ],
+    "created_at": "2026-07-01T19:13:09.159279+00:00"
+},
+{
+    "id": 36751,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In fuzzy set and membership function , the input is always a ______ value.",
+    "op": [
+        "Interval Based",
+        "Fixed",
+        "Amounts",
+        "Crisp Numerical"
+    ],
+    "created_at": "2026-07-01T19:13:24.34137+00:00"
+},
+{
+    "id": 36752,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "__________ is a prerequisite for any mature program of artificial intelligence.",
+    "op": [
+        "Common Sense",
+        "Deep Learning",
+        "General Intelligence",
+        "Machine learning"
+    ],
+    "created_at": "2026-07-01T19:13:32.879923+00:00"
+},
+{
+    "id": 36753,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The room temperature is cold. Here the cold (use of linguistic variable is used) can be represented by _______.",
+    "op": [
+        "Fuzzy Set",
+        "Crisp Set",
+        "Union Set",
+        "Intersection Set"
+    ],
+    "created_at": "2026-07-01T19:13:40.085354+00:00"
+},
+{
+    "id": 36754,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The input of the aggregation process is the list of truncated output functions returned by the _________ process for each rule.",
+    "op": [
+        "Aggregation",
+        "Inheritence",
+        "Implication",
+        "Truncation"
+    ],
+    "created_at": "2026-07-01T19:13:50.659091+00:00"
+},
+{
+    "id": 36759,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The role of tester is often called the ____ role.",
+    "op": [
+        "Soft",
+        "Critical",
+        "Real",
+        "Sophisticated"
+    ],
+    "created_at": "2026-07-01T19:14:28.563218+00:00"
+},
+{
+    "id": 36763,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Interactive Dichotomizer uses a special function ________, to evaluate the gain information of each attribute.",
+    "op": [
+        "FIND",
+        "EVAL",
+        "GET",
+        "GAIN"
+    ],
+    "created_at": "2026-07-01T19:14:38.05499+00:00"
+},
+{
+    "id": 36764,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In all calculations involving Entropy we define _________  to be ______",
+    "op": [
+        "0 log 0, 1",
+        "0 log 10, 1",
+        "0 log 0, 0",
+        "1 log 1, 1"
+    ],
+    "created_at": "2026-07-01T19:14:42.501683+00:00"
+},
+{
+    "id": 36770,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_________ is the process of formulating the mapping from a given input to an output using Fuzzy logic.",
+    "op": [
+        "FIS",
+        "None of the given",
+        "FOS",
+        "FIZ"
+    ],
+    "created_at": "2026-07-01T19:15:05.622935+00:00"
+},
+{
+    "id": 36772,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Mamdani's method was among the first _____________ built using fuzzy set theory.",
+    "op": [
+        "Intelligent System",
+        "Decision analysis Systems",
+        "Expert Systems",
+        "Control Systems"
+    ],
+    "created_at": "2026-07-01T19:15:17.777038+00:00"
+},
+{
+    "id": 36856,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Usually a _________ graph is chosen to represent a fuzzy set.",
+    "op": [
+        "Conical",
+        "Triangular",
+        "Circular",
+        "square"
+    ],
+    "created_at": "2026-07-01T19:24:52.810496+00:00"
+},
+{
+    "id": 36865,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If the antecedent is only partially true, then the output fuzzy set is truncated according to the _________ method.",
+    "op": [
+        "Extrinsic",
+        "Implication",
+        "Intrinsic",
+        "Boolean"
+    ],
+    "created_at": "2026-07-01T19:26:43.648797+00:00"
+},
+{
+    "id": 36875,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The first step of FIND-S is to initialize h to the most specific hypothesis in __________: h = < Ø , Ø >",
+    "op": [
+        "I",
+        "K",
+        "J",
+        "H"
+    ],
+    "created_at": "2026-07-01T19:30:58.520866+00:00"
+},
+{
+    "id": 36920,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Machine learning typically follows ___________ phases according to Finlay.",
+    "op": [
+        "Five",
+        "Four",
+        "Three",
+        "Two"
+    ],
+    "created_at": "2026-07-01T19:55:29.356367+00:00"
+},
+{
+    "id": 36921,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A concept is the representation of the __________ with respect to the given attributes.",
+    "op": [
+        "Knowledge",
+        "None of the given",
+        "Solution",
+        "Problem"
+    ],
+    "created_at": "2026-07-01T19:56:51.566608+00:00"
+},
+{
+    "id": 36922,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "“The concept of partial truth” can best be handled by:",
+    "op": [
+        "Boolean logic",
+        "Classical logic",
+        "Fuzzy logic",
+        "Parametric logic"
+    ],
+    "created_at": "2026-07-01T19:57:15.491957+00:00"
+},
+{
+    "id": 36987,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "________  stands for interactive dichotomizer",
+    "op": [
+        "IDC",
+        "Int D",
+        "None of the given",
+        "ID"
+    ],
+    "created_at": "2026-07-01T20:35:18.290198+00:00"
+},
+{
+    "id": 36989,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If the true ________ of a concept [c(xi)] is 1 or 0 for an instance, then the _______ by our hypothesis [h(xi)] is 1 or 0 as well, respectively.",
+    "op": [
+        "input, input",
+        "input, output",
+        "output, output",
+        "output, input"
+    ],
+    "created_at": "2026-07-01T20:35:25.229676+00:00"
+},
+{
+    "id": 36994,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Inductive learning takes examples and generalizes rather than starting with __________ knowledge.",
+    "op": [
+        "Deductive",
+        "Inductive",
+        "Existing",
+        "None of the given"
+    ],
+    "created_at": "2026-07-01T20:36:13.975672+00:00"
+},
+{
+    "id": 37096,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Outputs of learning are determined by the ___________",
+    "op": [
+        "Validation",
+        "None of the given",
+        "Application",
+        "Training"
+    ],
+    "created_at": "2026-07-01T22:12:37.727151+00:00"
+},
+{
+    "id": 37097,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "__________ is the process by which the fuzzy sets that represent the outputs of each rule are combined into a single fuzzy set.",
+    "op": [
+        "Aggregation",
+        "Implication",
+        "Fuzzification",
+        "None of the given"
+    ],
+    "created_at": "2026-07-01T22:14:01.661453+00:00"
+},
+{
+    "id": 37130,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A drawback of FIND-S is that, it assumes the consistency within the _______ set.",
+    "op": [
+        "Smart",
+        "Test",
+        "Quality",
+        "Training"
+    ],
+    "created_at": "2026-07-01T22:38:08.647476+00:00"
+},
+{
+    "id": 37133,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_____________ learning works on existing facts and knowledge and deduces new knowledge from the old.",
+    "op": [
+        "Application",
+        "Inductive",
+        "None of the given",
+        "Deductive"
+    ],
+    "created_at": "2026-07-01T22:43:27.336599+00:00"
+},
+{
+    "id": 37134,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The Entropy is 1 when the collection contains number of positive examples _______ to/than negative examples.",
+    "op": [
+        "Greater",
+        "None of the given",
+        "Less",
+        "Equal"
+    ],
+    "created_at": "2026-07-01T22:43:38.089589+00:00"
+},
+{
+    "id": 37137,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In Fuzzy Inputs we resolve all fuzzy statements in the antecedent to a degree of membership between 0 and _____ .",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-07-01T22:44:43.106182+00:00"
+},
+{
+    "id": 37211,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which one is NOT the phase of machine learning:",
+    "op": [
+        "Validation",
+        "None of the given",
+        "Application",
+        "Training"
+    ],
+    "created_at": "2026-07-02T01:14:36.20003+00:00"
+},
+{
+    "id": 37277,
+    "cc": "CS607",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Inductive learning is based on the knowledge that if something happens a lot it is likely to be generally _________",
+    "op": [
+        "Ambiguous",
+        "False",
+        "None of the given",
+        "True"
+    ],
+    "created_at": "2026-07-02T02:36:54.614685+00:00"
+},
+{
+    "id": 42926,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Backward chaining, however, starts with the __________ and tries to reach down to all primitive nodes (marked by ‘?’), where information is sought from the user.",
+    "op": [
+        "transition state",
+        "last state",
+        "intermediate state",
+        "goal state"
+    ],
+    "created_at": "2026-06-23T13:22:05.729215+00:00"
+},
+{
+    "id": 42927,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Rule, which may have a priority in expert systems, is called",
+    "op": [
+        "Meta rule",
+        "Conflict resolution rule",
+        "Forward chain rule",
+        "backward chain rule"
+    ],
+    "created_at": "2026-06-23T13:22:29.788969+00:00"
+},
+{
+    "id": 42928,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In context of CLIPS, \"agenda\" is the list of ________",
+    "op": [
+        "Deactivated rules",
+        "Activated rules",
+        "Activated relations",
+        "Activated deftemplates"
+    ],
+    "created_at": "2026-06-23T13:23:56.116172+00:00"
+},
+{
+    "id": 42929,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "____ can be viewed as the processor in an expert system.",
+    "op": [
+        "Knowledge base",
+        "Inference engine",
+        "Working memory",
+        "System memory"
+    ],
+    "created_at": "2026-06-23T13:28:54.003189+00:00"
+},
+{
+    "id": 42931,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "In CLIPS, the ______ command is used for debugging programs.",
+    "op": [
+        "DEBUG",
+        "CLEAR",
+        "FACT",
+        "WATCH"
+    ],
+    "created_at": "2026-06-23T13:32:57.612243+00:00"
+},
+{
+    "id": 42932,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify correct statement for the given rule.\n\nIF\nIELTS score of Ali is 6 and\nCGPA of Ali is 3.7 and\nGRE score of Ali is 66\nThen\nHe is eligible to take admission in any of the University abroad",
+    "op": [
+        "(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”))",
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n<=\n(printout t “He is eligible to take admission in any of the University abroad”))",
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”)",
+        "(deftamplate Ali (slot attribute)(slot value))\n(defrule Alichance (Ali (attribute “IELTS score”)(value “6”))\n(Ali (attribute “CGPA”)(value “3.7”))\n(Ali (attribute “GRE”)(value “66”))\n=>\n(printout t “He is eligible to take admission in any of the University abroad”))"
+    ],
+    "created_at": "2026-06-22T08:39:56.458047+00:00"
+},
+{
+    "id": 42933,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Forward chaining is known as",
+    "op": [
+        "Rule-driven reasoning",
+        "Goal-driven reasoning",
+        "Data-driven reasoning",
+        "Intelligence-driven reasoning"
+    ],
+    "created_at": "2026-06-22T08:41:01.64321+00:00"
+},
+{
+    "id": 42934,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Within an expert system, the ______________ contains facts about a specific subject area and rules that express the reasoning procedures of an expert on the subject.",
+    "op": [
+        "Inference engine",
+        "Knowledge engineer",
+        "inference logic",
+        "Knowledge base"
+    ],
+    "created_at": "2026-06-22T08:41:24.448978+00:00"
+},
+{
+    "id": 42935,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In context of ES development, which of the following will be part of Planning phase?",
+    "op": [
+        "Identify concrete knowledge elements",
+        "Knowledge acquisition from expert",
+        "Coding",
+        "Feasibility assessment"
+    ],
+    "created_at": "2026-06-22T08:41:45.345231+00:00"
+},
+{
+    "id": 42936,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Reasoning in backward chaining is known as:",
+    "op": [
+        "Goal-driven reasoning",
+        "Rule-driven reasoning",
+        "Data-driven reasoning",
+        "Intelligence-driven reasoning"
+    ],
+    "created_at": "2026-06-22T08:42:07.613023+00:00"
+},
+{
+    "id": 42937,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Expert system technique where a hypothesis is given at the beginning and the inference engine proceeds to ask the user questions about selected facts until the hypothesis is either confirmed or denied",
+    "op": [
+        "Backward chaining",
+        "Data mining",
+        "Forward chaining",
+        "Network Knowledge"
+    ],
+    "created_at": "2026-06-22T08:42:27.373402+00:00"
+},
+{
+    "id": 42938,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is not the main phase of the linear sequence?",
+    "op": [
+        "Requirement engineering",
+        "Code",
+        "Planning",
+        "System evaluation"
+    ],
+    "created_at": "2026-06-22T08:42:44.151002+00:00"
+},
+{
+    "id": 42939,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The correct command to load a CLIPS file is:",
+    "op": [
+        "(load \"filename.clp\")",
+        "(readfile \"filename.clp\")",
+        "(read \"filename.clp\")",
+        "(loadfile \"filename.clp\")"
+    ],
+    "created_at": "2026-06-22T08:43:41.90138+00:00"
+},
+{
+    "id": 42940,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An expert system models the following aspect(s) of human expert",
+    "op": [
+        "Operators",
+        "Operations",
+        "Implications",
+        "Knowledge and reasoning"
+    ],
+    "created_at": "2026-06-22T08:44:00.973709+00:00"
+},
+{
+    "id": 42941,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________________ is the part of the system that controls the process of deriving conclusions.",
+    "op": [
+        "A database of facts",
+        "An interpreter, or inference engine",
+        "A knowledge base",
+        "An object"
+    ],
+    "created_at": "2026-06-22T08:44:21.334914+00:00"
+},
+{
+    "id": 42942,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Inference engine matches the facts contained in the _______ with the ______contained in the knowledge base, to draw conclusions about the problem.",
+    "op": [
+        "Rule engine, operators",
+        "Fact table, working memory",
+        "Working memory, domain knowledge",
+        "object, class"
+    ],
+    "created_at": "2026-06-22T16:55:44.605595+00:00"
+},
+{
+    "id": 42943,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Identify the step involved in planning phase.",
+    "op": [
+        "Resource allocation",
+        "Knowledge acquisition from expert",
+        "Coding",
+        "Identify concrete knowledge elements"
+    ],
+    "created_at": "2026-06-23T17:38:59.904837+00:00"
+},
+{
+    "id": 42944,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "“Focused area of expertise” in human experts is referred to as _____ in expert systems",
+    "op": [
+        "Knowledge",
+        "Inference engine",
+        "Domain",
+        "Reasoning"
+    ],
+    "created_at": "2026-06-22T16:56:16.331606+00:00"
+},
+{
+    "id": 42945,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "____________ are able to override the normal rules in expert systems.",
+    "op": [
+        "Forward chain rules",
+        "Meta rules",
+        "Conflict resolution rules",
+        "Backward chain rules"
+    ],
+    "created_at": "2026-06-22T16:56:28.483228+00:00"
+},
+{
+    "id": 42946,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Knowledge acquisition techniques may not include:",
+    "op": [
+        "Interviews",
+        "Surveys",
+        "On-site observation",
+        "Electronic brainstorming"
+    ],
+    "created_at": "2026-06-22T16:56:40.641975+00:00"
+},
+{
+    "id": 42947,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the linear model which is not the step of the planning phase?",
+    "op": [
+        "Task phasing and scheduling",
+        "Resource allocation",
+        "Feasibility assessment",
+        "Knowledge engineering"
+    ],
+    "created_at": "2026-06-22T16:56:49.972163+00:00"
+},
+{
+    "id": 42948,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the correct statement to list facts numbers 1 through 10",
+    "op": [
+        "clips> (facts 10)",
+        "clips> (facts 1)",
+        "clips> (facts 1 10)",
+        "clips> (facts 1 to 10)"
+    ],
+    "created_at": "2026-06-22T16:57:02.689749+00:00"
+},
+{
+    "id": 42949,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The rules that define how conflict resolution will be used, and how other aspects of the system itself will run, are called ___________.",
+    "op": [
+        "Meta rules",
+        "Forward chain rules",
+        "Conflict resolution rules",
+        "backward chain rules"
+    ],
+    "created_at": "2026-06-22T18:54:05.908058+00:00"
+},
+{
+    "id": 42950,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Knowledge elicitation methods may be classified into:",
+    "op": [
+        "Data Driven and application driven methods",
+        "Direct and indirect methods",
+        "Direct and hierarchical",
+        "Hierarchical and non hierarchical methods"
+    ],
+    "created_at": "2026-06-22T18:54:25.749759+00:00"
+},
+{
+    "id": 42951,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Clips command for multiplying two numbers 3 and 4 is.",
+    "op": [
+        "CLIPS> (3 4 *)",
+        "CLIPS> (* 3 4)",
+        "CLIPS> (3 * 4)",
+        "CLIPS> *(3 4)"
+    ],
+    "created_at": "2026-06-22T18:55:04.925474+00:00"
+},
+{
+    "id": 42952,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "During ______ stage, knowledge engineer works with the domain expert to acquire, organize and analyse the domain knowledge.",
+    "op": [
+        "Feasibility Study",
+        "System Design",
+        "Knowledge acquisition",
+        "System Planning"
+    ],
+    "created_at": "2026-06-22T18:56:03.246136+00:00"
+},
+{
+    "id": 42953,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The goal of ___________ is to analyse and structure the knowledge gained during the knowledge acquisition phase.",
+    "op": [
+        "Knowledge design",
+        "Knowledge structure",
+        "ES design",
+        "Knowledge analysis"
+    ],
+    "created_at": "2026-06-23T17:39:47.463922+00:00"
+},
+{
+    "id": 42954,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An alternative method is the longest-matching strategy. This method involves firing the conclusion that was derived from the _______________.",
+    "op": [
+        "Forward chain rule",
+        "Longest rule",
+        "Complex rule",
+        "Shortest rule"
+    ],
+    "created_at": "2026-06-22T18:56:34.236242+00:00"
+},
+{
+    "id": 42955,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Backward chaining is more focused and tries to avoid exploring ____________ paths of reasoning.",
+    "op": [
+        "different",
+        "searching",
+        "necessary",
+        "unnecessary"
+    ],
+    "created_at": "2026-06-23T04:13:19.80976+00:00"
+},
+{
+    "id": 42956,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The process continues recursively until a premise is found that is not supported by a rule, i.e. a premise is called a ___________ if it cannot be concluded by any rule.",
+    "op": [
+        "elementary",
+        "secondary",
+        "antique",
+        "primitive"
+    ],
+    "created_at": "2026-06-23T04:13:40.026521+00:00"
+},
+{
+    "id": 42957,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Reasoning in fuzzy logic is just a matter of generalizing the familiar _________  logic.",
+    "op": [
+        "Boolean",
+        "Supervised",
+        "Coagnitive",
+        "Complex"
+    ],
+    "created_at": "2026-06-23T04:13:58.871156+00:00"
+},
+{
+    "id": 42958,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Identify correct statement for the given rule.\n\nIF\nThe aptitude level of an undergraduate student is low and\nThe English understanding level of undergraduate student is dull\nTHEN\nHe is not eligible to go abroad for higher studies.",
+    "op": [
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”)",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n<=>\n(printout t “He is not eligible to go abroad for higher studies”))"
+    ],
+    "created_at": "2026-06-23T04:14:52.837014+00:00"
+},
+{
+    "id": 42959,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Which of the following command is used to see the added facts in CLIPS?",
+    "op": [
+        "(facts)",
+        "Fact",
+        "(fact)",
+        "deftemplate"
+    ],
+    "created_at": "2026-06-23T17:41:06.357173+00:00"
+},
+{
+    "id": 73620,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify correct statement for the given rule. IF The aptitude level of an undergraduate student is low and The English understanding level of undergraduate student is dull THEN He is not eligible to go abroad for higher studies.",
+    "op": [
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n<=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”)",
+        "(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))",
+        "(deftamplate UnderGradStudent (slot attribute)(slot value))\n(defrule StudentStatus (UnderGradStudent (attribute “aptitude level”)(value “low”))\n(UnderGradStudent (attribute “English understanding level”)(value “dull”))\n=>\n(printout t “He is not eligible to go abroad for higher studies”))"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73621,
+    "cc": "CS607",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Reasoning in fuzzy logic is just a matter of generalizing the familiar _________ logic.",
+    "op": [
+        "Supervised",
+        "Coagnitive",
+        "Boolean",
+        "Complex"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

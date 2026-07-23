@@ -1,0 +1,856 @@
+[
+    {
+        "id": 21329,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "If there are more than ……. alive neighbors, the cell dies.",
+        "op": [
+            "seven",
+            "five",
+            "ten",
+            "Three"
+        ],
+        "created_at": "2026-06-24T19:53:35.963229+00:00"
+    },
+    {
+        "id": 21330,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "……….. Consist of heterogeneous actors such as buyers and sellers.",
+        "op": [
+            "Math",
+            "physics",
+            "Economics",
+            "Biology"
+        ],
+        "created_at": "2026-06-24T19:53:44.128586+00:00"
+    },
+    {
+        "id": 21331,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": ".......Mathematician John Horton Conway – 1970 was made popular by a columnist “Martin Gardner”.",
+        "op": [
+            "Scottish",
+            "German",
+            "British",
+            "Chinese"
+        ],
+        "created_at": "2026-06-24T19:53:51.24033+00:00"
+    },
+    {
+        "id": 21332,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "There is a ………..mapping of ABM methods to economics.",
+        "op": [
+            "Straight",
+            "Circular",
+            "Un-Natural",
+            "Natural"
+        ],
+        "created_at": "2026-06-24T19:53:56.93508+00:00"
+    },
+    {
+        "id": 21334,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "CSSSA is stands for",
+        "op": [
+            "Complex Systems Social Sciences Association",
+            "Compound Systems Social Sciences Association",
+            "None",
+            "Complex Systems Social Sciences Administration"
+        ],
+        "created_at": "2026-06-24T19:54:04.250332+00:00"
+    },
+    {
+        "id": 21335,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "In spite of being primarily of interest to…………, there has been a growing interest in the use of ABM in the social sciences",
+        "op": [
+            "Biology",
+            "PHYSIC",
+            "MATH",
+            "COMPUTER SCIENCE"
+        ],
+        "created_at": "2026-06-24T19:54:12.268589+00:00"
+    },
+    {
+        "id": 21336,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "WCSS is stands for",
+        "op": [
+            "None",
+            "World Congress on Series Simulation",
+            "World Congress on Social Society",
+            "World Congress on Social Simulation"
+        ],
+        "created_at": "2026-06-24T19:54:21.121817+00:00"
+    },
+    {
+        "id": 21338,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "If there are 2 alive neighbors, the cell …….. In the state it is in",
+        "op": [
+            "Change",
+            "NONE",
+            "Remains",
+            "BOTH"
+        ],
+        "created_at": "2026-06-24T19:54:28.600006+00:00"
+    },
+    {
+        "id": 21339,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "…………………….. Agents help a lot in developing an understanding",
+        "op": [
+            "Homogenous",
+            "BOTH",
+            "Heterogeneous",
+            "NONE"
+        ],
+        "created_at": "2026-06-24T19:54:37.217684+00:00"
+    },
+    {
+        "id": 21340,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "Agent-based methods may be particularly valuable in the ……..sciences.",
+        "op": [
+            "SOCIAL",
+            "PHYSICAL",
+            "BIOLOGICAL",
+            "NONE"
+        ],
+        "created_at": "2026-06-24T19:54:44.344435+00:00"
+    },
+    {
+        "id": 21342,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "…………cell checks the state of itself and its eight surrounding neighbors and then sets itself to either alive or dead",
+        "op": [
+            "NO",
+            "TWO",
+            "ONE",
+            "EACH"
+        ],
+        "created_at": "2026-06-24T19:54:56.034364+00:00"
+    },
+    {
+        "id": 43036,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "Start coding in ……….using patches.",
+        "op": [
+            "Net Logo",
+            "Java",
+            "None",
+            "C++"
+        ],
+        "created_at": "2026-06-25T11:48:44.091698+00:00"
+    },
+    {
+        "id": 43037,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "Agent-based methods may be particularly valuable in the ……..sciences.",
+        "op": [
+            "NONE",
+            "PHYSICAL",
+            "BIOLOGICAL",
+            "SOCIAL"
+        ],
+        "created_at": "2026-06-25T11:45:05.508924+00:00"
+    },
+    {
+        "id": 43038,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "If there are 2 alive neighbors, the cell …….. In the state it is in",
+        "op": [
+            "Change",
+            "BOTH",
+            "NONE",
+            "Remains"
+        ],
+        "created_at": "2026-06-25T11:45:42.92985+00:00"
+    },
+    {
+        "id": 43039,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "CSSSA is stands for",
+        "op": [
+            "Compound Systems Social Sciences Association",
+            "Complex Systems Social Sciences Association",
+            "Complex Systems Social Sciences Administration",
+            "None"
+        ],
+        "created_at": "2026-06-25T11:46:12.797753+00:00"
+    },
+    {
+        "id": 43040,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "…………………….. Agents help a lot in developing an understanding",
+        "op": [
+            "BOTH",
+            "Heterogeneous",
+            "NONE",
+            "Homogenous"
+        ],
+        "created_at": "2026-06-25T11:47:35.731371+00:00"
+    },
+    {
+        "id": 43041,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "There is a ………..mapping of ABM methods to economics.",
+        "op": [
+            "Circular",
+            "Straight",
+            "Un-Natural",
+            "Natural"
+        ],
+        "created_at": "2026-06-25T11:48:10.149413+00:00"
+    },
+    {
+        "id": 43042,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "……….. Consist of heterogeneous actors such as buyers and sellers.",
+        "op": [
+            "Economics",
+            "Biology",
+            "physics",
+            "Math"
+        ],
+        "created_at": "2026-06-25T11:49:07.430258+00:00"
+    },
+    {
+        "id": 43043,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "…………cell checks the state of itself and its eight surrounding neighbors and then sets itself to either alive or dead",
+        "op": [
+            "TWO",
+            "EACH",
+            "ONE",
+            "NO"
+        ],
+        "created_at": "2026-06-25T11:49:32.540671+00:00"
+    },
+    {
+        "id": 43044,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "If there are more than ……. alive neighbors, the cell dies.",
+        "op": [
+            "seven",
+            "five",
+            "Three",
+            "ten"
+        ],
+        "created_at": "2026-06-25T11:49:57.833881+00:00"
+    },
+    {
+        "id": 43045,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": ".......Mathematician John Horton Conway – 1970 was made popular by a columnist “Martin Gardner”.",
+        "op": [
+            "Chinese",
+            "British",
+            "Scottish",
+            "German"
+        ],
+        "created_at": "2026-06-25T11:50:19.455813+00:00"
+    },
+    {
+        "id": 43046,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "WCSS is stands for",
+        "op": [
+            "World Congress on Social Society",
+            "None",
+            "World Congress on Series Simulation",
+            "World Congress on Social Simulation"
+        ],
+        "created_at": "2026-06-25T11:50:38.311719+00:00"
+    },
+    {
+        "id": 43047,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "25 June 2026",
+        "qt": "In spite of being primarily of interest to…………, there has been a growing interest in the use of ABM in the social sciences",
+        "op": [
+            "MATH",
+            "COMPUTER SCIENCE",
+            "PHYSIC",
+            "Biology"
+        ],
+        "created_at": "2026-06-25T11:51:03.986576+00:00"
+    },
+    {
+        "id": 67482,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "A network in which each node is randomly connected to other individual node is called as _____.",
+        "op": [
+            "Scale-free Network",
+            "Random Network",
+            "Lattice Network",
+            "Small-world Network"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67483,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "What is the range of a probability?",
+        "op": [
+            "-1 to 1",
+            "-0.5 to 0.5",
+            "0 to 0.5",
+            "0 to 1"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67484,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "The rate of infection initially rises ______.",
+        "op": [
+            "Linearly",
+            "Non-Linear",
+            "Exponentially",
+            "Quadratic"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67485,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "For different Models the granularity is _____.",
+        "op": [
+            "Multiple",
+            "Different",
+            "Equal",
+            "Similar"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67486,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "______ enables the model user to select a value from a range of numerical values.",
+        "op": [
+            "Buttons",
+            "Input Boxes",
+            "Switches",
+            "Sliders"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67490,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Model ______ is the implementation by one researchers of a conceptual model previously implemented by someone else.",
+        "op": [
+            "Correctness",
+            "Validation",
+            "Verification",
+            "Replication"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67492,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "According to the agent design there are ______ key aspects of agent.",
+        "op": [
+            "Four",
+            "Three",
+            "Five",
+            "Two"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67503,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "_______ networks have the property that any sub network of the global network has the same properties as the global network.",
+        "op": [
+            "Scale-free Network",
+            "Small-world Network",
+            "Lattice Network",
+            "Random Network"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67504,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": ". A/An ______ topology is one in which all the edges are connected to another edge in a regular manner.",
+        "op": [
+            "Bounded",
+            "Infinite Plane",
+            "Toroidal",
+            "Non-Bounded"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67505,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In Moore Neighborhood how many neighbors are there for each cell of square lattice.",
+        "op": [
+            "Two",
+            "Six",
+            "Eight",
+            "Four"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67506,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "How many basic classes of interaction are existing in Agent-Based Modelling.",
+        "op": [
+            "Five",
+            "Six",
+            "Three",
+            "Four"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67507,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "________ networks are made up of dense clusters of highly interconnected nodes joined by a few long-distance links between then.",
+        "op": [
+            "Lattice Network",
+            "Small-world Network",
+            "Random Network",
+            "Scale-free Network"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67555,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Verification is a kind of ______.",
+        "op": [
+            "Replication",
+            "Testing",
+            "Validation",
+            "Calibration"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67556,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "The major goal of __________ is to focus on explaining and summarizing a specific dataset.",
+        "op": [
+            "Inferential Statistics",
+            "Probability",
+            "Descriptive Statistics",
+            "Mathematics"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67558,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "_____ key modeling models are available for spatial environment in agent-based modeling.",
+        "op": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67559,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Model accuracy is evaluated through _______.",
+        "op": [
+            "Validation, verification, and Replication",
+            "Validation and verification",
+            "Verification and Replication",
+            "Replication and Validation"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67560,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "The average path length of small-world network is ________.",
+        "op": [
+            "The sum of all pair wise distance between nodes in a network.",
+            "The average of pair wise distance between highly connected nodes in a network.",
+            "The sum of pair wise distance between highly connected nodes in a network.",
+            "The average of all pair wise distance between nodes in a network."
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67644,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Communication is an example of _____ interaction.",
+        "op": [
+            "Environment – Environment",
+            "Agent – Environment",
+            "Agent – Agent",
+            "Agent – self"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67645,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Which Statement is not true for observers",
+        "op": [
+            "It ensures that the model runs and proceeds according to the steps developed by the model author",
+            "The observer issues commands to agents and the environment",
+            "It is a low-level agent",
+            "It is a high-level agent"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67646,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "A/An ______ topology is one in which agents are not allowed to move beyond the edges of the world.",
+        "op": [
+            "Non-Bounded",
+            "Bounded",
+            "Infinite Plane",
+            "Toroidal"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67647,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Agents that link two or more other agents are known as ______.",
+        "op": [
+            "Model-based Agents",
+            "Mobile Agents",
+            "Stationary Agents",
+            "Connecting Agents"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67666,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "A/An _______ topology is one where there are no bounds. Agents can keep moving and moving in any direction forever.",
+        "op": [
+            "Toroidal",
+            "Infinite Plane",
+            "Bounded",
+            "Non-Bounded"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67667,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Agents that can move about the landscape are known as ______.",
+        "op": [
+            "Connecting Agents",
+            "Mobile Agents",
+            "Stationary Agents",
+            "Model-based Agents"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67668,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Agent cognition is defined as how much ______ is added into the agents.",
+        "op": [
+            "Complexity",
+            "Coherence",
+            "Granularity",
+            "Simplicity"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67669,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "What is the probability of occurring tails in a flip coin?",
+        "op": [
+            "0.75",
+            "1",
+            "0.5",
+            "0.1"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67670,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "______ are often used to represent the relationship between turtles.",
+        "op": [
+            "Connecting Agents",
+            "Patches",
+            "Links",
+            "Mobile Agents"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67681,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Agents are typically divided into _____ main types",
+        "op": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67682,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In Von Neumann Neighborhood how many neighbors are there for each cell of square lattice.",
+        "op": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67683,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In NetLogo AIDS model the agents are _____.",
+        "op": [
+            "Tissues",
+            "Diseases",
+            "Humans",
+            "Cells"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67693,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Which Statement is not true for observers.",
+        "op": [
+            "It is a low-level agent.",
+            "It is a high-level agent.",
+            "The observer issues commands to agents and the environment.",
+            "It ensures that the model runs and proceeds according to the steps developed by the model author."
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67694,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Human body is an example of _______.",
+        "op": [
+            "Meta Agents",
+            "Connective Agents",
+            "Proto Agents",
+            "Adaptive Agents"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67717,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In random graph the connections per node exceeds from ______.",
+        "op": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67778,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In agent-based modeling the environment consists of _________ surrounding the agents as they act and interact within the model.",
+        "op": [
+            "Conditions and decisions",
+            "Habitats and decisions",
+            "Conditions & habitats",
+            "Conditions"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67783,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "______ agents are the placeholders for future agents.",
+        "op": [
+            "Connective Agents",
+            "Adaptive Agents",
+            "Meta Agents",
+            "Proto Agents"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67791,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "In NetLogo Tumor model the agents are _____ within the human body.",
+        "op": [
+            "Tissues",
+            "Proteins",
+            "organs",
+            "Cells"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67793,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "There are ____ keyways of doing model documentation.",
+        "op": [
+            "Two",
+            "Five",
+            "Three",
+            "Four"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67840,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Determining whether an implemented model corresponds to the target model is known as model ________.",
+        "op": [
+            "Correctness",
+            "Replication",
+            "Validation",
+            "Verification"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67871,
+        "cc": "CS620",
+        "qn": "2",
+        "dt": "01 January 2026",
+        "qt": "Agents that cannot move at the landscape are known as ______.",
+        "op": [
+            "Mobile Agents",
+            "Stationary Agents",
+            "Model-based Agents",
+            "Connecting Agents"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    }
+]

@@ -1,0 +1,2148 @@
+[
+{
+    "id": 30993,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An attribute y may be functionally dependent on \n(i) a composite attribute x,y\n(ii) a single attribute x\n(iii) no attribute",
+    "op": [
+        "i and ii",
+        "i and iii",
+        "iii",
+        "ii and iii"
+    ],
+    "created_at": "2026-06-30T19:08:32.555212+00:00"
+},
+{
+    "id": 31005,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A function that has no partial functional dependencies is in _______ .",
+    "op": [
+        "1NF",
+        "3NF",
+        "2NF",
+        "BCNF"
+    ],
+    "created_at": "2026-06-30T19:08:56.425292+00:00"
+},
+{
+    "id": 31008,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If A→ BC then A → B and A→ C \nThe above rule follows _____________ inference rule.",
+    "op": [
+        "Additivity",
+        "Projectivity",
+        "Transitivity",
+        "Augmentation"
+    ],
+    "created_at": "2026-06-30T19:09:04.145705+00:00"
+},
+{
+    "id": 31013,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Creating the relationships between new tables and their predecessors through the use of foreign keys is general requirements of__________.",
+    "op": [
+        "First normal form",
+        "Second normal form",
+        "Third normal form",
+        "Fourth normal form"
+    ],
+    "created_at": "2026-06-30T19:09:13.461059+00:00"
+},
+{
+    "id": 31016,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The process of normalization",
+    "op": [
+        "is finding the key of a relation",
+        "is manual and requires semantic information",
+        "requires one to understand dependency between attributes",
+        "is automatic using a computer program"
+    ],
+    "created_at": "2026-06-30T19:09:20.589661+00:00"
+},
+{
+    "id": 31019,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is used to keep the input values for a specific attribute in specific limits in comparison to any other attribute of the same or any other relation?",
+    "op": [
+        "Default Value",
+        "Range Control",
+        "Null Value Control",
+        "Referential Integrity"
+    ],
+    "created_at": "2026-06-30T19:09:34.301832+00:00"
+},
+{
+    "id": 31023,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "While converting to 2NF all the columns are deleted from the original table except for the determinant which will serve as a ____________key.",
+    "op": [
+        "Primary key",
+        "Foreign key",
+        "Composite Key",
+        "Super key"
+    ],
+    "created_at": "2026-06-30T19:09:42.335652+00:00"
+},
+{
+    "id": 31029,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Functional dependencies under reflexivity inference rule are called __________ dependencies.",
+    "op": [
+        "Augmentation",
+        "Projectivity",
+        "Transitivity",
+        "Trivial"
+    ],
+    "created_at": "2026-06-30T19:09:49.087561+00:00"
+},
+{
+    "id": 31038,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The maximum PL/SQL size of data type “BLOB” in DBMS is _____________.",
+    "op": [
+        "10 Gigabytes",
+        "8 Gigabytes",
+        "4 Gigabytes",
+        "12 Gigabytes"
+    ],
+    "created_at": "2026-06-30T19:10:08.689577+00:00"
+},
+{
+    "id": 31039,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The following is an example of __________ inference rule.\nIf stId → prName and prName → credits then stId → credits",
+    "op": [
+        "Projectivity",
+        "Transitivity",
+        "Additive",
+        "Augmentation"
+    ],
+    "created_at": "2026-06-30T19:10:08.816688+00:00"
+},
+{
+    "id": 31046,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "For third normal form we concentrate on relations with one _________key, and we eliminate transitive dependencies",
+    "op": [
+        "Candidate",
+        "Composite",
+        "Primary key",
+        "Super key"
+    ],
+    "created_at": "2026-06-30T19:10:19.052739+00:00"
+},
+{
+    "id": 31058,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "____________are the structure defined for placing data in the attributes while designing physical design of database.",
+    "op": [
+        "Objects",
+        "Variables",
+        "Data types",
+        "Attributes"
+    ],
+    "created_at": "2026-06-30T19:10:53.642805+00:00"
+},
+{
+    "id": 31062,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A database state where deletion of the information about the student record deletes the course information as well is called _______________.",
+    "op": [
+        "Deletion anomaly",
+        "Redundancy",
+        "Updation anomaly",
+        "Insertion anomaly"
+    ],
+    "created_at": "2026-06-30T19:11:03.820939+00:00"
+},
+{
+    "id": 31067,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Given the following relation it is not 3 NF because\nStudent (roll no, name, course no, course max. marks, year of study,    \naddress), where roll no is PK",
+    "op": [
+        "non-key attributes course no and course max. marks are functionally\ndependent",
+        "it has more than 3 non-key attributes",
+        "it is not in 2 NF",
+        "it does not have composite key"
+    ],
+    "created_at": "2026-06-30T19:11:13.961267+00:00"
+},
+{
+    "id": 31072,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The  maximum PL/SQL size of data type “VARCHAR2”  in DBMS is _____________ bytes.",
+    "op": [
+        "52767",
+        "28767",
+        "42767",
+        "32767"
+    ],
+    "created_at": "2026-06-30T19:11:25.532158+00:00"
+},
+{
+    "id": 31082,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is an empty value but distinct from zero and spaces?",
+    "op": [
+        "Range Value",
+        "Referential Integrity",
+        "Null Value",
+        "Default Value"
+    ],
+    "created_at": "2026-06-30T19:11:51.847013+00:00"
+},
+{
+    "id": 31090,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In which normal form, we convert composite attributes into individual attributes?",
+    "op": [
+        "2NF",
+        "1NF",
+        "3NF",
+        "4NF"
+    ],
+    "created_at": "2026-06-30T19:12:04.843044+00:00"
+},
+{
+    "id": 31098,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The database design prevents some data from being stored due to _______.",
+    "op": [
+        "Deletion anomalies",
+        "Redundancy",
+        "Update anomalies",
+        "Insertion anomalies"
+    ],
+    "created_at": "2026-06-30T19:12:19.39663+00:00"
+},
+{
+    "id": 31105,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Data type “BLOB” in database management system stands for ________________.",
+    "op": [
+        "Bipolar large object",
+        "Binary long objective",
+        "Binary large objective",
+        "Binary large Object"
+    ],
+    "created_at": "2026-06-30T19:12:32.170444+00:00"
+},
+{
+    "id": 31113,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When a functional dependency exits, the attributes or set of attributes on the left side of the arrow are known as ______.",
+    "op": [
+        "Dependant",
+        "Anomalies",
+        "Determinant",
+        "Schema"
+    ],
+    "created_at": "2026-06-30T19:12:42.299125+00:00"
+},
+{
+    "id": 31122,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "After moving the determined columns from the original table to the new table while converting to 2NF, the determinate becomes the _____________of the new table",
+    "op": [
+        "Composite key",
+        "Foreign key",
+        "Primary key",
+        "Secondary key"
+    ],
+    "created_at": "2026-06-30T19:12:55.691164+00:00"
+},
+{
+    "id": 31127,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_____________ are used by database administrator in situations where we have large number of records and wastage of small amount of space in each record can lead to loss of huge amount of data storage space.",
+    "op": [
+        "Codes",
+        "Variables",
+        "Symbols",
+        "Special characters"
+    ],
+    "created_at": "2026-06-30T19:13:06.799295+00:00"
+},
+{
+    "id": 31132,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A relation is said to be in BCNF when",
+    "op": [
+        "it has overlapping composite keys",
+        "it has no overlapping composite keys which have related attributes",
+        "it has no multivalued dependencies",
+        "it has no composite keys"
+    ],
+    "created_at": "2026-06-30T19:13:10.548476+00:00"
+},
+{
+    "id": 31155,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following normal form deals with possible loss less decompositions?",
+    "op": [
+        "3NF",
+        "2NF",
+        "4NF",
+        "5NF"
+    ],
+    "created_at": "2026-06-30T19:14:14.386979+00:00"
+},
+{
+    "id": 31160,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A functional dependency is a type of relationship between ___________.",
+    "op": [
+        "Objects",
+        "Attributes",
+        "Tables",
+        "Entities"
+    ],
+    "created_at": "2026-06-30T19:14:30.169058+00:00"
+},
+{
+    "id": 31169,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Normalization is a process of restructuring a relation to",
+    "op": [
+        "maximize duplication of data to ensure reliability",
+        "allow addition of data",
+        "make it of uniform size",
+        "minimize duplication of data in a database"
+    ],
+    "created_at": "2026-06-30T19:14:39.632663+00:00"
+},
+{
+    "id": 31176,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________________ is state of database where a “course” cannot be inserted in the table, because this course has not been registered to any “student”.",
+    "op": [
+        "Insertion anomaly",
+        "Updation anomaly",
+        "Redundancy",
+        "Deletion anomaly"
+    ],
+    "created_at": "2026-06-30T19:14:53.160676+00:00"
+},
+{
+    "id": 31179,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If A -> B and A -> C, then A -> BC\nThe Inference Rule applies is;",
+    "op": [
+        "Union",
+        "Reflexivity",
+        "Augmentation",
+        "Decomposition"
+    ],
+    "created_at": "2026-06-30T19:14:54.882043+00:00"
+},
+{
+    "id": 31311,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Atomicity is a feature of ______.",
+    "op": [
+        "2NF",
+        "BCNF",
+        "1NF",
+        "3NF"
+    ],
+    "created_at": "2026-06-30T19:19:20.755881+00:00"
+},
+{
+    "id": 31348,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Normalization of database is used to __________.",
+    "op": [
+        "Improve design",
+        "Minimize errors",
+        "Improve security",
+        "Eliminate redundancy"
+    ],
+    "created_at": "2026-06-30T19:21:11.877856+00:00"
+},
+{
+    "id": 31376,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following normal form deals with multivalued dependency?",
+    "op": [
+        "3NF",
+        "1NF",
+        "4NF",
+        "2NF"
+    ],
+    "created_at": "2026-06-30T19:22:23.081+00:00"
+},
+{
+    "id": 31528,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is associated with a specific attribute and can help us to reduce the chances of inserting incorrect values in the attribute space?",
+    "op": [
+        "Null Value Control",
+        "Range Control",
+        "Referential Integrity",
+        "Default Value"
+    ],
+    "created_at": "2026-06-30T19:28:25.507915+00:00"
+},
+{
+    "id": 31595,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In ____________ the domains of attributes of a relation are atomic, that is they consist of single units that cannot be broken down further.",
+    "op": [
+        "Augmentation",
+        "Third normal form",
+        "Second normal form",
+        "First normal form"
+    ],
+    "created_at": "2026-06-30T19:32:11.386546+00:00"
+},
+{
+    "id": 31837,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "With the help of _____________ technique  data values with the smaller sized codes can further reduce the space needed by the data for storage in the database.",
+    "op": [
+        "Compression",
+        "Negation",
+        "Expansions",
+        "Extension"
+    ],
+    "created_at": "2026-06-30T19:39:20.3487+00:00"
+},
+{
+    "id": 32006,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A relational table is in third normal form (3NF) if it is already in 2NF and every non-key column is non-transitively dependent upon its ______.",
+    "op": [
+        "Candidate Key",
+        "Primary Key",
+        "Super Key",
+        "Foreign Key"
+    ],
+    "created_at": "2026-06-30T19:48:06.882142+00:00"
+},
+{
+    "id": 32019,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A 3 NF relation is converted to BCNF by",
+    "op": [
+        "dependent non-key attributes are put in a separate table",
+        "removing composite keys",
+        "dependent attributes of overlapping composite keys are put in a separate relation",
+        "removing multivalued dependencies"
+    ],
+    "created_at": "2026-06-30T19:48:59.62965+00:00"
+},
+{
+    "id": 42595,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The database design prevents some data from being stored due to _______.",
+    "op": [
+        "Update anomalies",
+        "Insertion anomalies",
+        "Deletion anomalies",
+        "Redundancy"
+    ],
+    "created_at": "2026-07-01T05:38:04.875531+00:00"
+},
+{
+    "id": 42596,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If A→ BC then A → B and A→ C \nThe above rule follows _____________ inference rule.",
+    "op": [
+        "Transitivity",
+        "Projectivity",
+        "Augmentation",
+        "Additivity"
+    ],
+    "created_at": "2026-07-01T05:38:26.072125+00:00"
+},
+{
+    "id": 42597,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When a functional dependency exits, the attributes or set of attributes on the left side of the arrow are known as ______.",
+    "op": [
+        "Dependant",
+        "Determinant",
+        "Schema",
+        "Anomalies"
+    ],
+    "created_at": "2026-07-01T05:38:45.576933+00:00"
+},
+{
+    "id": 42598,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A database state where deletion of the information about the student record deletes the course information as well is called _______________.",
+    "op": [
+        "Insertion anomaly",
+        "Updation anomaly",
+        "Redundancy",
+        "Deletion anomaly"
+    ],
+    "created_at": "2026-07-01T05:39:17.635183+00:00"
+},
+{
+    "id": 42599,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________________ is state of database where a “course” cannot be inserted in the table, because this course has not been registered to any “student”.",
+    "op": [
+        "Deletion anomaly",
+        "Redundancy",
+        "Updation anomaly",
+        "Insertion anomaly"
+    ],
+    "created_at": "2026-07-01T05:39:38.345216+00:00"
+},
+{
+    "id": 42600,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A 3 NF relation is converted to BCNF by",
+    "op": [
+        "removing multivalued dependencies",
+        "dependent non-key attributes are put in a separate table",
+        "dependent attributes of overlapping composite keys are put in a separate relation",
+        "removing composite keys"
+    ],
+    "created_at": "2026-07-01T05:39:58.625761+00:00"
+},
+{
+    "id": 42601,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A function that has no partial functional dependencies is in _______ .",
+    "op": [
+        "2NF",
+        "BCNF",
+        "3NF",
+        "1NF"
+    ],
+    "created_at": "2026-07-01T05:40:19.268507+00:00"
+},
+{
+    "id": 42602,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "With the help of _____________ technique  data values with the smaller sized codes can further reduce the space needed by the data for storage in the database.",
+    "op": [
+        "Extension",
+        "Expansions",
+        "Negation",
+        "Compression"
+    ],
+    "created_at": "2026-07-01T05:40:51.011147+00:00"
+},
+{
+    "id": 42603,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Normalization is a process of restructuring a relation to",
+    "op": [
+        "allow addition of data",
+        "make it of uniform size",
+        "minimize duplication of data in a database",
+        "maximize duplication of data to ensure reliability"
+    ],
+    "created_at": "2026-07-01T05:41:19.434241+00:00"
+},
+{
+    "id": 42605,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following normal form deals with multivalued dependency?",
+    "op": [
+        "4NF",
+        "2NF",
+        "3NF",
+        "1NF"
+    ],
+    "created_at": "2026-07-01T19:02:25.327701+00:00"
+},
+{
+    "id": 42606,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "While converting to 2NF all the columns are deleted from the original table except for the determinant which will serve as a ____________key.",
+    "op": [
+        "Super key",
+        "Primary key",
+        "Foreign key",
+        "Composite Key"
+    ],
+    "created_at": "2026-07-01T19:02:39.091421+00:00"
+},
+{
+    "id": 42607,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In which normal form, we convert composite attributes into individual attributes?",
+    "op": [
+        "4NF",
+        "1NF",
+        "3NF",
+        "2NF"
+    ],
+    "created_at": "2026-07-01T19:03:20.56718+00:00"
+},
+{
+    "id": 42608,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A functional dependency is a type of relationship between ___________.",
+    "op": [
+        "Attributes",
+        "Tables",
+        "Objects",
+        "Entities"
+    ],
+    "created_at": "2026-07-01T19:03:56.868493+00:00"
+},
+{
+    "id": 42609,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The  maximum PL/SQL size of data type “VARCHAR2”  in DBMS is _____________ bytes.",
+    "op": [
+        "52767",
+        "42767",
+        "32767",
+        "28767"
+    ],
+    "created_at": "2026-07-02T17:13:15.453337+00:00"
+},
+{
+    "id": 42610,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Normalization of database is used to __________.",
+    "op": [
+        "Improve design",
+        "Improve security",
+        "Minimize errors",
+        "Eliminate redundancy"
+    ],
+    "created_at": "2026-07-02T17:13:42.249+00:00"
+},
+{
+    "id": 42611,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If A→ B and CB → D, then AC → D. 1. The above rule follows _____________ inference rule.",
+    "op": [
+        "Additivity",
+        "Augmentation",
+        "Decomposition",
+        "Pseudo transitivity"
+    ],
+    "created_at": "2026-07-02T17:13:51.037184+00:00"
+},
+{
+    "id": 42612,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following normal form deals with possible loss less decompositions?",
+    "op": [
+        "4NF",
+        "2NF",
+        "5NF",
+        "3NF"
+    ],
+    "created_at": "2026-07-02T17:14:10.525952+00:00"
+},
+{
+    "id": 42613,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "An attribute y may be functionally dependent on \n(i) a composite attribute x,y\n(ii) a single attribute x\n(iii) no attribute",
+    "op": [
+        "iii",
+        "i and iii",
+        "i and ii",
+        "ii and iii"
+    ],
+    "created_at": "2026-07-02T17:14:21.456295+00:00"
+},
+{
+    "id": 42615,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Functional dependencies under reflexivity inference rule are called __________ dependencies.",
+    "op": [
+        "Transitivity",
+        "Projectivity",
+        "Trivial",
+        "Augmentation"
+    ],
+    "created_at": "2026-07-02T17:15:05.808566+00:00"
+},
+{
+    "id": 48040,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "-------------------------- provides rapid, non-sequential, direct access to records.",
+    "op": [
+        "Collision handling",
+        "Non Hashing",
+        "Hashing",
+        "sequential"
+    ],
+    "created_at": "2026-07-05T19:09:20.371085+00:00"
+},
+{
+    "id": 48087,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "WORM: Stands for--------------------------------------.",
+    "op": [
+        "write-once, read-many",
+        "Read only memory",
+        "write only memory",
+        "Write on, Read memory"
+    ],
+    "created_at": "2026-07-05T19:10:03.932086+00:00"
+},
+{
+    "id": 48103,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The most recently accessed data from the disk (as well as adjacent sectors) is stored in a ----------------------.",
+    "op": [
+        "Memory buffer",
+        "EPROM",
+        "ROM",
+        "hard disk"
+    ],
+    "created_at": "2026-07-05T19:10:29.276148+00:00"
+},
+{
+    "id": 48116,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The log file is also called----------------------------.",
+    "op": [
+        "Non Transaction file",
+        "Temporary file",
+        "hash file",
+        "Transaction file"
+    ],
+    "created_at": "2026-07-05T19:10:49.56038+00:00"
+},
+{
+    "id": 48119,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Inverted files or inversions. Linked lists. B+ Trees. these are the three implementation approaches of----------------.",
+    "op": [
+        "Sequential Access",
+        "Hashing",
+        "Indexes",
+        "Non sequential."
+    ],
+    "created_at": "2026-07-05T19:10:52.623178+00:00"
+},
+{
+    "id": 48128,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When the power is turned off content of ________________ is lost.",
+    "op": [
+        "Non Volatile storage",
+        "Volatile storage",
+        "Hard disk storage",
+        "permanent storage"
+    ],
+    "created_at": "2026-07-05T19:10:58.86884+00:00"
+},
+{
+    "id": 48139,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true about creating database in MS Access?",
+    "op": [
+        "After running MS Access, create database option is selected directly.",
+        "Go to the tool option of MS Access and select create Database option with suitable name.",
+        "Click on the file menu, select create database option and then click it.",
+        "First we will run MS Access and select New option from the file. Next it will ask the name of database."
+    ],
+    "created_at": "2026-07-05T19:11:09.486519+00:00"
+},
+{
+    "id": 48150,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Cache is a portion of memory made of high-speed ---------------------------------instead of the slower and cheaper----------------used for main memory.",
+    "op": [
+        "PROM,EPROM",
+        "ROM, RAM",
+        "RAM, ROM",
+        "Static RAM (SRAM), DRAM"
+    ],
+    "created_at": "2026-07-05T19:11:18.231604+00:00"
+},
+{
+    "id": 48156,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A ---------------index determines the storage order of data in a table.",
+    "op": [
+        "Dense",
+        "Secondary",
+        "Clustered",
+        "Primary"
+    ],
+    "created_at": "2026-07-05T19:11:22.85031+00:00"
+},
+{
+    "id": 48181,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which file organization is allowed by a direct access storage device?",
+    "op": [
+        "indexed and direct only",
+        "sequential, indexed and direct,",
+        "sequential only",
+        "Direct only"
+    ],
+    "created_at": "2026-07-05T19:11:39.902308+00:00"
+},
+{
+    "id": 48189,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Can be defined even when there is no data in the table. Existing values are checked on execution of this command. It supports selections of form; these are the major properties of---------------------.",
+    "op": [
+        "Sequential approach",
+        "Indexes",
+        "Direct approach",
+        "View"
+    ],
+    "created_at": "2026-07-05T19:11:46.150959+00:00"
+},
+{
+    "id": 48204,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A memory cache, sometimes called a cache store or-------------------.",
+    "op": [
+        "Hard disk",
+        "DROM",
+        "RAM",
+        "ROM"
+    ],
+    "created_at": "2026-07-05T19:11:54.452846+00:00"
+},
+{
+    "id": 48208,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Following are the characteristics of _________________________.\ni. No indexes to search or maintain \nii. Very fast direct access \niii. Inefficient sequential access \niv. Use when direct access is needed, but sequential access is not.",
+    "op": [
+        "Hashed Access",
+        "sequential Index",
+        "Index Access",
+        "Non Hashed Access"
+    ],
+    "created_at": "2026-07-05T19:12:01.429142+00:00"
+},
+{
+    "id": 48219,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The two basic types of record access methods are-------------------------------.",
+    "op": [
+        "sequential and immediate",
+        "sequential and random",
+        "sequential and indexed",
+        "Direct and immediate"
+    ],
+    "created_at": "2026-07-05T19:12:09.723652+00:00"
+},
+{
+    "id": 48242,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "------------------types of caching are commonly used in personal computers.",
+    "op": [
+        "four",
+        "five",
+        "Two",
+        "three"
+    ],
+    "created_at": "2026-07-05T19:12:23.2334+00:00"
+},
+{
+    "id": 48278,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not related to Index sequential file structure?",
+    "op": [
+        "Track overflows and file overflow areas are ensured",
+        "We choose a number of buckets to correspond to the number of search key values we will have stored in the database",
+        "Records are stored in sequence and index is maintained",
+        "Dense and non-dense types of indexes are maintained"
+    ],
+    "created_at": "2026-07-05T19:12:45.035767+00:00"
+},
+{
+    "id": 48310,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The _______________ should be user friendly, Data integrity must be ensured and checks can be applied within the tables.",
+    "op": [
+        "Input forms",
+        "Database",
+        "Application programing",
+        "computer language"
+    ],
+    "created_at": "2026-07-05T19:13:03.766995+00:00"
+},
+{
+    "id": 48765,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The index which has some of the key value is classified as _________________.",
+    "op": [
+        "Dense index",
+        "Non dense index",
+        "Cluster index",
+        "Linear index"
+    ],
+    "created_at": "2026-07-05T19:20:37.681057+00:00"
+},
+{
+    "id": 65991,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In Denormalization two relations who have _________ relationship are merged into one relation. ",
+    "op": [
+        "Many to one",
+        "One to many",
+        "One to one",
+        "Many to many"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 65992,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "We should not compromise ________ over efficiency. ",
+    "op": [
+        "Query response time",
+        "Accuracy",
+        "Privacy",
+        "Consistency"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66007,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "At which design level de-normalization will take place? ",
+    "op": [
+        "Physical design",
+        "All of the given",
+        "Logical design",
+        "Conceptual design"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66009,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The optional items in the SQL commands are kept in______. ",
+    "op": [
+        "{}",
+        "[]",
+        "||",
+        "()"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66010,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is NOT the valid data type in SQL? ",
+    "op": [
+        "Money",
+        "Text",
+        "Smallint",
+        "Capitalint"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66011,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is NOT related to partitioning and placement in database? ",
+    "op": [
+        "Balance workload",
+        "Speed up the rate of useful work",
+        "Speed up data transmission",
+        "Reduce workload"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66054,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In vertical partitioning if we divide a table into two vertical partitions, then efficiency of those applications which __________ will be reduced . ",
+    "op": [
+        "Access data from second vertical partition",
+        "Access data from first vertical partition.",
+        "Access data from both the vertical partitions.",
+        "Access data from relations"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66063,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "SQL stand for? ",
+    "op": [
+        "Standard query language",
+        "Structure query list",
+        "Standard query list",
+        "Structure query language"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66068,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Denormalization is required to enhance _________. ",
+    "op": [
+        "Sharing of data",
+        "Performance",
+        "Data communication",
+        "Data transmission"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66070,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is a correct syntax of selecting all the columns from a table called PERSONS? ",
+    "op": [
+        "SELECT WHERE * Persons",
+        "SELECT * WHERE Persons",
+        "SELECT * FROM Persons",
+        "SELECT FROM * Persons"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66073,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Identify the language which is used to specify database schema. ",
+    "op": [
+        "DCL",
+        "DDL",
+        "DML",
+        "TCL"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66075,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is NOT the purpose of SQL? ",
+    "op": [
+        "Read information",
+        "Remove information",
+        "Transmission of information",
+        "Write information"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66076,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In vertical partitioning which of the following key is repeated in all vertical partitions of a table, to get the original table? ",
+    "op": [
+        "Unique key",
+        "Foreign key",
+        "Primary key",
+        "Secondary key"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66078,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "General reasoning for horizontal or vertical partitioning is _________. ",
+    "op": [
+        "Decreasing the query response time",
+        "Increase data communication",
+        "Increasing the consistency",
+        "Smaller tables are more efficient to process as compared to the larger tables."
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66082,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The maximum length for an identifier can be __________. ",
+    "op": [
+        "192 characters",
+        "128 characters",
+        "256 characters",
+        "512 characters"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66197,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is NOT related to data manipulation language? ",
+    "op": [
+        "Insertion of information",
+        "Retrieval of information",
+        "Modification to the information",
+        "Control access to the information"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66217,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "A fully normalized database schema can fail to provide applicable system response time due to ________. ",
+    "op": [
+        "Removal of redundant data",
+        "Excessive table join operations",
+        "Excessive query execution",
+        "Use of sub queries"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66243,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is one of the purposes of using DDL commands?",
+    "op": [
+        "creating and destroying databases",
+        "updating records into databases",
+        "manipulating databases",
+        "inserting records into databases"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66247,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Denormalization process is applied for developing a physical data model from_______. ",
+    "op": [
+        "A semantic data model",
+        "A conceptual form",
+        "A logical data model",
+        "An object oriented data model"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66292,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In which of the following situation clustering is more suitable _______. ",
+    "op": [
+        "Relatively dynamic situations",
+        "Relatively static situations",
+        "Where efficiency does not matter",
+        "Access of data is not frequent"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66503,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is NOT the type of horizontal partitioning? ",
+    "op": [
+        "List Petitioning",
+        "Limit partitioning",
+        "Range Petitioning",
+        "Hash Petitioning"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 70725,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "There are -------------- types of user interfaces.",
+    "op": [
+        "One",
+        "three",
+        "two",
+        "four"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70726,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Truncate command response time is ______ as compared to Delete command.",
+    "op": [
+        "worst",
+        "Same",
+        "Poor",
+        "Better"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70727,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Browser Based & Non-Browser/Simple are two different types of--------------------------------------.",
+    "op": [
+        "forms",
+        "language",
+        "interface",
+        "Programs"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70728,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is not an aggregate function?",
+    "op": [
+        "MAX",
+        "AVG",
+        "SUM",
+        "UPPER"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70729,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following statement creates a database named IMDB?",
+    "op": [
+        "CREATE IMDB DATABASE;",
+        "ADD DATABASE named IMDB;",
+        "CREATE DATABASE IMDB;",
+        "CREATE DB IMDB;"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70730,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is incorrect about alter table statement?",
+    "op": [
+        "Can not be used to create a new table",
+        "Can be used to add column in the existing table",
+        "Can be used to delete a column",
+        "Cannot be used to modify type or size of an existing column"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70733,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following prevents duplicate values to be displayed as a result of an SQL statement?",
+    "op": [
+        "ALTER",
+        "DISTINCT",
+        "UPDATE",
+        "DELETE"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70739,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "REVOKE is a ______________ statement.",
+    "op": [
+        "Control Access",
+        "Data manipulation",
+        "Data Definition",
+        "Data description"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70741,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "“It should be user friendly and user must not search for required buttons or text boxes” this statement is about------------------------------.",
+    "op": [
+        "Application program",
+        "user friendly interface",
+        "system program",
+        "language"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70742,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "What happens if the WHERE clause is omitted from a DELETE statement?",
+    "op": [
+        "First record of the table will be deleted",
+        "All records from the table are deleted",
+        "The statement will not be executed and will give a syntax error",
+        "No record from the table will be deleted"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70743,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Columns used to uniquely identify individual rows of a given table, may be specified to be NOT NULL.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70745,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "An effective user interface minimizes the----------- users require to learn and implement the system.",
+    "op": [
+        "efficiency",
+        "Time",
+        "Space",
+        "complexity,"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70746,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "The ________ operator allows to use wild cards in the where clause of an SQL statement.",
+    "op": [
+        "LIKE",
+        "FROM",
+        "None of the above.",
+        "IN"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70747,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "DML does not used to :",
+    "op": [
+        "add new rows to tables",
+        "retrieve rows from table",
+        "alter a table definition",
+        "modify the rows of tables"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70752,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "__________ User Interface is preferred over ________ User Interface with respect to user.",
+    "op": [
+        "Easy to understand, effective",
+        "Hard to understand, effective",
+        "Hard to understand, efficient",
+        "Easy to understand, efficient"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70753,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Forms are used in application programs, how many types of forms are available----------------------?",
+    "op": [
+        "One",
+        "five",
+        "two",
+        "four"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70755,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "UPDATE command belongs to which type of Classification?",
+    "op": [
+        "DDL",
+        "DML",
+        "DQL",
+        "DCL"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70756,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is not a part of an INSERT statement?",
+    "op": [
+        "INSERT",
+        "INTO",
+        "MODIFY",
+        "VALUES"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70761,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following syntax of the functions in SQL is used to add column values?",
+    "op": [
+        "MAX(expression)",
+        "COUNT(expression)",
+        "COUNT(*)",
+        "SUM(expression)"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70762,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is used to retrieve and insert information from database?",
+    "op": [
+        "DCL",
+        "DDL",
+        "DML",
+        "Both DML and DDL"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70763,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is the Correct SQL statement for creating table in Microsoft SQL server?",
+    "op": [
+        "CREATE TABLE Customer \n(SID integer, \nLast_Name varchar(30), \nFirst_Name varchar(30))",
+        "CREATE Customer \n(SID integer, \nLast_Name varchar(30), \nFirst_Name varchar(30));",
+        "CREATE TABLE Customer \n(SID integer PRIMARY KEY, \nLast_Name varchar(30), \nFirst_Name varchar(30));",
+        "All of the above"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70764,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is NOT a DDL command?",
+    "op": [
+        "Create DB",
+        "Drop",
+        "Delete",
+        "Create table"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70765,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is a type of SQL command? ",
+    "op": [
+        "TML commands",
+        "DAL command",
+        "DTL command",
+        "DCL command"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70767,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "GRANT command belongs to which type of classification?",
+    "op": [
+        "DQL",
+        "DML",
+        "DCL",
+        "DDL"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70769,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "A column used to uniquely identify individual rows of a given table, may be specified to be _______. ",
+    "op": [
+        "Strong",
+        "Variable length",
+        "NOT NULL",
+        "Fixed length"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70770,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is used to filter rows according to some condition(s)?",
+    "op": [
+        "UPDATE",
+        "WHERE",
+        "FROM",
+        "SELECT"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70771,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "SQL is used for:",
+    "op": [
+        "Generating queries, organizing, managing and retrieving data stored in a database.",
+        "Creating, managing and deleting tables and manage the relationships among the stored date.",
+        "Maintaining data integrity and coordinate data sharing.",
+        "All of the above"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70772,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "GRANT is a ______________ Command.",
+    "op": [
+        "DML",
+        "None of the above",
+        "DCL",
+        "DDL"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70773,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Consider a table named “emp” having fields Empname, EmpID, Age, salary.\nWhich of the following is true if the following SQL statement tries to execute?\n\nSELECT *\nFROM emp\nWHERE Empname=’ALI’\nORDERBY Age;",
+    "op": [
+        "The statement displays the entire fields from emp in which the Empname is ALI in any order",
+        "The statement displays the entire fields from emp in which the Empname is ALI in ascending order of their age",
+        "The statement has a syntax error",
+        "The statement displays the entire fields from emp in which the Empname is ALI in descending order of their age"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70774,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "According to his/her level of knowledge/ understanding how many types of users are there----------------------?",
+    "op": [
+        "four",
+        "three",
+        "six",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70775,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is used with INSERT command to insert values in a DB table?",
+    "op": [
+        "WITH",
+        "INTO",
+        "ONTO",
+        "UPTO"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70776,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "DBMS stand for__________.",
+    "op": [
+        "Digital Base Mapping System.",
+        "Database Manipulation Software.",
+        "Database Management System.",
+        "Data Borrowing and Movement Software"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70778,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "DML stands for _____________.",
+    "op": [
+        "Domain Modeling Language",
+        "Data Manipulation Language",
+        "Data Management Language",
+        "Dynamic Modeling Language"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70779,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Text based & Graphical User Interface (GUI) most commonly called as Forms, are two different types of -------------.",
+    "op": [
+        "Application programs",
+        "system programs",
+        "user interface",
+        "language"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70780,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Is the given SQL Statement prompt error?\n\nSelect * from relation1;",
+    "op": [
+        "Logical Error",
+        "Parameter Error",
+        "No Error",
+        "Time out Error"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70792,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "In SQL, which command is used to modify the rows of tables.",
+    "op": [
+        "APPEND",
+        "INSERT",
+        "BROWSE",
+        "UPDATE"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70795,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Suppose we have two tables T1 and T2. Tuples of T1 that do not match some row in T2 will not appear in",
+    "op": [
+        "None of the above",
+        "Inner Join",
+        "Outer Join",
+        "Both I and II"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70813,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Functions in SQL return a single value",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70814,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which language is used to permit or prohibit access to a table?",
+    "op": [
+        "All of the above.",
+        "DCL",
+        "DDL",
+        "DML"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70815,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is correct syntax to create a table named Class with three attribute class_ID, start_time, Room? ",
+    "op": [
+        "CREATE TABLE class (Class_ID varchar(5), Start_time datetime, Room varchar(10))",
+        "CREATE Class COLUMN (Class_ID varchar(5), Start_time datetime, Room varchar(10))",
+        "CREATE TBALE class COLUMN (Class_ID varchar(5), Start_time datetime, Room varchar(10))",
+        "CREATE class (Class_ID varchar (5), Start_time datetime, Room varchar(10))"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70816,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following SQL clauses used to sort the records in result set?",
+    "op": [
+        "order by",
+        "from",
+        "having",
+        "where"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70818,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Objective of an order by clause is to display or arrange output of a select statement in a particular order.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70819,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "The ________ condition is used to retrieve values within a specific range. ",
+    "op": [
+        "BETWEEN",
+        "LIKE",
+        "FROM",
+        "AND"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70820,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Identify the basic part(s) of a SELECT statement?",
+    "op": [
+        "SELECT",
+        "FROM",
+        "Both SELECT and FROM",
+        "DISTINCT"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70821,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Programs written to perform different requirement created by the users/organization are called----------------------",
+    "op": [
+        "Application program",
+        "System Program",
+        "Chip program",
+        "low level program"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70822,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Truncate is an alternative of Delete command.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70823,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is not DML command?",
+    "op": [
+        "Truncate",
+        "Select",
+        "Update",
+        "Delete"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70824,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Value of a function in SQL is always determined by the input parameters",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70826,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is a String function in SQL?",
+    "op": [
+        "SQRT",
+        "SIN",
+        "LEN",
+        "COUNT"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70828,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Consider a table named “emp” having fields Empname, EmpID, Age, salary.\nWhich of the following is true if the following SQL statement tries to execute?\n\nSELECT *\nFROM emp\nWHERE Empname=’ALI’;",
+    "op": [
+        "The statement has a syntax error",
+        "The statement only displays the EmpID of those employees whose name is ALI",
+        "The statement displays the entire fields from emp in which the Empname is ALI",
+        "The statement must have an ORDERBY clause"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70853,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "The _________ function helps to reduce the need of multiple OR conditions.",
+    "op": [
+        "AND",
+        "BETWEEN",
+        "Like",
+        "IN"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70872,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "SQL stands for ______________.\n \nI - Structured Query Language\nII – Standard Query Language\nlll- Status Query Language",
+    "op": [
+        "Only II",
+        "Only I",
+        "Only lll",
+        "Both I and II"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70886,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "The general activities, which are performed during the development of-------------------                                 Data input programmes, Editing, Display,Processing related activities and Reports.",
+    "op": [
+        "micro kernel program",
+        "database program",
+        "Hardware Program",
+        "Application Program"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 73653,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If A -> B and A -> C, then A -> BC The Inference Rule applies is;",
+    "op": [
+        "Decomposition",
+        "Reflexivity",
+        "Union",
+        "Augmentation"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73654,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "An attribute y may be functionally dependent on (i) a composite attribute x,y (ii) a single attribute x (iii) no attribute",
+    "op": [
+        "i and iii",
+        "i and ii",
+        "iii",
+        "ii and iii"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73655,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The following is an example of __________ inference rule. If stId → prName and prName → credits then stId → credits",
+    "op": [
+        "Additive",
+        "Transitivity",
+        "Projectivity",
+        "Augmentation"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73656,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "With the help of _____________ technique data values with the smaller sized codes can further reduce the space needed by the data for storage in the database.",
+    "op": [
+        "Expansions",
+        "Compression",
+        "Extension",
+        "Negation"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73657,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If A→ BC then A → B and A→ C The above rule follows _____________ inference rule.",
+    "op": [
+        "Transitivity",
+        "Projectivity",
+        "Additivity",
+        "Augmentation"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73658,
+    "cc": "CS403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Given the following relation it is not 3 NF because Student (roll no, name, course no, course max. marks, year of study, address), where roll no is PK",
+    "op": [
+        "it has more than 3 non-key attributes",
+        "it does not have composite key",
+        "non-key attributes course no and course max. marks are functionally\ndependent",
+        "it is not in 2 NF"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73701,
+    "cc": "CS403",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Following are the characteristics of _________________________. i. No indexes to search or maintain ii. Very fast direct access iii. Inefficient sequential access iv. Use when direct access is needed, but sequential access is not.",
+    "op": [
+        "Hashed Access",
+        "Non Hashed Access",
+        "Index Access",
+        "sequential Index"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

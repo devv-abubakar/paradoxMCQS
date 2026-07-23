@@ -1,0 +1,548 @@
+[
+    {
+        "id": 23468,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "To define constants in VDM-SL, ______________ keyword is used.",
+        "op": [
+            "inv",
+            "values",
+            "init",
+            "types"
+        ],
+        "created_at": "2026-06-28T19:07:34.309961+00:00"
+    },
+    {
+        "id": 23476,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Constant is something that is not essential to any specification, but can greatly enhance its ______________.",
+        "op": [
+            "scalability",
+            "usability",
+            "readability",
+            "maintainability"
+        ],
+        "created_at": "2026-06-28T19:07:42.717399+00:00"
+    },
+    {
+        "id": 23485,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "An argument is an assertion that a given set of propositions P1, P2,...,Pn, called …..",
+        "op": [
+            "Solution",
+            "Conclusion",
+            "Premises",
+            "Contradictions"
+        ],
+        "created_at": "2026-06-28T19:07:50.283455+00:00"
+    },
+    {
+        "id": 23490,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A function is a set of ____________ from one set to another.",
+        "op": [
+            "logical operators",
+            "alphabets",
+            "assignments",
+            "integers"
+        ],
+        "created_at": "2026-06-28T19:07:58.517511+00:00"
+    },
+    {
+        "id": 23500,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Z represents:",
+        "op": [
+            "real numbers",
+            "natural numbers",
+            "integers",
+            "boolean values"
+        ],
+        "created_at": "2026-06-28T19:08:06.39271+00:00"
+    },
+    {
+        "id": 23508,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "_____ refers to the opposite of what was originally stated?",
+        "op": [
+            "Negation",
+            "Implication",
+            "Disjunction",
+            "Conjunction"
+        ],
+        "created_at": "2026-06-28T19:08:13.185853+00:00"
+    },
+    {
+        "id": 23516,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In VDM-SL, the state refers to the _______________ data that must be stored by the system.",
+        "op": [
+            "complex",
+            "temporary",
+            "partial",
+            "permanent"
+        ],
+        "created_at": "2026-06-28T19:08:20.577489+00:00"
+    },
+    {
+        "id": 23524,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The invariant definition uses the keyword _______________.",
+        "op": [
+            "init",
+            "invar",
+            "types",
+            "inv"
+        ],
+        "created_at": "2026-06-28T19:08:31.046762+00:00"
+    },
+    {
+        "id": 23537,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "p → q is logically equivalent to ________",
+        "op": [
+            "¬p ∧ q",
+            "¬p ∨ ¬q",
+            "p ∨ ¬q",
+            "¬p ∨ q"
+        ],
+        "created_at": "2026-06-28T19:08:46.008564+00:00"
+    },
+    {
+        "id": 23940,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The purpose of ______________ function is to check whether an integer value, val, is within the range MIN and MAX as defined earlier.",
+        "op": [
+            "atRange",
+            "ofRange",
+            "inRange",
+            "onRange"
+        ],
+        "created_at": "2026-06-28T19:19:23.679015+00:00"
+    },
+    {
+        "id": 23962,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The truth table contains only T in the ____ column in tautology?",
+        "op": [
+            "Middle",
+            "Second",
+            "Final",
+            "Initial"
+        ],
+        "created_at": "2026-06-28T19:19:54.448599+00:00"
+    },
+    {
+        "id": 23967,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which sign is used for commenting in VDM-SL?",
+        "op": [
+            "//",
+            "--",
+            "==",
+            "##"
+        ],
+        "created_at": "2026-06-28T19:20:02.905642+00:00"
+    },
+    {
+        "id": 23975,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which one is not the component of a complete VDM-SL specification?",
+        "op": [
+            "Functions",
+            "Libraries",
+            "State definition",
+            "Declaration of constants"
+        ],
+        "created_at": "2026-06-28T19:20:21.719126+00:00"
+    },
+    {
+        "id": 23983,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "R represents:",
+        "op": [
+            "real numbers",
+            "natural numbers",
+            "integers",
+            "characters"
+        ],
+        "created_at": "2026-06-28T19:20:35.549368+00:00"
+    },
+    {
+        "id": 23990,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The universal quantifier denoted by ---------",
+        "op": [
+            "∈",
+            "∧",
+            "∀",
+            "~"
+        ],
+        "created_at": "2026-06-28T19:20:44.67465+00:00"
+    },
+    {
+        "id": 23993,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "It is common in the programming world for a ________________ to be undefined.",
+        "op": [
+            "formula",
+            "diagram",
+            "equation",
+            "value"
+        ],
+        "created_at": "2026-06-28T19:20:59.34061+00:00"
+    },
+    {
+        "id": 24008,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A quote type defines a single value, and at the same time defines a ____________ containing just that value.",
+        "op": [
+            "function",
+            "constant",
+            "type",
+            "formula"
+        ],
+        "created_at": "2026-06-28T19:21:23.595455+00:00"
+    },
+    {
+        "id": 24292,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A new __________ ends the comment in VDM-SL.",
+        "op": [
+            "backward slash",
+            "line",
+            "value",
+            "pointer"
+        ],
+        "created_at": "2026-06-28T19:32:45.03447+00:00"
+    },
+    {
+        "id": 24415,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In the system of logic, a proposition could have the value TRUE, FALSE or ……….",
+        "op": [
+            "Fallacy",
+            "Undefined",
+            "Conditional",
+            "Negative"
+        ],
+        "created_at": "2026-06-28T19:37:38.135261+00:00"
+    },
+    {
+        "id": 24657,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In VDM-SL, the types clause is the appropriate place to define new ______________.",
+        "op": [
+            "operations",
+            "libraries",
+            "functions",
+            "types"
+        ],
+        "created_at": "2026-06-28T19:59:29.477752+00:00"
+    },
+    {
+        "id": 24707,
+        "cc": "CS636",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A compound proposition that is always TRUE and contain only T in their evaluation is called….",
+        "op": [
+            "Tautologies",
+            "Contradictions",
+            "Contingency",
+            "Proposition"
+        ],
+        "created_at": "2026-06-28T20:05:01.471011+00:00"
+    },
+    {
+        "id": 48795,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Sometimes it is useful to have a function that returns the last element in a ________________.",
+        "op": [
+            "specification",
+            "program",
+            "sequence",
+            "set"
+        ],
+        "created_at": "2026-07-05T19:21:21.505291+00:00"
+    },
+    {
+        "id": 48806,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A subrange returns the set of all numbers from the ____________ to the last number inclusive.",
+        "op": [
+            "second",
+            "first",
+            "third",
+            "fourth"
+        ],
+        "created_at": "2026-07-05T19:21:32.188823+00:00"
+    },
+    {
+        "id": 48821,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The ______________ of j and k is the set that contains all the elements that belong to j but do not belong to k.",
+        "op": [
+            "union",
+            "intersection",
+            "complement",
+            "difference"
+        ],
+        "created_at": "2026-07-05T19:21:55.142473+00:00"
+    },
+    {
+        "id": 48828,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Subranges used when a set of _____________ integers is required",
+        "op": [
+            "long",
+            "double",
+            "continuous",
+            "short"
+        ],
+        "created_at": "2026-07-05T19:22:07.10885+00:00"
+    },
+    {
+        "id": 48836,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Individual fields of ___________ objects are selected (read) by using dot ‘.’ operator.",
+        "op": [
+            "direct",
+            "software",
+            "indirect",
+            "composite"
+        ],
+        "created_at": "2026-07-05T19:22:17.76363+00:00"
+    },
+    {
+        "id": 48894,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Each track in a disk divided into a number of ______________.",
+        "op": [
+            "jumps",
+            "signals",
+            "sectors",
+            "tracks"
+        ],
+        "created_at": "2026-07-05T19:23:56.676975+00:00"
+    },
+    {
+        "id": 48899,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The ______________ operator checks whether or not a particular element is present in a particular set.",
+        "op": [
+            "subset",
+            "membership",
+            "cardinality",
+            "assignment"
+        ],
+        "created_at": "2026-07-05T19:24:11.273749+00:00"
+    },
+    {
+        "id": 48905,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "mu (μ) function returns ____________ composite object(s) from another but with one or more fields changed.",
+        "op": [
+            "two",
+            "one",
+            "four",
+            "three"
+        ],
+        "created_at": "2026-07-05T19:24:20.059638+00:00"
+    },
+    {
+        "id": 48914,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A ____________ is an unordered collection of objects in which repetition is not significant.",
+        "op": [
+            "set",
+            "sequence",
+            "formula",
+            "function"
+        ],
+        "created_at": "2026-07-05T19:24:29.708984+00:00"
+    },
+    {
+        "id": 48919,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A disk is divided into a number of ____________.",
+        "op": [
+            "statements",
+            "signals",
+            "tracks",
+            "jumps"
+        ],
+        "created_at": "2026-07-05T19:24:38.261664+00:00"
+    },
+    {
+        "id": 48963,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The _____________ of two sets, j and k returns a set that contains all the elements of the set j and all the elements of the set k.",
+        "op": [
+            "difference",
+            "intersection",
+            "complement",
+            "union"
+        ],
+        "created_at": "2026-07-05T19:26:06.476741+00:00"
+    },
+    {
+        "id": 48968,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "We can define a sequence by ______________.",
+        "op": [
+            "comprehension",
+            "parameter",
+            "sentence",
+            "variable"
+        ],
+        "created_at": "2026-07-05T19:26:13.914545+00:00"
+    },
+    {
+        "id": 48970,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A sequence is an ordered collection of ______________.",
+        "op": [
+            "variables",
+            "operators",
+            "quantifiers",
+            "objects"
+        ],
+        "created_at": "2026-07-05T19:26:23.760789+00:00"
+    },
+    {
+        "id": 48978,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The elements of a sequence are numbered, starting from _______________, from left to right.",
+        "op": [
+            "3",
+            "0",
+            "2",
+            "1"
+        ],
+        "created_at": "2026-07-05T19:26:31.599391+00:00"
+    },
+    {
+        "id": 48988,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "______________ are identified by a unique process identification number (pid).",
+        "op": [
+            "Processes",
+            "Parameters",
+            "Programs",
+            "Disk tracks"
+        ],
+        "created_at": "2026-07-05T19:26:54.812708+00:00"
+    },
+    {
+        "id": 49298,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The ______________ of two sets j and k returns a set that contains all the elements that are common to both j and k.",
+        "op": [
+            "difference",
+            "union",
+            "complement",
+            "intersection"
+        ],
+        "created_at": "2026-07-05T19:36:23.16908+00:00"
+    },
+    {
+        "id": 49309,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The ______________ operator gives us the length of the sequence.",
+        "op": [
+            "elems",
+            "seq",
+            "height",
+            "len"
+        ],
+        "created_at": "2026-07-05T19:36:51.601311+00:00"
+    },
+    {
+        "id": 51569,
+        "cc": "CS636",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The _____________ operator of VDM-SL (card) returns the number of elements in a given set.",
+        "op": [
+            "subset",
+            "membership",
+            "assignment",
+            "cardinality"
+        ],
+        "created_at": "2026-07-06T01:53:36.521844+00:00"
+    }
+]

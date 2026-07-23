@@ -1,0 +1,912 @@
+[
+{
+    "id": 25055,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To access context-sensitive help, we use ____________ symbol.",
+    "op": [
+        "#",
+        "?",
+        ">",
+        "!"
+    ],
+    "created_at": "2026-06-28T21:15:52.452439+00:00"
+},
+{
+    "id": 25056,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Global configuration mode and all other more specific configuration modes can only be reached from the ____________.",
+    "op": [
+        "Privileged EXEC Mode",
+        "EXEC Privileged Mode",
+        "User EXEC Mode",
+        "User Privileged Mode"
+    ],
+    "created_at": "2026-06-28T21:16:02.184452+00:00"
+},
+{
+    "id": 25059,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The user EXEC mode is identified by the CLI prompt that ends with the ___________ symbol.",
+    "op": [
+        ">",
+        "#",
+        "*",
+        "!"
+    ],
+    "created_at": "2026-06-28T21:16:11.002428+00:00"
+},
+{
+    "id": 25061,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which command can be used at User EXEC mode to enter Privileged EXEC mode?",
+    "op": [
+        "Disable",
+        "Privilege",
+        "Admin",
+        "Enable"
+    ],
+    "created_at": "2026-06-28T21:16:33.182762+00:00"
+},
+{
+    "id": 25062,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Among the following services given below which one is not used in TCP?",
+    "op": [
+        "HTTP",
+        "SMTP",
+        "TFTP",
+        "FTP"
+    ],
+    "created_at": "2026-06-28T21:16:43.637072+00:00"
+},
+{
+    "id": 25063,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which command exhibits Global configuration mode?",
+    "op": [
+        "Router (config)>",
+        "Router(config)#",
+        "Router #",
+        "Router:>Config#"
+    ],
+    "created_at": "2026-06-28T21:16:52.603031+00:00"
+},
+{
+    "id": 25064,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The privileged EXEC mode can be identified by the prompt ending with the ___________ symbol.",
+    "op": [
+        "!",
+        ">",
+        "*",
+        "#"
+    ],
+    "created_at": "2026-06-28T21:17:06.225974+00:00"
+},
+{
+    "id": 25065,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The portion of operating system that interfaces with the applications and user is known as the _______________.",
+    "op": [
+        "Shell",
+        "Kernel",
+        "CLI",
+        "Hardware"
+    ],
+    "created_at": "2026-06-28T21:17:15.769768+00:00"
+},
+{
+    "id": 25448,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All end devices and network devices connected to the Internet require an ______________ to help them perform their function.",
+    "op": [
+        "Drivers",
+        "Hardware Configuration",
+        "Operating System",
+        "Antenna"
+    ],
+    "created_at": "2026-06-29T00:38:03.866119+00:00"
+},
+{
+    "id": 25450,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The execution of configuration and management commands requires that the network administrator use the ________________.",
+    "op": [
+        "Privileged EXEC Mode",
+        "User EXEC Mode",
+        "EXEC Privileged Mode",
+        "User Privileged Mode"
+    ],
+    "created_at": "2026-06-29T00:38:49.595683+00:00"
+},
+{
+    "id": 25451,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In CLI prompt ______________ hot key completes the partially typed command.",
+    "op": [
+        "Shift-C",
+        "Alt",
+        "Tab",
+        "Shift-T"
+    ],
+    "created_at": "2026-06-29T00:39:12.996842+00:00"
+},
+{
+    "id": 25687,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When using the _________, the user interacts directly with the system in a text-based environment.",
+    "op": [
+        "Matrix",
+        "Icons",
+        "GUI",
+        "CLI"
+    ],
+    "created_at": "2026-06-29T02:38:17.703764+00:00"
+},
+{
+    "id": 25693,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which layer provides the services i.e. interface to user?",
+    "op": [
+        "Presentation layer",
+        "Session layer",
+        "Application layer",
+        "Physical layer"
+    ],
+    "created_at": "2026-06-29T02:38:40.42156+00:00"
+},
+{
+    "id": 25696,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In CLI prompt when we want to display again the line, we use ______________ hot key.",
+    "op": [
+        "Ctrl-E",
+        "Ctrl-R",
+        "Ctrl-T",
+        "Ctrl-X"
+    ],
+    "created_at": "2026-06-29T02:39:10.268773+00:00"
+},
+{
+    "id": 25698,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ________________ can also be used when the networking services have failed and remote access of the Cisco IOS device is not possible.",
+    "op": [
+        "Console port",
+        "AUX",
+        "Telnet",
+        "SSH"
+    ],
+    "created_at": "2026-06-29T02:39:32.669625+00:00"
+},
+{
+    "id": 25934,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "By default, _______________ does not require authentication.",
+    "op": [
+        "Privileged EXEC Mode",
+        "User Privileged Mode",
+        "User EXEC Mode",
+        "User EXEC and Privileged EXEC Mode"
+    ],
+    "created_at": "2026-06-29T03:36:13.975195+00:00"
+},
+{
+    "id": 25936,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A user must enter user ____________first, and then from there user can access ____________.",
+    "op": [
+        "Privileged Mode, EXEC Privileged Mode",
+        "Privileged EXEC mode, EXEC mode",
+        "EXEC Privileged mode, Privileged EXEC mode",
+        "EXEC mode, Privileged EXEC mode"
+    ],
+    "created_at": "2026-06-29T03:36:26.336688+00:00"
+},
+{
+    "id": 25938,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "TCP/IP model does not have ______ layer but OSI model have this layer.",
+    "op": [
+        "Network layer",
+        "Transport layer",
+        "Application layer",
+        "Session layer"
+    ],
+    "created_at": "2026-06-29T03:36:32.653696+00:00"
+},
+{
+    "id": 25941,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The layer which deals with the mechanical and electrical specifications is _____________.",
+    "op": [
+        "Physical Layer",
+        "Network Layer",
+        "Transport Layer",
+        "Data Link Layer"
+    ],
+    "created_at": "2026-06-29T03:36:47.393653+00:00"
+},
+{
+    "id": 25975,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "IOS is copied from flash to volatile ___________ when booted.",
+    "op": [
+        "RAM",
+        "Hard drive",
+        "Processor",
+        "None"
+    ],
+    "created_at": "2026-06-29T03:45:16.238439+00:00"
+},
+{
+    "id": 47942,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dividing an OSPF network into areas_______.",
+    "op": [
+        "Decreases the LSDB size",
+        "Is not possible in any case",
+        "Has no effect on LSDB",
+        "Increases the LSDB size"
+    ],
+    "created_at": "2026-07-05T19:08:11.720305+00:00"
+},
+{
+    "id": 47952,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ command is used to display concise information regarding OSPF enabled interfaces.",
+    "op": [
+        "show all ospf build",
+        "display ospf interface all",
+        "display ip ospf interface all",
+        "show ip ospf interface brief"
+    ],
+    "created_at": "2026-07-05T19:08:21.814506+00:00"
+},
+{
+    "id": 47974,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of Multi Area OSPF, ASBR specifically refers to _________.",
+    "op": [
+        "Area System Boundary Router",
+        "Automatic Session Boundary Router",
+        "Autonomous System Boundary Router",
+        "Alternative System Boundary Router"
+    ],
+    "created_at": "2026-07-05T19:08:36.157439+00:00"
+},
+{
+    "id": 47984,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "By default, a router has _____ACL(s) configured.",
+    "op": [
+        "1",
+        "3",
+        "0",
+        "5"
+    ],
+    "created_at": "2026-07-05T19:08:43.728661+00:00"
+},
+{
+    "id": 47996,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "10 is __________in the command “R2(config)#router ospf 10”.",
+    "op": [
+        "Process ID",
+        "Router ID",
+        "Route ID",
+        "Path Cost"
+    ],
+    "created_at": "2026-07-05T19:08:51.838439+00:00"
+},
+{
+    "id": 48025,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ is the correct command to verify the OSPF status on a router.",
+    "op": [
+        "R# show ospf status complete",
+        "R# show ospf status list",
+        "R#show ip protocols",
+        "R#show ip status"
+    ],
+    "created_at": "2026-07-05T19:09:07.381+00:00"
+},
+{
+    "id": 48032,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "While configuring OSPF, a network administrator can assign process ID within__________.",
+    "op": [
+        "0 to  201",
+        "1 to 65535",
+        "0 to 65535",
+        "0 to 200"
+    ],
+    "created_at": "2026-07-05T19:09:14.749595+00:00"
+},
+{
+    "id": 48041,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "LSA type 2 refers to ________.",
+    "op": [
+        "Network LSA",
+        "External LSA",
+        "Summary LSA",
+        "Router LSA"
+    ],
+    "created_at": "2026-07-05T19:09:21.604824+00:00"
+},
+{
+    "id": 48790,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "LSA type 1 refers to__________.",
+    "op": [
+        "Router LSA",
+        "Summary LSA",
+        "Network LSA",
+        "External LSA"
+    ],
+    "created_at": "2026-07-05T19:21:15.775427+00:00"
+},
+{
+    "id": 48802,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The LSA contains a list of ___________.",
+    "op": [
+        "Directly connected interfaces",
+        "Link types",
+        "All of the given",
+        "Link states"
+    ],
+    "created_at": "2026-07-05T19:21:27.996511+00:00"
+},
+{
+    "id": 48813,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ is correct command to assign router ID in the context of OSPF configurations.",
+    "op": [
+        "router-id 1.1.1.1",
+        "router/ID 1.1.1.1",
+        "router#ID 1.1.1.1",
+        "routerID-1.1.1.1"
+    ],
+    "created_at": "2026-07-05T19:21:40.515906+00:00"
+},
+{
+    "id": 49629,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A wildcard mask is a string of ___________binary digits used by the router to determine which bits of the address to examine for a match.",
+    "op": [
+        "256",
+        "32",
+        "8",
+        "16"
+    ],
+    "created_at": "2026-07-05T19:49:11.522619+00:00"
+},
+{
+    "id": 50477,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of ACLs, _________ implies that a packet will be filtered.",
+    "op": [
+        "Accept",
+        "Separate",
+        "Deny",
+        "Filter"
+    ],
+    "created_at": "2026-07-05T21:14:08.377509+00:00"
+},
+{
+    "id": 63839,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ type of broadcast is the packet sent to all hosts on a specific network, not necessarily the local network. ",
+    "op": [
+        "Multicast",
+        "Limited broadcast",
+        "Unicast",
+        "Directed broadcast"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63840,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_______ are used to represent the source IP address in an IPv4 header. ",
+    "op": [
+        "64 bits",
+        "16 bits",
+        "128 bits",
+        "32 bits"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63841,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "The size of the IPv4 version field in the IP header is _______. ",
+    "op": [
+        "6 bits",
+        "8 bits",
+        "32 bits",
+        "4 bits"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63842,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ is responsible for allocating IP addresses in North America. ",
+    "op": [
+        "LACNIC",
+        "RIPE NCC",
+        "APNIC",
+        "ARIN"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63843,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": " _______ is correct subnet mask for a /24 prefix. ",
+    "op": [
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.255.255.255"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63844,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "An IP address is comprised of _______ bits.",
+    "op": [
+        "16",
+        "128",
+        "32",
+        "64"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63845,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "VLSM stand for _________. ",
+    "op": [
+        "Variable Length Standard Mask",
+        "Very Large Subnet Mask",
+        "Variable Length Subnet Mask",
+        "Virtual Length Subnet Mask"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63846,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "Subnet mask or network prefix represent _________ in an IPv4 address. ",
+    "op": [
+        "broadcast address",
+        "network portion of the address",
+        "gateway address",
+        "host portion of the address"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63847,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_______ protocol is not widely used today. ",
+    "op": [
+        "IPX",
+        "IPv6",
+        "TCP",
+        "IPv4"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63848,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ address block is designated for teaching and learning purposes. ",
+    "op": [
+        "240.0.0.0/8",
+        "192.0.2.0/24",
+        "127.0.0.0/8",
+        "169.254.0.0/16"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63849,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ IPv4 address range is reserved for multicast communication. ",
+    "op": [
+        "224.0.0.0 to 239.255.255.255",
+        "192.168.0.0 to 192.168.255.255",
+        "240.0.0.0 to 255.255.255.255",
+        "0.0.0.0 to 223.255.255.255"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63850,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_______ is a characteristic of the Internet Protocol (IP). ",
+    "op": [
+        "Guaranteed packet delivery",
+        "Connectionless",
+        "Connection-oriented",
+        "Media dependent"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63851,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "If 3 bits are borrowed from the host portion, _________ subnets can be created. ",
+    "op": [
+        "4",
+        "8",
+        "16",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63852,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_______ IPv4 address used for a limited broadcast. ",
+    "op": [
+        "239.255.255.255",
+        "172.16.4.255",
+        "255.255.255.255",
+        "192.168.1.1"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63853,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": " _______ field in the IPv4 header is used to determine the priority of each packet. ",
+    "op": [
+        "Source IP Address",
+        "Time-to-Live (TTL)",
+        "Differentiated Services (DS)",
+        "Protocol"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63854,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "The IPV4 Packet contains 32 bits source address and ________ destination address.",
+    "op": [
+        "64 bits",
+        "128 bits",
+        "16 bits",
+        "32 bits"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63855,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "________ is a special IP address that the hosts use to direct traffic to themselves.",
+    "op": [
+        "Reverseback",
+        "Loopback",
+        "MAC",
+        "Multicast"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63856,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_______ process at the network layer involves adding IP header information, such as the source and destination IP addresses, to the data. ",
+    "op": [
+        "Routing",
+        "De-encapsulation",
+        "Addressing",
+        "Encapsulation"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63858,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": " _______ protocol is identified by the protocol field value of 0x06 in an IPv4 packet. ",
+    "op": [
+        "ICMP",
+        "UDP",
+        "TCP",
+        "ARP"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63859,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "The process of sending a message by one host to other single host is called as _________.",
+    "op": [
+        "Multicasting",
+        "Unicasting",
+        "Broadcasting",
+        "Flooding"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63886,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ address block is reserved for future use and research purposes. ",
+    "op": [
+        "169.254.0.0/16",
+        "192.0.2.0/24",
+        "240.0.0.0 to 255.255.255.254",
+        "192.168.0.0/16"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63900,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ is typically used for the default gateway in many addressing schemes. ",
+    "op": [
+        "The broadcast address",
+        "The network address",
+        "The first host address",
+        "The last host address"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 63957,
+    "cc": "CS407",
+    "qn": "3",
+    "dt": "22 December 2025",
+    "qt": "_________ is NOT a private IP address block. ",
+    "op": [
+        "10.0.0.0/8",
+        "127.0.0.1/8",
+        "192.168.0.0/16",
+        "172.16.0.0/12"
+    ],
+    "created_at": "2026-07-15T13:27:02.306106+00:00"
+},
+{
+    "id": 70874,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Extended ACLs can be assigned with a number from _______.",
+    "op": [
+        "0 to 35",
+        "10 to 50",
+        "100 to 199",
+        "0 to 10"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70875,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "We use _________ command to disable DHCP, in global configuration mode.",
+    "op": [
+        "dhcp service exit",
+        "no service dhcp",
+        "no dhcp service",
+        "terminate-dhcp service"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70876,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "What is the first step in creating ACL?",
+    "op": [
+        "Defining what to filter",
+        "Create ACL definition in Global Configuration mode",
+        "Identify the direction of filter",
+        "Create ACL definition in interface Configuration mode"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70877,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is a valid number for an extended access list?",
+    "op": [
+        "80",
+        "10",
+        "101",
+        "20"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70878,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is NOT a valid number for an extended access list?",
+    "op": [
+        "120",
+        "90",
+        "101",
+        "199"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70879,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "The \"access-list global configuration\" command defines a standard ACL with a number ranging from _________",
+    "op": [
+        "0-99",
+        "0-10",
+        "1-99",
+        "0-55"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70880,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "If DHCP service is disabled in global configuration mode on newer IOS, we will use _________ command to re-enable it.",
+    "op": [
+        "re-enable-dhcp",
+        "enable dhcp global service",
+        "service dhcp global",
+        "dhcp enable"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70881,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "We use this command “ lease {days [hours][minutes] | infinite} ” to define __________ .",
+    "op": [
+        "DHCP time Offset",
+        "DHCP lease Duration",
+        "ACL lease  Duration",
+        "DNS Time Stamp"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70915,
+    "cc": "CS407",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is NOT true for the Extended ACLs?",
+    "op": [
+        "Extended ACL cannot be given a name",
+        "Filters traffic on the basis of destination address",
+        "Filters traffic on the basis of source address",
+        "Filters traffic on the basis of protocol"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+}
+]

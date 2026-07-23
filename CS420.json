@@ -1,0 +1,1402 @@
+[
+{
+    "id": 19744,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "If the transparent part of the image has rounded or diagonal edges, which format is suitable?",
+    "op": [
+        "GIF",
+        "PNG",
+        "JPG",
+        "Transparent GIF"
+    ],
+    "created_at": "2026-06-23T19:08:37.198851+00:00"
+},
+{
+    "id": 19745,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which one is not a pillar of performance?",
+    "op": [
+        "Network",
+        "Render",
+        "Compute",
+        "Storage"
+    ],
+    "created_at": "2026-06-23T19:08:46.105033+00:00"
+},
+{
+    "id": 19746,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "If the width property is set to ___________, the image will be responsive and scale up and down.",
+    "op": [
+        "25%",
+        "200%",
+        "50%",
+        "100%"
+    ],
+    "created_at": "2026-06-23T19:08:55.527906+00:00"
+},
+{
+    "id": 19747,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does DPR stand for ___________.",
+    "op": [
+        "Display Pixel Resolution",
+        "Device Pixel Ratio",
+        "Device Pixel Resolution",
+        "Display Pixel Ratio"
+    ],
+    "created_at": "2026-06-23T19:09:03.55978+00:00"
+},
+{
+    "id": 19749,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "__________ is simply the individual point of color on a digital image.",
+    "op": [
+        "Image",
+        "Pixel",
+        "Font",
+        "Point"
+    ],
+    "created_at": "2026-06-23T19:09:14.301369+00:00"
+},
+{
+    "id": 19753,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which background property is used to show the background image only once?",
+    "op": [
+        "background-repeat: repeat-once",
+        "background-image: repeat-once",
+        "background-image: no-repeat",
+        "background-repeat: no-repeat"
+    ],
+    "created_at": "2026-06-23T19:09:21.924914+00:00"
+},
+{
+    "id": 19755,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The HTML <svg> element (introduced in HTML5) is a _________ for SVG graphics.",
+    "op": [
+        "Box",
+        "Block",
+        "Container",
+        "Tag"
+    ],
+    "created_at": "2026-06-23T19:09:29.653207+00:00"
+},
+{
+    "id": 19756,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "A pixel doesn't have a particular size. It is a/an __________ representation of a specific coordinate, like a point on a map.",
+    "op": [
+        "Complex",
+        "Abstract",
+        "Transparent",
+        "Clear"
+    ],
+    "created_at": "2026-06-23T19:09:39.047529+00:00"
+},
+{
+    "id": 19757,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "To render images to the screen, ______ dimensions may well not equal to pixel in real device terms.",
+    "op": [
+        "Image layout",
+        "Screen layout",
+        "Pixel layout",
+        "Device layout"
+    ],
+    "created_at": "2026-06-23T19:09:49.258756+00:00"
+},
+{
+    "id": 19847,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Responsive imaging is a method for providing the browser with multiple image sources depending on ____________",
+    "op": [
+        "All of the given",
+        "Image Size",
+        "Other factors",
+        "Display Density"
+    ],
+    "created_at": "2026-06-23T19:19:05.407419+00:00"
+},
+{
+    "id": 19858,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "404 HTTP error is generated due to ____________.",
+    "op": [
+        "Slow loading of the web page.",
+        "Any missing file.",
+        "The removal of the newline character.",
+        "Missing JavaScript file."
+    ],
+    "created_at": "2026-06-23T19:19:50.299414+00:00"
+},
+{
+    "id": 19861,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The standard rule for CSS is to apply a __________ property to all images.",
+    "op": [
+        "Max-width",
+        "Min-width",
+        "Max-height",
+        "Min-height"
+    ],
+    "created_at": "2026-06-23T19:19:57.568265+00:00"
+},
+{
+    "id": 19864,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "A drop in performance directly drives a drop in user ______________.",
+    "op": [
+        "Graph",
+        "Interaction",
+        "Management",
+        "Engagement"
+    ],
+    "created_at": "2026-06-23T19:20:03.520973+00:00"
+},
+{
+    "id": 19867,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is not the property of SVG images?",
+    "op": [
+        "SVG images are zoomable.",
+        "SVG is an open standard.",
+        "SVG images are scalable.",
+        "SVG images are resolution dependent."
+    ],
+    "created_at": "2026-06-23T19:20:10.322226+00:00"
+},
+{
+    "id": 19868,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "____________ hints allow clients to indicate a list of device and agent specific preferences.",
+    "op": [
+        "HTTP",
+        "HTTP Client",
+        "HTTP Server",
+        "HTTP Socket"
+    ],
+    "created_at": "2026-06-23T19:20:16.393209+00:00"
+},
+{
+    "id": 19870,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The performance of a _____ site means that you will have _________ user engagement.",
+    "op": [
+        "Slow, more",
+        "Fast, less",
+        "Fast, no",
+        "Slow, Less"
+    ],
+    "created_at": "2026-06-23T19:20:23.857223+00:00"
+},
+{
+    "id": 19872,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Physical pixel size of IPhone 6 Plus is ___________ pixels.",
+    "op": [
+        "720*340",
+        "840*440",
+        "1080*1920",
+        "1020*240"
+    ],
+    "created_at": "2026-06-23T19:20:30.593649+00:00"
+},
+{
+    "id": 19938,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "By default, the background-image property repeats an image ________________.",
+    "op": [
+        "None of the given",
+        "Vertically",
+        "Both horizontally and vertically",
+        "Horizontally"
+    ],
+    "created_at": "2026-06-23T19:31:43.916961+00:00"
+},
+{
+    "id": 19939,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "First step to ensure great performance is being able to analyze your _________.",
+    "op": [
+        "User engagement",
+        "Design",
+        "Performance",
+        "Code"
+    ],
+    "created_at": "2026-06-23T19:32:18.822674+00:00"
+},
+{
+    "id": 19940,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "SVG is used to define _________ for the website.",
+    "op": [
+        "Multimedia",
+        "Graphics",
+        "Components",
+        "Tags"
+    ],
+    "created_at": "2026-06-23T19:32:53.415308+00:00"
+},
+{
+    "id": 19943,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The bulk of __________ work is done through .htaccess and PHP 5.x, which offers a great solution without complete dependency on JavaScript.",
+    "op": [
+        "Fluid images",
+        "Fixed images",
+        "Adaptive images",
+        "Responsive images"
+    ],
+    "created_at": "2026-06-23T19:33:10.326449+00:00"
+},
+{
+    "id": 19950,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "If a performance issue is introduced, that causes your page to take an extra half second to load. That's just ____________.",
+    "op": [
+        "500 milliseconds.",
+        "5000 milliseconds.",
+        "100 milliseconds.",
+        "200 milliseconds."
+    ],
+    "created_at": "2026-06-23T19:33:47.887068+00:00"
+},
+{
+    "id": 19981,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which one is not a chrome development tool?",
+    "op": [
+        "Elements",
+        "Console",
+        "View points",
+        "Tags"
+    ],
+    "created_at": "2026-06-23T19:44:00.173011+00:00"
+},
+{
+    "id": 19984,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Device-independent pixels are called __________ pixels.",
+    "op": [
+        "Internal",
+        "Logical",
+        "Independent",
+        "Physical"
+    ],
+    "created_at": "2026-06-23T19:44:57.474734+00:00"
+},
+{
+    "id": 19987,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Web applications need to deliver good image quality across a broad range of devices at a ______  cost.",
+    "op": [
+        "Minimum",
+        "Maximum",
+        "Average",
+        "Normal"
+    ],
+    "created_at": "2026-06-23T19:45:25.326534+00:00"
+},
+{
+    "id": 19992,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "CSS image set was an experimental and only supported on _______________.",
+    "op": [
+        "Mozilla",
+        "Both Safari6 and Google Chrome 21",
+        "Google Chrome 21",
+        "Safari 6"
+    ],
+    "created_at": "2026-06-23T19:46:27.881122+00:00"
+},
+{
+    "id": 20062,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Pixel is used to describe the number of ___________ that digital cameras can capture.",
+    "op": [
+        "Duplicate points",
+        "Continuous points",
+        "Discrete points",
+        "Image points"
+    ],
+    "created_at": "2026-06-23T20:05:47.832468+00:00"
+},
+{
+    "id": 20066,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "It's almost impossible to graph ____________ into your application after it's already been built.",
+    "op": [
+        "Performance",
+        "Analysis",
+        "Optimization",
+        "Data"
+    ],
+    "created_at": "2026-06-23T20:06:06.639137+00:00"
+},
+{
+    "id": 20069,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "________ is a chrome development tool.",
+    "op": [
+        "Inspect",
+        "Destination",
+        "Sources",
+        "Tags"
+    ],
+    "created_at": "2026-06-23T20:06:30.17025+00:00"
+},
+{
+    "id": 20072,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In short, speed is not a feature. It's a requirement. Users won't use your app if it's not ___________.",
+    "op": [
+        "Responsive",
+        "Fast",
+        "Reliable",
+        "Fixed"
+    ],
+    "created_at": "2026-06-23T20:06:59.212357+00:00"
+},
+{
+    "id": 20197,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Google, Microsoft, Amazon, Facebook, and others all show that UI performance translates directly to _____________.",
+    "op": [
+        "Profit",
+        "Loss",
+        "Data",
+        "Users"
+    ],
+    "created_at": "2026-06-23T21:27:38.813192+00:00"
+},
+{
+    "id": 20224,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "When the web user re-sizes their browser window smaller than your image, it’ll automatically re-adjust to _________ width scaled down.",
+    "op": [
+        "75%",
+        "100%",
+        "50%",
+        "200%"
+    ],
+    "created_at": "2026-06-23T22:39:59.091493+00:00"
+},
+{
+    "id": 20296,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The actual number of pixels that mobile or computer device support is called __________.",
+    "op": [
+        "Physical pixel",
+        "Optimization pixel",
+        "None of the given",
+        "Logical pixel"
+    ],
+    "created_at": "2026-06-23T23:46:39.433808+00:00"
+},
+{
+    "id": 20378,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following gives a text description of the image if it is not available?",
+    "op": [
+        "src",
+        "alt",
+        "title",
+        "height"
+    ],
+    "created_at": "2026-06-24T02:01:55.997628+00:00"
+},
+{
+    "id": 42689,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "First step to ensure great performance is being able to analyze your _________.",
+    "op": [
+        "User engagement",
+        "Performance",
+        "Code",
+        "Design"
+    ],
+    "created_at": "2026-06-25T16:24:09.670964+00:00"
+},
+{
+    "id": 42690,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "The HTML <svg> element (introduced in HTML5) is a _________ for SVG graphics.",
+    "op": [
+        "Block",
+        "Tag",
+        "Box",
+        "Container"
+    ],
+    "created_at": "2026-06-25T16:25:46.317544+00:00"
+},
+{
+    "id": 42691,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Device-independent pixels are called __________ pixels.",
+    "op": [
+        "Internal",
+        "Independent",
+        "Logical",
+        "Physical"
+    ],
+    "created_at": "2026-06-25T16:26:15.15159+00:00"
+},
+{
+    "id": 42693,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "What does DPR stand for ___________.",
+    "op": [
+        "Device Pixel Ratio",
+        "Display Pixel Resolution",
+        "Device Pixel Resolution",
+        "Display Pixel Ratio"
+    ],
+    "created_at": "2026-06-25T16:38:36.995093+00:00"
+},
+{
+    "id": 42694,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Physical pixel size of IPhone 6 Plus is ___________ pixels.",
+    "op": [
+        "1080*1920",
+        "720*340",
+        "840*440",
+        "1020*240"
+    ],
+    "created_at": "2026-06-25T16:39:13.455776+00:00"
+},
+{
+    "id": 42695,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "The bulk of __________ work is done through .htaccess and PHP 5.x, which offers a great solution without complete dependency on JavaScript.",
+    "op": [
+        "Fixed images",
+        "Adaptive images",
+        "Responsive images",
+        "Fluid images"
+    ],
+    "created_at": "2026-06-25T16:39:34.74636+00:00"
+},
+{
+    "id": 42696,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "CSS image set was an experimental and only supported on _______________.",
+    "op": [
+        "Safari 6",
+        "Mozilla",
+        "Google Chrome 21",
+        "Both Safari6 and Google Chrome 21"
+    ],
+    "created_at": "2026-06-25T16:39:51.1066+00:00"
+},
+{
+    "id": 42697,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which one is not a chrome development tool?",
+    "op": [
+        "Elements",
+        "View points",
+        "Console",
+        "Tags"
+    ],
+    "created_at": "2026-06-25T16:40:08.889237+00:00"
+},
+{
+    "id": 42698,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which of the following gives a text description of the image if it is not available?",
+    "op": [
+        "height",
+        "alt",
+        "title",
+        "src"
+    ],
+    "created_at": "2026-06-25T16:40:21.60574+00:00"
+},
+{
+    "id": 42699,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which background property is used to show the background image only once?",
+    "op": [
+        "background-image: no-repeat",
+        "background-repeat: repeat-once",
+        "background-image: repeat-once",
+        "background-repeat: no-repeat"
+    ],
+    "created_at": "2026-07-02T18:31:29.560622+00:00"
+},
+{
+    "id": 42700,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If a performance issue is introduced, that causes your page to take an extra half second to load. That's just ____________.",
+    "op": [
+        "100 milliseconds.",
+        "5000 milliseconds.",
+        "500 milliseconds.",
+        "200 milliseconds."
+    ],
+    "created_at": "2026-07-02T18:31:41.932683+00:00"
+},
+{
+    "id": 42701,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The performance of a _____ site means that you will have _________ user engagement.",
+    "op": [
+        "Fast, less",
+        "Slow, more",
+        "Slow, Less",
+        "Fast, no"
+    ],
+    "created_at": "2026-07-02T18:31:47.685718+00:00"
+},
+{
+    "id": 42702,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Web applications need to deliver good image quality across a broad range of devices at a ______  cost.",
+    "op": [
+        "Normal",
+        "Average",
+        "Maximum",
+        "Minimum"
+    ],
+    "created_at": "2026-07-02T18:31:53.706328+00:00"
+},
+{
+    "id": 42703,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Google, Microsoft, Amazon, Facebook, and others all show that UI performance translates directly to _____________.",
+    "op": [
+        "Loss",
+        "Profit",
+        "Users",
+        "Data"
+    ],
+    "created_at": "2026-07-02T18:31:59.831806+00:00"
+},
+{
+    "id": 42704,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "It's almost impossible to graph ____________ into your application after it's already been built.",
+    "op": [
+        "Analysis",
+        "Data",
+        "Performance",
+        "Optimization"
+    ],
+    "created_at": "2026-07-02T18:32:06.729547+00:00"
+},
+{
+    "id": 42705,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A drop in performance directly drives a drop in user ______________.",
+    "op": [
+        "Graph",
+        "Engagement",
+        "Interaction",
+        "Management"
+    ],
+    "created_at": "2026-07-02T18:32:14.983483+00:00"
+},
+{
+    "id": 42706,
+    "cc": "CS420",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the width property is set to ___________, the image will be responsive and scale up and down.",
+    "op": [
+        "100%",
+        "200%",
+        "50%",
+        "25%"
+    ],
+    "created_at": "2026-07-02T18:32:22.300681+00:00"
+},
+{
+    "id": 48990,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "\"____________\" from Touch Event is equivalent to \"MouseDown\" from Mouse Event.",
+    "op": [
+        "TouchMove",
+        "TouchStop",
+        "TouchEnd",
+        "TouchStart"
+    ],
+    "created_at": "2026-07-05T19:26:58.714618+00:00"
+},
+{
+    "id": 48997,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ events are always delivered to the element that first received that __________ .",
+    "op": [
+        "Click, Touch",
+        "Touch, Touch",
+        "Read, Touch",
+        "Move, Touch"
+    ],
+    "created_at": "2026-07-05T19:27:07.516655+00:00"
+},
+{
+    "id": 49003,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Touch and mouse are not mutually ___________",
+    "op": [
+        "Crossed",
+        "Inclusive",
+        "Workable",
+        "Exclusive"
+    ],
+    "created_at": "2026-07-05T19:27:17.111252+00:00"
+},
+{
+    "id": 49010,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ development tool is not used for mobile application.",
+    "op": [
+        "Visual C++",
+        "Dream viewer",
+        "Sencha",
+        "Unity 3D"
+    ],
+    "created_at": "2026-07-05T19:27:25.477995+00:00"
+},
+{
+    "id": 49020,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The target of _____________ event must be the same Element on which the touch point started when it was first placed on the surface, even if the touch point has since moved outside the interactive area of the target element.",
+    "op": [
+        "Touchmove",
+        "Touchcancel",
+        "Touchend",
+        "Touchstart"
+    ],
+    "created_at": "2026-07-05T19:27:38.558483+00:00"
+},
+{
+    "id": 49031,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "\"____________\" from Touch Event is equivalent to \"MouseUp\" from Mouse Event.",
+    "op": [
+        "TouchMove",
+        "TouchStop",
+        "TouchSart",
+        "TouchEnd"
+    ],
+    "created_at": "2026-07-05T19:27:46.707553+00:00"
+},
+{
+    "id": 49042,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A user agent must dispatch _________ type to indicate when the user places a touch point on the touch surface.",
+    "op": [
+        "Touchstop",
+        "Touchstart",
+        "Touchend",
+        "Touchmove"
+    ],
+    "created_at": "2026-07-05T19:27:56.219152+00:00"
+},
+{
+    "id": 49048,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ event is fired when Pointer moves over an element (enters its hit test boundaries).",
+    "op": [
+        "PointerMove",
+        "PointerOver",
+        "PointerEnter",
+        "PointerDown"
+    ],
+    "created_at": "2026-07-05T19:28:03.859851+00:00"
+},
+{
+    "id": 49055,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ library refers to a JavaScript library that implements an HTML5 web standard.",
+    "op": [
+        "Listener",
+        "Touch",
+        "Polyfill",
+        "Event"
+    ],
+    "created_at": "2026-07-05T19:28:13.025852+00:00"
+},
+{
+    "id": 49061,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The target of _________ event must be an Element. If the touch point is within a frame, the event should be dispatched to an element in the child browsing context of that frame.",
+    "op": [
+        "Touchmove",
+        "Touchstart",
+        "Touchcancel",
+        "Touchend"
+    ],
+    "created_at": "2026-07-05T19:28:22.821247+00:00"
+},
+{
+    "id": 51989,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the _______________ function we grab the x and y coordinates of the touch, and write them to the coordinates div.",
+    "op": [
+        "TouchListner",
+        "TouchHandler",
+        "EventListner",
+        "EventHandler"
+    ],
+    "created_at": "2026-07-06T03:06:14.30207+00:00"
+},
+{
+    "id": 51992,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If we add the support for touch events only, our pages will not work on__________.",
+    "op": [
+        "Desktop Computers with Mouse",
+        "All of the given options",
+        "Laptops with Touch Screen",
+        "Smart Phones with Touch Screen"
+    ],
+    "created_at": "2026-07-06T03:06:22.436999+00:00"
+},
+{
+    "id": 51994,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following elements in \"inspect\" is used for conversion a web display into a mobile display?",
+    "op": [
+        "Source",
+        "Toggle Device Tool Bar",
+        "Network",
+        "Console"
+    ],
+    "created_at": "2026-07-06T03:06:30.337147+00:00"
+},
+{
+    "id": 51998,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____   is method of touch events.",
+    "op": [
+        "touchstart  -> mouseright",
+        "touchstart  -> mousedown",
+        "touchstart  -> mouseleft",
+        "touchstart  -> mouseup"
+    ],
+    "created_at": "2026-07-06T03:06:38.358212+00:00"
+},
+{
+    "id": 52001,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Complete the missing code from following;\ntouchzone.addEventListener(\"touchstart\", ____________, false);",
+    "op": [
+        "touchListener",
+        "eventHandler",
+        "eventListener",
+        "touchHandler"
+    ],
+    "created_at": "2026-07-06T03:06:45.896902+00:00"
+},
+{
+    "id": 52003,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When we touch a mobile device with our finger then we expect a __________ interaction from that device.",
+    "op": [
+        "Non-responsive",
+        "Responsive",
+        "Static",
+        "Dynamic"
+    ],
+    "created_at": "2026-07-06T03:06:53.919194+00:00"
+},
+{
+    "id": 52006,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ tool is used for mobile application development.",
+    "op": [
+        "Matlab",
+        "Visual C++",
+        "Python",
+        "Unity 3D"
+    ],
+    "created_at": "2026-07-06T03:07:00.009542+00:00"
+},
+{
+    "id": 52009,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A/an __________ can be defined as; \nA hardware agnostic representation of input devices that can target a specific coordinate (or set of coordinates) on a screen.",
+    "op": [
+        "Pointer",
+        "Touch",
+        "Event",
+        "Listener"
+    ],
+    "created_at": "2026-07-06T03:07:08.032234+00:00"
+},
+{
+    "id": 52155,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "With most mobile screens, your primary pointing device is _____.",
+    "op": [
+        "Finger",
+        "Pen Pointer",
+        "None of the given",
+        "Button"
+    ],
+    "created_at": "2026-07-06T03:41:50.616433+00:00"
+},
+{
+    "id": 52158,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose the correct option for identifying the touchzone div;\nvar touchzone =  _______________ .getElementById( )",
+    "op": [
+        "session.getElementById( )",
+        "page.getElementById( )",
+        "document.getElementById()",
+        "scope.getElementById( )"
+    ],
+    "created_at": "2026-07-06T03:42:46.434191+00:00"
+},
+{
+    "id": 52159,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Size of Touch Area should be at-least",
+    "op": [
+        "10mm X 10 mm",
+        "100mm X 100 mm",
+        "1mm X 10 mm",
+        "1000mm X 1000 mm"
+    ],
+    "created_at": "2026-07-06T03:43:26.117054+00:00"
+},
+{
+    "id": 52161,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A user agent must dispatch ________ event type to indicate when the user moves a touch point along the touch surface.",
+    "op": [
+        "Touchcancel",
+        "Touchmove",
+        "Touchstart",
+        "Touchend"
+    ],
+    "created_at": "2026-07-06T03:44:15.705358+00:00"
+},
+{
+    "id": 52205,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ is a vertical coordinate of point relative to page, including scroll offset.",
+    "op": [
+        "TiltY",
+        "ScreenY",
+        "PageY",
+        "ClientY"
+    ],
+    "created_at": "2026-07-06T04:01:30.691507+00:00"
+},
+{
+    "id": 52210,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A user agent must dispatch _____________ event type to indicate when the user removes a touch point from the touch surface, also including cases where the touch point physically leaves the touch surface, such as being dragged off of the screen.",
+    "op": [
+        "Touchcancel",
+        "Touchmove",
+        "Touchend",
+        "Touchstart"
+    ],
+    "created_at": "2026-07-06T04:02:12.321671+00:00"
+},
+{
+    "id": 52212,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The target of _______________ event must be the same Element on which the touch point started when it was first placed on the surface, even if the touch point has since moved outside the interactive area of the target element.",
+    "op": [
+        "Touchstart",
+        "Touchcancel",
+        "Touchmove",
+        "Touchend"
+    ],
+    "created_at": "2026-07-06T04:02:22.131137+00:00"
+},
+{
+    "id": 52223,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ is a horizontal coordinate of point relative to viewport, excluding scroll offset.",
+    "op": [
+        "ClientX",
+        "ScreenX",
+        "PageX",
+        "TiltX"
+    ],
+    "created_at": "2026-07-06T04:04:49.156249+00:00"
+},
+{
+    "id": 52227,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Touch supporting mobile browsers, usually interpret ________________.",
+    "op": [
+        "Text writing",
+        "No tapping",
+        "Double tapping",
+        "Single tapping"
+    ],
+    "created_at": "2026-07-06T04:05:05.375065+00:00"
+},
+{
+    "id": 52231,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The type that specifies what kind of event occurred is ______________",
+    "op": [
+        "both event type and even target",
+        "interface",
+        "event type",
+        "event target"
+    ],
+    "created_at": "2026-07-06T04:05:32.113172+00:00"
+},
+{
+    "id": 52401,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In general, event handler is nothing but ____________",
+    "op": [
+        "event",
+        "function",
+        "interface",
+        "function handler"
+    ],
+    "created_at": "2026-07-06T04:28:19.754906+00:00"
+},
+{
+    "id": 52630,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When will the browser invoke the handler?",
+    "op": [
+        "Any event occurs",
+        "Program begins",
+        "Specified event occurs",
+        "Webpage loads"
+    ],
+    "created_at": "2026-07-06T05:00:07.965123+00:00"
+},
+{
+    "id": 52642,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Size of Touch Area should be at-least ______.",
+    "op": [
+        "10 mm X 10 mm",
+        "20 mm X 20 mm",
+        "05 mm X 05 mm",
+        "15 mm X 15 mm"
+    ],
+    "created_at": "2026-07-06T05:01:28.009178+00:00"
+},
+{
+    "id": 52644,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT a Pointer Event?",
+    "op": [
+        "PointerEnter",
+        "PointerDown",
+        "PointerStart",
+        "PointerOver"
+    ],
+    "created_at": "2026-07-06T05:01:36.359099+00:00"
+},
+{
+    "id": 52707,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________  is Touch Event Attribute.",
+    "op": [
+        "Tabkey",
+        "Altkey",
+        "Shiftkey",
+        "InsertKey"
+    ],
+    "created_at": "2026-07-06T05:12:30.72609+00:00"
+},
+{
+    "id": 68800,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of them is the correct code for providing email as Input Type in HTML5? ",
+    "op": [
+        "<input type = \"email\">",
+        "<input type = \"date\">",
+        "<input type = \"range\">",
+        "<input type = \"search\">"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68801,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "_______the user agent may determine any permitted touch behaviors, such as panning and zooming manipulations of the viewport, for touches that begin on the element.",
+    "op": [
+        "Touch-action: None;",
+        "Touch-action: Pan-left;",
+        "Touch-action: Pan-x;",
+        "Touch-action: Auto;"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68802,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "_________use this value to disable all of the default behaviors and allow your content to handle all touch input (touches that begin on the element must not trigger default touch behaviors).",
+    "op": [
+        "Touch-action: Pan-right;",
+        "Touch-action: Pan-left;",
+        "Touch-action: Pan-x;",
+        "Touch-action: None;"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68804,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "What does PEP (library) stands for;",
+    "op": [
+        "Pointer Events Package",
+        "Pointer End Polyfill",
+        "Pointer End Package",
+        "Pointer Events Polyfill"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68805,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "_________ is NOT an input type in HTML5.",
+    "op": [
+        "Week",
+        "Month",
+        "Date",
+        "Year"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68807,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "_______ input type provides the user with ability to add the numbers and to add *, # , + signs as well.",
+    "op": [
+        "url",
+        "color",
+        "tel",
+        "date"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68808,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following is the most common input type in HTML5? ",
+    "op": [
+        "Email",
+        "Number",
+        "Date",
+        "Text"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68809,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "When we use Input Type as___________, we get a '@' sign as well as the '.com'. ",
+    "op": [
+        "tel",
+        "email",
+        "url",
+        "time"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68816,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which type of keyboards offered by mobile devices are physically smaller and usually more tedious to operate?",
+    "op": [
+        "On-Screen Keyboards",
+        "Virtual Keyboards",
+        "Ergonomic Keyboards",
+        "Physical Keyboards"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68819,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "If you want to develop pages offline then you are required to __________ library into your system.",
+    "op": [
+        "Fix",
+        "Download",
+        "Set",
+        "Install"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68821,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "______code is used to disable all of the default behaviors and allow your content to handle all touch input.",
+    "op": [
+        "canvas  {\n\ttouch-action: true;\n\t}",
+        "canvas {\n\ttouch-action: disable;\n\t}",
+        "canvas  {\n\ttouch-action: false;\n\t}",
+        "canvas {\n\ttouch-action: none;\n\t}"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 69046,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "____________the user agent may consider touches that begin on the element only for the purposes of horizontally scrolling the element's nearest ancestor with horizontally scrollable content.",
+    "op": [
+        "Touch-action: Pan-x;",
+        "Touch-action: Pan-left;",
+        "Touch-action: Pan-y;",
+        "Touch-action: Pan-right;"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69047,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which one is the correct code for providing Input Type for Numbers? ",
+    "op": [
+        "<type=\"number\">",
+        "<input=\"number\">",
+        "<input type=\"number\">",
+        "<type input=\"number\">"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69048,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "________________ HTML5 input type can be used to enter the month.",
+    "op": [
+        "Week",
+        "Time",
+        "Month",
+        "Date"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69185,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Generally, desktops and laptops have a(an) ______ input device as compared to phones and tablets. ",
+    "op": [
+        "Equal",
+        "Larger",
+        "Smaller",
+        "None of the given"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69186,
+    "cc": "CS420",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "_____________the user agent may consider touches that begin on the element only for the purposes of vertically scrolling the element's nearest ancestor with vertically scrollable content.",
+    "op": [
+        "Touch-action: Pan-y;",
+        "Touch-action: Pan-up;",
+        "Touch-action: Manipulation",
+        "Touch-action: Pan-down;"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+}
+]

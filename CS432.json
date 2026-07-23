@@ -1,0 +1,1038 @@
+[
+{
+    "id": 23584,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Node-by-Node Windows overcome the limitations of ----------------",
+    "op": [
+        "Fixed size windows",
+        "Variable size windows",
+        "End-to-end windows",
+        "Dynamic windows"
+    ],
+    "created_at": "2026-06-28T19:09:49.526245+00:00"
+},
+{
+    "id": 23594,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ is the complexity of the link state protocol in datagram networks.",
+    "op": [
+        "O (n2)",
+        "O (n log n)",
+        "O (n)",
+        "O (log n)"
+    ],
+    "created_at": "2026-06-28T19:09:58.402676+00:00"
+},
+{
+    "id": 23618,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________ is ratio between total amount of incoming data during a session over the duration of the session.",
+    "op": [
+        "Incoming Traffic Variation (ITV)",
+        "DNS Requests per Seconds (DNSR)",
+        "Rate of Repeated Queries (RRQ)",
+        "Incoming Bandwidth Consumption (IBC)"
+    ],
+    "created_at": "2026-06-28T19:10:16.665272+00:00"
+},
+{
+    "id": 23631,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_______ layer manages end to end delivery of data",
+    "op": [
+        "Network",
+        "Physical",
+        "Datalink",
+        "Transport"
+    ],
+    "created_at": "2026-06-28T19:10:29.360373+00:00"
+},
+{
+    "id": 23638,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________is the time between a frame being ready for transmission from a node and delivery of the frame elsewhere in the network",
+    "op": [
+        "Delay",
+        "Optimum Utilization",
+        "Capacity",
+        "Throughput"
+    ],
+    "created_at": "2026-06-28T19:10:35.158603+00:00"
+},
+{
+    "id": 23647,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not a network performance parameter___________",
+    "op": [
+        "Offered load",
+        "Throughput",
+        "Extensibility",
+        "Efficiency"
+    ],
+    "created_at": "2026-06-28T19:10:45.922924+00:00"
+},
+{
+    "id": 23654,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In optimization problems where you must select the best route from a set of possible routes, what key component is used to evaluate and compare the alternatives?",
+    "op": [
+        "An objective function",
+        "A decision variable",
+        "A constraint set",
+        "A heuristic method"
+    ],
+    "created_at": "2026-06-28T19:10:54.091515+00:00"
+},
+{
+    "id": 23658,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "…………. is error recovery approach known as re-transmission strategy, in which re-transmits all packets",
+    "op": [
+        "Repeat N",
+        "Go Back N",
+        "Go Back All",
+        "Repeat All"
+    ],
+    "created_at": "2026-06-28T19:11:02.544026+00:00"
+},
+{
+    "id": 23667,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Random request mode and _________ are the two modes of HTTP browser in OMNET++.",
+    "op": [
+        "Server",
+        "Sequential",
+        "Scripted",
+        "User"
+    ],
+    "created_at": "2026-06-28T19:11:23.32719+00:00"
+},
+{
+    "id": 23668,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "According to the first case, delay Performance with Fixed Window in measuring the RTT estimation and time out is ……….",
+    "op": [
+        "Delay = 3RTT + O/R",
+        "Delay = RTT + O/R",
+        "Delay = 2RTT + O/R",
+        "Delay = RTT + 2 O/R"
+    ],
+    "created_at": "2026-06-28T19:11:24.399624+00:00"
+},
+{
+    "id": 23706,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Rate jitter measures_______________between minimal and maximal inter-arrival times",
+    "op": [
+        "Difference",
+        "Equality",
+        "Average",
+        "Addition"
+    ],
+    "created_at": "2026-06-28T19:12:36.352124+00:00"
+},
+{
+    "id": 23711,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Queuing delay is dependent upon _______.",
+    "op": [
+        "Utilization",
+        "Efficiency",
+        "Accuracy",
+        "Capacity"
+    ],
+    "created_at": "2026-06-28T19:12:48.894749+00:00"
+},
+{
+    "id": 23723,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Application layer throughput provides insight into useful ________",
+    "op": [
+        "performance",
+        "recovery",
+        "terminations",
+        "transmissions"
+    ],
+    "created_at": "2026-06-28T19:13:14.086951+00:00"
+},
+{
+    "id": 23748,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "______ is defined as the amount of useful traffic that is correctly transmitted, relative to total traffic",
+    "op": [
+        "Accuracy",
+        "Utilization",
+        "Efficiency",
+        "Capacity"
+    ],
+    "created_at": "2026-06-28T19:14:11.653362+00:00"
+},
+{
+    "id": 23931,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Total time for N objects in persistent connection is __________.",
+    "op": [
+        "(N+1)*RTT + N*Transmit time",
+        "2RTT + N*Transmit time",
+        "N*2RTT + N*Transmit time",
+        "(N)*RTT + N*Transmit time"
+    ],
+    "created_at": "2026-06-28T19:19:07.769689+00:00"
+},
+{
+    "id": 24027,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Interactive Voice and video applications demand minimum_______",
+    "op": [
+        "Bandwidth",
+        "Accuracy",
+        "Hardware",
+        "Delay"
+    ],
+    "created_at": "2026-06-28T19:21:55.236038+00:00"
+},
+{
+    "id": 24074,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In network routing, when the goal is to find the path with the fewest intermediate nodes between source and destination, the method is commonly referred to as_________.",
+    "op": [
+        "Min hop routing",
+        "Link-state routing",
+        "Least cost routing",
+        "Equal-cost multipath routing"
+    ],
+    "created_at": "2026-06-28T19:23:08.122256+00:00"
+},
+{
+    "id": 24133,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "______________ is NOT the Passive Reconnaissance",
+    "op": [
+        "Port scanning",
+        "Sniffing",
+        "War dialing",
+        "War driving"
+    ],
+    "created_at": "2026-06-28T19:25:43.475849+00:00"
+},
+{
+    "id": 24134,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Single _____ connection is used to send and receive multiple HTTP requests/responses.",
+    "op": [
+        "FTP",
+        "SMTP",
+        "TCP",
+        "UDP"
+    ],
+    "created_at": "2026-06-28T19:25:56.477248+00:00"
+},
+{
+    "id": 24142,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not used to implement the DoS Attack?",
+    "op": [
+        "Large computational load",
+        "Sniffer Attack",
+        "TCP Syn attack",
+        "Ping attack"
+    ],
+    "created_at": "2026-06-28T19:26:28.588902+00:00"
+},
+{
+    "id": 24144,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In network flow theory, the function maxflow(s, t) mathematically represents ____________.",
+    "op": [
+        "The total number of possible paths from \"s\" to \"t\" in the network.",
+        "The shortest path between node \"s\" and node \"t\" in terms of hop count.",
+        "The minimum bandwidth required to prevent congestion between \"s\" and \"t\".",
+        "The maximum amount of traffic that can be sent from source node \"s\" to sink node \"t\"."
+    ],
+    "created_at": "2026-06-28T19:26:40.106243+00:00"
+},
+{
+    "id": 24147,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The percent of total available capacity in use for a network is called_____________",
+    "op": [
+        "Optimization",
+        "accuracy",
+        "Utilization",
+        "reliability"
+    ],
+    "created_at": "2026-06-28T19:26:49.973627+00:00"
+},
+{
+    "id": 24187,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A drawback of min-hop routing is _________.",
+    "op": [
+        "It always selects the physically shortest path, ignoring network topology.",
+        "It requires excessive computational overhead compared to other routing algorithms.",
+        "A path with fewer hops might include slow or congested links, while a slightly longer path (more hops) could have higher bandwidth or lower latency.",
+        "It fails to work in networks using hierarchical addressing schemes like IP."
+    ],
+    "created_at": "2026-06-28T19:28:08.398513+00:00"
+},
+{
+    "id": 24326,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "One of the advantage of cache response time is that, that it reduces the response time for ____________.",
+    "op": [
+        "client request",
+        "memory request",
+        "CPU request",
+        "disk request"
+    ],
+    "created_at": "2026-06-28T19:34:07.133111+00:00"
+},
+{
+    "id": 24337,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "HTTP is based on ______ messages.",
+    "op": [
+        "random",
+        "multiple",
+        "users",
+        "sequenced"
+    ],
+    "created_at": "2026-06-28T19:34:25.50369+00:00"
+},
+{
+    "id": 24365,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The amount of time between a request for some network service and a response to the request is called ___________",
+    "op": [
+        "Mean time",
+        "Delivery time",
+        "Response time",
+        "Waiting time"
+    ],
+    "created_at": "2026-06-28T19:35:22.398855+00:00"
+},
+{
+    "id": 24634,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ measures the Round Trip Time (RTT) of a IP packet flowing between end-user node and ISP’s recursive resolver in seconds.",
+    "op": [
+        "Traffic Tolerance (TT)",
+        "Incoming Traffic Variation (ITV)",
+        "Incoming Bandwidth Consumption (IBC)",
+        "DNS Requests per Seconds (DNSR)"
+    ],
+    "created_at": "2026-06-28T19:56:48.502937+00:00"
+},
+{
+    "id": 24638,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is NOT the factor affecting efficiency?",
+    "op": [
+        "Access protocols",
+        "Hard drive size",
+        "Frame size",
+        "Serialization delay on WAN"
+    ],
+    "created_at": "2026-06-28T19:57:27.528265+00:00"
+},
+{
+    "id": 24649,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Delay jitter bounds__________difference in total delay of different packets",
+    "op": [
+        "average",
+        "total",
+        "maximum",
+        "minimum"
+    ],
+    "created_at": "2026-06-28T19:58:43.798602+00:00"
+},
+{
+    "id": 25069,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following factors involved in characterizing the web server?",
+    "op": [
+        "Security and Adaptability",
+        "Performance and usability",
+        "Scalability and Availability",
+        "Processing time and Time out interval"
+    ],
+    "created_at": "2026-06-28T21:21:23.28923+00:00"
+},
+{
+    "id": 25070,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Selective repeat strategy, buffer limit at sender is ……….",
+    "op": [
+        "Equal to or Greater than w",
+        "Equal to or less than w",
+        "Greater than w",
+        "No limits"
+    ],
+    "created_at": "2026-06-28T21:21:30.916545+00:00"
+},
+{
+    "id": 25101,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The de-multiplexer assigns recpective data to respective ____________.",
+    "op": [
+        "Hubs",
+        "Router",
+        "Ports",
+        "Destinations"
+    ],
+    "created_at": "2026-06-28T21:30:33.001396+00:00"
+},
+{
+    "id": 25104,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ defines several common classes of service with associated queue priorities and drop precedence on a per-hop basis.",
+    "op": [
+        "MPLS",
+        "RSVP-TE",
+        "IntServ",
+        "DiffServ"
+    ],
+    "created_at": "2026-06-28T21:31:33.292409+00:00"
+},
+{
+    "id": 25493,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ and _______ methods are used in HTTP/1.1 to upload and delete files in the URL field.",
+    "op": [
+        "Post and Delete",
+        "Put and Delete",
+        "Post and Remove",
+        "Put and Remove"
+    ],
+    "created_at": "2026-06-29T01:03:15.314549+00:00"
+},
+{
+    "id": 25494,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "During data transmission packet loss occur due to -------------- in network.",
+    "op": [
+        "Data flood",
+        "Data retransmission",
+        "Data Compression",
+        "Data congestion"
+    ],
+    "created_at": "2026-06-29T01:05:02.488678+00:00"
+},
+{
+    "id": 25592,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Total time for N objects in non-persistent connection is ___________.",
+    "op": [
+        "N+2RTT + N + Transmit time",
+        "N+2RTT + N*Transmit time",
+        "N*2RTT + N +Transmit time",
+        "N*2RTT + N*Transmit time"
+    ],
+    "created_at": "2026-06-29T02:13:48.117441+00:00"
+},
+{
+    "id": 25595,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Routing Algorithm determines __________ path through network",
+    "op": [
+        "Source-End",
+        "Source-Destination",
+        "Destination-End",
+        "End-End"
+    ],
+    "created_at": "2026-06-29T02:14:00.023089+00:00"
+},
+{
+    "id": 25614,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Accuracy can be computed with the help of________________",
+    "op": [
+        "[(imaginary  value – Error) / Real value] * 100",
+        "[(Error– Real value) / Real value] * 100",
+        "[(Real value – Error) / Real value] * 10",
+        "[(Real value – Error) / Real value] * 100"
+    ],
+    "created_at": "2026-06-29T02:18:22.604342+00:00"
+},
+{
+    "id": 25617,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "One of the main function of Web Server model is to handle multiple ____ requests.",
+    "op": [
+        "HTTP",
+        "session",
+        "HTML",
+        "End users"
+    ],
+    "created_at": "2026-06-29T02:18:59.374078+00:00"
+},
+{
+    "id": 25624,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________is the level of human effort required to keep that system operating at a satisfactory level",
+    "op": [
+        "Extensibility",
+        "Availability",
+        "Manageability",
+        "Reliability"
+    ],
+    "created_at": "2026-06-29T02:20:35.463907+00:00"
+},
+{
+    "id": 25628,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "WAN links utilization is more crucial than_________",
+    "op": [
+        "LAN",
+        "WLAN",
+        "VLAN",
+        "MAN"
+    ],
+    "created_at": "2026-06-29T02:22:29.245423+00:00"
+},
+{
+    "id": 25632,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Poisoned Reverse does not work if more than __ neighbors are involved in looping.",
+    "op": [
+        "4",
+        "2",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-06-29T02:24:38.767412+00:00"
+},
+{
+    "id": 25717,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A protocol used to deliver audio/ video over IP network is known as ____________",
+    "op": [
+        "Real-time transmission Protocol",
+        "Real – time translation Protocol",
+        "Real-time transfer Protocol",
+        "Real-time Transport Protocol"
+    ],
+    "created_at": "2026-06-29T02:41:32.294147+00:00"
+},
+{
+    "id": 25777,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "LAN suffers from exceeding utilization in _______",
+    "op": [
+        "switch-to-switch",
+        "IP-to-IP",
+        "MAC-to-IP",
+        "Router-to-router"
+    ],
+    "created_at": "2026-06-29T02:55:58.640632+00:00"
+},
+{
+    "id": 25813,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An attempt to make a machine or network resource unavailable to its intended users is known as _________",
+    "op": [
+        "DoS Attack",
+        "Worm Attack",
+        "Sniffer Attack",
+        "Spoofing"
+    ],
+    "created_at": "2026-06-29T03:09:03.649518+00:00"
+},
+{
+    "id": 25987,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________can be improved by holding the average response time constant",
+    "op": [
+        "Extensibility",
+        "Maintainability",
+        "Manageability",
+        "Efficiency"
+    ],
+    "created_at": "2026-06-29T03:48:58.225659+00:00"
+},
+{
+    "id": 26195,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Static Window Modeling, Delay is ---------------",
+    "op": [
+        "4RTT + O/R",
+        "1RTT + O/R",
+        "3RTT + O/R",
+        "2RTT + O/R"
+    ],
+    "created_at": "2026-06-29T04:53:29.925715+00:00"
+},
+{
+    "id": 26547,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "HTTP ___ is persistent by default",
+    "op": [
+        "2.0",
+        "2.1",
+        "1.0",
+        "1.1"
+    ],
+    "created_at": "2026-06-29T06:43:45.544912+00:00"
+},
+{
+    "id": 47616,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "MTTSO is abbreviated for____________",
+    "op": [
+        "Mean time to recover from service outage",
+        "Minimum time to recover from service outage",
+        "Maximum time to recover from service outage",
+        "Mean time to recover from server outage"
+    ],
+    "created_at": "2026-07-05T19:04:15.347713+00:00"
+},
+{
+    "id": 47635,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ Step is not included in Step wise approach to measure downtime",
+    "op": [
+        "Calculate cost",
+        "Identify Business Continuity Components",
+        "Simulate the outcome",
+        "Define What You Protect"
+    ],
+    "created_at": "2026-07-05T19:04:26.263086+00:00"
+},
+{
+    "id": 47654,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The difference in the assumption between MTTF and MTBF is ______________",
+    "op": [
+        "Replace vs.  repair the system",
+        "Repair vs. repair the system",
+        "Repair vs. replace the system",
+        "Replace vs. replace the system"
+    ],
+    "created_at": "2026-07-05T19:04:38.245333+00:00"
+},
+{
+    "id": 47693,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The “2-3-4” rule is used for Easy Math__________",
+    "op": [
+        "Spelling",
+        "Reading",
+        "Formulism",
+        "Writing"
+    ],
+    "created_at": "2026-07-05T19:05:03.836922+00:00"
+},
+{
+    "id": 47722,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Easy Math writing rule “2-3-4” the number 3 represents more than 3________",
+    "op": [
+        "Statements",
+        "Lines",
+        "Verbs",
+        "Nouns"
+    ],
+    "created_at": "2026-07-05T19:05:21.866456+00:00"
+},
+{
+    "id": 47928,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ is a measurement of cost that the system is able to pay for services that it received.",
+    "op": [
+        "Availability",
+        "Affordability",
+        "Performance",
+        "Manageability"
+    ],
+    "created_at": "2026-07-05T19:07:55.181452+00:00"
+},
+{
+    "id": 47956,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Unplanned expansion causes performance ______________",
+    "op": [
+        "Degradation",
+        "Enhanced",
+        "Better",
+        "Upgradation"
+    ],
+    "created_at": "2026-07-05T19:08:23.463501+00:00"
+},
+{
+    "id": 48314,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Some design decisions have a __________affect on usability",
+    "op": [
+        "Negative",
+        "Moderate",
+        "Pleasant",
+        "Positive"
+    ],
+    "created_at": "2026-07-05T19:13:06.310982+00:00"
+},
+{
+    "id": 48911,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "80% of available resources restore ________ systems, applications, and data",
+    "op": [
+        "20 %",
+        "80%",
+        "10 %",
+        "50 %"
+    ],
+    "created_at": "2026-07-05T19:24:28.358409+00:00"
+},
+{
+    "id": 48957,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Easy Math writing rule “2-3-4” the number 2 represents more than 2________",
+    "op": [
+        "Sentences",
+        "Lines",
+        "Words",
+        "Strings"
+    ],
+    "created_at": "2026-07-05T19:26:01.096829+00:00"
+},
+{
+    "id": 50397,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ is the degree to which a system, subsystem or equipment is in a specified operable and committable state",
+    "op": [
+        "Availability",
+        "Usability",
+        "Reliability",
+        "Scalability"
+    ],
+    "created_at": "2026-07-05T20:55:20.948084+00:00"
+},
+{
+    "id": 50472,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "MTBSO is abbreviated from __________",
+    "op": [
+        "Minimum time between service outage",
+        "Mean time between server outlets",
+        "Mean time between service outage",
+        "Main time between service outage"
+    ],
+    "created_at": "2026-07-05T21:12:27.212096+00:00"
+},
+{
+    "id": 50473,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "MTBF with MTTR helps to assess frequency and _________",
+    "op": [
+        "life of server output",
+        "length of service output",
+        "life of service outage",
+        "length of service outage"
+    ],
+    "created_at": "2026-07-05T21:12:35.207243+00:00"
+},
+{
+    "id": 50476,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Easy Math writing rule “2-3-4” the number 4 represents more than 4________",
+    "op": [
+        "Verbs",
+        "Words",
+        "Sentences",
+        "Adjectives"
+    ],
+    "created_at": "2026-07-05T21:13:26.586649+00:00"
+},
+{
+    "id": 51671,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Availability can be computed with the formula _____________",
+    "op": [
+        "MTTR /(MTBF + MTBF)",
+        "MTBF/(MTBF * MTTR)",
+        "MTBF/(MTBF - MTTR)",
+        "MTBF/(MTBF + MTTR)"
+    ],
+    "created_at": "2026-07-06T02:06:45.603554+00:00"
+},
+{
+    "id": 51691,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The value of a typical MTBF  is once per_________",
+    "op": [
+        "4000 sec",
+        "4000 hrs",
+        "400 hrs",
+        "4000 min"
+    ],
+    "created_at": "2026-07-06T02:10:34.764643+00:00"
+},
+{
+    "id": 52726,
+    "cc": "CS432",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Community value of a network grows as the _________ of the number of its users",
+    "op": [
+        "Cube",
+        "Square",
+        "Subtraction",
+        "Addition"
+    ],
+    "created_at": "2026-07-06T05:15:31.654004+00:00"
+},
+{
+    "id": 64575,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "INETMANET is a mobile ad-hoc network written and maintained by _____________",
+    "op": [
+        "NASA",
+        "OMNET++ team",
+        "Alfonso Ariza",
+        "NETCAD"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64576,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "OMNET++ allows visualizing outputs of_____________files",
+    "op": [
+        "Float and binary",
+        "Scalar and vector",
+        "Integer and binary",
+        "Character and string"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64577,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "One rule of mathematical reading is \"Always learn what the formula will give you and the ___________.\"",
+    "op": [
+        "Conditions",
+        "Output",
+        "Result",
+        "Input"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64578,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "The “Compute Scalars” can be computed from other scalar in the __________",
+    "op": [
+        "Library",
+        "Scalars",
+        "Vectors",
+        "Dataset"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64579,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "CASTALIA simulation model is used for_____________embedded devices",
+    "op": [
+        "Solar power",
+        "Average power",
+        "Low power",
+        "High power"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64580,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "Veins is a______________simulation model",
+    "op": [
+        "Seaway traffic",
+        "Road traffic",
+        "Air traffic",
+        "Train traffic"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64582,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "The total number of bytes received in the network is represented with_____________",
+    "op": [
+        "total(rcvdByteCount)",
+        "func(rcvdByteCount)",
+        "add(rcvdByteCount)",
+        "sum(rcvdByteCount)"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64583,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "The___________is the extension for Analysis file",
+    "op": [
+        ".anf",
+        ".cc",
+        ".ned",
+        ".ini"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+},
+{
+    "id": 64598,
+    "cc": "CS432",
+    "qn": "3",
+    "dt": "29 December 2025",
+    "qt": "Two-way connections can ______________coding size",
+    "op": [
+        "Increase",
+        "Un-stabilize",
+        "Maintain",
+        "Reduce"
+    ],
+    "created_at": "2026-07-15T13:27:10.856461+00:00"
+}
+]

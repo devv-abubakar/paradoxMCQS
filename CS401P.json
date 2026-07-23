@@ -1,0 +1,1300 @@
+[
+    {
+        "id": 9777,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How is the screen location calculated (in the context of display memory formation)?",
+        "op": [
+            "Multiplying row number by 80 and adding column number",
+            "Dividing row and column numbers",
+            "Adding row and column numbers",
+            "Using the MUL instruction"
+        ],
+        "created_at": "2026-06-21T19:22:30.063239+00:00"
+    },
+    {
+        "id": 9784,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What does the attribute byte in the word designated for one screen location hold?",
+        "op": [
+            "Video controller instructions",
+            "ASCII code for the character",
+            "Cursor height information",
+            "Foreground and background colors"
+        ],
+        "created_at": "2026-06-21T19:22:50.859021+00:00"
+    },
+    {
+        "id": 9790,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "Which of following interrupt is used for BIOS Video Services",
+        "op": [
+            "0x13",
+            "0x10",
+            "0x16",
+            "0x21"
+        ],
+        "created_at": "2026-06-21T19:23:03.864939+00:00"
+    },
+    {
+        "id": 9794,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How is the video device perceived by the computer in terms of memory?",
+        "op": [
+            "Independent of system memory",
+            "Only accessible through I/O ports",
+            "Two-dimensional space with ASCII codes",
+            "Linearly mapped memory"
+        ],
+        "created_at": "2026-06-21T19:23:15.911754+00:00"
+    },
+    {
+        "id": 9820,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "Service numbers are given in ________ register while sub services in ________",
+        "op": [
+            "AH, AL or BL",
+            "Ax, Bx",
+            "Al, Ah or ax",
+            "AX, Al or Ah"
+        ],
+        "created_at": "2026-06-21T19:24:53.044189+00:00"
+    },
+    {
+        "id": 9862,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What effect does setting bit 7 in the attribute byte have on the foreground character (in the context of display memory)?",
+        "op": [
+            "Clears the screen",
+            "Initiates blinking",
+            "Intensity of foreground color",
+            "Changes background color"
+        ],
+        "created_at": "2026-06-21T19:26:38.098904+00:00"
+    },
+    {
+        "id": 9864,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "While displaying something on screen, why is ES loaded with the segment of video memory?",
+        "op": [
+            "To open a window to the video memory",
+            "To access data",
+            "To manipulate ASCII codes",
+            "To control cursor position"
+        ],
+        "created_at": "2026-06-21T19:26:48.404678+00:00"
+    },
+    {
+        "id": 9871,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What is the significance of the memory location B8000 in the context of Display Memory?",
+        "op": [
+            "BIOS vendor's problem location",
+            "Segment register for accessing video memory",
+            "Physical memory location for video controller's memory",
+            "Default cursor position"
+        ],
+        "created_at": "2026-06-21T19:27:04.289458+00:00"
+    },
+    {
+        "id": 9874,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What is the purpose of sending 0x40 to the VGA card in the context of display memory formation?",
+        "op": [
+            "Change cursor position",
+            "Set resolution",
+            "Clear the screen",
+            "Turn pixels on and off"
+        ],
+        "created_at": "2026-06-21T19:27:11.294499+00:00"
+    },
+    {
+        "id": 10091,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How many I/O Ports are there?",
+        "op": [
+            "65536",
+            "65524",
+            "65548",
+            "65520"
+        ],
+        "created_at": "2026-06-21T19:45:05.286601+00:00"
+    },
+    {
+        "id": 21265,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of following jump would perform better to sort the signed numbers?",
+        "op": [
+            "jz",
+            "jcx",
+            "jge",
+            "jle"
+        ],
+        "created_at": "2026-06-24T19:10:31.441243+00:00"
+    },
+    {
+        "id": 21266,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "RET pops the ______ at the top of the stack into the instruction pointer and increments SP by ________.",
+        "op": [
+            "byte, one",
+            "word, one",
+            "word, two",
+            "byte, two"
+        ],
+        "created_at": "2026-06-24T19:10:56.760424+00:00"
+    },
+    {
+        "id": 21267,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "mov byte [swap], 0 What would happen if we dont use the keyword byte or word before the operand?",
+        "op": [
+            "Its good to use, otherwise size mismatch error may occur",
+            "Nothing will happen, program will run smoothly all the time",
+            "Nothing will happen but its good practice to use theses keywords",
+            "Its useless to use these keywords"
+        ],
+        "created_at": "2026-06-24T19:11:11.410873+00:00"
+    },
+    {
+        "id": 21268,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "REP with _____will utilizes the full processor power to do the scrolling in minimum time",
+        "op": [
+            "SCAS",
+            "LES",
+            "MOVS",
+            "REPNE"
+        ],
+        "created_at": "2026-06-24T19:11:12.353609+00:00"
+    },
+    {
+        "id": 21269,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Far calls are also called ______________ calls.",
+        "op": [
+            "inter segment",
+            "obscure",
+            "intra segment",
+            "distant"
+        ],
+        "created_at": "2026-06-24T19:11:24.920197+00:00"
+    },
+    {
+        "id": 21270,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "The execution of the instruction \"mov word [ES : 160], 0x1230\" will print a character on the screen at:",
+        "op": [
+            "Second column of first row",
+            "First column of second row",
+            "Second column of second row",
+            "First column of third row"
+        ],
+        "created_at": "2026-06-24T19:11:25.801644+00:00"
+    },
+    {
+        "id": 21272,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "When all the general registers are used then a subroutine can receive maximum _____ parameters.",
+        "op": [
+            "5",
+            "7",
+            "6",
+            "4"
+        ],
+        "created_at": "2026-06-24T19:11:39.650021+00:00"
+    },
+    {
+        "id": 21273,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Shift Arithmetic Left (SAL) can also be called as",
+        "op": [
+            "Rotate Left",
+            "Shift Logical Right",
+            "Shift Logical Left",
+            "Rotate right"
+        ],
+        "created_at": "2026-06-24T19:11:40.217769+00:00"
+    },
+    {
+        "id": 21274,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following statement best describes the Shift Logical Right (SHR) operation?",
+        "op": [
+            "The Right most bit is transferred to AX",
+            "Inserts a zero from right and moves every bit one position to the left",
+            "The Left most bit is transferred to AX",
+            "Inserts a zero from left and moves every bit one position to the right"
+        ],
+        "created_at": "2026-06-24T19:11:57.017136+00:00"
+    },
+    {
+        "id": 21275,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "The ____ shifting is achieved by multiplying the number by 2.",
+        "op": [
+            "Left",
+            "Right"
+        ],
+        "created_at": "2026-06-24T19:12:06.005319+00:00"
+    },
+    {
+        "id": 21276,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "The last location of word, corresponding to the screen will be ______",
+        "op": [
+            "3998",
+            "1998",
+            "2000",
+            "4000"
+        ],
+        "created_at": "2026-06-24T19:12:12.096314+00:00"
+    },
+    {
+        "id": 21277,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "0x represents",
+        "op": [
+            "Hexadecimal Numbers",
+            "Decimal Numbers",
+            "0 Based Numbers",
+            "Binary Number"
+        ],
+        "created_at": "2026-06-24T19:12:25.200903+00:00"
+    },
+    {
+        "id": 21278,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "If operand is 16bits in DIV instruction then dividend will be ____",
+        "op": [
+            "32-bits",
+            "8-bits",
+            "64-bits",
+            "16-bits"
+        ],
+        "created_at": "2026-06-24T19:12:25.573974+00:00"
+    },
+    {
+        "id": 21279,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "mov byte [swap], 0 What does above code do?",
+        "op": [
+            "It simply stores the 0 value to location named as swap",
+            "It stores the byte value of 0 to location named as swap",
+            "It stores the byte value of 0 to location named as byte",
+            "It simply stores the 0 value to location named as byte"
+        ],
+        "created_at": "2026-06-24T19:12:31.491701+00:00"
+    },
+    {
+        "id": 21293,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "SP is decremented by ___________ when an element is pushed on the stack.",
+        "op": [
+            "4",
+            "1",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-06-24T19:25:44.815647+00:00"
+    },
+    {
+        "id": 21296,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "To access the video memory ______register is used.",
+        "op": [
+            "DI",
+            "ES",
+            "BH",
+            "AX"
+        ],
+        "created_at": "2026-06-24T19:26:03.111688+00:00"
+    },
+    {
+        "id": 21297,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "REPE repeat the following string instruction while the _______is set.",
+        "op": [
+            "Direction flag",
+            "Zero flag",
+            "Carry flag",
+            "Parity flag"
+        ],
+        "created_at": "2026-06-24T19:26:11.550868+00:00"
+    },
+    {
+        "id": 21298,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Near Calls are also called __________.",
+        "op": [
+            "Close call",
+            "intra segment",
+            "inter segment",
+            "Small call"
+        ],
+        "created_at": "2026-06-24T19:26:37.254928+00:00"
+    },
+    {
+        "id": 21301,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "In string instructions, the mode is called auto-decrement mode when:",
+        "op": [
+            "DF is cleared",
+            "CX is set",
+            "ZF is cleared",
+            "DF is set"
+        ],
+        "created_at": "2026-06-24T19:29:55.166105+00:00"
+    },
+    {
+        "id": 21302,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following is base address for displaying any character in the Screen?",
+        "op": [
+            "0b800",
+            "0b800x",
+            "0xb80",
+            "0xb800"
+        ],
+        "created_at": "2026-06-24T19:30:06.661055+00:00"
+    },
+    {
+        "id": 21303,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "What would happen after execution of the following instructions? mov [vuid+di+2], [vuid+di] mov [vuid+di], [vuid+di+2]",
+        "op": [
+            "It will swap digit of location named as vuid with its previous digit",
+            "This will cause error",
+            "Same value will be copied to both locations",
+            "It will swap digit of location named as vuid with its next digit"
+        ],
+        "created_at": "2026-06-24T19:30:17.981529+00:00"
+    },
+    {
+        "id": 21310,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "The value of ____________ is recovered from the stack when RET instruction is executed.",
+        "op": [
+            "PC",
+            "SP",
+            "IP",
+            "DS"
+        ],
+        "created_at": "2026-06-24T19:31:56.071999+00:00"
+    },
+    {
+        "id": 21311,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Our computers screen is like a 2-D array having __________ rows and __________ columns.",
+        "op": [
+            "25, 40",
+            "40, 25",
+            "25, 80",
+            "80, 25"
+        ],
+        "created_at": "2026-06-24T19:32:08.655029+00:00"
+    },
+    {
+        "id": 21315,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "VGA stands for",
+        "op": [
+            "Video Graphics Adapter",
+            "Video Graphic Accumulator",
+            "Video Graphics Application",
+            "Visual Graphics Adapter"
+        ],
+        "created_at": "2026-06-24T19:34:53.174499+00:00"
+    },
+    {
+        "id": 21316,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "In the assembly language program, when using div instruction, dividend is stored in ____",
+        "op": [
+            "Operand placed with div instruction",
+            "DI",
+            "AX",
+            "BX"
+        ],
+        "created_at": "2026-06-24T19:36:05.892297+00:00"
+    },
+    {
+        "id": 21323,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "MOV AX, 0XB800 MOV ES, AX ; This instruction points ES to_______.",
+        "op": [
+            "graphics base",
+            "numeric base",
+            "audio base",
+            "video base"
+        ],
+        "created_at": "2026-06-24T19:48:02.727797+00:00"
+    },
+    {
+        "id": 21364,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "MOVS instruction is used to ____________",
+        "op": [
+            "Move register to a memory location",
+            "Move a memory location to register",
+            "Move memory to memory",
+            "Move register to register"
+        ],
+        "created_at": "2026-06-24T20:48:32.471093+00:00"
+    },
+    {
+        "id": 21369,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "In string instructions, the mode is called auto-increment mode when:",
+        "op": [
+            "DF is set",
+            "CX is set",
+            "DF is cleared",
+            "ZF is cleared"
+        ],
+        "created_at": "2026-06-24T21:22:37.782788+00:00"
+    },
+    {
+        "id": 23604,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "DB-25 is a _______________ port connector.",
+        "op": [
+            "partially serial",
+            "half duplex",
+            "serial",
+            "parallel"
+        ],
+        "created_at": "2026-06-28T19:10:06.825857+00:00"
+    },
+    {
+        "id": 23616,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Let's assume that location A in memory has 0000 bits. What will be the result when XOR operation is performed between A and A (A XOR A)?",
+        "op": [
+            "1",
+            "0",
+            "11",
+            "10"
+        ],
+        "created_at": "2026-06-28T19:10:16.257588+00:00"
+    },
+    {
+        "id": 23627,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Which of following pins of parallel port are used to carry the data from processor to the device connected through parallel port?",
+        "op": [
+            "pin 2 to pin 9",
+            "pin 10",
+            "pin 4",
+            "pin 18 to pin 25"
+        ],
+        "created_at": "2026-06-28T19:10:24.049629+00:00"
+    },
+    {
+        "id": 23636,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "The default source location for both LODS and MOVS instruction is ______.",
+        "op": [
+            "BP:ES",
+            "CS:IP",
+            "DS:SI",
+            "AX:SI"
+        ],
+        "created_at": "2026-06-28T19:10:33.323216+00:00"
+    },
+    {
+        "id": 23646,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Using OUT instruction on data port (378), 1 bits result in a ___________ signal on the corresponding pin.",
+        "op": [
+            "10V",
+            "1V",
+            "5V",
+            "3V"
+        ],
+        "created_at": "2026-06-28T19:10:43.941395+00:00"
+    },
+    {
+        "id": 24060,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "To return back from the Interrupt Service Routine to position from where ISR was called, which of the following instruction is used?",
+        "op": [
+            "retf",
+            "iret",
+            "retn",
+            "ret"
+        ],
+        "created_at": "2026-06-28T19:22:42.1777+00:00"
+    },
+    {
+        "id": 24069,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Which of following IO port is used to send an EOI signal to PIC?",
+        "op": [
+            "0x23",
+            "0x20",
+            "0x21",
+            "0x22"
+        ],
+        "created_at": "2026-06-28T19:22:56.431587+00:00"
+    },
+    {
+        "id": 24090,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Which assembly language instruction is used to enable the interrupt requests?",
+        "op": [
+            "sti",
+            "cli",
+            "dit",
+            "eit"
+        ],
+        "created_at": "2026-06-28T19:23:50.328475+00:00"
+    },
+    {
+        "id": 24118,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "Every String Instruction in iAPX88 architecture has ____ variants.",
+        "op": [
+            "8",
+            "2",
+            "4",
+            "16"
+        ],
+        "created_at": "2026-06-28T19:24:53.496568+00:00"
+    },
+    {
+        "id": 24123,
+        "cc": "CS401P",
+        "qn": "10",
+        "dt": "29 June 2026",
+        "qt": "If ________ is set, then after every instruction a type 1 interrupt will automatically be generated.",
+        "op": [
+            "Overflow flag",
+            "Trap flag",
+            "Parity flag",
+            "Carry flag"
+        ],
+        "created_at": "2026-06-28T19:25:16.130509+00:00"
+    },
+    {
+        "id": 36556,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "mov ax,2 push ax pop bx add bx,ax at the end of execution of above code, what will be value in ax?",
+        "op": [
+            "1",
+            "0",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-07-01T19:02:02.234448+00:00"
+    },
+    {
+        "id": 36560,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "In iAPX88 architecture, the DOS Interrupt Vector Table resides at _____ memory location.",
+        "op": [
+            "8",
+            "4",
+            "2",
+            "0"
+        ],
+        "created_at": "2026-07-01T19:02:12.085476+00:00"
+    },
+    {
+        "id": 36562,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which IO port is used to scan the code of key pressed on the keyboard?",
+        "op": [
+            "0x62",
+            "0x60",
+            "0x61",
+            "0x63"
+        ],
+        "created_at": "2026-07-01T19:02:20.459212+00:00"
+    },
+    {
+        "id": 36563,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "When ret function is called SP is ______ by _____",
+        "op": [
+            "Decremented, 2",
+            "Incremented, 1",
+            "Incremented, 2",
+            "Deceremented 1"
+        ],
+        "created_at": "2026-07-01T19:02:29.371438+00:00"
+    },
+    {
+        "id": 36566,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "What is the purpose of ports 20 and 21 in the Programmable Interrupt Controller (PIC)?",
+        "op": [
+            "Port 20 is for keyboard input, and port 21 is for mouse input.",
+            "Port 20 is the interrupt mask register, and port 21 is the control port.",
+            "Port 20 is for sound card communication, and port 21 is for network card communication.",
+            "Port 20 and port 21 both serve as control ports for the PIC."
+        ],
+        "created_at": "2026-07-01T19:02:47.064701+00:00"
+    },
+    {
+        "id": 36588,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Stack behaves as",
+        "op": [
+            "First in Last out",
+            "First in First Out",
+            "Last In First Out",
+            "Last in Last out"
+        ],
+        "created_at": "2026-07-01T19:04:00.09796+00:00"
+    },
+    {
+        "id": 36636,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "IRET returns on the basis of ________ and __________.",
+        "op": [
+            "CS, SS",
+            "CS, IP",
+            "DS, IP",
+            "IP, SP"
+        ],
+        "created_at": "2026-07-01T19:05:11.364887+00:00"
+    },
+    {
+        "id": 36668,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "SP register points to_______.",
+        "op": [
+            "Bottom of stack",
+            "Top of stack",
+            "Highest limit of stack",
+            "Current item of stack"
+        ],
+        "created_at": "2026-07-01T19:07:26.735363+00:00"
+    },
+    {
+        "id": 36672,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The_______ bit tells that this is a system descriptor while the 1110 following it tells that it is a 386 interrupt gate.",
+        "op": [
+            "O",
+            "S",
+            "T",
+            "P"
+        ],
+        "created_at": "2026-07-01T19:07:38.011329+00:00"
+    },
+    {
+        "id": 36724,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Each entry of the interrupt vector table is of __________ bytes.",
+        "op": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "created_at": "2026-07-01T19:11:32.353828+00:00"
+    },
+    {
+        "id": 36742,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "__________ interrupt is used for Arithmetic overflow.",
+        "op": [
+            "INT 4",
+            "INT 7",
+            "INT 8",
+            "INT 6"
+        ],
+        "created_at": "2026-07-01T19:12:20.686714+00:00"
+    },
+    {
+        "id": 36757,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Whenever ret function is called",
+        "op": [
+            "nothing happens in stack",
+            "Stack is pulled",
+            "Stack is cleared",
+            "Stack is pushed"
+        ],
+        "created_at": "2026-07-01T19:14:18.910615+00:00"
+    },
+    {
+        "id": 36785,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "If a _____ stack starts at location 8, the first item pushed on it will be placed at location 8, the second element will be placed at location 7 and so on.",
+        "op": [
+            "Decrementing",
+            "Incrementing"
+        ],
+        "created_at": "2026-07-01T19:15:58.467702+00:00"
+    },
+    {
+        "id": 36793,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "In interrupt masking, We use ________ to get control from the program without letting the program know about it.",
+        "op": [
+            "IRQ 0",
+            "IRQ 1",
+            "IRQ 2",
+            "IRQ 3"
+        ],
+        "created_at": "2026-07-01T19:16:36.110481+00:00"
+    },
+    {
+        "id": 36805,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Whenever an element is pushed on the Stack, _____ register is decremented by 2.",
+        "op": [
+            "BP",
+            "CS",
+            "IP",
+            "SP"
+        ],
+        "created_at": "2026-07-01T19:19:19.11994+00:00"
+    },
+    {
+        "id": 36812,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which register will be on the top of the stack after execution of the following assembly code? push ax push cx push bx pull ax pull dx",
+        "op": [
+            "BX",
+            "AX",
+            "DX",
+            "CX"
+        ],
+        "created_at": "2026-07-01T19:20:16.195321+00:00"
+    },
+    {
+        "id": 36873,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "How many possible I/O ports are there in the Intel architecture when using the lower 16 bits of the address bus?",
+        "op": [
+            "256",
+            "65536",
+            "1024",
+            "512"
+        ],
+        "created_at": "2026-07-01T19:30:50.01828+00:00"
+    },
+    {
+        "id": 36882,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "____________ is the highest priority interrupt in interrupt controller.",
+        "op": [
+            "IRQ 2",
+            "IRQ 1",
+            "IRQ 3",
+            "IRQ 0"
+        ],
+        "created_at": "2026-07-01T19:33:00.436975+00:00"
+    },
+    {
+        "id": 36890,
+        "cc": "CS401P",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Changing and restoring the state of Central Processing Unit (CPU) is referred as:",
+        "op": [
+            "Multitasking",
+            "Multithreading",
+            "Context Switching",
+            "Thrashing"
+        ],
+        "created_at": "2026-07-01T19:38:38.260576+00:00"
+    },
+    {
+        "id": 42569,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "23 June 2026",
+        "qt": "What effect does setting bit 7 in the attribute byte have on the foreground character (in the context of display memory)?",
+        "op": [
+            "Changes background color",
+            "Intensity of foreground color",
+            "Clears the screen",
+            "Initiates blinking"
+        ],
+        "created_at": "2026-06-23T18:31:16.426078+00:00"
+    },
+    {
+        "id": 42570,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How is the screen location calculated (in the context of display memory formation)?",
+        "op": [
+            "Using the MUL instruction",
+            "Dividing row and column numbers",
+            "Multiplying row number by 80 and adding column number",
+            "Adding row and column numbers"
+        ],
+        "created_at": "2026-06-22T07:22:29.706389+00:00"
+    },
+    {
+        "id": 42571,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What does the attribute byte in the word designated for one screen location hold?",
+        "op": [
+            "Cursor height information",
+            "Foreground and background colors",
+            "Video controller instructions",
+            "ASCII code for the character"
+        ],
+        "created_at": "2026-06-22T07:22:41.240645+00:00"
+    },
+    {
+        "id": 42572,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How many I/O Ports are there?",
+        "op": [
+            "65536",
+            "65548",
+            "65520",
+            "65524"
+        ],
+        "created_at": "2026-06-22T07:22:50.579919+00:00"
+    },
+    {
+        "id": 42573,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "While displaying something on screen, why is ES loaded with the segment of video memory?",
+        "op": [
+            "To manipulate ASCII codes",
+            "To open a window to the video memory",
+            "To control cursor position",
+            "To access data"
+        ],
+        "created_at": "2026-06-22T07:23:02.313721+00:00"
+    },
+    {
+        "id": 42574,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What is the significance of the memory location B8000 in the context of Display Memory?",
+        "op": [
+            "BIOS vendor's problem location",
+            "Physical memory location for video controller's memory",
+            "Segment register for accessing video memory",
+            "Default cursor position"
+        ],
+        "created_at": "2026-06-22T07:23:13.186025+00:00"
+    },
+    {
+        "id": 42575,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "Which of following interrupt is used for BIOS Video Services",
+        "op": [
+            "0x21",
+            "0x13",
+            "0x16",
+            "0x10"
+        ],
+        "created_at": "2026-06-22T07:27:08.60114+00:00"
+    },
+    {
+        "id": 42576,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "How is the video device perceived by the computer in terms of memory?",
+        "op": [
+            "Only accessible through I/O ports",
+            "Independent of system memory",
+            "Linearly mapped memory",
+            "Two-dimensional space with ASCII codes"
+        ],
+        "created_at": "2026-06-22T07:27:18.555047+00:00"
+    },
+    {
+        "id": 42577,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "Service numbers are given in ________ register while sub services in ________",
+        "op": [
+            "AX, Al or Ah",
+            "Al, Ah or ax",
+            "Ax, Bx",
+            "AH, AL or BL"
+        ],
+        "created_at": "2026-06-22T07:28:49.971213+00:00"
+    },
+    {
+        "id": 42578,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What is the purpose of sending 0x40 to the VGA card in the context of display memory formation?",
+        "op": [
+            "Change cursor position",
+            "Clear the screen",
+            "Set resolution",
+            "Turn pixels on and off"
+        ],
+        "created_at": "2026-06-22T12:32:18.787276+00:00"
+    },
+    {
+        "id": 42579,
+        "cc": "CS401P",
+        "qn": "9",
+        "dt": "22 June 2026",
+        "qt": "What is the purpose of the MUL instruction in the context of display memory?",
+        "op": [
+            "Controls cursor attributes",
+            "Clears the screen",
+            "Multiplies ASCII codes",
+            "Performs unsigned multiplication"
+        ],
+        "created_at": "2026-06-22T12:36:26.608575+00:00"
+    },
+    {
+        "id": 42580,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "REP with _____will utilizes the full processor power to do the scrolling in minimum time",
+        "op": [
+            "REPNE",
+            "SCAS",
+            "LES",
+            "MOVS"
+        ],
+        "created_at": "2026-06-27T11:41:51.581513+00:00"
+    },
+    {
+        "id": 42581,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "In string instructions, the mode is called auto-decrement mode when:",
+        "op": [
+            "DF is set",
+            "ZF is cleared",
+            "DF is cleared",
+            "CX is set"
+        ],
+        "created_at": "2026-06-27T11:42:16.759215+00:00"
+    },
+    {
+        "id": 42582,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "MOVS instruction is used to ____________",
+        "op": [
+            "Move register to a memory location",
+            "Move a memory location to register",
+            "Move memory to memory",
+            "Move register to register"
+        ],
+        "created_at": "2026-06-27T11:42:53.30565+00:00"
+    },
+    {
+        "id": 42583,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is base address for displaying any character in the Screen?",
+        "op": [
+            "0b800x",
+            "0xb800",
+            "0b800",
+            "0xb80"
+        ],
+        "created_at": "2026-06-27T11:43:24.244785+00:00"
+    },
+    {
+        "id": 42584,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Near Calls are also called __________.",
+        "op": [
+            "Small call",
+            "Close call",
+            "intra segment",
+            "inter segment"
+        ],
+        "created_at": "2026-06-27T11:43:45.662501+00:00"
+    },
+    {
+        "id": 42585,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "MOV AX, 0XB800 MOV ES, AX ; This instruction points ES to_______.",
+        "op": [
+            "graphics base",
+            "audio base",
+            "numeric base",
+            "video base"
+        ],
+        "created_at": "2026-06-27T11:44:11.288845+00:00"
+    },
+    {
+        "id": 42586,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The execution of the instruction \"mov word [ES : 160], 0x1230\" will print a character on the screen at:",
+        "op": [
+            "First column of third row",
+            "Second column of second row",
+            "First column of second row",
+            "Second column of first row"
+        ],
+        "created_at": "2026-06-27T11:44:29.833103+00:00"
+    },
+    {
+        "id": 42587,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Far calls are also called ______________ calls.",
+        "op": [
+            "obscure",
+            "inter segment",
+            "intra segment",
+            "distant"
+        ],
+        "created_at": "2026-06-27T11:45:13.265378+00:00"
+    },
+    {
+        "id": 42588,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "VGA stands for",
+        "op": [
+            "Video Graphics Application",
+            "Visual Graphics Adapter",
+            "Video Graphic Accumulator",
+            "Video Graphics Adapter"
+        ],
+        "created_at": "2026-06-27T11:45:45.358102+00:00"
+    },
+    {
+        "id": 42589,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Shift Arithmetic Left (SAL) can also be called as",
+        "op": [
+            "Shift Logical Left",
+            "Rotate right",
+            "Rotate Left",
+            "Shift Logical Right"
+        ],
+        "created_at": "2026-06-27T11:46:11.272384+00:00"
+    },
+    {
+        "id": 42590,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The last location of word, corresponding to the screen will be ______",
+        "op": [
+            "4000",
+            "1998",
+            "2000",
+            "3998"
+        ],
+        "created_at": "2026-06-27T18:40:07.410488+00:00"
+    },
+    {
+        "id": 42591,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "When all the general registers are used then a subroutine can receive maximum _____ parameters.",
+        "op": [
+            "6",
+            "7",
+            "5",
+            "4"
+        ],
+        "created_at": "2026-06-27T18:40:25.90589+00:00"
+    },
+    {
+        "id": 42592,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "0x represents",
+        "op": [
+            "Decimal Numbers",
+            "0 Based Numbers",
+            "Hexadecimal Numbers",
+            "Binary Number"
+        ],
+        "created_at": "2026-06-27T18:40:48.487496+00:00"
+    },
+    {
+        "id": 42593,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "mov byte [swap], 0 What would happen if we dont use the keyword byte or word before the operand?",
+        "op": [
+            "Its good to use, otherwise size mismatch error may occur",
+            "Nothing will happen, program will run smoothly all the time",
+            "Its useless to use these keywords",
+            "Nothing will happen but its good practice to use theses keywords"
+        ],
+        "created_at": "2026-06-27T18:41:12.75263+00:00"
+    },
+    {
+        "id": 42594,
+        "cc": "CS401P",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "mov byte [swap], 0 What does above code do?",
+        "op": [
+            "It stores the byte value of 0 to location named as swap",
+            "It simply stores the 0 value to location named as swap",
+            "It stores the byte value of 0 to location named as byte",
+            "It simply stores the 0 value to location named as byte"
+        ],
+        "created_at": "2026-06-27T18:41:22.086846+00:00"
+    }
+]

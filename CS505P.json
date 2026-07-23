@@ -1,0 +1,1416 @@
+[
+    {
+        "id": 8881,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "Which hypervisor is known to prioritize performance-critical workloads over security?",
+        "op": [
+            "VMware vSphere",
+            "Microsoft Hyper-V",
+            "Citrix XenServer",
+            "Oracle VirtualBox"
+        ],
+        "created_at": "2026-06-20T19:22:21.35478+00:00"
+    },
+    {
+        "id": 8883,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "Which type of hypervisor is more suitable for non-resource-intensive applications where high performance is not a critical requirement?",
+        "op": [
+            "Type 1",
+            "Type 2",
+            "Type 3",
+            "Type 4"
+        ],
+        "created_at": "2026-06-20T19:22:31.064754+00:00"
+    },
+    {
+        "id": 8884,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "What is the first step in creating a virtual machine (VM) using a Type 2 Hypervisor?",
+        "op": [
+            "Install the Type 2 Hypervisor on the host operating system",
+            "Allocate resources such as CPU, memory, and storage to the VM",
+            "Configure network settings for the VM",
+            "Create a virtual hard disk for the VM"
+        ],
+        "created_at": "2026-06-20T19:22:39.912672+00:00"
+    },
+    {
+        "id": 8885,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "Which file format is commonly used to store virtual machine images in a Type 2 Hypervisor?",
+        "op": [
+            "VDI (VirtualBox Disk Image)",
+            "VHDX (Virtual Hard Disk)",
+            "ISO (Disk Image)",
+            "VMDK (Virtual Machine Disk)"
+        ],
+        "created_at": "2026-06-20T19:22:44.792452+00:00"
+    },
+    {
+        "id": 8890,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "What is the main advantage of using a Type-2 hypervisor?",
+        "op": [
+            "Lower cost compared to Type-1 hypervisors",
+            "Enhanced security and isolation between virtual machines",
+            "Flexibility to run multiple operating systems on a single machine",
+            "Higher performance for resource-intensive workloads"
+        ],
+        "created_at": "2026-06-20T19:37:28.104229+00:00"
+    },
+    {
+        "id": 8891,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "What is the primary advantage of a Type 2 Hypervisor?",
+        "op": [
+            "It enables direct access to the physical hardware, resulting in faster I/O operations.",
+            "It offers enhanced security features and isolation between virtual machines",
+            "It allows for easier installation and management since it runs within the host operating system",
+            "It provides better performance and resource utilization compared to a Type 1 Hypervisor."
+        ],
+        "created_at": "2026-06-20T19:37:44.390747+00:00"
+    },
+    {
+        "id": 8898,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "Which type of hypervisor is more susceptible to security risks due to its dependency on the host operating system?",
+        "op": [
+            "Type 2",
+            "Type 1",
+            "Type 4",
+            "Type 3"
+        ],
+        "created_at": "2026-06-20T20:10:25.79927+00:00"
+    },
+    {
+        "id": 8899,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "What is the typical deployment scenario for Type-2 hypervisors?",
+        "op": [
+            "Developer workstations and test environments",
+            "High-traffic web servers and database servers",
+            "Public cloud infrastructure services",
+            "Data centers with large-scale virtualization clusters"
+        ],
+        "created_at": "2026-06-20T20:11:57.73594+00:00"
+    },
+    {
+        "id": 8900,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "What is the primary use case for Type-2 hypervisors?",
+        "op": [
+            "Desktop virtualization for individual users",
+            "High-performance computing clusters",
+            "Server virtualization in enterprise environments",
+            "Cloud computing infrastructure"
+        ],
+        "created_at": "2026-06-20T20:46:00.77997+00:00"
+    },
+    {
+        "id": 8958,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "21 June 2026",
+        "qt": "Among the hypervisor options, which one is more prone to attacks targeting vulnerabilities in the underlying host operating system?",
+        "op": [
+            "Citrix XenServer",
+            "VMware vSphere",
+            "Oracle VirtualBox",
+            "Microsoft Hyper-V"
+        ],
+        "created_at": "2026-06-21T05:25:21.920293+00:00"
+    },
+    {
+        "id": 19831,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the benefit of using virtual hard disks in a virtual data center?",
+        "op": [
+            "Increased physical storage capacity and faster data access",
+            "Improved network connectivity and lower latency",
+            "Enhanced data security and encryption capabilities",
+            "Reduced hardware costs and better resource utilization"
+        ],
+        "created_at": "2026-06-23T19:16:33.99153+00:00"
+    },
+    {
+        "id": 19833,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which virtualization tool is widely used in enterprise environments and offers advanced features such as high availability and distributed resource management?",
+        "op": [
+            "VMware vSphere",
+            "Xen",
+            "KVM",
+            "Hyper-V"
+        ],
+        "created_at": "2026-06-23T19:17:31.604948+00:00"
+    },
+    {
+        "id": 19836,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What does vCPU stand for in the context of a virtual data center?",
+        "op": [
+            "Virtual Central Processing Unit",
+            "Virtual Compute Processing Unit",
+            "Virtual Core Processing Unit",
+            "Virtual Control Processing Unit"
+        ],
+        "created_at": "2026-06-23T19:17:52.094029+00:00"
+    },
+    {
+        "id": 19845,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which component of VMware vSphere allows multiple virtual machines to run on a single physical server?",
+        "op": [
+            "vMotion",
+            "ESXi",
+            "Virtual Machine Monitor (VMM)",
+            "vCenter"
+        ],
+        "created_at": "2026-06-23T19:18:55.784815+00:00"
+    },
+    {
+        "id": 19849,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is VMware vSphere?",
+        "op": [
+            "A management platform for virtualization infrastructure",
+            "A networking protocol for virtual machine communication",
+            "An operating system for virtual machines",
+            "A hypervisor for server virtualization."
+        ],
+        "created_at": "2026-06-23T19:19:16.179553+00:00"
+    },
+    {
+        "id": 20073,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the purpose of a snapshot feature in virtual machines?",
+        "op": [
+            "To allow multiple virtual machines to communicate with each other",
+            "To allocate additional resources to a virtual machine for improved performance",
+            "To transfer a virtual machine from one physical server to another without interruption.",
+            "To capture the state of a virtual machine at a specific point in time for backup or recovery purposes"
+        ],
+        "created_at": "2026-06-23T20:07:08.263369+00:00"
+    },
+    {
+        "id": 20074,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is a virtual machine (VM)?",
+        "op": [
+            "A physical server in a virtualized environment",
+            "A software program that emulates a physical computer system",
+            "A virtual storage device used for data backup.",
+            "A network device that connects virtual machines to the internet"
+        ],
+        "created_at": "2026-06-23T20:07:32.797105+00:00"
+    },
+    {
+        "id": 20076,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How are vCPUs allocated to virtual machines in a virtual data center?",
+        "op": [
+            "vCPUs are shared among all virtual machines in the data center.",
+            "vCPUs are dynamically allocated based on the workload of each virtual machine.",
+            "vCPUs are only allocated to high-priority virtual machines.",
+            "Each virtual machine is assigned a fixed number of vCPUs."
+        ],
+        "created_at": "2026-06-23T20:09:06.581813+00:00"
+    },
+    {
+        "id": 20077,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which feature allows multiple virtual machines to access a shared storage system concurrently while maintaining data integrity?",
+        "op": [
+            "Storage area network (SAN)",
+            "Storage virtualization",
+            "Distributed file system",
+            "Network-attached storage (NAS)"
+        ],
+        "created_at": "2026-06-23T20:10:29.310472+00:00"
+    },
+    {
+        "id": 20112,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which virtualization technology is most commonly associated with containerization?",
+        "op": [
+            "Hyper-V",
+            "KVM",
+            "Docker",
+            "ESXi"
+        ],
+        "created_at": "2026-06-23T20:24:13.673362+00:00"
+    },
+    {
+        "id": 20116,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the fundamental building block of a Virtual Data Center (VDC)?",
+        "op": [
+            "Network switches",
+            "Hypervisors",
+            "Storage arrays",
+            "Virtual machines"
+        ],
+        "created_at": "2026-06-23T20:25:00.019008+00:00"
+    },
+    {
+        "id": 20117,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is a popular open-source virtualization tool?",
+        "op": [
+            "VMware vSphere",
+            "Xen",
+            "VirtualBox",
+            "Hyper-V"
+        ],
+        "created_at": "2026-06-23T20:25:41.581855+00:00"
+    },
+    {
+        "id": 20120,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which virtualization tool provides a Type-2 hypervisor that runs on top of an existing operating system?",
+        "op": [
+            "VMware vSphere",
+            "KVM",
+            "Hyper-V",
+            "VirtualBox"
+        ],
+        "created_at": "2026-06-23T20:26:14.133251+00:00"
+    },
+    {
+        "id": 20129,
+        "cc": "CS505P",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which architectural component of a Virtual Data Center enables the migration of virtual machines between physical hosts without service interruption?",
+        "op": [
+            "Load Balancer",
+            "Hypervisor",
+            "Live Migration Manager",
+            "Virtual Switch"
+        ],
+        "created_at": "2026-06-23T20:27:46.280958+00:00"
+    },
+    {
+        "id": 22508,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "What is the command-line interface used in ESXi called?",
+        "op": [
+            "Bash",
+            "ESXi Shell",
+            "PowerShell",
+            "Command Prompt"
+        ],
+        "created_at": "2026-06-27T19:20:21.227787+00:00"
+    },
+    {
+        "id": 22509,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which company develops and maintains ESXi?",
+        "op": [
+            "Oracle",
+            "Microsoft",
+            "VMware",
+            "Red Hat"
+        ],
+        "created_at": "2026-06-27T19:20:44.172535+00:00"
+    },
+    {
+        "id": 22510,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "The facility of capturing snapshot of Virtual Machine at any stage in VirtualBox is _____________.",
+        "op": [
+            "Misleading",
+            "Restricted to paid products",
+            "Not available",
+            "Free of cost"
+        ],
+        "created_at": "2026-06-27T19:21:05.424657+00:00"
+    },
+    {
+        "id": 22525,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which option is used to add a new Virtual Machine in VirtualBox interface?",
+        "op": [
+            "New",
+            "Import",
+            "Settings",
+            "Settings and Import"
+        ],
+        "created_at": "2026-06-27T19:39:22.954569+00:00"
+    },
+    {
+        "id": 22548,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "What is ESXi?",
+        "op": [
+            "A virtualization platform by VMware",
+            "A hardware component in server architecture",
+            "A network protocol for remote server management",
+            "An operating system for servers"
+        ],
+        "created_at": "2026-06-27T20:12:32.203101+00:00"
+    },
+    {
+        "id": 22549,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which statement is incorrect about VirtualBox?",
+        "op": [
+            "It is a bare-metal hypervisor",
+            "It needs Host OS to install",
+            "It is a type 2 hypervisor",
+            "It is an open source Hypervisor"
+        ],
+        "created_at": "2026-06-27T20:12:55.663591+00:00"
+    },
+    {
+        "id": 22559,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Capturing the state and data of Virtual Machine at any stage is called _____________.",
+        "op": [
+            "Backup",
+            "Pausing VM",
+            "Snapshot",
+            "VM migration"
+        ],
+        "created_at": "2026-06-27T20:30:12.209009+00:00"
+    },
+    {
+        "id": 22560,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "The VirtualBox is provided by __________ vendor.",
+        "op": [
+            "Microsoft and VMware",
+            "VMware",
+            "Oracle",
+            "Microsoft"
+        ],
+        "created_at": "2026-06-27T20:30:35.619799+00:00"
+    },
+    {
+        "id": 22561,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which virtualization technology provides live migration capabilities for running virtual machines?",
+        "op": [
+            "KVM",
+            "Xen",
+            "Hyper-V",
+            "ESXi"
+        ],
+        "created_at": "2026-06-27T20:32:43.278928+00:00"
+    },
+    {
+        "id": 22588,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "What is the primary function of ESXi?",
+        "op": [
+            "Managing network switches",
+            "Managing virtual machines",
+            "Providing cloud storage",
+            "Managing physical servers"
+        ],
+        "created_at": "2026-06-27T21:40:10.949803+00:00"
+    },
+    {
+        "id": 22678,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which of the following file formats is used by VirtualBox to store virtual machine disk images?",
+        "op": [
+            ".exe",
+            ".iso",
+            ".zip",
+            ".vdi"
+        ],
+        "created_at": "2026-06-28T02:55:16.566582+00:00"
+    },
+    {
+        "id": 22689,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "VirtualBox can be installed on ________________ Host.",
+        "op": [
+            "Windows",
+            "Windows, Linux, Mac, Solaris",
+            "Mac",
+            "Linux"
+        ],
+        "created_at": "2026-06-28T03:54:05.242856+00:00"
+    },
+    {
+        "id": 22690,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which of the following is a key feature of ESXi?",
+        "op": [
+            "Hardware load balancing",
+            "Data replication",
+            "Server virtualization",
+            "Network routing"
+        ],
+        "created_at": "2026-06-28T03:55:23.214016+00:00"
+    },
+    {
+        "id": 22726,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Which virtualization technology is primarily used in cloud computing platforms like Amazon EC2?",
+        "op": [
+            "Xen",
+            "Hyper-V",
+            "ESXi",
+            "KVM"
+        ],
+        "created_at": "2026-06-28T06:04:17.332456+00:00"
+    },
+    {
+        "id": 22745,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Why we install VirtualBox in our System?",
+        "op": [
+            "It is a compulsory part of Guest OS",
+            "It is used to create and allocate the resources to VM",
+            "It is a compulsory part of Operating System",
+            "It is a compulsory part of Virtual Machine"
+        ],
+        "created_at": "2026-06-28T06:48:41.560916+00:00"
+    },
+    {
+        "id": 22885,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "28 June 2026",
+        "qt": "Choose the correct layer for VirtualBox in the below diagram? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADMzEAAJKSAAIAAAADMzEAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIwMjM6MDY6MDcgMTM6MDU6MTkAMjAyMzowNjowNyAxMzowNToxOQAAAE0AaQByACAAUwBhAGwAYQBtACAASwBoAGEAbgAAAP/hCyFodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDIzLTA2LTA3VDEzOjA1OjE5LjMwNjwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5NaXIgU2FsYW0gS2hhbjwvcmRmOmxpPjwvcmRmOlNlcT4NCgkJCTwvZGM6Y3JlYXRvcj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/eHBhY2tldCBlbmQ9J3cnPz7/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir/wAARCADHAPQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6Roorm/G/jex8CaVZ32oWOoX/ANtvUsYLfToVlleV1YqApZc52EcZOSOKAOkorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzo/4XJ/1Tj4gf+CP/AOzoA9Jorzb/AIXJ/wBU4+IH/gj/APs6P+Fyf9U4+IH/AII//s6APSaK82/4XJ/1Tj4gf+CP/wCzrrvB3iux8b+E7PxDpUVxDaXm/wAtLlVWQbHZDkKSOqnv0oA26KKKACvNvjJ/zIX/AGOenf8AtSvSa82+Mn/Mhf8AY56d/wC1KAPSaKKKACiiigAooooAKKKKACiiigAorm/AniK78T+HZL+/jhjlS+urYCBSF2xTOinknnCjPv6VLD440CfVoNOS7mEtzIYreWSzmSC4cAkrHOyCNzgHhWOcHFAG/RWH/wAJloI8L3PiFr8Lpdq0iTzNE4MbI5RlKbd2QwxjGTxjORTdY8a6FoVz9n1C5n88QG5kitrKa4aGL+/II0Yxr15fA4PocAG9RXP6h468O6Ze2lnPqBlub22+1WkNpbyXL3MX96MRKxfjnC5O0FugJrVvnvX0uR9HWD7Y6fufte5UUnuwA3cddvBOMZXOQAW6K5DQ/EGtjx9eeGNbk0+/8nT0vVvNPtngERLlPKkRpJME/eU7hkBuK6+gAooooAKKKKACiiigAooooAK82/Z8/wCSE+Hv+3n/ANKZa9Jrzb9nz/khPh7/ALef/SmWgD0miiigArzb4yf8yF/2Oenf+1K9Jrzb4yf8yF/2Oenf+1KAPSaKKKACiiigAooooAKKKKACiiigDzf4baqNF0aTRtS07WLe+k1W8ZQ+j3flESXDsjGURFApBB3bsAda5xpfFHiGfwtJrcfiF9Sg16K41DTzpKxWNgFd1ykvlbnUAjDLK4IyTgEV7XRQB47qelXZ+LT+DIIW/sfV76DxLcMCCoWLiWMj/anSBv8AgTVoXun6ho3xF8R3t7qfiSws9XNvLbS6NpSXqOEiWNkcfZ5mRgQSM7VIbIyc16HHomnxeIJ9bSD/AImNxbpbSTtIzfulJZUAJwoyxPAGSeav0AeZeF/CzaJ8RPD0dtp+oJp1j4Ukt45b5Fd4ZDcRkRu6fJ5m3dwp6A44rv8AWrmG00a4lurCfULfaEmtreDzmdGIVv3f8YAJJUZJAIAJwDeooA848N6dCnxHhuvBej3ei+Hl0+RdRiksJLC3nnLL5WyCRUJkAVsyBMYIG49B6PRRQAUUUUAFFFFABRRRQAUUUUAFebfs+f8AJCfD3/bz/wClMtek15t+z5/yQnw9/wBvP/pTLQB6TRRRQAV5t8aYr7+yvCt9p+lahqv9m+JrO+nt9Otmnl8qNZCxCj8BzgZI55r0mvP/AIu61rukaV4cg8Mar/ZN3q3iC1017r7Mk+xJVkBOxwQcEKex4xkZoArf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dH/AAhPxO/6K5/5bVt/8VR/whPxO/6K5/5bVt/8VQAf8Lk/6px8QP8AwR//AGdWfgbpt9pHwY0Kx1WzuLG7i+0eZb3MTRyJm4kIyrAEZBB+hrkviDb/ABO8CeBNQ8R/8LP+3/YvK/0f/hH7aLfvlWP73zYxvz0PSvbaACiiigArzb4yf8yF/wBjnp3/ALUr0mvNvjJ/zIX/AGOenf8AtSgD0miiigAooooAKKKKACiiigAooqnrH/ICv/8Ar2k/9BNAFyiuP+F5kHwd8NGBVeUaVDsV22qTsGASAcD3wfpWRp3j+8n8Z2Wgxa94Z1t9St7godLzmxmjUMBKPOcup5GcIcr09AD0eivPLH4hajqXh/wqLe2tY9d1fUTY3ttIrFLcwb/tbAbs/L5Z25J++uc1lax8XTbPr15Z6z4atoNEuJIBpN7P/puoeSf3pRvMHllsFUHlvkjPfAAPWKK4TT/FXiDxB4/1LSNHGnWulWNrZ3ZubmB5ZXEylvL2iRQCQpO/Py7cbW3ZHXato+n67Y/YtXtUvLUurtBLkxyEHIDL0YZ5wcjIHHFAF2ivPPhnb2y+IPFtz4cjWDwvJdxRafFCAsBmjQrcPCo4CFtoyOCUbFeh0AFFFFABRRRQAUUUUAFFFFAHm37Qf/JCfEP/AG7f+lMVek15t+0H/wAkJ8Q/9u3/AKUxV6TQAUUUUAFebfGT/mQv+xz07/2pXpNebfGT/mQv+xz07/2pQB6TRRRQAUUUUAFFFFABRRRQAVDeW/2uxntt2zzo2j3YzjIxnFTUUAcLpXgXW7TwWnhLUfEFjcaMNOfT2NtpjwXJQxlAwkM7qGGc/cIPpT9J8C6rbax4dvdV1+2uo/D9u9vbW1ppv2dHVovLy2ZHO7gdMLxgKOtdvRQB5x4V8Kyx/GLxTrssV1Hp8LhNPjniKIZpo4zcyR5AyCY4xuHBO/8AHZg8I6vpN5qCeG9egsNO1G5e6lhm0/zpoJJDmRoZPMVVyfmAdHAbPBHy111FAGFpfhr+zfGWua8bzzf7XhtYvJMePK8gOM7s/Nu3+gxjvSeM9B1HxN4am0rStYGkNcMBNP5BlLxfxRjDoV3dCQc4zjrkb1FAGH4b0nVtHtks7280mSxgiWK2t9P0x7XygOAMtPICMdsD61uUUUAFFFFABRRRQAUUUUAFFFFAHm37Qf8AyQnxD/27f+lMVek15t+0H/yQnxD/ANu3/pTFXpNABRRRQAV5t8aYr7+yvCt9p+lahqv9m+JrO+nt9Otmnl8qNZCxCj8BzgZI55r0msTxrqF1pHgHxBqWny+Td2emXM8Em0NsdImZTggg4IHBGKAOR/4XJ/1Tj4gf+CP/AOzo/wCFyf8AVOPiB/4I/wD7Os3w5oHxO8QeFdK1n/ha32f+0bKG78n/AIR22fy/MQPt3ZGcZxnArS/4Qn4nf9Fc/wDLatv/AIqgA/4XJ/1Tj4gf+CP/AOzo/wCFyf8AVOPiB/4I/wD7Oj/hCfid/wBFc/8ALatv/iqP+EJ+J3/RXP8Ay2rb/wCKoAP+Fyf9U4+IH/gj/wDs6P8Ahcn/AFTj4gf+CP8A+zo/4Qn4nf8ARXP/AC2rb/4qj/hCfid/0Vz/AMtq2/8AiqAD/hcn/VOPiB/4I/8A7Oj/AIXJ/wBU4+IH/gj/APs6P+EJ+J3/AEVz/wAtq2/+Ko/4Qn4nf9Fc/wDLatv/AIqgA/4XJ/1Tj4gf+CP/AOzo/wCFyf8AVOPiB/4I/wD7Oj/hCfid/wBFc/8ALatv/iqP+EJ+J3/RXP8Ay2rb/wCKoAP+Fyf9U4+IH/gj/wDs6P8Ahcn/AFTj4gf+CP8A+zo/4Qn4nf8ARXP/AC2rb/4qj/hCfid/0Vz/AMtq2/8AiqAD/hcn/VOPiB/4I/8A7Oj/AIXJ/wBU4+IH/gj/APs6P+EJ+J3/AEVz/wAtq2/+Ko/4Qn4nf9Fc/wDLatv/AIqgA/4XJ/1Tj4gf+CP/AOzo/wCFyf8AVOPiB/4I/wD7Oj/hCfid/wBFc/8ALatv/iqP+EJ+J3/RXP8Ay2rb/wCKoAP+Fyf9U4+IH/gj/wDs6P8Ahcn/AFTj4gf+CP8A+zo/4Qn4nf8ARXP/AC2rb/4qj/hCfid/0Vz/AMtq2/8AiqAD/hcn/VOPiB/4I/8A7Oj/AIXJ/wBU4+IH/gj/APs6P+EJ+J3/AEVz/wAtq2/+Ko/4Qn4nf9Fc/wDLatv/AIqgA/4XJ/1Tj4gf+CP/AOzo/wCFyf8AVOPiB/4I/wD7Oj/hCfid/wBFc/8ALatv/iqP+EJ+J3/RXP8Ay2rb/wCKoAP+Fyf9U4+IH/gj/wDs6P8Ahcn/AFTj4gf+CP8A+zo/4Qn4nf8ARXP/AC2rb/4qj/hCfid/0Vz/AMtq2/8AiqAD/hcn/VOPiB/4I/8A7Oj/AIXJ/wBU4+IH/gj/APs6P+EJ+J3/AEVz/wAtq2/+Ko/4Qn4nf9Fc/wDLatv/AIqgDkvil45vvG/w11Tw9pXw+8cQ3d55Plvc6KyxjZMjnJVieint1r3avNv+EJ+J3/RXP/Latv8A4qtP4O+IdU8VfCfRtZ165+16hc+f5s3lqm7bPIg+VQAPlUDgdqAO2ooooAK5v4j/APJLPFf/AGBbz/0Q9dJXN/Ef/klniv8A7At5/wCiHoAPhx/ySzwp/wBgWz/9EJXSVzfw4/5JZ4U/7Atn/wCiErpKACiiigAooooAKKKKACiiigAorhvh/wD8jV49/wCw4P8A0mhql40+IF34Su55X1rw032eeJToTOft0sTuqlg5kGGw27b5RGB1PWgD0aiuFv8Ax/PoT+NI9bhgWTQYFvbHy1ZRcwSJ+7ByTlvNV0JGB04FUtV+IF7pmqaVoGp6v4d0HVH0xL/UbvUyfIVmJXyoozKhY7lY5L8Beh3cAHo9FeWW3xN1rWYvC9voUGlSXeraheaddTlmlt1a3ViZ4irDchC7wpPzDC7h96vS7eO6GnpHe3Eb3WzEk1vF5alv7yozNj6Et+NAFiivM/AeiQ6B8XfGFrDdXl47WOnSTXV7OZZpnImBZmPsAMAAAAAACvTKACiiigAooooAKKKKACiiigArzb9nz/khPh7/ALef/SmWvSa82/Z8/wCSE+Hv+3n/ANKZaAPSaKKKACub+I//ACSzxX/2Bbz/ANEPXSVzfxH/AOSWeK/+wLef+iHoAPhx/wAks8Kf9gWz/wDRCV0leN+Cvjl8OtI8A+H9N1DxD5N3Z6ZbQTx/YrhtjpEqsMiMg4IPIOK2/wDhoP4Y/wDQzf8Akhc//G6APSaK82/4aD+GP/Qzf+SFz/8AG6P+Gg/hj/0M3/khc/8AxugD0mivNv8AhoP4Y/8AQzf+SFz/APG6P+Gg/hj/ANDN/wCSFz/8boA9Jorzb/hoP4Y/9DN/5IXP/wAbo/4aD+GP/Qzf+SFz/wDG6APSaK82/wCGg/hj/wBDN/5IXP8A8bo/4aD+GP8A0M3/AJIXP/xugDXtPCXiDSNe1u+0TXtNjg1e8F3JDd6TJM0beWqYDrcICMID93vWZf8Awv1C503W9ItPEcdtpOr6i+oyIdO33Akd1cqZTIAybl4+QNjA3ccx/wDDQfwx/wChm/8AJC5/+N0f8NB/DH/oZv8AyQuf/jdADvHPhWXxF8T/AAoYYroWiJK+qyLEfJkhieOWGN2xgkzKpC5zjcfr0er+GLyXxNH4h8P6lBp+pfZfsc/2q0NzDPCGLKCqujBlYnDBuhIIPGOa/wCGg/hj/wBDN/5IXP8A8bo/4aD+GP8A0M3/AJIXP/xugDopvCd3e634a1XUdY+0XOizXM0mLUIs5miaPaoB+RV3cZ3nAALE5Y9M4YxsIyFfB2lhkA+44zXm/wDw0H8Mf+hm/wDJC5/+N0f8NB/DH/oZv/JC5/8AjdAGrpHhHxHp/ja98Q3fiDS7g6hFBDdQR6RJHlIt23YxuW2k7zkkMOnFdpXm3/DQfwx/6Gb/AMkLn/43R/w0H8Mf+hm/8kLn/wCN0Aek0V5t/wANB/DH/oZv/JC5/wDjdH/DQfwx/wChm/8AJC5/+N0Aek0V5t/w0H8Mf+hm/wDJC5/+N0f8NB/DH/oZv/JC5/8AjdAHpNFebf8ADQfwx/6Gb/yQuf8A43R/w0H8Mf8AoZv/ACQuf/jdAHpNFebf8NB/DH/oZv8AyQuf/jdH/DQfwx/6Gb/yQuf/AI3QB6TXm37Pn/JCfD3/AG8/+lMtH/DQfwx/6Gb/AMkLn/43R+z5/wAkJ8Pf9vP/AKUy0Aek0UUUAFUdb1WDQdA1DV7xJHt9PtZLqVYgC7KiliFBIGcDjJFXq5v4j/8AJLPFf/YFvP8A0Q9AHLW3xtgvLWK6s/h/48nt5kEkUsWihkkUjIZSJMEEHIIqT/hcn/VOPiB/4I//ALOul+HH/JLPCn/YFs//AEQldJQB5t/wuT/qnHxA/wDBH/8AZ0f8Lk/6px8QP/BH/wDZ16TRQB5t/wALk/6px8QP/BH/APZ0f8Lk/wCqcfED/wAEf/2dek0UAebf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dek0UAebf8AC5P+qcfED/wR/wD2dH/C5P8AqnHxA/8ABH/9nXpNFAHm3/C5P+qcfED/AMEf/wBnR/wuT/qnHxA/8Ef/ANnXpNFAHm3/AAuT/qnHxA/8Ef8A9nR/wuT/AKpx8QP/AAR//Z16TRQB5t/wuT/qnHxA/wDBH/8AZ0f8Lk/6px8QP/BH/wDZ16TRQB5t/wALk/6px8QP/BH/APZ0f8Lk/wCqcfED/wAEf/2dek0UAebf8Lk/6px8QP8AwR//AGdH/C5P+qcfED/wR/8A2dek0UAebf8AC5P+qcfED/wR/wD2dH/C5P8AqnHxA/8ABH/9nXpNFAHm3/C5P+qcfED/AMEf/wBnR/wuT/qnHxA/8Ef/ANnXpNFAHm3/AAuT/qnHxA/8Ef8A9nR/wuT/AKpx8QP/AAR//Z16TRQB5t/wuT/qnHxA/wDBH/8AZ113g7xXY+N/Cdn4h0qK4htLzf5aXKqsg2OyHIUkdVPfpW3Xm37Pn/JCfD3/AG8/+lMtAHpNFFFABXN/Ef8A5JZ4r/7At5/6Ieukrm/iP/ySzxX/ANgW8/8ARD0AHw4/5JZ4U/7Atn/6ISukrm/hx/ySzwp/2BbP/wBEJXSUAFc3pniK7vfiLr2gSxwi1020tJ4XVTvZpfM3bjnBHyDGAO/Wukrg7gzeFvilqetXlhf3OmaxYW0S3FjaSXRhlhMmVeOJWcAq4IbGMggkcUAWovHcdnrnjNfEEkFppXh2S2C3CRuW2ywI7F8Zz8zYGAOPzrV0jxnoOuakbDTbx5LgxGeMSW8sSzxA48yJnULKmcfMhYcg55Fec+J9C1XVfAfxI1e30u9EniBoTY2LQN9oeOKOOMMYwNylirEKRuAxkA8V2fiCwupfib4QubW3lNvb2+oJLOkRKQ7ki2hj0GSvAPXHtQBj+PvibY2Hhi8/4RvVHj1KO8gtorj7I5hkf7RGssaSunlO4QvlVJIwx42kjq9a8Z6HoF4bXUbmYzpCbiSO1s5rloYh/HIIkby168tgHBx0NeUXdvqkPwRtPBK+G9Xm1mwnt0uPLsXMSrHdoxmWXG2QMOcIWb5iSAFYjor3T9Q0b4i+I7291PxJYWerm3ltpdG0pL1HCRLGyOPs8zIwIJGdqkNkZOaAOy1Dx14d0y9tLOfUDLc3tt9qtIbS3kuXuYv70YiVi/HOFydoLdATWJbeNhZfELxJaa5fmLS7caXFZK1uR5ctz5gwxC7huYIMvwPas3wv4WbRPiJ4ejttP1BNOsfCklvHLfIrvDIbiMiN3T5PM27uFPQHHFOvfCU/iLxZ8RrG7tp4bXVdO0+K1umjIRpESYhkY8Eo+w8dDigDsda1+xtZLrSRqf2LUjp014ji3aXyIl+UzEYwQGI+Un5sYGeayrTx7oWnaXoltqWuSajf32mxXcMkOny+bfqVUGVIY1Jyc7igGVGTjCkjkvBEmp+L/CXifxfqdpIl7qWn/wBm21vjcwWCJlkC467rhpuPYVZ8D6PqNr4s8HTXenXUMdt4GjtZpJYGURT74MxsSPlfAb5TzwaAO3HjPQD4ci11dQDWE0ghjZYnMjyltoiEQG8ybuNm3dnjFGgeMNG8T3V5b6PJdvLYtsuVn0+e38p+u0mVF+bBB29cEGvLNWttXsbO2hs7OZNTl8e3V3Ywvb73lQLM+9I3eNXQqTli6jDEg5xXZ/D2cLr3iGHWFu4fEt1LFe30Vxbxwr5ZQRxGNY5ZV2hY8cyFsgk4yKANi88RXdv8S9M8PJHCbS7024u5HKnzA8bxqADnGMOc8enNMtfE87/ELXNFu/s0Vhpun292sxyrAyGTfuYnG0BB2GOeax/Enhm31/4vaG+r6JFqelw6TdB2urQTQJKZItoO4FQ2N2O/WqNjoFz4X8c+Mrnwd4ct7ZW0S3awhithBbXFyvnHZldqk52g8jqMkdaAOw0zxlomraounWk9wl3JE00Ud1ZT2/noCMtGZEUSAZHKk8EHpTNF8ceH/EMkg0a8kuki3+bOtpMIYihwyvKVCKw67SQ2CDjBBrgdEGsat8QPB2o3kniS/Fvb3JvZNT0hbOG0lkgGUT9yjcsMZJdeAAxNaPhTw3qU3wA1DQxayWOp30WpxLHPGY23STTBCwOCMgrg+hBoAn174lWd1qfhW28L6lIDqGtRQy+ZZui3dsUl3GJpEAkTcEy8ZOMrz8wz1MnjXw/D4dm12XUNmnW9w1tLM0MgKSLJ5bKV27uG4PGMc9Oa4C9urzW4fh/Y2fhrWIX0nVLV795rB4ktNsMiFdzAb1z/ABpuQbRkjcuZ7nwvd3HxA1Tw1JZXQ0DUrh9Ze6WI+Tuktnt5Ii+MbvMIk25z39aAPRZ9e0y21n+yri6WO8Fo16yMrBUhVgpdnxtUZPcjv6GqWmeMtE1bVF060nuEu5ImmijurKe389ARlozIiiQDI5Ungg9K47weviabSNf8T3Ojyp4iTTotOsrS+Qx+c9vCWJGcfI88j4ORkAHIrP0Qaxq3xA8HajeSeJL8W9vcm9k1PSFs4bSWSAZRP3KNywxkl14ADE0Ad/onjfQPEcrpot5LdrHvEkyWkwhjZDhkaQoEVx12khsEHGCDSaV458Pa1qMVlp97I8twHa2eS1liiugn3jDK6hJcdfkLcc9Oa5Pwl4c1OX4B3+hrbyafqd7FqcarPGYmDyTTBGYEAjIK4PpgjtVfw3pX9pT+GrbU7vxhJc6PIk32O70yG3trSSOJozmYW6CRPmKgRyOTuBwQCwAPVKKKKACvNv2fP+SE+Hv+3n/0plr0mvNv2fP+SE+Hv+3n/wBKZaAPSaKKKACub+I//JLPFf8A2Bbz/wBEPXSVkeLNKn17wXrekWbRpcahp89rE0pIRWeNlBYgE4yecA0AUvhx/wAks8Kf9gWz/wDRCV0leU6JpXxo0HQNP0izbwG9vp9rHaxNKbwuyooUFiABnA5wBV3/AIvf/wBU/wD/ACdoA9Jorzb/AIvf/wBU/wD/ACdo/wCL3/8AVP8A/wAnaAPSaK82/wCL3/8AVP8A/wAnaP8Ai9//AFT/AP8AJ2gD0mivNv8Ai9//AFT/AP8AJ2j/AIvf/wBU/wD/ACdoA9JpsiCWJo2LAMpUlWKnn0I5B9xXnH/F7/8Aqn//AJO0f8Xv/wCqf/8Ak7QB3mj6RY6Bo9rpWkW4trK0jEcMQYnao9yST9Sc1drzb/i9/wD1T/8A8naP+L3/APVP/wDydoA7fWvD2m+IYIY9VgdzbyCWCWKZ4ZYXxjckkZV1OCRwRkEimaL4a0vw+1zJpsMnn3bK1xcXFxJcTS7RhQ0sjM5AGcDOBk4HJri/+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mivNv+L3/APVP/wDydo/4vf8A9U//APJ2gD0mvNv2fP8AkhPh7/t5/wDSmWj/AIvf/wBU/wD/ACdrc+FvhS+8EfDXS/D2qy2813Z+d5j2zM0Z3zO4wWAPRh260AdbRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==",
+        "op": [
+            "Layer 1",
+            "Layer 1 and Layer 2",
+            "Layer 3",
+            "Layer 2"
+        ],
+        "created_at": "2026-06-28T09:32:48.066445+00:00"
+    },
+    {
+        "id": 36750,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "In which networking mode do virtual machines share a private network and can communicate with each other, but not with the host or the internet?",
+        "op": [
+            "Host-only Adapter",
+            "Bridged Adapter",
+            "Internal Network",
+            "NAT"
+        ],
+        "created_at": "2026-07-01T19:13:17.894417+00:00"
+    },
+    {
+        "id": 36755,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Increasing the number of Virtual Machines in Virtual Environment can __________the System performance?",
+        "op": [
+            "Not effect",
+            "Degrade",
+            "Pause",
+            "Enhance"
+        ],
+        "created_at": "2026-07-01T19:13:54.814034+00:00"
+    },
+    {
+        "id": 36756,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which aspect of network management involves managing the flow of network traffic to ensure sufficient bandwidth for critical applications?",
+        "op": [
+            "Network policies",
+            "NIC teaming",
+            "Security",
+            "Traffic shaping"
+        ],
+        "created_at": "2026-07-01T19:14:06.71306+00:00"
+    },
+    {
+        "id": 36758,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "What is the main difference between dynamically allocated and fixed-size virtual disks in VirtualBox?",
+        "op": [
+            "Dynamically allocated disks use physical space as data is added",
+            "Fixed-size disks grow with data usage",
+            "Fixed-size disks require no space allocation",
+            "Dynamically allocated disks cannot store data"
+        ],
+        "created_at": "2026-07-01T19:14:26.655651+00:00"
+    },
+    {
+        "id": 36824,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "The host OS runs on a:",
+        "op": [
+            "Virtual Machine",
+            "Top of hypervisor",
+            "Physical host",
+            "Virtual Machine and Physical host"
+        ],
+        "created_at": "2026-07-01T19:21:46.887579+00:00"
+    },
+    {
+        "id": 36827,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which statement is incorrect out of the followings?",
+        "op": [
+            "A Virtual Machine is like a physical machine",
+            "A Virtual machine can be created without hypervisor",
+            "A Virtual Machine has a guest OS",
+            "A Virtual Machine has the Virtual hardware resources"
+        ],
+        "created_at": "2026-07-01T19:22:08.208984+00:00"
+    },
+    {
+        "id": 36846,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which Microsoft management tool integrates with Hyper-V for centralized management?",
+        "op": [
+            "System Center Virtual Machine Manager (SCVMM)",
+            "Microsoft Excel",
+            "Internet Information Services (IIS)",
+            "Windows Defender"
+        ],
+        "created_at": "2026-07-01T19:23:56.065014+00:00"
+    },
+    {
+        "id": 36868,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Virtual storage enhances resource utilization by:",
+        "op": [
+            "Providing more virtual storage devices",
+            "Allocating more physical storage resources",
+            "Pooling physical storage and allocating it as needed",
+            "Allocating storage on a per-application basis"
+        ],
+        "created_at": "2026-07-01T19:28:01.654769+00:00"
+    },
+    {
+        "id": 36869,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "On a particular server:",
+        "op": [
+            "If we reboot one VM, then physical server is required to boot first",
+            "We cannot reboot any VM",
+            "If we reboot one VM, all other VMs reboot at the same time",
+            "If we reboot one VM, it has no effect on other VMs"
+        ],
+        "created_at": "2026-07-01T19:28:09.3123+00:00"
+    },
+    {
+        "id": 36870,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "A Virtual Machine has________________.",
+        "op": [
+            "No resources at all",
+            "Duplicated resources of Host machine",
+            "Its own physical resources",
+            "Simulated resources of host machine"
+        ],
+        "created_at": "2026-07-01T19:28:17.511307+00:00"
+    },
+    {
+        "id": 36871,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which hypervisor offers better performance and scalability for large-scale virtualization environments?",
+        "op": [
+            "ORACLE",
+            "VMware",
+            "VirtualBox",
+            "Hyper V"
+        ],
+        "created_at": "2026-07-01T19:28:25.490003+00:00"
+    },
+    {
+        "id": 36917,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which of the following virtual disk file formats is native to Oracle VirtualBox?",
+        "op": [
+            ".vhd",
+            ".vmdk",
+            ".vdi",
+            ".iso"
+        ],
+        "created_at": "2026-07-01T19:52:02.598562+00:00"
+    },
+    {
+        "id": 36918,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "How many Guest Operating systems are there in a Virtual environment, if we have a one Physical Machine and 9 Virtual Machines?",
+        "op": [
+            "1",
+            "0",
+            "9",
+            "10"
+        ],
+        "created_at": "2026-07-01T19:52:13.016908+00:00"
+    },
+    {
+        "id": 36919,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Simplified data management is a benefit of virtual storage because it:",
+        "op": [
+            "Eliminates the need for data management tools",
+            "Provides a unified interface for managing virtual storage devices",
+            "Reduces the need for data migration",
+            "Automates data backup processes"
+        ],
+        "created_at": "2026-07-01T19:52:27.095474+00:00"
+    },
+    {
+        "id": 36944,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Key-value stores store data as a collection of:",
+        "op": [
+            "Objects",
+            "Key-value pairs",
+            "XML files",
+            "Tables with rows and columns"
+        ],
+        "created_at": "2026-07-01T20:17:12.327346+00:00"
+    },
+    {
+        "id": 36945,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Enhanced data protection is one of the benefits of virtual storage and is achieved through:",
+        "op": [
+            "Replication and data backups",
+            "Encryption of virtual storage devices",
+            "Increasing physical storage capacity",
+            "Encryption of virtual storage devices"
+        ],
+        "created_at": "2026-07-01T20:17:30.723187+00:00"
+    },
+    {
+        "id": 36947,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "A Virtual Machine is created in the interface of a:",
+        "op": [
+            "Web Browser",
+            "Guest OS",
+            "Host Operating system",
+            "Hypervisor"
+        ],
+        "created_at": "2026-07-01T20:19:47.882166+00:00"
+    },
+    {
+        "id": 36948,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "What is a key benefit of using hypervisors for disaster recovery?",
+        "op": [
+            "Real-time data analytics",
+            "Automated software patching",
+            "High availability and fault tolerance",
+            "Data encryption and security"
+        ],
+        "created_at": "2026-07-01T20:19:54.623774+00:00"
+    },
+    {
+        "id": 36949,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which statement is correct about the Virtual Machine?",
+        "op": [
+            "A VM can be migrated from one host to another",
+            "All the virtual machines are dependent on each other",
+            "When one Virtual Machine shut down, others also shut down",
+            "The Virtual Machine is not independent of Host OS"
+        ],
+        "created_at": "2026-07-01T20:19:59.709342+00:00"
+    },
+    {
+        "id": 36950,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "What is the purpose of failover?",
+        "op": [
+            "To combine multiple network interfaces",
+            "To provide backup in case of failure or outage",
+            "To manage network traffic",
+            "To govern the use of the network"
+        ],
+        "created_at": "2026-07-01T20:20:11.720251+00:00"
+    },
+    {
+        "id": 37092,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which component helps manage and control the use of the network?",
+        "op": [
+            "Traffic shaping",
+            "Network policies",
+            "NIC teaming",
+            "Security"
+        ],
+        "created_at": "2026-07-01T22:02:43.818402+00:00"
+    },
+    {
+        "id": 37340,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which statement is correct about the Guest OS?",
+        "op": [
+            "Guest OS may or may not be same as Host OS",
+            "Guest OS is always same as Host OS",
+            "Guest OS is always different than Host OS",
+            "Guest OS is not the part of Guest Machine"
+        ],
+        "created_at": "2026-07-02T03:24:11.535002+00:00"
+    },
+    {
+        "id": 37391,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which virtual networking mode should you use in VirtualBox if you want the virtual machine to communicate only with the host and not with the internet?",
+        "op": [
+            "Bridged Adapter",
+            "NAT",
+            "Host-only Adapter",
+            "Internal Network"
+        ],
+        "created_at": "2026-07-02T03:53:42.898014+00:00"
+    },
+    {
+        "id": 37392,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which component provides increased bandwidth, failover protection, and load balancing by combining multiple network interfaces?",
+        "op": [
+            "Network policies",
+            "Failover",
+            "NIC teaming",
+            "Security"
+        ],
+        "created_at": "2026-07-02T03:53:52.258318+00:00"
+    },
+    {
+        "id": 37433,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "File-based databases store data as:",
+        "op": [
+            "Files on a file system",
+            "Documents",
+            "Tables with rows and columns",
+            "Key-value pairs"
+        ],
+        "created_at": "2026-07-02T04:22:28.057783+00:00"
+    },
+    {
+        "id": 37450,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "What does security in network management involve?",
+        "op": [
+            "Managing network traffic",
+            "Combining multiple network interfaces",
+            "Managing network policies",
+            "Preventing unauthorized access and protecting against security threats"
+        ],
+        "created_at": "2026-07-02T04:30:41.884768+00:00"
+    },
+    {
+        "id": 37487,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which hypervisor is known for its high-level of performance and scalability?",
+        "op": [
+            "VirtualBox",
+            "KVM",
+            "VMware ESXi",
+            "Hyper-V"
+        ],
+        "created_at": "2026-07-02T04:45:13.643038+00:00"
+    },
+    {
+        "id": 37562,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which tool provides a graphical user interface (GUI) for managing Hyper-V?",
+        "op": [
+            "Control Panel",
+            "Task Manager",
+            "Windows PowerShell",
+            "Hyper-V Manager"
+        ],
+        "created_at": "2026-07-02T05:16:55.813695+00:00"
+    },
+    {
+        "id": 37597,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "If we have a total 5 Virtual Machines in a Virtual Environment and suddenly one fails, then how many other VMs will affect?",
+        "op": [
+            "1",
+            "4",
+            "0",
+            "5"
+        ],
+        "created_at": "2026-07-02T05:29:32.057357+00:00"
+    },
+    {
+        "id": 37706,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Point out the layer where the hypervisor, VirtualBox fits in this diagram? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADOTcAAJKSAAIAAAADOTcAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIwMjM6MDc6MTcgMTY6NTQ6NTYAMjAyMzowNzoxNyAxNjo1NDo1NgAAAE0AaQByACAAUwBhAGwAYQBtACAASwBoAGEAbgAAAP/hCyFodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDIzLTA3LTE3VDE2OjU0OjU2Ljk2OTwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5NaXIgU2FsYW0gS2hhbjwvcmRmOmxpPjwvcmRmOlNlcT4NCgkJCTwvZGM6Y3JlYXRvcj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/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",
+        "op": [
+            "Layer 4",
+            "Layer 1",
+            "Layer 2",
+            "Layer 3"
+        ],
+        "created_at": "2026-07-02T06:14:46.39732+00:00"
+    },
+    {
+        "id": 37707,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Point out the correct location of Guest OS in this diagram. data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADOTgAAJKSAAIAAAADOTgAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIwMjM6MDc6MTcgMTY6NTM6NTUAMjAyMzowNzoxNyAxNjo1Mzo1NQAAAE0AaQByACAAUwBhAGwAYQBtACAASwBoAGEAbgAAAP/hCyFodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDIzLTA3LTE3VDE2OjUzOjU1Ljk3NjwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5NaXIgU2FsYW0gS2hhbjwvcmRmOmxpPjwvcmRmOlNlcT4NCgkJCTwvZGM6Y3JlYXRvcj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/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",
+        "op": [
+            "Layer 2",
+            "Layer 4",
+            "Layer 3",
+            "Layer 1"
+        ],
+        "created_at": "2026-07-02T06:16:15.231987+00:00"
+    },
+    {
+        "id": 37778,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which VirtualBox network mode allows the virtual machine to access external networks using the host's IP address?",
+        "op": [
+            "NAT (Network Address Translation)",
+            "Host-only Adapter",
+            "Bridged Adapter",
+            "Internal Network"
+        ],
+        "created_at": "2026-07-02T06:42:16.067644+00:00"
+    },
+    {
+        "id": 37883,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "When configuring a virtual machine’s storage in VirtualBox, what is the function of the IDE or SATA controller?",
+        "op": [
+            "To attach virtual hard disks and optical drives",
+            "To manage the boot process",
+            "To control internet access",
+            "To connect USB devices"
+        ],
+        "created_at": "2026-07-02T07:29:34.243211+00:00"
+    },
+    {
+        "id": 38003,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is NOT a benefit of Hyper-V?",
+        "op": [
+            "Isolation between virtual machines",
+            "Increased hardware costs",
+            "Live migration for workload balancing",
+            "Consolidation of physical servers"
+        ],
+        "created_at": "2026-07-02T09:12:47.03216+00:00"
+    },
+    {
+        "id": 38041,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Columnar databases store data in:",
+        "op": [
+            "Key-value pairs",
+            "Columns rather than rows",
+            "Documents",
+            "Tables with rows and columns"
+        ],
+        "created_at": "2026-07-02T09:49:48.9222+00:00"
+    },
+    {
+        "id": 38047,
+        "cc": "CS505P",
+        "qn": "10",
+        "dt": "02 July 2026",
+        "qt": "Which aspect of network management ensures that critical applications receive sufficient bandwidth and prevents network congestion?",
+        "op": [
+            "NIC teaming",
+            "Traffic shaping",
+            "Network policies",
+            "Security"
+        ],
+        "created_at": "2026-07-02T09:52:49.091752+00:00"
+    },
+    {
+        "id": 42754,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Which hypervisor type is commonly used for personal desktop virtualization and software testing?",
+        "op": [
+            "Type 4",
+            "Type 1",
+            "Type 3",
+            "Type 2"
+        ],
+        "created_at": "2026-06-21T19:36:27.430101+00:00"
+    },
+    {
+        "id": 42755,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "What is the main advantage of using a Type-2 hypervisor?",
+        "op": [
+            "Lower cost compared to Type-1 hypervisors",
+            "Higher performance for resource-intensive workloads",
+            "Enhanced security and isolation between virtual machines",
+            "Flexibility to run multiple operating systems on a single machine"
+        ],
+        "created_at": "2026-06-21T19:36:47.397687+00:00"
+    },
+    {
+        "id": 42756,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "What is the primary advantage of a Type 2 Hypervisor?",
+        "op": [
+            "It provides better performance and resource utilization compared to a Type 1 Hypervisor.",
+            "It allows for easier installation and management since it runs within the host operating system",
+            "It offers enhanced security features and isolation between virtual machines",
+            "It enables direct access to the physical hardware, resulting in faster I/O operations."
+        ],
+        "created_at": "2026-06-21T19:37:03.435623+00:00"
+    },
+    {
+        "id": 42757,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Which file format is commonly used to store virtual machine images in a Type 2 Hypervisor?",
+        "op": [
+            "VDI (VirtualBox Disk Image)",
+            "ISO (Disk Image)",
+            "VMDK (Virtual Machine Disk)",
+            "VHDX (Virtual Hard Disk)"
+        ],
+        "created_at": "2026-06-21T19:37:15.508203+00:00"
+    },
+    {
+        "id": 42758,
+        "cc": "CS505P",
+        "qn": "8",
+        "dt": "22 June 2026",
+        "qt": "Which type of hypervisor is more suitable for non-resource-intensive applications where high performance is not a critical requirement?",
+        "op": [
+            "Type 1",
+            "Type 3",
+            "Type 2",
+            "Type 4"
+        ],
+        "created_at": "2026-06-21T19:37:28.32409+00:00"
+    },
+    {
+        "id": 47443,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Full virtualization, the ________________.",
+        "op": [
+            "Guest OS doesn’t issue instructions",
+            "Hardware in not emulated",
+            "Complete hardware is emulated",
+            "Role of hardware in not involved"
+        ],
+        "created_at": "2026-07-05T19:01:36.717202+00:00"
+    },
+    {
+        "id": 47477,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Full Virtualization, the Guest OS calls __________________",
+        "op": [
+            "Receive to hypervisor first as hyper calls",
+            "Are not generated",
+            "Doesn’t receive to native hardware first",
+            "Receive to native hardware first"
+        ],
+        "created_at": "2026-07-05T19:02:12.673603+00:00"
+    },
+    {
+        "id": 47518,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "The practice of hosting a desktop Operating system and applications together on remote host is called _________.",
+        "op": [
+            "Desktop Virtualization",
+            "Application Virtualization",
+            "Storage Virtualization",
+            "Data Virtualization"
+        ],
+        "created_at": "2026-07-05T19:02:48.899128+00:00"
+    },
+    {
+        "id": 47534,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "What is the primary advantage of a Software-Defined Data Center (SDDC)?",
+        "op": [
+            "Faster data processing speed.",
+            "Improved security",
+            "Enhanced scalability and flexibility",
+            "Reduced hardware costs."
+        ],
+        "created_at": "2026-07-05T19:03:00.656825+00:00"
+    },
+    {
+        "id": 47540,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "Which statement is incorrect in case of Applications Virtualization?",
+        "op": [
+            "Applications cost reduced",
+            "Run cross-platform applications",
+            "Applications installed locally on client machine",
+            "Application are independent of underlying OS"
+        ],
+        "created_at": "2026-07-05T19:03:06.585688+00:00"
+    },
+    {
+        "id": 47546,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "Which type of virtualization allows multiple virtual servers to run on a single physical server, sharing the underlying hardware resources?",
+        "op": [
+            "Server virtualization",
+            "Network virtualization",
+            "Application virtualization",
+            "Storage virtualization"
+        ],
+        "created_at": "2026-07-05T19:03:13.444068+00:00"
+    },
+    {
+        "id": 47551,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "Which type of virtualization creates virtualized versions of physical hardware devices, allowing multiple virtual devices to run on a single physical device?",
+        "op": [
+            "Server virtualization",
+            "Storage virtualization",
+            "Hardware virtualization",
+            "Network virtualization"
+        ],
+        "created_at": "2026-07-05T19:03:18.782837+00:00"
+    },
+    {
+        "id": 47555,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "Which technology companies are known for operating massive data centers to support their services?",
+        "op": [
+            "Microsoft and Apple",
+            "Facebook and Google",
+            "Amazon and Netflix",
+            "Twitter and LinkedIn"
+        ],
+        "created_at": "2026-07-05T19:03:23.991965+00:00"
+    },
+    {
+        "id": 47563,
+        "cc": "CS505P",
+        "qn": "1",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a common application of virtualization in modern IT infrastructure?",
+        "op": [
+            "Increasing CPU clock speed",
+            "Enhancing physical cable bandwidth",
+            "Running multiple operating systems on a single physical machine",
+            "Replacing software with hardware"
+        ],
+        "created_at": "2026-07-05T19:03:29.271485+00:00"
+    },
+    {
+        "id": 50561,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Para Virtualization, the Guest OS calls __________",
+        "op": [
+            "Are not generated",
+            "Doesn’t receive to Hypervisor",
+            "Receive to native hardware first",
+            "Receive to hypervisor first as hyper calls"
+        ],
+        "created_at": "2026-07-05T21:35:27.721561+00:00"
+    },
+    {
+        "id": 51930,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which one of the following is not the benefit of Para Virtualization?",
+        "op": [
+            "Instructions translated during compile time",
+            "Performance improved",
+            "Virtualization overhead increased",
+            "Virtualization overhead reduced"
+        ],
+        "created_at": "2026-07-06T02:57:51.284524+00:00"
+    },
+    {
+        "id": 54218,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which type of organization offers data center services such as colocation, hosting, or cloud services?",
+        "op": [
+            "Law Firms",
+            "Hospitals",
+            "Data Center Service Providers",
+            "Advertising Agencies"
+        ],
+        "created_at": "2026-07-06T13:27:09.96013+00:00"
+    },
+    {
+        "id": 54219,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which company designs its own custom servers and data centers as part of its infrastructure strategy?",
+        "op": [
+            "Facebook",
+            "Spotify",
+            "Airbnb",
+            "TikTok"
+        ],
+        "created_at": "2026-07-06T13:27:19.920489+00:00"
+    },
+    {
+        "id": 54220,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which technology provides the solution of Application level virtualization?",
+        "op": [
+            "Docker",
+            "Google Cloud Platform",
+            "Microsoft App-v",
+            "Microsoft Azure"
+        ],
+        "created_at": "2026-07-06T13:27:52.570329+00:00"
+    },
+    {
+        "id": 54221,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which component of an SDDC is responsible for managing and orchestrating virtual machines?",
+        "op": [
+            "Software-Defined Networking (SDN)",
+            "Software-Defined Storage (SDS)",
+            "Virtual Machine Manager (VMM)",
+            "Hypervisor"
+        ],
+        "created_at": "2026-07-06T13:27:59.949136+00:00"
+    },
+    {
+        "id": 54222,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "What is the primary advantage of a Hardware-Defined Data Center (HDDC)?",
+        "op": [
+            "Enhanced scalability and flexibility",
+            "Lower hardware costs",
+            "Higher performance and lower latency",
+            "Simplified management and reduced complexity"
+        ],
+        "created_at": "2026-07-06T13:28:08.095607+00:00"
+    },
+    {
+        "id": 54223,
+        "cc": "CS505P",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which type of virtualization pools storage resources from multiple physical devices into a single virtual storage device?",
+        "op": [
+            "Application virtualization",
+            "Network virtualization",
+            "Server virtualization",
+            "Storage virtualization"
+        ],
+        "created_at": "2026-07-06T13:28:16.903326+00:00"
+    },
+    {
+        "id": 64286,
+        "cc": "CS505P",
+        "qn": "9",
+        "dt": "25 December 2025",
+        "qt": "Choose the correct layer for VirtualBox in the below diagram? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADMzEAAJKSAAIAAAADMzEAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "op": [
+            "Layer 2",
+            "Layer 1",
+            "Layer 1 and Layer 2",
+            "Layer 3"
+        ],
+        "created_at": "2026-07-15T13:27:08.981316+00:00"
+    },
+    {
+        "id": 68165,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "03 January 2026",
+        "qt": "Point out the correct location of Guest OS in this diagram. data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADOTgAAJKSAAIAAAADOTgAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "op": [
+            "Layer 1",
+            "Layer 4",
+            "Layer 3",
+            "Layer 2"
+        ],
+        "created_at": "2026-07-15T13:27:31.462933+00:00"
+    },
+    {
+        "id": 68216,
+        "cc": "CS505P",
+        "qn": "4",
+        "dt": "03 January 2026",
+        "qt": "Point out the layer where the hypervisor, VirtualBox fits in this diagram? data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD4RXhpZgAATU0AKgAAAAgABAE7AAIAAAAPAAAISodpAAQAAAABAAAIWpydAAEAAAAeAAAQ0uocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE1pciBTYWxhbSBLaGFuAAAABZADAAIAAAAUAAAQqJAEAAIAAAAUAAAQvJKRAAIAAAADOTcAAJKSAAIAAAADOTcAAOocAAcAAAgMAAAInAAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "op": [
+            "Layer 4",
+            "Layer 2",
+            "Layer 1",
+            "Layer 3"
+        ],
+        "created_at": "2026-07-15T13:27:32.396907+00:00"
+    }
+]

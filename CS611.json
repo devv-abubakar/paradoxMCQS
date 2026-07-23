@@ -1,0 +1,1066 @@
+[
+{
+    "id": 23919,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Requirement verifications are formally and structurally achieved thorough --------.",
+    "op": [
+        "Requirement Gathering",
+        "Sales Team",
+        "Quality Assurance",
+        "Development Team"
+    ],
+    "created_at": "2026-06-28T19:18:51.012651+00:00"
+},
+{
+    "id": 23927,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Requirements must not conflict with other requirements or project scope, this characteristic is called being ___________.",
+    "op": [
+        "Correct",
+        "Coherent",
+        "Complete",
+        "Feasible"
+    ],
+    "created_at": "2026-06-28T19:19:02.584609+00:00"
+},
+{
+    "id": 23935,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Software Quality Assurance is  ------------ process.",
+    "op": [
+        "Backward Engineering",
+        "On going",
+        "Interface Design",
+        "One time"
+    ],
+    "created_at": "2026-06-28T19:19:14.075304+00:00"
+},
+{
+    "id": 23939,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The main purpose of software quality assurance is to _______ defects.",
+    "op": [
+        "Reduce",
+        "Fix",
+        "Finish",
+        "Identify"
+    ],
+    "created_at": "2026-06-28T19:19:22.187909+00:00"
+},
+{
+    "id": 23944,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "QA and ----------- are always head-to-head.",
+    "op": [
+        "SRS",
+        "Defect",
+        "Use case",
+        "Demos"
+    ],
+    "created_at": "2026-06-28T19:19:31.071081+00:00"
+},
+{
+    "id": 24382,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Each software release is considered to be a project with________ deadlines to be followed.",
+    "op": [
+        "Infinite",
+        "unestimated",
+        "Intangible",
+        "Tangible"
+    ],
+    "created_at": "2026-06-28T19:36:17.097788+00:00"
+},
+{
+    "id": 24398,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Requirements that can be satisfied are __________.",
+    "op": [
+        "Feasible",
+        "Complete",
+        "Correct",
+        "Coherent"
+    ],
+    "created_at": "2026-06-28T19:36:48.812186+00:00"
+},
+{
+    "id": 24419,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Release management is another name of ______________ a software build throughout different stages.",
+    "op": [
+        "Planning",
+        "Scheduling",
+        "Controlling",
+        "Execution"
+    ],
+    "created_at": "2026-06-28T19:37:45.427121+00:00"
+},
+{
+    "id": 24426,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Release management includes the planning, scheduling and________ of the agreed features of the release.",
+    "op": [
+        "Deadline",
+        "Execution",
+        "Steps",
+        "Cease"
+    ],
+    "created_at": "2026-06-28T19:38:09.372141+00:00"
+},
+{
+    "id": 24432,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "According to __________ attribute of requirement engineering, the requirement should be complete so all stakeholders completely understand them it must not leave any room for guessing and assuming things",
+    "op": [
+        "Complete",
+        "Coherent",
+        "Feasible",
+        "Correct"
+    ],
+    "created_at": "2026-06-28T19:38:31.807789+00:00"
+},
+{
+    "id": 24436,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ______ has to pay for fixing the post release defects.",
+    "op": [
+        "Customer",
+        "Software Supplier Company",
+        "Organization",
+        "Programmer"
+    ],
+    "created_at": "2026-06-28T19:39:01.754927+00:00"
+},
+{
+    "id": 24444,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Testing is ------------- Quality Assurance activity which aims to identify fault areas which are to be fixed.",
+    "op": [
+        "Core",
+        "Negligible",
+        "Parallel",
+        "Ordinary"
+    ],
+    "created_at": "2026-06-28T19:40:02.825581+00:00"
+},
+{
+    "id": 24448,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To build a release, Environment Variables are provided by ---------.",
+    "op": [
+        "Domain Experts",
+        "Sales Team",
+        "Support Team",
+        "Technical Team"
+    ],
+    "created_at": "2026-06-28T19:40:27.454674+00:00"
+},
+{
+    "id": 24953,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Functional Requirements define particular --------- of the system when conditions are true.",
+    "op": [
+        "Statistics",
+        "Transaction",
+        "Behavior",
+        "Graph"
+    ],
+    "created_at": "2026-06-28T20:44:15.167118+00:00"
+},
+{
+    "id": 24954,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Defects which have the potential to trigger on specific situations are called ___________ defects.",
+    "op": [
+        "None of the given",
+        "Contained",
+        "Dormant",
+        "Escaping"
+    ],
+    "created_at": "2026-06-28T20:44:25.722361+00:00"
+},
+{
+    "id": 24955,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To reduce bugs, -------- are very effective QA alternative.",
+    "op": [
+        "Inspections",
+        "Coders",
+        "Content Writers",
+        "Domain Experts"
+    ],
+    "created_at": "2026-06-28T20:44:31.381017+00:00"
+},
+{
+    "id": 24956,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To build a release, Features are provided by ---------.",
+    "op": [
+        "Support Team",
+        "Domain Experts",
+        "Sales Team",
+        "Technical Team"
+    ],
+    "created_at": "2026-06-28T20:44:43.376776+00:00"
+},
+{
+    "id": 24957,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________define what system should do and how the system should behave under certain situation or in a specific environment.",
+    "op": [
+        "Verifiable",
+        "Functional requirements",
+        "Coherent",
+        "Non functional requirements"
+    ],
+    "created_at": "2026-06-28T20:44:49.650979+00:00"
+},
+{
+    "id": 24984,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A release can be defined as a distribution of the __________________ of software product.",
+    "op": [
+        "Final version",
+        "Last version",
+        "Second version",
+        "First version"
+    ],
+    "created_at": "2026-06-28T20:55:35.77934+00:00"
+},
+{
+    "id": 24985,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "______________________is a structured and organized activity in order to confirm that the built software product fully address the documented and agreed upon requirements.",
+    "op": [
+        "Requirement verification",
+        "Testing",
+        "Coding",
+        "Quality assurance"
+    ],
+    "created_at": "2026-06-28T20:56:31.820856+00:00"
+},
+{
+    "id": 24987,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Functional requirements are captured using_________.",
+    "op": [
+        "Use cases",
+        "Entity relation diagram",
+        "Classes",
+        "Sequence diagram"
+    ],
+    "created_at": "2026-06-28T20:58:38.247172+00:00"
+},
+{
+    "id": 24990,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________________ is the process of addressing root causes of defects to prevent their future occurrence.",
+    "op": [
+        "Defect  removal",
+        "Defect detection",
+        "Defect containment",
+        "Defect prevention"
+    ],
+    "created_at": "2026-06-28T20:59:08.162907+00:00"
+},
+{
+    "id": 24994,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To attain _______we must avoid ambiguity, a requirement must express the entire need and state all conditions and constraints under which it applies.",
+    "op": [
+        "Cohesiveness",
+        "Completeness",
+        "Correctness",
+        "Feasibility"
+    ],
+    "created_at": "2026-06-28T20:59:37.840883+00:00"
+},
+{
+    "id": 24996,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Defect Prevention also dig deep into the source of _______ and course of actions to be taken",
+    "op": [
+        "Application",
+        "Error",
+        "code",
+        "Solution"
+    ],
+    "created_at": "2026-06-28T21:00:08.046486+00:00"
+},
+{
+    "id": 25011,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "-------- bugs have very high cost plus it can hit reputation also.",
+    "op": [
+        "In house",
+        "Pre-release",
+        "Testing Phase",
+        "Production level"
+    ],
+    "created_at": "2026-06-28T21:02:39.633402+00:00"
+},
+{
+    "id": 25014,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________________ is a process where QA team executes the product to find out defects or bugs and to ensure that the product gives the required output.",
+    "op": [
+        "Inspections",
+        "Testing",
+        "Walkthroughs",
+        "Analysis"
+    ],
+    "created_at": "2026-06-28T21:02:51.019077+00:00"
+},
+{
+    "id": 25022,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "“All stakeholders must be communicating openly to correctly analyze the expectations/needs of client and converting them into software requirement” this attribute is called____________.",
+    "op": [
+        "Feasible",
+        "Correct",
+        "Complete",
+        "Coherent"
+    ],
+    "created_at": "2026-06-28T21:03:46.693359+00:00"
+},
+{
+    "id": 25023,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Release includes -----------, environment variables and backlog.",
+    "op": [
+        "SRS Documents",
+        "Release notes",
+        "DFD diagrams",
+        "Set of features"
+    ],
+    "created_at": "2026-06-28T21:04:10.304095+00:00"
+},
+{
+    "id": 25289,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The focus of default containment is to reduce or eliminate ________ defects.",
+    "op": [
+        "Continuous",
+        "Escaping",
+        "Future",
+        "Past"
+    ],
+    "created_at": "2026-06-28T22:41:52.689887+00:00"
+},
+{
+    "id": 25290,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "------------ are usually part of release notes.",
+    "op": [
+        "Syntax Errors",
+        "Semantic Errors",
+        "Post release Defects",
+        "Pre-release Defects"
+    ],
+    "created_at": "2026-06-28T22:43:33.256361+00:00"
+},
+{
+    "id": 25496,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "According to ______ attribute of software requirement engineering, a requirement must be necessary for the software system and should be adding some business value.",
+    "op": [
+        "Correct",
+        "Coherent",
+        "Necessary",
+        "Complete"
+    ],
+    "created_at": "2026-06-29T01:09:22.174675+00:00"
+},
+{
+    "id": 25497,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The -------- serve as basis as connector between different phases of SDLC.",
+    "op": [
+        "Reviews",
+        "Test cases",
+        "CSS templates",
+        "Use cases"
+    ],
+    "created_at": "2026-06-29T01:09:35.403557+00:00"
+},
+{
+    "id": 25499,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Product development is achieved via _________________ when a working product is delivered to the customer.",
+    "op": [
+        "Patches",
+        "Release",
+        "Version",
+        "Update"
+    ],
+    "created_at": "2026-06-29T01:10:24.208112+00:00"
+},
+{
+    "id": 25500,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Pre-release defects are defined as ____________ which have potential to create problem to users and customers.",
+    "op": [
+        "Dormant defects",
+        "Unfamiliar defects",
+        "Secret defects",
+        "Unknown defects"
+    ],
+    "created_at": "2026-06-29T01:10:40.655853+00:00"
+},
+{
+    "id": 25530,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Dormant defects may occur on ______priority areas.",
+    "op": [
+        "Medium",
+        "High",
+        "Low",
+        "Critical"
+    ],
+    "created_at": "2026-06-29T01:36:02.047918+00:00"
+},
+{
+    "id": 25531,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Being _______, requirements should be linked to source in Requirement Specifications.",
+    "op": [
+        "Necessary",
+        "Verifiable",
+        "Coherent",
+        "Traceable"
+    ],
+    "created_at": "2026-06-29T01:36:14.949248+00:00"
+},
+{
+    "id": 25534,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Post-release defects have _______ cost of fixing as compared to other defects.",
+    "op": [
+        "Medium",
+        "higher",
+        "Lower",
+        "None of the given"
+    ],
+    "created_at": "2026-06-29T01:36:35.080699+00:00"
+},
+{
+    "id": 25535,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________is the process of addressing root causes of defects to prevent their future occurrence.",
+    "op": [
+        "Default Containment",
+        "Testing",
+        "Default Detection",
+        "Defect Prevention"
+    ],
+    "created_at": "2026-06-29T01:36:41.129302+00:00"
+},
+{
+    "id": 25536,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Requirements which are not testable or non verifiable are _______ by the QA team.",
+    "op": [
+        "closed",
+        "suspended",
+        "left alone",
+        "returned"
+    ],
+    "created_at": "2026-06-29T01:37:01.1248+00:00"
+},
+{
+    "id": 25537,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The new or changing requirements request after demo-able version of software is done via ____________.",
+    "op": [
+        "Change request or bug",
+        "Design document",
+        "Testing",
+        "SRS"
+    ],
+    "created_at": "2026-06-29T01:37:18.76006+00:00"
+},
+{
+    "id": 25884,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Traceability in requirement engineering can be achieved by assigning __________.",
+    "op": [
+        "Pin code",
+        "User name",
+        "Password",
+        "Unique ID"
+    ],
+    "created_at": "2026-06-29T03:21:16.032303+00:00"
+},
+{
+    "id": 26093,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The difference between software requirements and other domains requirement is that software requirements__________.",
+    "op": [
+        "Changes throughout the project",
+        "Remains the same throughout the project",
+        "Are Incomplete",
+        "Are Missing"
+    ],
+    "created_at": "2026-06-29T04:20:50.189437+00:00"
+},
+{
+    "id": 26098,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "As a good practice, requirement should be stated in single line and must not exceed ________ words in length.",
+    "op": [
+        "30-50",
+        "10-20",
+        "20-30",
+        "40-50"
+    ],
+    "created_at": "2026-06-29T04:21:49.010539+00:00"
+},
+{
+    "id": 26102,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Post release defects appears at the _______site.",
+    "op": [
+        "tester",
+        "QA team",
+        "customer",
+        "programmer"
+    ],
+    "created_at": "2026-06-29T04:22:14.943855+00:00"
+},
+{
+    "id": 26152,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________________majorly includes next software version to be compatible with product.",
+    "op": [
+        "Environment Variable",
+        "Global variable",
+        "Internal variable",
+        "Linking variable"
+    ],
+    "created_at": "2026-06-29T04:30:24.030706+00:00"
+},
+{
+    "id": 26157,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "--------- are used to generate use case diagrams.",
+    "op": [
+        "Use Case Templates",
+        "Release Notes",
+        "Design Documents",
+        "Inspections"
+    ],
+    "created_at": "2026-06-29T04:33:21.57312+00:00"
+},
+{
+    "id": 26171,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A requirement can be considered as _______ if it can be implemented in the system and so it is demo-able.",
+    "op": [
+        "Necessary",
+        "Coherent",
+        "Correct",
+        "Verifiable"
+    ],
+    "created_at": "2026-06-29T04:42:59.929915+00:00"
+},
+{
+    "id": 26172,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Testing is conducted at ___________ level.",
+    "op": [
+        "Middle",
+        "Different",
+        "Production",
+        "Last"
+    ],
+    "created_at": "2026-06-29T04:43:14.837775+00:00"
+},
+{
+    "id": 26212,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Demoable software leads to WishLists or ---------------.",
+    "op": [
+        "Bugs",
+        "Appendix",
+        "Defects",
+        "Change Requests"
+    ],
+    "created_at": "2026-06-29T04:57:50.437967+00:00"
+},
+{
+    "id": 26501,
+    "cc": "CS611",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Defect detection is a process to detect and remove defects as early/many as possible through various approaches like__________________.",
+    "op": [
+        "Code reviews, code inspection and design review",
+        "QA, code reviews, code inspection and design review",
+        "Code reviews and code inspection",
+        "QA"
+    ],
+    "created_at": "2026-06-29T06:28:18.384972+00:00"
+},
+{
+    "id": 47800,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Specification checklist is another way to perform ------.",
+    "op": [
+        "Structural Testing",
+        "Testing Reviews",
+        "White Box Testing",
+        "Black Box Testing"
+    ],
+    "created_at": "2026-07-05T19:06:14.696444+00:00"
+},
+{
+    "id": 47812,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The most formal type of static testing or Review type is --------.",
+    "op": [
+        "White box testing",
+        "Black box testing",
+        "Inspection",
+        "Gray box testing"
+    ],
+    "created_at": "2026-07-05T19:06:27.229509+00:00"
+},
+{
+    "id": 47823,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ is a tool used for keeping log and tacking details of the defects.",
+    "op": [
+        "Microsoft word",
+        "Microsoft excel",
+        "Firebase",
+        "Mantis"
+    ],
+    "created_at": "2026-07-05T19:06:35.64447+00:00"
+},
+{
+    "id": 47835,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A defect life cycle consists of all the necessary steps to be carried out from defect identification or reporting to ____________.",
+    "op": [
+        "Defect prevention",
+        "Defect Resolution",
+        "Defect containment",
+        "None of the given"
+    ],
+    "created_at": "2026-07-05T19:06:43.904444+00:00"
+},
+{
+    "id": 47861,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Reviews in context of testing, is -------- activity before formal testing.",
+    "op": [
+        "Time-saving",
+        "Extensive",
+        "Time consuming",
+        "Code execution"
+    ],
+    "created_at": "2026-07-05T19:07:03.723446+00:00"
+},
+{
+    "id": 47871,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Version systems like VSS, TFS, Git are used to manage changes in -----.",
+    "op": [
+        "ERD diagrams",
+        "Code",
+        "SRS document",
+        "Test cases"
+    ],
+    "created_at": "2026-07-05T19:07:11.132041+00:00"
+},
+{
+    "id": 47886,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Structural testing focuses on ---------- implementation details.",
+    "op": [
+        "External",
+        "Database",
+        "Design",
+        "Internal"
+    ],
+    "created_at": "2026-07-05T19:07:20.175058+00:00"
+},
+{
+    "id": 47896,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Usually -------- defects are deferred to future releases.",
+    "op": [
+        "Critical",
+        "Catastrophic",
+        "Minor or cosmetic",
+        "High level"
+    ],
+    "created_at": "2026-07-05T19:07:27.737447+00:00"
+},
+{
+    "id": 47904,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "----- is a tool used to log and track defects.",
+    "op": [
+        "NotePad++",
+        "Power Point",
+        "DevC",
+        "Mantis"
+    ],
+    "created_at": "2026-07-05T19:07:35.069117+00:00"
+},
+{
+    "id": 47915,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Testing is usually performed by writing and executing ______________.",
+    "op": [
+        "Scenarios",
+        "Test cases",
+        "Use cases",
+        "Algorithms"
+    ],
+    "created_at": "2026-07-05T19:07:42.577783+00:00"
+},
+{
+    "id": 48578,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________ is the very first step in defect resolution.",
+    "op": [
+        "Defect reporting",
+        "Reporting",
+        "Test report",
+        "Defect logging"
+    ],
+    "created_at": "2026-07-05T19:17:13.695146+00:00"
+},
+{
+    "id": 48644,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Product evaluation is a process to evaluate the ___________________.",
+    "op": [
+        "Reliability, trust and market value",
+        "Stability, market share and market value",
+        "Reliability, support and stability",
+        "Reliability, stability and market value"
+    ],
+    "created_at": "2026-07-05T19:18:16.168336+00:00"
+},
+{
+    "id": 48714,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are many paid tools for keeping track of defects however the most commonly used is __________.",
+    "op": [
+        "MS excel",
+        "MS access",
+        "Word press",
+        "MS Visio"
+    ],
+    "created_at": "2026-07-05T19:19:35.355355+00:00"
+},
+{
+    "id": 48740,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Expected vs actual behavior is compared in --------.",
+    "op": [
+        "Development Phase",
+        "Coding Phase",
+        "SRS management",
+        "Testing Activity"
+    ],
+    "created_at": "2026-07-05T19:20:16.13484+00:00"
+},
+{
+    "id": 48756,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Defects resolution in a _______ based scenario is an ongoing activity and remains continued even after the product is deployed on the client’s site.",
+    "op": [
+        "Project",
+        "Product",
+        "Project evaluation",
+        "Product evaluation"
+    ],
+    "created_at": "2026-07-05T19:20:29.622775+00:00"
+},
+{
+    "id": 50041,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A _____________is established containing all the defects identified in the testing phase with necessary parameters like defect ID, priority and severity level, current defect status and others.",
+    "op": [
+        "Defect resolution",
+        "Report",
+        "Test report",
+        "Defect log"
+    ],
+    "created_at": "2026-07-05T20:15:50.94468+00:00"
+},
+{
+    "id": 50045,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In defect resolution __________with very less impact are deferred to the next release with mutual consent with all stack holders.",
+    "op": [
+        "Non critical",
+        "Major defects",
+        "Minor defects",
+        "Critical defects"
+    ],
+    "created_at": "2026-07-05T20:15:59.953998+00:00"
+},
+{
+    "id": 50052,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________is a methodology to track the discovered and reported defects and it ensures that the defects are being monitored and controlled throughout different stages of defect resolution.",
+    "op": [
+        "Defect resolution",
+        "Defect logging",
+        "Defect controlling",
+        "Defect tracking"
+    ],
+    "created_at": "2026-07-05T20:16:22.99788+00:00"
+},
+{
+    "id": 50057,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "White Box Testing verifies execution behavior and ------.",
+    "op": [
+        "External Features",
+        "Internal code",
+        "Outputs",
+        "Interfaces"
+    ],
+    "created_at": "2026-07-05T20:16:31.525346+00:00"
+},
+{
+    "id": 50066,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "______________is a process that keeps record of reported defect till testing department close it.",
+    "op": [
+        "Test resolution",
+        "Inspection report",
+        "Defect resolution",
+        "Defect reporting"
+    ],
+    "created_at": "2026-07-05T20:17:09.064615+00:00"
+},
+{
+    "id": 50136,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "------ manual examination of artifacts including code without execution.",
+    "op": [
+        "Branch coverage",
+        "Path coverage",
+        "Review in Testing",
+        "Smoke Tests"
+    ],
+    "created_at": "2026-07-05T20:27:08.133255+00:00"
+},
+{
+    "id": 50138,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Functional testing focuses on ----------- of the Software.",
+    "op": [
+        "SDLC phases",
+        "External behavior",
+        "Use Case Diagrams",
+        "Internal implementations"
+    ],
+    "created_at": "2026-07-05T20:27:21.095577+00:00"
+},
+{
+    "id": 50310,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In a _______based scenario, bugs and defects are identified, reported and fixed during the project life cycle.",
+    "op": [
+        "Project evaluation",
+        "Project",
+        "Product",
+        "Product evaluation"
+    ],
+    "created_at": "2026-07-05T20:42:30.407611+00:00"
+},
+{
+    "id": 50314,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All the defects are tracked by assigning different _____________.",
+    "op": [
+        "Values",
+        "Statuses",
+        "Names",
+        "Steps"
+    ],
+    "created_at": "2026-07-05T20:42:39.437639+00:00"
+},
+{
+    "id": 50323,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In case defect is ------- then all the parties agree to it.",
+    "op": [
+        "Pending",
+        "Not fixed",
+        "Forwarded",
+        "Fixed"
+    ],
+    "created_at": "2026-07-05T20:42:58.339478+00:00"
+},
+{
+    "id": 50822,
+    "cc": "CS611",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "During inspection compliance with ----------- is checked thoroughly.",
+    "op": [
+        "Interfaces",
+        "Internal implementation",
+        "Rules / Best Practices",
+        "Code"
+    ],
+    "created_at": "2026-07-05T23:13:32.659074+00:00"
+}
+]

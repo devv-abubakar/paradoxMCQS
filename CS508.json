@@ -1,0 +1,3011 @@
+[
+{
+    "id": 23367,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Symbolic assembly language and macro assembly were developed in:",
+    "op": [
+        "1970’s",
+        "1960’s",
+        "1980’s",
+        "1950’s"
+    ],
+    "created_at": "2026-06-28T19:05:30.703926+00:00"
+},
+{
+    "id": 23375,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In__________, there is no need to declare a variable and it takes the form of assigned value.",
+    "op": [
+        "C",
+        "SNOBOL",
+        "Ada",
+        "ALGOL"
+    ],
+    "created_at": "2026-06-28T19:05:41.12736+00:00"
+},
+{
+    "id": 23381,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "SNOBOL 4 supports _________ types of functions.",
+    "op": [
+        "Four",
+        "Two",
+        "Five",
+        "Three"
+    ],
+    "created_at": "2026-06-28T19:05:48.01269+00:00"
+},
+{
+    "id": 23387,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ANSI standard for C++ was first approved in:",
+    "op": [
+        "May, 1995",
+        "November, 1997",
+        "August, 1994",
+        "January, 1996"
+    ],
+    "created_at": "2026-06-28T19:05:55.413038+00:00"
+},
+{
+    "id": 23396,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the feature which was not available in FORTRAN-IV.",
+    "op": [
+        "subprograms could also be passed as parameters",
+        "logical IF statement",
+        "support for structured programming",
+        "support for explicit type declarations"
+    ],
+    "created_at": "2026-06-28T19:06:05.532562+00:00"
+},
+{
+    "id": 23407,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which statement is correct about Table in SNOBOL?",
+    "op": [
+        "Table is indexed by table name.",
+        "Table is indexed by the key.",
+        "Table is indexed by number.",
+        "Table is indexed by table size."
+    ],
+    "created_at": "2026-06-28T19:06:20.868754+00:00"
+},
+{
+    "id": 23411,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL, the maximum length of string can be ________ characters.",
+    "op": [
+        "5000",
+        "150",
+        "1000",
+        "255"
+    ],
+    "created_at": "2026-06-28T19:06:28.351284+00:00"
+},
+{
+    "id": 23427,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The __________ field is used to alter the flow of control of a SNOBOL program.",
+    "op": [
+        "GOTO",
+        "PASS",
+        "STAY",
+        "CONTINUE"
+    ],
+    "created_at": "2026-06-28T19:06:45.569565+00:00"
+},
+{
+    "id": 23872,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL, ____________ operator is used to ensure that assignment occurs ONLY if the entire pattern match is successful.",
+    "op": [
+        "+ (plus)",
+        "$ (dollar)",
+        "- (minus)",
+        ". (dot)"
+    ],
+    "created_at": "2026-06-28T19:17:41.112802+00:00"
+},
+{
+    "id": 23880,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Using SNOBOL, the correct way to create a two-dimensional array of 2 x 8 is;",
+    "op": [
+        "N = ARRAY('2.8')",
+        "N = ARRAY('2;8')",
+        "N = ARRAY('2:8')",
+        "N = ARRAY('2,8')"
+    ],
+    "created_at": "2026-06-28T19:17:51.821643+00:00"
+},
+{
+    "id": 23899,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________ was the first language to add macro facility in a high-level language.",
+    "op": [
+        "SNOBOL",
+        "LISP",
+        "PROLOG",
+        "COBOL"
+    ],
+    "created_at": "2026-06-28T19:18:23.421047+00:00"
+},
+{
+    "id": 23909,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "______________ provide(s) support for data abstraction in Ada.",
+    "op": [
+        "If-else structure",
+        "Procedure",
+        "Packages",
+        "Templates"
+    ],
+    "created_at": "2026-06-28T19:18:36.727963+00:00"
+},
+{
+    "id": 23920,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following operator is used for pattern matching in SNOBOL?",
+    "op": [
+        "!= (Not Equal)",
+        "(Space)",
+        ". (Dot)",
+        "= (Equal)"
+    ],
+    "created_at": "2026-06-28T19:18:52.967289+00:00"
+},
+{
+    "id": 23933,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL, control flow is achieved through the ________________ statement.",
+    "op": [
+        "Switch",
+        "Go to Field",
+        "If Else",
+        "For Loop"
+    ],
+    "created_at": "2026-06-28T19:19:09.103311+00:00"
+},
+{
+    "id": 23937,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "FORTRAN IV was released in _________ and became the most popular language of its time.",
+    "op": [
+        "1963",
+        "1961",
+        "1960",
+        "1962"
+    ],
+    "created_at": "2026-06-28T19:19:18.990139+00:00"
+},
+{
+    "id": 24307,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If z = '10' and x = 5 * -z + '10.6' The what would be the resultant value of x in SNOBOL4?",
+    "op": [
+        "39.4",
+        "-30.0",
+        "30.0",
+        "-39.4"
+    ],
+    "created_at": "2026-06-28T19:33:30.180927+00:00"
+},
+{
+    "id": 24329,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Using SNOBOL, the correct way to create a one-dimensional array of 10 elements and each element contains 1.0, is;",
+    "op": [
+        "V = ARRAY(10: 1.0)",
+        "V = ARRAY(10. 1.0)",
+        "V = ARRAY(10; 1.0)",
+        "V = ARRAY(10, 1.0)"
+    ],
+    "created_at": "2026-06-28T19:34:13.956486+00:00"
+},
+{
+    "id": 24335,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "We use ______operator for indirect referencing in SNOBOL.",
+    "op": [
+        "Binary dot(.)",
+        "Unary $",
+        "Unary dot(.)",
+        "Binary $"
+    ],
+    "created_at": "2026-06-28T19:34:24.627066+00:00"
+},
+{
+    "id": 24342,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following language was designed as a hardware description language?",
+    "op": [
+        "APL",
+        "PASCAL",
+        "SIMULA",
+        "PL/1"
+    ],
+    "created_at": "2026-06-28T19:34:34.641116+00:00"
+},
+{
+    "id": 24354,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Plus sign (+) is used for _______ in SNOBOL.",
+    "op": [
+        "Body of the program",
+        "Immediate assignment",
+        "Line Continuation",
+        "Line Breakge"
+    ],
+    "created_at": "2026-06-28T19:34:55.00821+00:00"
+},
+{
+    "id": 24358,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of following is considered as legal variable name in SNOBOL.",
+    "op": [
+        "_myvar",
+        ".myvar",
+        "my.var",
+        "1myvar"
+    ],
+    "created_at": "2026-06-28T19:35:04.104209+00:00"
+},
+{
+    "id": 24362,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The GOTO statement in SNOBOL is__________.",
+    "op": [
+        "Implicit",
+        "An indirect reference",
+        "Explicit",
+        "Pattern matched"
+    ],
+    "created_at": "2026-06-28T19:35:18.539396+00:00"
+},
+{
+    "id": 24375,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is correct in SNOBOL?",
+    "op": [
+        ":S(label) F (label2)",
+        ": S(label) F(label2)",
+        ":S(label) F(label2)",
+        ":S(label)F(label2)"
+    ],
+    "created_at": "2026-06-28T19:35:56.99919+00:00"
+},
+{
+    "id": 24385,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ___________ operator is used for conditional assignment only when the entire pattern is matched.",
+    "op": [
+        ". (dot)",
+        "$ (dollar)",
+        "+ (plus)",
+        "- (minus)"
+    ],
+    "created_at": "2026-06-28T19:36:21.586246+00:00"
+},
+{
+    "id": 24389,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL4, the ____________ function is used to replace one character with another in the entire string.",
+    "op": [
+        "REPLACE",
+        "CHANGE",
+        "ALTERATION",
+        "EXCHANGE"
+    ],
+    "created_at": "2026-06-28T19:36:32.624549+00:00"
+},
+{
+    "id": 24392,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following language had great influence on modern high level programming languages like C?",
+    "op": [
+        "Lisp",
+        "ALGOL68",
+        "FORTRAN I",
+        "COBOL"
+    ],
+    "created_at": "2026-06-28T19:36:39.698067+00:00"
+},
+{
+    "id": 24397,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Space operator in SNOBOL can be used for _____________.",
+    "op": [
+        "End Statement",
+        "Concatenation",
+        "Immediate Assignment",
+        "Replacement"
+    ],
+    "created_at": "2026-06-28T19:36:47.670974+00:00"
+},
+{
+    "id": 24402,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The result of expression 2**3 in SNOBOL will be:",
+    "op": [
+        "5",
+        "36",
+        "8",
+        "6"
+    ],
+    "created_at": "2026-06-28T19:36:54.020172+00:00"
+},
+{
+    "id": 24949,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "“Everything for everybody” was the motive of the language:",
+    "op": [
+        "LISP",
+        "PL/1",
+        "JAVA",
+        "COBOL"
+    ],
+    "created_at": "2026-06-28T20:42:45.704601+00:00"
+},
+{
+    "id": 24951,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Maps in SNOBOL may also be available in _______________",
+    "op": [
+        "MATLAB online sources",
+        "C++ standard library",
+        "C standard library",
+        "Prolog standard library"
+    ],
+    "created_at": "2026-06-28T20:42:54.007538+00:00"
+},
+{
+    "id": 25115,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "COBOL was the first language that brought the concept of __________.",
+    "op": [
+        "Structure",
+        "Variable",
+        "Records",
+        "Object"
+    ],
+    "created_at": "2026-06-28T21:41:27.799004+00:00"
+},
+{
+    "id": 25117,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ was designed by Niklaus Wirth in 1971.",
+    "op": [
+        "Simula",
+        "Java",
+        "C",
+        "Pascal"
+    ],
+    "created_at": "2026-06-28T21:41:43.141819+00:00"
+},
+{
+    "id": 25121,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which statement is correct about SNOBOL?",
+    "op": [
+        "Variable is declared first",
+        "Variables are not declared before use",
+        "Value is assigned to variable first",
+        "Variables must be declared before use"
+    ],
+    "created_at": "2026-06-28T21:42:00.100102+00:00"
+},
+{
+    "id": 25126,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Plankalkül has __________ arithmetic.",
+    "op": [
+        "Decimal Point",
+        "Long Point",
+        "Floating Point",
+        "Double Point"
+    ],
+    "created_at": "2026-06-28T21:42:47.457054+00:00"
+},
+{
+    "id": 25432,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is an example of null assignment in SNOBOL?",
+    "op": [
+        "NULL =",
+        "V = “NULL”",
+        "NULL = “NULL”",
+        "NULL = “Hello”"
+    ],
+    "created_at": "2026-06-29T00:30:24.876171+00:00"
+},
+{
+    "id": 25434,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The first high level language was____________",
+    "op": [
+        "Plankalkül",
+        "SNOBOL",
+        "FORTRAN",
+        "Ada"
+    ],
+    "created_at": "2026-06-29T00:30:47.572202+00:00"
+},
+{
+    "id": 25436,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Initial version of SONOBOL only supported __________ and strings.",
+    "op": [
+        "Digits",
+        "Real Numbers",
+        "Exponential Numbers",
+        "Integers"
+    ],
+    "created_at": "2026-06-29T00:30:53.628434+00:00"
+},
+{
+    "id": 25437,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is best suited for C programming language?",
+    "op": [
+        "Introduced the notion of class",
+        "With powerful set of operators but poor type checking",
+        "First language to provide exception handling",
+        "String manipulation language"
+    ],
+    "created_at": "2026-06-29T00:31:24.709761+00:00"
+},
+{
+    "id": 25455,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of following is NOT considered as legal variable name in SNOBOL.",
+    "op": [
+        "myvar",
+        "my.var",
+        "_myvar",
+        "my_var"
+    ],
+    "created_at": "2026-06-29T00:41:45.213922+00:00"
+},
+{
+    "id": 25457,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The length of variable name supported by COBOL was _________ characters.",
+    "op": [
+        "55",
+        "20",
+        "40",
+        "30"
+    ],
+    "created_at": "2026-06-29T00:42:03.938256+00:00"
+},
+{
+    "id": 25458,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The language that introduced concurrency through tasking model was:",
+    "op": [
+        "ADA",
+        "SNOBOL",
+        "PL/1",
+        "SIMULA"
+    ],
+    "created_at": "2026-06-29T00:42:42.247788+00:00"
+},
+{
+    "id": 25460,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The block structure feature of ALGOL60 has ______ scope.",
+    "op": [
+        "Local",
+        "Global",
+        "No",
+        "Universal"
+    ],
+    "created_at": "2026-06-29T00:43:51.502511+00:00"
+},
+{
+    "id": 25542,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_______ was the first language that gave unit level concurrency.",
+    "op": [
+        "SNOBOL",
+        "PL1",
+        "BASIC",
+        "PROLOG"
+    ],
+    "created_at": "2026-06-29T01:40:16.308501+00:00"
+},
+{
+    "id": 25543,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________was the first machine independent language.",
+    "op": [
+        "ALGOL",
+        "FORTRAN",
+        "SNOBOL",
+        "LISP"
+    ],
+    "created_at": "2026-06-29T01:40:43.490503+00:00"
+},
+{
+    "id": 25544,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL4, the __________ is accomplished through the INPUT and OUTPUT statements.",
+    "op": [
+        "Restart",
+        "I/O",
+        "Matching",
+        "Assignment"
+    ],
+    "created_at": "2026-06-29T01:42:20.595408+00:00"
+},
+{
+    "id": 25550,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Table in SNOBOL can be used as _________.",
+    "op": [
+        "Stacks",
+        "Arrays",
+        "Pointers",
+        "Queues"
+    ],
+    "created_at": "2026-06-29T01:53:43.545766+00:00"
+},
+{
+    "id": 25551,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "FORTRAN 2 came after one year of FORTRAN 1 in ___________ with independent compilation and some bug fixes.",
+    "op": [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+    ],
+    "created_at": "2026-06-29T01:53:50.597598+00:00"
+},
+{
+    "id": 25553,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "PROLOG represents _______________ paradigm.",
+    "op": [
+        "Algorithmic",
+        "Functional",
+        "Declarative",
+        "Formal"
+    ],
+    "created_at": "2026-06-29T01:53:55.708608+00:00"
+},
+{
+    "id": 25554,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ statement is used in conjunction with the pattern matching statement in SNOBOL4.",
+    "op": [
+        "Replacement",
+        "Goto",
+        "Concatenation",
+        "Continue"
+    ],
+    "created_at": "2026-06-29T01:54:11.466588+00:00"
+},
+{
+    "id": 25600,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL, _______ operator has highest precedence.",
+    "op": [
+        "Exponentiation",
+        "Division",
+        "Unary",
+        "Multiplication"
+    ],
+    "created_at": "2026-06-29T02:15:26.860997+00:00"
+},
+{
+    "id": 25602,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ programming language is known as “Write-Only” language.",
+    "op": [
+        "APL",
+        "FORTRAN",
+        "BASIC",
+        "PL/1"
+    ],
+    "created_at": "2026-06-29T02:15:40.863687+00:00"
+},
+{
+    "id": 25603,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A space is used as a(n) _____ for concatenation in SNOBOL.",
+    "op": [
+        "Variable",
+        "String",
+        "Data Type",
+        "Operator"
+    ],
+    "created_at": "2026-06-29T02:15:58.281417+00:00"
+},
+{
+    "id": 25606,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "COBOL was designed in __________ to support business-oriented computation which required fixed point arithmetic.",
+    "op": [
+        "1980",
+        "1950",
+        "1960",
+        "1970"
+    ],
+    "created_at": "2026-06-29T02:16:46.07196+00:00"
+},
+{
+    "id": 25611,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following was an illegal number in the initial version of SNOBOL?",
+    "op": [
+        "-36",
+        "4.5",
+        "0012",
+        "+0"
+    ],
+    "created_at": "2026-06-29T02:17:32.454477+00:00"
+},
+{
+    "id": 25629,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "LISP stands for List ___________ Language.",
+    "op": [
+        "Programming",
+        "Professional",
+        "Processing",
+        "Procedure"
+    ],
+    "created_at": "2026-06-29T02:23:48.312924+00:00"
+},
+{
+    "id": 25630,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If we have two spaces in SNOBOL the first is used for ________and the second one for________.",
+    "op": [
+        "as a whole assignment , immediate assignment.",
+        "immediate assignment , replacement",
+        "concatenation , pattern matching",
+        "pattern matching ,  concatenation"
+    ],
+    "created_at": "2026-06-29T02:24:23.089555+00:00"
+},
+{
+    "id": 25829,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "what will be the resulting value of y in the following SNOBOL statement y = 2 ** 3.",
+    "op": [
+        "8",
+        "5",
+        "9",
+        "6"
+    ],
+    "created_at": "2026-06-29T03:14:37.101431+00:00"
+},
+{
+    "id": 25887,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In FORTRAN _____ independent compilation was not supported.",
+    "op": [
+        "I",
+        "77",
+        "IV",
+        "90"
+    ],
+    "created_at": "2026-06-29T03:22:20.779275+00:00"
+},
+{
+    "id": 25917,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Binary operator in SONOBOL must has at least ________ space(s) on both sides.",
+    "op": [
+        "Three",
+        "Single",
+        "Four",
+        "Two"
+    ],
+    "created_at": "2026-06-29T03:29:40.556303+00:00"
+},
+{
+    "id": 26022,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What would be the output of following SNOBOL4 code? P = ('A' | 'B' | 'C' | 'D') $ V 'ZAIN' P OUTPUT = V",
+    "op": [
+        "I",
+        "N",
+        "A",
+        "Z"
+    ],
+    "created_at": "2026-06-29T03:58:29.86957+00:00"
+},
+{
+    "id": 26044,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The major issue with _______________ was that the developers had no or limited experience in software development.",
+    "op": [
+        "C++",
+        "C#",
+        "SNOBOL",
+        "Java"
+    ],
+    "created_at": "2026-06-29T04:07:40.083401+00:00"
+},
+{
+    "id": 26153,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Using SNOBOL, the correct way to create a one-dimensional array of 7 elements with the lower index being 2 and the upper index being 8.",
+    "op": [
+        "X = ARRAY(‘2;8’)",
+        "X = ARRAY(‘2.8’)",
+        "X = ARRAY(‘2:8’)",
+        "X = ARRAY(‘2,8’)"
+    ],
+    "created_at": "2026-06-29T04:30:55.403247+00:00"
+},
+{
+    "id": 26154,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ability to create dynamic HTML documents was the primary objective of:",
+    "op": [
+        "Ada",
+        "Java",
+        "SNOBOL",
+        "JavaScript"
+    ],
+    "created_at": "2026-06-29T04:31:18.188501+00:00"
+},
+{
+    "id": 26297,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SNOBOL, ______ acts as operator for string concatenation",
+    "op": [
+        "Space",
+        "_",
+        "*"
+    ],
+    "created_at": "2026-06-29T05:25:34.641755+00:00"
+},
+{
+    "id": 26298,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Using SNOBOL, the correct way to create a dynamic array (i.e. takes its size at run time from user) is;",
+    "op": [
+        "V = Array (Dynamic)",
+        "V = Array (Input)",
+        "V = Array (Runtime)",
+        "V = Array (Output)"
+    ],
+    "created_at": "2026-06-29T05:25:41.720481+00:00"
+},
+{
+    "id": 42799,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The first high level language was____________",
+    "op": [
+        "Ada",
+        "Plankalkül",
+        "FORTRAN",
+        "SNOBOL"
+    ],
+    "created_at": "2026-06-29T19:12:49.383075+00:00"
+},
+{
+    "id": 42800,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Binary operator in SONOBOL must has at least ________ space(s) on both sides.",
+    "op": [
+        "Four",
+        "Three",
+        "Single",
+        "Two"
+    ],
+    "created_at": "2026-06-29T19:09:28.232549+00:00"
+},
+{
+    "id": 42801,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following language had great influence on modern high level programming languages like C?",
+    "op": [
+        "COBOL",
+        "Lisp",
+        "FORTRAN I",
+        "ALGOL68"
+    ],
+    "created_at": "2026-06-29T19:09:47.358536+00:00"
+},
+{
+    "id": 42802,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which statement is correct about Table in SNOBOL?",
+    "op": [
+        "Table is indexed by table name.",
+        "Table is indexed by table size.",
+        "Table is indexed by the key.",
+        "Table is indexed by number."
+    ],
+    "created_at": "2026-06-29T19:10:29.642174+00:00"
+},
+{
+    "id": 42803,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "One of the significant feature associated with SNOBOL is  ________.",
+    "op": [
+        "Allows String manipulation operation only",
+        "Explicit Variable declaration",
+        "Mixing arithmetic and string operations",
+        "Performing arithmetic operation separately"
+    ],
+    "created_at": "2026-06-29T19:11:05.511131+00:00"
+},
+{
+    "id": 42804,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "For string manipulation, SNOBOL does not use:",
+    "op": [
+        "Regular Expressions",
+        "Keywords",
+        "Operators",
+        "Variables"
+    ],
+    "created_at": "2026-06-29T19:12:05.142527+00:00"
+},
+{
+    "id": 42805,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The ANSI standard for C++ was first approved in:",
+    "op": [
+        "August, 1994",
+        "November, 1997",
+        "January, 1996",
+        "May, 1995"
+    ],
+    "created_at": "2026-06-29T19:13:10.427243+00:00"
+},
+{
+    "id": 42806,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "FORTRAN IV was released in _________ and became the most popular language of its time.",
+    "op": [
+        "1963",
+        "1961",
+        "1962",
+        "1960"
+    ],
+    "created_at": "2026-06-29T19:13:27.95904+00:00"
+},
+{
+    "id": 42807,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "______________ provide(s) support for data abstraction in Ada.",
+    "op": [
+        "Packages",
+        "Procedure",
+        "Templates",
+        "If-else structure"
+    ],
+    "created_at": "2026-06-29T19:13:45.393272+00:00"
+},
+{
+    "id": 42808,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In__________, there is no need to declare a variable and it takes the form of assigned value.",
+    "op": [
+        "Ada",
+        "C",
+        "SNOBOL",
+        "ALGOL"
+    ],
+    "created_at": "2026-06-29T19:14:02.397752+00:00"
+},
+{
+    "id": 47433,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Ada is a _____________ language",
+    "op": [
+        "Weakly typed",
+        "Poorly designed",
+        "Grammar free",
+        "Strongly typed"
+    ],
+    "created_at": "2026-07-05T19:01:09.618944+00:00"
+},
+{
+    "id": 47436,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Ada programming language supports _______ types of loops.",
+    "op": [
+        "5",
+        "4",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-07-05T19:01:21.118999+00:00"
+},
+{
+    "id": 47442,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Identify the correct syntax of ‘while’ loop in Ada language:",
+    "op": [
+        "while condition loop\n \t-- loop body\nend loop;",
+        "while (condition)\n \t-- loop body\nend while;",
+        "loop while (condition)\n \t -- loop body\nend while;",
+        "while (condition)\n{\n \t--loop body;\n};"
+    ],
+    "created_at": "2026-07-05T19:01:33.640632+00:00"
+},
+{
+    "id": 47451,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The correct syntax of ‘for’ loop in Ada is:",
+    "op": [
+        "begin loop;\nfor variable in low_value .. high_value loop\n\t-- Loop body goes here \nend loop;",
+        "begin;\nfor variable in low_value .. high_value loop\n\t-- Loop body goes here \nend loop;",
+        "for variable in low_value .. high_value loop\n\t-- (Loop body)   \nend loop;",
+        "for variable in low_value .. high_value loop\n\t-- (Loop body)    \nend;"
+    ],
+    "created_at": "2026-07-05T19:01:44.743656+00:00"
+},
+{
+    "id": 47456,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada language, _________ are used for encapsulation.",
+    "op": [
+        "Records",
+        "Packages",
+        "Variables",
+        "Functions"
+    ],
+    "created_at": "2026-07-05T19:01:55.418967+00:00"
+},
+{
+    "id": 47464,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Array index in Ada:",
+    "op": [
+        "must be an integer",
+        "cannot be a character",
+        "can be of any discrete type",
+        "should always be a floating point number"
+    ],
+    "created_at": "2026-07-05T19:02:03.144642+00:00"
+},
+{
+    "id": 47475,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Concurrency in Ada language is achieved through _______________.",
+    "op": [
+        "Packages",
+        "Classes",
+        "Tasking",
+        "Controls"
+    ],
+    "created_at": "2026-07-05T19:02:11.742151+00:00"
+},
+{
+    "id": 47490,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is true regarding ‘tagged type’ in Ada language?",
+    "op": [
+        "It can be extended.",
+        "It cannot be used to declare an object.",
+        "It is similar to templates in C++",
+        "It is another form friend function"
+    ],
+    "created_at": "2026-07-05T19:02:22.035743+00:00"
+},
+{
+    "id": 47499,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The enum type of Ada langauge is different from the enum type of C language as no____________ on Ada enum type is performed.",
+    "op": [
+        "arithmetic operation",
+        "boolean operation",
+        "logical operation",
+        "relational operation"
+    ],
+    "created_at": "2026-07-05T19:02:31.420185+00:00"
+},
+{
+    "id": 47512,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a correct way to raise an exception in Ada?",
+    "op": [
+        "raise overFlow;",
+        "raises overFlow;",
+        "raises exception overFlow;",
+        "raised overFlow;"
+    ],
+    "created_at": "2026-07-05T19:02:41.601989+00:00"
+},
+{
+    "id": 49724,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is true regarding arrays in Ada language?",
+    "op": [
+        "Array can be created for integers only.",
+        "Array cannot have more than 10 elements.",
+        "Array can be defined without a specific size.",
+        "An array index must always start from 0."
+    ],
+    "created_at": "2026-07-05T19:53:30.338045+00:00"
+},
+{
+    "id": 49727,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Extensible types in Ada language are created through:",
+    "op": [
+        "Operator Overloading",
+        "Tagged types",
+        "Packages",
+        "Dynamic programming"
+    ],
+    "created_at": "2026-07-05T19:53:41.703096+00:00"
+},
+{
+    "id": 49760,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following feature of Ada language is similar to the pointers in C++ ?",
+    "op": [
+        "Records",
+        "Access Types",
+        "Arrays",
+        "Structures"
+    ],
+    "created_at": "2026-07-05T19:55:10.274012+00:00"
+},
+{
+    "id": 49785,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The first-level elements in LISP are called ________level elements.",
+    "op": [
+        "Priority",
+        "First",
+        "Index",
+        "Top"
+    ],
+    "created_at": "2026-07-05T19:56:15.001658+00:00"
+},
+{
+    "id": 50292,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a correct way to declare an array of 10 elements named as ‘student’ of integer type in Ada language?",
+    "op": [
+        "type student is array (1..10) of Integer;",
+        "int array student [10];",
+        "array student [10]: int",
+        "int student[10];"
+    ],
+    "created_at": "2026-07-05T20:41:14.479409+00:00"
+},
+{
+    "id": 50308,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The most important concept in LISP programming language is:",
+    "op": [
+        "Symbol",
+        "List",
+        "Object",
+        "Function"
+    ],
+    "created_at": "2026-07-05T20:42:24.609514+00:00"
+},
+{
+    "id": 50312,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Consider the following two statements written in Ada: type Months is (January, February, March, April, May, June, July); type Monthly_Sales is array(Months) of Float; What is size of array named ‘Monthly_Sales’?",
+    "op": [
+        "2",
+        "7",
+        "8",
+        "3"
+    ],
+    "created_at": "2026-07-05T20:42:33.125933+00:00"
+},
+{
+    "id": 50333,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following operator is used for string concatenation in Ada?",
+    "op": [
+        "&",
+        "!",
+        "*",
+        "$"
+    ],
+    "created_at": "2026-07-05T20:44:33.611774+00:00"
+},
+{
+    "id": 50334,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is used to represent code and data in LISP?",
+    "op": [
+        "T-symbol",
+        "S-expression",
+        "Package",
+        ">cdr statement"
+    ],
+    "created_at": "2026-07-05T20:44:41.542063+00:00"
+},
+{
+    "id": 50341,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Each ‘if’ statement in Ada language must be terminated with corresponding:",
+    "op": [
+        "‘then’ statement",
+        "‘end if’ statement",
+        "‘else’ statement",
+        "‘elsif’ statement"
+    ],
+    "created_at": "2026-07-05T20:46:13.327249+00:00"
+},
+{
+    "id": 50342,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Data types in Ada can be extended through:",
+    "op": [
+        "Inheritance",
+        "Functions",
+        "Arrays",
+        "Polymorphism"
+    ],
+    "created_at": "2026-07-05T20:46:21.38133+00:00"
+},
+{
+    "id": 50345,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A 'while' loop in Ada is terminated by ______ keyword.",
+    "op": [
+        "break",
+        "end loop",
+        "end while",
+        "exit"
+    ],
+    "created_at": "2026-07-05T20:46:29.825431+00:00"
+},
+{
+    "id": 50353,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The return value of a function in a tagged type of Ada language can be an instance of:",
+    "op": [
+        "Another function",
+        "Package",
+        "Tagged type",
+        "Template"
+    ],
+    "created_at": "2026-07-05T20:47:44.229271+00:00"
+},
+{
+    "id": 50533,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Using Ada language, the correct way to declare an integer type with the lower value being 1 and the upper value being 100 is __________.",
+    "op": [
+        "type Marks is range 1;;100;",
+        "type Marks is range 1..100;",
+        "type Marks is range 1::100;",
+        "type Marks is range 1,,100;"
+    ],
+    "created_at": "2026-07-05T21:29:05.101993+00:00"
+},
+{
+    "id": 50534,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ function is used to forbid the evaluation of x in LISP.",
+    "op": [
+        "(setq x)",
+        "(cons x)",
+        "(quote x)",
+        "(setf x)"
+    ],
+    "created_at": "2026-07-05T21:29:19.639169+00:00"
+},
+{
+    "id": 50536,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If you want to assign a value 10 to a variable named ‘Roll_No’ in Ada language, then which of the following is a correct way to do that?",
+    "op": [
+        "Roll_No -> 10;",
+        "Roll_No : 10;",
+        "Roll_No = 10;",
+        "Roll_No := 10;"
+    ],
+    "created_at": "2026-07-05T21:29:33.657547+00:00"
+},
+{
+    "id": 50537,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a valid symbol in LISP?",
+    "op": [
+        "Roll No.",
+        "CGPA",
+        "‘Price’",
+        "“Employee ID”"
+    ],
+    "created_at": "2026-07-05T21:29:44.841077+00:00"
+},
+{
+    "id": 50543,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Range Operator in ADA programming language?",
+    "op": [
+        ",,",
+        "%",
+        "..",
+        "#"
+    ],
+    "created_at": "2026-07-05T21:31:20.980491+00:00"
+},
+{
+    "id": 50544,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Generics in Ada language are like ________ in C++.",
+    "op": [
+        "templates",
+        "functions",
+        "classes",
+        "enumerators"
+    ],
+    "created_at": "2026-07-05T21:31:41.375365+00:00"
+},
+{
+    "id": 50627,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Ada language supports encapsulation through:",
+    "op": [
+        "Packages",
+        "Functions",
+        "Streams",
+        "Structures"
+    ],
+    "created_at": "2026-07-05T21:49:08.473644+00:00"
+},
+{
+    "id": 50630,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The structure that is used to group data and subprograms in Ada language is called:",
+    "op": [
+        "Array",
+        "Package",
+        "Class",
+        "Function"
+    ],
+    "created_at": "2026-07-05T21:50:12.575806+00:00"
+},
+{
+    "id": 50631,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which of the following style of programming, evaluation of expression is emphasized rather than execution of commands?",
+    "op": [
+        "Functional Programming",
+        "Aspect-based Programming",
+        "Generic Programming",
+        "Object-oriented Programming"
+    ],
+    "created_at": "2026-07-05T21:50:29.579222+00:00"
+},
+{
+    "id": 50632,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada, Boolean is a _______________ enumeration type.",
+    "op": [
+        "Pre-defined",
+        "User defined",
+        "Client-defined",
+        "Post-defined"
+    ],
+    "created_at": "2026-07-05T21:50:53.964422+00:00"
+},
+{
+    "id": 50633,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada programming language, _____________ operator is used to access individual fields of a record type.",
+    "op": [
+        "Colon",
+        "Space",
+        "Dot",
+        "Exclamation"
+    ],
+    "created_at": "2026-07-05T21:51:12.035059+00:00"
+},
+{
+    "id": 50634,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A function in Ada language can have:",
+    "op": [
+        "any number of ‘return’ statements",
+        "only one ‘return’ statement",
+        "at-least three ‘return’ statements",
+        "maximum two ‘return’ statements"
+    ],
+    "created_at": "2026-07-05T21:52:21.003486+00:00"
+},
+{
+    "id": 50912,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following operator in Ada is used to check the non-equality of two operands?",
+    "op": [
+        "!=",
+        "/=",
+        "==!",
+        "<>"
+    ],
+    "created_at": "2026-07-05T23:38:04.706309+00:00"
+},
+{
+    "id": 50913,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "One of the major design goal of Ada language was ________________.",
+    "op": [
+        "to help testers to test Ada application easily",
+        "to make it difficult for developers to make mistakes",
+        "to help developers to code the software in lesser time",
+        "to help develop an automated IDE for Ada"
+    ],
+    "created_at": "2026-07-05T23:38:13.002932+00:00"
+},
+{
+    "id": 50914,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is correct syntax of simple loop in Ada?",
+    "op": [
+        "loop := is simple\n \t-- loop body;\n end loop simple;",
+        "loop : simple\n \t-- loop body;\n end simple;",
+        "loop\n \t-- loop body;\n end loop;",
+        "simple : loop\n \t-- loop body;\n exit simple;"
+    ],
+    "created_at": "2026-07-05T23:38:29.674556+00:00"
+},
+{
+    "id": 50915,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the case of Decimal fixed point type in Ada language, the distance between values is implemented as a power of ______.",
+    "op": [
+        "10",
+        "2",
+        "8",
+        "16"
+    ],
+    "created_at": "2026-07-05T23:38:36.964996+00:00"
+},
+{
+    "id": 50916,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Correct syntax of creating variable of a specific length in Ada is:",
+    "op": [
+        "Some_String: String(1..20);",
+        "Some_String: String(1,20);",
+        "Some_String: String(1 : 20);",
+        "Some_String: String(1>20);"
+    ],
+    "created_at": "2026-07-05T23:38:43.252886+00:00"
+},
+{
+    "id": 51248,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "We use tagged type in Ada for ________________.",
+    "op": [
+        "Abstraction",
+        "Polymorphism",
+        "Inheritance",
+        "Encapsulation"
+    ],
+    "created_at": "2026-07-06T00:53:54.278535+00:00"
+},
+{
+    "id": 51250,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A/An _________________is a sequence of ordered enumeration literals in Ada.",
+    "op": [
+        "Struct type",
+        "Float data type",
+        "String data type",
+        "Enumeration type"
+    ],
+    "created_at": "2026-07-06T00:54:04.405514+00:00"
+},
+{
+    "id": 51251,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement of LISP generate an error?",
+    "op": [
+        ">(+ (/ 3 5) 4)",
+        ">(+ (sqrt 4) 4.0)",
+        ">(sqrt x)",
+        ">(setq x 3.0)"
+    ],
+    "created_at": "2026-07-06T00:54:15.530402+00:00"
+},
+{
+    "id": 51254,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A ‘break’ statement in C-language is used to exit from loop structure. It’s alternative in Ada language is:",
+    "op": [
+        "kill",
+        "breakif",
+        "exit",
+        "terminate"
+    ],
+    "created_at": "2026-07-06T00:55:21.543761+00:00"
+},
+{
+    "id": 51257,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Lists can be constructed (created and extended) with the help of ________ basic functions in LISP.",
+    "op": [
+        "Five",
+        "Three",
+        "Two",
+        "Four"
+    ],
+    "created_at": "2026-07-06T00:55:37.032973+00:00"
+},
+{
+    "id": 51259,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following were main design goals of Ada language EXCEPT:",
+    "op": [
+        "Design language for the Department of Defence (USA)",
+        "Avoid unintentional mistakes during programming",
+        "Designing a portable language",
+        "Program reliability and maintenance"
+    ],
+    "created_at": "2026-07-06T00:55:50.951346+00:00"
+},
+{
+    "id": 51260,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Using Ada, the correct way to declare a floating point type with 15 decimal digits of precision is __________.",
+    "op": [
+        "type Double is digit 15;",
+        "type Double in digit 15;",
+        "type Double in digits 15;",
+        "type Double is digits 15;"
+    ],
+    "created_at": "2026-07-06T00:56:03.85813+00:00"
+},
+{
+    "id": 51504,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada, the correct values of the following modular type are _______________. type M is mod 7;",
+    "op": [
+        "1,2,3,4,5,6,7",
+        "0,1,2,3,4,5,6",
+        "1,2,3,4,5,6",
+        "0,1,2,3,4,5"
+    ],
+    "created_at": "2026-07-06T01:44:22.410931+00:00"
+},
+{
+    "id": 51505,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of following is the membership operator in Ada?",
+    "op": [
+        "@",
+        "^",
+        "mem",
+        "in"
+    ],
+    "created_at": "2026-07-06T01:44:40.68689+00:00"
+},
+{
+    "id": 51508,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada, elementary types are also termed as ___________.",
+    "op": [
+        "Built-in Types",
+        "Static Types",
+        "User-defined Types",
+        "Public Types"
+    ],
+    "created_at": "2026-07-06T01:45:03.498978+00:00"
+},
+{
+    "id": 51510,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a part of block statement structure in Ada?",
+    "op": [
+        "Exception",
+        "Declare",
+        "Return",
+        "Begin"
+    ],
+    "created_at": "2026-07-06T01:45:25.046324+00:00"
+},
+{
+    "id": 51517,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The symbols used for logical true and false in LISP are:",
+    "op": [
+        "Tr and Fr",
+        "Y and N",
+        "T and NIL",
+        "T and F"
+    ],
+    "created_at": "2026-07-06T01:46:09.24661+00:00"
+},
+{
+    "id": 51525,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ operations in Ada language must have one of its parameters of the tagged type.",
+    "op": [
+        "Primitive",
+        "Generic",
+        "Concurrent",
+        "Concurrent"
+    ],
+    "created_at": "2026-07-06T01:47:36.89816+00:00"
+},
+{
+    "id": 51556,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In ADA programming language, ** operator is used for ___________.",
+    "op": [
+        "Range",
+        "Exponentiation",
+        "Membership",
+        "Remainder"
+    ],
+    "created_at": "2026-07-06T01:51:22.823374+00:00"
+},
+{
+    "id": 51557,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The list of parameters in Ada subprograms is separated by ___________.",
+    "op": [
+        "Colon",
+        "Comma",
+        "Semicolon",
+        "Dot"
+    ],
+    "created_at": "2026-07-06T01:52:09.679582+00:00"
+},
+{
+    "id": 51780,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following function of LISP assigns value 5 to symbol y?",
+    "op": [
+        ">(setq,5,y)",
+        ">(setq  5 y)",
+        ">(setq y 5)",
+        ">(setq,y,5)"
+    ],
+    "created_at": "2026-07-06T02:29:58.250126+00:00"
+},
+{
+    "id": 51781,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________________ is not a discrete type in Ada.",
+    "op": [
+        "Integer type",
+        "String Type",
+        "Character type",
+        "Modular type"
+    ],
+    "created_at": "2026-07-06T02:30:14.348031+00:00"
+},
+{
+    "id": 51783,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are ________ built in character types in Ada.",
+    "op": [
+        "Two",
+        "Five",
+        "Three",
+        "Four"
+    ],
+    "created_at": "2026-07-06T02:30:27.162282+00:00"
+},
+{
+    "id": 51785,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an invalid symbol in LISP?",
+    "op": [
+        "Test symbol",
+        "Testsymbol",
+        "Test-symbol",
+        "Test_symbol"
+    ],
+    "created_at": "2026-07-06T02:30:33.508051+00:00"
+},
+{
+    "id": 51922,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Ada language supports function overloading based on their:",
+    "op": [
+        "parameters",
+        "return type",
+        "running time",
+        "characteristics"
+    ],
+    "created_at": "2026-07-06T02:55:27.210528+00:00"
+},
+{
+    "id": 51943,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the case of Ordinary fixed point type of Ada language, the distance between values is implemented as a power of ______.",
+    "op": [
+        "10",
+        "8",
+        "16",
+        "2"
+    ],
+    "created_at": "2026-07-06T03:01:37.140628+00:00"
+},
+{
+    "id": 51946,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Discriminated Records in Ada are like ____________ types in C.",
+    "op": [
+        "Set",
+        "Union",
+        "Intersection",
+        "Join"
+    ],
+    "created_at": "2026-07-06T03:01:59.107671+00:00"
+},
+{
+    "id": 52312,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following post-test loop is not supported in Ada language?",
+    "op": [
+        "‘do while’ loop",
+        "Infinite loop",
+        "‘for’ loop",
+        "‘while’ loop"
+    ],
+    "created_at": "2026-07-06T04:17:08.195783+00:00"
+},
+{
+    "id": 52321,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Generics in Ada language allow parameterization of _____________.",
+    "op": [
+        "Programs",
+        "Subprograms",
+        "Objects",
+        "Variables"
+    ],
+    "created_at": "2026-07-06T04:18:09.717966+00:00"
+},
+{
+    "id": 52324,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada, the correct way to declare a Boolean type with values of False and True is _____________",
+    "op": [
+        "type Boolean is (False; True);",
+        "type Boolean is (False, True);",
+        "type Boolean is (False. True);",
+        "type Boolean is (False: True);"
+    ],
+    "created_at": "2026-07-06T04:18:35.166454+00:00"
+},
+{
+    "id": 52333,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada language, ___________ are similar to classes in other languages.",
+    "op": [
+        "Packages",
+        "Abstract Data types",
+        "Structures",
+        "Controls"
+    ],
+    "created_at": "2026-07-06T04:19:10.027571+00:00"
+},
+{
+    "id": 52384,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "We may create our own exceptions in ______.",
+    "op": [
+        "Ada",
+        "C++",
+        "C",
+        "SNOBOL"
+    ],
+    "created_at": "2026-07-06T04:26:08.8567+00:00"
+},
+{
+    "id": 52386,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement of Ada language is similar to ‘throw’ statement of C++?",
+    "op": [
+        "disaster",
+        "raise",
+        "exception",
+        "exit"
+    ],
+    "created_at": "2026-07-06T04:26:26.90793+00:00"
+},
+{
+    "id": 52388,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A ‘switch’ statement is C-language is used for decision making. Its alternative in Ada language is:",
+    "op": [
+        "‘case’ statement",
+        "‘record’ statement",
+        "‘while’ statement",
+        "‘for’ statement"
+    ],
+    "created_at": "2026-07-06T04:26:45.303423+00:00"
+},
+{
+    "id": 52392,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A ________ is used to signify a potentially infinite loop in Ada.",
+    "op": [
+        "Special loop",
+        "Master loop",
+        "Full loop",
+        "simple loop"
+    ],
+    "created_at": "2026-07-06T04:27:16.281173+00:00"
+},
+{
+    "id": 52453,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ is the Modulus Operator in ADA programming language.",
+    "op": [
+        "&",
+        "Modulu",
+        "Mod",
+        "%"
+    ],
+    "created_at": "2026-07-06T04:36:50.310573+00:00"
+},
+{
+    "id": 52500,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Ada, the example of composite data type is___________ .",
+    "op": [
+        "integer",
+        "char",
+        "array",
+        "floating"
+    ],
+    "created_at": "2026-07-06T04:43:19.703502+00:00"
+},
+{
+    "id": 52501,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The alternative of ‘structure’ data type in Ada language is:",
+    "op": [
+        "Record",
+        "Array",
+        "Class",
+        "Union"
+    ],
+    "created_at": "2026-07-06T04:43:31.0826+00:00"
+},
+{
+    "id": 52513,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following can be used to declare objects in Ada language?",
+    "op": [
+        "Function",
+        "Stack",
+        "Array",
+        "Tagged type"
+    ],
+    "created_at": "2026-07-06T04:45:01.110023+00:00"
+},
+{
+    "id": 52550,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In LISP, an empty list represented by nil is the same as ________.",
+    "op": [
+        "<>",
+        "()",
+        "{}",
+        "0"
+    ],
+    "created_at": "2026-07-06T04:50:07.618431+00:00"
+},
+{
+    "id": 52564,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ language supports creating data types of your own choice.",
+    "op": [
+        "LISP",
+        "PROLOG",
+        "FORTRAN",
+        "Ada"
+    ],
+    "created_at": "2026-07-06T04:51:17.626906+00:00"
+},
+{
+    "id": 52617,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What will be the result of following function call in LISP? >(/ 7.0 2)",
+    "op": [
+        "9.0",
+        "3.5",
+        "7/2",
+        "7.02"
+    ],
+    "created_at": "2026-07-06T04:59:05.074514+00:00"
+},
+{
+    "id": 52709,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ is the Equality Operator in ADA.",
+    "op": [
+        "=:",
+        ":=",
+        "==",
+        "="
+    ],
+    "created_at": "2026-07-06T05:12:45.033601+00:00"
+},
+{
+    "id": 52881,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The correct way to declare an 'access' type in Ada is:",
+    "op": [
+        "type ref_type:= Address;",
+        "type ref_type = Address;",
+        "type ref_type is access Address;",
+        "type ref_type :: Address;"
+    ],
+    "created_at": "2026-07-06T05:37:41.544693+00:00"
+},
+{
+    "id": 53561,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "To terminate a simple loop in Ada, which of the following statement is used?",
+    "op": [
+        "break",
+        "end",
+        "exit",
+        "finish"
+    ],
+    "created_at": "2026-07-06T07:47:52.732187+00:00"
+},
+{
+    "id": 65639,
+    "cc": "CS508",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Consider the following two statements written in Ada:  type Months is (January, February, March, April, May, June, July);  type Monthly_Sales is array(Months) of Float; What is size of array named ‘Monthly_Sales’? ",
+    "op": [
+        "7",
+        "8",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:27:19.021626+00:00"
+},
+{
+    "id": 69976,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following statement of LISP creates an array of size 5?",
+    "op": [
+        "(make linear-array (5))",
+        "(setf (make-array ‘(5)))",
+        "(setf linear-array (make-array ‘(5)))",
+        "(setq linear-array (array ‘(5)))"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69977,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Disjunction in Prolog is through ________and conjunction is through _____.",
+    "op": [
+        "OR, Dot(.)",
+        "Coma (,), OR",
+        "OR, coma (,)",
+        "Dot(.) , OR"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69978,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Each axiom in PROLOG program is:",
+    "op": [
+        "an object",
+        "a function",
+        "Conditional statement",
+        "Horn clause"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69979,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "LISP was the first programming language that introduced the concept of ________.",
+    "op": [
+        "Pointers",
+        "Dynamic typing",
+        "Trees",
+        "Arrays"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69980,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Expert system___________ provide a structure to design expert system.",
+    "op": [
+        "Techniques",
+        "Shells",
+        "Mechanism",
+        "Lists"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69981,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "A PROLOG program can have:",
+    "op": [
+        "Multiple Goals",
+        "Even number of goals",
+        "Odd number of goals",
+        "Exactly one instance of a goal"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69982,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The correct way to write Goal for following statement in PROLOG is _________________. \"Which medicine relieves in diarrhea?\" ",
+    "op": [
+        "M (relieves, diarrhea).",
+        "M (diarrhea, relieves).",
+        "diarrhea (relieves, M).",
+        "relieves (M, diarrhea)."
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69983,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The first programming language to support Recursion was ________.",
+    "op": [
+        "FORTRAN",
+        "LISP",
+        "ADA",
+        "COBOL"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69984,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Following statement in PROLOG is considered as ______________________. \"unsuitable_for(Person, Drug) :- aggravates(Drug, Condition), suffers_from(Person, Condition).\" ",
+    "op": [
+        "Goal",
+        "Variable",
+        "Rule",
+        "Fact"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 69985,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Problem solving in PROLOG is achieved by using:",
+    "op": [
+        "Streams",
+        "Facts",
+        "Functions",
+        "Objects"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70072,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In Prolog, we specify _______and do not specify _________.",
+    "op": [
+        "Result , Inputs",
+        "Facts, Problem",
+        "Result , Outputs",
+        "Problem , Solution"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70073,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "A list in PROLOG can have elements of ________ type and size.",
+    "op": [
+        "Three",
+        "Fixed",
+        "Arbitrary",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70074,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The main feature of PROLOG language is its ability to handle and process __________.",
+    "op": [
+        "Objects",
+        "Classes",
+        "Functions",
+        "Symbols"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70076,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The basic tool for writing programs in PROLOG is:",
+    "op": [
+        "Polymorphism",
+        "Recursion",
+        "Object-Orientation",
+        "Inheritance"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70077,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Following is a fact, write the respective PROLOG clause: \"aspirin relieves headache.\" ",
+    "op": [
+        "aspirin (relieves, headache).",
+        "relieves (aspirin, headache).",
+        "headache (aspirin, relieves).",
+        "relieves (pain, headache)."
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70078,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\"dotime\" loop of LISP is similar in working to _______of Ada.",
+    "op": [
+        "if-else statement",
+        "switch statement",
+        "for loop",
+        "while loop"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70079,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In a PROLOG program, the names of all relationships and objects must begin with:",
+    "op": [
+        "Uppercase letter",
+        "Dollar sign ($)",
+        "Lowercase letter",
+        "Underscore"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70081,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The facts in a PROLOG program must end with:",
+    "op": [
+        "Full stop (.)",
+        "Comma (,)",
+        "Colon (:)",
+        "Semicolon (;)"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70082,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The correct syntax of ‘setf’ function in LISP is:",
+    "op": [
+        "(setf (get object attribute) value)",
+        "(setf (object value) attribute)",
+        "(setf (symbol attribute value) object)",
+        "(setf (object attribute) value)"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70119,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Identify the purpose of following statement in LISP:\n(setf students (make-array ‘(8 8)))",
+    "op": [
+        "It creates a linear array of eight elements",
+        "It converts the variable ‘students’ into an array of size 8",
+        "It creates an array of size 8 and assigns it to variable ‘students’",
+        "It creates a two-dimensional array of 64 elements"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70120,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Consider the following PROLOG statement: brother(ahmed, _ ) In the above statement, underscore ( _ ) is known as: ",
+    "op": [
+        "Concatenation Operator",
+        "Hidden Constant",
+        "Variable separator",
+        "Anonymous variable"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70121,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Prolog has very powerful ____________mechanism.",
+    "op": [
+        "Object oriented",
+        "Pointer arithmetic",
+        "Inference",
+        "String manipulation"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70123,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "To sort a list in PROLOG language, we need to: ",
+    "op": [
+        "Use the Forward Chaining mechanism",
+        "Tell the inference engine of PROLOG that what sorting means",
+        "Use Dynamic Programming Techniques",
+        "Write the sorting algorithm"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70124,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The correct way to write comments in a PROLOG program is:",
+    "op": [
+        "/* This is also a comment */",
+        "# Consider this a comment",
+        "% This is another comment",
+        "// This is a comment"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70125,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In a PROLOG program, the definitions of predicate sentences or phrases are known as:",
+    "op": [
+        "Inferences",
+        "Declarations",
+        "Clauses",
+        "Facts"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70128,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "All the variables in PROLOG clauses/predicates are: ",
+    "op": [
+        "Generic",
+        "Global",
+        "Strongly typed",
+        "Local"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70129,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following statement in LISP is used to list all properties of symbol ‘k’?",
+    "op": [
+        ">(get all ‘k)",
+        ">(symbol-plist ‘k)",
+        ">(get ‘k)",
+        ">(obtain all ‘k)"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70130,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Array indexes in LISP can be:",
+    "op": [
+        "Characters",
+        "any discrete type",
+        "Floating point numbers",
+        "Integers"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70142,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "While eliminating repeated elements of list in PROLOG, each element should be replaced with: ",
+    "op": [
+        "Previous element",
+        "Single copy of the same element",
+        "Next element",
+        "Blank space"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70145,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "PROLOG supports the __________ programming paradigm.",
+    "op": [
+        "Declarative",
+        "Aspect Oriented",
+        "Object Oriented",
+        "Functional"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70146,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "_________ operator in Prolog is used for List construction and also for List dismantling.",
+    "op": [
+        "| (Vertical Bar)",
+        ": (Colon)",
+        ". (Full Stop)",
+        "! (Sign of Exclamation)"
+    ],
+    "created_at": "2026-07-15T13:27:44.846492+00:00"
+},
+{
+    "id": 70184,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Following statement in PROLOG is considered as ______________________. \"relieves(penicilline, pneumonia)\" ",
+    "op": [
+        "Rule",
+        "Fact",
+        "Variable",
+        "Constant"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70187,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is not required to write a program in PROLOG?",
+    "op": [
+        "Fact",
+        "Logical Relationship",
+        "Algorithm",
+        "Rule"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70189,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The head and tail of a list in PROLOG is separated by:",
+    "op": [
+        "Semicolon (;)",
+        "Colon (:)",
+        "Comma (,)",
+        "Vertical bar (|)"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70192,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The unchanging information about objects and their relationships in PROLOG is known as:",
+    "op": [
+        "Fact",
+        "Clause",
+        "Atom",
+        "Query"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70212,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In the context of PROLOG language, which problem(s) may mostly occur in backward chaining algorithm?",
+    "op": [
+        "Complexity",
+        "Readiness",
+        "Completeness",
+        "Repetition"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70213,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In the process of removing consecutive duplicates of list elements in PROLOG, the order of elements should: ",
+    "op": [
+        "be Reversed",
+        "be in alphabetical order",
+        "not be changed",
+        "be in reverse alphabetical order"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70214,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "________ in PROLOG are loosely typed. ",
+    "op": [
+        "Variables",
+        "Records",
+        "Constants",
+        "Atoms"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70215,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "How many elements are in the following PROLOG list? [[a,list,of,lists], and, numbers,[1,2,3]] ",
+    "op": [
+        "2",
+        "4",
+        "9",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70216,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The function that is used to remove all properties of a symbol in LISP is:",
+    "op": [
+        "terminate-all",
+        "remprop",
+        "REMOVE",
+        "NULLP"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70217,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "What is the objective of following statement in LISP?\n>(setf (get 'w 'age) 20)",
+    "op": [
+        "It sets the age property of symbol w as 20",
+        "It assigns value 20 to setf and gets the values of variables w and age",
+        "It simply sets the value of ‘get’, ‘w’ and ‘age’ as 20",
+        "It gets the age of symbol w and assigns it to setf after 20 milliseconds"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70218,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following programming language is very effective in solving complex puzzles? ",
+    "op": [
+        "C/C++",
+        "PROLOG",
+        "FORTRAN",
+        "ALGOL"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70219,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The property list in LISP is a substitute of _____________.",
+    "op": [
+        "C/C++ structure",
+        "Compiler",
+        "C/C++ pointer",
+        "Java interfaces"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70220,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "To create a two-dimensional array in LISP, ________ index values are used.",
+    "op": [
+        "Six",
+        "Two",
+        "Three",
+        "Four"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70221,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Prolog database is based upon __________.",
+    "op": [
+        "Facts and queries",
+        "Facts and rules",
+        "Facts",
+        "Rules and queries"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70222,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is a correct variable name in PROLOG?",
+    "op": [
+        "marks",
+        "percentage",
+        "roll_No.",
+        "Age"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70223,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If the following statement eliminates duplicate elements of a list in PROLOG, then after elimination, what will be the final state of list? ?- compress([z,z,z,z,y,x,x,z,z,w,w,w,n,n], X) ",
+    "op": [
+        "X = [y,z,n,x,w]",
+        "X = [z,y,x,z,w,n]",
+        "X = [z,w,y,x,n]",
+        "X = [n,w,z,x,z]"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70295,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Following statement in PROLOG is considered as ______________________. \"should_take(nadia, Drug)\" ",
+    "op": [
+        "Fact",
+        "Variable",
+        "Rule",
+        "Goal"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70297,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following are the types of constants in PROLOG? ",
+    "op": [
+        "atoms and numbers",
+        "float and numbers",
+        "single and decimal",
+        "short and char"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70304,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is treated as an atom and not as a list data type in PROLOG?",
+    "op": [
+        "[a]",
+        "[ ]",
+        "[a, b, c]",
+        "[a, t, o, m]"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70305,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "A query given to a PROLOG system:",
+    "op": [
+        "cannot contain variables",
+        "does not involve database",
+        "is a pattern matching exercise",
+        "is treated an object"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70314,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "How many times the value of a PROLOG variable can be changed after first assignment?",
+    "op": [
+        "Twice",
+        "Many times",
+        "Zero (Can not be changed)",
+        "Once"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70333,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is the only means to solve a problem in PROLOG?",
+    "op": [
+        "Atoms",
+        "Symbols",
+        "Facts",
+        "Functions"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70355,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "How many sub-goals a program can have in PROLOG?",
+    "op": [
+        "One",
+        "Two",
+        "Three",
+        "many"
+    ],
+    "created_at": "2026-07-15T13:27:45.903404+00:00"
+},
+{
+    "id": 70377,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following function is used in LISP to see all properties of a symbol?",
+    "op": [
+        "get",
+        "symbol-plist",
+        "enlist",
+        "defun"
+    ],
+    "created_at": "2026-07-15T13:27:49.452585+00:00"
+},
+{
+    "id": 70388,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The variables in PROLOG are actually:",
+    "op": [
+        "Structures",
+        "Objects",
+        "Constant Placeholders",
+        "Reserved Words"
+    ],
+    "created_at": "2026-07-15T13:27:49.452585+00:00"
+},
+{
+    "id": 70405,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is used as a placeholder for a value that is not required in a PROLOG program?",
+    "op": [
+        "Colon (:)",
+        "Underscore (_)",
+        "Parenthesis",
+        "Space"
+    ],
+    "created_at": "2026-07-15T13:27:49.452585+00:00"
+},
+{
+    "id": 70526,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "A variable in a __________ starts with a capital letter or an underscore.",
+    "op": [
+        "PROLOG",
+        "LISP",
+        "ALGOL",
+        "SNOBOL"
+    ],
+    "created_at": "2026-07-15T13:27:49.452585+00:00"
+},
+{
+    "id": 70554,
+    "cc": "CS508",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Everything in LISP is considered as a __________.",
+    "op": [
+        "Function",
+        "Symbol",
+        "Class",
+        "Object"
+    ],
+    "created_at": "2026-07-15T13:27:49.452585+00:00"
+}
+]

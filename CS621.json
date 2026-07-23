@@ -1,0 +1,518 @@
+[
+    {
+        "id": 24001,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In _________ communication, the sender sends a message to the receiver and continues with its execution without waiting for a response.",
+        "op": [
+            "buffered",
+            "unbuffered",
+            "synchronous",
+            "asynchronous"
+        ],
+        "created_at": "2026-06-28T19:21:14.978436+00:00"
+    },
+    {
+        "id": 24007,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Tasks can be divided into _______ broad categories in terms their interdependences.",
+        "op": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "created_at": "2026-06-28T19:21:23.129174+00:00"
+    },
+    {
+        "id": 24012,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ in distributed computing refers to the process of transferring software code from one computer or node in a network to another.",
+        "op": [
+            "Deadlock",
+            "Concurrency",
+            "Scalability",
+            "Code migration"
+        ],
+        "created_at": "2026-06-28T19:21:33.842332+00:00"
+    },
+    {
+        "id": 24017,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "____________is a contract between processes and the data store that says that if processes agree to obey certain rules, the store promises to work correctly.",
+        "op": [
+            "Sequential model",
+            "Client centric consistency model",
+            "Incremental model",
+            "Data consistency model"
+        ],
+        "created_at": "2026-06-28T19:21:40.084814+00:00"
+    },
+    {
+        "id": 24021,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The term _________ is used to refer to program code that can be transferred from one computer to another and run at the destination.",
+        "op": [
+            "object code",
+            "mobile code",
+            "source code",
+            "pseudo code"
+        ],
+        "created_at": "2026-06-28T19:21:48.000832+00:00"
+    },
+    {
+        "id": 24026,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ connects nodes across large geographic area.",
+        "op": [
+            "WAN",
+            "LAN",
+            "CAN",
+            "MAN"
+        ],
+        "created_at": "2026-06-28T19:21:54.818329+00:00"
+    },
+    {
+        "id": 24033,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _________ is the conventional multicore processor with limited parallelism to exploit.",
+        "op": [
+            "Graphics Processing Unit (GPU)",
+            "Gateway Processing Unit (GPU)",
+            "Central Processing Unit (CPU)",
+            "Command Processing Unit (CPU)"
+        ],
+        "created_at": "2026-06-28T19:22:02.871977+00:00"
+    },
+    {
+        "id": 24042,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Thread is a basic unit of ________ utilization.",
+        "op": [
+            "Storage",
+            "Memory",
+            "CPU",
+            "bandwidth"
+        ],
+        "created_at": "2026-06-28T19:22:11.351217+00:00"
+    },
+    {
+        "id": 24047,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Replication and caching for performance are widely applied as __________ techniques.",
+        "op": [
+            "scaling",
+            "deadlock",
+            "context switching",
+            "concurrency"
+        ],
+        "created_at": "2026-06-28T19:22:19.28775+00:00"
+    },
+    {
+        "id": 24454,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "________ is NVIDIA’s general purpose parallel computing architecture designed for calculation-intensive computation on GPU hardware.",
+        "op": [
+            "CAD",
+            "SoC",
+            "CUDA",
+            "DEC"
+        ],
+        "created_at": "2026-06-28T19:41:01.681889+00:00"
+    },
+    {
+        "id": 24481,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Which of the following has emerged as the standard threads API, supported by most vendors?",
+        "op": [
+            "POSIX threads",
+            "Java threads",
+            "Solaris threads",
+            "NT threads"
+        ],
+        "created_at": "2026-06-28T19:43:43.811223+00:00"
+    },
+    {
+        "id": 24488,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is a non-blocking network allowing multiple input output connection pattern to be achieved simultaneously.",
+        "op": [
+            "Cross Bar",
+            "Mesh",
+            "Tree",
+            "Bus"
+        ],
+        "created_at": "2026-06-28T19:45:02.534843+00:00"
+    },
+    {
+        "id": 24499,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The finer decomposition of tasks always results in small time.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T19:45:37.014478+00:00"
+    },
+    {
+        "id": 24502,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _________ of a network with n nodes is the length of the maximum shortest path between any two nodes in the network.",
+        "op": [
+            "latency",
+            "bandwidth",
+            "diameter",
+            "bisection"
+        ],
+        "created_at": "2026-06-28T19:46:00.128679+00:00"
+    },
+    {
+        "id": 24513,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is true regarding thread accept?",
+        "op": [
+            "Can be scheduled to run on a CPU as an independent unit",
+            "Lightweight process",
+            "Executes within the address space of a process",
+            "Can not run on CPU as independent unit"
+        ],
+        "created_at": "2026-06-28T19:47:22.79282+00:00"
+    },
+    {
+        "id": 24530,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is the process by which data residing on a physical/virtual servers or cloud instance is continuously copied to a secondary server(s) or cloud instance.",
+        "op": [
+            "Data replication",
+            "Deadlock",
+            "Scalability",
+            "Concurrency"
+        ],
+        "created_at": "2026-06-28T19:48:52.59556+00:00"
+    },
+    {
+        "id": 24533,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "There are _________ commonly used decomposition techniques.",
+        "op": [
+            "Three",
+            "Five",
+            "Seven",
+            "Four"
+        ],
+        "created_at": "2026-06-28T19:49:01.278028+00:00"
+    },
+    {
+        "id": 24536,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is a specification for the developers and users of message passing libraries.",
+        "op": [
+            "Graphics Processing Interfacet (GPI)",
+            "Message Passing Unit (MPU)",
+            "Graphics Processing Unit (GPU)",
+            "Message Passing Interface (MPI)"
+        ],
+        "created_at": "2026-06-28T19:49:12.840616+00:00"
+    },
+    {
+        "id": 24537,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "_________ is process to forward packets coming in from one port to a port leading towards the destination.",
+        "op": [
+            "Latency",
+            "Context switching",
+            "Temporal locality",
+            "Switching"
+        ],
+        "created_at": "2026-06-28T19:49:20.714747+00:00"
+    },
+    {
+        "id": 24853,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The problem of finding the minimum in a list is an example of decomposition of data based on _______________.",
+        "op": [
+            "both input and output data",
+            "output data",
+            "input data",
+            "intermediate data"
+        ],
+        "created_at": "2026-06-28T20:24:09.467445+00:00"
+    },
+    {
+        "id": 24855,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "________ of Stanford University considers power and massive parallelism as the major benefits of GPUs over CPUs for the future.",
+        "op": [
+            "Bill Dally",
+            "Geoffrey Hinton",
+            "John McCarthy",
+            "Larry Page"
+        ],
+        "created_at": "2026-06-28T20:24:34.776345+00:00"
+    },
+    {
+        "id": 24857,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "_________ consist of point-to-point communication links among processing nodes and are also referred to as direct networks.",
+        "op": [
+            "Bus networks",
+            "Dynamic networks",
+            "Indirect networks",
+            "Static networks"
+        ],
+        "created_at": "2026-06-28T20:25:06.197431+00:00"
+    },
+    {
+        "id": 25005,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "____________ is a special class of distributed data-store which is characterized by the lack of simultaneous updates. Here, the emphasis is more on maintaining a consistent view of things for the individual client process that is currently operating on the data-store.",
+        "op": [
+            "Sequential model",
+            "Data consistency model",
+            "Client centric consistency model",
+            "Incremental model"
+        ],
+        "created_at": "2026-06-28T21:01:55.300549+00:00"
+    },
+    {
+        "id": 25010,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Number of bits transmitted in a unit of time is known as____________.",
+        "op": [
+            "bisection",
+            "diameter",
+            "bandwidth",
+            "latency"
+        ],
+        "created_at": "2026-06-28T21:02:39.451761+00:00"
+    },
+    {
+        "id": 25013,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In _________ communication, the sender waits for a response from the receiver before proceeding with further execution. This ensures that the sender and receiver are in sync with each other.",
+        "op": [
+            "synchronous",
+            "buffered",
+            "unbuffered",
+            "asynchronous"
+        ],
+        "created_at": "2026-06-28T21:02:48.768054+00:00"
+    },
+    {
+        "id": 25015,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "Which of the following option is not the communication mode that can be used for message passing programming?",
+        "op": [
+            "Buffered/unbuffered",
+            "Verbal/non-verbal",
+            "Blocking/non-blocking",
+            "Synchronous/asynchronous"
+        ],
+        "created_at": "2026-06-28T21:02:57.982181+00:00"
+    },
+    {
+        "id": 25017,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In __________ control strategy, one central control unit is used to control the operations of the components of the system.",
+        "op": [
+            "distributed",
+            "supervised",
+            "centralized",
+            "decentralized"
+        ],
+        "created_at": "2026-06-28T21:03:13.458793+00:00"
+    },
+    {
+        "id": 25019,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "___________ is a method of communication in distributed systems where processes or objects exchange messages with each other to share information or coordinate activities.",
+        "op": [
+            "Deadlock",
+            "Concurrency",
+            "Caching",
+            "Message passing"
+        ],
+        "created_at": "2026-06-28T21:03:21.024292+00:00"
+    },
+    {
+        "id": 25067,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "POSIX API, also referred to as_________________.",
+        "op": [
+            "Pthreads",
+            "POSIXthreads",
+            "Jthreads",
+            "SRthreads"
+        ],
+        "created_at": "2026-06-28T21:21:02.172126+00:00"
+    },
+    {
+        "id": 25068,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The ________ specifies a standard 1003.1c-1995, POSIX API, also referred to as Pthreads",
+        "op": [
+            "IEEE",
+            "IBM",
+            "CISCO",
+            "ISO"
+        ],
+        "created_at": "2026-06-28T21:21:12.266052+00:00"
+    },
+    {
+        "id": 25072,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "To access the shared data, a thread must first try to __________.",
+        "op": [
+            "acquire Mutex-lock",
+            "do both unlock Mutex-lock and enter to the critical section",
+            "unlock Mutex-lock",
+            "enter to critical section"
+        ],
+        "created_at": "2026-06-28T21:21:57.331984+00:00"
+    },
+    {
+        "id": 25073,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The _________ consistency model states that, when no updates occur for a long period of time, eventually all updates will propagate through the system and all the replicas will be consistent.",
+        "op": [
+            "eventual",
+            "casual",
+            "sequential",
+            "incremental"
+        ],
+        "created_at": "2026-06-28T21:22:15.019557+00:00"
+    },
+    {
+        "id": 25074,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In _________ topology, all devices are connected to a central switch, which makes it easy to add new nodes without rebooting all currently connected devices.",
+        "op": [
+            "star",
+            "bus",
+            "mesh",
+            "switch"
+        ],
+        "created_at": "2026-06-28T21:22:33.271744+00:00"
+    },
+    {
+        "id": 25271,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In task dependency graph, ______ indicating that the result of one task is required for processing the next.",
+        "op": [
+            "first node",
+            "node",
+            "last node",
+            "edge"
+        ],
+        "created_at": "2026-06-28T22:06:53.856298+00:00"
+    },
+    {
+        "id": 25541,
+        "cc": "CS621",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "___________ is a chip or electronic circuit capable of rendering graphics for display on an electronic device.",
+        "op": [
+            "Command Processing Unit (CPU)",
+            "Gateway Processing Unit (GPU)",
+            "Central Processing Unit (CPU)",
+            "Graphics Processing Unit (GPU)"
+        ],
+        "created_at": "2026-06-29T01:39:33.32107+00:00"
+    },
+    {
+        "id": 48059,
+        "cc": "CS621",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Adding more compute nodes increases the following except ______________________.",
+        "op": [
+            "Bandwidth",
+            "flops/s",
+            "I/O",
+            "Aggregate memory"
+        ],
+        "created_at": "2026-07-05T19:09:31.206362+00:00"
+    },
+    {
+        "id": 48818,
+        "cc": "CS621",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Parallel I/O uses ________ I/O devices to read or write data in parallel.",
+        "op": [
+            "only three",
+            "only two",
+            "single",
+            "multiple"
+        ],
+        "created_at": "2026-07-05T19:21:50.865244+00:00"
+    }
+]

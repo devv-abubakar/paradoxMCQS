@@ -1,0 +1,856 @@
+[
+    {
+        "id": 24115,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How many bad smells fall in Bloaters?",
+        "op": [
+            "Three",
+            "Six",
+            "Four",
+            "Five"
+        ],
+        "created_at": "2026-06-28T19:24:49.333362+00:00"
+    },
+    {
+        "id": 24394,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "At the time of refactoring, the ________________ behavior of the ________________ does not change.",
+        "op": [
+            "External, Object",
+            "External, System",
+            "Internal, Object",
+            "Internal, System"
+        ],
+        "created_at": "2026-06-28T19:36:43.943227+00:00"
+    },
+    {
+        "id": 24405,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Code has to work mostly correctly before you _________________ it.",
+        "op": [
+            "Refactor",
+            "Freeze",
+            "Hacked",
+            "Rewrite"
+        ],
+        "created_at": "2026-06-28T19:37:03.719859+00:00"
+    },
+    {
+        "id": 24410,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Reflexive associations are an association to connect a class to___________.",
+        "op": [
+            "Each other",
+            "Others",
+            "Itself",
+            "One another"
+        ],
+        "created_at": "2026-06-28T19:37:21.742491+00:00"
+    },
+    {
+        "id": 24418,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "____________ deal with dynamic interactions among societies of classes and objects.",
+        "op": [
+            "Architectural patterns",
+            "Structural patterns",
+            "Creational patterns",
+            "Behavioural patterns"
+        ],
+        "created_at": "2026-06-28T19:37:41.332539+00:00"
+    },
+    {
+        "id": 24423,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Façade Design Pattern is a ________________.",
+        "op": [
+            "Structural Pattern",
+            "Observer Pattern",
+            "Creational Pattern",
+            "Behavioral Pattern"
+        ],
+        "created_at": "2026-06-28T19:38:00.134203+00:00"
+    },
+    {
+        "id": 24427,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "___________deal with initializing and configuring classes and objects.",
+        "op": [
+            "Behavioural Patterns",
+            "Creational Patterns",
+            "Structural Patterns",
+            "Bridge Patterns"
+        ],
+        "created_at": "2026-06-28T19:38:13.765928+00:00"
+    },
+    {
+        "id": 24433,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In ________________________the ends of the association are semantically different from each other, even though the associated class is the same.",
+        "op": [
+            "Symmetric Reflexive Association",
+            "Reflexive Association",
+            "Symmetric Association",
+            "Asymmetric Reflexive Association"
+        ],
+        "created_at": "2026-06-28T19:38:35.490226+00:00"
+    },
+    {
+        "id": 24434,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How many bad smells fall in Object-orientation abusers?",
+        "op": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "created_at": "2026-06-28T19:38:56.083848+00:00"
+    },
+    {
+        "id": 24935,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In state design patterns, by ________________ each state in a class, we localize any changes that need to be made.",
+        "op": [
+            "Aggregating",
+            "Encapsulating",
+            "Associating",
+            "Inheriting"
+        ],
+        "created_at": "2026-06-28T20:39:45.392407+00:00"
+    },
+    {
+        "id": 24937,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In order to avoid having instances changing their own classes, we have to ensure that we ___________.",
+        "op": [
+            "Destroy the old one and create a new one",
+            "Destroy all the instances of a class with no addition of new instances",
+            "Keep the old one and also create a new one",
+            "Destroy the old one and avoid creating a new one"
+        ],
+        "created_at": "2026-06-28T20:40:02.340831+00:00"
+    },
+    {
+        "id": 24939,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "_____________ defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.",
+        "op": [
+            "Strategy Pattern",
+            "MVC Pattern",
+            "Singleton Pattern",
+            "Design Pattern"
+        ],
+        "created_at": "2026-06-28T20:40:22.900871+00:00"
+    },
+    {
+        "id": 24941,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The benefit of the state pattern is that state-specific logic is localized in ________________ that represent that state.",
+        "op": [
+            "Structures",
+            "Classes",
+            "Functions",
+            "Arrays"
+        ],
+        "created_at": "2026-06-28T20:40:50.390688+00:00"
+    },
+    {
+        "id": 24997,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "By using strategy design pattern, you can change the behavior of context by ________________ it with different objects.",
+        "op": [
+            "Inheriting",
+            "Aggregating",
+            "Encapsulating",
+            "Associating"
+        ],
+        "created_at": "2026-06-28T21:00:16.666751+00:00"
+    },
+    {
+        "id": 25000,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In the specialization a____________________can be thought of an attribute that will have a different value in each subclass.",
+        "op": [
+            "Tag",
+            "Discriminator",
+            "Ticket",
+            "Marker"
+        ],
+        "created_at": "2026-06-28T21:00:47.22722+00:00"
+    },
+    {
+        "id": 25001,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Fowler’s book assigns “names” to refactoring in the same way that the _________________ book assigned names to patterns.",
+        "op": [
+            "K. N. Thompson",
+            "GoF's",
+            "William C. Wake",
+            "Steven Metsker"
+        ],
+        "created_at": "2026-06-28T21:01:07.028601+00:00"
+    },
+    {
+        "id": 25020,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In case of a tree data structure, all ________________ have the same structure and behavior.",
+        "op": [
+            "Classes",
+            "Variables",
+            "Objects",
+            "Nodes"
+        ],
+        "created_at": "2026-06-28T21:03:22.188795+00:00"
+    },
+    {
+        "id": 25177,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Design pattern ____________ is the abstract description of design problems and how the pattern solves it.",
+        "op": [
+            "Problem",
+            "Solution",
+            "Name",
+            "Element"
+        ],
+        "created_at": "2026-06-28T21:50:31.591192+00:00"
+    },
+    {
+        "id": 25364,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "_________  should be followed if you want to avoid duplicating data.",
+        "op": [
+            "Abstraction-Occurrence Pattern",
+            "Player Role Pattern",
+            "General Hierarchy Pattern",
+            "Facade Pattern"
+        ],
+        "created_at": "2026-06-29T00:00:58.339541+00:00"
+    },
+    {
+        "id": 25365,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "You want to avoid multiple inheritance. Which design pattern would you choose?",
+        "op": [
+            "General Hierarchy Pattern",
+            "Abstraction-Occurrence Pattern",
+            "Player-Role Pattern",
+            "Singleton Pattern"
+        ],
+        "created_at": "2026-06-29T00:01:23.491249+00:00"
+    },
+    {
+        "id": 25528,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "___________ deal with decoupling interface and implementation of classes and objects.",
+        "op": [
+            "Creational patterns",
+            "Architectural patterns",
+            "Behavioural patterns",
+            "Structural patterns"
+        ],
+        "created_at": "2026-06-29T01:30:17.501756+00:00"
+    },
+    {
+        "id": 42819,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How many bad smells fall in Object-orientation abusers?",
+        "op": [
+            "Six",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "created_at": "2026-06-29T12:12:08.971515+00:00"
+    },
+    {
+        "id": 42820,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In state design patterns, by ________________ each state in a class, we localize any changes that need to be made.",
+        "op": [
+            "Encapsulating",
+            "Aggregating",
+            "Associating",
+            "Inheriting"
+        ],
+        "created_at": "2026-06-29T12:12:22.666038+00:00"
+    },
+    {
+        "id": 42821,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "You want to avoid multiple inheritance. Which design pattern would you choose?",
+        "op": [
+            "Singleton Pattern",
+            "Player-Role Pattern",
+            "General Hierarchy Pattern",
+            "Abstraction-Occurrence Pattern"
+        ],
+        "created_at": "2026-06-29T12:12:38.569815+00:00"
+    },
+    {
+        "id": 42822,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Reflexive associations are an association to connect a class to___________.",
+        "op": [
+            "Itself",
+            "Each other",
+            "One another",
+            "Others"
+        ],
+        "created_at": "2026-06-29T12:13:18.395986+00:00"
+    },
+    {
+        "id": 42823,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Code has to work mostly correctly before you _________________ it.",
+        "op": [
+            "Hacked",
+            "Rewrite",
+            "Refactor",
+            "Freeze"
+        ],
+        "created_at": "2026-06-29T12:13:33.19073+00:00"
+    },
+    {
+        "id": 42824,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Design pattern ____________ is the abstract description of design problems and how the pattern solves it.",
+        "op": [
+            "Problem",
+            "Solution",
+            "Element",
+            "Name"
+        ],
+        "created_at": "2026-06-29T12:13:57.31134+00:00"
+    },
+    {
+        "id": 42825,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "At the time of refactoring, the ________________ behavior of the ________________ does not change.",
+        "op": [
+            "Internal, System",
+            "External, Object",
+            "External, System",
+            "Internal, Object"
+        ],
+        "created_at": "2026-06-29T12:14:14.569593+00:00"
+    },
+    {
+        "id": 42826,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In ________________________the ends of the association are semantically different from each other, even though the associated class is the same.",
+        "op": [
+            "Symmetric Reflexive Association",
+            "Symmetric Association",
+            "Asymmetric Reflexive Association",
+            "Reflexive Association"
+        ],
+        "created_at": "2026-06-29T12:14:23.531848+00:00"
+    },
+    {
+        "id": 42827,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Façade Design Pattern is a ________________.",
+        "op": [
+            "Creational Pattern",
+            "Observer Pattern",
+            "Structural Pattern",
+            "Behavioral Pattern"
+        ],
+        "created_at": "2026-06-29T12:14:34.491068+00:00"
+    },
+    {
+        "id": 42828,
+        "cc": "CS603",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Fowler’s book assigns “names” to refactoring in the same way that the _________________ book assigned names to patterns.",
+        "op": [
+            "K. N. Thompson",
+            "William C. Wake",
+            "GoF's",
+            "Steven Metsker"
+        ],
+        "created_at": "2026-06-29T12:14:43.525414+00:00"
+    },
+    {
+        "id": 47577,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "________________ verifies who the user is.",
+        "op": [
+            "Manipulation",
+            "Authentication",
+            "Authorization",
+            "Publication"
+        ],
+        "created_at": "2026-07-05T19:03:46.75764+00:00"
+    },
+    {
+        "id": 47586,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In terms of Structural Recommendations, the modules that produce data should be ____________ modules that consume data.",
+        "op": [
+            "Separated from",
+            "Merged with",
+            "Placed in the same class",
+            "Enclosed"
+        ],
+        "created_at": "2026-07-05T19:03:54.857072+00:00"
+    },
+    {
+        "id": 47596,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Client/server, component-based, layered architecture, message-bus, Separated Presentation, 3-tier/N-tier, object-oriented, and service-oriented architecture (SOA) are the examples of __________.",
+        "op": [
+            "Architectural styles",
+            "Rich Internet Application",
+            "Web Applications",
+            "Rich Client Applications"
+        ],
+        "created_at": "2026-07-05T19:04:02.669739+00:00"
+    },
+    {
+        "id": 47609,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following helps you to turn central features such as data access, cashing, workflow and validation into actions?",
+        "op": [
+            "Architecture frame",
+            "Class diagram",
+            "Engineering decisions",
+            "User stories"
+        ],
+        "created_at": "2026-07-05T19:04:11.023162+00:00"
+    },
+    {
+        "id": 47625,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In general while choosing an Appropriate Structure, design and document it only if doing so brings a positive return in terms of _____________.",
+        "op": [
+            "Increased development and maintenance costs",
+            "Decreased development and maintenance costs",
+            "Increased development but decreased maintenance costs",
+            "Decreased development but increased maintenance costs"
+        ],
+        "created_at": "2026-07-05T19:04:21.116813+00:00"
+    },
+    {
+        "id": 47642,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________ determines what resources a user can access.",
+        "op": [
+            "Aggregation",
+            "Authorization",
+            "Sophistication",
+            "Authentication"
+        ],
+        "created_at": "2026-07-05T19:04:30.83596+00:00"
+    },
+    {
+        "id": 47672,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "How to choose effective caching strategies?",
+        "op": [
+            "Choosing strategy depends on staff skills",
+            "Choosing strategy depends on problem, application type, environment and constraints",
+            "Choosing strategy depends on office environment",
+            "Choosing strategy only depends on hiring foreign professionals and constraints of the system"
+        ],
+        "created_at": "2026-07-05T19:04:49.498454+00:00"
+    },
+    {
+        "id": 47686,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Client-Server Pattern, the connectors are the _____________ they share among each other to carry out the system’s work.",
+        "op": [
+            "Clients and the Servers",
+            "Clients and Protocols",
+            "Messages and Servers",
+            "Protocols and Messages"
+        ],
+        "created_at": "2026-07-05T19:04:58.545064+00:00"
+    },
+    {
+        "id": 47706,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Is an indication of the responsiveness of a system to execute any action within a given interval of time and can be measured in terms of latency and throughput.",
+        "op": [
+            "Reliability",
+            "Performance",
+            "Flexibility",
+            "Availability"
+        ],
+        "created_at": "2026-07-05T19:05:11.805199+00:00"
+    },
+    {
+        "id": 47720,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Select the most suited application type for a scenario where you want to support data entry with forms in an occasionally connected scenario.",
+        "op": [
+            "Rich Internet applications",
+            "Service applications",
+            "Rich client applications",
+            "Mobile applications"
+        ],
+        "created_at": "2026-07-05T19:05:20.187213+00:00"
+    },
+    {
+        "id": 50076,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Depending on your requirements, you _____________ consider every quality attribute.",
+        "op": [
+            "Might or might not",
+            "Should never",
+            "Need to",
+            "Should always"
+        ],
+        "created_at": "2026-07-05T20:18:10.18798+00:00"
+    },
+    {
+        "id": 50082,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "______________ refers to a design decision with zero degrees of freedom, these include time and budget, technology, people and skills, politics, etc.",
+        "op": [
+            "Design",
+            "Constraints",
+            "Requirements",
+            "Architecture"
+        ],
+        "created_at": "2026-07-05T20:18:33.547541+00:00"
+    },
+    {
+        "id": 50085,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________is a collection of principles that shapes the design of your application they may overlap and can be used in combination.",
+        "op": [
+            "Architecture styles",
+            "Application types",
+            "Architecture Component",
+            "Architecture frame"
+        ],
+        "created_at": "2026-07-05T20:18:51.581223+00:00"
+    },
+    {
+        "id": 50088,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A Quality attribute (QA) is ________________ property of a system that is used to indicate how well the system satisfies the needs of its stakeholders.",
+        "op": [
+            "Neither Measurable nor testable",
+            "Measurable but non-testable",
+            "Measurable and testable",
+            "Not Measurable but testable"
+        ],
+        "created_at": "2026-07-05T20:18:56.709868+00:00"
+    },
+    {
+        "id": 50089,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Architectural _______________ describe what you are doing and why you are doing it.",
+        "op": [
+            "Protocols",
+            "Drivers",
+            "Behavior",
+            "Elements"
+        ],
+        "created_at": "2026-07-05T20:19:01.965774+00:00"
+    },
+    {
+        "id": 50091,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Software systems construct to satisfy an organization’s business goals.",
+        "op": [
+            "Family goals",
+            "Business goals",
+            "Clerical staff goals",
+            "Personal goals"
+        ],
+        "created_at": "2026-07-05T20:19:17.501211+00:00"
+    },
+    {
+        "id": 50510,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are two types of quality attributes i.e. those that are measured at run time, and those ____________.",
+        "op": [
+            "That can only be estimated through requirements",
+            "That cannot be estimated",
+            "That can only be estimated through unit testing",
+            "That can only be estimated through inspections"
+        ],
+        "created_at": "2026-07-05T21:22:20.046242+00:00"
+    },
+    {
+        "id": 50511,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In software architecture, which one is a “major” decision in general? Choose a suitable option.",
+        "op": [
+            "Product users can tell",
+            "Tax officer can tell",
+            "The only end user can tell",
+            "Sometimes only time will tell"
+        ],
+        "created_at": "2026-07-05T21:22:48.462143+00:00"
+    },
+    {
+        "id": 50513,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Class Diagrams kind of module structure emerges as an output of __________ analysis and design.",
+        "op": [
+            "Sequence",
+            "Data-structure",
+            "Data flow",
+            "Object-oriented"
+        ],
+        "created_at": "2026-07-05T21:23:00.028217+00:00"
+    },
+    {
+        "id": 50514,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Each pattern consists of a _______________________.",
+        "op": [
+            "Definition, problem, solution",
+            "System, problem, solution",
+            "Method, problem, solution",
+            "Context, problem, solution"
+        ],
+        "created_at": "2026-07-05T21:23:12.36181+00:00"
+    },
+    {
+        "id": 50515,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "__________ is an abstraction of a system that selects certain details and suppresses others.",
+        "op": [
+            "Software complete code",
+            "Software architecture",
+            "Software code",
+            "Software implementation"
+        ],
+        "created_at": "2026-07-05T21:23:32.280543+00:00"
+    },
+    {
+        "id": 50516,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "___________type of module structure emerges as an output of object-oriented analysis and design.",
+        "op": [
+            "Data-structure",
+            "Data flow",
+            "Class diagram",
+            "Layered architecture"
+        ],
+        "created_at": "2026-07-05T21:23:43.688208+00:00"
+    },
+    {
+        "id": 50763,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In terms of a deployment strategy for applications, sometimes we must make design tradeoffs due to _________and network topologies.",
+        "op": [
+            "Development restrictions",
+            "Protocol restrictions",
+            "Requirements restrictions",
+            "Testing restrictions"
+        ],
+        "created_at": "2026-07-05T22:49:44.657946+00:00"
+    },
+    {
+        "id": 50764,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________is usually developed as a stand-alone application, it can support disconnected or occasionally connected scenarios, and it uses the processing and storage resources of the local machine.",
+        "op": [
+            "Web Application",
+            "Service applications",
+            "Rich Internet Application",
+            "Rich Client Application"
+        ],
+        "created_at": "2026-07-05T22:49:57.84893+00:00"
+    },
+    {
+        "id": 50917,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following represent key areas of application design that are not relate to specific layer of application?",
+        "op": [
+            "Encapsulation",
+            "Cross cutting concerns",
+            "Architecture frame",
+            "Duplicate design abstraction"
+        ],
+        "created_at": "2026-07-05T23:38:48.736093+00:00"
+    },
+    {
+        "id": 51019,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The set of architectural structures is not_________________.",
+        "op": [
+            "Flexible",
+            "Temporary",
+            "Fixed",
+            "Impermanent"
+        ],
+        "created_at": "2026-07-06T00:05:50.45252+00:00"
+    },
+    {
+        "id": 51098,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_____________ is the category of structures in an architectural design which deals with the implementation or development modules.",
+        "op": [
+            "Dynamic Structure",
+            "Static Structure",
+            "Deployment Structure",
+            "Component-and-Connector (C&C) structure"
+        ],
+        "created_at": "2026-07-06T00:22:37.263165+00:00"
+    },
+    {
+        "id": 51113,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The architecture should be documented using views which means it should have ____________ documentation at the initial stage.",
+        "op": [
+            "Overall",
+            "Maximum",
+            "Minimal",
+            "Too much"
+        ],
+        "created_at": "2026-07-06T00:29:04.585934+00:00"
+    },
+    {
+        "id": 51114,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A three-tier layered service-oriented architecture may be the right thing for a _____________but completely wrong for an _____________.",
+        "op": [
+            "Small enterprise, Avionics application",
+            "Avionics application, small enterprise’s web-based B2B system",
+            "Large enterprise’s web-based B2B system, Avionics application",
+            "Avionics application, Large enterprise’s web-based B2B system"
+        ],
+        "created_at": "2026-07-06T00:29:59.878149+00:00"
+    },
+    {
+        "id": 51123,
+        "cc": "CS603",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is required before the authorization process.",
+        "op": [
+            "Abstraction",
+            "Testing",
+            "Authentication",
+            "Encapsulation"
+        ],
+        "created_at": "2026-07-06T00:31:27.81713+00:00"
+    }
+]

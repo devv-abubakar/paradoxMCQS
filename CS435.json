@@ -1,0 +1,632 @@
+[
+    {
+        "id": 9947,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "__________allow only authorized access and disclosure to the information",
+        "op": [
+            "Availability",
+            "Consistency",
+            "Integrity",
+            "Confidentiality"
+        ],
+        "created_at": "2026-06-21T19:33:08.719587+00:00"
+    },
+    {
+        "id": 9958,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Each VM can have ________Cloudlets scheduled over it.",
+        "op": [
+            "5",
+            "6",
+            "Multiple",
+            "2"
+        ],
+        "created_at": "2026-06-21T19:34:06.204425+00:00"
+    },
+    {
+        "id": 9962,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "PaaS consumer receives the _________.",
+        "op": [
+            "Platform for development",
+            "Failover setting",
+            "Data setting",
+            "SLA monitoring"
+        ],
+        "created_at": "2026-06-21T19:34:14.922687+00:00"
+    },
+    {
+        "id": 9963,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The ________consumers have least administrative privileges",
+        "op": [
+            "PaaS",
+            "IaaS",
+            "SaaS",
+            "IDaaS"
+        ],
+        "created_at": "2026-06-21T19:34:20.978465+00:00"
+    },
+    {
+        "id": 9966,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "_________ ensure timely and reliable access to the information.",
+        "op": [
+            "Authentication",
+            "Integrity",
+            "Confidentiality",
+            "Availability"
+        ],
+        "created_at": "2026-06-21T19:34:27.429658+00:00"
+    },
+    {
+        "id": 9968,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The Total Cost of Ownership includes the costs of acquiring, installing and ___________the hardware and software",
+        "op": [
+            "Maintaining",
+            "Integration",
+            "Duplication",
+            "Backup"
+        ],
+        "created_at": "2026-06-21T19:34:33.457971+00:00"
+    },
+    {
+        "id": 9975,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "______________ is used to tune up performance bottlenecks in the Cloud services before deploying on actual Cloud.",
+        "op": [
+            "Private cloud",
+            "Public cloud",
+            "CloudSim",
+            "Hybrid cloud"
+        ],
+        "created_at": "2026-06-21T19:35:04.09437+00:00"
+    },
+    {
+        "id": 9977,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "VM-scheduler policy is used by host for ____________.",
+        "op": [
+            "Resource allocation",
+            "Memory allocation",
+            "Application management",
+            "I/O management"
+        ],
+        "created_at": "2026-06-21T19:35:09.902877+00:00"
+    },
+    {
+        "id": 9978,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The SaaS deployments are complemented by ________.",
+        "op": [
+            "APIs",
+            "Database",
+            "Class libraries",
+            "Frameworks"
+        ],
+        "created_at": "2026-06-21T19:35:15.732637+00:00"
+    },
+    {
+        "id": 10828,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "__________emulates a virtualized data center environment.",
+        "op": [
+            "Private cloud",
+            "Hybrid cloud",
+            "CloudSim",
+            "Public cloud \n \nHybrid cloud"
+        ],
+        "created_at": "2026-06-21T21:15:46.164044+00:00"
+    },
+    {
+        "id": 10832,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The term _________ refers to as Cloud of Clouds.",
+        "op": [
+            "Private cloud",
+            "Hybrid cloud",
+            "Inter-Cloud",
+            "Intra-cloud"
+        ],
+        "created_at": "2026-06-21T21:16:14.598029+00:00"
+    },
+    {
+        "id": 42707,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "__________allow only authorized access and disclosure to the information",
+        "op": [
+            "Integrity",
+            "Availability",
+            "Confidentiality",
+            "Consistency"
+        ],
+        "created_at": "2026-06-23T13:36:30.005947+00:00"
+    },
+    {
+        "id": 42708,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The Total Cost of Ownership includes the costs of acquiring, installing and ___________the hardware and software",
+        "op": [
+            "Integration",
+            "Maintaining",
+            "Backup",
+            "Duplication"
+        ],
+        "created_at": "2026-06-23T13:36:43.442738+00:00"
+    },
+    {
+        "id": 42709,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The term _________ refers to as Cloud of Clouds.",
+        "op": [
+            "Intra-cloud",
+            "Hybrid cloud",
+            "Inter-Cloud",
+            "Private cloud"
+        ],
+        "created_at": "2026-06-23T13:36:57.038927+00:00"
+    },
+    {
+        "id": 42710,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "_________ ensure timely and reliable access to the information.",
+        "op": [
+            "Authentication",
+            "Confidentiality",
+            "Availability",
+            "Integrity"
+        ],
+        "created_at": "2026-06-23T13:37:23.718799+00:00"
+    },
+    {
+        "id": 42711,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "______________ is used to tune up performance bottlenecks in the Cloud services before deploying on actual Cloud.",
+        "op": [
+            "Public cloud",
+            "Private cloud",
+            "CloudSim",
+            "Hybrid cloud"
+        ],
+        "created_at": "2026-06-23T13:37:38.513351+00:00"
+    },
+    {
+        "id": 42712,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The administrative rights of the IaaS consumer do not include controlling of _______________.",
+        "op": [
+            "Failover setting",
+            "Network setting",
+            "SLA monitoring",
+            "Amazon web services"
+        ],
+        "created_at": "2026-06-23T13:37:59.814081+00:00"
+    },
+    {
+        "id": 42713,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "Each VM can have ________Cloudlets scheduled over it.",
+        "op": [
+            "5",
+            "Multiple",
+            "6",
+            "2"
+        ],
+        "created_at": "2026-06-23T13:38:29.679298+00:00"
+    },
+    {
+        "id": 42714,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The ________consumers have least administrative privileges",
+        "op": [
+            "SaaS",
+            "PaaS",
+            "IaaS",
+            "IDaaS"
+        ],
+        "created_at": "2026-06-23T13:38:40.479206+00:00"
+    },
+    {
+        "id": 42715,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "PaaS consumer receives the _________.",
+        "op": [
+            "Data setting",
+            "SLA monitoring",
+            "Failover setting",
+            "Platform for development"
+        ],
+        "created_at": "2026-06-23T13:38:53.35627+00:00"
+    },
+    {
+        "id": 42716,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "VM-scheduler policy is used by host for ____________.",
+        "op": [
+            "Application management",
+            "Resource allocation",
+            "I/O management",
+            "Memory allocation"
+        ],
+        "created_at": "2026-06-23T13:39:08.470571+00:00"
+    },
+    {
+        "id": 57183,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Consumers should ---------------- the performance scores of an application before deploying it to Cloud in terms of responsiveness and performance regarding the input/output of bulk data.",
+        "op": [
+            "Compare",
+            "Check",
+            "Benchmark",
+            "standardize"
+        ],
+        "created_at": "2026-07-07T19:05:23.065605+00:00"
+    },
+    {
+        "id": 57193,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Public clouds have unreliable response time therefore the consumers should avoid using the Cloud for the deployment of --------------critical software.",
+        "op": [
+            "Application",
+            "Time",
+            "Space",
+            "System"
+        ],
+        "created_at": "2026-07-07T19:05:43.294818+00:00"
+    },
+    {
+        "id": 57205,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Regarding the IT governance requirements, the following   is an important point.",
+        "op": [
+            "Describe the access control policies for various users",
+            "High and low demand periods in terms of time",
+            "Average simultaneous users",
+            "RAM Usage"
+        ],
+        "created_at": "2026-07-07T19:06:00.596757+00:00"
+    },
+    {
+        "id": 57212,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In --------------, the consumer should determine that the provider has implemented necessary procedures and controls to fulfil various legal, ISO and audit standards required as a provider and/or for the consumer to fulfill.",
+        "op": [
+            "Compliance",
+            "Licensing",
+            "Continuity of Operations",
+            "Administration"
+        ],
+        "created_at": "2026-07-07T19:06:16.286309+00:00"
+    },
+    {
+        "id": 57218,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Design consideration for the Cloud-based solution should contain considerations for power-efficient design to reduce the environmental effect of the carbon footprint of the Cloud-based solution. This computing is called__________.",
+        "op": [
+            "Grid",
+            "Server-less",
+            "Fog",
+            "Green"
+        ],
+        "created_at": "2026-07-07T19:06:31.421627+00:00"
+    },
+    {
+        "id": 57224,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In cloud solution design matrix ------------ identify the uptime requirements of the cloud application.",
+        "op": [
+            "Audit",
+            "Backup",
+            "Availability",
+            "Accessibility"
+        ],
+        "created_at": "2026-07-07T19:06:45.606338+00:00"
+    },
+    {
+        "id": 57233,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Due to the unconfirmed reliability of Cloud subsystems, the use of Cloud for deployment of the  --------------- critical software is discouraged.",
+        "op": [
+            "Application",
+            "Space",
+            "System",
+            "Safety"
+        ],
+        "created_at": "2026-07-07T19:07:03.842014+00:00"
+    },
+    {
+        "id": 57241,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Consumers should use checksum and replication technique to ensure -----------------  to detect any violations of it.",
+        "op": [
+            "Data regulation",
+            "Data recovery",
+            "Data integrity",
+            "Data separation"
+        ],
+        "created_at": "2026-07-07T19:07:21.875521+00:00"
+    },
+    {
+        "id": 57245,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "While designing the cloud based solution you will have to consider the functional as well as the  ------------------  requirements.",
+        "op": [
+            "Non functional",
+            "Technological",
+            "Legal",
+            "Non procedural"
+        ],
+        "created_at": "2026-07-07T19:07:38.670475+00:00"
+    },
+    {
+        "id": 57248,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The template ------------ can contain the plan overview, goals and objectives, types of events covered, risk analysis and the mitigation techniques for each type of risk identified.",
+        "op": [
+            "Disaster recovery plan",
+            "Project management",
+            "Risk management",
+            "Disk recovery program"
+        ],
+        "created_at": "2026-07-07T19:07:58.125305+00:00"
+    },
+    {
+        "id": 64437,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "VMs are usually provisioned through VM images which are _______configurations.",
+        "op": [
+            "Predefined",
+            "Dynamic",
+            "Static",
+            "Permanent"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64438,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "Every SaaS deployment has ___________programming logic, resource requirements and consumer workloads.",
+        "op": [
+            "Different",
+            "Duplicate",
+            "Identical",
+            "Permanent"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64440,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "Bare-metal provisioning is also provided to the consumers with ____________access.",
+        "op": [
+            "Restrictive",
+            "Administrative",
+            "Limit",
+            "User level"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64441,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "PaaS instances are hired by__________.",
+        "op": [
+            "Editing software user",
+            "365 software user",
+            "Amazon Web Services",
+            "Developers"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64461,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "PaaS instances may comprise of __________VMs and can be distributed across different data centers.",
+        "op": [
+            "Multiple",
+            "7",
+            "5",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64462,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "Non-disruptive service relocation architecture and failover systems are utilized to ensure _________in PaaS instances.",
+        "op": [
+            "Encryption",
+            "Reliability",
+            "Consistency",
+            "Integrity"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64463,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "___________is used to ensure high availability and forming a failover system.",
+        "op": [
+            "Replication",
+            "Integrity",
+            "Consistency",
+            "Encryption"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64464,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "The two basic IT resources of IaaS are:",
+        "op": [
+            "Interpreter and compiler",
+            "None of given",
+            "OS and compiler",
+            "VMs and Cloud storage"
+        ],
+        "created_at": "2026-07-15T13:27:10.04194+00:00"
+    },
+    {
+        "id": 64567,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "The broker searches for the ______options of Cloud providers for the consumer.",
+        "op": [
+            "Permanent",
+            "Best",
+            "Costly",
+            "Temporary"
+        ],
+        "created_at": "2026-07-15T13:27:10.856461+00:00"
+    },
+    {
+        "id": 64568,
+        "cc": "CS435",
+        "qn": "3",
+        "dt": "29 December 2025",
+        "qt": "SaaS instances are _______from IaaS and PaaS instances due to the existence of concurrent users.",
+        "op": [
+            "Unique",
+            "Duplicate",
+            "Identical",
+            "Permanent"
+        ],
+        "created_at": "2026-07-15T13:27:10.856461+00:00"
+    },
+    {
+        "id": 73584,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Consumers should use checksum and replication technique to ensure ----------------- to detect any violations of it.",
+        "op": [
+            "Data integrity",
+            "Data regulation",
+            "Data recovery",
+            "Data separation"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00"
+    },
+    {
+        "id": 73585,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Regarding the IT governance requirements, the following is an important point.",
+        "op": [
+            "Describe the access control policies for various users",
+            "Average simultaneous users",
+            "RAM Usage",
+            "High and low demand periods in terms of time"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00"
+    },
+    {
+        "id": 73586,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "While designing the cloud based solution you will have to consider the functional as well as the ------------------ requirements.",
+        "op": [
+            "Non procedural",
+            "Legal",
+            "Non functional",
+            "Technological"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00"
+    },
+    {
+        "id": 73587,
+        "cc": "CS435",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Due to the unconfirmed reliability of Cloud subsystems, the use of Cloud for deployment of the --------------- critical software is discouraged.",
+        "op": [
+            "Space",
+            "Application",
+            "Safety",
+            "System"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00"
+    }
+]

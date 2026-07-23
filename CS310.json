@@ -1,0 +1,1653 @@
+[
+    {
+        "id": 20133,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which PHP filter is used to validate an integer?",
+        "op": [
+            "FILTER_VALIDATE_INT",
+            "FILTER_VALIDATE_INTEGER",
+            "FILTER_SANITIZE_INTEGER",
+            "FILTER_SANITIZE_INT"
+        ],
+        "created_at": "2026-06-23T20:30:00.561732+00:00"
+    },
+    {
+        "id": 20134,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How many values must be provided in an INSERT INTO statement for a table with three columns?",
+        "op": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "created_at": "2026-06-23T20:30:49.940146+00:00"
+    },
+    {
+        "id": 20135,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which one of the following methods can be used to diagnose and display information about a MySQL connection error?",
+        "op": [
+            "mysqli_connect_err()",
+            "connect_error()",
+            "connect_errno()",
+            "mysqli_connect_error()"
+        ],
+        "created_at": "2026-06-23T20:31:05.962918+00:00"
+    },
+    {
+        "id": 20136,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Some examples of DBMS are ______ .",
+        "op": [
+            "MySQL",
+            "Microsoft SQL Server",
+            "Oracle",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-23T20:31:22.063322+00:00"
+    },
+    {
+        "id": 20137,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How can you validate an IP address in PHP?",
+        "op": [
+            "Using the preg_replace() function",
+            "Using the filter_var() function with FILTER_VALIDATE_IP",
+            "Using the htmlentities() function",
+            "Using the strip_tags() function"
+        ],
+        "created_at": "2026-06-23T20:31:51.182824+00:00"
+    },
+    {
+        "id": 20138,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following best describes MySQL?",
+        "op": [
+            "A programming language for web development.",
+            "A cloud storage service provided by Amazon.",
+            "A popular open-source relational database management system.",
+            "A markup language for creating web pages."
+        ],
+        "created_at": "2026-06-23T20:32:08.538018+00:00"
+    },
+    {
+        "id": 20139,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "All of the given are MySql syntax rules to follow for adding data to the database table except.",
+        "op": [
+            "The word NULL must not be quoted",
+            "Numeric values must be quoted",
+            "The INSERT INTO statement is used to add new records to a MySQL table",
+            "String values inside the SQL query must be quoted"
+        ],
+        "created_at": "2026-06-23T20:32:24.978022+00:00"
+    },
+    {
+        "id": 20140,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "For Stored procedure and function privileges in PHP ________ is used.",
+        "op": [
+            "columns_priv",
+            "tables_priv",
+            "host",
+            "procs_priv"
+        ],
+        "created_at": "2026-06-23T20:32:38.693499+00:00"
+    },
+    {
+        "id": 20142,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Multiple SQL statements must be executed with the ______________ function.",
+        "op": [
+            "mysqli_multi_query()",
+            "mysqli_multi()",
+            "mysqli_multiple()",
+            "mysqli_multiple_query()"
+        ],
+        "created_at": "2026-06-23T20:32:58.010216+00:00"
+    },
+    {
+        "id": 20404,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the purpose of the MySQL INSERT statement?",
+        "op": [
+            "To update existing data in a table",
+            "To delete data from a table",
+            "To insert new data into a table",
+            "To create a new database"
+        ],
+        "created_at": "2026-06-24T02:41:32.611788+00:00"
+    },
+    {
+        "id": 20405,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In PHP, in order to access MySQL database you will use:",
+        "op": [
+            "mysqli-connect() function",
+            "sqli_connect() function",
+            "mysqliconnect() function",
+            "mysqli_connect() function"
+        ],
+        "created_at": "2026-06-24T02:41:39.113059+00:00"
+    },
+    {
+        "id": 20406,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following PHP syntax is used to remove all HTML tags from a string?",
+        "op": [
+            "filter_var($str, FILTER_SANITIZE_STRING);",
+            "filter_var($str, SANITIZE_STRING);",
+            "filter_var($str, SANITIZE);",
+            "filter_var($str, FILTER_SANITIZE);"
+        ],
+        "created_at": "2026-06-24T02:41:47.414506+00:00"
+    },
+    {
+        "id": 20407,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is true about FILTER_SANITIZE_URL?",
+        "op": [
+            "It removes HTML tags from a URL",
+            "It converts a URL into a clickable link",
+            "It removes all characters except letters, digits, and a few special characters from a URL",
+            "It validates a URL based on its format and structure"
+        ],
+        "created_at": "2026-06-24T02:41:54.641181+00:00"
+    },
+    {
+        "id": 20408,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following PHP function is used to validate and sanitize the data?",
+        "op": [
+            "filter_data()",
+            "filter_var()",
+            "filter_validate()",
+            "filter_sanitize()"
+        ],
+        "created_at": "2026-06-24T02:42:03.754967+00:00"
+    },
+    {
+        "id": 20409,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which statement is used to generate new DATABASE  in MySql",
+        "op": [
+            "GENERATE DATABASE",
+            "CREATE DATABASE",
+            "NEW DATABASE",
+            "ADD DATABASE"
+        ],
+        "created_at": "2026-06-24T02:42:10.972108+00:00"
+    },
+    {
+        "id": 20410,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which function is used to apply a filter to a variable in PHP?",
+        "op": [
+            "filter_input()",
+            "filter_var()",
+            "validate_var()",
+            "sanitize_var()"
+        ],
+        "created_at": "2026-06-24T02:42:17.491038+00:00"
+    },
+    {
+        "id": 20411,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The updated MySQL extension released with PHP 5 is typically referred to as",
+        "op": [
+            "MySQL",
+            "mysqli",
+            "mysql",
+            "mysqly"
+        ],
+        "created_at": "2026-06-24T02:42:25.071687+00:00"
+    },
+    {
+        "id": 20412,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How many maximum records we can insert in a table using single SQL query in MySQL?",
+        "op": [
+            "3",
+            "2",
+            "Any number of records of our choice.",
+            "1"
+        ],
+        "created_at": "2026-06-24T02:42:31.037445+00:00"
+    },
+    {
+        "id": 20437,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How can you establish a connection to a MySQL database using PHP?",
+        "op": [
+            "By including the \"mysql_connection.php\" file",
+            "By using the \"mysqli_connect\" function",
+            "By executing the \"mysql_connect\" command",
+            "By using the \"pdo_connect\" method"
+        ],
+        "created_at": "2026-06-24T03:11:05.3465+00:00"
+    },
+    {
+        "id": 20439,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Use …........... to add table in the database",
+        "op": [
+            "GENERATE TABLE",
+            "ADD TABLE",
+            "MAKE TABLE",
+            "CREATE TABLE"
+        ],
+        "created_at": "2026-06-24T03:12:10.405161+00:00"
+    },
+    {
+        "id": 20440,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following PHP syntax is used to validate an email address?",
+        "op": [
+            "filter_var($email, VALIDATE_EMAIL);",
+            "filter_var($email, FILTER_VALIDATE_EMAIL);",
+            "filter_var($email, FILTER_EMAIL);",
+            "filter_var($email, FILTER_SANITIZE_EMAIL);"
+        ],
+        "created_at": "2026-06-24T03:12:20.38777+00:00"
+    },
+    {
+        "id": 20450,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How can you retrieve the last inserted ID in MySQL?",
+        "op": [
+            "Using the UPDATE statement",
+            "Using the SELECT statement",
+            "Using the DELETE statement",
+            "Using the LAST_INSERT_ID() function"
+        ],
+        "created_at": "2026-06-24T03:24:29.23934+00:00"
+    },
+    {
+        "id": 20451,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which command is used to create a new database in MySQL?",
+        "op": [
+            "MAKE DATABASE",
+            "CREATE DATABASE",
+            "NEW DATABASE",
+            "CREATE SCHEMA"
+        ],
+        "created_at": "2026-06-24T03:24:52.906465+00:00"
+    },
+    {
+        "id": 20452,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "_______ statement is used to create database named MyDatabase in MySQL.",
+        "op": [
+            "$sql = “CREATE MYSQLDB MyDatabase”",
+            "$sql = “CREATE DATABASE MyDatabase”",
+            "$sql = “CREATE DB MyDatabase”",
+            "$sql = “CREATE MyDatabase”"
+        ],
+        "created_at": "2026-06-24T03:25:09.015767+00:00"
+    },
+    {
+        "id": 20453,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the purpose of the \"CREATE DATABASE\" statement in MySQL?",
+        "op": [
+            "It retrieves data from the database.",
+            "It creates a new database in the MySQL server.",
+            "It creates a new table in an existing database.",
+            "It creates a backup of an existing database."
+        ],
+        "created_at": "2026-06-24T03:25:43.735339+00:00"
+    },
+    {
+        "id": 20469,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is true about PHP filters?",
+        "op": [
+            "They validate user input",
+            "They are used for output formatting",
+            "They provide security against SQL injection",
+            "They are used for database operations"
+        ],
+        "created_at": "2026-06-24T03:49:48.891242+00:00"
+    },
+    {
+        "id": 20565,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "_______ statement is used to add a new record to a MySQL table",
+        "op": [
+            "CREATE INTO",
+            "None of the given options",
+            "ADD INTO",
+            "INSERT INTO"
+        ],
+        "created_at": "2026-06-24T05:02:56.32762+00:00"
+    },
+    {
+        "id": 20566,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Removing any illegal character from the data or string is called.",
+        "op": [
+            "Sanitizing data",
+            "Validating data",
+            "Updating data",
+            "Deleting data"
+        ],
+        "created_at": "2026-06-24T05:03:03.977268+00:00"
+    },
+    {
+        "id": 20772,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following PHP syntax is used to remove all illegal characters from a URL?",
+        "op": [
+            "filter_var($url, FILTER_SANITIZE_URL);",
+            "filter_var($url, FILTER_VALIDATE_URL);",
+            "filter_var($url, VALIDATE_URL);",
+            "filter_var($url, SANITIZE_URL);"
+        ],
+        "created_at": "2026-06-24T09:32:50.627832+00:00"
+    },
+    {
+        "id": 32171,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Choose the right syntax for Update query to update some data in database.",
+        "op": [
+            "UPDATE some_column=some_value WHERE table_name SET column=value",
+            "UPDATE table_name SET column=value, WHERE some_column=some_value",
+            "SET table_name UPDATE column=value, WHERE some_column=some_value",
+            "UPDATE column=value, SET table_name WHERE some_column=some_value"
+        ],
+        "created_at": "2026-06-30T20:09:08.860038+00:00"
+    },
+    {
+        "id": 32178,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "A SELECT command without a WHERE clause returns?",
+        "op": [
+            "All the records from a table, or information about all the records",
+            "SELECT is invalid without a WHERE clause",
+            "None of the given options",
+            "All the records from a table that match the previous WHERE clause"
+        ],
+        "created_at": "2026-06-30T20:10:03.705095+00:00"
+    },
+    {
+        "id": 32184,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Which type of query do not make change into table or database?",
+        "op": [
+            "DELETE",
+            "SELECT",
+            "INSERT",
+            "UPDATE"
+        ],
+        "created_at": "2026-06-30T20:11:25.259704+00:00"
+    },
+    {
+        "id": 32188,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Following SELECT query is used to _______.\nSELECT * FROM table_name",
+        "op": [
+            "Select all columns from a table",
+            "Select one column from a table",
+            "Select one column from all tables",
+            "Select one row from a table"
+        ],
+        "created_at": "2026-06-30T20:12:16.411213+00:00"
+    },
+    {
+        "id": 32191,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "There is any problem in following query. Which is right option to correct the problem?\n \nINSERT INTO Users (username, password) VALUES (\"Ali\",\"123\") WHERE id = '1';",
+        "op": [
+            "Users should be USERS",
+            "WHERE id='1' should be removed *",
+            "The value of id should not be enclosed in single quotes",
+            "Every alphabet should be in lower case"
+        ],
+        "created_at": "2026-06-30T20:12:42.826451+00:00"
+    },
+    {
+        "id": 32193,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "What SQL clause is used to restrict the rows returned by a query?",
+        "op": [
+            "HAVING",
+            "FROM",
+            "WHERE",
+            "AND"
+        ],
+        "created_at": "2026-06-30T20:13:02.463819+00:00"
+    },
+    {
+        "id": 32302,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "In SELECT query the star (*) sign is used to select all columns of a table. What is alternate way to select all columns of a table?",
+        "op": [
+            "Enter names of all columns",
+            "Use + sign",
+            "None of the given options",
+            "Use . sign"
+        ],
+        "created_at": "2026-06-30T20:31:01.90257+00:00"
+    },
+    {
+        "id": 33948,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Use .............. to delete records from the table",
+        "op": [
+            "TRUNCATE",
+            "REMOVE",
+            "DROP",
+            "DELETE"
+        ],
+        "created_at": "2026-07-01T03:46:24.833782+00:00"
+    },
+    {
+        "id": 34510,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The clause ______ is used to restrict number of records to be retrieved by select statement",
+        "op": [
+            "None of the given options",
+            "MAX",
+            "BOUND",
+            "LIMIT"
+        ],
+        "created_at": "2026-07-01T05:01:20.873172+00:00"
+    },
+    {
+        "id": 34527,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "How many parameters are expected in “mysqli_num_rows()” function",
+        "op": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "created_at": "2026-07-01T05:03:01.771793+00:00"
+    },
+    {
+        "id": 42554,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which command is used to create a new database in MySQL?",
+        "op": [
+            "CREATE SCHEMA",
+            "NEW DATABASE",
+            "CREATE DATABASE",
+            "MAKE DATABASE"
+        ],
+        "created_at": "2026-06-25T06:58:06.658968+00:00"
+    },
+    {
+        "id": 42555,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Use …........... to add table in the database",
+        "op": [
+            "MAKE TABLE",
+            "ADD TABLE",
+            "GENERATE TABLE",
+            "CREATE TABLE"
+        ],
+        "created_at": "2026-06-25T07:00:11.537008+00:00"
+    },
+    {
+        "id": 42556,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "What is the purpose of using prepared statements in MySQL?",
+        "op": [
+            "To improve performance by caching query execution plans",
+            "To create temporary tables for storing intermediate results",
+            "To retrieve data from multiple tables using joins",
+            "To encrypt sensitive data before insertion"
+        ],
+        "created_at": "2026-06-25T06:59:13.451884+00:00"
+    },
+    {
+        "id": 42557,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "How can you validate an IP address in PHP?",
+        "op": [
+            "Using the filter_var() function with FILTER_VALIDATE_IP",
+            "Using the htmlentities() function",
+            "Using the preg_replace() function",
+            "Using the strip_tags() function"
+        ],
+        "created_at": "2026-06-25T06:59:41.037873+00:00"
+    },
+    {
+        "id": 42558,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following PHP function is used to validate and sanitize the data?",
+        "op": [
+            "filter_var()",
+            "filter_validate()",
+            "filter_data()",
+            "filter_sanitize()"
+        ],
+        "created_at": "2026-06-25T07:00:44.707692+00:00"
+    },
+    {
+        "id": 42559,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following is true about PHP filters?",
+        "op": [
+            "They provide security against SQL injection",
+            "They are used for output formatting",
+            "They validate user input",
+            "They are used for database operations"
+        ],
+        "created_at": "2026-06-25T07:01:07.710045+00:00"
+    },
+    {
+        "id": 42560,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which function is used to apply a filter to a variable in PHP?",
+        "op": [
+            "filter_input()",
+            "sanitize_var()",
+            "filter_var()",
+            "validate_var()"
+        ],
+        "created_at": "2026-06-25T07:01:22.347186+00:00"
+    },
+    {
+        "id": 42561,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following PHP syntax is used to remove all illegal characters from a URL?",
+        "op": [
+            "filter_var($url, FILTER_SANITIZE_URL);",
+            "filter_var($url, VALIDATE_URL);",
+            "filter_var($url, SANITIZE_URL);",
+            "filter_var($url, FILTER_VALIDATE_URL);"
+        ],
+        "created_at": "2026-06-25T07:01:47.743439+00:00"
+    },
+    {
+        "id": 42562,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "What is the purpose of the \"CREATE DATABASE\" statement in MySQL?",
+        "op": [
+            "It creates a new database in the MySQL server.",
+            "It creates a backup of an existing database.",
+            "It creates a new table in an existing database.",
+            "It retrieves data from the database."
+        ],
+        "created_at": "2026-06-25T07:02:12.546423+00:00"
+    },
+    {
+        "id": 42563,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Which of the following PHP syntax is used to remove all HTML tags from a string?",
+        "op": [
+            "filter_var($str, FILTER_SANITIZE_STRING);",
+            "filter_var($str, FILTER_SANITIZE);",
+            "filter_var($str, SANITIZE);",
+            "filter_var($str, SANITIZE_STRING);"
+        ],
+        "created_at": "2026-06-25T07:02:33.271601+00:00"
+    },
+    {
+        "id": 65466,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "if (!( ($a > $b) and ($a > $c) )) then the condition will be true only if",
+        "op": [
+            "($a > $b) is true and ($a > $c) is false",
+            "($a > $b) is false and ($a > $c) is true",
+            "Both ($a > $b) and ($a > $c) are false",
+            "Both ($a > $b) and ($a > $c) are true"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65467,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The information of cookie is saved into",
+        "op": [
+            "None of the given options",
+            "PHP file",
+            "Text file",
+            "HTML file"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65468,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What will be the values of variables $x and $y after executing the following code if $x = 33 and $y = 19?\n\nif($x % $y != 14) {\n    $x = $y + 3;\n    $y = $y - 5;\n}\nelse {\n    $y = $x + 3;\n    $x = $x - 3;\n}",
+        "op": [
+            "$x = 30, $y = 36",
+            "$x = 14,$ y = 36",
+            "$x = 22, $y = 14",
+            "$x = 33, $y = 19"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65469,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is the correct format to print Current day in PHP? ",
+        "op": [
+            "echo \"Today is \" . date(\"l\");",
+            "echo \"Today is \" . day(\"l\");",
+            "echo \"Today is \" . date(\"d\");",
+            "echo \"Today is \" . day(\"d\");"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65470,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "How many main parameter(s) is/are used in for loop?",
+        "op": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65471,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In loops the conditions are of ______ kind of expressions.",
+        "op": [
+            "Boolean",
+            "Secondary",
+            "Constant",
+            "Primary"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65472,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What will be the output of the following PHP code if the date of today is 13/06/2020?\n\necho \"Today is \".date(\"F d, Y\");",
+        "op": [
+            "Today is 2213-06-2020",
+            "Today is 13 June, 2020",
+            "Today is June 13, 2020",
+            "Today is 06-13-2020"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65473,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Find the syntax error in the following piece of code?\n\n$x = 10;\n$y = 15; \n\nif ($x > $y);\n    echo \"x is greater than y\";\nelse\n    echo \"y is greater than x\";",
+        "op": [
+            "Braces not given for if and else blocks",
+            "No error in given code",
+            "Condition in the if statement is wrong",
+            "Semicolon should not be used after the if statement"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65474,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which one of the following parameter of setcookie() function, is required/compulsory?",
+        "op": [
+            "path",
+            "value",
+            "name",
+            "domain"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65475,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following syntax is used to include a file named myfile.php?",
+        "op": [
+            "<?php #include ‘myfile.php’ ?>",
+            "<?php include <myfile.php> ?>",
+            "<?php include ‘myfile.php’ ?>",
+            "<?php include ‘myfile’ ?>"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65483,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What will be the output of the following PHP code if the date of today is 13/06/2020?\n\necho  date(\"t\");",
+        "op": [
+            "13",
+            "30",
+            "June",
+            "2020"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65485,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The if(!( $x < 3)) statement in PHP means _________.",
+        "op": [
+            "$x is equal to 3",
+            "$x is greater than 3",
+            "$x is less than 3",
+            "$x is greater than or equal to 3"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65487,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Tell the output of the following program:\n\n<?php  \n$c = array(\"red \"); \n$a = array (\"blue\",\"red\",\"green\");\nforeach ($c as $value) {\necho \"$value\";\n}\n?>",
+        "op": [
+            "Blue",
+            "Red",
+            "Green",
+            "Blue, red, green"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65488,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What will be the output of the following program.\n<?php\n$a = 5;\n$b = 10 ;\nif ($b < $a)\necho \"b is smaller than a\" ;\n?>",
+        "op": [
+            "nothing will be displayed",
+            "a is smaller than b",
+            "b is greater than a",
+            "b is smaller than a."
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65490,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Using PHP we can _________ information in cookie file.",
+        "op": [
+            "Retrieve",
+            "Both store and retrieve",
+            "Store",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65491,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The \"while\" loop executes at least,",
+        "op": [
+            "Zero time",
+            "None of the given options",
+            "Five times",
+            "One time"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65493,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Loops are called _____________ structure.",
+        "op": [
+            "Decision",
+            "None of the given options",
+            "Repetition",
+            "Sequential"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65495,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What will be the output of the following while loop code?\n\n$counter = 0 ;\nwhile($counter < 15) \n    echo $counter . \" \";\n$counter++;",
+        "op": [
+            "1 2 3 4",
+            "Compile time error",
+            "Infinite loop",
+            "1 2 3 4 5"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65497,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following loop checks the test condition at the end of the loop?",
+        "op": [
+            "Nested Loop",
+            "For",
+            "Do-While",
+            "While"
+        ],
+        "created_at": "2026-07-15T13:27:18.115684+00:00"
+    },
+    {
+        "id": 65894,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is/are parameter(s) of \"date()\" function in PHP? ",
+        "op": [
+            "Both format and timestamp",
+            "Only format",
+            "Location",
+            "Only timestamp"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65895,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Find out the logical error in following lines of code.\nif ($x = 10)\n    echo  \"The value of x is 10\";",
+        "op": [
+            "There is no semicolon at the end of if condition",
+            "Instead of = we should use ==",
+            "10 should be enclosed in double quotes",
+            "Variable $x should not be inside parenthesis"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65896,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is required parameter of \"date()\" function in PHP?",
+        "op": [
+            "None of the given options",
+            "Timestamp",
+            "Format",
+            "Zone"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65897,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "While formatting the date in PHP using the date() function, which of the following is used for the day in function argument? ",
+        "op": [
+            "day",
+            "t",
+            "d",
+            "l"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65898,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "When the break statement is encountered in a loop’s body, it transfers the control ________from the current iteration of loop.",
+        "op": [
+            "To first iteration",
+            "Inside",
+            "Outside",
+            "To last iteration"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65899,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is correct way to include “connection.php” file into our current PHP file?",
+        "op": [
+            "All of the above options",
+            "include(\"connection.php\");",
+            "include \"connection.php\";",
+            "include 'connection.php';"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65900,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "When the logical operator OR ( || ) combines two expressions (exp1 and exp2) in IF statement then the result will be true only, _________.",
+        "op": [
+            "All of the given options",
+            "When exp1 is false and exp2 is true",
+            "When exp1 is true and exp2 is false",
+            "When both exp1 and exp2 are true"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 66599,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "In \"while\" loop the loop counter must be initialized,",
+        "op": [
+            "At the end of the loop",
+            "Within the loop",
+            "Before entering the loop",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66603,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "When the logical operator AND (&& ) combines two expressions (exp1 and exp2) in IF statement then the result will be true only, __________.",
+        "op": [
+            "When exp1 is true and exp2 is false",
+            "When both exp1 and exp2 are false",
+            "When both exp1 and exp2 are true",
+            "When exp1 is false and exp2 is true"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66604,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "In switch statement, there can be only _______ default statement(s).",
+        "op": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66606,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "How many times the following loop will execute?\n\n$i = 7;\nwhile($i > 0)  {\n     $i -= 2;\n}",
+        "op": [
+            "2",
+            "5",
+            "3",
+            "4"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66607,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "What will be the output of following code?\n\n<?php\n$x = 10;\nif ($x ++ 11){\n    echo \"Values is greater than 9\";\n}\nelse {\n    echo \"Value is less than 9\";\n}\n?>",
+        "op": [
+            "Value is less than 9",
+            "Syntax error",
+            "Logical error",
+            "Value is greater than 9"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66608,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "What will be the output for the given program?\n\n$num = 1;\nswitch () {\n\ncase 1:\necho \"15 \";\nbreak;\n\ndefault :\necho \"20\";\n}",
+        "op": [
+            "15",
+            "20",
+            "Syntax error",
+            "15 20"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66609,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "If we have more than one statement within the \"IF\" statement then the use of braces is ______.",
+        "op": [
+            "Optional",
+            "Compulsory",
+            "Not required",
+            "Good programming practice"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66788,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The \"date()\" function returns ____________ representation of the current date and/or time.",
+        "op": [
+            "Float",
+            "String",
+            "Integer",
+            "Boolean"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00"
+    },
+    {
+        "id": 66789,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\"foreach\" loop is used to iterate over ____.",
+        "op": [
+            "function",
+            "object",
+            "array",
+            "number"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00"
+    },
+    {
+        "id": 66790,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "How many times the following loop will execute?\n\n<?php\n$x = 130;\nfor ($i= 68; $i<=$x; $i++) {\n    //\n}\n?>",
+        "op": [
+            "62",
+            "64",
+            "61",
+            "63"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00"
+    },
+    {
+        "id": 66791,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The if(!( $x > 3)) statement in PHP means ____________.",
+        "op": [
+            "$x is less than 3",
+            "$x is less than or equal to 3",
+            "$x is greater than 3",
+            "$x is equal to 3"
+        ],
+        "created_at": "2026-07-15T13:27:26.597296+00:00"
+    },
+    {
+        "id": 67487,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Which of the following statement can be used to copy the text of another PHP file into current file?",
+        "op": [
+            "Link",
+            "Include",
+            "Import",
+            "Copy"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67488,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The expression if( (a == 10) || (x == 20) ) is false only if __________. ",
+        "op": [
+            "Both (a == 10) AND (x == 20) are false",
+            "Only ($a == 10) is false",
+            "Both (a == 10) AND (x == 20) is true",
+            "Only ($x == 20) is false"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67489,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What will be the value of variable $input if the initial value of $input = 67?\n\nif($input >= 50)\n    $input = $input + 1;\nif($input <= 75)\n    $input = $input + 2;\nelse\n    $input = $input - 1;",
+        "op": [
+            "71",
+            "69",
+            "68",
+            "70"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67491,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What is the output of the following code?\n\nfor ($i = 0; $i < 5; $i++)\n    echo ($i % 2).\" \";",
+        "op": [
+            "0 2 4 6 8 10",
+            "0 1 2 3 4 5",
+            "1 0 1 0 1",
+            "0 1 0 1 0"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67493,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "______ construct is used to execute a set of instructions when a condition is true and the other set is false.",
+        "op": [
+            "while loop",
+            "if",
+            "for loop",
+            "if else"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67574,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The expression if( ($a == 10) || ($x == 20) ) is false only if __________. ",
+        "op": [
+            "Only ($a == 10) is false",
+            "Both ($a == 10) AND ($x == 20) is true",
+            "Both ($a == 10) AND ($x == 20) are false",
+            "Only ($x == 20) is false"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67576,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What will be output of the following code segment?\n\n$value = 1;\nswitch ($value + $value){\ncase 1 :\necho  \"Punjab \" ;\nbreak;\ncase 2 :\necho  \"Lahore\" ;\nbreak;\ndefault :\necho \"Pakistan\" ; \n}",
+        "op": [
+            "Lahore",
+            "Syntax error",
+            "Punjab",
+            "Pakistan"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67577,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "PHP supports ____ types of looping techniques.",
+        "op": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67625,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What will be the output of following code segment?\n\nfor ($i = 2; $i < 7; $i++){\n    if ( $i == 5)\n        break;\n    echo $i . \" \" ;\n}",
+        "op": [
+            "4 6 7 8 9",
+            "2 3 4 6",
+            "2 3 7 8 9",
+            "2 3 4"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67626,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If there are multiple IF statements, then statements should be enclosed with _________.",
+        "op": [
+            "Curly braces",
+            "Small Brackets",
+            "Double quotes",
+            "Comma"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67627,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "When the logical operator OR ( || ) combines two expressions (exp1 and exp2) in IF statement then the result will be false only, ___________.",
+        "op": [
+            "When both exp1 and exp2 are false",
+            "When exp1 is false and exp2 is true",
+            "When both exp1 and exp2 are true",
+            "When exp1 is true and exp2 is false"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67742,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What will be the output of the following PHP code?\n\n$data = array (10, 20, 30);\n\nforeach ($data as $val) {\n\techo \"$val1 \\n\"; \n}",
+        "op": [
+            "10",
+            "10 20 30",
+            "Undefined variable error",
+            "No Output"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67743,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The \"date()\" function in your application was showing current date/time correctly when you tested on \"localhsot\" server. But after loading your application on live server \"date()\" function is not working correctly. What can be possible reason?",
+        "op": [
+            "None of the given options",
+            "The \"date()\" function was not tested correctly",
+            "This happen due to uploaded the application on live server incorrect time",
+            "The live server located in the country has different timezone"
+        ],
+        "created_at": "2026-07-15T13:27:29.78989+00:00"
+    },
+    {
+        "id": 67773,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Which of the following characters can be used while formatting the date in PHP using \"date()\" function?",
+        "op": [
+            "-",
+            "/",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67777,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "In which scenario, the \"while\" loop becomes infinite?",
+        "op": [
+            "When the condition is always true",
+            "When the condition is always false",
+            "When the condition contains an arithmetic operator",
+            "When the condition contains a logical operator"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67779,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What is the output of the following code if the 3rd case is true? \n\nswitch ($var) {\n\tcase 'a':\n\techo \"Apple \";\n\n\tcase 'b':\n\techo \"Banana \";\n\n\tcase 'm':\n\techo \"Mango \";\n\n\tdefault:\n\techo \"Any fruit\";\n}",
+        "op": [
+            "Mango",
+            "Apple",
+            "None of the given options",
+            "Mango Any fruit"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67804,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What will be the output of the following PHP code?\n\n$colors = array(\"Red\",\"Green\",\"Blue\",\"Yellow\");\nforeach ($colors as $val) {\n    echo $val.\" \";\n}",
+        "op": [
+            "Red",
+            "No output",
+            "Syntax error",
+            "Red Green Blue Yellow"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67887,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Which of the following will be used to perform repetitive tasks, when the exact number of repetition is known?",
+        "op": [
+            "Do while loop",
+            "Switch statement",
+            "For loop",
+            "While loop"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67888,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "What is the output of the following code? \n\nfor($i = 5; $i <= 5; $i++) {\n echo $i++; \n echo $i;\n}",
+        "op": [
+            "55",
+            "65",
+            "56",
+            "13"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 67903,
+        "cc": "CS310",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "When the logical operator AND (&& ) combines two expressions (exp1 and exp2) in IF statement then the result will be false only, ________.",
+        "op": [
+            "When both exp1 and exp2 are false",
+            "When exp1 is false and exp2 is true",
+            "All of the given options",
+            "When exp1 is true and exp2 is false"
+        ],
+        "created_at": "2026-07-15T13:27:30.65506+00:00"
+    },
+    {
+        "id": 69072,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is the correct syntax to declare a session variable name as \"user\" and its value \"admin\".",
+        "op": [
+            "$session_user = “admin”;",
+            "$user = “admin”;",
+            "$_SESSION[\"user\"] = \"admin\";",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69073,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "When the session started on another page it scans the computer for a _______.",
+        "op": [
+            "admin_key",
+            "local_key",
+            "user_key",
+            "destroy_key"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69076,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Which of the following function is used to destroy all session variables?",
+        "op": [
+            "session_destroy( );",
+            "destroy_vars( );",
+            "session_unset( );",
+            "destroy_variables( );"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69077,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is correct way to display all session variables?",
+        "op": [
+            "print_r($_SESSION);",
+            "None of the given options",
+            "echo ($_SESSION);",
+            "print ($_SESSION);"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69079,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "$_SESSION is a/an ___________.",
+        "op": [
+            "Class",
+            "Function",
+            "Array",
+            "Variable"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69081,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "All session variables are ____________.",
+        "op": [
+            "Global variables",
+            "Static variables",
+            "Default variables",
+            "Local variables"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69083,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "What is right place to call \"session_start( )\" function?",
+        "op": [
+            "Very first line of code file",
+            "None of the given options",
+            "End of code file",
+            "Anywhere in code file"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69203,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Which of the following technique can be used to save value in a variable and access in whole application without using include statement?",
+        "op": [
+            "Static variable",
+            "Session variable",
+            "Global variable",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:38.736223+00:00"
+    },
+    {
+        "id": 69226,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "If \"session_start( )\" function is used in all pages then how the value of session variables will auto destroy?",
+        "op": [
+            "By calling auto( ) function",
+            "None of the given options",
+            "By calling auto_clear( ) function",
+            "By closing application windows"
+        ],
+        "created_at": "2026-07-15T13:27:38.736223+00:00"
+    },
+    {
+        "id": 69229,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "If we want to ensure session variables should accessible in all PHP pages then we should _____.",
+        "op": [
+            "Call session_available( ) function in all pages",
+            "Call session_start( ) in all pages",
+            "None of the given options",
+            "Declare variables in all pages"
+        ],
+        "created_at": "2026-07-15T13:27:38.736223+00:00"
+    },
+    {
+        "id": 70474,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Which of the following function is used to destroy the session in PHP?",
+        "op": [
+            "destroy( );",
+            "destroy_session( );",
+            "session_destroy( );",
+            "session_unset( );"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    },
+    {
+        "id": 70475,
+        "cc": "CS310",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "How will we retrieve the value of session variable set in the following PHP code?\n$_SESSION[\"color\"] = \"green\";",
+        "op": [
+            "$_SESSION[\"green\"] ;",
+            "GET_SESSION[\"color\"] ;",
+            "$_SESSION[\"color\"] ;",
+            "GET_SESSION[\"green\"] ;"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    }
+]

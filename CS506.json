@@ -1,0 +1,2674 @@
+[
+{
+    "id": 19700,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The following code creates and starts a timer that fires an action event once per ______. Timer t = new Timer (1000, this); t.start();",
+    "op": [
+        "Minute",
+        "Second",
+        "Hour",
+        "Day"
+    ],
+    "created_at": "2026-06-23T19:04:18.649818+00:00"
+},
+{
+    "id": 19703,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which interface must a class implement to be serializable in Java?",
+    "op": [
+        "Serializable",
+        "Externalizable",
+        "SerializableObject",
+        "Serialize"
+    ],
+    "created_at": "2026-06-23T19:04:36.03074+00:00"
+},
+{
+    "id": 19708,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "FTP (File Transmission Protocol) works on _________ port.",
+    "op": [
+        "23",
+        "21",
+        "80",
+        "84"
+    ],
+    "created_at": "2026-06-23T19:05:00.323352+00:00"
+},
+{
+    "id": 19710,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "During deserialization in Java, which casting is required to recreate the original object type?",
+    "op": [
+        "Down-casting",
+        "Right-casting",
+        "Left-casting",
+        "Up-casting"
+    ],
+    "created_at": "2026-06-23T19:05:16.896398+00:00"
+},
+{
+    "id": 19713,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which Java package is used for socket programming?",
+    "op": [
+        "java.net",
+        "java.sql",
+        "java.lang",
+        "java.util"
+    ],
+    "created_at": "2026-06-23T19:05:33.436255+00:00"
+},
+{
+    "id": 19717,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following methods is called only once during the life cycle of an Applet?",
+    "op": [
+        "destroy()",
+        "start( )",
+        "paint()",
+        "stop()"
+    ],
+    "created_at": "2026-06-23T19:05:57.948085+00:00"
+},
+{
+    "id": 19726,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "To deserialize an object in Java, we typically use _____________________ .",
+    "op": [
+        "ClassOutputStream",
+        "ObjectInputStream",
+        "ObjectOutputStream",
+        "ClassInputStream"
+    ],
+    "created_at": "2026-06-23T19:06:19.77881+00:00"
+},
+{
+    "id": 19731,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How many methods are there in the Serializable Interface?",
+    "op": [
+        "One",
+        "Two",
+        "Zero",
+        "Three"
+    ],
+    "created_at": "2026-06-23T19:06:48.561575+00:00"
+},
+{
+    "id": 19732,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In the context of Java Graphics, which of the following methods we should override while painting?",
+    "op": [
+        "paintChildern( )",
+        "paintComponet( )",
+        "paint( )",
+        "paintBorder( )"
+    ],
+    "created_at": "2026-06-23T19:07:03.258762+00:00"
+},
+{
+    "id": 19897,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How many simultaneous connections can be opened using TCP and UDP ports?",
+    "op": [
+        "64",
+        "128k",
+        "64k",
+        "128"
+    ],
+    "created_at": "2026-06-23T19:24:16.371172+00:00"
+},
+{
+    "id": 19902,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "If a JPanel has a triangle drawn on it then which of the following methods will display it?",
+    "op": [
+        "paint( )",
+        "paintComponet( )",
+        "paintChildern( )",
+        "paintBorder( )"
+    ],
+    "created_at": "2026-06-23T19:25:18.193264+00:00"
+},
+{
+    "id": 19917,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "A port is a __________________ to which processes can listen for connections request.",
+    "op": [
+        "Client Address",
+        "Server Address",
+        "Local Address",
+        "Transport Address"
+    ],
+    "created_at": "2026-06-23T19:27:20.597494+00:00"
+},
+{
+    "id": 19924,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Timers are constructed by specifying both a delay parameter and a/an _________ Listener.",
+    "op": [
+        "Mouse",
+        "Action",
+        "Key",
+        "Window"
+    ],
+    "created_at": "2026-06-23T19:28:18.855416+00:00"
+},
+{
+    "id": 19928,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following methods of an Applet is called every time when page is minimized?",
+    "op": [
+        "stop()",
+        "start()",
+        "destroy()",
+        "init()"
+    ],
+    "created_at": "2026-06-23T19:28:45.488376+00:00"
+},
+{
+    "id": 19930,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "int i = (int)( Math.random() * 5 );    // will generate random numbers between__________ .",
+    "op": [
+        "1 & 5",
+        "0 & 4",
+        "1 & 4",
+        "0 & 5"
+    ],
+    "created_at": "2026-06-23T19:29:08.00459+00:00"
+},
+{
+    "id": 19935,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which method is called when an applet is about to be removed from memory?",
+    "op": [
+        "destroy()",
+        "start()",
+        "init()",
+        "stop()"
+    ],
+    "created_at": "2026-06-23T19:29:46.213763+00:00"
+},
+{
+    "id": 19937,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "If you want the timer to fire only the first time and then stop, invoke ______________.",
+    "op": [
+        "setOnce(true)",
+        "setOnce(false)",
+        "setRepeats(true)",
+        "setRepeats(false)"
+    ],
+    "created_at": "2026-06-23T19:30:25.427238+00:00"
+},
+{
+    "id": 20003,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "TELNET works on _______ port.",
+    "op": [
+        "23",
+        "80",
+        "84",
+        "21"
+    ],
+    "created_at": "2026-06-23T19:50:39.005567+00:00"
+},
+{
+    "id": 20005,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How many ports are available for UDP socket?",
+    "op": [
+        "64k",
+        "64",
+        "128k",
+        "128"
+    ],
+    "created_at": "2026-06-23T19:50:54.48048+00:00"
+},
+{
+    "id": 20008,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following methods is invoked by the AWT package to support paint and repaint operations?",
+    "op": [
+        "repaint( )",
+        "redraw( )",
+        "paint( )",
+        "draw( )"
+    ],
+    "created_at": "2026-06-23T19:51:22.910315+00:00"
+},
+{
+    "id": 20010,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is the correct syntax to make a PersonInfo class into a Serializable class?",
+    "op": [
+        "public class PersonInfo extends Serializable { /* class body */}",
+        "public class PersonInfo implements Serializable { /* class body */}",
+        "public class PersonInfo includes Serializable { /* class body */}",
+        "public class PersonInfo imports Serializable { /* class body */}"
+    ],
+    "created_at": "2026-06-23T19:51:48.465269+00:00"
+},
+{
+    "id": 20011,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the purpose of the transient keyword in Java serialization?",
+    "op": [
+        "It indicates that a class cannot be serialized.",
+        "It indicates that an object cannot be serialized.",
+        "It indicates that a variable should not be serialized.",
+        "It indicates that a method cannot be serialized."
+    ],
+    "created_at": "2026-06-23T19:51:58.294908+00:00"
+},
+{
+    "id": 20013,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What happens when you call the repaint() method on a Swing component?",
+    "op": [
+        "The component's size is adjusted to fit its contents.",
+        "The component is moved to a different location in the GUI.",
+        "The component is immediately removed from the GUI.",
+        "The component is marked for repainting and will be redrawn by the system."
+    ],
+    "created_at": "2026-06-23T19:52:09.118035+00:00"
+},
+{
+    "id": 20034,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Assume that we do not want to serialize phoneNum attribute of PersonInfo class, this can be done by:",
+    "op": [
+        "client String phoneNum;",
+        "serializable String phoneNum;",
+        "server String phoneNum;",
+        "transient String phoneNum;"
+    ],
+    "created_at": "2026-06-23T19:57:31.003285+00:00"
+},
+{
+    "id": 20036,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "An applet is basically a/an _____________ that allows interaction with a Java program.",
+    "op": [
+        "Frame",
+        "Label",
+        "Window",
+        "Panel"
+    ],
+    "created_at": "2026-06-23T19:58:27.479341+00:00"
+},
+{
+    "id": 20037,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Socket is a ___________ commnunication channel between hosts.",
+    "op": [
+        "uni-directional",
+        "tri-directional",
+        "multi-directional",
+        "bi-directional"
+    ],
+    "created_at": "2026-06-23T19:58:40.357708+00:00"
+},
+{
+    "id": 20038,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following methods of Graphics object is used to draw rectangle?",
+    "op": [
+        "DrawRect(10,10,20,20);",
+        "DrawReactangle(10,10,20,20);",
+        "drawReactangle(10,10,20,20);",
+        "drawRect(10,10,20,20);"
+    ],
+    "created_at": "2026-06-23T19:58:44.880753+00:00"
+},
+{
+    "id": 20039,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which method is called first when an applet is loaded?",
+    "op": [
+        "start()",
+        "stop()",
+        "init()",
+        "destroy()"
+    ],
+    "created_at": "2026-06-23T19:58:58.518167+00:00"
+},
+{
+    "id": 20040,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following statements is true regarding paintChildren() method?",
+    "op": [
+        "It tells any components contained by this component to paint themselves.",
+        "It first paints the background and then performs custom painting.",
+        "It first performs custom painting and then paints the background.",
+        "It tells the component to paint its border."
+    ],
+    "created_at": "2026-06-23T19:59:46.20494+00:00"
+},
+{
+    "id": 20041,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the given will clear all the previous painting?",
+    "op": [
+        "super.repaint()",
+        "super.redraw()",
+        "super.paintComponent()",
+        "super.paint()"
+    ],
+    "created_at": "2026-06-23T19:59:53.75521+00:00"
+},
+{
+    "id": 20042,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which keyword is used in Java to mark fields that should not be serialized?",
+    "op": [
+        "static",
+        "transient",
+        "volatile",
+        "final"
+    ],
+    "created_at": "2026-06-23T20:00:54.731692+00:00"
+},
+{
+    "id": 20043,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How many ports are available for TCP socket?",
+    "op": [
+        "128k",
+        "128",
+        "64k",
+        "64"
+    ],
+    "created_at": "2026-06-23T20:01:09.711385+00:00"
+},
+{
+    "id": 20047,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "HTTP works on port _________.",
+    "op": [
+        "80",
+        "84",
+        "21",
+        "23"
+    ],
+    "created_at": "2026-06-23T20:01:36.10828+00:00"
+},
+{
+    "id": 20050,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Timer class constructor requires time in _______________.",
+    "op": [
+        "milli seconds",
+        "nano seconds",
+        "micro seconds",
+        "seconds"
+    ],
+    "created_at": "2026-06-23T20:01:57.682183+00:00"
+},
+{
+    "id": 20051,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "An applet can be defined as:",
+    "op": [
+        "A small program written in JSF and included in an HTML page",
+        "A small program written in Java and included in an HTML page",
+        "A small program written in JSP and included in an HTML page",
+        "A small program written in Servlet and included in an HTML page"
+    ],
+    "created_at": "2026-06-23T20:02:16.020755+00:00"
+},
+{
+    "id": 20086,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "To serialize an object in Java, we typically use _____________________ .",
+    "op": [
+        "ObjectOutputStream",
+        "ClassOutputStream",
+        "ClassInputStream",
+        "ObjectInputStream"
+    ],
+    "created_at": "2026-06-23T20:14:46.262891+00:00"
+},
+{
+    "id": 20087,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "setColor() is a method of ________ object.",
+    "op": [
+        "JFrame",
+        "Graphics",
+        "JPanel",
+        "Image"
+    ],
+    "created_at": "2026-06-23T20:14:49.777019+00:00"
+},
+{
+    "id": 20088,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In Java, Serializable Interface can be found under _________ package.",
+    "op": [
+        "java.net",
+        "java.io",
+        "java.util",
+        "java.sql"
+    ],
+    "created_at": "2026-06-23T20:15:01.951951+00:00"
+},
+{
+    "id": 20089,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following commands is used to invoke an Applet named Test from command line interpreter?",
+    "op": [
+        "appletviewer Test.html",
+        "appletrunner Test.html",
+        "appletviewer Test.java",
+        "appletrunner Test.java"
+    ],
+    "created_at": "2026-06-23T20:15:07.788592+00:00"
+},
+{
+    "id": 20090,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In order to include graphics in your Java program, it is mandatory to extend from _________ class.",
+    "op": [
+        "JPanel",
+        "JButton",
+        "JLabel",
+        "JFrame"
+    ],
+    "created_at": "2026-06-23T20:15:16.440596+00:00"
+},
+{
+    "id": 20092,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In Java Graphics, while painting a swing component, which of the following functions is invoked first?",
+    "op": [
+        "paintBorder( )",
+        "paintChildern( )",
+        "paint( )",
+        "paintComponet( )"
+    ],
+    "created_at": "2026-06-23T20:15:57.427002+00:00"
+},
+{
+    "id": 20096,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following statements is true regarding paintComponent() method?",
+    "op": [
+        "It first performs custom painting and then paints the background.",
+        "It tells any components contained by this component to paint themselves.",
+        "It first paints the background and then performs custom painting.",
+        "It tells the component to paint its border."
+    ],
+    "created_at": "2026-06-23T20:17:07.663702+00:00"
+},
+{
+    "id": 20107,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following objects is passed as an argument to paintComponent() method?",
+    "op": [
+        "Graphics object",
+        "JPanel object",
+        "Image object",
+        "JFrame object"
+    ],
+    "created_at": "2026-06-23T20:21:05.107694+00:00"
+},
+{
+    "id": 20110,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which Java graphics method would you use to draw a filled circle on a graphics context g2 at position (50, 50) with a diameter of 20 pixels?",
+    "op": [
+        "g2.drawCircle(50, 50, 20, 20);",
+        "g2.drawOval(50, 50, 20, 20);",
+        "g2.fillOval(50, 50, 20, 20);",
+        "g2.fillCircle(50, 50, 20, 20);"
+    ],
+    "created_at": "2026-06-23T20:21:43.95758+00:00"
+},
+{
+    "id": 42759,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "In Java, Serializable Interface can be found under _________ package.",
+    "op": [
+        "java.util",
+        "java.io",
+        "java.net",
+        "java.sql"
+    ],
+    "created_at": "2026-06-25T05:49:08.010835+00:00"
+},
+{
+    "id": 42760,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "How many ports are available for TCP socket?",
+    "op": [
+        "64k",
+        "128",
+        "128k",
+        "64"
+    ],
+    "created_at": "2026-06-25T15:35:32.37812+00:00"
+},
+{
+    "id": 42761,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "What is the purpose of the transient keyword in Java serialization?",
+    "op": [
+        "It indicates that an object cannot be serialized.",
+        "It indicates that a variable should not be serialized.",
+        "It indicates that a class cannot be serialized.",
+        "It indicates that a method cannot be serialized."
+    ],
+    "created_at": "2026-06-25T05:48:05.323013+00:00"
+},
+{
+    "id": 42762,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "In the context of Java Graphics, which of the following methods we should override while painting?",
+    "op": [
+        "paint( )",
+        "paintChildern( )",
+        "paintComponet( )",
+        "paintBorder( )"
+    ],
+    "created_at": "2026-06-25T05:48:32.85601+00:00"
+},
+{
+    "id": 42763,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Socket is a ___________ commnunication channel between hosts.",
+    "op": [
+        "multi-directional",
+        "uni-directional",
+        "bi-directional",
+        "tri-directional"
+    ],
+    "created_at": "2026-06-25T05:49:30.970161+00:00"
+},
+{
+    "id": 42764,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which Java graphics method would you use to draw a filled circle on a graphics context g2 at position (50, 50) with a diameter of 20 pixels?",
+    "op": [
+        "g2.drawCircle(50, 50, 20, 20);",
+        "g2.fillOval(50, 50, 20, 20);",
+        "g2.drawOval(50, 50, 20, 20);",
+        "g2.fillCircle(50, 50, 20, 20);"
+    ],
+    "created_at": "2026-06-25T05:49:56.76309+00:00"
+},
+{
+    "id": 42765,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which of the following methods of an Applet is called every time when page is minimized?",
+    "op": [
+        "start()",
+        "destroy()",
+        "init()",
+        "stop()"
+    ],
+    "created_at": "2026-06-25T05:50:18.390489+00:00"
+},
+{
+    "id": 42766,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which of the following methods is called only once during the life cycle of an Applet?",
+    "op": [
+        "start( )",
+        "destroy()",
+        "paint()",
+        "stop()"
+    ],
+    "created_at": "2026-06-25T05:50:39.008532+00:00"
+},
+{
+    "id": 42767,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which of the following statements is true regarding paintComponent() method?",
+    "op": [
+        "It tells any components contained by this component to paint themselves.",
+        "It tells the component to paint its border.",
+        "It first paints the background and then performs custom painting.",
+        "It first performs custom painting and then paints the background."
+    ],
+    "created_at": "2026-06-25T05:50:58.7272+00:00"
+},
+{
+    "id": 42768,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which method is called first when an applet is loaded?",
+    "op": [
+        "start()",
+        "stop()",
+        "destroy()",
+        "init()"
+    ],
+    "created_at": "2026-06-25T05:51:22.928177+00:00"
+},
+{
+    "id": 42769,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "To serialize an object in Java, we typically use _____________________ .",
+    "op": [
+        "ObjectOutputStream",
+        "ObjectInputStream",
+        "ClassInputStream",
+        "ClassOutputStream"
+    ],
+    "created_at": "2026-06-25T05:51:44.906749+00:00"
+},
+{
+    "id": 42770,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "During deserialization in Java, which casting is required to recreate the original object type?",
+    "op": [
+        "Down-casting",
+        "Up-casting",
+        "Left-casting",
+        "Right-casting"
+    ],
+    "created_at": "2026-06-25T15:35:44.539502+00:00"
+},
+{
+    "id": 42771,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "How many methods are there in the Serializable Interface?",
+    "op": [
+        "Zero",
+        "One",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-06-25T15:35:53.302845+00:00"
+},
+{
+    "id": 42772,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "How many simultaneous connections can be opened using TCP and UDP ports?",
+    "op": [
+        "128",
+        "64k",
+        "64",
+        "128k"
+    ],
+    "created_at": "2026-06-25T15:36:02.05175+00:00"
+},
+{
+    "id": 42773,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which Java package is used for socket programming?",
+    "op": [
+        "java.net",
+        "java.sql",
+        "java.util",
+        "java.lang"
+    ],
+    "created_at": "2026-06-25T15:36:35.243084+00:00"
+},
+{
+    "id": 42774,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Timers are constructed by specifying both a delay parameter and a/an _________ Listener.",
+    "op": [
+        "Action",
+        "Key",
+        "Mouse",
+        "Window"
+    ],
+    "created_at": "2026-06-25T15:36:44.128234+00:00"
+},
+{
+    "id": 42775,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which method of ServerSocket class is used to accept incoming client connections in Java?",
+    "op": [
+        "connect()",
+        "open()",
+        "bind()",
+        "accept()"
+    ],
+    "created_at": "2026-06-25T15:37:04.433098+00:00"
+},
+{
+    "id": 42776,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which keyword is used in Java to mark fields that should not be serialized?",
+    "op": [
+        "transient",
+        "final",
+        "static",
+        "volatile"
+    ],
+    "created_at": "2026-06-25T15:37:12.438499+00:00"
+},
+{
+    "id": 42777,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "How many ports are available for UDP socket?",
+    "op": [
+        "64",
+        "128",
+        "128k",
+        "64k"
+    ],
+    "created_at": "2026-06-26T17:49:01.186669+00:00"
+},
+{
+    "id": 42778,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "In order to include graphics in your Java program, it is mandatory to extend from _________ class.",
+    "op": [
+        "JFrame",
+        "JLabel",
+        "JPanel",
+        "JButton"
+    ],
+    "created_at": "2026-06-26T17:44:39.911005+00:00"
+},
+{
+    "id": 42779,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "Which of the following methods takes the place of constructor in an Applet?",
+    "op": [
+        "main()",
+        "init()",
+        "start()",
+        "run()"
+    ],
+    "created_at": "2026-06-26T17:45:04.315304+00:00"
+},
+{
+    "id": 42781,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "In Java Graphics, while painting a swing component, which of the following functions is invoked first?",
+    "op": [
+        "paintComponet( )",
+        "paint( )",
+        "paintBorder( )",
+        "paintChildern( )"
+    ],
+    "created_at": "2026-06-26T17:46:53.151431+00:00"
+},
+{
+    "id": 42782,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "Which method is called when an applet is about to be removed from memory?",
+    "op": [
+        "stop()",
+        "destroy()",
+        "start()",
+        "init()"
+    ],
+    "created_at": "2026-06-26T17:47:32.055094+00:00"
+},
+{
+    "id": 42784,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "An applet can be defined as:",
+    "op": [
+        "A small program written in JSF and included in an HTML page",
+        "A small program written in JSP and included in an HTML page",
+        "A small program written in Java and included in an HTML page",
+        "A small program written in Servlet and included in an HTML page"
+    ],
+    "created_at": "2026-06-26T17:56:44.94181+00:00"
+},
+{
+    "id": 42785,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "Which of the following statements is true regarding paintChildren() method?",
+    "op": [
+        "It first paints the background and then performs custom painting.",
+        "It tells any components contained by this component to paint themselves.",
+        "It tells the component to paint its border.",
+        "It first performs custom painting and then paints the background."
+    ],
+    "created_at": "2026-06-26T17:57:10.394226+00:00"
+},
+{
+    "id": 42786,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "Which of the following is the correct syntax to make a PersonInfo class into a Serializable class?",
+    "op": [
+        "public class PersonInfo imports Serializable { /* class body */}",
+        "public class PersonInfo includes Serializable { /* class body */}",
+        "public class PersonInfo extends Serializable { /* class body */}",
+        "public class PersonInfo implements Serializable { /* class body */}"
+    ],
+    "created_at": "2026-06-26T17:57:40.289664+00:00"
+},
+{
+    "id": 42787,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "If a JPanel has a triangle drawn on it then which of the following methods will display it?",
+    "op": [
+        "paintChildern( )",
+        "paintBorder( )",
+        "paint( )",
+        "paintComponet( )"
+    ],
+    "created_at": "2026-06-26T17:58:11.493139+00:00"
+},
+{
+    "id": 42788,
+    "cc": "CS506",
+    "qn": "3",
+    "dt": "26 June 2026",
+    "qt": "Which of the following is NOT true about paintComponent( ) method?",
+    "op": [
+        "Tells the components border (if any) to paint.",
+        "It is a main method for painting",
+        "It performs custom painting (drawing circle, rectangles etc.)",
+        "By default, it first paints the background"
+    ],
+    "created_at": "2026-06-26T17:59:10.129338+00:00"
+},
+{
+    "id": 48218,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The newly created thread can be moved to \"Ready State\" by calling _______________ method.",
+    "op": [
+        "start()",
+        "wait()",
+        "sleep()",
+        "yield()"
+    ],
+    "created_at": "2026-07-05T19:12:07.78704+00:00"
+},
+{
+    "id": 48223,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Inside <servlet-mapping> tag, first write _____________ of the servlet using ______________ tag in web.xml.",
+    "op": [
+        "class, <servlet-class>",
+        "url, <url-pattern>",
+        "name, <servlet-name>",
+        "url, <servlet-url>"
+    ],
+    "created_at": "2026-07-05T19:12:13.728454+00:00"
+},
+{
+    "id": 48236,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The webapps folder is the _______ Tomcat directory that contains all the web applications deployed on the server.",
+    "op": [
+        "mid-level",
+        "bottom-level",
+        "least-level",
+        "top-level"
+    ],
+    "created_at": "2026-07-05T19:12:18.729443+00:00"
+},
+{
+    "id": 48243,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________________ is NOT the type of HTTP request.",
+    "op": [
+        "Delete",
+        "Post",
+        "Update",
+        "Get"
+    ],
+    "created_at": "2026-07-05T19:12:24.056971+00:00"
+},
+{
+    "id": 48248,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT a part of HTTP request?",
+    "op": [
+        "Request method",
+        "Status code",
+        "Header fields",
+        "URI"
+    ],
+    "created_at": "2026-07-05T19:12:29.074979+00:00"
+},
+{
+    "id": 48261,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose the correct statement by which thread 't' causes currently executing thread to block until thread 't' finishes its run() method.",
+    "op": [
+        "t.wait()",
+        "t.start()",
+        "t.join()",
+        "t.sleep()"
+    ],
+    "created_at": "2026-07-05T19:12:34.658698+00:00"
+},
+{
+    "id": 48268,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Real world business objects are represented in ____________.",
+    "op": [
+        "data layer",
+        "presentation layer",
+        "application layer",
+        "business layer"
+    ],
+    "created_at": "2026-07-05T19:12:39.630581+00:00"
+},
+{
+    "id": 48276,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of servlet mapping in web.xml, URL is provided in ___________ tag.",
+    "op": [
+        "<url-address>",
+        "<url-pattern>",
+        "<url-destination>",
+        "<url-source>"
+    ],
+    "created_at": "2026-07-05T19:12:44.487658+00:00"
+},
+{
+    "id": 48286,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "JAVA_Home indicates the _____________ of JDK.",
+    "op": [
+        "webapps folder",
+        "root directory",
+        "bin folder",
+        "web page"
+    ],
+    "created_at": "2026-07-05T19:12:49.072769+00:00"
+},
+{
+    "id": 48906,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What does J2EE stand for?",
+    "op": [
+        "Java 2 Essential Edition",
+        "Java 2 Enterprise Edition",
+        "Java 2 Experiment Edition",
+        "Java 2 Extended Edition"
+    ],
+    "created_at": "2026-07-05T19:24:22.043867+00:00"
+},
+{
+    "id": 48913,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In web.xml, root tag _____________ represents web application.",
+    "op": [
+        "<web.app>",
+        "<webapp>",
+        "<web-app>",
+        "webapp"
+    ],
+    "created_at": "2026-07-05T19:24:28.977574+00:00"
+},
+{
+    "id": 48923,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "HTTP response code 401 indicates that ______________ .",
+    "op": [
+        "error by server",
+        "requested resource is available",
+        "request requires HTTP authentication",
+        "requested resource is not available"
+    ],
+    "created_at": "2026-07-05T19:24:44.63848+00:00"
+},
+{
+    "id": 48941,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "\"Ready State\" means a thread is in _____________ .",
+    "op": [
+        "new state",
+        "waiting state",
+        "ready queue",
+        "dead state"
+    ],
+    "created_at": "2026-07-05T19:25:27.675756+00:00"
+},
+{
+    "id": 48945,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose correct integer value for predefined Thread Priority \"Thread.MAX_PRIORITY\" in Java.",
+    "op": [
+        "1",
+        "7",
+        "5",
+        "10"
+    ],
+    "created_at": "2026-07-05T19:25:35.541228+00:00"
+},
+{
+    "id": 48951,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In _____________ state, thread is assigned a processor to run.",
+    "op": [
+        "running",
+        "new",
+        "dead",
+        "ready"
+    ],
+    "created_at": "2026-07-05T19:25:42.926657+00:00"
+},
+{
+    "id": 48954,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "CGI (Common Gateway Interface) was widely used for generating ________ .",
+    "op": [
+        "Desktop applications",
+        "Dynamic web content",
+        "Mobile applications",
+        "Static web content"
+    ],
+    "created_at": "2026-07-05T19:25:49.890079+00:00"
+},
+{
+    "id": 48960,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is/are not correct about Thread(s)?",
+    "op": [
+        "Heavy weight",
+        "Light weight and share same memory",
+        "Share same memory",
+        "Light weight"
+    ],
+    "created_at": "2026-07-05T19:26:01.874662+00:00"
+},
+{
+    "id": 49735,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following variable value will not be set during the installation and configuration of Apache Tomcat Server?",
+    "op": [
+        "CLASSPATH",
+        "JDK_HOME",
+        "CATALINA_HOME",
+        "JAVA_HOME"
+    ],
+    "created_at": "2026-07-05T19:54:12.343944+00:00"
+},
+{
+    "id": 49739,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of Java Thread, sleep() method throws __________ exception.",
+    "op": [
+        "Input Output",
+        "Index Out of bound",
+        "File not found",
+        "Interrupted"
+    ],
+    "created_at": "2026-07-05T19:54:20.777093+00:00"
+},
+{
+    "id": 49742,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When a thread is in \"New state\" during its life cycle, it is _________________.",
+    "op": [
+        "in ready queue",
+        "being assigned a processor to run",
+        "just created",
+        "ready to run"
+    ],
+    "created_at": "2026-07-05T19:54:26.45112+00:00"
+},
+{
+    "id": 49749,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of HTTP Response Code, the values in the 400s indicate that _________________.",
+    "op": [
+        "error by client",
+        "resource is available",
+        "resource is not available",
+        "error by server"
+    ],
+    "created_at": "2026-07-05T19:54:47.538916+00:00"
+},
+{
+    "id": 49753,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not the part of http response?",
+    "op": [
+        "URI",
+        "Header files",
+        "Status code",
+        "Result Code"
+    ],
+    "created_at": "2026-07-05T19:54:53.823446+00:00"
+},
+{
+    "id": 49766,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The ____________ method is used, when one thread wants to wait for another thread's run method to complete its execution.",
+    "op": [
+        "join()",
+        "sleep()",
+        "wait()",
+        "yield()"
+    ],
+    "created_at": "2026-07-05T19:55:25.450711+00:00"
+},
+{
+    "id": 49927,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose correct integer value for predefined Thread Priority \"Thread.MIN_PRIORITY\" in Java.",
+    "op": [
+        "5",
+        "7",
+        "1",
+        "10"
+    ],
+    "created_at": "2026-07-05T20:05:33.559565+00:00"
+},
+{
+    "id": 49936,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is correct to assign maximum priority to thread “t2”?",
+    "op": [
+        "t2.setPriority(Thread.MAX_PRIORITY);",
+        "t2.setPriority(Thread.PRIORITY_MAX)",
+        "t2.setPriority(Thread.PRIORITY_MiX);",
+        "t2.setPriority(Thread.MIX_PRIORITY);"
+    ],
+    "created_at": "2026-07-05T20:06:00.510637+00:00"
+},
+{
+    "id": 49941,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In GET HTTP Request type, attribute-value pair is attached after ____________ with requested URL.",
+    "op": [
+        "@",
+        "?",
+        "-",
+        "#"
+    ],
+    "created_at": "2026-07-05T20:06:22.718428+00:00"
+},
+{
+    "id": 49958,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the context of HTTP Response Code, the values in the 200s signify that _________________.",
+    "op": [
+        "error by client",
+        "request was successful",
+        "request was not successful",
+        "error by server"
+    ],
+    "created_at": "2026-07-05T20:07:32.337381+00:00"
+},
+{
+    "id": 50149,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose correct line of code to inherit a Worker class from Thread class in Java.",
+    "op": [
+        "public class Worker new Thread ()",
+        "public class Worker extends Thread ()",
+        "public class Worker implement Thread ()",
+        "public class Worker inherit Thread ()"
+    ],
+    "created_at": "2026-07-05T20:28:46.883443+00:00"
+},
+{
+    "id": 50150,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following folder contains configuration file?",
+    "op": [
+        "WEB-INF",
+        "lib",
+        "bin",
+        "classes"
+    ],
+    "created_at": "2026-07-05T20:28:53.606046+00:00"
+},
+{
+    "id": 50155,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "HTTP response code 404 indicates that ________________ .",
+    "op": [
+        "requested resource is available",
+        "request requires HTTP authentication",
+        "requested resource is not available",
+        "error by server"
+    ],
+    "created_at": "2026-07-05T20:29:10.25411+00:00"
+},
+{
+    "id": 50160,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Since Java is portable and servlets is a Java based technology, therefore they are generally portable across_________________ .",
+    "op": [
+        "Client computers",
+        "Mobile devices",
+        "Web servers",
+        "Desktop applications"
+    ],
+    "created_at": "2026-07-05T20:29:35.14738+00:00"
+},
+{
+    "id": 50284,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a servlet related package?",
+    "op": [
+        "javax.servlet.Servlet",
+        "javax.servlet.Svlt",
+        "javax.servlet",
+        "javax.servlet.http"
+    ],
+    "created_at": "2026-07-05T20:40:30.09259+00:00"
+},
+{
+    "id": 50301,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following method allows any other thread of same priority to execute?",
+    "op": [
+        "wait()",
+        "sleep()",
+        "notify()",
+        "yield()"
+    ],
+    "created_at": "2026-07-05T20:42:05.045872+00:00"
+},
+{
+    "id": 50307,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following method needs to override while handling threads in java?",
+    "op": [
+        "init()",
+        "runnable()",
+        "run()",
+        "start()"
+    ],
+    "created_at": "2026-07-05T20:42:23.902881+00:00"
+},
+{
+    "id": 50322,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT true about HTTP?",
+    "op": [
+        "HTTP is a request response communication model",
+        "HTTP is a stateless protocol",
+        "HTTP has no built-in state management between successive requests.",
+        "HTTP maintains user session between successive requests."
+    ],
+    "created_at": "2026-07-05T20:42:57.918189+00:00"
+},
+{
+    "id": 50330,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Thread sleep () method causes the currently executing thread to wait for the time in _________.",
+    "op": [
+        "Microseconds",
+        "Nanoseconds",
+        "Milliseconds",
+        "Zeptoseconds"
+    ],
+    "created_at": "2026-07-05T20:44:00.86057+00:00"
+},
+{
+    "id": 50403,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true about Apache Tomcat?",
+    "op": [
+        "It implements Java Servlet and Java Server Pages specifications.",
+        "It only supports HTTP protocol.",
+        "It can only run on Linux servers.",
+        "It is primarily used for running Python applications."
+    ],
+    "created_at": "2026-07-05T20:58:10.024945+00:00"
+},
+{
+    "id": 50405,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose correct integer value for predefined Thread Priority \"Thread.NORM_PRIORITY\" in Java.",
+    "op": [
+        "10",
+        "7",
+        "1",
+        "5"
+    ],
+    "created_at": "2026-07-05T20:58:32.371992+00:00"
+},
+{
+    "id": 50407,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following range of response code indicates that request was successful?",
+    "op": [
+        "400-499",
+        "300-399",
+        "200-299",
+        "100-199"
+    ],
+    "created_at": "2026-07-05T20:59:49.732434+00:00"
+},
+{
+    "id": 50409,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Servlets are commonly used to:",
+    "op": [
+        "Style web pages with CSS",
+        "Store data in a database",
+        "Generate dynamic web content",
+        "Execute client-side scripts"
+    ],
+    "created_at": "2026-07-05T21:00:54.180664+00:00"
+},
+{
+    "id": 50410,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose correct line of code to start a thread 't' in Java.",
+    "op": [
+        "t->start()",
+        "t=start()",
+        "t-start()",
+        "t.start()"
+    ],
+    "created_at": "2026-07-05T21:01:35.517193+00:00"
+},
+{
+    "id": 50658,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If \"MyServlet\" is placed in \"myapp\" folder, then you can access \"MyServlet\" by writing _______________ url in browser.",
+    "op": [
+        "http://localhost:8080/myapp/servlets/MyServlet",
+        "http://localhost:8080/webapps/myapp/MyServlet",
+        "http://localhost:8080/webapps/myapp/servlets/MyServlet",
+        "http://localhost:8080/myapp/MyServlet"
+    ],
+    "created_at": "2026-07-05T22:13:25.10015+00:00"
+},
+{
+    "id": 50659,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "To compile a servlet (e.g. MyServlet.java) ____________ command is used in command prompt.",
+    "op": [
+        "java c",
+        "java",
+        "javac",
+        "java-c"
+    ],
+    "created_at": "2026-07-05T22:13:32.579981+00:00"
+},
+{
+    "id": 50931,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "HTTP response code 100s indicates ________________ .",
+    "op": [
+        "do not continue with any request",
+        "to continue without request",
+        "to continue with partial request",
+        "to continue with complete request"
+    ],
+    "created_at": "2026-07-05T23:48:04.732305+00:00"
+},
+{
+    "id": 51028,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "web.xml is a ___________",
+    "op": [
+        "java file",
+        "configuration file",
+        "jar file",
+        "servlet file"
+    ],
+    "created_at": "2026-07-06T00:08:37.672643+00:00"
+},
+{
+    "id": 51029,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Servlets are java technology’s answer to ________ programming.",
+    "op": [
+        "C++",
+        "Perl",
+        "CGI",
+        "C"
+    ],
+    "created_at": "2026-07-06T00:08:46.153992+00:00"
+},
+{
+    "id": 51055,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT a web technoloy of Java?",
+    "op": [
+        "ASP",
+        "JSP",
+        "JSF",
+        "Servlet"
+    ],
+    "created_at": "2026-07-06T00:14:07.237455+00:00"
+},
+{
+    "id": 51056,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following range of response code signify error by server?",
+    "op": [
+        "200-299",
+        "400-499",
+        "500-599",
+        "300-399"
+    ],
+    "created_at": "2026-07-06T00:14:15.182552+00:00"
+},
+{
+    "id": 51102,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following approach can used to create threads in java?",
+    "op": [
+        "Abstraction",
+        "Composition",
+        "Polymorphism",
+        "Inheritance"
+    ],
+    "created_at": "2026-07-06T00:24:54.052648+00:00"
+},
+{
+    "id": 51201,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following interface needs to implement while creating threads?",
+    "op": [
+        "ActionListener",
+        "Serializable",
+        "WindowListener",
+        "Runnable"
+    ],
+    "created_at": "2026-07-06T00:47:25.865096+00:00"
+},
+{
+    "id": 51205,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following problem occurs with lower priority threads?",
+    "op": [
+        "Average waiting time",
+        "Starvation",
+        "Process death",
+        "Race condition"
+    ],
+    "created_at": "2026-07-06T00:48:16.239062+00:00"
+},
+{
+    "id": 51426,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If attribute is \"name\" and value is \"ahmad\" then the GET request will be ____________________ .",
+    "op": [
+        "http://www.gmail.com/register&name=ahmad",
+        "http://www.gmail.com/register?name=ahmad",
+        "http://www.gmail.com/register?name.ahmad",
+        "http://www.gmail.com/register#name=ahmad"
+    ],
+    "created_at": "2026-07-06T01:27:29.346284+00:00"
+},
+{
+    "id": 51826,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements about Servlets is true?",
+    "op": [
+        "Servlets are written in PHP.",
+        "Servlets are only used for static web content.",
+        "Servlets handle requests and generate dynamic responses.",
+        "Servlets are platform-specific and cannot run on different servers."
+    ],
+    "created_at": "2026-07-06T02:37:29.121408+00:00"
+},
+{
+    "id": 68308,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "How to add a Cookie object to a HttpServletResponse in Java servlets? ",
+    "op": [
+        "Using response.sendCookie(cookie);",
+        "Using response.setCookie(cookie);",
+        "Using response.addCookie(cookie);",
+        "Using response.createCookie(cookie);"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68309,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "The method \"getAttribute(String)\" of HttpSession class extracts ______________ stored value from a session object.",
+    "op": [
+        "Previously",
+        "Currently",
+        "First",
+        "Subsequently"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68310,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which keyword is used to declare a package in Java? ",
+    "op": [
+        "import",
+        "namespace",
+        "include",
+        "package"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68311,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is the purpose of JSP? ",
+    "op": [
+        "To manage server configurations and deployments.",
+        "To handle client-side scripting in web applications.",
+        "To generate dynamic web content using Java code.",
+        "To define the structure and styling of web pages."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68312,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which method is used to encode a URL for URL rewriting in Java Servlets? ",
+    "op": [
+        "response.encodeURL(String url)",
+        "context.encodeURL(String url)",
+        "session.encodeURL(String url)",
+        "request.encodeURL(String url)"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68313,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Servlet mapping is defined in ________",
+    "op": [
+        "html",
+        "web.xml",
+        "servlet",
+        "JSP"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68314,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is the correct format of writing an include directive in JSP?",
+    "op": [
+        "<%# include {attribute=”val”} %>",
+        "<%! include {attribute=”val”} %>",
+        "<%$ include {attribute=”val”} %>",
+        "<%@ include {attribute=”val”} %>"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68315,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following object contains information specific to a servlet?",
+    "op": [
+        "ServletContext",
+        "ServletRequest",
+        "ServletResponse",
+        "ServletConfig"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68316,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Where are cookies typically stored? ",
+    "op": [
+        "On the website's server",
+        "In the website's HTML code",
+        "In the user's computer's RAM",
+        "In a specific folder on the user's device"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68317,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Is it true \"server considers each request independent from other even if the requests are made by the same client\"? ",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68318,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following techniques is not used for session tracking in web applications? ",
+    "op": [
+        "Serialization",
+        "Cookies",
+        "URL Rewriting",
+        "Hidden form fields"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68319,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is the main idea behind partitioning a web application into layers?",
+    "op": [
+        "Reduce Decoupling",
+        "Increase Decoupling",
+        "Increase Coupling",
+        "Reduce Coupling"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68321,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is URL rewriting in Java web applications? ",
+    "op": [
+        "Manipulating URLs to maintain session state in web applications.",
+        "Encoding special characters in URLs for secure communication.",
+        "Rewriting URLs to make them more user-friendly.",
+        "Modifying the URL of a web page for search engine optimization."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68322,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "HttpServletResponse provides ________ methods to perform encoding in java. ",
+    "op": [
+        "Three",
+        "One",
+        "Two",
+        "Four"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68323,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is the data type of the config variable in JSP? ",
+    "op": [
+        "ServletContext",
+        "ServletConfig",
+        "HttpSession",
+        "String"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68324,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "The method \"cookie.setMaxAge(12)\" indicates that the cookie will expire after ___________ .",
+    "op": [
+        "12 Seconds",
+        "12 Minutes",
+        "12 Days",
+        "12 Hours"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68325,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Each web application has ______________ servlet context/s.",
+    "op": [
+        "0",
+        "1",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68326,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Servlet context stores initialization parameters of ______________ .",
+    "op": [
+        "a java file",
+        "of entire web application",
+        "one servlet",
+        "of all web applications in a server"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68327,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following methods of HTTPServletResponse returns the enumeration of all available header names that are contained in the request. ",
+    "op": [
+        "getRequestURL()",
+        "getProtocol()",
+        "getMethod()",
+        "getHeaderNames()"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68328,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which file extension is used for JSP files? ",
+    "op": [
+        ".java",
+        ".html",
+        ".js",
+        ".jsp"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68329,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "addCookie() method of HTTPServletResponse takes ___________ as a parameter and adds it to the cookie header.",
+    "op": [
+        "MAC address",
+        "cookie object",
+        "session id",
+        "ip address"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68330,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is the correct format of writing a page directive in JSP?",
+    "op": [
+        "<%! page {attribute=”val”} %>",
+        "<%$ page {attribute=”val”} %>",
+        "<%@ page {attribute=”val”} %>",
+        "<%# page {attribute=”val”} %>"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68331,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Engine of the servlet is ______________ method.",
+    "op": [
+        "load()",
+        "init()",
+        "create()",
+        "service()"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68332,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "HTML comments are ____________ in browser and JSP comments are ________________ in browser.",
+    "op": [
+        "shown, shown",
+        "hidden, hidden",
+        "shown, hidden",
+        "hidden, shown"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68333,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What does request.getCookies() return in Java servlets? ",
+    "op": [
+        "An array of Cookie objects representing cookies sent by the client in the request.",
+        "The expiration time of cookies sent by the client.",
+        "The number of cookies sent by the client.",
+        "A single Cookie object representing all cookies sent by the client."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68334,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is the correct method of HttpServletResponse to perform encoding in java? ",
+    "op": [
+        "String RedirectURL(String URL)",
+        "String encodeMineURL(String URL)",
+        "String encodeRedirect(String URL)",
+        "String encodeRedirectURL(String URL)"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68335,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "JSP Stands for ____________ . ",
+    "op": [
+        "JavaServer Pages",
+        "Java Servlet Pages",
+        "Java Server Program",
+        "Java Standard Protocol"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68336,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "How does JSP differ from servlets? ",
+    "op": [
+        "JSP is written in Java, while servlets are written in JavaScript.",
+        "JSP is executed on the server and generates dynamic content, while servlets handle requests and responses.",
+        "JSP is used for client-side interactions, while servlets handle server-side operations.",
+        "JSP allows for a mixture of HTML and Java code, while servlets are purely Java code."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68337,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is the purpose of the <servlet-mapping> tag in web.xml? ",
+    "op": [
+        "To configure servlet initialization parameters.",
+        "To define servlets with their class names.",
+        "To set session configuration for servlets.",
+        "To specify the URL patterns that map to servlets."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68338,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which directive is used to import Java classes in JSP? ",
+    "op": [
+        "<%-- --%>",
+        "<include>",
+        "<scriptlet>",
+        "<import>"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68339,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "To redirect to an HTML page named index.html located at the root of the web application, what should be the argument to sendRedirect()? ",
+    "op": [
+        "sendRedirect(\"webapp/index.html\")",
+        "sendRedirect(\"index.html\")",
+        "sendRedirect(\"contextPath/index.html\")",
+        "sendRedirect(\"WEB-INF/index.html\")"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68341,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "How do you set the maximum age of a Cookie object in Java? ",
+    "op": [
+        "myCookie.setMaxAgeInSeconds(3600);",
+        "myCookie.setAge(3600);",
+        "myCookie.setExpiration(3600);",
+        "myCookie.setMaxAge(3600);"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68342,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is a package in Java? ",
+    "op": [
+        "A group of classes with similar functionality.",
+        "A folder or directory that organizes related classes and interfaces.",
+        "A collection of methods for a specific task.",
+        "A set of variables used in a program."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68343,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is responsible for handling user interactions and displaying data in a Java application? ",
+    "op": [
+        "Persistence layer",
+        "Business layer",
+        "Presentation layer",
+        "Data layer"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68344,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "getProtocol() method of HTTPServletRequest is used to get the _________ and ___________ of protocol.",
+    "op": [
+        "id, version",
+        "id, class",
+        "name, version",
+        "name, class"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68345,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "In which technique does the server store a unique session identifier on the client's browser? ",
+    "op": [
+        "Cookies",
+        "Hidden form fields",
+        "Database storage",
+        "URL rewriting"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68349,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is not the stage of servlet lifecycle?",
+    "op": [
+        "Service",
+        "Initialize",
+        "Wait",
+        "Destroy"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68350,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "JSP directives can be used to affect which part of the web application? ",
+    "op": [
+        "The client-side JavaScript",
+        "The overall structure of the servlet",
+        "Only the database connection",
+        "Only the HTML content"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68351,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Server spawns a new thread for each new request from the  client by calling servlet's ________________ method.",
+    "op": [
+        "yield()",
+        "init()",
+        "service()",
+        "spwan()"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68352,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "A servlet _____________ during its initialize stage.",
+    "op": [
+        "forwards request/s",
+        "loads resource/s",
+        "unloads resource/s",
+        "accepts request/s"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68353,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Context attributes are shared among _____________ servlet/s of ___________ .",
+    "op": [
+        "two, a web application",
+        "all, a web application",
+        "all, desktop applications",
+        "two, desktop applications"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68354,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "The data layer in Java applications is responsible for: ",
+    "op": [
+        "Handling user input validation and error handling",
+        "Storing and retrieving data from persistent storage",
+        "Handling user authentication and authorization",
+        "Presenting data to the user in a user-friendly format"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68355,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "The __________________ method actually processes the clients request.",
+    "op": [
+        "yield()",
+        "init()",
+        "service()",
+        "destroy()"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68356,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Resources could be shared among all servlets in _______________ application/s using _____________ .",
+    "op": [
+        "different, Servlet object",
+        "same, ServletContext object",
+        "different, ServletContext object",
+        "same, Servlet object"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68357,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "How does URL rewriting work in Java web applications? ",
+    "op": [
+        "Replacing URL paths with user-friendly aliases.",
+        "Appending session ID as a query parameter to the URL.",
+        "Storing session ID in cookies.",
+        "Modifying the URL in the client's browser using JavaScript."
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68358,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following object is used for sharing resources among different servlets of same application?",
+    "op": [
+        "ServletRequest",
+        "ServletContext",
+        "ServletResponse",
+        "ServletConfig"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68359,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is session tracking in web applications? ",
+    "op": [
+        "Monitoring server performance",
+        "Recording user demographics",
+        "Maintaining stateful information about user interactions",
+        "Tracking user location on the website"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68360,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is the correct format of writing a taglib directive in JSP?",
+    "op": [
+        "<%$ taglib {attribute=”val”} %>",
+        "<%# taglib {attribute=”val”} %>",
+        "<%! taglib {attribute=”val”} %>",
+        "<%@ taglib {attribute=”val”} %>"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68361,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "setContentLength() method of HTTPServletResponse sets the length of content by taking _____________ parameter as length.",
+    "op": [
+        "character",
+        "float",
+        "string",
+        "integer"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68362,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is a cookie in the context of web browsing? ",
+    "op": [
+        "A type of browser plugin",
+        "A security feature for preventing malware",
+        "A small piece of data stored on the user's device by websites",
+        "A small piece of cake served by websites"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68363,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What does the method getHeaderName() of HTTPServletResponse return if no header exists with the specified name? ",
+    "op": [
+        "false",
+        "An empty string",
+        "undefined",
+        "null"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68364,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is NOT a use of JSP directives? ",
+    "op": [
+        "To include content from other resources",
+        "To specify page settings",
+        "To define the appearance of HTML tags",
+        "To specify custom-tag libraries"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68365,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "At servlet service stage, webserver invokes __________ method.",
+    "op": [
+        "svltServices()",
+        "serviceSvlt()",
+        "servletServices()",
+        "services()"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68366,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Request and response of servlet are handled at _________ stage.",
+    "op": [
+        "destroy",
+        "failure",
+        "initialize",
+        "service"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68368,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which parameter does getHeaderName() method of HTTPServletResponse accept? ",
+    "op": [
+        "A boolean",
+        "An integer",
+        "A double",
+        "A String"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68369,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "In JSP, ____________ is an implicit object, which belongs to ServletConfig class and represents the JSP configuration options.",
+    "op": [
+        "Config",
+        "PageContext",
+        "Application",
+        "Session"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68380,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "In include type of request dispatcher, the first servlet which received request is also responsible to __________ .",
+    "op": [
+        "finish response",
+        "show exceptions",
+        "forward request",
+        "modify request"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68381,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "The business layer in Java applications is responsible for: ",
+    "op": [
+        "Implementing business logic and processing rules",
+        "Managing the application's database connectivity",
+        "Storing and retrieving data from persistent storage",
+        "Handling user interface rendering and event handling"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68383,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following tag is used to define initialization parameters value of a servlet?",
+    "op": [
+        "<parameter-value> </parameter-value>",
+        "<param-value> </param-value>",
+        "<initparam-value> </initparam-value>",
+        "<para-value> </para-value>"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68384,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Normally web applications are partitioned into _______ logical layers. ",
+    "op": [
+        "One",
+        "Four",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68385,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What does getHeaderName(\"User-Agent\") return if the \"User-Agent\" header exists and its value is \"Mozilla/5.0\"? ",
+    "op": [
+        "Mozilla/5.0",
+        "true",
+        "An empty string",
+        "null"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68396,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "Which of the following is not an HttpServletRequest method?",
+    "op": [
+        "setProtocol()",
+        "getProtocol()",
+        "getMethod()",
+        "setAttribute(String, Object)"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68397,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "In the context of Session Tracking, states are maintained by the mutual cooperation of both client & __________.",
+    "op": [
+        "User",
+        "Browser",
+        "Server",
+        "Customer"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68398,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "During different sessions, getServletContext() method provides ____________ ServletContext object/s to ____________ Servlets.",
+    "op": [
+        "different, same",
+        "different, different",
+        "same, same",
+        "same , different"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68419,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "At servlet initialization stage, webserver invokes __________ method.",
+    "op": [
+        "initialize()",
+        "init()",
+        "initServelt()",
+        "servletInit()"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68422,
+    "cc": "CS506",
+    "qn": "4",
+    "dt": "04 January 2026",
+    "qt": "What is the correct syntax to create a Cookie object in Java? ",
+    "op": [
+        "Cookie myCookie = new Cookie(\"name\", \"value\");",
+        "Cookie myCookie = Cookie.createCookie();",
+        "Cookie myCookie = new Cookie();",
+        "Cookie myCookie = createCookie(\"name\", \"value\");"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+}
+]

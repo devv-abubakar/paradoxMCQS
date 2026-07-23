@@ -1,0 +1,1192 @@
+[
+{
+    "id": 24912,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If threads have separate memory spaces, then it will reduce ________________.",
+    "op": [
+        "Memory contention",
+        "Memory density",
+        "Direct memory access",
+        "Access speed"
+    ],
+    "created_at": "2026-06-28T20:33:57.720703+00:00"
+},
+{
+    "id": 24913,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the vectored exception handler, the value of FirstHandler parameter specifies the __________ in which the handler will execute.",
+    "op": [
+        "Allocation of stack",
+        "Speed",
+        "Order",
+        "Accuracy"
+    ],
+    "created_at": "2026-06-28T20:34:05.030593+00:00"
+},
+{
+    "id": 24915,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "lpApplicationName _________ be NULL.",
+    "op": [
+        "Should not",
+        "May not",
+        "Should",
+        "May"
+    ],
+    "created_at": "2026-06-28T20:34:13.844152+00:00"
+},
+{
+    "id": 24917,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A file mapping handle returns _________ on failure.",
+    "op": [
+        "FALSE",
+        "TRUE",
+        "UNDEFINED",
+        "NULL"
+    ],
+    "created_at": "2026-06-28T20:34:23.054505+00:00"
+},
+{
+    "id": 24919,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To start the mapping from the start of a file, set both dwFileOffsetHigh and dwFileOffsetLow as ____________.",
+    "op": [
+        "Null",
+        "-1",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-06-28T20:34:31.553959+00:00"
+},
+{
+    "id": 24920,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Once the DLL is loaded, the programmer needs to obtain _________ into the DLL for an entry point.",
+    "op": [
+        "Physical address",
+        "Procedure address",
+        "Bus address",
+        "Dynamic address"
+    ],
+    "created_at": "2026-06-28T20:34:43.321405+00:00"
+},
+{
+    "id": 24921,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The most fundamental process management function in windows is CreateProcess() that has ______ parameters.",
+    "op": [
+        "10",
+        "12",
+        "4",
+        "6"
+    ],
+    "created_at": "2026-06-28T20:35:16.209536+00:00"
+},
+{
+    "id": 24922,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Each thread has its own ______________.",
+    "op": [
+        "Stack",
+        "TLS and Stack",
+        "Environment Block",
+        "TLS"
+    ],
+    "created_at": "2026-06-28T20:35:26.872438+00:00"
+},
+{
+    "id": 24924,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "How many parameters are there in the CreateProcess() API?",
+    "op": [
+        "7",
+        "10",
+        "5",
+        "12"
+    ],
+    "created_at": "2026-06-28T20:35:36.220547+00:00"
+},
+{
+    "id": 25127,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Try and Catch keywords ___________ required for vectored exception handlers.",
+    "op": [
+        "are occasionally",
+        "are not",
+        "must be",
+        "are"
+    ],
+    "created_at": "2026-06-28T21:42:59.949669+00:00"
+},
+{
+    "id": 25128,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The HeapAlloc() API has ___________ parameter(s).",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-06-28T21:43:12.195758+00:00"
+},
+{
+    "id": 25129,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "An Environment Block is associated with __________process.",
+    "op": [
+        "Each",
+        "No",
+        "One",
+        "Some"
+    ],
+    "created_at": "2026-06-28T21:43:18.178127+00:00"
+},
+{
+    "id": 25132,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "FILETIME parameter of GetThreadTime() function is a ________ bit value.",
+    "op": [
+        "16",
+        "32",
+        "8",
+        "64"
+    ],
+    "created_at": "2026-06-28T21:43:31.587711+00:00"
+},
+{
+    "id": 25133,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In comparison of DLL, executable library files are linked at _________ time.",
+    "op": [
+        "Link",
+        "Compile",
+        "Load",
+        "Run"
+    ],
+    "created_at": "2026-06-28T21:43:37.154994+00:00"
+},
+{
+    "id": 25135,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Pages are swapped in and out when a _______________ occurs.",
+    "op": [
+        "Page fault",
+        "Frame fault",
+        "Page error",
+        "Dirty frame"
+    ],
+    "created_at": "2026-06-28T21:43:42.347018+00:00"
+},
+{
+    "id": 25136,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "It’s not a good idea to use _______ within the program as it will not give it chance to release resources.",
+    "op": [
+        "ExitProcess()",
+        "CreateProcess()",
+        "TerminateProcess()",
+        "FinishProcess()"
+    ],
+    "created_at": "2026-06-28T21:43:48.787009+00:00"
+},
+{
+    "id": 25476,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which structure contains the child process handle and id, as well as the primary thread handle and id?",
+    "op": [
+        "PROCESS_INFO",
+        "THREAD_INFO",
+        "SYSTEM_INFO",
+        "PROCESS_INFORMATION"
+    ],
+    "created_at": "2026-06-29T00:58:52.800471+00:00"
+},
+{
+    "id": 25477,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While using CreateFileMapping(), setting IpMapName to __________ disables the map sharing.",
+    "op": [
+        "Null",
+        "0",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-06-29T00:59:19.428069+00:00"
+},
+{
+    "id": 25478,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "___________ API is used to create a new heap.",
+    "op": [
+        "BuildHeap()",
+        "HeapCreate()",
+        "NewHeap()",
+        "CreateHeap()"
+    ],
+    "created_at": "2026-06-29T00:59:51.049203+00:00"
+},
+{
+    "id": 25479,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The ____________ exceptions are enabled with the help of controlfp function.",
+    "op": [
+        "Mutex",
+        "String",
+        "Floating point",
+        "Integer"
+    ],
+    "created_at": "2026-06-29T01:00:01.775559+00:00"
+},
+{
+    "id": 25481,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "____________ stores the root address.",
+    "op": [
+        "RecHeap",
+        "RootHeap",
+        "NodeHeap",
+        "ProcHeap"
+    ],
+    "created_at": "2026-06-29T01:00:27.604439+00:00"
+},
+{
+    "id": 25578,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In order to deallocate a block of heap, ____________ is used.",
+    "op": [
+        "HeapDelete()",
+        "HeapDestroy()",
+        "HeapTruncate()",
+        "HeapFree()"
+    ],
+    "created_at": "2026-06-29T02:07:01.004163+00:00"
+},
+{
+    "id": 25579,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Closing the child process handle, ___________ the process.",
+    "op": [
+        "Create",
+        "Does not create",
+        "Destroy",
+        "Does not destroy"
+    ],
+    "created_at": "2026-06-29T02:07:31.245194+00:00"
+},
+{
+    "id": 25580,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "LoadLibrary() and LoadLibraryEx() should never be called from ___________ as it will create more DLL entry points.",
+    "op": [
+        "ThreadLibraryCalls()",
+        "DllMainFunc()",
+        "DllMain()",
+        "DisableThreadLibraryCalls()"
+    ],
+    "created_at": "2026-06-29T02:08:49.179709+00:00"
+},
+{
+    "id": 25581,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Windows mainly uses ____________ API platforms.",
+    "op": [
+        "3",
+        "4",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-29T02:09:14.310495+00:00"
+},
+{
+    "id": 25582,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following functions is used to generate a sound beep for 0.7 seconds with the frequency of 750?",
+    "op": [
+        "Beep(700, 750)",
+        "Beep(750, 800)",
+        "Beep(750, 700)",
+        "Beep(750, 0.7)"
+    ],
+    "created_at": "2026-06-29T02:09:37.777658+00:00"
+},
+{
+    "id": 25583,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The wait() function is limited to ______________ handles.",
+    "op": [
+        "32",
+        "64",
+        "8",
+        "16"
+    ],
+    "created_at": "2026-06-29T02:10:02.307772+00:00"
+},
+{
+    "id": 25584,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The_____________ functions are used for synchronizations.",
+    "op": [
+        "Wait",
+        "Exit",
+        "Run",
+        "Go"
+    ],
+    "created_at": "2026-06-29T02:10:46.095764+00:00"
+},
+{
+    "id": 25585,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Console control handlers are similar to ____________.",
+    "op": [
+        "Exception handlers",
+        "Parameters",
+        "Functions",
+        "Interrupts"
+    ],
+    "created_at": "2026-06-29T02:11:19.984651+00:00"
+},
+{
+    "id": 25594,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "IF the system is a _________________then windows scheduler can run process threads on separate processors.",
+    "op": [
+        "Bio processor",
+        "Multiprocessor",
+        "Uni processor",
+        "Linear processor"
+    ],
+    "created_at": "2026-06-29T02:13:54.658091+00:00"
+},
+{
+    "id": 25680,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When we create a file mapped object for sorting 1000 numbers in a file then file records will be saved&nbsp;in a/an_______________.",
+    "op": [
+        "Heap",
+        "Array",
+        "Stack",
+        "Queue"
+    ],
+    "created_at": "2026-06-29T02:37:12.110521+00:00"
+},
+{
+    "id": 25683,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "What is the requirement for a source handle to be used with DuplicateHandle() successfully?",
+    "op": [
+        "It should not exist in the source process.",
+        "It should be a pseudohandle.",
+        "It should have PROCESS DUP HANDLE access.",
+        "It should be created by the target process."
+    ],
+    "created_at": "2026-06-29T02:37:37.761812+00:00"
+},
+{
+    "id": 25689,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is recommended to use while dealing with memory mapped file to look for EXCEPTION_IN_PAGE_ERROR exceptions?",
+    "op": [
+        "HE exception handling",
+        "SHE exception handling",
+        "HES exception handling",
+        "ESH exception handling"
+    ],
+    "created_at": "2026-06-29T02:38:19.991642+00:00"
+},
+{
+    "id": 25691,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is return type of GetExceptionCode() API?",
+    "op": [
+        "HANDLE",
+        "BOOL",
+        "VOID",
+        "DWORD"
+    ],
+    "created_at": "2026-06-29T02:38:33.532973+00:00"
+},
+{
+    "id": 25757,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Parent process usually creates a ________ handle if parent and child process may require _______ access rights.",
+    "op": [
+        "New, Same",
+        "New, different",
+        "Duplicate, different",
+        "Duplicate, same"
+    ],
+    "created_at": "2026-06-29T02:48:11.566948+00:00"
+},
+{
+    "id": 25758,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The single object for which the process waits is activated by____________.",
+    "op": [
+        "hHandle",
+        "nCount",
+        "bWaitAll",
+        "lpHandle"
+    ],
+    "created_at": "2026-06-29T02:48:38.44803+00:00"
+},
+{
+    "id": 25759,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "What is the main advantage of using DLLs over monolithic, single-image programs?",
+    "op": [
+        "Smaller program size",
+        "Improved error reporting",
+        "Faster program execution",
+        "Easier management of program updates"
+    ],
+    "created_at": "2026-06-29T02:49:29.606766+00:00"
+},
+{
+    "id": 25824,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The termination handler cannot execute the _______________ statement.",
+    "op": [
+        "Break",
+        "Report",
+        "Continue",
+        "Return"
+    ],
+    "created_at": "2026-06-29T03:14:05.685389+00:00"
+},
+{
+    "id": 25830,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In case of _________ linking the DLL attaches at the time of process start and detaches when process ends.",
+    "op": [
+        "Explicit",
+        "None of the given",
+        "Dynamic",
+        "Implicit"
+    ],
+    "created_at": "2026-06-29T03:14:37.170257+00:00"
+},
+{
+    "id": 25960,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "C++ Exception handling is implemented using _____________.",
+    "op": [
+        "ECH",
+        "ESH",
+        "SCH",
+        "SEH"
+    ],
+    "created_at": "2026-06-29T03:43:30.866534+00:00"
+},
+{
+    "id": 26038,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "qsort() is a _____________ function.",
+    "op": [
+        "User defined",
+        "Windows DLL",
+        "EXE",
+        "Standard library"
+    ],
+    "created_at": "2026-06-29T04:06:32.978094+00:00"
+},
+{
+    "id": 26166,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "How is the linking of functions in DLLs different from monolithic programs?",
+    "op": [
+        "Functions are linked at runtime only",
+        "Functions are linked at program load time or run time",
+        "Functions are linked at build time",
+        "Functions are not linked at all"
+    ],
+    "created_at": "2026-06-29T04:40:39.925027+00:00"
+},
+{
+    "id": 26302,
+    "cc": "CS609",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "There are _____________ parameters taken by the HeapSize() API.",
+    "op": [
+        "1",
+        "3",
+        "2",
+        "4"
+    ],
+    "created_at": "2026-06-29T05:26:22.907582+00:00"
+},
+{
+    "id": 50006,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Total number of files inputted, can be get with_____",
+    "op": [
+        "argc",
+        "argc-1",
+        "argc-3",
+        "argc-2"
+    ],
+    "created_at": "2026-07-05T20:12:32.287076+00:00"
+},
+{
+    "id": 50009,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Using the critical section construct is ___________and intuitive.",
+    "op": [
+        "Short",
+        "Easy",
+        "difficult",
+        "Long"
+    ],
+    "created_at": "2026-07-05T20:12:47.523002+00:00"
+},
+{
+    "id": 50010,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the get a Job Number the function looks into the file for a vacant place. If no place is available, it appends a new record at the _________ of the file.",
+    "op": [
+        "Next",
+        "Start",
+        "Middle",
+        "End"
+    ],
+    "created_at": "2026-07-05T20:12:55.553767+00:00"
+},
+{
+    "id": 50011,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "CreateThread() API has ________ parameters.",
+    "op": [
+        "2",
+        "6",
+        "8",
+        "4"
+    ],
+    "created_at": "2026-07-05T20:13:04.467752+00:00"
+},
+{
+    "id": 50014,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Thread Ids and handles can be obtained using functions quite similar to the ones used with _______________ .",
+    "op": [
+        "Objects",
+        "Programs",
+        "Processes",
+        "Threads"
+    ],
+    "created_at": "2026-07-05T20:13:22.048216+00:00"
+},
+{
+    "id": 50017,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In getting a lob number, the Job Management Shell uses a number of job management functions to manage jobs information within the ___________ file.",
+    "op": [
+        "Process",
+        "Shell",
+        "System",
+        "User"
+    ],
+    "created_at": "2026-07-05T20:13:40.174124+00:00"
+},
+{
+    "id": 50020,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Like every other resource, threads are also treated as ___________.",
+    "op": [
+        "Thread",
+        "Program",
+        "Objects",
+        "Code"
+    ],
+    "created_at": "2026-07-05T20:13:49.889898+00:00"
+},
+{
+    "id": 50022,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following function can be used to map the process with thread?",
+    "op": [
+        "GetProcessIdOfThread()",
+        "DWORD SuspendThread (HANDLE hThread)",
+        "DWORD ResumeThread (HANDLE hThread)",
+        "GetThreadIOPendingFlag()"
+    ],
+    "created_at": "2026-07-05T20:14:01.146454+00:00"
+},
+{
+    "id": 50023,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In Listing Background Jobs the job management function used for the purpose is DisplayJobs(). The function _______ the file.",
+    "op": [
+        "Run",
+        "Process",
+        "Opens",
+        "Start"
+    ],
+    "created_at": "2026-07-05T20:14:09.858834+00:00"
+},
+{
+    "id": 50027,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Why a file does is mapped before accessing it?",
+    "op": [
+        "To reuse it any time",
+        "To make it secure",
+        "To access it in the form of LinkedList",
+        "To access it in the form of memory"
+    ],
+    "created_at": "2026-07-05T20:14:29.614482+00:00"
+},
+{
+    "id": 50178,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": ": ______________ variables should not be accessible globally.",
+    "op": [
+        "String",
+        "Integer",
+        "Locally required",
+        "Long"
+    ],
+    "created_at": "2026-07-05T20:32:21.581262+00:00"
+},
+{
+    "id": 50182,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Terminating the(an) ____________ process(es) can be problematic as the terminating process does not get a chance to release resources.",
+    "op": [
+        "Parallel",
+        "Same",
+        "Another",
+        "Series"
+    ],
+    "created_at": "2026-07-05T20:32:57.269896+00:00"
+},
+{
+    "id": 50192,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Volatile stage is a __________________ level facility.",
+    "op": [
+        "Compiler",
+        "Programmer",
+        "BIOS",
+        "Hardware"
+    ],
+    "created_at": "2026-07-05T20:33:46.54971+00:00"
+},
+{
+    "id": 50193,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which Windows threading functions are used for creating and exiting threads, respectively, in the absence of C Library threading functions?",
+    "op": [
+        "CreateThread() and ExitThread()",
+        "WindowsThread() and CreateThreadSafe()",
+        "LIBCMT() and TerminateThread()",
+        "_beginthreadex() and _endthreadex()"
+    ],
+    "created_at": "2026-07-05T20:33:54.845285+00:00"
+},
+{
+    "id": 50237,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the form of failure, TlsAlloc function returns__________",
+    "op": [
+        "DWORD",
+        "-1",
+        "BOOL",
+        "0"
+    ],
+    "created_at": "2026-07-05T20:37:37.530248+00:00"
+},
+{
+    "id": 50240,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In a multi-threaded system, multiple threads may exist within a ________.",
+    "op": [
+        "Process",
+        "Code",
+        "Thread",
+        "Program"
+    ],
+    "created_at": "2026-07-05T20:37:46.559305+00:00"
+},
+{
+    "id": 50241,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The volatile qualifier does not guarantee that the modifications will be visible to ___________in a desired order.",
+    "op": [
+        "Hard disk",
+        "Processors",
+        "User",
+        "RAM"
+    ],
+    "created_at": "2026-07-05T20:37:55.313264+00:00"
+},
+{
+    "id": 50244,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Mutexes, Semaphores, Events, and Critical Section are the four synchronization objects provided by _____________.",
+    "op": [
+        "Windows",
+        "Software",
+        "Processor",
+        "RAM"
+    ],
+    "created_at": "2026-07-05T20:38:02.501905+00:00"
+},
+{
+    "id": 50246,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The result of concurrent processing and normal processing_______.",
+    "op": [
+        "Is always same",
+        "Yield same output",
+        "May differ in some cases",
+        "Is always different"
+    ],
+    "created_at": "2026-07-05T20:38:10.925635+00:00"
+},
+{
+    "id": 50247,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "What function is used to set control limits on the processes in a job object?",
+    "op": [
+        "AssignProcessToJobObject()",
+        "CreateProcess()",
+        "CloseHandle()",
+        "SetInformationJobObject()"
+    ],
+    "created_at": "2026-07-05T20:38:18.597909+00:00"
+},
+{
+    "id": 50250,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Interlocked functions are _____________to use.",
+    "op": [
+        "simpler, faster, but hard",
+        "not simpler, but faster and easy",
+        "simpler, easy, but slow",
+        "simpler, faster, and easy"
+    ],
+    "created_at": "2026-07-05T20:38:27.42305+00:00"
+},
+{
+    "id": 50252,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Fiber management occurs at ________ level.",
+    "op": [
+        "User space Level",
+        "Kernel level",
+        "Hardware Level",
+        "BIOS Level"
+    ],
+    "created_at": "2026-07-05T20:38:34.782469+00:00"
+},
+{
+    "id": 50255,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A ______ value will cause a thread to move from the running state to the ready state.",
+    "op": [
+        "1",
+        "INFINITE",
+        "0",
+        "Negative"
+    ],
+    "created_at": "2026-07-05T20:38:48.803926+00:00"
+},
+{
+    "id": 50258,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A critical section problem is one in which _________is used by_________ processes or threads.",
+    "op": [
+        "Many resources, Many",
+        "Resource, 1",
+        "Resource, Many",
+        "Many resources, 1"
+    ],
+    "created_at": "2026-07-05T20:38:56.530677+00:00"
+},
+{
+    "id": 50394,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "LIBCMT is a ______________",
+    "op": [
+        "Windows Library for threads",
+        "Java Library for threads",
+        "BIOS Library for thread",
+        "C Library for Threads"
+    ],
+    "created_at": "2026-07-05T20:54:58.205914+00:00"
+},
+{
+    "id": 50396,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Windows treats threads as",
+    "op": [
+        "Objects",
+        "Processes",
+        "Classes",
+        "Threads"
+    ],
+    "created_at": "2026-07-05T20:55:09.087779+00:00"
+},
+{
+    "id": 50402,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How can you handle waiting for more than 64 objects when using WaitForMultipleObjects()?",
+    "op": [
+        "Create multiple arrays of 64 objects and make multiple calls to WaitForMultipleObjects().",
+        "Use a different waiting function.",
+        "You cannot wait for more than 64 objects.",
+        "Increase the limit to 128 objects."
+    ],
+    "created_at": "2026-07-05T20:57:40.398355+00:00"
+},
+{
+    "id": 50404,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The process Execution times uses the API GetCommandLine() to get the command line as a single _______________.",
+    "op": [
+        "String",
+        "Variable",
+        "Float",
+        "Bool"
+    ],
+    "created_at": "2026-07-05T20:58:29.369781+00:00"
+},
+{
+    "id": 50560,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Make a variable _________ if you know it includes thread-specific information.",
+    "op": [
+        "global",
+        "static",
+        "local",
+        "random"
+    ],
+    "created_at": "2026-07-05T21:34:45.269298+00:00"
+},
+{
+    "id": 50562,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Once all the threads are created, they can be run using________.",
+    "op": [
+        "ResumeThread",
+        "RunThread",
+        "StartThread",
+        "ReadyThread"
+    ],
+    "created_at": "2026-07-05T21:35:37.884934+00:00"
+},
+{
+    "id": 50563,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the work crew model, how do the workers handle tasks?",
+    "op": [
+        "Workers report results to the boss.",
+        "They perform individual tasks sequentially.",
+        "The boss assigns work to each worker.",
+        "They divide the work themselves without boss direction."
+    ],
+    "created_at": "2026-07-05T21:35:59.404811+00:00"
+},
+{
+    "id": 50565,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In job management, the shell uses _______ specific file keeping track of process ID and other related information.",
+    "op": [
+        "Process",
+        "Shell",
+        "System",
+        "User"
+    ],
+    "created_at": "2026-07-05T21:36:08.809163+00:00"
+},
+{
+    "id": 50566,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "CRITICAL_SECTION Objects do not have_______________.",
+    "op": [
+        "handles",
+        "process",
+        "loops",
+        "variables"
+    ],
+    "created_at": "2026-07-05T21:36:16.820654+00:00"
+},
+{
+    "id": 50694,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A thread can be enabled fiber operation by ________.",
+    "op": [
+        "GetCurrentFiber()",
+        "CreateFiber()",
+        "ConvertThreadToFiberEx()",
+        "SwitchToFiber()"
+    ],
+    "created_at": "2026-07-05T22:23:43.800356+00:00"
+},
+{
+    "id": 50696,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The scheduler will run the _________ priority _________thread when a processor becomes available.",
+    "op": [
+        "Lowest, ready",
+        "Lowest, running",
+        "Highest, running",
+        "Highest, ready"
+    ],
+    "created_at": "2026-07-05T22:24:33.923091+00:00"
+},
+{
+    "id": 50698,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In Finding a Process Id, the FindProcessId() obtains the ______ of the given job number.",
+    "op": [
+        "Job ID",
+        "Process ID",
+        "Handle ID",
+        "Thread ID"
+    ],
+    "created_at": "2026-07-05T22:24:41.686627+00:00"
+},
+{
+    "id": 50939,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How does Thread Local Storage (TLS) contribute to thread safety?",
+    "op": [
+        "By allocating a single TLS index for all threads.",
+        "By allowing all threads to access each other's TLS arrays.",
+        "By enabling shared data modification.",
+        "By preventing threads from modifying each other's data."
+    ],
+    "created_at": "2026-07-05T23:50:29.580781+00:00"
+},
+{
+    "id": 51196,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Thread should not change the ___________ environment.",
+    "op": [
+        "Hard disk",
+        "Process",
+        "Integer",
+        "RAM"
+    ],
+    "created_at": "2026-07-06T00:46:36.455139+00:00"
+},
+{
+    "id": 51334,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an optimal situation?",
+    "op": [
+        "Every worker work as a separate thread on a separate processor",
+        "· Every worker work with multiple processor on multiple processor",
+        "Every worker work as a separate thread on a single processor",
+        "Every worker work with multiple processor on single processor"
+    ],
+    "created_at": "2026-07-06T01:14:15.684925+00:00"
+},
+{
+    "id": 51478,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of following thread will run first?",
+    "op": [
+        "Thread with THREAD_PRIORTY_NORMAL",
+        "Thread with THREAD_PRIORTY__IDLE",
+        "Thread with THREAD_PRIORTY_BELOW_NORMAL",
+        "Thread with THREAD_ PRIORTY_ABOVE_NORMAL"
+    ],
+    "created_at": "2026-07-06T01:41:13.832207+00:00"
+},
+{
+    "id": 52576,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "When a thread exits, the thread __________ is deallocated and the handle referring to the thread is invalidated.",
+    "op": [
+        "List",
+        "Stack",
+        "Queue",
+        "Array"
+    ],
+    "created_at": "2026-07-06T04:52:56.545762+00:00"
+},
+{
+    "id": 52827,
+    "cc": "CS609",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Default stack size for thread is__________.",
+    "op": [
+        "1 MB",
+        "1 Byte",
+        "1 Bit",
+        "1 KB"
+    ],
+    "created_at": "2026-07-06T05:31:45.879095+00:00"
+}
+]

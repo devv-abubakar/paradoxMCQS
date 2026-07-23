@@ -1,0 +1,786 @@
+[
+    {
+        "id": 32826,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A network technology “Wi-Fi” refers to ________.",
+        "op": [
+            "Wireless Frequency",
+            "Wireless Finite",
+            "Wireless Fire",
+            "Wireless Fidelity"
+        ],
+        "created_at": "2026-06-30T23:38:53.726699+00:00"
+    },
+    {
+        "id": 32827,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In PGP, a new key is generated as a random __________bit number for each message.",
+        "op": [
+            "32",
+            "256",
+            "128",
+            "64"
+        ],
+        "created_at": "2026-06-30T23:39:05.130321+00:00"
+    },
+    {
+        "id": 32828,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In the context of IEEE 802.11i Wireless LAN, MPDU stands for _____.",
+        "op": [
+            "Minimum Privacy Data Unit",
+            "Multi Port Data Unit",
+            "Mac Protocol Data Unit",
+            "Multi Pair Data Unit"
+        ],
+        "created_at": "2026-06-30T23:39:14.735694+00:00"
+    },
+    {
+        "id": 32829,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is NOT a field of SSL Handshake Protocol message?",
+        "op": [
+            "Length",
+            "Type",
+            "Content",
+            "Synch"
+        ],
+        "created_at": "2026-06-30T23:39:26.651125+00:00"
+    },
+    {
+        "id": 32830,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The actual operation of Pretty Good Privacy (PGP) consists of four services. Which of the following is NOT a service related to PGP operation?",
+        "op": [
+            "Confidentiality",
+            "Authentication",
+            "Synchronization",
+            "E-mail Compatibility"
+        ],
+        "created_at": "2026-06-30T23:39:36.05255+00:00"
+    },
+    {
+        "id": 32831,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The IEEE 802.11i Pseudorandom Function is PRF(K, A, B, ____)",
+        "op": [
+            "C",
+            "L",
+            "Len",
+            "Value"
+        ],
+        "created_at": "2026-06-30T23:39:43.782288+00:00"
+    },
+    {
+        "id": 32832,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Pretty Good Privacy (PGP) does not use _________.",
+        "op": [
+            "Protected Key",
+            "Public Key",
+            "Private Key",
+            "One time symmetric session key"
+        ],
+        "created_at": "2026-06-30T23:39:56.43221+00:00"
+    },
+    {
+        "id": 32833,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The secure authentication connection is referred to as-",
+        "op": [
+            "Handshaking",
+            "Tunnel",
+            "Chisel",
+            "Zeroing"
+        ],
+        "created_at": "2026-06-30T23:40:07.509646+00:00"
+    },
+    {
+        "id": 32834,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In SSL Record Protocol, the message authentication code (MAC) is added for_____________.",
+        "op": [
+            "Message Integrity",
+            "Compression",
+            "Fragmentation",
+            "Connectivity"
+        ],
+        "created_at": "2026-06-30T23:40:16.085012+00:00"
+    },
+    {
+        "id": 33224,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In SSL Handshake protocol, exchange is initiated by the client, which sends a_____ message.",
+        "op": [
+            "server_hello",
+            "Start",
+            "client_hello",
+            "certificate_request"
+        ],
+        "created_at": "2026-07-01T01:30:29.86658+00:00"
+    },
+    {
+        "id": 33227,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is NOT a header field defined in MIME?",
+        "op": [
+            "Content Type",
+            "MIME-Checksum",
+            "Content ID",
+            "MIME-Version"
+        ],
+        "created_at": "2026-07-01T01:31:00.387424+00:00"
+    },
+    {
+        "id": 33229,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The initial version of Secure Shell was focused on providing a secure remote logon facility to replace ______.",
+        "op": [
+            "IP",
+            "TCP",
+            "HTTP",
+            "TELNET"
+        ],
+        "created_at": "2026-07-01T01:31:11.578281+00:00"
+    },
+    {
+        "id": 33232,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following terms is NOT relevant to IEEE 802.1X authentication?",
+        "op": [
+            "Supplicant",
+            "Authentication Server",
+            "Moderator",
+            "Authenticator"
+        ],
+        "created_at": "2026-07-01T01:31:28.920508+00:00"
+    },
+    {
+        "id": 33992,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Alert Protocol terminates the connection if value of level is ___________.",
+        "op": [
+            "Fatal",
+            "Warning",
+            "Close-notify",
+            "bad_record_mac"
+        ],
+        "created_at": "2026-07-01T03:55:33.802364+00:00"
+    },
+    {
+        "id": 33993,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In SSH tunneling, incoming TCP traffic is delivered to the appropriate application on the basis of the ______.",
+        "op": [
+            "Data Length",
+            "Thread",
+            "Port number",
+            "Application MAC"
+        ],
+        "created_at": "2026-07-01T03:55:44.449438+00:00"
+    },
+    {
+        "id": 33996,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The __________is an identifier of a user of TCP in SSH tunneling.",
+        "op": [
+            "Bar Code",
+            "Hash Code",
+            "Source Name Length",
+            "Port"
+        ],
+        "created_at": "2026-07-01T03:56:04.05084+00:00"
+    },
+    {
+        "id": 33997,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If we turn off service set identifier (SSID) broadcasting then wireless access points become more______.",
+        "op": [
+            "Vulnerable",
+            "Secure",
+            "Slower",
+            "Wired"
+        ],
+        "created_at": "2026-07-01T03:56:13.419877+00:00"
+    },
+    {
+        "id": 33999,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Non-filtered Routing protocol messages aiming to target access points are considered as________ attack.",
+        "op": [
+            "Network injection",
+            "Identity theft (MAC spoofing)",
+            "Accidental association",
+            "Malicious association"
+        ],
+        "created_at": "2026-07-01T03:56:22.745713+00:00"
+    },
+    {
+        "id": 34002,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In the context of SSH Tunneling, the user’s SSH client acts on the behalf of server using _______.",
+        "op": [
+            "Backup Forwarding",
+            "Star Forwarding",
+            "Remote Forwarding",
+            "Local Forwarding"
+        ],
+        "created_at": "2026-07-01T03:56:43.740373+00:00"
+    },
+    {
+        "id": 34005,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A normal HTTP connection uses port ______.",
+        "op": [
+            "53",
+            "23",
+            "80",
+            "21"
+        ],
+        "created_at": "2026-07-01T03:56:53.870751+00:00"
+    },
+    {
+        "id": 34123,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In IEEE 802 Protocol Architecture, Cyclic Redundancy Check field is also known as _________.",
+        "op": [
+            "Frame Check Sequence",
+            "Hash Code",
+            "Source ID",
+            "Offset"
+        ],
+        "created_at": "2026-07-01T04:15:43.271609+00:00"
+    },
+    {
+        "id": 34128,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The final form of the 802.11i standard is referred to as _________.",
+        "op": [
+            "Robust Security Network",
+            "Ring Security Network",
+            "Refined Security Network",
+            "Real Security Network"
+        ],
+        "created_at": "2026-07-01T04:16:18.632441+00:00"
+    },
+    {
+        "id": 34283,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In Secure Socket Layer, handshake protocol messages contain ________ fields.",
+        "op": [
+            "7",
+            "23",
+            "3",
+            "5"
+        ],
+        "created_at": "2026-07-01T04:38:42.674299+00:00"
+    },
+    {
+        "id": 34286,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Secure shell (SSH) network protocol is NOT used for_____.",
+        "op": [
+            "Remote command-line login",
+            "Remote command execution",
+            "Collision Avoidance",
+            "Secure data communication"
+        ],
+        "created_at": "2026-07-01T04:38:59.223033+00:00"
+    },
+    {
+        "id": 34291,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "_________ provides the transfer service for Web client/server interaction and can operate on top of SSL.",
+        "op": [
+            "TLS",
+            "IP",
+            "Hypertext Transfer (HTTP)",
+            "SSL Alert"
+        ],
+        "created_at": "2026-07-01T04:39:18.481038+00:00"
+    },
+    {
+        "id": 34293,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "___________standard provides an authentication mechanism for devices wishing to attach to a LAN or a wireless network.",
+        "op": [
+            "IEEE 100.1X",
+            "IEEE 802.1X",
+            "IEEE 801.1X",
+            "IEEE 800.1X"
+        ],
+        "created_at": "2026-07-01T04:39:26.078829+00:00"
+    },
+    {
+        "id": 34295,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In fragmentation in SSL record protocol, each upper layer message is fragmented into blocks of ______ bytes.",
+        "op": [
+            "2^28",
+            "2^14",
+            "2^16",
+            "2^32"
+        ],
+        "created_at": "2026-07-01T04:39:33.266655+00:00"
+    },
+    {
+        "id": 34450,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "________ is the smallest building block of wireless network which consists of wireless stations.",
+        "op": [
+            "Build Service Set",
+            "Blinded Service Set",
+            "Backend Service Set",
+            "Basic Service Set"
+        ],
+        "created_at": "2026-07-01T04:55:47.567955+00:00"
+    },
+    {
+        "id": 34620,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "SMTP is short for ________.",
+        "op": [
+            "Scanned Mail Tunneling Protocol",
+            "Scanned Malware Track Protocol",
+            "Simple Mail Transfer Protocol",
+            "Simple Medium Transfer Protocol"
+        ],
+        "created_at": "2026-07-01T05:18:03.162277+00:00"
+    },
+    {
+        "id": 35590,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the optional feature of SSH Transport Layer protocol?",
+        "op": [
+            "Integrity",
+            "Server Authentication",
+            "Confidentiality",
+            "Compression"
+        ],
+        "created_at": "2026-07-01T08:50:20.222365+00:00"
+    },
+    {
+        "id": 35592,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Various protocol messages designed to consume system resources are bombarded in_______ attack.",
+        "op": [
+            "Network injection",
+            "Denial of service",
+            "Man-in-the middle",
+            "Man-in-the Front"
+        ],
+        "created_at": "2026-07-01T08:50:26.314403+00:00"
+    },
+    {
+        "id": 35679,
+        "cc": "CS315",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In the context of compression and e-mail compatibility, PGP provides service of converting raw ________bit binary stream to a stream of printable ASCII characters.",
+        "op": [
+            "8",
+            "16",
+            "32",
+            "24"
+        ],
+        "created_at": "2026-07-01T09:40:27.387896+00:00"
+    },
+    {
+        "id": 57179,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When a virus places a copy or morphed copy of itself in other programs then the virus will be in ________ phase.",
+        "op": [
+            "Dormant",
+            "Activation",
+            "Triggering",
+            "Propagation"
+        ],
+        "created_at": "2026-07-07T19:05:17.287797+00:00"
+    },
+    {
+        "id": 57186,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_____ packet is a request to open TCP connection.",
+        "op": [
+            "SYN",
+            "STRT",
+            "ACK",
+            "INIT"
+        ],
+        "created_at": "2026-07-07T19:05:30.432253+00:00"
+    },
+    {
+        "id": 57194,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the context of DDOS flooding based attack, ___________ method of scanning for vulnerable machines uses information contained in an infected victim machine to find more hosts to scan.",
+        "op": [
+            "Topological",
+            "Random",
+            "Hit list",
+            "Local subnet"
+        ],
+        "created_at": "2026-07-07T19:05:43.637161+00:00"
+    },
+    {
+        "id": 57202,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "VeriSign is a (n) _____.",
+        "op": [
+            "Protocol Suit",
+            "Virus",
+            "Decryption Algorithm",
+            "Certification Authority"
+        ],
+        "created_at": "2026-07-07T19:05:56.405266+00:00"
+    },
+    {
+        "id": 57209,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the perspective of virus structure, trigger is also called as _____.",
+        "op": [
+            "Logic Bomb",
+            "Active Key",
+            "Barcode",
+            "Infection mechanism"
+        ],
+        "created_at": "2026-07-07T19:06:10.193695+00:00"
+    },
+    {
+        "id": 57213,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_____________ exploits active contents of MS word/excel files or the files having scripting code.",
+        "op": [
+            "Spyware",
+            "Macro virus",
+            "Key logger",
+            "Encrypted virus"
+        ],
+        "created_at": "2026-07-07T19:06:23.472045+00:00"
+    },
+    {
+        "id": 57222,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "For the____________ of the multipart MIME content type, the various parts are different representations of the same information.",
+        "op": [
+            "multipart/alternative subtype",
+            "multipart/parallel subtype",
+            "multipart/digest subtype",
+            "multipart/mixed subtype"
+        ],
+        "created_at": "2026-07-07T19:06:39.234788+00:00"
+    },
+    {
+        "id": 57229,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The Web Server sends _______ packet in response to the connection opening request from a client.",
+        "op": [
+            "OPEN",
+            "HELLO",
+            "SYN/ACK",
+            "GRANT"
+        ],
+        "created_at": "2026-07-07T19:06:52.1423+00:00"
+    },
+    {
+        "id": 57235,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Sequence Number field in Encapsulating Security Payload (ESP) packet is of ________ bits.",
+        "op": [
+            "7",
+            "32",
+            "5",
+            "48"
+        ],
+        "created_at": "2026-07-07T19:07:06.763561+00:00"
+    },
+    {
+        "id": 57240,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_____ field in Encapsulating Security Payload (ESP) packet identifies a security association.",
+        "op": [
+            "Sequence Number",
+            "Pad Length",
+            "Security Parameter Index",
+            "Payload Data"
+        ],
+        "created_at": "2026-07-07T19:07:21.808224+00:00"
+    },
+    {
+        "id": 57666,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "____________technology enables the antivirus program to easily detect even the most complex polymorphic viruses while maintaining fast scanning speeds.",
+        "op": [
+            "Group Decryption",
+            "Generic Decryption",
+            "Grand Decryption",
+            "Greedy Decryption"
+        ],
+        "created_at": "2026-07-08T01:12:01.963706+00:00"
+    },
+    {
+        "id": 57668,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "__________ is an unsolicited bulk e-mail.",
+        "op": [
+            "Drive by downloads",
+            "Trojan horses",
+            "Mobile code",
+            "Spam"
+        ],
+        "created_at": "2026-07-08T01:12:58.905834+00:00"
+    },
+    {
+        "id": 57671,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When we talk about malicious software, _____________ determines when the payload will be delivered or activated.",
+        "op": [
+            "Barcode",
+            "Trigger",
+            "Signature",
+            "Infection mechanism"
+        ],
+        "created_at": "2026-07-08T01:13:32.141547+00:00"
+    },
+    {
+        "id": 57673,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_______ generation (Anti virus software)  programs are memory-resident programs that identify a virus by its actions rather than its structure in an infected program.",
+        "op": [
+            "Second",
+            "Fourth",
+            "First",
+            "Third"
+        ],
+        "created_at": "2026-07-08T01:14:19.329958+00:00"
+    },
+    {
+        "id": 57674,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "IPsec policy is determined by the interaction of two databases: __________.",
+        "op": [
+            "Security All Database & Security Pool Database",
+            "Security Aligned Database & Security Privacy Database",
+            "Security Association Database & Security Policy Database",
+            "Security Agile Database & Security Preference Database"
+        ],
+        "created_at": "2026-07-08T01:14:58.842591+00:00"
+    },
+    {
+        "id": 57675,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Distributed Denial of Service attacks (DDOS) can be classified as:",
+        "op": [
+            "Indirect DDOS attacks and Collision DDOS attacks",
+            "Direct DDOS attacks and Base DDOS attacks",
+            "Indirect DDOS attacks and Convergence DDOS attacks",
+            "Direct DDOS attacks and Reflector DDOS attacks"
+        ],
+        "created_at": "2026-07-08T01:15:26.111557+00:00"
+    },
+    {
+        "id": 57676,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When we talk about malicious software, its _______________ ensures that the virus will propagate and replicate itself.",
+        "op": [
+            "Signature",
+            "Infection mechanism",
+            "Trigger",
+            "Payload"
+        ],
+        "created_at": "2026-07-08T01:15:36.627942+00:00"
+    },
+    {
+        "id": 57677,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "________generation (Anti virus software)  products are packages consisting of a variety of antivirus techniques used in conjunction.",
+        "op": [
+            "Fourth",
+            "Second",
+            "Third",
+            "First"
+        ],
+        "created_at": "2026-07-08T01:15:55.315088+00:00"
+    },
+    {
+        "id": 57679,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_________ is an individual who seizes supervisory control of the system and uses this control to evade auditing and access controls or to suppress audit collection.",
+        "op": [
+            "Masquerader",
+            "Man in the middle",
+            "Misfeasor",
+            "Clandestine user"
+        ],
+        "created_at": "2026-07-08T01:16:33.194913+00:00"
+    },
+    {
+        "id": 57806,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "___________ is a form of virus explicitly designed to hide itself from detection by antivirus software.",
+        "op": [
+            "Stealth virus",
+            "Metamorphic virus",
+            "Polymorphic virus",
+            "Encrypted virus"
+        ],
+        "created_at": "2026-07-08T03:18:55.691895+00:00"
+    },
+    {
+        "id": 57808,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Digital Immune System is a comprehensive approach developed by _______.",
+        "op": [
+            "IBM",
+            "ANSI",
+            "ISO",
+            "DELL"
+        ],
+        "created_at": "2026-07-08T03:20:02.24269+00:00"
+    },
+    {
+        "id": 57863,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Distributed Denial of Service attacks (DDOS) involve two levels of zombie machines:",
+        "op": [
+            "Inline and Outline",
+            "Master and Salve",
+            "Inbound and Outbound",
+            "External Port and Internal Port"
+        ],
+        "created_at": "2026-07-08T04:03:57.191229+00:00"
+    },
+    {
+        "id": 57864,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The ___________ approach for effective malware countermeasures should be resistant to evasion techniques employed by attackers to hide the presence of their malware.",
+        "op": [
+            "Resiliency",
+            "Transparency",
+            "Generality",
+            "Timeliness"
+        ],
+        "created_at": "2026-07-08T04:04:41.73771+00:00"
+    },
+    {
+        "id": 57891,
+        "cc": "CS315",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "____ is NOT a functional area regarding IP-level security.",
+        "op": [
+            "Key Management",
+            "Manageability",
+            "Authentication",
+            "Confidentiality"
+        ],
+        "created_at": "2026-07-08T04:24:46.776096+00:00"
+    }
+]

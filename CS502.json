@@ -1,0 +1,2102 @@
+[
+{
+    "id": 24031,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the graph is represented using an adjacency matrix, then Breadth-first search takes _________ time.",
+    "op": [
+        "O(E + 1)",
+        "O(V)",
+        "O(V^2)",
+        "O(E)"
+    ],
+    "created_at": "2026-06-28T19:22:00.330379+00:00"
+},
+{
+    "id": 24043,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The activity scheduling is a simple scheduling problem for which the greedy algorithm approach provides a/an ________solution.",
+    "op": [
+        "Sub optimal",
+        "Simple",
+        "Non optimal",
+        "Optimal"
+    ],
+    "created_at": "2026-06-28T19:22:14.290373+00:00"
+},
+{
+    "id": 24052,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Each vertex can reach every other vertex is called____________.",
+    "op": [
+        "Connected graph",
+        "Ordered graph",
+        "Unconnected graph",
+        "Unordered graph"
+    ],
+    "created_at": "2026-06-28T19:22:25.514155+00:00"
+},
+{
+    "id": 24070,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The number of edges that come out of a vertex is called the ________ of that vertex in a digraph.",
+    "op": [
+        "out-degree",
+        "post-degree",
+        "in-degree",
+        "pre-degree"
+    ],
+    "created_at": "2026-06-28T19:22:58.821244+00:00"
+},
+{
+    "id": 24075,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Brute-force is a simple strategy for computing ______________.",
+    "op": [
+        "Longest path",
+        "Complete path",
+        "Easiest path",
+        "shortest path"
+    ],
+    "created_at": "2026-06-28T19:23:12.540159+00:00"
+},
+{
+    "id": 24081,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ancestor and descendent relation can be nicely inferred by the ______________ lemma.",
+    "op": [
+        "node",
+        "addition",
+        "parenthesis",
+        "division"
+    ],
+    "created_at": "2026-06-28T19:23:29.60468+00:00"
+},
+{
+    "id": 24085,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Fractional Knapsack is founded on ____________ method.",
+    "op": [
+        "Greedy",
+        "Recursive",
+        "Dynamic Programming",
+        "Divide and Conquer"
+    ],
+    "created_at": "2026-06-28T19:23:39.619294+00:00"
+},
+{
+    "id": 24087,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The Binary Tree constructed by Huffman Encoding is a:",
+    "op": [
+        "Full binary tree",
+        "Incomplete binary tree",
+        "None of the given options",
+        "Partial binary tree"
+    ],
+    "created_at": "2026-06-28T19:23:43.757647+00:00"
+},
+{
+    "id": 24089,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of activity selection algorithm, time is dominated by sorting of the activities by _________.",
+    "op": [
+        "Average Times",
+        "Finish Times",
+        "CPU Burst Times",
+        "Start Times"
+    ],
+    "created_at": "2026-06-28T19:23:49.15222+00:00"
+},
+{
+    "id": 24092,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________________ data structure is used to perform the Depth-first search.",
+    "op": [
+        "Queue",
+        "Array",
+        "Stack",
+        "Tree"
+    ],
+    "created_at": "2026-06-28T19:23:54.711574+00:00"
+},
+{
+    "id": 24104,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In general, the activity selection problem is to select a ___________.",
+    "op": [
+        "maximum-size set of mutually non-interfering activities",
+        "maximum-size set of interfering activities",
+        "minimum-size set of mutually non-interfering activities",
+        "minimum-size set of interfering activities"
+    ],
+    "created_at": "2026-06-28T19:24:22.904676+00:00"
+},
+{
+    "id": 24113,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is true about graph?",
+    "op": [
+        "A graph may contain many edges and no vertices",
+        "A graph may contain no edges and no vertices",
+        "A graph may contain no edges and many vertices",
+        "A graph may contain no vertices and many edges"
+    ],
+    "created_at": "2026-06-28T19:24:43.464122+00:00"
+},
+{
+    "id": 24117,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Huffman algorithm uses a ___________________to generate a prefix code T that minimizes the expected length B(T) of the encoded string.",
+    "op": [
+        "Heuristic Approach",
+        "Greedy Approach",
+        "Dynamic Programming",
+        "Null Approach"
+    ],
+    "created_at": "2026-06-28T19:24:52.823016+00:00"
+},
+{
+    "id": 24119,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The running time of the traversal algorithm depends on ____________and __________ which is used for the bag.",
+    "op": [
+        "Edges, Vertices",
+        "Parent Node, Child Node",
+        "Graph representation, Data structure",
+        "Root, Leaf"
+    ],
+    "created_at": "2026-06-28T19:25:04.72904+00:00"
+},
+{
+    "id": 24131,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Using ASCII standard the string “greedy” will be encoded with",
+    "op": [
+        "48 bits",
+        "44 bits",
+        "40 bits",
+        "120 bits"
+    ],
+    "created_at": "2026-06-28T19:25:39.728265+00:00"
+},
+{
+    "id": 24138,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the graph is represented using an adjacency list, then Breadth-first search takes _________ time.",
+    "op": [
+        "O(V)",
+        "O(V + E)",
+        "O(V^2)",
+        "O(E + 1)"
+    ],
+    "created_at": "2026-06-28T19:26:20.701077+00:00"
+},
+{
+    "id": 24146,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "For a digraph G = (V, E), Sum of in-degree(v) ____________",
+    "op": [
+        "< Sum of out-degree(v)",
+        "= Sum of out-degree(v)",
+        "> Sum of out-degree(v)",
+        "Not equal to Sum of out-degree(v)"
+    ],
+    "created_at": "2026-06-28T19:26:47.559889+00:00"
+},
+{
+    "id": 24159,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In a digraph, the number of edges coming out of a vertex is called the ________ of that vertex.",
+    "op": [
+        "Out-degree",
+        "Complete degree",
+        "In-degree",
+        "Node"
+    ],
+    "created_at": "2026-06-28T19:27:19.40853+00:00"
+},
+{
+    "id": 24169,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _______________ given by DFS allow us to determine a number of things about a graph or digraph.",
+    "op": [
+        "time stamps",
+        "line stamps",
+        "color stamps",
+        "node stamps"
+    ],
+    "created_at": "2026-06-28T19:27:40.432449+00:00"
+},
+{
+    "id": 24186,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following algorithms solves the fractional knapsack problem most effectively?",
+    "op": [
+        "Greedy algorithm",
+        "Backtracking",
+        "Dynamic programming",
+        "Divide and conquer"
+    ],
+    "created_at": "2026-06-28T19:28:07.669419+00:00"
+},
+{
+    "id": 24197,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following problems is NOT solved using dynamic programming?",
+    "op": [
+        "Matrix chain multiplication problem",
+        "0/1 knapsack problem",
+        "Edit distance problem",
+        "Fractional knapsack problem"
+    ],
+    "created_at": "2026-06-28T19:28:28.890941+00:00"
+},
+{
+    "id": 24202,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Fractional Knapsack problem, one is allowed to take fraction of an item for __________",
+    "op": [
+        "None of the given options",
+        "for fraction of the value",
+        "for fraction of the weight",
+        "Both, fraction of the weight and value"
+    ],
+    "created_at": "2026-06-28T19:28:51.915479+00:00"
+},
+{
+    "id": 24212,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Breadth-first search is a traversal strategy for_________.",
+    "op": [
+        "Array",
+        "Tree",
+        "Link List",
+        "Graph"
+    ],
+    "created_at": "2026-06-28T19:29:17.619368+00:00"
+},
+{
+    "id": 24224,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If you find yourself in maze the better traversel approach will be :",
+    "op": [
+        "BFS and DFS both are valid",
+        "BFS",
+        "DFS",
+        "Level order"
+    ],
+    "created_at": "2026-06-28T19:29:41.849932+00:00"
+},
+{
+    "id": 24371,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Each time we traverse graph by Breadth-first search algorithm, we count the distance from _________",
+    "op": [
+        "starting node",
+        "right most node",
+        "neighbors of the starting node",
+        "left most node"
+    ],
+    "created_at": "2026-06-28T19:35:48.062132+00:00"
+},
+{
+    "id": 24381,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "For traversing the graphs, _____________can be visualized as a wave front propagating inward towards root node.",
+    "op": [
+        "Depth-first Search",
+        "Breadth-first search",
+        "Binary search",
+        "Linear search"
+    ],
+    "created_at": "2026-06-28T19:36:13.253509+00:00"
+},
+{
+    "id": 24490,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Time complexity of activity selection algorithm is _________.",
+    "op": [
+        "O(NlogN)",
+        "O(logN)",
+        "O(N)",
+        "O(logN2)"
+    ],
+    "created_at": "2026-06-28T19:45:03.263325+00:00"
+},
+{
+    "id": 24493,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "For ____________ graphs, there is no distinction between forward and back edges.",
+    "op": [
+        "large",
+        "directed",
+        "undirected",
+        "small"
+    ],
+    "created_at": "2026-06-28T19:45:11.328338+00:00"
+},
+{
+    "id": 24495,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the graph is represented using an adjacency list, then Depth-first search takes __________ time.",
+    "op": [
+        "O(V^2)",
+        "O(E + 1)",
+        "O(V)",
+        "O(V + E)"
+    ],
+    "created_at": "2026-06-28T19:45:21.238464+00:00"
+},
+{
+    "id": 24497,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A _____________ w is adjacent to vertex v if there is an edge from v to w.",
+    "op": [
+        "cycle",
+        "loop",
+        "acyclic",
+        "vertex"
+    ],
+    "created_at": "2026-06-28T19:45:31.746381+00:00"
+},
+{
+    "id": 24500,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which graph traversal algorithm uses a stack to keep track of vertices?",
+    "op": [
+        "Depth First Search",
+        "Breadth First Search",
+        "Greedy Algorithm",
+        "Divide and Conquer"
+    ],
+    "created_at": "2026-06-28T19:45:42.256154+00:00"
+},
+{
+    "id": 24504,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "DFS or BFS yields a ___________ of the graph.",
+    "op": [
+        "Simple Tree",
+        "Free Tree",
+        "Spanning tree",
+        "Traversed Tree"
+    ],
+    "created_at": "2026-06-28T19:46:01.079161+00:00"
+},
+{
+    "id": 24506,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Graphs are important __________ model for many application problems.",
+    "op": [
+        "Haphazard",
+        "Unpredictable",
+        "Unsystematic",
+        "Mathematical"
+    ],
+    "created_at": "2026-06-28T19:46:19.497214+00:00"
+},
+{
+    "id": 24516,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________________ data structure is used to perform the Breadth-first search.",
+    "op": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Array"
+    ],
+    "created_at": "2026-06-28T19:47:36.02664+00:00"
+},
+{
+    "id": 24523,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There are _____________ ways of representing graphs.",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-28T19:48:00.724013+00:00"
+},
+{
+    "id": 24529,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Activity scheduling algorithm, the width of a rectangle ____________",
+    "op": [
+        "Is always ignored",
+        "Indicates the duration of an activity",
+        "Directs towards recursion",
+        "Should be maximized"
+    ],
+    "created_at": "2026-06-28T19:48:37.703228+00:00"
+},
+{
+    "id": 24531,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which type of algorithm is harder to prove the correctness?",
+    "op": [
+        "Brute Force",
+        "Greedy",
+        "Dynamic Programming",
+        "Divide and Conquer"
+    ],
+    "created_at": "2026-06-28T19:48:52.94156+00:00"
+},
+{
+    "id": 24619,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A _________ cycle is a cycle that visits every edge of the graph exactly once.",
+    "op": [
+        "Undirected",
+        "Directed",
+        "Eulerian",
+        "Loop"
+    ],
+    "created_at": "2026-06-28T19:55:29.993766+00:00"
+},
+{
+    "id": 24621,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Huffman algorithm generates an optimum _______ code.",
+    "op": [
+        "Infix",
+        "Postfix",
+        "Prefix",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-28T19:55:34.875161+00:00"
+},
+{
+    "id": 24625,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Fractional Knapsack problem, the goal is to ___________",
+    "op": [
+        "maximize the value of items without exceeding the total weight limit of W",
+        "minimize the value of items even if exceeding the total weight limit of W",
+        "maximize the value of items even if exceeding the total weight limit of W",
+        "minimize the value of items without exceeding the total weight limit of W"
+    ],
+    "created_at": "2026-06-28T19:55:55.650908+00:00"
+},
+{
+    "id": 24627,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In general in comparison with Fractional Knapsack problem, ______________",
+    "op": [
+        "Both are easy to solve",
+        "We cannot compare them",
+        "0-1 knapsack problem is very easy to solve",
+        "0-1 knapsack problem is hard to solve"
+    ],
+    "created_at": "2026-06-28T19:56:02.382199+00:00"
+},
+{
+    "id": 24672,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Activity scheduling algorithm, each activity is represented by a __________",
+    "op": [
+        "Square",
+        "Circle",
+        "Rectangle",
+        "Triangle"
+    ],
+    "created_at": "2026-06-28T20:01:46.219309+00:00"
+},
+{
+    "id": 24673,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A graph is said to be acyclic if it contains _____________",
+    "op": [
+        "exactly one cycle",
+        "at least one cycle",
+        "no cycles",
+        "always more than one cycle"
+    ],
+    "created_at": "2026-06-28T20:01:52.638568+00:00"
+},
+{
+    "id": 24675,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _____________is a problem for which the greedy algorithm approach provides an optimal solution.",
+    "op": [
+        "Activity selection",
+        "NP complete problem",
+        "Dynamic programming",
+        "Knapsack Problem"
+    ],
+    "created_at": "2026-06-28T20:01:58.544057+00:00"
+},
+{
+    "id": 24801,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Bag is a _________",
+    "op": [
+        "program",
+        "data structure",
+        "type of algorithm",
+        "compiler"
+    ],
+    "created_at": "2026-06-28T20:16:33.797741+00:00"
+},
+{
+    "id": 24978,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A graph is ___________ if every vertex can reach every other vertex.",
+    "op": [
+        "Connected",
+        "Loop",
+        "Acyclic",
+        "Cycle"
+    ],
+    "created_at": "2026-06-28T20:53:08.750044+00:00"
+},
+{
+    "id": 24983,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Forward edge is:",
+    "op": [
+        "(u, v) where v is a proper descendent of u in the tree.",
+        "(u, v) where v is a proper ancesstor of u in the tree.",
+        "(u, v) where u is a proper ancesstor of v in the tree.",
+        "(u, v) where u is a proper descendent of v in the tree."
+    ],
+    "created_at": "2026-06-28T20:55:13.196983+00:00"
+},
+{
+    "id": 25050,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the graph is represented using an adjacency matrix, then Depth-first search takes __________ time.",
+    "op": [
+        "O(V^2)",
+        "O(V + E)",
+        "O(E + 1)",
+        "O(V)"
+    ],
+    "created_at": "2026-06-28T21:14:28.228613+00:00"
+},
+{
+    "id": 25108,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Graphs can be represented by an _________ and____________.",
+    "op": [
+        "adjacency Right, adjacency Left",
+        "adjacency list, adjacency Matrix",
+        "Queue, Stack",
+        "Binary, Linear"
+    ],
+    "created_at": "2026-06-28T21:33:10.388535+00:00"
+},
+{
+    "id": 25110,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Huffman Encoding, the characters with smallest probabilities are placed at the ________ depth of the tree.",
+    "op": [
+        "Average",
+        "Maximum",
+        "Minimum",
+        "Root"
+    ],
+    "created_at": "2026-06-28T21:38:30.779764+00:00"
+},
+{
+    "id": 25111,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Traversing a graph means visiting __________ in the graph.",
+    "op": [
+        "no node",
+        "more than one node",
+        "every node",
+        "at least one"
+    ],
+    "created_at": "2026-06-28T21:38:43.109309+00:00"
+},
+{
+    "id": 25266,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following algorithms provides an optimal solution for the activity selection problem?",
+    "op": [
+        "Brute Force",
+        "Recursive",
+        "Greedy",
+        "Divide and Conquer"
+    ],
+    "created_at": "2026-06-28T22:04:08.938379+00:00"
+},
+{
+    "id": 25268,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Activity Selection, we say that two activities are non-interfering if their start-finish interval _________ overlap.",
+    "op": [
+        "Once",
+        "Do not",
+        "Sometimes",
+        "Do"
+    ],
+    "created_at": "2026-06-28T22:04:53.944309+00:00"
+},
+{
+    "id": 25280,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In an undirected graph, we say that an edge is _______________on a vertex if the vertex is an endpoint of the edge.",
+    "op": [
+        "Tree",
+        "Directed",
+        "Undirected",
+        "Incident"
+    ],
+    "created_at": "2026-06-28T22:22:27.817876+00:00"
+},
+{
+    "id": 25331,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The prefix code generated by Huffman algorithm ________ the expected length of the encoded string.",
+    "op": [
+        "Minimizes",
+        "Maximizes",
+        "Keeps Constant",
+        "Balances"
+    ],
+    "created_at": "2026-06-28T23:33:55.448898+00:00"
+},
+{
+    "id": 25332,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_______________ is a good way to model some sort of “connection” or “relationship” or “interaction” between pairs of objects taken from a set of objects.",
+    "op": [
+        "Node",
+        "Vertices",
+        "Tree",
+        "Graph"
+    ],
+    "created_at": "2026-06-28T23:34:12.507391+00:00"
+},
+{
+    "id": 25333,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Queue data structure work on _____ principles.",
+    "op": [
+        "FIFO (first in, first out)",
+        "LOFI (last out, first in)",
+        "LIFO (last in, first out)",
+        "JLO (just in, last out)"
+    ],
+    "created_at": "2026-06-28T23:34:21.972271+00:00"
+},
+{
+    "id": 25431,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In digraph G=(V,E) ;G has cycle if and only if",
+    "op": [
+        "The DFS forest has both back and forward edge",
+        "BFS forest has forward edge",
+        "The DFS forest has forward edge.",
+        "The DFS forest has back edge"
+    ],
+    "created_at": "2026-06-29T00:30:08.022281+00:00"
+},
+{
+    "id": 25564,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In general, a graph G = (V,E) consists of a ___________ and E, a binary relation on V called edges.",
+    "op": [
+        "Infinite set of nodes",
+        "Infinite set of vertices V",
+        "Infinite set of objects",
+        "Finite set of vertices V"
+    ],
+    "created_at": "2026-06-29T01:56:58.442297+00:00"
+},
+{
+    "id": 25765,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Activity selection problem, intuitively _________.",
+    "op": [
+        "We do not like long activities",
+        "There are always short activities as input",
+        "Duration of the activities does not matter",
+        "Short activities are not attractive"
+    ],
+    "created_at": "2026-06-29T02:52:08.529886+00:00"
+},
+{
+    "id": 25802,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is true about Huffman Coding?",
+    "op": [
+        "In Huffman coding, no code is prefix of any other code",
+        "Huffman coding may become lossy in some cases",
+        "Huffman coding is not an efficient coding way",
+        "Huffman Codes may not be optimal lossless codes in some cases"
+    ],
+    "created_at": "2026-06-29T03:06:52.171542+00:00"
+},
+{
+    "id": 25808,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In a digraph, the number of edges coming in of a vertex is called the __________ of that vertex.",
+    "op": [
+        "Out-degree",
+        "Complete degree",
+        "In-degree",
+        "Node"
+    ],
+    "created_at": "2026-06-29T03:07:17.056155+00:00"
+},
+{
+    "id": 26027,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "For graph traversal, Breadth-first search strategy ________",
+    "op": [
+        "Can be both recursive and non-recursive",
+        "Cannot be recursive",
+        "is always recursive",
+        "Cannot be non-recursive"
+    ],
+    "created_at": "2026-06-29T04:00:30.059049+00:00"
+},
+{
+    "id": 42727,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Back edge is:",
+    "op": [
+        "(u, v) where v is an ancestor of u in the tree.",
+        "(u, v) where u is a mid of v in the tree.",
+        "(u, v) where u is an ancestor of v in the tree.",
+        "(u, v) where v is a predecessor of u in the tree."
+    ],
+    "created_at": "2026-06-30T03:40:32.458991+00:00"
+},
+{
+    "id": 42728,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Bag is a _________",
+    "op": [
+        "data structure",
+        "program",
+        "type of algorithm",
+        "compiler"
+    ],
+    "created_at": "2026-06-30T03:41:22.936183+00:00"
+},
+{
+    "id": 42729,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Graphs can be represented by an _________ and____________.",
+    "op": [
+        "adjacency list, adjacency Matrix",
+        "adjacency Right, adjacency Left",
+        "Binary, Linear",
+        "Queue, Stack"
+    ],
+    "created_at": "2026-06-30T03:41:57.646893+00:00"
+},
+{
+    "id": 42730,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following algorithms solves the fractional knapsack problem most effectively?",
+    "op": [
+        "Greedy algorithm",
+        "Dynamic programming",
+        "Backtracking",
+        "Divide and conquer"
+    ],
+    "created_at": "2026-06-30T03:43:04.838599+00:00"
+},
+{
+    "id": 42731,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In general in comparison with Fractional Knapsack problem, ______________",
+    "op": [
+        "We cannot compare them",
+        "Both are easy to solve",
+        "0-1 knapsack problem is very easy to solve",
+        "0-1 knapsack problem is hard to solve"
+    ],
+    "created_at": "2026-06-30T03:43:59.658379+00:00"
+},
+{
+    "id": 42732,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "For graph traversal, Breadth-first search strategy ________",
+    "op": [
+        "is always recursive",
+        "Can be both recursive and non-recursive",
+        "Cannot be non-recursive",
+        "Cannot be recursive"
+    ],
+    "created_at": "2026-06-30T03:44:52.637044+00:00"
+},
+{
+    "id": 42733,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "For traversing the graphs, _____________can be visualized as a wave front propagating inward towards root node.",
+    "op": [
+        "Depth-first Search",
+        "Linear search",
+        "Binary search",
+        "Breadth-first search"
+    ],
+    "created_at": "2026-06-30T03:45:26.224228+00:00"
+},
+{
+    "id": 42734,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In digraph G=(V,E) ;G has cycle if and only if",
+    "op": [
+        "The DFS forest has both back and forward edge",
+        "BFS forest has forward edge",
+        "The DFS forest has forward edge.",
+        "The DFS forest has back edge"
+    ],
+    "created_at": "2026-06-30T03:45:58.363334+00:00"
+},
+{
+    "id": 42735,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Huffman algorithm generates an optimum _______ code.",
+    "op": [
+        "None of the given options",
+        "Infix",
+        "Postfix",
+        "Prefix"
+    ],
+    "created_at": "2026-06-30T03:46:22.76438+00:00"
+},
+{
+    "id": 42736,
+    "cc": "CS502",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Using ASCII standard the string “greedy” will be encoded with",
+    "op": [
+        "48 bits",
+        "40 bits",
+        "44 bits",
+        "120 bits"
+    ],
+    "created_at": "2026-06-30T03:46:43.747487+00:00"
+},
+{
+    "id": 48085,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In undirected graph, by convention all the edges are called _________ edges.",
+    "op": [
+        "Forward",
+        "Back",
+        "Cross",
+        "Both forward and back"
+    ],
+    "created_at": "2026-07-05T19:09:59.505613+00:00"
+},
+{
+    "id": 48091,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Keeping in mind the shortest-path, if given scenarios occur in computer networks like the internet where data packets have to be routed. The vertices are_________and Edges are _____________which may be wired or wireless.",
+    "op": [
+        "Communication links, routers",
+        "Internet, routers",
+        "Routers, communication links",
+        "Routers, internet"
+    ],
+    "created_at": "2026-07-05T19:10:11.062135+00:00"
+},
+{
+    "id": 48094,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A free tree with n _________ have exactly n-1 _________.",
+    "op": [
+        "vertices,edges",
+        "edges,vertices",
+        "nodes,vertices",
+        "vertices,nodes"
+    ],
+    "created_at": "2026-07-05T19:10:19.381468+00:00"
+},
+{
+    "id": 48101,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which technique is used in the implementation of Kruskal solution for the MST?",
+    "op": [
+        "Dynamic Programming Technique",
+        "The algorithm combines more than one of the above techniques i.e. Divide-and-Conquer and Dynamic Programming",
+        "Greedy Technique",
+        "Divide-and-Conquer Technique"
+    ],
+    "created_at": "2026-07-05T19:10:27.583395+00:00"
+},
+{
+    "id": 48108,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is false about Dijkstra’s Algorithm?",
+    "op": [
+        "It can be applied on graphs having a negative weight function",
+        "Its implementation in data structure is possible through the priority queue",
+        "It works on a weighted directed graph",
+        "It is used to solve Single-source shortest path"
+    ],
+    "created_at": "2026-07-05T19:10:36.61068+00:00"
+},
+{
+    "id": 48115,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Overall time for Kruskal algorithm is:",
+    "op": [
+        "Θ(ElogV)",
+        "Θ(logE)",
+        "Θ(VlogE)",
+        "Θ(ElogE)"
+    ],
+    "created_at": "2026-07-05T19:10:47.547581+00:00"
+},
+{
+    "id": 48127,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There exist a unique path between any ________ vertices of a free tree.",
+    "op": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+    ],
+    "created_at": "2026-07-05T19:10:58.08977+00:00"
+},
+{
+    "id": 48145,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Timestamped DFS, If there is a back edge (u, v) then v is an ancestor of u and by following tree edge from v to u, we get ______________.",
+    "op": [
+        "a line",
+        "a cycle",
+        "nothing",
+        "a graph"
+    ],
+    "created_at": "2026-07-05T19:11:13.50483+00:00"
+},
+{
+    "id": 48157,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In computing the ____________ components of a digraph, vertices of the digraph are partitioned into subsets.",
+    "op": [
+        "best",
+        "worst",
+        "weakly connected",
+        "strongly connected"
+    ],
+    "created_at": "2026-07-05T19:11:23.128933+00:00"
+},
+{
+    "id": 48169,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dijkstra’s Algorithm cannot be applied on ______________.",
+    "op": [
+        "undirected and unweighted graphs",
+        "graphs having negative weight function",
+        "unweighted graphs",
+        "directed and weighted graphs"
+    ],
+    "created_at": "2026-07-05T19:11:31.774519+00:00"
+},
+{
+    "id": 48222,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Kruskal's algorithm, the next edge is added to viable set A, if its adding does not induce a/an __________ .",
+    "op": [
+        "Edge",
+        "Cycle",
+        "Tree",
+        "Vertex"
+    ],
+    "created_at": "2026-07-05T19:12:12.501804+00:00"
+},
+{
+    "id": 48274,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In computing the strongly connected components of a digraph, vertices of the digraph are _______ into subsets.",
+    "op": [
+        "Deleted",
+        "Joined",
+        "Partitioned",
+        "Created"
+    ],
+    "created_at": "2026-07-05T19:12:44.046039+00:00"
+},
+{
+    "id": 48294,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Adding any edge to a free tree creates a unique ______ .",
+    "op": [
+        "Strong component",
+        "Vertex",
+        "Edge",
+        "Cycle"
+    ],
+    "created_at": "2026-07-05T19:12:53.822552+00:00"
+},
+{
+    "id": 48312,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Timestamped DFS-cycles lemma, if edge (u, v) is a tree, forward or cross edge, then _________",
+    "op": [
+        "$${\\text{f[u]}} < {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} \\leqslant {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} > {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} \\geqslant {\\text{f[v]}}$$"
+    ],
+    "created_at": "2026-07-05T19:13:05.830008+00:00"
+},
+{
+    "id": 48340,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "As the Kruskal's algorithm runs, the edges in viable set A induce a _________ on the vertices.",
+    "op": [
+        "Set",
+        "Tree",
+        "Forest",
+        "Graph"
+    ],
+    "created_at": "2026-07-05T19:13:21.227935+00:00"
+},
+{
+    "id": 48357,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In ________ algorithm(s), at any time, the subset of edges A forms a single tree.",
+    "op": [
+        "kruskal's and Prim's",
+        "BFS",
+        "Kruskal's",
+        "Prim's"
+    ],
+    "created_at": "2026-07-05T19:13:35.061212+00:00"
+},
+{
+    "id": 48372,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The relationship between number of back edges and number of cycles in DFS is,",
+    "op": [
+        "Back edges are one quarter of cycles",
+        "Back edges are half of cycles",
+        "Both are equal",
+        "There is no relationship between no. of edges and cycles"
+    ],
+    "created_at": "2026-07-05T19:13:46.394964+00:00"
+},
+{
+    "id": 48385,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "You have an adjacency list for G, what is the time complexity to compute Graph transpose G^T ?",
+    "op": [
+        "E",
+        "V.E",
+        "V",
+        "(V+E)"
+    ],
+    "created_at": "2026-07-05T19:13:59.583791+00:00"
+},
+{
+    "id": 48400,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In strong components algorithm, the form of graph is used in which all the _________ of original graph G have been reversed in direction.",
+    "op": [
+        "Trees",
+        "Vertices",
+        "Edges",
+        "Both edges & vertices"
+    ],
+    "created_at": "2026-07-05T19:14:17.706916+00:00"
+},
+{
+    "id": 48406,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The tricky part of __________ algorithm(s) is/are, how to detect whether the addition of an edge will create a cycle in viable set A.",
+    "op": [
+        "Prim's",
+        "Kruskal's",
+        "Both Krusal's and Prim's",
+        "DFS"
+    ],
+    "created_at": "2026-07-05T19:14:30.171556+00:00"
+},
+{
+    "id": 48412,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An edge (u, v) _______  E − A is safe if A _______{(u, v)} is viable.",
+    "op": [
+        "ϵ,П",
+        "ϵ,U",
+        "П,U",
+        "U,ϵ"
+    ],
+    "created_at": "2026-07-05T19:14:42.230972+00:00"
+},
+{
+    "id": 48463,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dijkstra’s Algorithm is used to solve____________problems.",
+    "op": [
+        "Sorting & searching",
+        "Multi-source shortest path",
+        "Single-source shortest path",
+        "All-pair shortest path"
+    ],
+    "created_at": "2026-07-05T19:15:25.469788+00:00"
+},
+{
+    "id": 48479,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which activity creates a unique cycle in a free tree:",
+    "op": [
+        "adding any edge",
+        "adding any sub tree",
+        "adding any vertex",
+        "adding root"
+    ],
+    "created_at": "2026-07-05T19:15:38.0581+00:00"
+},
+{
+    "id": 48499,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Prim's algorithm, we start with the _______ vertex r; it can be any vertex.",
+    "op": [
+        "Pivot",
+        "Root",
+        "Leaf",
+        "negative"
+    ],
+    "created_at": "2026-07-05T19:15:51.17758+00:00"
+},
+{
+    "id": 48507,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Edge weights can be interpreted as distance _________.",
+    "op": [
+        "in the shortest-paths",
+        "in breadth-First Search",
+        "in depth-First Search",
+        "in Queue’s"
+    ],
+    "created_at": "2026-07-05T19:16:01.442126+00:00"
+},
+{
+    "id": 48887,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "We say that two vertices u and v are mutually _______ if u can reach v and vice versa.",
+    "op": [
+        "Not Reachable",
+        "Reachable",
+        "Crossed",
+        "Forward"
+    ],
+    "created_at": "2026-07-05T19:23:35.248083+00:00"
+},
+{
+    "id": 48898,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The key[u] is the weight of the __________ going from u to any vertex in S.",
+    "op": [
+        "lighter edge",
+        "edge",
+        "heavier edge",
+        "lightest edge"
+    ],
+    "created_at": "2026-07-05T19:24:09.845057+00:00"
+},
+{
+    "id": 48908,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dijkstra’s algorithm works on a weighted directed graph G =(V, E) in which all_______weights are non-negative.",
+    "op": [
+        "links",
+        "nodes",
+        "vertices",
+        "edges"
+    ],
+    "created_at": "2026-07-05T19:24:24.122016+00:00"
+},
+{
+    "id": 48948,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A strongly connected component only apply to:",
+    "op": [
+        "Breadth First Search",
+        "Undirected Graph",
+        "Directed Graph",
+        "Minimum Spanning Tree"
+    ],
+    "created_at": "2026-07-05T19:25:37.566079+00:00"
+},
+{
+    "id": 49578,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Networks are ________ in the sense that it is possible from any location in the network to reach any other location in the digraph.",
+    "op": [
+        "Transportation",
+        "Not graphs",
+        "Complete",
+        "Incomplete"
+    ],
+    "created_at": "2026-07-05T19:46:41.035676+00:00"
+},
+{
+    "id": 49588,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Equivalence relation partitions the vertices into  _________ classes of mutually reachable vertices and these are the strong components",
+    "op": [
+        "Equivalence",
+        "Non classes",
+        "Variance",
+        "Non equivalence"
+    ],
+    "created_at": "2026-07-05T19:47:04.590853+00:00"
+},
+{
+    "id": 49601,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Kruskal’s algorithm, the vertices will be stored in ________.",
+    "op": [
+        "nodes",
+        "sets",
+        "loops",
+        "links"
+    ],
+    "created_at": "2026-07-05T19:47:36.021937+00:00"
+},
+{
+    "id": 49604,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________is commonly the running time of Dijkstra’s Algorithm using the binary heap method.",
+    "op": [
+        "Θ(log E)",
+        "Θ(E log V)",
+        "Θ(Blog V)",
+        "Θ(Vlog)"
+    ],
+    "created_at": "2026-07-05T19:47:48.603175+00:00"
+},
+{
+    "id": 49631,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A digraph is strongly connected under what condition?",
+    "op": [
+        "A digraph is strongly connected if  at least  one third pair  of vertices u, v e V, u can reach v and vice versa.",
+        "A digraph is strongly connected if for every pair of vertices u, v e V, u can reach v and vice versa.",
+        "A digraph is strongly connected if for every pair of vertices u, v e V, u can reach v .",
+        "A digraph is strongly connected if for at least one pair of vertex u, v e V,  u can reach v and vice versa."
+    ],
+    "created_at": "2026-07-05T19:49:23.055146+00:00"
+},
+{
+    "id": 49639,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A graph may contain ------------------------.",
+    "op": [
+        "Exactly one MST",
+        "No MST",
+        "One or zero MST",
+        "More than one MST"
+    ],
+    "created_at": "2026-07-05T19:49:36.151853+00:00"
+},
+{
+    "id": 49645,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the shortest-paths problem, we are given a weighted of___________G = (V, E).",
+    "op": [
+        "Directed graph",
+        "Line graph",
+        "Weighted graph",
+        "Un-directed graph"
+    ],
+    "created_at": "2026-07-05T19:49:47.092255+00:00"
+},
+{
+    "id": 49650,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "From the given option’s which one is correct regarding the time complexity of Dijkstra’s algorithm:",
+    "op": [
+        "O(log N)",
+        "O(N^2)",
+        "O(N)",
+        "O(N^3)"
+    ],
+    "created_at": "2026-07-05T19:49:54.56836+00:00"
+},
+{
+    "id": 49659,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Kruskal’s algorithm works by adding ________ in increasing order of weight (lightest edge first).",
+    "op": [
+        "Edges",
+        "Trees",
+        "Weights",
+        "Vertices"
+    ],
+    "created_at": "2026-07-05T19:50:13.232646+00:00"
+},
+{
+    "id": 49663,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Computing the strongly connected components of a digraph is a/an ___________ of the problem to determine whether a digraph is strongly connected or not.",
+    "op": [
+        "connection",
+        "size",
+        "optimization",
+        "generalization"
+    ],
+    "created_at": "2026-07-05T19:50:20.528497+00:00"
+},
+{
+    "id": 49668,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A topological sort of a DAG is a __________ ordering of the vertices of the DAG such that for each edge (u, v), u appears before v in the ordering.",
+    "op": [
+        "Linear",
+        "Parallel",
+        "Sequence",
+        "Non-Linear"
+    ],
+    "created_at": "2026-07-05T19:50:31.924393+00:00"
+},
+{
+    "id": 49674,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Digraphs ________ in communication and transportation networks.",
+    "op": [
+        "parts are used",
+        "are not used",
+        "are used",
+        "final value is used"
+    ],
+    "created_at": "2026-07-05T19:51:10.193738+00:00"
+},
+{
+    "id": 49990,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Timestamp structure of __________ is used in determining the strong components of a digraph.",
+    "op": [
+        "MST",
+        "Both DFS & BFS",
+        "DFS",
+        "BFS"
+    ],
+    "created_at": "2026-07-05T20:11:01.596112+00:00"
+},
+{
+    "id": 49994,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "By breaking any edge on a cycle created in free tree,  the free _________ is restored.",
+    "op": [
+        "Edge",
+        "Tree",
+        "Cycle",
+        "Vertex"
+    ],
+    "created_at": "2026-07-05T20:11:07.983525+00:00"
+},
+{
+    "id": 50003,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________  technique is look like propagating wave-front outward.",
+    "op": [
+        "Breadth First Traversal",
+        "Depth First Traversal",
+        "Time Stamp Traversal",
+        "Generic Traversal"
+    ],
+    "created_at": "2026-07-05T20:12:09.290018+00:00"
+},
+{
+    "id": 50005,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ components are not affected by reversal of all edges in terms of vertices reachability.",
+    "op": [
+        "Weakly connected",
+        "Strongly connected",
+        "First two",
+        "Last two"
+    ],
+    "created_at": "2026-07-05T20:12:24.226511+00:00"
+},
+{
+    "id": 50007,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are no ________ edges in undirected graph.",
+    "op": [
+        "Forward",
+        "Cross",
+        "Both forward and back",
+        "Back"
+    ],
+    "created_at": "2026-07-05T20:12:34.322417+00:00"
+},
+{
+    "id": 50008,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Prim's algorithm, we will make use of_______________.",
+    "op": [
+        "Priority Queue",
+        "Array",
+        "List",
+        "Stack"
+    ],
+    "created_at": "2026-07-05T20:12:42.03285+00:00"
+},
+{
+    "id": 50187,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The component digraph is necessarily _____________.",
+    "op": [
+        "cyclic",
+        "straight",
+        "acyclic",
+        "strong"
+    ],
+    "created_at": "2026-07-05T20:33:15.800195+00:00"
+},
+{
+    "id": 50194,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The ________ given by DFS allow us to determine whether the graph contains any cycles.",
+    "op": [
+        "Topological sort",
+        "Time stamps",
+        "BFS traversing",
+        "Order"
+    ],
+    "created_at": "2026-07-05T20:33:56.727195+00:00"
+},
+{
+    "id": 50195,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is true.",
+    "op": [
+        "Kruskal's algorithm (choose best non-cycle edge) is better than Prim's (choose best Tree edge) when the graph has relatively few edges.",
+        "Kruskal algorithm is multiple source technique for finding MST.",
+        "Both I and II",
+        "Kruskal’s algorithm is used to find minimum spanning tree of a graph, time complexity of this algorithm is O(EV)"
+    ],
+    "created_at": "2026-07-05T20:33:58.268419+00:00"
+},
+{
+    "id": 50197,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Overall Running time of Prim's algorithm is _______.",
+    "op": [
+        "Θ(ElogE)",
+        "Θ((V+E)logV)",
+        "Θ((V+E)logE)",
+        "Θ(ElogV)"
+    ],
+    "created_at": "2026-07-05T20:34:17.879424+00:00"
+},
+{
+    "id": 50201,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Dijkstra’s algorithm the estimated value of source vertex d[s] is:",
+    "op": [
+        "Equal to 1",
+        "Equal to 0",
+        "Greater than 1",
+        "Greater than 0"
+    ],
+    "created_at": "2026-07-05T20:34:29.374664+00:00"
+},
+{
+    "id": 50217,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is used in the data structure for implementing Dijkstra’s Algorithm?",
+    "op": [
+        "Stack’s",
+        "Max heap",
+        "Circular queue",
+        "Priority queue"
+    ],
+    "created_at": "2026-07-05T20:36:15.111259+00:00"
+},
+{
+    "id": 50384,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Timestamped DFS-cycles lemma, if edge (u, v) is a back edge, then _________",
+    "op": [
+        "$${\\text{f[u]}} > {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} \\leqslant {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} \\geqslant {\\text{f[v]}}$$",
+        "$${\\text{f[u]}} < {\\text{f[v]}}$$"
+    ],
+    "created_at": "2026-07-05T20:53:21.480017+00:00"
+},
+{
+    "id": 50386,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A free tree with n vertices have exactly ________ edges.",
+    "op": [
+        "n - 1",
+        "1",
+        "n + 1",
+        "n"
+    ],
+    "created_at": "2026-07-05T20:53:36.205975+00:00"
+},
+{
+    "id": 50395,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Prim’s algorithm is based on ---------------- strategy.",
+    "op": [
+        "Exponential",
+        "Divide and Conquer",
+        "Dynamic programming",
+        "Greedy"
+    ],
+    "created_at": "2026-07-05T20:55:03.346548+00:00"
+},
+{
+    "id": 50398,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For each vertex u ϵ (V − S) ,we associate a key ____________.",
+    "op": [
+        "key[u]",
+        "key[v]",
+        "key[v-s]",
+        "key[s]"
+    ],
+    "created_at": "2026-07-05T20:55:25.879914+00:00"
+},
+{
+    "id": 50400,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Problems such as the shortest route between cities can be solved efficiently by modeling the road map as a______________.",
+    "op": [
+        "Linked list",
+        "Tree",
+        "Graph",
+        "Stack"
+    ],
+    "created_at": "2026-07-05T20:56:23.015873+00:00"
+},
+{
+    "id": 50420,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Finding the faster result of the shortest path from u to v for every pair of vertices u and v we use__________.",
+    "op": [
+        "Two-pairs shortest-paths problem",
+        "both I and II",
+        "All-pairs shortest-paths problem",
+        "Single-pairs shortest-paths problem"
+    ],
+    "created_at": "2026-07-05T21:03:35.148711+00:00"
+},
+{
+    "id": 50508,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In strong components algorithm, first of all DFS is run for getting _______ times of vertices.",
+    "op": [
+        "Middle",
+        "Finish",
+        "Both start & finish",
+        "Start"
+    ],
+    "created_at": "2026-07-05T21:20:51.768807+00:00"
+},
+{
+    "id": 50512,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The process of updating estimates in Dijkstra’s algorithm is called_____________.",
+    "op": [
+        "Relaxation",
+        "Insertion",
+        "Amendment",
+        "Updating"
+    ],
+    "created_at": "2026-07-05T21:22:59.006766+00:00"
+},
+{
+    "id": 50517,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Prim’s algorithm, If there is no edge from u to a vertex in S, we set the key value to___________.",
+    "op": [
+        "0",
+        "-1",
+        "1",
+        "∞"
+    ],
+    "created_at": "2026-07-05T21:24:17.969613+00:00"
+},
+{
+    "id": 50521,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "From given algorithms which one considered as best for finding the shortest-path:",
+    "op": [
+        "Bellman-Ford algorithm",
+        "DFS",
+        "BFS",
+        "Dijkstra's algorithm"
+    ],
+    "created_at": "2026-07-05T21:25:39.635046+00:00"
+},
+{
+    "id": 50756,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For _____________ graphs, there is no distinction between forward and back edges.",
+    "op": [
+        "medium",
+        "large",
+        "undirected",
+        "directed"
+    ],
+    "created_at": "2026-07-05T22:46:48.153997+00:00"
+},
+{
+    "id": 50765,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In strong components algorithm, vertices are sorted in________ order of finish times.",
+    "op": [
+        "Decreasing",
+        "Any",
+        "Increasing",
+        "strong"
+    ],
+    "created_at": "2026-07-05T22:50:03.316985+00:00"
+},
+{
+    "id": 51152,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If a subset of edges A is viable for building MST, it can not contain a/an  _________.",
+    "op": [
+        "Edge",
+        "Vertex",
+        "Cycle",
+        "Graph"
+    ],
+    "created_at": "2026-07-06T00:37:32.223143+00:00"
+},
+{
+    "id": 51153,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Kruskal's algorithm, the next ________ is not added to viable set A, if its adding induce a/an cycle.",
+    "op": [
+        "Cycle",
+        "Vertex",
+        "Edge",
+        "Tree"
+    ],
+    "created_at": "2026-07-06T00:37:56.551534+00:00"
+},
+{
+    "id": 51154,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The breadth-first-search algorithm is a shortest-path algorithm that works on__________graphs.",
+    "op": [
+        "Directed",
+        "Un-directed",
+        "Weighted",
+        "Un-weighted"
+    ],
+    "created_at": "2026-07-06T00:38:27.864668+00:00"
+},
+{
+    "id": 51268,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Once you enter a strong component, every vertex in the\ncomponent is _________.",
+    "op": [
+        "reachable",
+        "reachable some times",
+        "removed",
+        "not reachable"
+    ],
+    "created_at": "2026-07-06T00:58:39.615404+00:00"
+},
+{
+    "id": 51275,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Timestamped DFS, No back edges means ___________.",
+    "op": [
+        "BFS",
+        "DFS",
+        "no cycles",
+        "1 cycle"
+    ],
+    "created_at": "2026-07-06T01:02:21.35735+00:00"
+},
+{
+    "id": 51277,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The time complexity to compute Graph transpose G^T is (V+E), if you have ______________ for G.",
+    "op": [
+        "stack",
+        "an adjacency list",
+        "Array list",
+        "complete list"
+    ],
+    "created_at": "2026-07-06T01:02:29.958464+00:00"
+},
+{
+    "id": 51311,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Kruskal's algorithm (choose best non-cycle edge) is better than Prim's (choose best tree edge) when the __________ has relatively few __________.",
+    "op": [
+        "tree, edges",
+        "tree, branches",
+        "graph, edges",
+        "graph, branches"
+    ],
+    "created_at": "2026-07-06T01:10:46.424334+00:00"
+},
+{
+    "id": 51418,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dijkstra’s algorithm is a simple________ algorithm for computing the single-source shortest-paths to all other vertices.",
+    "op": [
+        "Greedy",
+        "Brute-Force",
+        "Divide and conquer",
+        "Bellman-Ford"
+    ],
+    "created_at": "2026-07-06T01:25:56.209642+00:00"
+},
+{
+    "id": 51726,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the time complexity to extract a vertex from the priority queue in Prim’s algorithm?",
+    "op": [
+        "O(V+E)",
+        "O(V)",
+        "O(log E)",
+        "O(log V)"
+    ],
+    "created_at": "2026-07-06T02:19:13.027547+00:00"
+},
+{
+    "id": 51860,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A fully connected undirected graph of 5 nodes will have _________ edges.",
+    "op": [
+        "15",
+        "4",
+        "5",
+        "10"
+    ],
+    "created_at": "2026-07-06T02:44:30.649562+00:00"
+},
+{
+    "id": 51948,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Prim's algorithm, If the color of a vertex is __________,then it is in S otherwise not.",
+    "op": [
+        "Black",
+        "Gray",
+        "White",
+        "Blue"
+    ],
+    "created_at": "2026-07-06T03:02:46.120499+00:00"
+},
+{
+    "id": 51961,
+    "cc": "CS502",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An un-weighted graph can be considered as a graph in which every edge has weight_______unit.",
+    "op": [
+        "1",
+        "3",
+        "7",
+        "5"
+    ],
+    "created_at": "2026-07-06T03:04:09.109744+00:00"
+}
+]

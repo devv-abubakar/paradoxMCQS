@@ -1,0 +1,380 @@
+[
+    {
+        "id": 24766,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "ERD is a ___________,",
+        "op": [
+            "Object Instance",
+            "Diagram",
+            "Software",
+            "Language"
+        ],
+        "created_at": "2026-06-28T20:13:34.855606+00:00"
+    },
+    {
+        "id": 24769,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "British scientist Tim Berners-Lee wrote the first web browser in __________.",
+        "op": [
+            "1992",
+            "1990",
+            "1993",
+            "1994"
+        ],
+        "created_at": "2026-06-28T20:13:48.173128+00:00"
+    },
+    {
+        "id": 24772,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "___________ is the popular tool for scheduling your posts in advance on social media.",
+        "op": [
+            "Feedly",
+            "Sproute Social",
+            "Google Analytics",
+            "Hootsuite"
+        ],
+        "created_at": "2026-06-28T20:13:58.636766+00:00"
+    },
+    {
+        "id": 24774,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "SSL stands for _____________.",
+        "op": [
+            "Series Socket Layer",
+            "Serial Session Layer",
+            "Secure Socket Layer",
+            "Session Secure Layer"
+        ],
+        "created_at": "2026-06-28T20:14:09.254929+00:00"
+    },
+    {
+        "id": 24778,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "________ is a language that helps to visualize, construct and document software systems.",
+        "op": [
+            "ERD",
+            "HTML",
+            "UML",
+            "XML"
+        ],
+        "created_at": "2026-06-28T20:14:18.75344+00:00"
+    },
+    {
+        "id": 24780,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is the service used to log on to a remote computer that is attached to the internet.",
+        "op": [
+            "Tele Info",
+            "Telnet",
+            "FTP",
+            "Internet Telephony( VoIP)"
+        ],
+        "created_at": "2026-06-28T20:14:28.528342+00:00"
+    },
+    {
+        "id": 24783,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The relationship between Doctors and Patients entities in ER database modeling is an example of ________.",
+        "op": [
+            "Many to Any",
+            "Many to Many Relationship",
+            "One to One Relationship",
+            "One to Many Relationship"
+        ],
+        "created_at": "2026-06-28T20:14:37.074741+00:00"
+    },
+    {
+        "id": 24786,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "____________ hosting is a middle ground between shared hosting and the dedicated server.",
+        "op": [
+            "VPS",
+            "Reseller Account",
+            "Managed",
+            "Cloud"
+        ],
+        "created_at": "2026-06-28T20:14:49.341537+00:00"
+    },
+    {
+        "id": 24790,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "_______ is a URL shortener that helps to easily track clicks.",
+        "op": [
+            "Sprout Social",
+            "Likeable Local",
+            "Feedly",
+            "bit.ly"
+        ],
+        "created_at": "2026-06-28T20:15:01.615929+00:00"
+    },
+    {
+        "id": 24958,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In the E-R model, the attribute Average Salary is an example of _________.",
+        "op": [
+            "Derived Attribute",
+            "Simple Attribute",
+            "Single-value Attribute",
+            "Composite Attribute"
+        ],
+        "created_at": "2026-06-28T20:46:44.069594+00:00"
+    },
+    {
+        "id": 24961,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is a robust tool that automates the process of providing content on social media and makes sure it reaches the right audience for your business.",
+        "op": [
+            "Hootsuite",
+            "Sproute Social",
+            "Buffer",
+            "Likeable Local"
+        ],
+        "created_at": "2026-06-28T20:48:22.082613+00:00"
+    },
+    {
+        "id": 24962,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "__________ is an RSS reader that helps you to keep track of new posts on social media.",
+        "op": [
+            "Feedly",
+            "Sprout Social",
+            "TweetJukebox",
+            "Buffer"
+        ],
+        "created_at": "2026-06-28T20:48:51.346679+00:00"
+    },
+    {
+        "id": 26431,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The server which manages request and response headers is termed as ____________.",
+        "op": [
+            "Web Server",
+            "Database Server",
+            "Application Server",
+            "Proxy Server"
+        ],
+        "created_at": "2026-06-29T06:01:38.066936+00:00"
+    },
+    {
+        "id": 26564,
+        "cc": "CS406",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "The way database is stored on a storage system in the terms of files and indices is a part of ______________.",
+        "op": [
+            "Physical Schema",
+            "Conceptual Schema",
+            "Logical Schema",
+            "External Schema"
+        ],
+        "created_at": "2026-06-29T06:53:54.294809+00:00"
+    },
+    {
+        "id": 47964,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In MySQL, a list of all the databases is displayed by using the _______ command.",
+        "op": [
+            "PRINT",
+            "DEMONSTRATE",
+            "SHOW",
+            "DISPLAY"
+        ],
+        "created_at": "2026-07-05T19:08:29.743578+00:00"
+    },
+    {
+        "id": 47976,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Fixed length of characters can be stored in MySQL field with _______ .",
+        "op": [
+            "DOUBLE",
+            "VARCHAR",
+            "CHAR",
+            "TEXT"
+        ],
+        "created_at": "2026-07-05T19:08:38.029997+00:00"
+    },
+    {
+        "id": 47987,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "To retrieve a selected row or rows from MySQL table _____________ command is used.",
+        "op": [
+            "LOCATE",
+            "SPOT",
+            "WHERE",
+            "WHEREVER"
+        ],
+        "created_at": "2026-07-05T19:08:46.523449+00:00"
+    },
+    {
+        "id": 48005,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In PHP form submission, ________superglobal array stores the form fields values.",
+        "op": [
+            "$_GET[]",
+            "$_POST[]",
+            "$_PUT()",
+            "$_SEND()"
+        ],
+        "created_at": "2026-07-05T19:08:56.166045+00:00"
+    },
+    {
+        "id": 48026,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In MySQL, __________ command is used to drop the entire database as well as the table.",
+        "op": [
+            "LEAVE",
+            "DROP",
+            "DELETE",
+            "RELEASE"
+        ],
+        "created_at": "2026-07-05T19:09:07.583464+00:00"
+    },
+    {
+        "id": 48035,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In relational model, all the data are stored in the form of __________ .",
+        "op": [
+            "Tables",
+            "Documents",
+            "Files",
+            "Key-Value pair"
+        ],
+        "created_at": "2026-07-05T19:09:16.143808+00:00"
+    },
+    {
+        "id": 48042,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In MySQL console, ________ statement is used to connect with the database.",
+        "op": [
+            "USE",
+            "SELECT",
+            "INSERT",
+            "CONNECT"
+        ],
+        "created_at": "2026-07-05T19:09:22.092626+00:00"
+    },
+    {
+        "id": 48054,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The process of retrieving the data can speed up with the use of ________.",
+        "op": [
+            "Nested queries",
+            "Joins",
+            "Complex queries",
+            "Indices"
+        ],
+        "created_at": "2026-07-05T19:09:28.320632+00:00"
+    },
+    {
+        "id": 48065,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In multistep form submission, ____________ field is usually used to process form.",
+        "op": [
+            "Option",
+            "Hidden",
+            "Text",
+            "Select"
+        ],
+        "created_at": "2026-07-05T19:09:36.657471+00:00"
+    },
+    {
+        "id": 48070,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The SQL statement use to add a new row into database table is ____________.",
+        "op": [
+            "INSERT",
+            "PUT",
+            "UPLOAD",
+            "ADD"
+        ],
+        "created_at": "2026-07-05T19:09:42.025571+00:00"
+    },
+    {
+        "id": 49372,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The action attribute of the html form specifies _________.",
+        "op": [
+            "URL where to submit form",
+            "Form Action",
+            "Auto-Completion of the form",
+            "HTTP Method"
+        ],
+        "created_at": "2026-07-05T19:39:04.192825+00:00"
+    },
+    {
+        "id": 49375,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The process of structuring a database to make the tables more efficient to store and retrieve data is called __________ .",
+        "op": [
+            "Data Extraction",
+            "Data Wrangling",
+            "Data Normalization",
+            "Data Processing"
+        ],
+        "created_at": "2026-07-05T19:39:12.818923+00:00"
+    },
+    {
+        "id": 51070,
+        "cc": "CS406",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "___________ is the extension used in PHP to connect with different types of databases such as MySQL, PostgreSQL and Oracle.",
+        "op": [
+            "PDO",
+            "cURL",
+            "FFI",
+            "GD"
+        ],
+        "created_at": "2026-07-06T00:17:21.806936+00:00"
+    }
+]

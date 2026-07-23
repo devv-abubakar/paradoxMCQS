@@ -1,0 +1,2130 @@
+[
+{
+    "id": 31017,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Characteristics of object are called ________",
+    "op": [
+        "Attributes",
+        "Methods",
+        "Status",
+        "Instances"
+    ],
+    "created_at": "2026-06-30T19:09:24.862112+00:00"
+},
+{
+    "id": 31018,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In flow chart diagram circle represents:",
+    "op": [
+        "Process",
+        "Connector",
+        "Diamond",
+        "Decision"
+    ],
+    "created_at": "2026-06-30T19:09:32.751125+00:00"
+},
+{
+    "id": 31022,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An association between entities is called __________",
+    "op": [
+        "Data",
+        "Flowchart",
+        "Relationship",
+        "Attribute"
+    ],
+    "created_at": "2026-06-30T19:09:40.444306+00:00"
+},
+{
+    "id": 31032,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Flowchart, Arrow is also called __________",
+    "op": [
+        "Process",
+        "Flow line",
+        "Dotted line",
+        "Link line"
+    ],
+    "created_at": "2026-06-30T19:09:55.821614+00:00"
+},
+{
+    "id": 31035,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ highlights the system infrastructure and flow of system processes.",
+    "op": [
+        "Testing manual",
+        "Procedural manual",
+        "User manual",
+        "Technical manual"
+    ],
+    "created_at": "2026-06-30T19:10:02.841145+00:00"
+},
+{
+    "id": 31041,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following lifecycle models deals with the aspects of risk analysis and is a combination of iterative approach and classic waterfall model?",
+    "op": [
+        "Waterfall Model",
+        "Incremental Model",
+        "Linear Sequential Model",
+        "Spiral Model"
+    ],
+    "created_at": "2026-06-30T19:10:11.051937+00:00"
+},
+{
+    "id": 31045,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following are knowledge workers who facilitate the development of information systems and computer applications by bridging the communications gap that exists between non-technical system users, and developers?",
+    "op": [
+        "Software Engineers",
+        "Chief Executives",
+        "System Analysts",
+        "System Designers"
+    ],
+    "created_at": "2026-06-30T19:10:18.196821+00:00"
+},
+{
+    "id": 31051,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Flowchart, one segment is connected with another segment using __________________ symbol.",
+    "op": [
+        "Process box",
+        "Connector",
+        "Input/Output box",
+        "Decision box"
+    ],
+    "created_at": "2026-06-30T19:10:26.541027+00:00"
+},
+{
+    "id": 32690,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In drawing a proper flowchart, all necessary steps that are a part of process should be listed out in ________________ order.",
+    "op": [
+        "Random",
+        "Illogical",
+        "Logical",
+        "Physical"
+    ],
+    "created_at": "2026-06-30T22:18:21.744675+00:00"
+},
+{
+    "id": 32691,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Incremental Model approach, __________ is the core product which usually addresses the basic requirements of the system.",
+    "op": [
+        "Final increment",
+        "Last increment",
+        "First increment",
+        "Second increment"
+    ],
+    "created_at": "2026-06-30T22:18:37.390712+00:00"
+},
+{
+    "id": 32693,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following allows manufacturers to rapidly and inexpensively test the parts of the design which are most likely to have problems?",
+    "op": [
+        "Physical Model",
+        "Carbon copy",
+        "Prototype",
+        "Trial version"
+    ],
+    "created_at": "2026-06-30T22:18:50.815665+00:00"
+},
+{
+    "id": 32694,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Prior to the final release into production use, _________phase identifies errors and deficiencies in the system.",
+    "op": [
+        "Implementation",
+        "Review",
+        "QA",
+        "Testing"
+    ],
+    "created_at": "2026-06-30T22:19:00.929562+00:00"
+},
+{
+    "id": 32698,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In ERD, each attribute has a __________ i.e. defined parameters or the range in which value of the attribute may fall.",
+    "op": [
+        "Entity (Object)",
+        "Flow (sequence)",
+        "Relationship (association)",
+        "Value Set (domain)"
+    ],
+    "created_at": "2026-06-30T22:19:26.655152+00:00"
+},
+{
+    "id": 32699,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Apart from the value to cost ratio, modules are also selected on the basis of ______ requirements and needs.",
+    "op": [
+        "designer",
+        "customer",
+        "system analyst",
+        "programmer"
+    ],
+    "created_at": "2026-06-30T22:19:32.222269+00:00"
+},
+{
+    "id": 32703,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Object orientation helps in increasing abstraction level to build _____",
+    "op": [
+        "New software",
+        "Reusable software",
+        "Fixed software",
+        "Installed software"
+    ],
+    "created_at": "2026-06-30T22:20:35.040042+00:00"
+},
+{
+    "id": 32709,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Rounded shaped symbol in the flow chart is called ____________",
+    "op": [
+        "Process",
+        "Arrow",
+        "Decision",
+        "Connector"
+    ],
+    "created_at": "2026-06-30T22:21:07.65038+00:00"
+},
+{
+    "id": 32713,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In _________ model, the system is designed, implemented and tested in increments until the product is finished.",
+    "op": [
+        "Spiral",
+        "Iterative",
+        "Waterfall",
+        "Incremental"
+    ],
+    "created_at": "2026-06-30T22:21:57.819443+00:00"
+},
+{
+    "id": 33057,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Disadvantage of Object Orientation is_________",
+    "op": [
+        "Abstraction",
+        "Complexity",
+        "Encapsulation",
+        "Inheritance"
+    ],
+    "created_at": "2026-07-01T01:00:36.605881+00:00"
+},
+{
+    "id": 33058,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "We get a final increment after the _______ development phase in Incremental Model.",
+    "op": [
+        "integrate increment",
+        "developing increment",
+        "validate increment",
+        "validate system"
+    ],
+    "created_at": "2026-07-01T01:01:11.490198+00:00"
+},
+{
+    "id": 33059,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is used to test the function of the new design before starting production of a product?",
+    "op": [
+        "Mathematical Model",
+        "Beta version",
+        "Trial version",
+        "Prototype"
+    ],
+    "created_at": "2026-07-01T01:01:32.356452+00:00"
+},
+{
+    "id": 33061,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Qualification is an example of _____________ attribute.",
+    "op": [
+        "Multi-valued",
+        "Derived",
+        "Composite",
+        "Simple"
+    ],
+    "created_at": "2026-07-01T01:02:12.282232+00:00"
+},
+{
+    "id": 33063,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In structured analysis & design __________ is made according to some standard rules",
+    "op": [
+        "Classes",
+        "Strategy",
+        "Decision",
+        "Documentation"
+    ],
+    "created_at": "2026-07-01T01:02:29.978372+00:00"
+},
+{
+    "id": 33067,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_______ is usually identified by the phrase \"is a kind of.”",
+    "op": [
+        "Object",
+        "Class",
+        "Inheritance",
+        "Instance"
+    ],
+    "created_at": "2026-07-01T01:03:44.169813+00:00"
+},
+{
+    "id": 33391,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In which of the following models, the development approach is based on producing deliverables frequently/ repetitively.",
+    "op": [
+        "Waterfall",
+        "Incremental",
+        "Linear Sequential",
+        "Iterative"
+    ],
+    "created_at": "2026-07-01T02:02:48.56329+00:00"
+},
+{
+    "id": 33394,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Increments made at different intervals of time refer to the ___________ development model.",
+    "op": [
+        "Incremental",
+        "Prototyping",
+        "Water fall",
+        "Extreme programming"
+    ],
+    "created_at": "2026-07-01T02:03:01.090672+00:00"
+},
+{
+    "id": 33398,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In _______, existing and new both systems run and output of both systems is used since functions performed are different.",
+    "op": [
+        "Immediate change over",
+        "Parallel change over",
+        "Phased change over",
+        "Abrupt change over"
+    ],
+    "created_at": "2026-07-01T02:03:26.759014+00:00"
+},
+{
+    "id": 33402,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Incremental model combines the elements of ____________ model with the philosophy of ___________.",
+    "op": [
+        "Iterative, Spiral",
+        "Spiral, Typing",
+        "Waterfall, Analysis",
+        "Waterfall, Prototyping"
+    ],
+    "created_at": "2026-07-01T02:03:42.969473+00:00"
+},
+{
+    "id": 33404,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "ERD stands for:",
+    "op": [
+        "Entity Row Development",
+        "Entity Relationship Diagram",
+        "Entity Row Data",
+        "Entity Relation Data"
+    ],
+    "created_at": "2026-07-01T02:03:49.454464+00:00"
+},
+{
+    "id": 33407,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A data flow diagram is _______representation of the data through an information system.",
+    "op": [
+        "Descriptive",
+        "Philosophical",
+        "Mathematical",
+        "Graphical"
+    ],
+    "created_at": "2026-07-01T02:04:14.852676+00:00"
+},
+{
+    "id": 33409,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is correct about system analysis & design?",
+    "op": [
+        "Flow chart is used in Object Oriented approach",
+        "We use ERD in Structured approach",
+        "DFD is not used in Structured approach",
+        "ERD is used in Object Oriented approach"
+    ],
+    "created_at": "2026-07-01T02:04:22.268605+00:00"
+},
+{
+    "id": 33471,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If a flow chart is becoming complex then which symbol you will use to reduce the number of flow lines?",
+    "op": [
+        "Decision",
+        "Connector",
+        "Terminator",
+        "Single Document"
+    ],
+    "created_at": "2026-07-01T02:12:14.944681+00:00"
+},
+{
+    "id": 33476,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A/an___________ is a set of entities of the same type that share the same properties.",
+    "op": [
+        "Data Set",
+        "Relationship Set",
+        "Attribute Set",
+        "Entity Set"
+    ],
+    "created_at": "2026-07-01T02:13:03.898845+00:00"
+},
+{
+    "id": 33547,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which symbol in flow chart indicates the starting & ending of a process?",
+    "op": [
+        "Terminator",
+        "Pre-Defined Process",
+        "Connector",
+        "Single Document"
+    ],
+    "created_at": "2026-07-01T02:28:12.106262+00:00"
+},
+{
+    "id": 33549,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Early detection of problems in critical areas is only possible if system is",
+    "op": [
+        "Well Designed",
+        "Designed Accidently",
+        "Designed Randomly",
+        "Designed by managers"
+    ],
+    "created_at": "2026-07-01T02:28:27.700625+00:00"
+},
+{
+    "id": 33551,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "ERD shows a ________ relation between entities.",
+    "op": [
+        "Multi valued",
+        "Primary",
+        "Secondary",
+        "Derived"
+    ],
+    "created_at": "2026-07-01T02:29:02.471258+00:00"
+},
+{
+    "id": 33552,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is a problem solving technique that re-assembles a system’s components back into a complete system?",
+    "op": [
+        "System configuration",
+        "System design",
+        "System analysis",
+        "System check"
+    ],
+    "created_at": "2026-07-01T02:29:17.218129+00:00"
+},
+{
+    "id": 33553,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "___________ is a data model or diagram for high-level descriptions of conceptual data model.",
+    "op": [
+        "Bar Graph",
+        "None of the given options",
+        "Flowchart",
+        "Entity Relationship Diagram"
+    ],
+    "created_at": "2026-07-01T02:29:49.054358+00:00"
+},
+{
+    "id": 33554,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is the purpose of a class in object oriented design?",
+    "op": [
+        "Specify the relationship between entities",
+        "Specify the structure and behavior of the object",
+        "Specify a classification of entities",
+        "Share the different characteristic of an object"
+    ],
+    "created_at": "2026-07-01T02:30:02.789157+00:00"
+},
+{
+    "id": 33806,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following model can lead to scope creep due to user feedback after each phase?",
+    "op": [
+        "Incremental",
+        "Iterative",
+        "Classic Lifecycle",
+        "Waterfall"
+    ],
+    "created_at": "2026-07-01T03:26:30.52167+00:00"
+},
+{
+    "id": 33807,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Rectangle shape in the flow charts represents___________",
+    "op": [
+        "Decision",
+        "Relationship",
+        "Terminator",
+        "Process"
+    ],
+    "created_at": "2026-07-01T03:27:00.150922+00:00"
+},
+{
+    "id": 33898,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is an incorrect statement about Good Practices of Flowchart?",
+    "op": [
+        "There should not be any room for ambiguity in understanding the flowchart.",
+        "Every flowchart must have a connector.",
+        "The flowchart should be clear, neat and easy to follow.",
+        "It is useful to test the validity of the flowchart."
+    ],
+    "created_at": "2026-07-01T03:38:44.833982+00:00"
+},
+{
+    "id": 33899,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is INCORRECT about DFD?",
+    "op": [
+        "It should not have grey holes.",
+        "It should not have miracles.",
+        "It should not have labeled things.",
+        "It should not have black holes."
+    ],
+    "created_at": "2026-07-01T03:38:51.298128+00:00"
+},
+{
+    "id": 33901,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Weakness of ____________ is that it needs considerable risk assessment and if a risk is not discovered, problems will surely occur.",
+    "op": [
+        "Incremental Model",
+        "Waterfall Model",
+        "Linear Sequential Model",
+        "Spiral Model"
+    ],
+    "created_at": "2026-07-01T03:39:04.872168+00:00"
+},
+{
+    "id": 33902,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Checking the validity of flowchart is",
+    "op": [
+        "Waste of time",
+        "A good practice",
+        "A bad practice",
+        "Depreciated"
+    ],
+    "created_at": "2026-07-01T03:39:10.666554+00:00"
+},
+{
+    "id": 34250,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In which of the following model, working functionality (basic module) is produced earlier.",
+    "op": [
+        "Incremental Model",
+        "Waterfall Model",
+        "Iterative Model",
+        "Linear Sequential Model"
+    ],
+    "created_at": "2026-07-01T04:34:51.61411+00:00"
+},
+{
+    "id": 34258,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following view gives a quick understanding of the business processes and flows?",
+    "op": [
+        "Narrative",
+        "Descriptive",
+        "Diagrammatic",
+        "Textual"
+    ],
+    "created_at": "2026-07-01T04:36:48.097919+00:00"
+},
+{
+    "id": 34260,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In DFD, an entity represents ______________.",
+    "op": [
+        "Flow of data within the system",
+        "Range in which value of the attribute may fall",
+        "Sources of data received by the system or destinations of the data produced by the system.",
+        "Interaction of real world enterprises"
+    ],
+    "created_at": "2026-07-01T04:37:08.576395+00:00"
+},
+{
+    "id": 34329,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is an iterative approach to system development?",
+    "op": [
+        "Spiral Model",
+        "Linear Sequential Model",
+        "Waterfall Model",
+        "Classic Lifecycle Model"
+    ],
+    "created_at": "2026-07-01T04:42:06.485739+00:00"
+},
+{
+    "id": 34349,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In DFD, Process represents____________.",
+    "op": [
+        "Activity",
+        "Flow",
+        "Attribute",
+        "Relationship"
+    ],
+    "created_at": "2026-07-01T04:45:25.730299+00:00"
+},
+{
+    "id": 34357,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "According to “Booch”, object has following three components",
+    "op": [
+        "State, Interface, methods",
+        "State, Behavior, Identity",
+        "State, Variables, Methods",
+        "State, Behavior, Interface"
+    ],
+    "created_at": "2026-07-01T04:45:55.876435+00:00"
+},
+{
+    "id": 34361,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "While developing software object oriented analysis focuses on ____",
+    "op": [
+        "Incremental approach",
+        "Modular approach",
+        "Traditional approach",
+        "Derived approach"
+    ],
+    "created_at": "2026-07-01T04:46:07.763582+00:00"
+},
+{
+    "id": 34369,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is the process of quickly putting together a working model in order to test various aspects of the design for gathering early user feedback?",
+    "op": [
+        "Questionnaires",
+        "Iteration",
+        "Interviews",
+        "Prototyping"
+    ],
+    "created_at": "2026-07-01T04:46:26.103386+00:00"
+},
+{
+    "id": 34652,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is considered during OO Analysis?",
+    "op": [
+        "Persistence",
+        "Concurrency",
+        "Distribution",
+        "System behavior"
+    ],
+    "created_at": "2026-07-01T05:22:16.373617+00:00"
+},
+{
+    "id": 34663,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_________ means information hiding.",
+    "op": [
+        "Class",
+        "Encapsulation",
+        "Inheritance",
+        "Polymorphism"
+    ],
+    "created_at": "2026-07-01T05:23:27.312149+00:00"
+},
+{
+    "id": 34964,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is the process that defines the hardware and software architecture, components, modules, interfaces, and data for a computer system?",
+    "op": [
+        "Coding",
+        "Systems Requirement",
+        "Systems Design",
+        "Requirement"
+    ],
+    "created_at": "2026-07-01T06:22:15.655872+00:00"
+},
+{
+    "id": 35013,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is an object that exists and is distinguishable from other objects?",
+    "op": [
+        "Data",
+        "Relationship",
+        "Entity",
+        "Attribute"
+    ],
+    "created_at": "2026-07-01T06:32:04.354639+00:00"
+},
+{
+    "id": 35159,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A schematic representation of a sequence of operations as in a manufacturing process or computer program is called __________.",
+    "op": [
+        "Entity Relationship Diagram",
+        "Attribute",
+        "Flowchart",
+        "Object"
+    ],
+    "created_at": "2026-07-01T06:59:52.205921+00:00"
+},
+{
+    "id": 35160,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Change over can be undertaken in following ways except _______________.",
+    "op": [
+        "Abrupt change over",
+        "Parallel change over",
+        "Phased change over",
+        "Pointed change over"
+    ],
+    "created_at": "2026-07-01T07:00:06.175158+00:00"
+},
+{
+    "id": 35163,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following lifecycle models is good for large and complex projects?",
+    "op": [
+        "Incremental",
+        "Linear Sequential",
+        "Waterfall",
+        "Spiral"
+    ],
+    "created_at": "2026-07-01T07:00:54.533559+00:00"
+},
+{
+    "id": 35521,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The purpose of data flow diagrams is to provide a --------- between users and systems developers",
+    "op": [
+        "Connection link",
+        "Linking bridge",
+        "Data Flows",
+        "Empty space"
+    ],
+    "created_at": "2026-07-01T08:33:36.499921+00:00"
+},
+{
+    "id": 42789,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Disadvantage of Object Orientation is_________",
+    "op": [
+        "Complexity",
+        "Encapsulation",
+        "Abstraction",
+        "Inheritance"
+    ],
+    "created_at": "2026-07-01T06:58:15.864909+00:00"
+},
+{
+    "id": 42790,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is correct about system analysis & design?",
+    "op": [
+        "Flow chart is used in Object Oriented approach",
+        "ERD is used in Object Oriented approach",
+        "DFD is not used in Structured approach",
+        "We use ERD in Structured approach"
+    ],
+    "created_at": "2026-07-01T06:58:25.111869+00:00"
+},
+{
+    "id": 42791,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following lifecycle models deals with the aspects of risk analysis and is a combination of iterative approach and classic waterfall model?",
+    "op": [
+        "Linear Sequential Model",
+        "Waterfall Model",
+        "Incremental Model",
+        "Spiral Model"
+    ],
+    "created_at": "2026-07-01T06:58:33.805556+00:00"
+},
+{
+    "id": 42792,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_______ is usually identified by the phrase \"is a kind of.”",
+    "op": [
+        "Class",
+        "Inheritance",
+        "Object",
+        "Instance"
+    ],
+    "created_at": "2026-07-01T06:58:42.647998+00:00"
+},
+{
+    "id": 42793,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Object orientation helps in increasing abstraction level to build _____",
+    "op": [
+        "Reusable software",
+        "Fixed software",
+        "New software",
+        "Installed software"
+    ],
+    "created_at": "2026-07-01T06:58:50.939801+00:00"
+},
+{
+    "id": 42794,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Characteristics of object are called ________",
+    "op": [
+        "Instances",
+        "Status",
+        "Attributes",
+        "Methods"
+    ],
+    "created_at": "2026-07-01T06:59:00.135993+00:00"
+},
+{
+    "id": 42795,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Flowchart, Arrow is also called __________",
+    "op": [
+        "Process",
+        "Dotted line",
+        "Link line",
+        "Flow line"
+    ],
+    "created_at": "2026-07-01T06:59:08.464704+00:00"
+},
+{
+    "id": 42796,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Qualification is an example of _____________ attribute.",
+    "op": [
+        "Simple",
+        "Derived",
+        "Multi-valued",
+        "Composite"
+    ],
+    "created_at": "2026-07-01T06:59:17.086312+00:00"
+},
+{
+    "id": 42797,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "According to “Booch”, object has following three components",
+    "op": [
+        "State, Variables, Methods",
+        "State, Interface, methods",
+        "State, Behavior, Identity",
+        "State, Behavior, Interface"
+    ],
+    "created_at": "2026-07-01T06:59:25.234229+00:00"
+},
+{
+    "id": 42798,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Apart from the value to cost ratio, modules are also selected on the basis of ______ requirements and needs.",
+    "op": [
+        "designer",
+        "programmer",
+        "customer",
+        "system analyst"
+    ],
+    "created_at": "2026-07-01T06:59:33.106807+00:00"
+},
+{
+    "id": 50196,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the science and art of transforming data into secret code for transmission over a public network?",
+    "op": [
+        "Antivirus",
+        "Firewall",
+        "Cryptography",
+        "Active Monitors"
+    ],
+    "created_at": "2026-07-05T20:34:10.526332+00:00"
+},
+{
+    "id": 50199,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a security objective?",
+    "op": [
+        "Confidentiality",
+        "Regularity",
+        "Integrity",
+        "Availability"
+    ],
+    "created_at": "2026-07-05T20:34:21.877505+00:00"
+},
+{
+    "id": 50202,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the primary method for keeping a computer secure from intruders and allows or blocks traffic into and out of a private network or the user's computer?",
+    "op": [
+        "Antivirus",
+        "Scanners",
+        "Firewall",
+        "Password"
+    ],
+    "created_at": "2026-07-05T20:34:32.426082+00:00"
+},
+{
+    "id": 50203,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ helps user to establish identity",
+    "op": [
+        "Input control",
+        "Access control",
+        "Output control",
+        "Database control"
+    ],
+    "created_at": "2026-07-05T20:34:42.823197+00:00"
+},
+{
+    "id": 50204,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What type of skills will be needed for logical intrusion?",
+    "op": [
+        "Behavioral",
+        "Simple & easy",
+        "Strong communication",
+        "Complex & technical"
+    ],
+    "created_at": "2026-07-05T20:34:54.790406+00:00"
+},
+{
+    "id": 50205,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Different levels and types of ---------------------- may be required to address the risks to information",
+    "op": [
+        "Integrity",
+        "None of any options",
+        "Security",
+        "Authenticity"
+    ],
+    "created_at": "2026-07-05T20:35:05.70669+00:00"
+},
+{
+    "id": 50207,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following controls over the transfer of data over networks?",
+    "op": [
+        "Database Controls",
+        "Communication Controls",
+        "Security Controls",
+        "Access Controls"
+    ],
+    "created_at": "2026-07-05T20:35:19.665679+00:00"
+},
+{
+    "id": 50209,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In case of _________, the intruder might try to have unauthorized access to the system.",
+    "op": [
+        "Physical",
+        "Logical",
+        "Fatal",
+        "Lexical"
+    ],
+    "created_at": "2026-07-05T20:35:32.496447+00:00"
+},
+{
+    "id": 50212,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The output of threat identification phase is_____________",
+    "op": [
+        "Threat Definition",
+        "Threat Measuring",
+        "Threat Resolution",
+        "Threat Control"
+    ],
+    "created_at": "2026-07-05T20:35:44.390594+00:00"
+},
+{
+    "id": 50216,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Threat likelihoods are determine to define",
+    "op": [
+        "Threat source",
+        "Current controls",
+        "Vulnerability scope",
+        "Information security"
+    ],
+    "created_at": "2026-07-05T20:36:14.501283+00:00"
+},
+{
+    "id": 50899,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When a customer enters the card and the pin code in an Automatic Teller Machine (ATM), which of the following  controls are exercised by the system to block unwanted or illegitimate access?",
+    "op": [
+        "Input Controls",
+        "Database Controls",
+        "Communication Controls",
+        "Access Controls"
+    ],
+    "created_at": "2026-07-05T23:36:05.858108+00:00"
+},
+{
+    "id": 50900,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the process of converting data into codes (cryptograms)?",
+    "op": [
+        "Decoding",
+        "Decryption",
+        "Coding",
+        "Encryption"
+    ],
+    "created_at": "2026-07-05T23:36:14.71771+00:00"
+},
+{
+    "id": 50901,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When voltage that is received does not stay stable is referred as:",
+    "op": [
+        "power factor",
+        "power game",
+        "power dissipation",
+        "power fluctuation"
+    ],
+    "created_at": "2026-07-05T23:36:20.689646+00:00"
+},
+{
+    "id": 50902,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Risk Management does NOT include _________ phase.",
+    "op": [
+        "Likelihood Determination",
+        "Control Analysis",
+        "Understanding Business Process",
+        "System Characterization"
+    ],
+    "created_at": "2026-07-05T23:36:27.974474+00:00"
+},
+{
+    "id": 50903,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Threat likelihood is determined to use in ______",
+    "op": [
+        "Control recommendation",
+        "Assessment process",
+        "Vulnerability identification",
+        "Impact analysis"
+    ],
+    "created_at": "2026-07-05T23:36:33.756715+00:00"
+},
+{
+    "id": 50905,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Risks are rated by ______",
+    "op": [
+        "Probability and impact",
+        "Probability and cost",
+        "Probability and exposure",
+        "Probability and size"
+    ],
+    "created_at": "2026-07-05T23:36:40.517572+00:00"
+},
+{
+    "id": 50907,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following are responsible for providing independent assurance to management on the appropriateness of the security objectives?",
+    "op": [
+        "Information Systems Auditors",
+        "Executive Management",
+        "Security Managers",
+        "Data owners"
+    ],
+    "created_at": "2026-07-05T23:36:47.259896+00:00"
+},
+{
+    "id": 50909,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Providing independent assurance to management regarding the appropriateness of the security objectives is the responsibility of _________.",
+    "op": [
+        "Information systems auditors",
+        "Process owners",
+        "Data owners",
+        "End users"
+    ],
+    "created_at": "2026-07-05T23:37:01.560987+00:00"
+},
+{
+    "id": 50961,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "PIN is a secret shared between a user and a system that can be used to authenticate the user to the system. In this context, what does PIN stands for?",
+    "op": [
+        "Personal Identification Number",
+        "Personal Information Node",
+        "Password Indicating Null",
+        "Password Indicator Number"
+    ],
+    "created_at": "2026-07-05T23:58:30.404334+00:00"
+},
+{
+    "id": 50963,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Threat identification can be verified using",
+    "op": [
+        "Threat source",
+        "Threat statement",
+        "Threat impact analysis",
+        "Threat action plan"
+    ],
+    "created_at": "2026-07-05T23:58:50.929594+00:00"
+},
+{
+    "id": 50964,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "______________are the key people who will have to ensure that security is effective and smoothly operated",
+    "op": [
+        "executive management",
+        "technology providers",
+        "users",
+        "IS security professionals"
+    ],
+    "created_at": "2026-07-05T23:58:56.802178+00:00"
+},
+{
+    "id": 50965,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Logical intrusion is also known as_____________",
+    "op": [
+        "Wrecking",
+        "Hacking",
+        "Firewalls",
+        "Antivirus"
+    ],
+    "created_at": "2026-07-05T23:59:07.086473+00:00"
+},
+{
+    "id": 50966,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An IT enabled organization that involves the radical re-conceptualization of the business needs _____ for possible threat invasion",
+    "op": [
+        "Data backup",
+        "Control recommendation",
+        "Business continuity plan",
+        "Impact analysis plan"
+    ],
+    "created_at": "2026-07-05T23:59:12.945056+00:00"
+},
+{
+    "id": 50968,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Risk impact assessment should focus on consequences affecting _______",
+    "op": [
+        "Marketing, costing, staffing",
+        "Planning, resources, cost, schedule",
+        "Business, technology, process",
+        "Performance, cost, schedule"
+    ],
+    "created_at": "2026-07-05T23:59:20.032237+00:00"
+},
+{
+    "id": 50984,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The protection of information from unauthorized disclosure explains the concept of system and data ______________.",
+    "op": [
+        "Confidentiality",
+        "Reliability",
+        "Completeness",
+        "Consistency"
+    ],
+    "created_at": "2026-07-06T00:02:02.953845+00:00"
+},
+{
+    "id": 50988,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following phase determines that a potential vulnerability could be exercised by a given threat source?",
+    "op": [
+        "Impact analysis",
+        "Risk resilience",
+        "Likelihood determination",
+        "Intelligence"
+    ],
+    "created_at": "2026-07-06T00:02:21.729138+00:00"
+},
+{
+    "id": 50993,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Under which of the following agreement, two or more organizations agree to provide backup facilities to each other in case of one suffering from a disaster.",
+    "op": [
+        "Joint",
+        "Cooperative",
+        "Mutual",
+        "Reciprocal"
+    ],
+    "created_at": "2026-07-06T00:02:40.955712+00:00"
+},
+{
+    "id": 51000,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following focuses on detecting potentially abnormal behavior in function of operating system or request made by application software?",
+    "op": [
+        "Biometrics",
+        "Scanners",
+        "Behavior blockers",
+        "Passwords"
+    ],
+    "created_at": "2026-07-06T00:03:25.642851+00:00"
+},
+{
+    "id": 51003,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Confidentiality of information system means",
+    "op": [
+        "information systems are available and usable when required",
+        "data & information are easily available to everyone",
+        "data and information are protected against authorized modification",
+        "data and information are disclosed only to those who have a right to know it"
+    ],
+    "created_at": "2026-07-06T00:03:44.143932+00:00"
+},
+{
+    "id": 51006,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following refers to damage caused to the software and data without any physical damage to the computers?",
+    "op": [
+        "Physical Threat",
+        "Virus",
+        "Worm",
+        "Logical Threat"
+    ],
+    "created_at": "2026-07-06T00:04:12.806691+00:00"
+},
+{
+    "id": 51438,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following software performs concurrent monitoring as the system is being used?",
+    "op": [
+        "Passive Scanners",
+        "Active Scanners",
+        "Passive Monitors",
+        "Active Monitors"
+    ],
+    "created_at": "2026-07-06T01:31:10.703687+00:00"
+},
+{
+    "id": 51440,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following phase determines the adverse impact resulting from a successful threat exercise of vulnerability?",
+    "op": [
+        "Impact analysis",
+        "Monitoring threats",
+        "Risk resilience",
+        "Likelihood determination"
+    ],
+    "created_at": "2026-07-06T01:31:20.163601+00:00"
+},
+{
+    "id": 51441,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a logical record of computer activities, usage, processing pertaining to an operating or application system or user activities?",
+    "op": [
+        "Audit Trial",
+        "Audit Control",
+        "Control Log",
+        "Control Trial"
+    ],
+    "created_at": "2026-07-06T01:31:30.752337+00:00"
+},
+{
+    "id": 51442,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A bad sector on the hard drive is an example of ________ threat.",
+    "op": [
+        "Physical",
+        "Logical",
+        "Lexical",
+        "Fatal"
+    ],
+    "created_at": "2026-07-06T01:31:40.622817+00:00"
+},
+{
+    "id": 51443,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a name used for an intruder?",
+    "op": [
+        "Hacktivist",
+        "Knacker",
+        "Cracker",
+        "Hacker"
+    ],
+    "created_at": "2026-07-06T01:31:51.273669+00:00"
+},
+{
+    "id": 51445,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following  is a weakness that can be accidentally triggered or intentionally exploited?",
+    "op": [
+        "Audit Trial",
+        "Vulnerability",
+        "Threat Identification",
+        "Likelihood Identification"
+    ],
+    "created_at": "2026-07-06T01:32:00.382606+00:00"
+},
+{
+    "id": 51447,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Control assessment analysis process does not include_____________",
+    "op": [
+        "Checking of control reliability",
+        "Checking of control planned",
+        "Checking of control implemented",
+        "Checking of control Motivation"
+    ],
+    "created_at": "2026-07-06T01:32:09.256332+00:00"
+},
+{
+    "id": 51448,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Risk projection attempts to rate risk in two ways",
+    "op": [
+        "Likelihood and mitigation",
+        "Likelihood and size",
+        "Likelihood and impact",
+        "Likelihood and size"
+    ],
+    "created_at": "2026-07-06T01:32:20.855255+00:00"
+},
+{
+    "id": 51450,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is responsible for ensuring that appropriate security, consistent with the organization’s security policy that is embedded in their information systems?",
+    "op": [
+        "Process Owners",
+        "Executive Management",
+        "Data Owners",
+        "Users"
+    ],
+    "created_at": "2026-07-06T01:32:40.417863+00:00"
+},
+{
+    "id": 51529,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which statement describes the security program correctly?",
+    "op": [
+        "Periodic threat exposure",
+        "Identification of assets",
+        "Periodic reviews to check safety",
+        "Series of irregular reviews"
+    ],
+    "created_at": "2026-07-06T01:48:35.694468+00:00"
+},
+{
+    "id": 51533,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Impact Analysis in control of threat does not depend on__________",
+    "op": [
+        "System Criticality",
+        "Vulnerability Analysis",
+        "Data Criticality",
+        "System Mission"
+    ],
+    "created_at": "2026-07-06T01:49:12.033932+00:00"
+},
+{
+    "id": 51547,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following  refers to the process of identifying attempts to penetrate a system and gain unauthorized access",
+    "op": [
+        "Control Trial",
+        "Audit trial",
+        "Intrusion Detection",
+        "Documentation"
+    ],
+    "created_at": "2026-07-06T01:50:04.726287+00:00"
+},
+{
+    "id": 51603,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a program not a virus but it installs a virus on the PC while performing another function?",
+    "op": [
+        "Worm",
+        "Trojans",
+        "Bug",
+        "Dropper"
+    ],
+    "created_at": "2026-07-06T01:57:39.981017+00:00"
+},
+{
+    "id": 51607,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Control effectiveness can be checked by____________",
+    "op": [
+        "System characterization",
+        "High Threat Motivation",
+        "Availability of Threat",
+        "Threat Definition"
+    ],
+    "created_at": "2026-07-06T01:58:14.057515+00:00"
+},
+{
+    "id": 51608,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____ is an example of Trojan horse.",
+    "op": [
+        "Worm",
+        "Dropper",
+        "Scanner",
+        "Logic Bomb"
+    ],
+    "created_at": "2026-07-06T01:58:30.2253+00:00"
+},
+{
+    "id": 51613,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which statement is INCORRECT about a BUG?",
+    "op": [
+        "It can never create a virus in the system.",
+        "It is an internal malfunctioning of the system.",
+        "It is caused by improper application of programming logic.",
+        "It is an unintentional fault in the program."
+    ],
+    "created_at": "2026-07-06T01:59:17.41599+00:00"
+},
+{
+    "id": 51743,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT true about risk management?",
+    "op": [
+        "Process of assessing risk",
+        "Process of measuring risk",
+        "Process of developing strategies to manage risk",
+        "Process of logical intrusion"
+    ],
+    "created_at": "2026-07-06T02:21:13.511423+00:00"
+},
+{
+    "id": 52363,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ refer to the sudden increase in power supply.",
+    "op": [
+        "Spikes",
+        "Black out",
+        "Brown outs",
+        "Sags"
+    ],
+    "created_at": "2026-07-06T04:22:44.787439+00:00"
+},
+{
+    "id": 52503,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ site backup is an appropriate choice for organizations if they can bear some downtime.",
+    "op": [
+        "Cool",
+        "Warm",
+        "Cold",
+        "Hot"
+    ],
+    "created_at": "2026-07-06T04:44:10.088635+00:00"
+},
+{
+    "id": 52509,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What would affect the impact’s scope if a risk does occur?",
+    "op": [
+        "Risk resources",
+        "Risk scope",
+        "Risk timing",
+        "Risk cost"
+    ],
+    "created_at": "2026-07-06T04:44:52.549453+00:00"
+},
+{
+    "id": 52552,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Damage caused to the software without physical presence is the outcome of _______________ threat.",
+    "op": [
+        "Privacy",
+        "Physical",
+        "Logical",
+        "Security"
+    ],
+    "created_at": "2026-07-06T04:50:20.327486+00:00"
+},
+{
+    "id": 52577,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The first step after threat attacks the system would be",
+    "op": [
+        "Threat analysis",
+        "Data sensitivity analysis",
+        "Control analysis",
+        "Impact analysis"
+    ],
+    "created_at": "2026-07-06T04:53:03.036437+00:00"
+},
+{
+    "id": 52583,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An effective risk management strategy will need to address _______",
+    "op": [
+        "Risk monitoring",
+        "Risk avoidance",
+        "All of these",
+        "Business continuity planning"
+    ],
+    "created_at": "2026-07-06T04:54:15.393857+00:00"
+},
+{
+    "id": 52585,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Management controls are also known as:",
+    "op": [
+        "Logical controls",
+        "Technical controls",
+        "Non-technical controls",
+        "Scientific controls"
+    ],
+    "created_at": "2026-07-06T04:54:22.15161+00:00"
+},
+{
+    "id": 52800,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Impact needs to be measured to",
+    "op": [
+        "Record thread history",
+        "Define the data criticality",
+        "Identify threat",
+        "Worse scenarios of impact"
+    ],
+    "created_at": "2026-07-06T05:28:02.849898+00:00"
+},
+{
+    "id": 52923,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Determining classification levels along with maintaining accuracy and integrity of the data in the information system is the responsibility of _________.",
+    "op": [
+        "System auditors",
+        "Data owners",
+        "Process owners",
+        "End users"
+    ],
+    "created_at": "2026-07-06T05:43:49.849646+00:00"
+},
+{
+    "id": 52950,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the study of automated methods for uniquely recognizing humans based upon one or more intrinsic physical or behavioral traits?",
+    "op": [
+        "Encryption",
+        "Decryption",
+        "Biometrics",
+        "Cryptography"
+    ],
+    "created_at": "2026-07-06T05:47:33.873966+00:00"
+},
+{
+    "id": 53054,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not phase of risk management?",
+    "op": [
+        "Threat Identification",
+        "Assessing Documentation",
+        "Risk Identification",
+        "Implementation"
+    ],
+    "created_at": "2026-07-06T06:03:13.391461+00:00"
+},
+{
+    "id": 53060,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ is the most harmful type of virus",
+    "op": [
+        "Overwriting virus",
+        "Boot sector virus",
+        "Dropper",
+        "Trojan horse"
+    ],
+    "created_at": "2026-07-06T06:03:36.773951+00:00"
+},
+{
+    "id": 53521,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If data & information is protected against unauthorized modification then which property will hold true?",
+    "op": [
+        "Integrity",
+        "Confidentiality",
+        "Availability",
+        "Criticality"
+    ],
+    "created_at": "2026-07-06T07:33:25.878114+00:00"
+},
+{
+    "id": 53946,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Effective Business continuity plans can not be executed without proper",
+    "op": [
+        "Control management",
+        "Control recommendation",
+        "Control monitoring",
+        "Control implementation"
+    ],
+    "created_at": "2026-07-06T10:15:27.995499+00:00"
+},
+{
+    "id": 66012,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Polymorphism can be defined in terms of ________",
+    "op": [
+        "Having private data",
+        "Having many forms",
+        "Having inherited features",
+        "Having direct access to system"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66025,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following carry characteristics of specialization?",
+    "op": [
+        "Encapsulation",
+        "Super Interfaces",
+        "Sub classes",
+        "super set"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66526,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is a private enterprise owned communication network that uses internet protocols.",
+    "op": [
+        "Intranet",
+        "Wireless communication",
+        "Internet",
+        "Protocol"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66527,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "_______ is a form of communication in object oriented programming",
+    "op": [
+        "Message passing",
+        "Inheritance",
+        "data communication",
+        "chatting"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66548,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "______________helps organization in gaining competitive advantage in the use of processes, effectiveness and efficiency.",
+    "op": [
+        "BPR",
+        "SPR",
+        "CSF",
+        "MIS"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66585,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "KPI measures the _______",
+    "op": [
+        "Achievements",
+        "Risk factor",
+        "Internal changes",
+        "Sales"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66589,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Inheritance can be defined in terms of _______",
+    "op": [
+        "Is based on",
+        "Has kind of",
+        "Is similar to",
+        "Is kind of"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66636,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The mechanism by which the more specific class in a generalization includes the attributes and operations of general class is called ___",
+    "op": [
+        "Association",
+        "Inheritance",
+        "Encapsulation",
+        "Polymorphism"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66727,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Temporal CSFs results from _______",
+    "op": [
+        "Environmental changes",
+        "Technological changes",
+        "Economic changes",
+        "Internal organization needs and changes"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66744,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The main focus of Object Oriented analysis is to study the ____________ of objects.",
+    "op": [
+        "Collaboration",
+        "Implementation",
+        "State",
+        "Sequence"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 67025,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The ability for different classes of objects to respond to identical messages is ______",
+    "op": [
+        "Association",
+        "Encapsulation",
+        "Polymorphism",
+        "Inheritance"
+    ],
+    "created_at": "2026-07-15T13:27:27.326546+00:00"
+},
+{
+    "id": 67882,
+    "cc": "CS507",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "A language mechanism for restricting access to some of the object's components is known as:",
+    "op": [
+        "Object inheritance",
+        "Polymorphism",
+        "Object hiding",
+        "Object Encapsulation"
+    ],
+    "created_at": "2026-07-15T13:27:30.65506+00:00"
+},
+{
+    "id": 70809,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "____________ is a program which undertakes unauthorized activities but looks legitimate.",
+    "op": [
+        "Virus",
+        "Trojan horse",
+        "Worms",
+        "Spyware"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70863,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Internet protocol ______________ provide evidence on the delivery of messages.",
+    "op": [
+        "mostly",
+        "does",
+        "does not",
+        "up to some extent"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70896,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Incase of ____________, an intruder fools a user into thinking they are interacting with the operating system.",
+    "op": [
+        "Trojan horse",
+        "Piggybacking",
+        "Spoofing",
+        "Eavesdropping"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70898,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following involves intercepting communications between the operating system and the user?",
+    "op": [
+        "Masquerading",
+        "Piggybacking",
+        "Spoofing",
+        "Eavesdropping"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70954,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "_______________ allow users to use the facilities of an operating system without being subject to the normal controls.",
+    "op": [
+        "Trapdoors",
+        "Eavesdropping",
+        "Piggybacking",
+        "Spoofing"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70955,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Internet is vulnerable to attacks because of its _____________",
+    "op": [
+        "global access",
+        "scope",
+        "nature",
+        "speed"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 70966,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "An intruder carry out unauthorized activity by impersonating a legitimate user of the system incase of __________________.",
+    "op": [
+        "Eavesdropping",
+        "Spoofing",
+        "Piggybacking",
+        "Masquerading"
+    ],
+    "created_at": "2026-07-15T13:27:52.043639+00:00"
+},
+{
+    "id": 71005,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Data packets are routed across a network with the help of _________________.",
+    "op": [
+        "HTTP protocol",
+        "FTP protocol",
+        "Internet Protocol",
+        "TCP protocol"
+    ],
+    "created_at": "2026-07-15T13:27:57.033399+00:00"
+},
+{
+    "id": 71065,
+    "cc": "CS507",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Which of the following network attacks involves probing for network information?",
+    "op": [
+        "Masquerading",
+        "Passive attacks",
+        "Spoofing",
+        "Active attacks"
+    ],
+    "created_at": "2026-07-15T13:27:57.033399+00:00"
+}
+]

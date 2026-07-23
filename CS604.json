@@ -1,0 +1,2390 @@
+[
+{
+    "id": 23726,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The condition in which a set {P0, P1… Pn} of waiting processes must exist such that P0 is waiting for a resource that is held by P1, P1 is waiting for a resource that is held by P2, and so on, Pn-1 is waiting for a resource held by Pn, and Pn is waiting for a resource held by P0. This condition is known as _____________.",
+    "op": [
+        "Hold and wait",
+        "Circular wait",
+        "No preemption",
+        "Mutual exclusion"
+    ],
+    "created_at": "2026-06-28T19:13:28.468249+00:00"
+},
+{
+    "id": 23731,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Assume a logical address space of 16 pages of 1024 words, each mapped into a physical memory of 32 frames. Each word consists of 2 bytes. What will be the total number of bits required for p (page number)?",
+    "op": [
+        "16 bits",
+        "4 bits",
+        "8 bits",
+        "32 bits"
+    ],
+    "created_at": "2026-06-28T19:13:44.244176+00:00"
+},
+{
+    "id": 23740,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Variable names are ----------- addresses",
+    "op": [
+        "Symbolic",
+        "Physical",
+        "Relative",
+        "Relocatable"
+    ],
+    "created_at": "2026-06-28T19:13:56.417355+00:00"
+},
+{
+    "id": 23755,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "We can perform the solution to critical section problem by allowing only one process to enter at a time but another solution hold some instruction use.one of them is TSL, how it is written in program?",
+    "op": [
+        "TSL ()",
+        "Testandset (Boolean &target)",
+        "TSL (Boolean, &target)",
+        "TestAndSet(Boolean &target)"
+    ],
+    "created_at": "2026-06-28T19:14:19.701078+00:00"
+},
+{
+    "id": 23762,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "_____________ algorithm is used for solving n-process critical section problem.",
+    "op": [
+        "Bankers",
+        "Adams",
+        "Bakery",
+        "Babbles"
+    ],
+    "created_at": "2026-06-28T19:14:36.466275+00:00"
+},
+{
+    "id": 23771,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The _____________________requires that once a writer is ready, that writer performs its write as soon as possible. In other words, if a writer is waiting to access the object, no new readers may start reading.",
+    "op": [
+        "second readers-writers problem",
+        "first readers-writers problem",
+        "third readers-writers problem",
+        "fourth readers-writers problem"
+    ],
+    "created_at": "2026-06-28T19:14:52.331332+00:00"
+},
+{
+    "id": 23773,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In critical section problem __________requirement illustrates that, “There exists a bound on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.”",
+    "op": [
+        "bounded waiting",
+        "mutual exclusion",
+        "fast execution",
+        "progress"
+    ],
+    "created_at": "2026-06-28T19:14:55.734069+00:00"
+},
+{
+    "id": 23780,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The run-time mapping from virtual to physical addresses is done by a piece of hardware in the CPU, called the ------------------",
+    "op": [
+        "CPU Scheduler",
+        "Registers",
+        "None of the given options",
+        "Memory management unit (MMU)"
+    ],
+    "created_at": "2026-06-28T19:15:11.107287+00:00"
+},
+{
+    "id": 23785,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Main Memory is _______________ memory.",
+    "op": [
+        "Permanent",
+        "Non-volatile",
+        "Virtual",
+        "Volatile"
+    ],
+    "created_at": "2026-06-28T19:15:26.122174+00:00"
+},
+{
+    "id": 23786,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In instruction TestAndSet  mutual exclusion implementation is done by declaring a Boolean variable lock ______________.",
+    "op": [
+        "Initialized as true",
+        "Initialized as false",
+        "Initialized as zero",
+        "Initialized as 1"
+    ],
+    "created_at": "2026-06-28T19:15:26.221664+00:00"
+},
+{
+    "id": 23792,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "TSL based solution can implement mutual exclusion, it abbreviates ___________.",
+    "op": [
+        "TestAndSet Instruction",
+        "Test Set Instrument",
+        "Trap Set Solution",
+        "Test Swap Instruction"
+    ],
+    "created_at": "2026-06-28T19:15:41.197524+00:00"
+},
+{
+    "id": 23795,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Binary semaphore whose integer value cannot be can be ____________simpler to implement.",
+    "op": [
+        "<1",
+        "<=1",
+        ">1",
+        ">=1"
+    ],
+    "created_at": "2026-06-28T19:15:44.769292+00:00"
+},
+{
+    "id": 23800,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If the system can allocate resources to each process in some order and still avoid a deadlock then it is said to be in ___________ state.",
+    "op": [
+        "Un-Safe",
+        "Safe",
+        "Starvation",
+        "Mutual"
+    ],
+    "created_at": "2026-06-28T19:15:54.279852+00:00"
+},
+{
+    "id": 23803,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If there exists a logical address space of 16 pages of 1024 words, each mapped into a physical memory of ______ frames.",
+    "op": [
+        "64",
+        "16",
+        "32",
+        "48"
+    ],
+    "created_at": "2026-06-28T19:16:00.941621+00:00"
+},
+{
+    "id": 23815,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "What do we name to an address that is loaded into the memory-address register of the memory?",
+    "op": [
+        "Binary addresses",
+        "None of the given options",
+        "Physical address",
+        "Logical address"
+    ],
+    "created_at": "2026-06-28T19:16:20.492481+00:00"
+},
+{
+    "id": 23823,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The wait operation of the semaphore basically works on the basic _______ system call.",
+    "op": [
+        "stop()",
+        "block()",
+        "wait()",
+        "hold()"
+    ],
+    "created_at": "2026-06-28T19:16:34.997468+00:00"
+},
+{
+    "id": 23832,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Address Binding will be _______ in Multiprogramming with Variable Tasks (MVT)",
+    "op": [
+        "Variable",
+        "Fixed",
+        "Dynamic",
+        "Static"
+    ],
+    "created_at": "2026-06-28T19:16:48.210834+00:00"
+},
+{
+    "id": 23843,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A ________ is an integer variable that, apart from initialization is accessible only through standard atomic operations.",
+    "op": [
+        "Semaphore",
+        "Mutual Exclusion",
+        "Busy Waiting",
+        "Mutex"
+    ],
+    "created_at": "2026-06-28T19:17:04.213943+00:00"
+},
+{
+    "id": 23866,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In deadlock detection and recovery algorithm, a deadlock exists in the system if and only if the wait for graph contains a _____________.",
+    "op": [
+        "Edge",
+        "Graph",
+        "Node",
+        "Cycle"
+    ],
+    "created_at": "2026-06-28T19:17:34.077987+00:00"
+},
+{
+    "id": 23887,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "External Fragmentation takes place in ______________",
+    "op": [
+        "Multi-tasking",
+        "Paging",
+        "Multiprogramming with Variable Tasks (MVT)",
+        "Multiprogramming with Fixed Tasks (MFT)"
+    ],
+    "created_at": "2026-06-28T19:18:05.453054+00:00"
+},
+{
+    "id": 23903,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The -----------scheme is not applicable to a resource allocation system with multiple instances of each resource type.",
+    "op": [
+        "Resource allocation graph",
+        "Both Resource-allocation and wait-for graph",
+        "Wait for graph",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-28T19:18:28.415741+00:00"
+},
+{
+    "id": 23910,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In order to remove the problem like busy waiting, some high level synchronization constructs are defined. What are they?",
+    "op": [
+        "Critical regions and Semaphores",
+        "Critical regions and Monitors"
+    ],
+    "created_at": "2026-06-28T19:18:37.403632+00:00"
+},
+{
+    "id": 23929,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If a system is not in a safe state, there can be NO deadlocks.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:19:07.223986+00:00"
+},
+{
+    "id": 23930,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "---------------keep in memory only those instructions and data that are needed at any given time.",
+    "op": [
+        "Overlays",
+        "Fragmentation",
+        "Paging",
+        "Swapping"
+    ],
+    "created_at": "2026-06-28T19:19:07.602299+00:00"
+},
+{
+    "id": 23948,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "-----------is the process of mapping a name to an address.",
+    "op": [
+        "Addressing",
+        "Memory",
+        "Routing",
+        "Binding"
+    ],
+    "created_at": "2026-06-28T19:19:36.438203+00:00"
+},
+{
+    "id": 23951,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "_____________ is caused due to un-used space in fixed size blocks/ pages.",
+    "op": [
+        "External fragmentation",
+        "Internal fragmentation",
+        "MVT",
+        "Paging"
+    ],
+    "created_at": "2026-06-28T19:19:39.218375+00:00"
+},
+{
+    "id": 23958,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Critical section is a place where certain shared structure is updated. Its solution required certain precaution; one of them is the access to critical section by one process at a time only. What this condition is termed as?",
+    "op": [
+        "Progress",
+        "Entry section",
+        "Bounded waiting",
+        "Mutual exclusion"
+    ],
+    "created_at": "2026-06-28T19:19:50.086043+00:00"
+},
+{
+    "id": 23964,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Banker’s algorithm is used for ________________",
+    "op": [
+        "Deadlock prevention",
+        "Deadlock avoidance",
+        "Deadlock detection",
+        "Deadlock removal"
+    ],
+    "created_at": "2026-06-28T19:19:57.676922+00:00"
+},
+{
+    "id": 23965,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Logical memory is divided into blocks of the same size, called_________ .",
+    "op": [
+        "Table",
+        "Frame",
+        "Page size",
+        "Pages"
+    ],
+    "created_at": "2026-06-28T19:19:58.63414+00:00"
+},
+{
+    "id": 23971,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Resource Allocation Graph, a _________Pi --->Rj indicates that process Pi may request resource Rj at some time in the future.",
+    "op": [
+        "Assignment edge",
+        "Claim edge",
+        "Allocation edge",
+        "Request edge"
+    ],
+    "created_at": "2026-06-28T19:20:12.614124+00:00"
+},
+{
+    "id": 23976,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The situation in which no context switching is required in multiprocessor systems is referred to as _______ .",
+    "op": [
+        "Interrupt",
+        "Busy Waiting",
+        "Scheduler",
+        "Spin lock"
+    ],
+    "created_at": "2026-06-28T19:20:24.313687+00:00"
+},
+{
+    "id": 23987,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the bakery algorithm to solve the critical section problem ____________",
+    "op": [
+        "Each process gets a unique number and the one with the highest number is served next",
+        "Each process receives a number (may or may not be unique) and the one with the lowest number is served next",
+        "Each process is put into a queue and picked up in an ordered manner",
+        "Each process gets a unique number and the one with the lowest number is served next"
+    ],
+    "created_at": "2026-06-28T19:20:39.763384+00:00"
+},
+{
+    "id": 24013,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In critical section problem, each process must first request permission to enter its critical section. The section of code implementing this request is called the_________.",
+    "op": [
+        "remainder section",
+        "sub section",
+        "entry section",
+        "exit section"
+    ],
+    "created_at": "2026-06-28T19:21:36.60037+00:00"
+},
+{
+    "id": 24050,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "___________ is a solution to critical section problem.",
+    "op": [
+        "Lamport’s bakery algorithm",
+        "Banker’s algorithm",
+        "Safety algorithm",
+        "Dijkstra’s algorithm"
+    ],
+    "created_at": "2026-06-28T19:22:22.111036+00:00"
+},
+{
+    "id": 24062,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "________________ is an integer variable accessible through wait and signal which are atomic operations.",
+    "op": [
+        "Signal",
+        "Semaphore",
+        "Busy waiting",
+        "Mutex"
+    ],
+    "created_at": "2026-06-28T19:22:43.019126+00:00"
+},
+{
+    "id": 24063,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The set of all physical addresses corresponding to the logical addresses is a ----------------- of the process",
+    "op": [
+        "None of the given options",
+        "Process address space",
+        "Logical address space",
+        "Physical address space"
+    ],
+    "created_at": "2026-06-28T19:22:43.643876+00:00"
+},
+{
+    "id": 24073,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "__________ consists of a large array of words or bytes, each with its own address.",
+    "op": [
+        "Data",
+        "Hard disk",
+        "Memory",
+        "Stream"
+    ],
+    "created_at": "2026-06-28T19:23:01.861673+00:00"
+},
+{
+    "id": 24078,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Following is not the classical problem of synchronization.",
+    "op": [
+        "Bounded buffer problem",
+        "Counting Semaphore problem",
+        "Dining philosophers problem",
+        "Reader writer problem"
+    ],
+    "created_at": "2026-06-28T19:23:16.135157+00:00"
+},
+{
+    "id": 24082,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Deadlock _______ provides a set of methods for ensuring that at least one of the necessary conditions cannot hold.",
+    "op": [
+        "Recovery",
+        "Handling",
+        "Prevention",
+        "Avoidance"
+    ],
+    "created_at": "2026-06-28T19:23:32.59111+00:00"
+},
+{
+    "id": 24093,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is correct definition for wait operation?",
+    "op": [
+        "wait(S) {\nS++;\n}",
+        "wait(S) {\nwhile(S>=0)\n;// no op\nS--;\n}",
+        "wait(S) {\nS--;\n}",
+        "wait(S) {\nwhile(S<=0)\n;// no op\nS--;\n}"
+    ],
+    "created_at": "2026-06-28T19:23:54.808618+00:00"
+},
+{
+    "id": 24101,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is correct definition for signal operation?",
+    "op": [
+        "signal(S) {\nS--;\n}",
+        "signal(S) {\nwhile(S>=0)\n;// no op\nS--;\n}",
+        "signal(S) {\nS++;\n}",
+        "signal(S) {\nwhile(S<=0)\n;// no op\nS--;\n}"
+    ],
+    "created_at": "2026-06-28T19:24:12.492841+00:00"
+},
+{
+    "id": 24107,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "P1, P2, P3, P4, P5 are five processes with ticket numbers P1=1, P2=2, P3=4, P4=2, P5=4 then considering Lamport’s bakery algorithm, __________ process enters critical section after P1.",
+    "op": [
+        "P3",
+        "P2",
+        "P5",
+        "P4"
+    ],
+    "created_at": "2026-06-28T19:24:28.935631+00:00"
+},
+{
+    "id": 24114,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Object files and libraries are combined by a ------------- program to produce the executable binary",
+    "op": [
+        "Text editor",
+        "Loader",
+        "Compiler",
+        "Linker"
+    ],
+    "created_at": "2026-06-28T19:24:44.765306+00:00"
+},
+{
+    "id": 24122,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "------------ register contains the size of the process",
+    "op": [
+        "Index register",
+        "Limit register",
+        "Stack pointers register",
+        "Base register"
+    ],
+    "created_at": "2026-06-28T19:25:10.091221+00:00"
+},
+{
+    "id": 24525,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Overlay technique, we can overload any part of the program with the part of the program required needed recently.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-28T19:48:09.422157+00:00"
+},
+{
+    "id": 24527,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In hardware multiprocessor environment two instructions are executed ___________ which are swap and TestAndSet.",
+    "op": [
+        "Automatically",
+        "Atomically",
+        "Manually",
+        "By force"
+    ],
+    "created_at": "2026-06-28T19:48:28.598041+00:00"
+},
+{
+    "id": 24534,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The condition where a set of blocked processes each holding a resource and waiting to acquire a resource held by another process in the set, is termed as ________.",
+    "op": [
+        "Starvation",
+        "Deadlock"
+    ],
+    "created_at": "2026-06-28T19:49:05.59216+00:00"
+},
+{
+    "id": 24538,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "___________ is constrained by factors like quantum for RR scheduler and pending I/O for swapped out process.",
+    "op": [
+        "Rollout",
+        "Kernel",
+        "Swapping",
+        "Rollin"
+    ],
+    "created_at": "2026-06-28T19:49:22.384277+00:00"
+},
+{
+    "id": 24540,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "----------holds the smallest legal physical memory address for a process",
+    "op": [
+        "Stack pointers register",
+        "Limit register",
+        "Base register",
+        "Index register"
+    ],
+    "created_at": "2026-06-28T19:49:35.352153+00:00"
+},
+{
+    "id": 24542,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Consider a scenario in which one process P1 enters in its critical section, no other process is allowed to execute in its critical section. This is called ---------------",
+    "op": [
+        "Progress",
+        "Mutual exclusion",
+        "Context switching",
+        "Multithreading"
+    ],
+    "created_at": "2026-06-28T19:49:41.221536+00:00"
+},
+{
+    "id": 24544,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The integer value of ______________ semaphores can range over an unrestricted integer domain.",
+    "op": [
+        "Bounded buffer",
+        "Mutex",
+        "Binary",
+        "Counting"
+    ],
+    "created_at": "2026-06-28T19:49:50.722166+00:00"
+},
+{
+    "id": 24545,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "___________ algorithm is used in Deadlock avoidance.",
+    "op": [
+        "Mutual exclusion",
+        "Safe Sequence",
+        "Bakery",
+        "Banker’s"
+    ],
+    "created_at": "2026-06-28T19:49:52.678889+00:00"
+},
+{
+    "id": 24547,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "_____________ is caused due to un-used space in physical memory.",
+    "op": [
+        "Internal fragmentation",
+        "Paging",
+        "External fragmentation",
+        "MVT"
+    ],
+    "created_at": "2026-06-28T19:50:02.041978+00:00"
+},
+{
+    "id": 24549,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For undivided and uninterrupted testing and setting of semaphore, uni-processor systems tend to _________.",
+    "op": [
+        "Disable interrupts",
+        "Use bakery algorithm",
+        "Use signal",
+        "Use spinlock"
+    ],
+    "created_at": "2026-06-28T19:50:03.835502+00:00"
+},
+{
+    "id": 24552,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While a process executes its critical section, other entering processes loop in a continual fashion in their entry sections, thus causing ___________.",
+    "op": [
+        "Busy waiting",
+        "Bounded waiting",
+        "Mutual exclusion",
+        "Race condition"
+    ],
+    "created_at": "2026-06-28T19:50:14.779839+00:00"
+},
+{
+    "id": 24555,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Use of semaphore create a problem of busy waiting, this wastes CPU cycles that some other process may be able to use productively. This type of semaphore is also called ______________",
+    "op": [
+        "Mutex",
+        "Locking Semaphore",
+        "Semaphore S",
+        "Spinlock"
+    ],
+    "created_at": "2026-06-28T19:50:26.56544+00:00"
+},
+{
+    "id": 24557,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Assume a logical address space of 16 pages, each of 1024 words, each mapped into a physical memory of 32 frames. Each word consists of 2 bytes. What will be the total number of bits required for f (frames)?",
+    "op": [
+        "7",
+        "6",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-06-28T19:50:31.338511+00:00"
+},
+{
+    "id": 24564,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A state is ___________ if the system can allocate resources for each process in some order and still avoid a deadlock.",
+    "op": [
+        "Starvation",
+        "None",
+        "Safe",
+        "Unsafe"
+    ],
+    "created_at": "2026-06-28T19:51:04.733571+00:00"
+},
+{
+    "id": 24756,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In critical section problem __________requirement illustrates that, “If no process is executing in its critical section and some processes wish to enter their critical sections, then only those processes that are not executing in their remainder section can participate in the decision on which will enter its critical section next, and this selection cannot be postponed indefinitely.”",
+    "op": [
+        "progress",
+        "slow execution",
+        "bounded waiting",
+        "mutual exclusion"
+    ],
+    "created_at": "2026-06-28T20:12:24.893206+00:00"
+},
+{
+    "id": 24758,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The main memory is usually divided into partitions, one for  __________ and other for __________ .",
+    "op": [
+        "Operating system, CPU",
+        "Operating System, User processes",
+        "Processes, Virtual Memory",
+        "Base Register, Limit Register"
+    ],
+    "created_at": "2026-06-28T20:12:37.356312+00:00"
+},
+{
+    "id": 24762,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Preventing the condition of _____________ to happen, deadlocks can be prevented to happen.",
+    "op": [
+        "Circular wait",
+        "Monitors",
+        "Critical section",
+        "Critical region"
+    ],
+    "created_at": "2026-06-28T20:13:01.919977+00:00"
+},
+{
+    "id": 24820,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Critical section problem is to __________the concurrent execution of cooperating process.",
+    "op": [
+        "stop",
+        "serialize",
+        "update",
+        "start"
+    ],
+    "created_at": "2026-06-28T20:18:45.264589+00:00"
+},
+{
+    "id": 24823,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The integer value of _________ semaphores can not be greater than 1.",
+    "op": [
+        "Binary",
+        "Bounded buffer",
+        "Counting",
+        "Mutex"
+    ],
+    "created_at": "2026-06-28T20:18:53.828043+00:00"
+},
+{
+    "id": 24828,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Deadlock detection and recovery technique is exactly similar to deadlock avoidance technique to handle deadlock in the system.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-28T20:19:18.686839+00:00"
+},
+{
+    "id": 24852,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A program can not execute unless whole or necessary part of it resides in the main memory.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T20:23:53.555983+00:00"
+},
+{
+    "id": 24854,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "We can use semaphores to deal with the number of  __________process critical section problem.",
+    "op": [
+        "2n",
+        "1",
+        "n",
+        "n-1"
+    ],
+    "created_at": "2026-06-28T20:24:29.887464+00:00"
+},
+{
+    "id": 24859,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Both in two atomic instructions TestAndSet and swap two critical section requirements are satisfied but not _____________.",
+    "op": [
+        "Progress",
+        "Mutual Exclusion",
+        "Bounded Waiting",
+        "Assumptions"
+    ],
+    "created_at": "2026-06-28T20:25:16.198117+00:00"
+},
+{
+    "id": 24861,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Semaphores are used to synchronize ________ processes.",
+    "op": [
+        "Tough",
+        "Running",
+        "Parallel",
+        "Concurrent"
+    ],
+    "created_at": "2026-06-28T20:25:24.374387+00:00"
+},
+{
+    "id": 24908,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "-------------  is a segment of code that accesses a shared resource  like data structure  or device that must not be concurrently accessed by more than one thread of execution.",
+    "op": [
+        "Pipelining",
+        "Context switching",
+        "Multithreading",
+        "Critical section"
+    ],
+    "created_at": "2026-06-28T20:32:59.223766+00:00"
+},
+{
+    "id": 24918,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The size of a page is defined by ________.",
+    "op": [
+        "Logical Memory",
+        "Physical Memory",
+        "Page Table",
+        "CPU"
+    ],
+    "created_at": "2026-06-28T20:34:26.133809+00:00"
+},
+{
+    "id": 25039,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Critical section problem can be solved by using how many ways?",
+    "op": [
+        "4",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-28T21:11:22.218658+00:00"
+},
+{
+    "id": 25041,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The collection of processes that is waiting on the disk to be brought into the memory for execution forms the --------",
+    "op": [
+        "Both input and output queue",
+        "Output queue",
+        "Input queue",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-28T21:11:58.007447+00:00"
+},
+{
+    "id": 25042,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The segment of code in which the process may change common variables, update tables, write into files is known as ____________",
+    "op": [
+        "non – critical section",
+        "critical section",
+        "program",
+        "synchronizing"
+    ],
+    "created_at": "2026-06-28T21:12:11.716983+00:00"
+},
+{
+    "id": 25052,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Removing the possibility of deadlock in dining philosopher problem does not ensure the _____________ problem will not occur.",
+    "op": [
+        "Critical Section",
+        "Mutual Exclusion",
+        "Starvation",
+        "Bounded Buffer"
+    ],
+    "created_at": "2026-06-28T21:15:17.356334+00:00"
+},
+{
+    "id": 25053,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A dashed line is used to represent a __________ in Resource Allocation Graph.",
+    "op": [
+        "Claim edge",
+        "Request edge",
+        "Assignment edge",
+        "Allocation edge"
+    ],
+    "created_at": "2026-06-28T21:15:35.787075+00:00"
+},
+{
+    "id": 25057,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The process of holding at least one resource and waiting to acquire additional resources that are currently being held by other processes is known as _________________.",
+    "op": [
+        "Circular wait",
+        "Mutual exclusion",
+        "Hold and wait",
+        "No preemption"
+    ],
+    "created_at": "2026-06-28T21:16:02.239635+00:00"
+},
+{
+    "id": 25058,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The  ------- is a single program that produces an object file",
+    "op": [
+        "Text editor",
+        "Loader",
+        "Compiler",
+        "Linker"
+    ],
+    "created_at": "2026-06-28T21:16:09.895089+00:00"
+},
+{
+    "id": 25071,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "--------------refers to the situation when free memory space exists to load a process in the memory but the space is not contiguous.",
+    "op": [
+        "Internal fragmentation",
+        "External Fragmentation",
+        "Segmentation",
+        "Swapping"
+    ],
+    "created_at": "2026-06-28T21:21:44.426134+00:00"
+},
+{
+    "id": 25075,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Overlays are implemented by the _________________",
+    "op": [
+        "Kernel",
+        "Operating system",
+        "Programmer",
+        "Shell"
+    ],
+    "created_at": "2026-06-28T21:22:50.908491+00:00"
+},
+{
+    "id": 25076,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Wrong use of wait and signal operations (in context with semaphores) can cause _________ problem(s).",
+    "op": [
+        "Deadlock",
+        "All of the given options are correct",
+        "Mutual Exclusion",
+        "Bounded Waiting"
+    ],
+    "created_at": "2026-06-28T21:23:11.769076+00:00"
+},
+{
+    "id": 25131,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Secondary Storage memory devices have _____________ memory.",
+    "op": [
+        "Temporary",
+        "None of the options is correct",
+        "Volatile",
+        "Permanent and non volatile"
+    ],
+    "created_at": "2026-06-28T21:43:19.55191+00:00"
+},
+{
+    "id": 25134,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Cache is non-volatile memory.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T21:43:38.113571+00:00"
+},
+{
+    "id": 25137,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Address Binding will be at _______ in Multiprogramming with Fixed Tasks (MFT)",
+    "op": [
+        "Dynamic time",
+        "Load time",
+        "None of the given options",
+        "Run time"
+    ],
+    "created_at": "2026-06-28T21:43:59.988762+00:00"
+},
+{
+    "id": 25142,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Using hardware solution to synchronization for complex problems, introduce a new synchronization tool know as _______________.",
+    "op": [
+        "Trap",
+        "TestAndSet",
+        "Swap",
+        "Semaphore"
+    ],
+    "created_at": "2026-06-28T21:44:34.455558+00:00"
+},
+{
+    "id": 25270,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "__________ is used in the detection and recovery mechanism to handle deadlocks.",
+    "op": [
+        "Claim Edge Graph",
+        "Wait-for Graph",
+        "Resource allocation Graph",
+        "Circular Graph"
+    ],
+    "created_at": "2026-06-28T22:06:41.586449+00:00"
+},
+{
+    "id": 25272,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Physical memory is broken down into fixed-sized blocks, called----------- and Logical memory is divided into blocks of the same size, called -----------",
+    "op": [
+        "Holes, segments",
+        "Frames, holes",
+        "Frames, pages",
+        "Pages, Frames"
+    ],
+    "created_at": "2026-06-28T22:07:08.825996+00:00"
+},
+{
+    "id": 25273,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In ------------- technique, memory is divided into several fixed-size partitions.",
+    "op": [
+        "Multiprogramming with Fixed Tasks (MFT)",
+        "Swapping",
+        "Multiprogramming with Variable Tasks (MVT)",
+        "Overlays"
+    ],
+    "created_at": "2026-06-28T22:07:18.688231+00:00"
+},
+{
+    "id": 25274,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Swapping technique of Memory Management, the total amount transfer time is directly proportional to the _________________.",
+    "op": [
+        "amount of space on backing store",
+        "amount of memory swapped",
+        "all the given options are correct",
+        "space on main memory"
+    ],
+    "created_at": "2026-06-28T22:07:37.119738+00:00"
+},
+{
+    "id": 25324,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Consider a system of N processes (Po, P1 …… Pn-1). Each process in its critical section and the process may be changing common variables, updating a table, writing a file etc. No other process is allowed to execute in its critical section. This problem is called -------------.",
+    "op": [
+        "Deadlock Algorithm",
+        "N-Process Critical Section",
+        "Bakery Algorithm",
+        "N-Mutual Exclusion"
+    ],
+    "created_at": "2026-06-28T23:23:27.609837+00:00"
+},
+{
+    "id": 25325,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Access of variable Semaphore is possible only through two atomic operation ______________ and _____________.",
+    "op": [
+        "Lock, key",
+        "Boolean, integer",
+        "Wait, signal",
+        "TestAndSet, Swap"
+    ],
+    "created_at": "2026-06-28T23:24:12.985333+00:00"
+},
+{
+    "id": 25342,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The system maintains a ____________ of all processes whose memory images are on the backing store or in memory and are ready to run.",
+    "op": [
+        "Environment",
+        "Queue",
+        "Ready Queue",
+        "List"
+    ],
+    "created_at": "2026-06-28T23:44:00.081454+00:00"
+},
+{
+    "id": 25343,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When the address used in a program gets converted to an actual physical RAM address, it is called ------------",
+    "op": [
+        "Address Binding",
+        "Compiling",
+        "Loading",
+        "Execution"
+    ],
+    "created_at": "2026-06-28T23:45:06.165778+00:00"
+},
+{
+    "id": 25345,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The problem of Deadlocks can be solved by __________ method(s).",
+    "op": [
+        "All of the given",
+        "Deadlock avoidance",
+        "Deadlock prevention",
+        "Allowing deadlock to occur, then detect and recover"
+    ],
+    "created_at": "2026-06-28T23:47:49.440061+00:00"
+},
+{
+    "id": 25346,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The size of pages and frames are same in logical memory and physical memory respectively.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T23:51:33.58407+00:00"
+},
+{
+    "id": 25348,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The solution type where in critical section we use “entry section and “exit section” is called kind of _______________.",
+    "op": [
+        "Operating System Solution",
+        "Software Solution",
+        "Hardware Solution",
+        "Assumption"
+    ],
+    "created_at": "2026-06-28T23:54:00.759023+00:00"
+},
+{
+    "id": 25393,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Typically monitor, a high level synchronization tool is characterized by ___________ and ______________.",
+    "op": [
+        "Global variable,local variable",
+        "Signal, wait",
+        "Local variables, semaphores",
+        "Local data, programmer defined operators"
+    ],
+    "created_at": "2026-06-29T00:12:44.447815+00:00"
+},
+{
+    "id": 25395,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Keep in mind scheduling algorithm, when you go to any famous fast food franchise .On entering the store, each customer receives a number. The customer with the lowest number is served next. This algorithm is called-------------.",
+    "op": [
+        "Bakery algorithm",
+        "Dijkastra algorithm",
+        "Simple algorithm",
+        "Deadlock algorithm"
+    ],
+    "created_at": "2026-06-29T00:14:18.45978+00:00"
+},
+{
+    "id": 25396,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "What do we name to an address that is generated by the CPU?",
+    "op": [
+        "Binary addresses",
+        "Physical address",
+        "Logical address",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-29T00:14:57.716628+00:00"
+},
+{
+    "id": 25407,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Addresses generated relative to part of program, not to start of physical memory are",
+    "op": [
+        "Symbolic",
+        "Physical",
+        "Relocatable",
+        "Virtual"
+    ],
+    "created_at": "2026-06-29T00:21:26.597607+00:00"
+},
+{
+    "id": 25452,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Semaphore S is a/an _________ type of variable to use as synchronization tool.",
+    "op": [
+        "Boolean",
+        "Integer",
+        "Float",
+        "Double"
+    ],
+    "created_at": "2026-06-29T00:39:14.76999+00:00"
+},
+{
+    "id": 25453,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In producer-Consumer problem synchronization is required. On which shared area this synchronization actually affect?",
+    "op": [
+        "Buffer",
+        "Exit section",
+        "Counter",
+        "Entry section"
+    ],
+    "created_at": "2026-06-29T00:40:55.287707+00:00"
+},
+{
+    "id": 25475,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In_____________, the library files are linked at load time.",
+    "op": [
+        "Static Linking",
+        "Dynamic Linking"
+    ],
+    "created_at": "2026-06-29T00:56:56.53202+00:00"
+},
+{
+    "id": 25699,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Possible side effects of __________deadlocks are low device utilization and reduced system throughput.",
+    "op": [
+        "Ignoring",
+        "Avoiding",
+        "Preventing",
+        "Recovering"
+    ],
+    "created_at": "2026-06-29T02:39:40.529911+00:00"
+},
+{
+    "id": 25781,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Every --------------generated by the CPU is divided into two parts: a page number \n(p) and a page offset (d).",
+    "op": [
+        "Process address space",
+        "Logical address",
+        "Physical address",
+        "Page"
+    ],
+    "created_at": "2026-06-29T02:58:01.430308+00:00"
+},
+{
+    "id": 26107,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Deadlock can be deal with ______________ways.",
+    "op": [
+        "2",
+        "3",
+        "6",
+        "4"
+    ],
+    "created_at": "2026-06-29T04:22:44.323101+00:00"
+},
+{
+    "id": 42839,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Critical section problem is to __________the concurrent execution of cooperating process.",
+    "op": [
+        "stop",
+        "start",
+        "serialize",
+        "update"
+    ],
+    "created_at": "2026-06-30T03:47:31.659758+00:00"
+},
+{
+    "id": 42840,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Preventing the condition of _____________ to happen, deadlocks can be prevented to happen.",
+    "op": [
+        "Circular wait",
+        "Critical region",
+        "Monitors",
+        "Critical section"
+    ],
+    "created_at": "2026-06-30T03:48:11.558242+00:00"
+},
+{
+    "id": 42841,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The set of all physical addresses corresponding to the logical addresses is a ----------------- of the process",
+    "op": [
+        "None of the given options",
+        "Logical address space",
+        "Process address space",
+        "Physical address space"
+    ],
+    "created_at": "2026-06-30T03:48:57.460601+00:00"
+},
+{
+    "id": 42842,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Keep in mind scheduling algorithm, when you go to any famous fast food franchise .On entering the store, each customer receives a number. The customer with the lowest number is served next. This algorithm is called-------------.",
+    "op": [
+        "Bakery algorithm",
+        "Deadlock algorithm",
+        "Simple algorithm",
+        "Dijkastra algorithm"
+    ],
+    "created_at": "2026-06-30T03:49:25.255656+00:00"
+},
+{
+    "id": 42843,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In producer-Consumer problem synchronization is required. On which shared area this synchronization actually affect?",
+    "op": [
+        "Buffer",
+        "Exit section",
+        "Counter",
+        "Entry section"
+    ],
+    "created_at": "2026-06-30T03:50:04.768483+00:00"
+},
+{
+    "id": 42844,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The integer value of ______________ semaphores can range over an unrestricted integer domain.",
+    "op": [
+        "Counting",
+        "Mutex",
+        "Bounded buffer",
+        "Binary"
+    ],
+    "created_at": "2026-06-30T03:51:04.632151+00:00"
+},
+{
+    "id": 42845,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The  ------- is a single program that produces an object file",
+    "op": [
+        "Text editor",
+        "Linker",
+        "Loader",
+        "Compiler"
+    ],
+    "created_at": "2026-06-30T03:51:50.186975+00:00"
+},
+{
+    "id": 42846,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "We can perform the solution to critical section problem by allowing only one process to enter at a time but another solution hold some instruction use.one of them is TSL, how it is written in program?",
+    "op": [
+        "Testandset (Boolean &target)",
+        "TSL ()",
+        "TSL (Boolean, &target)",
+        "TestAndSet(Boolean &target)"
+    ],
+    "created_at": "2026-06-30T03:52:18.28729+00:00"
+},
+{
+    "id": 42847,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Secondary Storage memory devices have _____________ memory.",
+    "op": [
+        "None of the options is correct",
+        "Temporary",
+        "Volatile",
+        "Permanent and non volatile"
+    ],
+    "created_at": "2026-06-30T03:52:56.019186+00:00"
+},
+{
+    "id": 42848,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The -----------scheme is not applicable to a resource allocation system with multiple instances of each resource type.",
+    "op": [
+        "Resource allocation graph",
+        "None of the given options",
+        "Wait for graph",
+        "Both Resource-allocation and wait-for graph"
+    ],
+    "created_at": "2026-06-30T03:54:13.212328+00:00"
+},
+{
+    "id": 42850,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The size of pages and frames are same in logical memory and physical memory respectively.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-30T07:51:46.382031+00:00"
+},
+{
+    "id": 42851,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Banker’s algorithm is used for ________________",
+    "op": [
+        "Deadlock avoidance",
+        "Deadlock removal",
+        "Deadlock prevention",
+        "Deadlock detection"
+    ],
+    "created_at": "2026-06-30T07:52:00.441305+00:00"
+},
+{
+    "id": 42852,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Address Binding will be at _______ in Multiprogramming with Fixed Tasks (MFT)",
+    "op": [
+        "Run time",
+        "Load time",
+        "None of the given options",
+        "Dynamic time"
+    ],
+    "created_at": "2026-06-30T07:52:11.363954+00:00"
+},
+{
+    "id": 42853,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The solution type where in critical section we use “entry section and “exit section” is called kind of _______________.",
+    "op": [
+        "Assumption",
+        "Operating System Solution",
+        "Hardware Solution",
+        "Software Solution"
+    ],
+    "created_at": "2026-06-30T07:52:22.244101+00:00"
+},
+{
+    "id": 42854,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The size of a page is defined by ________.",
+    "op": [
+        "CPU",
+        "Logical Memory",
+        "Page Table",
+        "Physical Memory"
+    ],
+    "created_at": "2026-06-30T07:52:35.595158+00:00"
+},
+{
+    "id": 42855,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Critical section is a place where certain shared structure is updated. Its solution required certain precaution; one of them is the access to critical section by one process at a time only. What this condition is termed as?",
+    "op": [
+        "Bounded waiting",
+        "Mutual exclusion",
+        "Progress",
+        "Entry section"
+    ],
+    "created_at": "2026-06-30T07:52:46.765221+00:00"
+},
+{
+    "id": 42856,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In Overlay technique, we can overload any part of the program with the part of the program required needed recently.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-30T07:52:56.366764+00:00"
+},
+{
+    "id": 42857,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "In critical section problem __________requirement illustrates that, “There exists a bound on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.”",
+    "op": [
+        "fast execution",
+        "bounded waiting",
+        "mutual exclusion",
+        "progress"
+    ],
+    "created_at": "2026-06-30T07:53:06.319624+00:00"
+},
+{
+    "id": 42858,
+    "cc": "CS604",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The main memory is usually divided into partitions, one for  __________ and other for __________ .",
+    "op": [
+        "Base Register, Limit Register",
+        "Operating System, User processes",
+        "Operating system, CPU",
+        "Processes, Virtual Memory"
+    ],
+    "created_at": "2026-06-30T07:53:18.501253+00:00"
+},
+{
+    "id": 47459,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "There are ________steps, which are necessary to create a file",
+    "op": [
+        "5",
+        "3",
+        "2",
+        "4"
+    ],
+    "created_at": "2026-07-05T19:01:58.042487+00:00"
+},
+{
+    "id": 47480,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Segmentation is a memory management scheme that supports __________?",
+    "op": [
+        "Hardware’s view of memory",
+        "Programmer’s view of memory",
+        "None of the given",
+        "System’s view of memory"
+    ],
+    "created_at": "2026-07-05T19:02:13.879786+00:00"
+},
+{
+    "id": 47508,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In a UNIX system,__________ system call can be used to request the operating system to memory map an opened file.",
+    "op": [
+        "mmap( )",
+        "exec( )",
+        "fork ( )",
+        "read( )"
+    ],
+    "created_at": "2026-07-05T19:02:37.87718+00:00"
+},
+{
+    "id": 47524,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "------------------points to the page table",
+    "op": [
+        "Page-table base register (PTBR)",
+        "Page-table length register (PRLR)",
+        "Page offset",
+        "Translation look-aside buffers"
+    ],
+    "created_at": "2026-07-05T19:02:50.926852+00:00"
+},
+{
+    "id": 47536,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Intel is basically designed for following Operating Systems except __________.",
+    "op": [
+        "Linux",
+        "MULTICS",
+        "Windows",
+        "OS/2"
+    ],
+    "created_at": "2026-07-05T19:03:02.510078+00:00"
+},
+{
+    "id": 47553,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Optimal Page Replacement Algorithm provides a benchmark in assessing other page replacement algorithms.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T19:03:20.017278+00:00"
+},
+{
+    "id": 47569,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "LRU page replacement algorithm can be implemented by",
+    "op": [
+        "linked list",
+        "all of the given options",
+        "stack",
+        "counter"
+    ],
+    "created_at": "2026-07-05T19:03:36.095662+00:00"
+},
+{
+    "id": 47581,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In ______ allocation scheme number of frames allocated to a process is proportional to its size .",
+    "op": [
+        "Priority Allocation",
+        "None of the given options",
+        "Proportional Allocation",
+        "Fixed Allocation"
+    ],
+    "created_at": "2026-07-05T19:03:50.940322+00:00"
+},
+{
+    "id": 47606,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "ST in logical addressing stands for ________ .",
+    "op": [
+        "None of the Given",
+        "Smart Trap",
+        "String Table",
+        "Segment Table"
+    ],
+    "created_at": "2026-07-05T19:04:07.416364+00:00"
+},
+{
+    "id": 47631,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In case of thrashing if CPU utilization is too low the operating system ______ the degree of multiprogramming.",
+    "op": [
+        "sometimes increases and sometimes decreases",
+        "increases",
+        "decreases",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-05T19:04:23.473017+00:00"
+},
+{
+    "id": 47921,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The term pager is used in connection with ________________.",
+    "op": [
+        "Paged Segmentation",
+        "Demand Paging",
+        "Paging",
+        "Segmentation"
+    ],
+    "created_at": "2026-07-05T19:07:46.522428+00:00"
+},
+{
+    "id": 47944,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The frame that has been modified during execution of a process is usually called _________ frame.",
+    "op": [
+        "Overwritten",
+        "Dirty",
+        "Ideal",
+        "Clean"
+    ],
+    "created_at": "2026-07-05T19:08:12.7839+00:00"
+},
+{
+    "id": 47954,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Intel 80386 used paged segmentation with _________ level paging.",
+    "op": [
+        "Three",
+        "Four",
+        "One",
+        "Two"
+    ],
+    "created_at": "2026-07-05T19:08:23.196031+00:00"
+},
+{
+    "id": 47989,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Following schemes allow efficient implementations of page tables EXCEPT",
+    "op": [
+        "Inverted Page Table",
+        "Hierarchical / Multilevel Paging",
+        "Hashed Page Table",
+        "Binary Page Table"
+    ],
+    "created_at": "2026-07-05T19:08:46.953974+00:00"
+},
+{
+    "id": 48023,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "When the process tries to access locations that are not in memory, the hardware traps the operating system. This is called as ___________.",
+    "op": [
+        "Page replacement",
+        "Segmentation",
+        "Page Fault",
+        "Paging"
+    ],
+    "created_at": "2026-07-05T19:09:06.778918+00:00"
+},
+{
+    "id": 48056,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In pages segmentation, the logical address is legal if d is _________segment length.",
+    "op": [
+        "Greater than",
+        "Less than",
+        "Equal to",
+        "Greater than or equal to"
+    ],
+    "created_at": "2026-07-05T19:09:29.456004+00:00"
+},
+{
+    "id": 48536,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Following statement is NOT true about Virtual memory.",
+    "op": [
+        "Virtual memory also allows files and memory to be shared by several different processes through page sharing.",
+        "Virtual memory makes the processes to stuck when the collective size of all the processes becomes greater than the size of main memory.",
+        "Virtual memory help in executing bigger programs even greater in size that of main memory.",
+        "Virtual memory makes the task of programming easier because the programmer need not worry about the amount of physical memory,"
+    ],
+    "created_at": "2026-07-05T19:16:31.091528+00:00"
+},
+{
+    "id": 48549,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The logical address of Intel 80386 is _________.",
+    "op": [
+        "128 bits",
+        "64 bits",
+        "48 bits",
+        "36 bits"
+    ],
+    "created_at": "2026-07-05T19:16:43.294796+00:00"
+},
+{
+    "id": 48606,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "An optimal page-replacement algorithm has the lowest page fault rate of all algorithms.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T19:17:42.426032+00:00"
+},
+{
+    "id": 48626,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "How does a logical-address space is represented?",
+    "op": [
+        "Through Segments",
+        "Through Critical section"
+    ],
+    "created_at": "2026-07-05T19:17:55.821539+00:00"
+},
+{
+    "id": 48661,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Each page is a power of -------- bytes long in paging scheme.",
+    "op": [
+        "3",
+        "5",
+        "2",
+        "4"
+    ],
+    "created_at": "2026-07-05T19:18:32.15903+00:00"
+},
+{
+    "id": 48693,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In paged segmentation, we divide every segment in a process into __________ pages.",
+    "op": [
+        "Fixed size",
+        "Variable size"
+    ],
+    "created_at": "2026-07-05T19:19:11.019834+00:00"
+},
+{
+    "id": 48723,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "To eliminate external fragmentation in segmentation the scheme used is ___________.",
+    "op": [
+        "Fixed size partition scheme",
+        "Variable size paging scheme",
+        "Variable size partition scheme",
+        "Fixed size paging scheme"
+    ],
+    "created_at": "2026-07-05T19:19:52.392604+00:00"
+},
+{
+    "id": 48724,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "_________ allows directories to have shared sub directories and files.",
+    "op": [
+        "Tree structure",
+        "None",
+        "Both (Acyclic graph and tree structure)",
+        "Acyclic graph"
+    ],
+    "created_at": "2026-07-05T19:19:53.283275+00:00"
+},
+{
+    "id": 48733,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The main criteria for Page Replacement in Optimal Page Replacement Algorithm is to",
+    "op": [
+        "replace the page which is biggest in size",
+        "replace the page which is smaller in size",
+        "replace that page which will not be used for the longest period of time.",
+        "replace that page which will be required most frequently in the execution of a process"
+    ],
+    "created_at": "2026-07-05T19:20:05.352858+00:00"
+},
+{
+    "id": 48747,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Memory protection in paging is achieved by associating ___________ with each page. This bit indicates whether the page is in the process address space or not.",
+    "op": [
+        "segment table",
+        "counting bits",
+        "paging table",
+        "protection bits"
+    ],
+    "created_at": "2026-07-05T19:20:21.931044+00:00"
+},
+{
+    "id": 48754,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "____________ is commonly implemented as demand paging.",
+    "op": [
+        "Logical Addressing",
+        "Paging",
+        "Virtual Memory",
+        "Physical Memory"
+    ],
+    "created_at": "2026-07-05T19:20:28.283084+00:00"
+},
+{
+    "id": 48760,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A page table needed for keeping track of pages of the page table is called --------------",
+    "op": [
+        "Page size",
+        "Page directory",
+        "2-level paging",
+        "Page table size"
+    ],
+    "created_at": "2026-07-05T19:20:32.533093+00:00"
+},
+{
+    "id": 48770,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In __________ scheme free frames are equally divided among processes.",
+    "op": [
+        "None of the given options",
+        "Fixed Allocation",
+        "Proportional Allocation",
+        "Priority Allocation"
+    ],
+    "created_at": "2026-07-05T19:20:42.130022+00:00"
+},
+{
+    "id": 48774,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "We want a page replacement algorithm with the _____________ page-fault rate.",
+    "op": [
+        "Lowest",
+        "None of the given",
+        "Highest",
+        "Normal"
+    ],
+    "created_at": "2026-07-05T19:20:45.396644+00:00"
+},
+{
+    "id": 48810,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "__________is a variation of fork system call in several Unix operating system.",
+    "op": [
+        "avfork ( )",
+        "bfork ( )",
+        "vfork ( )",
+        "wfork ( )"
+    ],
+    "created_at": "2026-07-05T19:21:35.264771+00:00"
+},
+{
+    "id": 48864,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The segment table maps the _________________ to physical addresses.",
+    "op": [
+        "Two-dimensional logical addresses",
+        "One-dimensional logical addresses",
+        "Page addresses",
+        "Shared page addresses"
+    ],
+    "created_at": "2026-07-05T19:22:50.57711+00:00"
+},
+{
+    "id": 48966,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "For some page replacement algorithms, the page fault rate may increase as the number of allocated frames __________.",
+    "op": [
+        "increased",
+        "constant",
+        "decreased",
+        "All of the given"
+    ],
+    "created_at": "2026-07-05T19:26:12.776637+00:00"
+},
+{
+    "id": 48969,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "______________is the operating system’s attempt to improve the computer system’s utilization and throughput.",
+    "op": [
+        "Exec",
+        "Demand Paging",
+        "Thrashing",
+        "Fork"
+    ],
+    "created_at": "2026-07-05T19:26:19.585157+00:00"
+},
+{
+    "id": 48993,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In _____________ page replacement algorithm we will replace the page that has not been used for the longest period of time.",
+    "op": [
+        "LRU",
+        "FIFO",
+        "Least Frequently Used",
+        "Counter based"
+    ],
+    "created_at": "2026-07-05T19:27:01.735686+00:00"
+},
+{
+    "id": 48998,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "FIFO Page Replacement Algorithm has the lowest page fault rate",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T19:27:09.432176+00:00"
+},
+{
+    "id": 49498,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "_____________is the separation of user logical memory from physical memory.",
+    "op": [
+        "Physical memory",
+        "None of the given options",
+        "Virtual Memory",
+        "ROM"
+    ],
+    "created_at": "2026-07-05T19:43:14.706401+00:00"
+},
+{
+    "id": 49506,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The address generated by the CPU, after any indexing or other addressing-mode arithmetic, is called a --------address, and the address it gets translated to by the MMU is called a ---------address.",
+    "op": [
+        "Valid, invalid",
+        "Physical, Virtual",
+        "Hexadecimal, Binary",
+        "Virtual, physical"
+    ],
+    "created_at": "2026-07-05T19:43:37.096879+00:00"
+},
+{
+    "id": 49510,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The __________ protection scheme guards against a process trying to access a page that does not belong to its address space.",
+    "op": [
+        "Secondary",
+        "Primary",
+        "Hybrid",
+        "Tertiary"
+    ],
+    "created_at": "2026-07-05T19:43:46.022296+00:00"
+},
+{
+    "id": 49554,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "It is not possible to run a program whose size is greater than the size of the main memory.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T19:45:35.600096+00:00"
+},
+{
+    "id": 49561,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The main objective of LRU Page Replacement Algorithm is to",
+    "op": [
+        "replace that page which is referenced most frequently",
+        "replace the page which is replaced most recently",
+        "replace that page which was used most previously",
+        "replace the page which is used urgently"
+    ],
+    "created_at": "2026-07-05T19:45:46.148181+00:00"
+},
+{
+    "id": 49567,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Logical address is defined by which tuple/tuples?",
+    "op": [
+        "Paging",
+        "Indexed number and offset",
+        "Segment number and offset",
+        "Physical address"
+    ],
+    "created_at": "2026-07-05T19:46:01.868696+00:00"
+},
+{
+    "id": 49822,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A process is _____________if it is spending more time on paging",
+    "op": [
+        "Fixed Allocation",
+        "Thrashing",
+        "Demand paging",
+        "Paging"
+    ],
+    "created_at": "2026-07-05T19:57:42.315096+00:00"
+},
+{
+    "id": 49861,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "___________ is a memory management scheme that supports programmer’s view of Memory.",
+    "op": [
+        "Segmentation",
+        "Stack",
+        "Fragmentation",
+        "Assembly"
+    ],
+    "created_at": "2026-07-05T20:00:20.827734+00:00"
+},
+{
+    "id": 49988,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In memory management programmer’s view of memory representation is called ________________.",
+    "op": [
+        "Segmentation",
+        "Physical address",
+        "Offset",
+        "Logical address"
+    ],
+    "created_at": "2026-07-05T20:10:37.207248+00:00"
+},
+{
+    "id": 50092,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Following are the advantages of Virtual memory EXCEPT",
+    "op": [
+        "Concept of memory mapped files",
+        "Efficient process creation",
+        "Low CPU consumption",
+        "Running large sized processes"
+    ],
+    "created_at": "2026-07-05T20:19:23.146316+00:00"
+},
+{
+    "id": 50098,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The ____________ command is used to create both soft and hard links.",
+    "op": [
+        "lS",
+        "mv",
+        "ln",
+        "pwd"
+    ],
+    "created_at": "2026-07-05T20:19:45.749857+00:00"
+},
+{
+    "id": 50707,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "This __________ algorithm is based on the locality of reference concept.",
+    "op": [
+        "Page Buffering Algorithm",
+        "All of above",
+        "Most Frequently Used (MFU)",
+        "Least Frequently Used (LFU)"
+    ],
+    "created_at": "2026-07-05T22:29:35.788174+00:00"
+},
+{
+    "id": 50934,
+    "cc": "CS604",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The major criterion in the selection of a particular algorithm is that we want to ______________",
+    "op": [
+        "minimize the number of page faults.",
+        "maximize the number of page faults.",
+        "reduce running time of page replacement algorithm.",
+        "increase efficiency."
+    ],
+    "created_at": "2026-07-05T23:49:47.369949+00:00"
+}
+]

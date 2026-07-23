@@ -1,0 +1,1122 @@
+[
+{
+    "id": 24442,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____________, project risks, and technical risks are the three main types of risks that are faced by almost every project.",
+    "op": [
+        "Global risks",
+        "Sales risks",
+        "Business risks",
+        "Semantic risks"
+    ],
+    "created_at": "2026-06-28T19:40:00.336175+00:00"
+},
+{
+    "id": 24446,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of moving range and individual control charts, UCL stands for:",
+    "op": [
+        "Upper Control Line",
+        "Upper Control Limit",
+        "Universal Control Limit",
+        "Universal Control Line"
+    ],
+    "created_at": "2026-06-28T19:40:13.631328+00:00"
+},
+{
+    "id": 24449,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Software Project Planning is an activity carried out by the_______________.",
+    "op": [
+        "Project Manager",
+        "Software Developer",
+        "SQA team",
+        "Requirements Engineers"
+    ],
+    "created_at": "2026-06-28T19:40:30.988237+00:00"
+},
+{
+    "id": 24452,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Risk Analysis and management involves addressing the following concerns  except",
+    "op": [
+        "What can happen if the web interface of the company’s website will change",
+        "What options do we have for each risk",
+        "What thing may go wrong in future",
+        "What change might cause the risk to strike"
+    ],
+    "created_at": "2026-06-28T19:40:53.831704+00:00"
+},
+{
+    "id": 24455,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Empirical models are statistical models and are based upon ...............",
+    "op": [
+        "Statistical",
+        "Current data",
+        "Historic data",
+        "Control data"
+    ],
+    "created_at": "2026-06-28T19:41:07.53332+00:00"
+},
+{
+    "id": 24458,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In the context of statistical models, COCOMO stands for:",
+    "op": [
+        "Commutative Conduct Model",
+        "Conductive Cold Model",
+        "Computer Company Model",
+        "Constructive Cost Model"
+    ],
+    "created_at": "2026-06-28T19:41:26.732127+00:00"
+},
+{
+    "id": 24462,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The most common way to determine the information needed to define    project scope is to",
+    "op": [
+        "perform a market analysis to determine potential customers",
+        "build a software prototype and show it to the customer",
+        "examine historical project data from similar applications",
+        "conduct a preliminary meeting with the customer"
+    ],
+    "created_at": "2026-06-28T19:41:45.448495+00:00"
+},
+{
+    "id": 24467,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of moving range and individual control charts, LNPL stands for:",
+    "op": [
+        "Lower Natural Process Line",
+        "Least Natural Process Limit",
+        "Lower Natural Process Limit",
+        "Least Natural Process Line"
+    ],
+    "created_at": "2026-06-28T19:42:02.182663+00:00"
+},
+{
+    "id": 24470,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "In context of \"Individual control chart\", if a single metrics value lies outside UNPL, it means that:",
+    "op": [
+        "Process is out of control",
+        "The process is not mature yet",
+        "Process is within control",
+        "The process has been matured"
+    ],
+    "created_at": "2026-06-28T19:42:20.710567+00:00"
+},
+{
+    "id": 24471,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the gap between the defects reported and defects fixed is increasing, then it means that:",
+    "op": [
+        "The product is near deployment",
+        "The product is in stable condition",
+        "The product is in unstable condition",
+        "The product is in status quo"
+    ],
+    "created_at": "2026-06-28T19:42:22.459066+00:00"
+},
+{
+    "id": 24474,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not related to “Software Project Planning”.",
+    "op": [
+        "Software configuration management",
+        "Software scope estimation",
+        "Resources requirements",
+        "Risk analysis and planning"
+    ],
+    "created_at": "2026-06-28T19:42:43.26454+00:00"
+},
+{
+    "id": 24476,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the gap between the defects reported and defects fixed is decreasing, then it means that the product is in ___________ condition.",
+    "op": [
+        "Unstable",
+        "Defective",
+        "Stable",
+        "Neutral"
+    ],
+    "created_at": "2026-06-28T19:43:06.50003+00:00"
+},
+{
+    "id": 24479,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "29 June 2026",
+    "qt": "Identify the TRUE statement:",
+    "op": [
+        "Process metrics never vary from project to project",
+        "Same process metrics may vary from project to project",
+        "Process Metrics applied on one project can not be applied on other",
+        "Fixed number of Process metrics are applied for every project"
+    ],
+    "created_at": "2026-06-28T19:43:26.227601+00:00"
+},
+{
+    "id": 24483,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Risk mitigation involves______________.",
+    "op": [
+        "Reducing the risk management plan",
+        "Redesigning the contingency plan",
+        "Reducing the impact of risk",
+        "Performing the risk analysis again"
+    ],
+    "created_at": "2026-06-28T19:43:57.693323+00:00"
+},
+{
+    "id": 24485,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "___________ tries to ask and answer questions related to Product size, Business impact, Process definition, Staff size, experience, etc. for each software project.",
+    "op": [
+        "Risk Prevention",
+        "Informal reviews",
+        "Risk item checklist",
+        "Formal reviews"
+    ],
+    "created_at": "2026-06-28T19:44:34.067748+00:00"
+},
+{
+    "id": 24487,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "The most famous of Empirical models is the COCOMO - Constructive Cost Model – model. It also has many different versions. Which one is the  simplest of these versions ?",
+    "op": [
+        "E = 3.2 (KLOC)1.05",
+        "E = [LOC x 0.333/P]3 x (1/t4)",
+        "E = A + B * (ev)C",
+        "E = (3.2/KLOC) + 1.05 + A"
+    ],
+    "created_at": "2026-06-28T19:44:53.099675+00:00"
+},
+{
+    "id": 24503,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "___________ is concerned about dealing with the resultant software and ensuring that it will be easy to correct, enhance, and adapt.",
+    "op": [
+        "Performance risks",
+        "Support risks",
+        "Cost risks",
+        "Schedule risks"
+    ],
+    "created_at": "2026-06-28T19:46:00.15646+00:00"
+},
+{
+    "id": 25154,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "………………… interfaces contains data that is shared with other programs.",
+    "op": [
+        "Internal",
+        "Logical",
+        "User",
+        "External"
+    ],
+    "created_at": "2026-06-28T21:48:09.733032+00:00"
+},
+{
+    "id": 25156,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Every project has a defined number of staff members. As time allocation occurs, the project manager must ensure that no more than the allocated number of ------------- have been scheduled at any given time.",
+    "op": [
+        "Components",
+        "Task",
+        "Days",
+        "People"
+    ],
+    "created_at": "2026-06-28T21:48:21.03936+00:00"
+},
+{
+    "id": 25157,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": ".........technique was initially developed for manufacturing processes in the 1920’s by Walter Shewart.",
+    "op": [
+        "Contorl chart",
+        "Quality",
+        "Upper Control Line",
+        "CMP"
+    ],
+    "created_at": "2026-06-28T21:48:25.73093+00:00"
+},
+{
+    "id": 25158,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the most appropriate statement:",
+    "op": [
+        "The quality of the software specification is of no importance.",
+        "The quality of the software specification is of extreme importance.",
+        "The non functional requirements can be skipped.",
+        "The non functional requirements does not impact the quality of product."
+    ],
+    "created_at": "2026-06-28T21:48:31.432381+00:00"
+},
+{
+    "id": 25159,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "FAST is a team-oriented approach to requirement gathering, the term FAST stands for:",
+    "op": [
+        "Field Applied Science Technique",
+        "Fast Application Security Technique",
+        "Facilitated Application Specification Techniques",
+        "Fact Associated Special Talk"
+    ],
+    "created_at": "2026-06-28T21:48:36.929067+00:00"
+},
+{
+    "id": 25161,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Formula for the Risk Exposure (RE) is given by _________.",
+    "op": [
+        "RE = (Probability of the risk + Cost) / 2",
+        "RE = Probability of the risk + Cost",
+        "RE = Probability of the risk * Cost",
+        "RE = Probability of the risk / Cost"
+    ],
+    "created_at": "2026-06-28T21:48:41.268773+00:00"
+},
+{
+    "id": 25162,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "…………… files are the logical files that the customer understands and must be maintained by the system.",
+    "op": [
+        "External",
+        "Logical",
+        "Raw",
+        "Internal"
+    ],
+    "created_at": "2026-06-28T21:48:45.542379+00:00"
+},
+{
+    "id": 25307,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Control charts are of the following two types:",
+    "op": [
+        "Moving range control charts and Stable control charts",
+        "Independent control charts and Stable control charts",
+        "Moving range control charts and Individual control charts",
+        "Individual control charts and Stable control charts"
+    ],
+    "created_at": "2026-06-28T23:03:18.090065+00:00"
+},
+{
+    "id": 25308,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The consequences or impact of risk will be _____________ when the project will show Failure to meet its requirements and hence will result in mission failure.",
+    "op": [
+        "Critical",
+        "Marginal",
+        "Negligible",
+        "Catastrophic"
+    ],
+    "created_at": "2026-06-28T23:03:38.355009+00:00"
+},
+{
+    "id": 25310,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "_____________ identifies the degree of uncertainty that the product will meet its requirements and be fit for its intended use.",
+    "op": [
+        "Performance risks",
+        "Support risks",
+        "Cost risks",
+        "Schedule risks"
+    ],
+    "created_at": "2026-06-28T23:03:47.922797+00:00"
+},
+{
+    "id": 25311,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of moving range and individual control charts, UNPL stands for:",
+    "op": [
+        "Upper Natural Process Line",
+        "Universal Natural Process Limit",
+        "Upper Natural Process Limit",
+        "Universal Natural Process Line"
+    ],
+    "created_at": "2026-06-28T23:04:10.881155+00:00"
+},
+{
+    "id": 25312,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Hardware / Software tools, People and Reusable software components are considered as ………………… for an Organization.",
+    "op": [
+        "Requirement Specifications",
+        "Resources",
+        "Quality Factors",
+        "Risky Factors"
+    ],
+    "created_at": "2026-06-28T23:04:49.744758+00:00"
+},
+{
+    "id": 25329,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Certain reusable software components were to be developed by a/an -------- having no knowledge of its internal design standards.",
+    "op": [
+        "2nd party",
+        "In-house",
+        "Quality Assurance Team",
+        "3rd party"
+    ],
+    "created_at": "2026-06-28T23:29:08.74552+00:00"
+},
+{
+    "id": 25454,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "Once the higher management has devised the mitigate strategy, the project must be monitored for this ----------------------.",
+    "op": [
+        "Particular Requirement",
+        "Particular task",
+        "Particular schedule",
+        "Particular risk"
+    ],
+    "created_at": "2026-06-29T00:41:35.073964+00:00"
+},
+{
+    "id": 25456,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Only ----------------------- of the software components scheduled for reuse will, in fact, be ------------- into the application. The remaining functionality will have to be custom developed.",
+    "op": [
+        "100%, integrated",
+        "80%, excluded",
+        "70%, integrated",
+        "90%, integrated"
+    ],
+    "created_at": "2026-06-29T00:42:00.703657+00:00"
+},
+{
+    "id": 25459,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "29 June 2026",
+    "qt": "After building the Decision Tree, following formula is used to find the expected cost for an option. Choose the correct formula:",
+    "op": [
+        "Expected Cost= ∑(path probability)i - (estimated path cost)",
+        "Expected Cost= ∑(path probability)i * (estimated path cost)",
+        "Expected Cost= ∑(path probability)i / (estimated path cost)",
+        "Expected Cost= (path probability)i + (estimated path cost)"
+    ],
+    "created_at": "2026-06-29T00:43:07.947708+00:00"
+},
+{
+    "id": 25467,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If we plot a graph between defects reported, and defects fixed then:",
+    "op": [
+        "We can not draw any information from that graph",
+        "This graph will show that the defect detection process is not accurate",
+        "This graph will show that some requirements are ambiguous",
+        "Difference between defects reported and fixed will show the defects yet to be fixed"
+    ],
+    "created_at": "2026-06-29T00:52:43.506689+00:00"
+},
+{
+    "id": 25615,
+    "cc": "CS605",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____________ can be uncovered after careful evaluation and analysis whereas ____________ cannot be identified.",
+    "op": [
+        "Predictable risks, Technical risks",
+        "Predictable risks, Unpredictable risks",
+        "Unpredictable risks, Business risks",
+        "Unpredictable risks, Predictable risks"
+    ],
+    "created_at": "2026-06-29T02:18:32.086247+00:00"
+},
+{
+    "id": 49677,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "The purpose of Software Configuration Management is to establish and maintain the __________ of software products through the project’s life cycle.",
+    "op": [
+        "Efficiency",
+        "Interoperability",
+        "Integrity",
+        "Portability"
+    ],
+    "created_at": "2026-07-05T19:51:14.754702+00:00"
+},
+{
+    "id": 49682,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the tasks included in Software Configuration Management:",
+    "op": [
+        "Test Case development",
+        "Version Control",
+        "Change Control",
+        "Configuration Auditing"
+    ],
+    "created_at": "2026-07-05T19:51:25.065465+00:00"
+},
+{
+    "id": 49688,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Software quality assurance is achieved at the later stages like integration and acceptance with the help of ____________ .",
+    "op": [
+        "Testing",
+        "Formal Technical Reviews",
+        "Debugging",
+        "Informal Technical Reviews"
+    ],
+    "created_at": "2026-07-05T19:51:35.872103+00:00"
+},
+{
+    "id": 49691,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Configuration Auditing deals with:",
+    "op": [
+        "Overall budget of the software.",
+        "Ensuring that changes are implemented parallel with SDLC framework activities.",
+        "Ensuring that the changes have been implemented properly.",
+        "Ensuring that Resources have been allocted properly."
+    ],
+    "created_at": "2026-07-05T19:51:47.354404+00:00"
+},
+{
+    "id": 49693,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "___________ is an analysis technique which can be used to predict the chain of events that can cause hazards.",
+    "op": [
+        "Fault Tree Analysis",
+        "Failure Free Analysis",
+        "Fault Free Analysis",
+        "Fault Decision Analysis"
+    ],
+    "created_at": "2026-07-05T19:51:56.975465+00:00"
+},
+{
+    "id": 49696,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "___________ is defined as the probability of failure free operation of a computer program in a specified environment for a specified time.",
+    "op": [
+        "Software Usability",
+        "Software Efficiency",
+        "Software Reliability",
+        "Software Integrity"
+    ],
+    "created_at": "2026-07-05T19:52:05.742188+00:00"
+},
+{
+    "id": 49703,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "According to Clemm, __________ allows the user to specify alternative forms of the software system through the selection of appropriate versions.",
+    "op": [
+        "Process Management",
+        "Quality Management",
+        "Cost Management",
+        "Configuration Management"
+    ],
+    "created_at": "2026-07-05T19:52:23.334011+00:00"
+},
+{
+    "id": 49708,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ is a quality assurance process used to reduce defects by avoiding or correcting mistakes in early design and development phases.",
+    "op": [
+        "Poka-Yoke",
+        "Software Change management",
+        "Defect Removal",
+        "Software Testing"
+    ],
+    "created_at": "2026-07-05T19:52:34.419891+00:00"
+},
+{
+    "id": 49711,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ provides the management with the necessary data to be informed about product quality through auditing and reporting functions.",
+    "op": [
+        "Quality Assurance",
+        "Software Testing",
+        "Requirements Specifications",
+        "Project Management"
+    ],
+    "created_at": "2026-07-05T19:52:42.216157+00:00"
+},
+{
+    "id": 49716,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "__________ reviews the process description for compliance with the organisational policies, standards and other parts of the software project plan.",
+    "op": [
+        "Quality Control",
+        "Cost of Quality",
+        "Software Quality Assurance (SQA) group",
+        "Quality planning"
+    ],
+    "created_at": "2026-07-05T19:53:03.526974+00:00"
+},
+{
+    "id": 50235,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "__________ examines the ways in which failures result in conditions that can lead to a mishap.",
+    "op": [
+        "Software Safety",
+        "Software Availability",
+        "Software Usability",
+        "Software Portability"
+    ],
+    "created_at": "2026-07-05T20:37:25.0038+00:00"
+},
+{
+    "id": 50239,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "MTTF is the abbreviation of _________.",
+    "op": [
+        "Moderate time to failure",
+        "Median time to failure",
+        "Mean time to forward",
+        "Mean time to failure"
+    ],
+    "created_at": "2026-07-05T20:37:45.731+00:00"
+},
+{
+    "id": 50243,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The goal of __________ is to manage and control change.",
+    "op": [
+        "Software Configuration Management",
+        "Software Process Management",
+        "Software Cost Management",
+        "Software Quality Management"
+    ],
+    "created_at": "2026-07-05T20:37:59.037852+00:00"
+},
+{
+    "id": 50251,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Mean Time Between Failure (MTBF) can be calulated by _______.",
+    "op": [
+        "MTBF=MTTF+MTTR",
+        "MTBF=(MTTR/MTTF )* 100",
+        "MTBF= MTTF-MTTR",
+        "MTBF=(MTTF/MTTR )* 100"
+    ],
+    "created_at": "2026-07-05T20:38:31.502046+00:00"
+},
+{
+    "id": 50256,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Cost of quality increases as we go from _________ .",
+    "op": [
+        "Detection to Failure to Prevention.",
+        "Detection to Prevention to Failure.",
+        "Failure to Prevention to Detection.",
+        "Prevention to Detection to Failure."
+    ],
+    "created_at": "2026-07-05T20:38:49.395961+00:00"
+},
+{
+    "id": 50260,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The basis principle for a review is that the focus should be on the ___________ .",
+    "op": [
+        "Product and not the Producer",
+        "Profit to be gained",
+        "Producer and not the Product",
+        "Presentation Slides"
+    ],
+    "created_at": "2026-07-05T20:39:07.34761+00:00"
+},
+{
+    "id": 50263,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "The Review participants SHOULD NOT be focused on ________.",
+    "op": [
+        "Review agenda",
+        "Time lines",
+        "Weaknesses of the developer",
+        "Work product"
+    ],
+    "created_at": "2026-07-05T20:39:22.006098+00:00"
+},
+{
+    "id": 50271,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "__________ a statistical technique is used to develop an overall indication of improvement in software quality.",
+    "op": [
+        "Pareto Principle",
+        "Cost of Quality",
+        "Error Index",
+        "Quality Assurance"
+    ],
+    "created_at": "2026-07-05T20:39:40.167216+00:00"
+},
+{
+    "id": 50275,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "If ___________ is not handled properly may create certain problems like identification and tracking, version selection and software delivery related problems.",
+    "op": [
+        "Change Chaos",
+        "Process Management",
+        "Change documentation",
+        "Process Improvement"
+    ],
+    "created_at": "2026-07-05T20:39:55.39604+00:00"
+},
+{
+    "id": 50983,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Instead of going through the entire design in a meeting we narrow down the focus by conducting _________ for each component, or small group of components.",
+    "op": [
+        "Walkthroughs",
+        "Debugging",
+        "Informal Reviews",
+        "Testing"
+    ],
+    "created_at": "2026-07-06T00:02:02.516186+00:00"
+},
+{
+    "id": 50986,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is/are example(s) of Software Configuration Item (SCI):",
+    "op": [
+        "Business Plan",
+        "Test Case and Integration Plan",
+        "Requirements plan",
+        "Reusability"
+    ],
+    "created_at": "2026-07-06T00:02:11.592937+00:00"
+},
+{
+    "id": 50989,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Software configuration management tasks include Identification, Version Control, Change Control, Configuration Auditing and ___________ .",
+    "op": [
+        "Testing",
+        "Debugging",
+        "Reporting",
+        "Designing"
+    ],
+    "created_at": "2026-07-06T00:02:23.138373+00:00"
+},
+{
+    "id": 50991,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Poka Yoke is the name of a ________.",
+    "op": [
+        "Game",
+        "Japanese dish",
+        "Idiom",
+        "Quality Assurance(QA) technique"
+    ],
+    "created_at": "2026-07-06T00:02:31.176702+00:00"
+},
+{
+    "id": 50994,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Software quality assurance is achieved at the initial stages like requirements, architecture and design stages with the help of ____________ .",
+    "op": [
+        "Formal Technical Reviews",
+        "Debugging",
+        "Testing",
+        "Informal Technical Reviews"
+    ],
+    "created_at": "2026-07-06T00:02:46.358871+00:00"
+},
+{
+    "id": 50995,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "____________ states that 80% of the defects can be traced to 20% of its causes.",
+    "op": [
+        "D.Steeter Principle",
+        "Kraul Principle",
+        "Fred Brooks Principle",
+        "Pareto Principle"
+    ],
+    "created_at": "2026-07-06T00:02:53.380434+00:00"
+},
+{
+    "id": 50996,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ is the probability that a program is operating according to requirements at a given point in time.",
+    "op": [
+        "Security",
+        "Reliability",
+        "Usability",
+        "Availability"
+    ],
+    "created_at": "2026-07-06T00:03:00.241807+00:00"
+},
+{
+    "id": 50997,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Poka Yoke is a Japanese term and it means:",
+    "op": [
+        "Status Reporting",
+        "Risk Navigation",
+        "Mistake Proofing",
+        "Resource Planning"
+    ],
+    "created_at": "2026-07-06T00:03:06.430458+00:00"
+},
+{
+    "id": 50998,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Following are effective guidelines for Review EXCEPT",
+    "op": [
+        "We need to review the product not the producer",
+        "Be sensitive to personal egos",
+        "Tone should be high and strict",
+        "Errors should be pointed out gently"
+    ],
+    "created_at": "2026-07-06T00:03:20.06448+00:00"
+},
+{
+    "id": 51032,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Change Control process addresses the important question of:",
+    "op": [
+        "Who is the project manager of the project",
+        "Who will finally approve the deployment of project",
+        "who has the responsibility for approving and ranking changes.",
+        "Who will test the Software"
+    ],
+    "created_at": "2026-07-06T00:09:04.750774+00:00"
+},
+{
+    "id": 51034,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ serve as the starting point for further development and by helping us to control change without seriously impeding justifiable change.",
+    "op": [
+        "Mistake-Proofing",
+        "Baseline",
+        "Change Control",
+        "Full Version"
+    ],
+    "created_at": "2026-07-06T00:09:26.345481+00:00"
+},
+{
+    "id": 51037,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Version Control discusses about:",
+    "op": [
+        "How the resources will be assigned to tasks in work breakdown structure (WBS).",
+        "How the test cases will be executed before deploying each release.",
+        "How does an organization control changes before and after installation released to a customer.",
+        "How many features will be included in a software."
+    ],
+    "created_at": "2026-07-06T00:09:43.171478+00:00"
+},
+{
+    "id": 51043,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "Quality cost may be divided into costs associated with:",
+    "op": [
+        "Prevention, appraisal and failure",
+        "Customers, developers and maintenance",
+        "Builds, releases and products",
+        "Bugs, errors and Reports"
+    ],
+    "created_at": "2026-07-06T00:10:53.746355+00:00"
+},
+{
+    "id": 51159,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "In a review the ___________ should be pointed out gently and the tone should be loose and constructive.",
+    "op": [
+        "Errors",
+        "Outputs",
+        "Conditions",
+        "Inputs"
+    ],
+    "created_at": "2026-07-06T00:39:42.274457+00:00"
+},
+{
+    "id": 51177,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "The equation to find out the Availability of software is:",
+    "op": [
+        "Availability = (MTTF / MTBF) x 100",
+        "Availability = (MTTF + MTBF) x 100",
+        "Availability = (MTTF - MTBF) x 100",
+        "Availability = (MTTF x MTBF) / 100"
+    ],
+    "created_at": "2026-07-06T00:41:13.396609+00:00"
+},
+{
+    "id": 51206,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "SQA is an umbrella activity in which following activities are performed EXCEPT",
+    "op": [
+        "Inspection",
+        "Project Planning",
+        "Testing",
+        "Review"
+    ],
+    "created_at": "2026-07-06T00:48:43.976466+00:00"
+},
+{
+    "id": 51208,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "___________ involves rework, repair, and failure mode analysis of the product.",
+    "op": [
+        "Prevention Cost",
+        "Appraisal Cost",
+        "Internal Failure Cost",
+        "External Failure Cost"
+    ],
+    "created_at": "2026-07-06T00:49:09.08+00:00"
+},
+{
+    "id": 51335,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A model where Some errors are passed through to the next step undetected such errors are said to have been ___________ .",
+    "op": [
+        "Multiplexed",
+        "Reduced",
+        "Neutralised",
+        "Amplified"
+    ],
+    "created_at": "2026-07-06T01:14:18.2834+00:00"
+},
+{
+    "id": 51339,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ help the development team in improving the defect removal efficiency and hence results in a high-quality software product.",
+    "op": [
+        "Design",
+        "Planning",
+        "Reviews",
+        "Architecture"
+    ],
+    "created_at": "2026-07-06T01:14:58.412308+00:00"
+},
+{
+    "id": 51599,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "The basic idea behind Software configuration management is:",
+    "op": [
+        "To properly manage status reporting",
+        "To manage and control the change",
+        "To provide portability",
+        "To efficiently allocate the resources"
+    ],
+    "created_at": "2026-07-06T01:56:39.116207+00:00"
+},
+{
+    "id": 51802,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "A quantitative quality measuring technique that helps to uncover root cause for an error and then work on to fix what was traced is called __________.",
+    "op": [
+        "Statistical Software Quality Assurance",
+        "Non-Statistical Software Quality Assurance",
+        "Walkthroughs",
+        "Formal Technical Review"
+    ],
+    "created_at": "2026-07-06T02:33:55.305565+00:00"
+},
+{
+    "id": 51810,
+    "cc": "CS605",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ are sometimes also known as walkthroughs or Inspections.",
+    "op": [
+        "Formal Technical reviews",
+        "Testing",
+        "Informal Technical reviews",
+        "Debugging"
+    ],
+    "created_at": "2026-07-06T02:35:19.4679+00:00"
+},
+{
+    "id": 51813,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ define a set of development criteria for engineering a high quality software product.",
+    "op": [
+        "Specified Standards",
+        "Non-Functional Requirements",
+        "Project Managers",
+        "Functional Requirements"
+    ],
+    "created_at": "2026-07-06T02:35:33.762592+00:00"
+},
+{
+    "id": 51906,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "It is noted that a/an __________  review can be worse than no review at all.",
+    "op": [
+        "Controlled",
+        "Normal",
+        "Intermediate",
+        "Uncontrolled"
+    ],
+    "created_at": "2026-07-06T02:53:49.446773+00:00"
+},
+{
+    "id": 51926,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "The reliability of a software can be determined by \"MTBF\" which stands for _________ .",
+    "op": [
+        "Maximum Time Between Failure",
+        "Mean Time Between Failure",
+        "Maximum Time Between Fault",
+        "Mean Time Beyond Failure"
+    ],
+    "created_at": "2026-07-06T02:56:47.875536+00:00"
+},
+{
+    "id": 52292,
+    "cc": "CS605",
+    "qn": "",
+    "dt": "06 July 2026",
+    "qt": "_________ are mechanisms that lead to prevention of potential quality problem before it occurs or its rapid detection if  introduced.",
+    "op": [
+        "Mistake-Profiling",
+        "Mistake-Proofing",
+        "Mistake-Provoking",
+        "Mismanagement-Proofing"
+    ],
+    "created_at": "2026-07-06T04:14:14.209462+00:00"
+}
+]

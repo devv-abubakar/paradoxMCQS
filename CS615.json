@@ -1,0 +1,1640 @@
+[
+{
+    "id": 23779,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Application of ___________ techniques helps the software designer to achieve high quality specification.",
+    "op": [
+        "Quality Management",
+        "Testing",
+        "Formal Technical Reviews",
+        "Software Engineering"
+    ],
+    "created_at": "2026-06-28T19:15:04.80008+00:00"
+},
+{
+    "id": 23788,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Making needed information available to project stakeholders in a timely manner. Choose suitable name of this activity.",
+    "op": [
+        "Information Distribution",
+        "Source Selection",
+        "Contract Administration",
+        "Solicitation"
+    ],
+    "created_at": "2026-06-28T19:15:32.290988+00:00"
+},
+{
+    "id": 23794,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In planning process tasks, schedule development phase includes _______________.",
+    "op": [
+        "When a certain report is required",
+        "Time frame regarding provision of the input",
+        "All of the given",
+        "Different resources are going to be employed at various stages of the developments"
+    ],
+    "created_at": "2026-06-28T19:15:43.029714+00:00"
+},
+{
+    "id": 23799,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Project goal _____________.",
+    "op": [
+        "May be clearly defined",
+        "Must be ambiguous",
+        "Definition does not matter",
+        "Must be clearly defined"
+    ],
+    "created_at": "2026-06-28T19:15:54.210521+00:00"
+},
+{
+    "id": 23808,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Developing individual and group skills/competencies to enhance project performance. Choose suitable name of this activity.",
+    "op": [
+        "Information Distribution",
+        "Quality Assurance",
+        "Team Development",
+        "Project Plan Execution"
+    ],
+    "created_at": "2026-06-28T19:16:08.372679+00:00"
+},
+{
+    "id": 23816,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ___________ in project management process focuses on Change associated with error correction, adaptations required as the software's enviornment evolves, and changes due to enhancements which brought about by changing customer requirements.",
+    "op": [
+        "Analysis Phase",
+        "Support Phase",
+        "Development Phase",
+        "Definition Phase"
+    ],
+    "created_at": "2026-06-28T19:16:20.797672+00:00"
+},
+{
+    "id": 23817,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ is identifying the specific activities that must be performed to produce the various project deliverables",
+    "op": [
+        "Activity Duration Estimating",
+        "Scope Planning",
+        "Scope Definition",
+        "Activity Definition"
+    ],
+    "created_at": "2026-06-28T19:16:22.278653+00:00"
+},
+{
+    "id": 23819,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _________________causes, as a \"blocking state\".",
+    "op": [
+        "Waterfall model",
+        "Prototyping model",
+        "Spiral model",
+        "RAD model"
+    ],
+    "created_at": "2026-06-28T19:16:29.142571+00:00"
+},
+{
+    "id": 23825,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ___________ is a model that works on an iterative cycle of gathering customer requirements.",
+    "op": [
+        "RAD Model",
+        "Prototyping Model",
+        "Water Fall Model",
+        "Incremental Model"
+    ],
+    "created_at": "2026-06-28T19:16:37.36515+00:00"
+},
+{
+    "id": 23830,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The amount of time available for project development is always_____________.",
+    "op": [
+        "Unlimited",
+        "Infinite",
+        "Unpredictable",
+        "Finite"
+    ],
+    "created_at": "2026-06-28T19:16:44.403753+00:00"
+},
+{
+    "id": 23834,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In planning process tasks, need some new technology, hardware requirements arise, required a tool, arrange training of that newly acquired tool and need some other material. These all things comes under ___________.",
+    "op": [
+        "Staff acquisition",
+        "Procurement planning",
+        "Communication planning",
+        "Project development plan"
+    ],
+    "created_at": "2026-06-28T19:16:51.377823+00:00"
+},
+{
+    "id": 23836,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To expand or contract project scope, to modify cost, or schedule estimates  are examples of __________",
+    "op": [
+        "Change request",
+        "Change scope",
+        "Change schedule",
+        "Work results"
+    ],
+    "created_at": "2026-06-28T19:16:53.293055+00:00"
+},
+{
+    "id": 23840,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ____________________ does not support the development of a working model.",
+    "op": [
+        "Prototyping model",
+        "RAD model",
+        "Spiral model",
+        "Waterfall model"
+    ],
+    "created_at": "2026-06-28T19:17:00.103371+00:00"
+},
+{
+    "id": 23851,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ ensures that the standards laid down for a project are followed.",
+    "op": [
+        "Quality assurance",
+        "Quality control",
+        "Process control",
+        "Product evaluation"
+    ],
+    "created_at": "2026-06-28T19:17:15.901074+00:00"
+},
+{
+    "id": 23858,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The answer of _____________ question help the team to establish a project schedule by identifying key project tasks and the milestones that are required by the customer.",
+    "op": [
+        "What will be done, by when?",
+        "Where they are organizationally located?",
+        "Who is responsible for a function?",
+        "How will the job be done technically and managerially?"
+    ],
+    "created_at": "2026-06-28T19:17:22.796976+00:00"
+},
+{
+    "id": 23859,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In planning process tasks, _____________ cannot be fixed and cannot be determined in the beginning.",
+    "op": [
+        "Scope factor",
+        "Owner factor",
+        "Cost factor",
+        "Vendor factor"
+    ],
+    "created_at": "2026-06-28T19:17:22.929857+00:00"
+},
+{
+    "id": 23865,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________is anything that reduces the probability of potential consequences of project risk events.",
+    "op": [
+        "Preventive action",
+        "Configuration plan",
+        "Scope plan",
+        "Corrective action"
+    ],
+    "created_at": "2026-06-28T19:17:31.325576+00:00"
+},
+{
+    "id": 23870,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________ defining and refining objectives and selecting the best of the alternative courses of action to attain the objectives that the project was undertaken to address.",
+    "op": [
+        "Initial Process",
+        "Executing Process",
+        "Planning Process",
+        "Controlling Process"
+    ],
+    "created_at": "2026-06-28T19:17:36.337858+00:00"
+},
+{
+    "id": 24267,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Planning Process _______ (is)are outputs from the system.",
+    "op": [
+        "Time Periods",
+        "Goals",
+        "Product",
+        "Activities"
+    ],
+    "created_at": "2026-06-28T19:31:28.511777+00:00"
+},
+{
+    "id": 24272,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The answer of the _____________ question helps in defining the role and responsibility of each member of the software team.",
+    "op": [
+        "Where they are organizationally located?",
+        "How will the job be done technically and managerially?",
+        "What will be done, by when?",
+        "Who is responsible for a function?"
+    ],
+    "created_at": "2026-06-28T19:31:47.892007+00:00"
+},
+{
+    "id": 24276,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________is an umbrella activity that ensures conformance to standards and procedures throughout the SDLC of a software product.",
+    "op": [
+        "Design",
+        "Testing",
+        "SQA",
+        "Coding"
+    ],
+    "created_at": "2026-06-28T19:31:58.04486+00:00"
+},
+{
+    "id": 24281,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not true?",
+    "op": [
+        "The team leader need not assess the training needs of his team members",
+        "It is important to select the best people for jobs and then instruct them in the best methods",
+        "It is good to improve productivity by encouraging reuse of existing software components",
+        "It would be good if the employees consider work as natural as rest or play and they like it"
+    ],
+    "created_at": "2026-06-28T19:32:08.375327+00:00"
+},
+{
+    "id": 24285,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________ is anything done to bring expected future project performance in line with the project plan.",
+    "op": [
+        "Preventive action",
+        "Corrective action",
+        "Scope plan",
+        "Configuration plan"
+    ],
+    "created_at": "2026-06-28T19:32:26.389892+00:00"
+},
+{
+    "id": 24289,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________defining that project objectives are met by monitoring and measuring progress regularly to identify variances from plan so that corrective action can be taken when necessary.",
+    "op": [
+        "Initial Process",
+        "Executing Process",
+        "Planning Process",
+        "Controlling Process"
+    ],
+    "created_at": "2026-06-28T19:32:35.855477+00:00"
+},
+{
+    "id": 24296,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ___________ contract is a commitment by the developer to provide an agreed product or service for an agreed fee, within an agreed schedule.",
+    "op": [
+        "Cost-Plus",
+        "Fixed price",
+        "Schedule",
+        "Variable Price"
+    ],
+    "created_at": "2026-06-28T19:32:52.31532+00:00"
+},
+{
+    "id": 24300,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The answer of the _____________ question helps in defining a management and technical strategy for the project.",
+    "op": [
+        "What will be done, by when?",
+        "Who is responsible for a function?",
+        "Where they are organizationally located?",
+        "How will the job be done technically and managerially?"
+    ],
+    "created_at": "2026-06-28T19:33:08.607872+00:00"
+},
+{
+    "id": 24379,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____________ is the process of progressively elaborating and documenting the project work that produces the product of the project.",
+    "op": [
+        "Scope planning",
+        "Technical Approach",
+        "Resource Allocation",
+        "Evaluation Methods"
+    ],
+    "created_at": "2026-06-28T19:36:08.072105+00:00"
+},
+{
+    "id": 24391,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "You can use the __________________approach in software projects where human resource is scarce.",
+    "op": [
+        "Spiral model",
+        "Prototyping model",
+        "Waterfall model",
+        "Incremental model"
+    ],
+    "created_at": "2026-06-28T19:36:39.311136+00:00"
+},
+{
+    "id": 24395,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The schedule provides in Project management process answers to two basic planning questions, these are _____________.",
+    "op": [
+        "What, How",
+        "What, When",
+        "How, When",
+        "Why, When"
+    ],
+    "created_at": "2026-06-28T19:36:46.09289+00:00"
+},
+{
+    "id": 24589,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ technique used to integrate the project’s scope, schedule, and resources and to measure and report project performance from initiation to closeout",
+    "op": [
+        "EVM",
+        "PMIS",
+        "PV",
+        "Stakeholder skills and knowledge"
+    ],
+    "created_at": "2026-06-28T19:52:39.207505+00:00"
+},
+{
+    "id": 24592,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "PMIS Stands for __________________.",
+    "op": [
+        "Program Maintainence Interior System",
+        "Process Management Inter System",
+        "Personal Matters Information System",
+        "Project Management Information System"
+    ],
+    "created_at": "2026-06-28T19:53:01.392559+00:00"
+},
+{
+    "id": 24594,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "It is the responsibility of ___________ to select the structure best suited for the project.",
+    "op": [
+        "Supervisor",
+        "Team Lead",
+        "Project Manager",
+        "Group"
+    ],
+    "created_at": "2026-06-28T19:53:07.984484+00:00"
+},
+{
+    "id": 24596,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Obtaining quotations, bids, offers, or proposals as appropriate. Choose suitable name of this activity.",
+    "op": [
+        "Solicitation",
+        "Contract Administration",
+        "Source Selection",
+        "Information Distribution"
+    ],
+    "created_at": "2026-06-28T19:53:13.732927+00:00"
+},
+{
+    "id": 24761,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The basic goal of using the __________________ is to define ways of eliminating risks in the design phase.",
+    "op": [
+        "Incremental model",
+        "Waterfall model",
+        "Spiral model",
+        "Prototyping model"
+    ],
+    "created_at": "2026-06-28T20:12:59.281856+00:00"
+},
+{
+    "id": 24765,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Use functional structures when the organization is __________ .",
+    "op": [
+        "Small",
+        "Complex",
+        "Large",
+        "Medium"
+    ],
+    "created_at": "2026-06-28T20:13:34.682888+00:00"
+},
+{
+    "id": 24770,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ identify which quality standards are relevant to the project and determines how to satisfy them",
+    "op": [
+        "Quality assurance",
+        "Quality planning",
+        "Process control",
+        "Quality control"
+    ],
+    "created_at": "2026-06-28T20:13:52.660544+00:00"
+},
+{
+    "id": 24773,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ________________ model is flexible and does not follow any rigid rules of implementation.",
+    "op": [
+        "Process",
+        "Project",
+        "Practice",
+        "Product"
+    ],
+    "created_at": "2026-06-28T20:14:08.973018+00:00"
+},
+{
+    "id": 24944,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If project nature is complex, multiple teams are on board and different resource groups are acting then you should do _____________ and it is absolutely mandatory.",
+    "op": [
+        "Resource planning",
+        "Designer activities",
+        "Process activities",
+        "Scope definition"
+    ],
+    "created_at": "2026-06-28T20:41:52.800488+00:00"
+},
+{
+    "id": 24945,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Place all activities in an order is called ___________.",
+    "op": [
+        "Scope definition",
+        "Activity definition",
+        "Activity sequencing",
+        "Scope planning"
+    ],
+    "created_at": "2026-06-28T20:42:10.977596+00:00"
+},
+{
+    "id": 24950,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "We use _____________ when there is a conflict in client requirements.",
+    "op": [
+        "Spiral model",
+        "Waterfall model",
+        "Prototyping model",
+        "RAD model"
+    ],
+    "created_at": "2026-06-28T20:42:50.326485+00:00"
+},
+{
+    "id": 25003,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Every _______________has skills and knowledge that may be useful in developing the project plan.",
+    "op": [
+        "Tester",
+        "Stakeholder",
+        "Manager",
+        "Developer"
+    ],
+    "created_at": "2026-06-28T21:01:25.635143+00:00"
+},
+{
+    "id": 25007,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________ (s)are tangible results produced by processes in the system, such as products or\nservices for consumers.",
+    "op": [
+        "Feedback",
+        "Process",
+        "Input",
+        "Output"
+    ],
+    "created_at": "2026-06-28T21:02:12.21955+00:00"
+},
+{
+    "id": 25009,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "It is the ______________responsibility to select the structure best suited for the project.",
+    "op": [
+        "Planner",
+        "Project Manager's",
+        "Process Manager's",
+        "Product Manager's"
+    ],
+    "created_at": "2026-06-28T21:02:39.321442+00:00"
+},
+{
+    "id": 25025,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "These are Software engineering layers except",
+    "op": [
+        "Tools",
+        "Methods",
+        "Process",
+        "Design"
+    ],
+    "created_at": "2026-06-28T21:04:33.160931+00:00"
+},
+{
+    "id": 25043,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "During project __________, you identify the resources required and allocate them to the software project.",
+    "op": [
+        "Planning",
+        "Scope",
+        "Initiation",
+        "Development"
+    ],
+    "created_at": "2026-06-28T21:12:24.189087+00:00"
+},
+{
+    "id": 25044,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The _______ of scope planning are the scope statement and scope management plan, with the supporting detail.",
+    "op": [
+        "Logs",
+        "Inputs",
+        "processes",
+        "Outputs"
+    ],
+    "created_at": "2026-06-28T21:12:43.870922+00:00"
+},
+{
+    "id": 25046,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ ensures that appropriate steps to follow the product development procedures are carried out",
+    "op": [
+        "Design",
+        "Process monitoring",
+        "Quality Management",
+        "Quality control"
+    ],
+    "created_at": "2026-06-28T21:12:53.068047+00:00"
+},
+{
+    "id": 25100,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All of the following are descriptions of how new system is to be developed in Technical Approach EXCPET ________ .",
+    "op": [
+        "Consultants",
+        "Derivatives of existing",
+        "Architectural Layout",
+        "Technologies"
+    ],
+    "created_at": "2026-06-28T21:27:59.658004+00:00"
+},
+{
+    "id": 25285,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Putting all logical activities together is called ___________.",
+    "op": [
+        "Developer activities",
+        "Designer activities",
+        "Process activities",
+        "Scope planning"
+    ],
+    "created_at": "2026-06-28T22:39:03.275997+00:00"
+},
+{
+    "id": 25286,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When you build a product or system, it's important to go through a series of predictable steps – a road map that helps you create a timely, high-quality result, The road map that you follow is called a __________",
+    "op": [
+        "Software schedule",
+        "Software process",
+        "Framework",
+        "Software design"
+    ],
+    "created_at": "2026-06-28T22:39:16.398408+00:00"
+},
+{
+    "id": 25287,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "SDP Stands for ________________.",
+    "op": [
+        "Software Defining Phase",
+        "Software Development Plan",
+        "Software Demanding Plan",
+        "Software Design Plan"
+    ],
+    "created_at": "2026-06-28T22:39:44.562615+00:00"
+},
+{
+    "id": 25369,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There should not be any ambiguity and any grey area in complete wording regarding the scope.",
+    "op": [
+        "Similarity planning",
+        "Activity sequence",
+        "Scope definition",
+        "Activity definition"
+    ],
+    "created_at": "2026-06-29T00:04:13.866685+00:00"
+},
+{
+    "id": 25469,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the size of a project is extensive and the client prefers all the features of the proposed\nproject at the first delivery, you can select the ___________ Model.",
+    "op": [
+        "RAD",
+        "Incremental",
+        "Prototyping",
+        "WaterFall"
+    ],
+    "created_at": "2026-06-29T00:53:48.097664+00:00"
+},
+{
+    "id": 25470,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There cannot be a sudden crossover from one phase to the next in __________.",
+    "op": [
+        "RAD model",
+        "Spiral model",
+        "Prototyping model",
+        "Waterfall model"
+    ],
+    "created_at": "2026-06-29T00:54:01.78887+00:00"
+},
+{
+    "id": 25471,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "People are managed through a(n) _______ .",
+    "op": [
+        "Organizational culture",
+        "Nature",
+        "Organizational structure",
+        "Culture"
+    ],
+    "created_at": "2026-06-29T00:54:22.26889+00:00"
+},
+{
+    "id": 25472,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An output from the quality planning process is",
+    "op": [
+        "Quality management plan",
+        "Acceptance decision",
+        "Process adjustment",
+        "Quality improvements"
+    ],
+    "created_at": "2026-06-29T00:54:35.555654+00:00"
+},
+{
+    "id": 25473,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ is one of the most important management activity and is an ongoing effort throughout the life of the project.",
+    "op": [
+        "Planning",
+        "Organizing",
+        "Analysis",
+        "Leading"
+    ],
+    "created_at": "2026-06-29T00:54:48.716107+00:00"
+},
+{
+    "id": 25525,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The Data Item Descriptions define the formal documentation standards for all required documents generated during the development of software according to standard",
+    "op": [
+        "2167",
+        "2267",
+        "1267",
+        "2276"
+    ],
+    "created_at": "2026-06-29T01:25:04.532131+00:00"
+},
+{
+    "id": 25526,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The DIDs (Data Item Description) includes a section called __________",
+    "op": [
+        "Associated Documentation",
+        "Effective Resolution",
+        "Formal Documentation",
+        "Preparation Instruction"
+    ],
+    "created_at": "2026-06-29T01:25:25.481128+00:00"
+},
+{
+    "id": 25664,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________ is not an evaluation method used to validate performance.",
+    "op": [
+        "Transaction Logs",
+        "Setup schedule for reviews",
+        "Business Development",
+        "Testing for adherence to spec"
+    ],
+    "created_at": "2026-06-29T02:32:10.226599+00:00"
+},
+{
+    "id": 25732,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Computer software deteriorates due to change is often referred to as ______.",
+    "op": [
+        "Software Configuration",
+        "Software Manufacturing",
+        "Software Planning",
+        "Software Reengineering"
+    ],
+    "created_at": "2026-06-29T02:42:36.302481+00:00"
+},
+{
+    "id": 25741,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ______________is defined as a collection of related tasks with specific milestones.",
+    "op": [
+        "Practice",
+        "Project",
+        "Process",
+        "Product"
+    ],
+    "created_at": "2026-06-29T02:44:34.074644+00:00"
+},
+{
+    "id": 25778,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ________ is a series of action bringing about a result",
+    "op": [
+        "Schedule",
+        "Project plan",
+        "Flow chart",
+        "Process"
+    ],
+    "created_at": "2026-06-29T02:56:12.838625+00:00"
+},
+{
+    "id": 26034,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All project activities __________.",
+    "op": [
+        "Should be within the boundary of defined goal",
+        "Should not be within the defined boundaries of goal",
+        "Should not comply with any goal",
+        "Out of boundaries of the defined goal"
+    ],
+    "created_at": "2026-06-29T04:03:19.221421+00:00"
+},
+{
+    "id": 26035,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "CSOM stands for________",
+    "op": [
+        "Computer software  operator's manual",
+        "Computer system obvious manual",
+        "Computer system operator's manual",
+        "Computer system offered manual"
+    ],
+    "created_at": "2026-06-29T04:03:56.973107+00:00"
+},
+{
+    "id": 26178,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is NOT the goal of SMARTER.",
+    "op": [
+        "Measurable",
+        "Resources",
+        "Realistic",
+        "Specific"
+    ],
+    "created_at": "2026-06-29T04:45:28.331886+00:00"
+},
+{
+    "id": 43026,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The _______ of scope planning are the scope statement and scope management plan, with the supporting detail.",
+    "op": [
+        "processes",
+        "Logs",
+        "Inputs",
+        "Outputs"
+    ],
+    "created_at": "2026-07-01T06:51:41.186384+00:00"
+},
+{
+    "id": 43027,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Computer software deteriorates due to change is often referred to as ______.",
+    "op": [
+        "Software Reengineering",
+        "Software Configuration",
+        "Software Planning",
+        "Software Manufacturing"
+    ],
+    "created_at": "2026-07-01T06:51:51.581515+00:00"
+},
+{
+    "id": 43028,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "SDP Stands for ________________.",
+    "op": [
+        "Software Design Plan",
+        "Software Defining Phase",
+        "Software Development Plan",
+        "Software Demanding Plan"
+    ],
+    "created_at": "2026-07-01T06:52:00.932213+00:00"
+},
+{
+    "id": 43029,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Reviews conducted at each of this phase/s_______",
+    "op": [
+        "Analysis",
+        "Coding",
+        "Design",
+        "All of given"
+    ],
+    "created_at": "2026-07-01T06:52:10.411004+00:00"
+},
+{
+    "id": 43030,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________________is anything that reduces the probability of potential consequences of project risk events.",
+    "op": [
+        "Scope plan",
+        "Preventive action",
+        "Corrective action",
+        "Configuration plan"
+    ],
+    "created_at": "2026-07-01T06:52:20.705436+00:00"
+},
+{
+    "id": 43031,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The DIDs (Data Item Description) includes a section called __________",
+    "op": [
+        "Preparation Instruction",
+        "Effective Resolution",
+        "Associated Documentation",
+        "Formal Documentation"
+    ],
+    "created_at": "2026-07-01T06:52:35.602245+00:00"
+},
+{
+    "id": 43032,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "People are managed through a(n) _______ .",
+    "op": [
+        "Nature",
+        "Organizational culture",
+        "Culture",
+        "Organizational structure"
+    ],
+    "created_at": "2026-07-01T06:52:44.814915+00:00"
+},
+{
+    "id": 43033,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A ___________ contract is a commitment by the developer to provide an agreed product or service for an agreed fee, within an agreed schedule.",
+    "op": [
+        "Variable Price",
+        "Cost-Plus",
+        "Fixed price",
+        "Schedule"
+    ],
+    "created_at": "2026-07-01T06:52:54.139191+00:00"
+},
+{
+    "id": 43034,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "We use _____________ when there is a conflict in client requirements.",
+    "op": [
+        "Waterfall model",
+        "Spiral model",
+        "Prototyping model",
+        "RAD model"
+    ],
+    "created_at": "2026-07-01T06:53:07.123049+00:00"
+},
+{
+    "id": 43035,
+    "cc": "CS615",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ ensures that the standards laid down for a project are followed.",
+    "op": [
+        "Quality control",
+        "Process control",
+        "Quality assurance",
+        "Product evaluation"
+    ],
+    "created_at": "2026-07-01T06:53:21.218743+00:00"
+},
+{
+    "id": 47836,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following verify the correctness of the decomposition in WBS except:",
+    "op": [
+        "Can each item be appropriately scheduled and budgeted?",
+        "Are the low-level items both necessary and sufficient for completion of the decomposed item?",
+        "Is each item clearly and completely defined?",
+        "Can each item be individually delivered?"
+    ],
+    "created_at": "2026-07-05T19:06:44.731567+00:00"
+},
+{
+    "id": 47850,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Typically, a Program WBS consists of the upper ____________________ levels.",
+    "op": [
+        "Four",
+        "One",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-07-05T19:06:54.404412+00:00"
+},
+{
+    "id": 47863,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________________is not a mandatory management task in high level management WBS tasks.",
+    "op": [
+        "Risk analysis and risk management",
+        "Personnel management",
+        "Budget analysis and administration",
+        "Scheduling"
+    ],
+    "created_at": "2026-07-05T19:07:04.580404+00:00"
+},
+{
+    "id": 47873,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An industry standard rule of thumb is to make work packages that can be completed in timeframes of ________ weeks.",
+    "op": [
+        "One",
+        "Four",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-07-05T19:07:11.567865+00:00"
+},
+{
+    "id": 47883,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Work breakdown structure (WBS) a project may be divided into _______________.",
+    "op": [
+        "Work packages",
+        "Project activities",
+        "Areas",
+        "Subprojects"
+    ],
+    "created_at": "2026-07-05T19:07:18.492076+00:00"
+},
+{
+    "id": 47893,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following are the High level WBS structure tasks in software development tasks except:",
+    "op": [
+        "Prototype specification",
+        "Requirements analysis",
+        "Prototype development",
+        "Top level design"
+    ],
+    "created_at": "2026-07-05T19:07:26.029069+00:00"
+},
+{
+    "id": 47902,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following are the High level WBS structure tasks in management tasks except:",
+    "op": [
+        "Budget administration",
+        "Quality assurance",
+        "Personnel management",
+        "Software enhancement"
+    ],
+    "created_at": "2026-07-05T19:07:33.243325+00:00"
+},
+{
+    "id": 47910,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Functional decomposition of a software project is a division of the system into",
+    "op": [
+        "High level components",
+        "Low level modules and high level components",
+        "Operational components",
+        "Low level modules"
+    ],
+    "created_at": "2026-07-05T19:07:39.481798+00:00"
+},
+{
+    "id": 47919,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Decomposition of the system into smaller components\nneeds to be done ... in the planning cycle.",
+    "op": [
+        "Middle",
+        "Middle and Late stage",
+        "Late stage",
+        "Early"
+    ],
+    "created_at": "2026-07-05T19:07:46.243046+00:00"
+},
+{
+    "id": 47938,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Estimation of all the factors are esential EXCPET ______ .",
+    "op": [
+        "Cost",
+        "Effort",
+        "Quality",
+        "Risk"
+    ],
+    "created_at": "2026-07-05T19:08:06.870298+00:00"
+},
+{
+    "id": 47972,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "COCOMO stands for _____________________.",
+    "op": [
+        "Cost Consecutive Model",
+        "Consecutive Cost Model",
+        "Constructive Cost Model",
+        "Cost Constructive Model"
+    ],
+    "created_at": "2026-07-05T19:08:34.417377+00:00"
+},
+{
+    "id": 48008,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The decomposition of a software project is one of \nthe first tasks of...",
+    "op": [
+        "Software Engineer",
+        "Software Analyst",
+        "Software tester",
+        "Software project manager"
+    ],
+    "created_at": "2026-07-05T19:08:58.797018+00:00"
+},
+{
+    "id": 48046,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Staffing management plan can be_____________",
+    "op": [
+        "formal",
+        "All of the above",
+        "highly detailed",
+        "informal"
+    ],
+    "created_at": "2026-07-05T19:09:23.841675+00:00"
+},
+{
+    "id": 48079,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________is measured by the degree of uncertainty in the quantitative estimates established for resources, cost, and schedule.",
+    "op": [
+        "Time",
+        "Access",
+        "Size",
+        "Risk"
+    ],
+    "created_at": "2026-07-05T19:09:51.049878+00:00"
+},
+{
+    "id": 48416,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In __________ the planner develops estimates of the information domain.",
+    "op": [
+        "Standard component sizing",
+        "All of given",
+        "Change sizing",
+        "Function point sizing"
+    ],
+    "created_at": "2026-07-05T19:14:45.169019+00:00"
+},
+{
+    "id": 48447,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The COCOMO technique has ______________levels of implementation.",
+    "op": [
+        "Four",
+        "One",
+        "Two",
+        "Three"
+    ],
+    "created_at": "2026-07-05T19:15:13.028472+00:00"
+},
+{
+    "id": 48459,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ is the most expensive element of virtually all computer-based systems.",
+    "op": [
+        "Cost",
+        "Customer",
+        "Hardware",
+        "Software"
+    ],
+    "created_at": "2026-07-05T19:15:23.871+00:00"
+},
+{
+    "id": 48471,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ is another important factor that can affect the accuracy and efficacy of estimates.",
+    "op": [
+        "Project Cost",
+        "Project Size",
+        "project Risk",
+        "Project Time"
+    ],
+    "created_at": "2026-07-05T19:15:32.72734+00:00"
+},
+{
+    "id": 48523,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Work breakdown structure (WBS) subprojects are subdivided into smaller, more manageable work components (_________________) at the lowest level.",
+    "op": [
+        "Areas",
+        "Sub-projects",
+        "Project activities",
+        "Work packages"
+    ],
+    "created_at": "2026-07-05T19:16:14.978961+00:00"
+},
+{
+    "id": 48798,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Estimating the effort in the basic COCOMO technique involves following three steps except:",
+    "op": [
+        "Determining the effort constants based on the type of the project",
+        "Substituting values for lines of code and effort constant in a formula",
+        "Estimating the total delivered lines of code",
+        "Calculating the effort adjustment factor"
+    ],
+    "created_at": "2026-07-05T19:21:24.122296+00:00"
+},
+{
+    "id": 48856,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The project scope of work is an iterative process that is generally done by the project team with the use of a ______________, allowing the team to capture and then decompose all of the work of the project.",
+    "op": [
+        "Advanced COCOMO Model",
+        "COCOMO Model",
+        "Delphi Technique",
+        "Work Breakdown Structure (WBS)"
+    ],
+    "created_at": "2026-07-05T19:22:41.769075+00:00"
+},
+{
+    "id": 48884,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The Delphi technique is a _____________estimation technique.",
+    "op": [
+        "AI-based",
+        "Computer-based",
+        "Human-based",
+        "Robotic-based"
+    ],
+    "created_at": "2026-07-05T19:23:32.740049+00:00"
+},
+{
+    "id": 48893,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The Source Line of Code (SLOC) technique is ____________ .",
+    "op": [
+        "Language-Dependent",
+        "Technique-Dependent",
+        "Platform-Dependent",
+        "Functional-Dependent"
+    ],
+    "created_at": "2026-07-05T19:23:53.841557+00:00"
+},
+{
+    "id": 48935,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Estimation of following Critical factors are essential EXCEPT ________ .",
+    "op": [
+        "Risk",
+        "Time",
+        "Effort",
+        "Cost"
+    ],
+    "created_at": "2026-07-05T19:25:08.491405+00:00"
+},
+{
+    "id": 49026,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "To aid planning, scheduling, and monitoring a project, you can use tool(s)________",
+    "op": [
+        "PERT",
+        "All of the given",
+        "CPM",
+        "Timeline charts"
+    ],
+    "created_at": "2026-07-05T19:27:43.084566+00:00"
+},
+{
+    "id": 49035,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following are the High level WBS structure tasks in Documentation tasks except:",
+    "op": [
+        "Ordering procedure",
+        "Deliverable development documentation",
+        "Development documentation",
+        "Non-deliverable development documentation"
+    ],
+    "created_at": "2026-07-05T19:27:51.041435+00:00"
+},
+{
+    "id": 49043,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "CPM stands for __________.",
+    "op": [
+        "Cyclic Path Method",
+        "Cyclic Process Method",
+        "Critical Path Method",
+        "Cross process Model"
+    ],
+    "created_at": "2026-07-05T19:27:57.078373+00:00"
+},
+{
+    "id": 49069,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ will assemble larger work packages that can be appropriately managed and controlled.",
+    "op": [
+        "Shopping projects",
+        "Larger projects",
+        "Tiny projects",
+        "Smaller projects"
+    ],
+    "created_at": "2026-07-05T19:28:37.081808+00:00"
+},
+{
+    "id": 49094,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "As project development progresses tasks in the WBS list should be _________________.",
+    "op": [
+        "Added",
+        "Removed",
+        "Modified",
+        "Added, Modified and Removed"
+    ],
+    "created_at": "2026-07-05T19:29:22.724272+00:00"
+},
+{
+    "id": 49105,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A formal WBS may serve no useful purpose on a very small project, but it can become valuable if project size or complexity ________________.",
+    "op": [
+        "Start to evaporate",
+        "Start to vanish",
+        "Start to increase",
+        "Start to decrease"
+    ],
+    "created_at": "2026-07-05T19:29:55.150378+00:00"
+},
+{
+    "id": 49130,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Design decomposition of a software project is a division of the system into",
+    "op": [
+        "High level Components",
+        "Low level Modules",
+        "High level Components and Low level Modules",
+        "Operational components"
+    ],
+    "created_at": "2026-07-05T19:30:40.162567+00:00"
+},
+{
+    "id": 49185,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A change in the arrangement of tasks can occur on the basis of ... theories of\nWBS.",
+    "op": [
+        "Two",
+        "Four",
+        "Single",
+        "Three"
+    ],
+    "created_at": "2026-07-05T19:32:48.562776+00:00"
+},
+{
+    "id": 49190,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If the tasks are not organized efficiently, it becomes difficult to schedule and allocate _________________to the tasks.",
+    "op": [
+        "Budget",
+        "Time",
+        "People",
+        "Resources"
+    ],
+    "created_at": "2026-07-05T19:32:57.664467+00:00"
+},
+{
+    "id": 49613,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ define what kinds of competencies are required from what kinds of individuals or groups and in what time frames.",
+    "op": [
+        "Staffing requirements",
+        "Constraints",
+        "Project Interfaces",
+        "Organizaion Planning"
+    ],
+    "created_at": "2026-07-05T19:48:19.828047+00:00"
+},
+{
+    "id": 49616,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________is also not a mandatory management task in high level management WBS tasks.",
+    "op": [
+        "Higher management interface and coordination",
+        "Quality assurance and control",
+        "Customer interface",
+        "Configuration management and control"
+    ],
+    "created_at": "2026-07-05T19:48:25.154042+00:00"
+},
+{
+    "id": 49619,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Who will decide that what degree employment of various WBS implementation will benefit the efficient management of the project?",
+    "op": [
+        "Intelligent manager",
+        "Efficient manager",
+        "Project manager",
+        "Purchase manager"
+    ],
+    "created_at": "2026-07-05T19:48:38.146164+00:00"
+},
+{
+    "id": 49626,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Describe where the work must be performed. Specify the location of hardware and software and where the people must perform the work is called __________",
+    "op": [
+        "Scope of work",
+        "Location of Work",
+        "Deliverables Schedule",
+        "Period of Performance"
+    ],
+    "created_at": "2026-07-05T19:49:02.112467+00:00"
+},
+{
+    "id": 50540,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Work breakdown structure (WBS) the work packages may be further decomposed to ________________.",
+    "op": [
+        "Areas",
+        "Sub-projects",
+        "Work packages",
+        "Project activities"
+    ],
+    "created_at": "2026-07-05T21:30:11.261073+00:00"
+},
+{
+    "id": 51005,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ is based on soft skills and relies more on human factors, such as collecting information during group discussions",
+    "op": [
+        "Function Point (FP)",
+        "Source lines of Code (SLOC)",
+        "Delphi technique",
+        "Constructive Cost Model (COCOMO)"
+    ],
+    "created_at": "2026-07-06T00:04:09.444068+00:00"
+},
+{
+    "id": 51007,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "All of the following are the High level WBS structure tasks in Training / Procurement tasks except:",
+    "op": [
+        "Inventory control",
+        "Vendor selection",
+        "Ordering procedure",
+        "Quality assurance"
+    ],
+    "created_at": "2026-07-06T00:04:21.079122+00:00"
+},
+{
+    "id": 51012,
+    "cc": "CS615",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Effective project managers_________",
+    "op": [
+        "Lead by example",
+        "Are visionary",
+        "All of given",
+        "Are good motivators, communicators, supports team members and stand up to upper management where necessary?"
+    ],
+    "created_at": "2026-07-06T00:04:49.572545+00:00"
+}
+]

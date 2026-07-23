@@ -1,0 +1,1682 @@
+[
+{
+    "id": 23310,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following method get called at the beginning of a document in SAX parsing?",
+    "op": [
+        "startDocument()",
+        "None of the given options.",
+        "documentStart()",
+        "initDocument()"
+    ],
+    "created_at": "2026-06-28T19:04:20.60859+00:00"
+},
+{
+    "id": 23326,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Methods such as startDocument, endDocument, startElement, and endElement are invoked by ____________.",
+    "op": [
+        "Error Handler",
+        "Content Handler",
+        "Default Handler",
+        "DTD Handler"
+    ],
+    "created_at": "2026-06-28T19:04:47.155626+00:00"
+},
+{
+    "id": 23357,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following methods is used in JDOM Parser to get all the direct child nodes of an element?",
+    "op": [
+        "Element.getChildren()",
+        "Node.getChild()",
+        "Node.getChildren()",
+        "Document.getChildren()"
+    ],
+    "created_at": "2026-06-28T19:05:19.148168+00:00"
+},
+{
+    "id": 23368,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ______________ implements the ContentHandler, ErrorHandler, DTDHandler, and EntityResolver interfaces.",
+    "op": [
+        "Content Handler",
+        "Default Handler",
+        "Error Handler",
+        "DTD Handler"
+    ],
+    "created_at": "2026-06-28T19:05:31.475611+00:00"
+},
+{
+    "id": 23394,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method does SAX use for processing XML documents?",
+    "op": [
+        "Event Based",
+        "DocumentHandler",
+        "Document",
+        "Tree Based"
+    ],
+    "created_at": "2026-06-28T19:06:04.772678+00:00"
+},
+{
+    "id": 23400,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "By default, the Marshaller uses __________ encoding when generating XML data.",
+    "op": [
+        "UTF-16",
+        "UTF-32",
+        "None of the given",
+        "UTF-8"
+    ],
+    "created_at": "2026-06-28T19:06:14.182354+00:00"
+},
+{
+    "id": 23426,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The SAX based parser is most likely to be used in which of the following scenarios?\ni) You want to process the document in a sequential order only.\nii) The documents is very large.\niii) When there is no need to validate XML documents.\niv) The parser implements only SAX based approach.",
+    "op": [
+        "None of the given options.",
+        "i and ii",
+        "iii and iv",
+        "ii and iii"
+    ],
+    "created_at": "2026-06-28T19:06:42.970277+00:00"
+},
+{
+    "id": 23509,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is correct about Unmarshalling?",
+    "op": [
+        "Can be used for both writing/reading purposes",
+        "None of the given",
+        "Used to read data from XML documents",
+        "Used to write data in XML documents"
+    ],
+    "created_at": "2026-06-28T19:08:13.631145+00:00"
+},
+{
+    "id": 23535,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following method get called at the end of a document in SAX parsing?",
+    "op": [
+        "finalizeDocument()",
+        "None of the given options.",
+        "endDocument()",
+        "documentEnded()"
+    ],
+    "created_at": "2026-06-28T19:08:44.156379+00:00"
+},
+{
+    "id": 23946,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is much more memory intensive?",
+    "op": [
+        "SAX",
+        "JAXP",
+        "DOM",
+        "StAX"
+    ],
+    "created_at": "2026-06-28T19:19:32.175192+00:00"
+},
+{
+    "id": 23954,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Suppose you need to develop an application that will extract a small portion of the information from a very large XML document. Memory and speed may be constraints. Which of the following approach (method) you will use for development of your application.",
+    "op": [
+        "Extract the necessary information and process using XSLT.",
+        "Use a schema-based approach.",
+        "Use SAX",
+        "Use DOM"
+    ],
+    "created_at": "2026-06-28T19:19:40.647927+00:00"
+},
+{
+    "id": 23956,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In ________ we mean to Convert a Java object into a XML file.",
+    "op": [
+        "Marshalling",
+        "Annotations",
+        "SAX",
+        "Unmarshalling"
+    ],
+    "created_at": "2026-06-28T19:19:47.646278+00:00"
+},
+{
+    "id": 23960,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following method is used to create copy of a specified node?",
+    "op": [
+        "cloneNode()",
+        "duplicateNode()",
+        "copyNode()",
+        "None of the given"
+    ],
+    "created_at": "2026-06-28T19:19:53.33256+00:00"
+},
+{
+    "id": 23966,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following provides metadata on packages, classes, fields and methods in Java code generated by the JAXB schema compiler?",
+    "op": [
+        "Unmarshalling",
+        "Marshalling",
+        "Annotations",
+        "XML binding"
+    ],
+    "created_at": "2026-06-28T19:19:59.403038+00:00"
+},
+{
+    "id": 23969,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SAX parsing, which of the following method is used to read contents?",
+    "op": [
+        "characters()",
+        "endElement()",
+        "startDocument()",
+        "startElement()"
+    ],
+    "created_at": "2026-06-28T19:20:10.374961+00:00"
+},
+{
+    "id": 23973,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the followings is/are feature(s) of JDOM?",
+    "op": [
+        "It is straight forward and optimized",
+        "It is a lightweight and fast",
+        "All of the given options.",
+        "It is memory efficient."
+    ],
+    "created_at": "2026-06-28T19:20:16.649938+00:00"
+},
+{
+    "id": 23979,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the attribute already exists, the setAttribute() method will _______ the existing value.",
+    "op": [
+        "Duplicate",
+        "Overwrite",
+        "None of the given",
+        "Not overwrite"
+    ],
+    "created_at": "2026-06-28T19:20:30.892048+00:00"
+},
+{
+    "id": 23986,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "insertBefore() method will insert a node before a specified ______ node.",
+    "op": [
+        "parent",
+        "none of the given options",
+        "text",
+        "child"
+    ],
+    "created_at": "2026-06-28T19:20:37.742746+00:00"
+},
+{
+    "id": 24971,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is true about JDOM Parser?",
+    "op": [
+        "JDOM is an open source, java based library to parse XML document",
+        "None of the above",
+        "Both of the above",
+        "JDOM is typically java developer friendly API"
+    ],
+    "created_at": "2026-06-28T20:51:11.400609+00:00"
+},
+{
+    "id": 24973,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method does DOM use for processing XML documents?",
+    "op": [
+        "Tree Based",
+        "DocumentHandler",
+        "Event Based",
+        "Document"
+    ],
+    "created_at": "2026-06-28T20:51:34.503767+00:00"
+},
+{
+    "id": 24975,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which component of the following JDOM Parser represents comments in a XML document?",
+    "op": [
+        "Comment",
+        "Element",
+        "Text",
+        "Attribute"
+    ],
+    "created_at": "2026-06-28T20:52:33.936208+00:00"
+},
+{
+    "id": 24977,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Converting an XML content into a Java Object is called _________.",
+    "op": [
+        "Un-Marshalling",
+        "Transforming",
+        "Object Conversion",
+        "Marshalling"
+    ],
+    "created_at": "2026-06-28T20:52:59.440463+00:00"
+},
+{
+    "id": 24980,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the followings is the best description of the \"characters()\" method?",
+    "op": [
+        "It is a method of DOM API to insert character data in the XML document.",
+        "It is a method of the DOM interface to replace the entity reference with the character data.",
+        "None of the given options.",
+        "It is a method of the SAX ContentHandler interface to receive notification of the presence of character data."
+    ],
+    "created_at": "2026-06-28T20:53:49.077317+00:00"
+},
+{
+    "id": 25030,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which scenario(s), you will use a JDOM Parser?",
+    "op": [
+        "You are a java developer and want to leverage java optimized parsing of XML.",
+        "Both of the above.",
+        "You need to use the information in the document more than once.",
+        "None of the given options."
+    ],
+    "created_at": "2026-06-28T21:06:29.715397+00:00"
+},
+{
+    "id": 25037,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not a valid JDOM most common class.",
+    "op": [
+        "SAXBuilder",
+        "Text",
+        "Comment",
+        "Document"
+    ],
+    "created_at": "2026-06-28T21:09:47.349061+00:00"
+},
+{
+    "id": 25139,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement(s) is/are true about SAX parsing?",
+    "op": [
+        "SAX parser reports the application program the nature of tokens that the parser has encountered as they occur.",
+        "All of the given options.",
+        "SAX parser reads an XML document from top to bottom, recognizing the tokens that make up a well-formed XML document.",
+        "The application program provides an 'event' handler that must be registered with the parser."
+    ],
+    "created_at": "2026-06-28T21:44:27.048694+00:00"
+},
+{
+    "id": 25146,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a system (application) which have memory and speed constraint. The application is to process XML documents, sort the contents and mail them to a higher configuration machine for transformation. Which is the best approach?",
+    "op": [
+        "Use platform native language to process the documents.",
+        "DOM and SAX must be used in this context.",
+        "Using SAX based approach is the best.",
+        "Use DOM based approach."
+    ],
+    "created_at": "2026-06-28T21:46:17.946064+00:00"
+},
+{
+    "id": 25148,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Converting a Java object into an XML file is called _________.",
+    "op": [
+        "Marshalling",
+        "Transforming",
+        "Object Conversion",
+        "Un-Marshalling"
+    ],
+    "created_at": "2026-06-28T21:46:36.938342+00:00"
+},
+{
+    "id": 25527,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The cloneNode() method has a parameter :",
+    "op": [
+        "None of the given",
+        "0 or 1",
+        "Yes or No",
+        "True or False"
+    ],
+    "created_at": "2026-06-29T01:25:42.585678+00:00"
+},
+{
+    "id": 25547,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following components of JDOM Parser is used to represents DOM tree?",
+    "op": [
+        "Element",
+        "Text",
+        "Attribute",
+        "Document"
+    ],
+    "created_at": "2026-06-29T01:46:29.471497+00:00"
+},
+{
+    "id": 25743,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "JDOM is an open source java based library, which works with _______.",
+    "op": [
+        "None of the given options",
+        "Both SAX APIs and DOM",
+        "SAX APIs",
+        "DOM"
+    ],
+    "created_at": "2026-06-29T02:44:40.684958+00:00"
+},
+{
+    "id": 25746,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________________refers to a means of representing information in an XML document as a business object in computer memory.",
+    "op": [
+        "DOM binding",
+        "None of the given",
+        "JAXP binding",
+        "XML binding"
+    ],
+    "created_at": "2026-06-29T02:44:53.808487+00:00"
+},
+{
+    "id": 42564,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement(s) is/are true about SAX parsing?",
+    "op": [
+        "The application program provides an 'event' handler that must be registered with the parser.",
+        "All of the given options.",
+        "SAX parser reports the application program the nature of tokens that the parser has encountered as they occur.",
+        "SAX parser reads an XML document from top to bottom, recognizing the tokens that make up a well-formed XML document."
+    ],
+    "created_at": "2026-06-29T18:40:36.362943+00:00"
+},
+{
+    "id": 42565,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SAX parsing, which of the following method is used to read contents?",
+    "op": [
+        "startDocument()",
+        "endElement()",
+        "characters()",
+        "startElement()"
+    ],
+    "created_at": "2026-06-29T18:41:10.836079+00:00"
+},
+{
+    "id": 42566,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Suppose you need to develop an application that will extract a small portion of the information from a very large XML document. Memory and speed may be constraints. Which of the following approach (method) you will use for development of your application.",
+    "op": [
+        "Use SAX",
+        "Use a schema-based approach.",
+        "Extract the necessary information and process using XSLT.",
+        "Use DOM"
+    ],
+    "created_at": "2026-06-29T18:41:43.564613+00:00"
+},
+{
+    "id": 42567,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method does SAX use for processing XML documents?",
+    "op": [
+        "DocumentHandler",
+        "Event Based",
+        "Document",
+        "Tree based"
+    ],
+    "created_at": "2026-06-29T18:42:17.278615+00:00"
+},
+{
+    "id": 42568,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Converting an XML content into a Java Object is called _________.",
+    "op": [
+        "Marshalling",
+        "Un-Marshalling",
+        "Transforming",
+        "Object Conversion"
+    ],
+    "created_at": "2026-06-29T18:42:48.49908+00:00"
+},
+{
+    "id": 47495,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What will you do if two servers are running on the same system with same port number?",
+    "op": [
+        "Delete the server.xml file of both servers",
+        "Assign unique port to each server",
+        "Two servers can’t run simultaneously",
+        "Servers can run with same port"
+    ],
+    "created_at": "2026-07-05T19:02:27.077431+00:00"
+},
+{
+    "id": 47501,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The destroy() method is called only once at the _________ of the life cycle of a servlet.",
+    "op": [
+        "end",
+        "both start and end",
+        "middle",
+        "start"
+    ],
+    "created_at": "2026-07-05T19:02:32.95398+00:00"
+},
+{
+    "id": 47509,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The _________ method simply creates or loads some data that will be used throughout the life of the servlet.",
+    "op": [
+        "servlet()",
+        "init()",
+        "loads()",
+        "creates()"
+    ],
+    "created_at": "2026-07-05T19:02:38.501883+00:00"
+},
+{
+    "id": 47516,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There is/are ServletContext object(s) per web application.",
+    "op": [
+        "2",
+        "3",
+        "1",
+        "4"
+    ],
+    "created_at": "2026-07-05T19:02:45.55163+00:00"
+},
+{
+    "id": 47526,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A servlet life cycle can be defined as the entire process from its creation till the ___________.",
+    "op": [
+        "constructor",
+        "destruction",
+        "initialization",
+        "construction"
+    ],
+    "created_at": "2026-07-05T19:02:52.164544+00:00"
+},
+{
+    "id": 47532,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The servlet calls ____________ method to process a client's request.",
+    "op": [
+        "init()",
+        "service()",
+        "start()",
+        "request()"
+    ],
+    "created_at": "2026-07-05T19:02:57.927108+00:00"
+},
+{
+    "id": 47537,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A GET request results from a normal request for a URL or from an HTML form that has no METHOD specified and it should be handled by _______ method.",
+    "op": [
+        "doPost()",
+        "post()",
+        "get()",
+        "doGet()"
+    ],
+    "created_at": "2026-07-05T19:03:03.658746+00:00"
+},
+{
+    "id": 47544,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The init method is designed to be called ____________.",
+    "op": [
+        "twice",
+        "only once",
+        "many times",
+        "thrice"
+    ],
+    "created_at": "2026-07-05T19:03:10.631328+00:00"
+},
+{
+    "id": 48164,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The RequestDispatcher interface provides the facility of dispatching the request to another resource it may be ___________.",
+    "op": [
+        "Servlet Only",
+        "Any of HTML, JSP or Servlet",
+        "HTML Only",
+        "JSP Only"
+    ],
+    "created_at": "2026-07-05T19:11:30.237508+00:00"
+},
+{
+    "id": 48183,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ is the protocol that allows web servers and browsers to exchange data over the web.",
+    "op": [
+        "JAXB",
+        "XML",
+        "HTTP",
+        "Servlet"
+    ],
+    "created_at": "2026-07-05T19:11:41.520929+00:00"
+},
+{
+    "id": 48247,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How many methods are defined in RequestDispatcher interface?",
+    "op": [
+        "4",
+        "1",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-07-05T19:12:26.612558+00:00"
+},
+{
+    "id": 48367,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A POST request results from an HTML form that specifically lists POST as the METHOD and it should be handled by _____________ method.",
+    "op": [
+        "doGet()",
+        "get()",
+        "doPost()",
+        "post()"
+    ],
+    "created_at": "2026-07-05T19:13:40.247501+00:00"
+},
+{
+    "id": 48495,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The servlet is terminated by calling the ______________ method.",
+    "op": [
+        "servlet()",
+        "terminate()",
+        "end()",
+        "destroy()"
+    ],
+    "created_at": "2026-07-05T19:15:48.136531+00:00"
+},
+{
+    "id": 48534,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The servlet is initialized by calling the __________ method.",
+    "op": [
+        "destroy()",
+        "servlet()",
+        "init ()",
+        "service()"
+    ],
+    "created_at": "2026-07-05T19:16:27.010512+00:00"
+},
+{
+    "id": 50055,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a benefit of Servlet?",
+    "op": [
+        "Low Performance",
+        "Secure",
+        "Robust",
+        "Portable"
+    ],
+    "created_at": "2026-07-05T20:16:26.139487+00:00"
+},
+{
+    "id": 50072,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The servlet container loads the servlet before invoking the ___________ method.",
+    "op": [
+        "doPost",
+        "init()",
+        "service()",
+        "doGet()"
+    ],
+    "created_at": "2026-07-05T20:17:39.094862+00:00"
+},
+{
+    "id": 50929,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Creating war file has an advantage that moving the project from one location to another takes _____ time.",
+    "op": [
+        "Correct time as required",
+        "Less",
+        "More",
+        "Some extra time"
+    ],
+    "created_at": "2026-07-05T23:45:54.894446+00:00"
+},
+{
+    "id": 65148,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is used to request data from a server?",
+    "op": [
+        "DTD",
+        "XMLHttpRequest object",
+        "XLink",
+        "XML Schema"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65149,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Node object can have ________________.",
+    "op": [
+        "only one parent node object.",
+        "only two parent node objects.",
+        "many parent node objects.",
+        "any number of parent node objects."
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65150,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Following are important node properties except:",
+    "op": [
+        "nodeAddress",
+        "nodeType",
+        "nodeName",
+        "nodeValue"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65151,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "________ keyword indicates that attribute is optional.",
+    "op": [
+        "REQUIRED",
+        "FIXED",
+        "None of the given",
+        "IMPLIED"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65152,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "POST has _________ size limitations.",
+    "op": [
+        "No size limitations",
+        "100 characters per request",
+        "50 characters per request",
+        "150 characters per request"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65154,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "In XML schema ______ is used to indicate child elements in an element.",
+    "op": [
+        "xmlns",
+        "complexType",
+        "sequence",
+        "targetNamespace"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65155,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "getElementsByTagName() method is used to access a _________.",
+    "op": [
+        "Property",
+        "Node",
+        "Object",
+        "DOM"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65156,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Attributes are always placed inside the _______ of an element.",
+    "op": [
+        "None of the above",
+        "opening tag",
+        "header",
+        "footer"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65157,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "In context of XML DOM, each node is a(n) ________",
+    "op": [
+        "object",
+        "class",
+        "array",
+        "tree"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65158,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "An XML Schema describes the ________ of an XML document.",
+    "op": [
+        "structure",
+        "attributes",
+        "properties",
+        "building blocks"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65202,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "________ can read plain text and convert it into an XML DOM object.",
+    "op": [
+        "XML parser",
+        "DOM Object",
+        "XML Object",
+        "DOM Parser"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65203,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is not the XML DOM Property?",
+    "op": [
+        "x.nodeValue",
+        "x.nodeTag",
+        "x.attributes",
+        "x.nodeName"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65204,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "DOM uses _________ method for processing XML documents.",
+    "op": [
+        "Event based",
+        "DocumentHandler",
+        "Tree based",
+        "Document"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65206,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The <schema> element is the ________ element of every XML Schema.",
+    "op": [
+        "second",
+        "last",
+        "None of the given",
+        "root"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65207,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "In the statement <img src=\"computer.gif\"/> , the name of attribute is:",
+    "op": [
+        "computer.gif",
+        "None",
+        "img",
+        "src"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65208,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "__________ evaluates XML document as DOM structure.",
+    "op": [
+        "Parser",
+        "Compiler",
+        "Interpreter",
+        "Translator"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65282,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "How can we make attributes have multiple values:",
+    "op": [
+        "<myElement myAttribute=\"value1, value2\"/>",
+        "<myElement myAttribute=\"value1 value2\"/>",
+        "attributes cannot have multiple values",
+        "<myElement myAttribute=\"value1\" myAttribute=\"value2\"/>"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65283,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "XML files can be stored on an Internet server exactly the same way as ________ files.",
+    "op": [
+        "Java",
+        "PHP",
+        "C++",
+        "HTML"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65287,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "DOM is separated into ______ different parts.",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65288,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "In x.nodeName and x.nodeValue, x is __________.",
+    "op": [
+        "the attribute of node",
+        "parent node",
+        "the value of node",
+        "node object"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65399,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "On a server request, the readyState changes from ______.",
+    "op": [
+        "1 to 5",
+        "1 to 4",
+        "0 to 4",
+        "0 to 3"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65403,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The getElementsByTagName() method returns a(n) ________.",
+    "op": [
+        "value of element",
+        "node list",
+        "attribute value",
+        "single value"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65404,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What is the description of the attribute-type NMTOKEN.",
+    "op": [
+        "The value is a list of other ids",
+        "The value is a valid XML name",
+        "The value is a list of valid XML names",
+        "The value is the id of another element"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65410,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "___________ is a collection of nodes or pieces of information, organized in a hierarchy.",
+    "op": [
+        "None of the given",
+        "XSL File",
+        "DOM Document",
+        "DTD"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65411,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "DOM has three parts XML DOM, HTML DOM and __________.",
+    "op": [
+        "None of the given",
+        "Parser DOM",
+        "Core DOM",
+        "Flash DOM"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65412,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "In a DTD, attributes are declared with an _________ declaration.",
+    "op": [
+        "ATTLIST",
+        "ATTRIBUTELIST",
+        "None of the above",
+        "ATTRLIST"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65413,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "During a server request, the readyState = 3 means:",
+    "op": [
+        "request received",
+        "processing request",
+        "server connection established",
+        "request finished and response is ready"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65414,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Look at the following XML fragment:\n\n<bookstore> <book category=\"cooking\"> \n<title lang=\"en\">Everyday Italian</title> \n<author>Giada De Laurentiis</author>\n<year>2005</year>\n<price>30.00</price>\n</book>\n</bookstore>\n\nIn the XML above, the <title> element is the ___________",
+    "op": [
+        "first child of the <bookstore> element.",
+        "last child of <bookstore> element.",
+        "first child of the <book> element.",
+        "last child of <book> element."
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65416,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The _____ element is the root element of every XML Schema?",
+    "op": [
+        "xmlns:xs",
+        "None",
+        "targetNamespace",
+        "<schema>"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65441,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The operational speed of XML DOM, compared to SAX is:",
+    "op": [
+        "None of the given",
+        "Slower",
+        "Faster",
+        "Equal"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65444,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "XML DOM is:",
+    "op": [
+        "Platform independent",
+        "Dynamic in nature",
+        "All of the given",
+        "Traversable"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65447,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Everything is treated in Document Object Model (DOM) as ___________.  ",
+    "op": [
+        "Attributes",
+        "Methods",
+        "Elements",
+        "Nodes"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65462,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The following statement returns all <title> elements under the ________:\nx.getElementsByTagName(\"title\");",
+    "op": [
+        "title",
+        "Tag",
+        "Name",
+        "x element"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65489,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which one of the following languages used to access and manipulate methods and properties of objects?",
+    "op": [
+        "JavaScript",
+        "XML",
+        "HTML",
+        "C++"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65504,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which one of the following is not an advantage of XML DOM?",
+    "op": [
+        "Language and Platform independent",
+        "It is modifiable",
+        "Operational speed is slower than SAX",
+        "It is traversable"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65505,
+    "cc": "CS311",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Entities can be declared ___________",
+    "op": [
+        "internal",
+        "internal or external",
+        "external",
+        "None of the given"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 68672,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Nodes can be navigated using node ____________.",
+    "op": [
+        "relationships",
+        "block",
+        "array",
+        "class"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68674,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Whenever we want to add a child node to an existing node which method will be used? ",
+    "op": [
+        "None of the given options",
+        "createChild()",
+        "appendChild()",
+        "createElement()"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68676,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Parsed Character Data (PCDATA) is a term used about _______ data that will be parsed by the XML parser. ",
+    "op": [
+        "element",
+        "character",
+        "none of the given options",
+        "text"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68677,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Why we used setAttribute() method? ",
+    "op": [
+        "To change an attribute value",
+        "To change a text value",
+        "To change a node value",
+        "To change an element value"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68679,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Nodes in the node list are accessed with index numbers starting from ___________.",
+    "op": [
+        "2",
+        "-1",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68680,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following methods can be used to create a new comment node? ",
+    "op": [
+        "createnewComment()",
+        "createComment()",
+        "none of the given options",
+        "newcreateComment()"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68686,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Traversing means _________ through or traveling across the node tree.",
+    "op": [
+        "adding",
+        "looping",
+        "printing",
+        "spinning"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68687,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "By using the _________, we can loop through a node list. ",
+    "op": [
+        "node type",
+        "length property",
+        "title",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68688,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which parameter in replaceData() method tells the parser how many characters to replace?",
+    "op": [
+        "length",
+        "offset",
+        "None of the given",
+        "string"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68689,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which property of XML document represents the root node?",
+    "op": [
+        "nodeType",
+        "nodeName",
+        "nodeValue",
+        "documentElement"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68692,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following specifies the type of node?",
+    "op": [
+        "nodeValue",
+        "nodeName",
+        "nodeType",
+        "None of the given"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68695,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "when you want to extract the value of each element. This is called __________________.",
+    "op": [
+        "\"Traversing the node tree\"",
+        "\"Traversing first and last tree\"",
+        "\"Traversing the last tree\"",
+        "\"Traversing the first tree\""
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68702,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The term CDATA is used about ________ data that should not be parsed by the XML parser.",
+    "op": [
+        "video",
+        "Null",
+        "text",
+        "audio"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68704,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "When using properties or methods like childNodes or getElementsByTagName(), a node list __________ is returned.",
+    "op": [
+        "Object",
+        "Function",
+        "Class",
+        "Array"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68709,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Whenever we access the nodes in the node tree via the relationship between these nodes, is called_________. ",
+    "op": [
+        "childNodes",
+        "none of the given options",
+        "parentNode",
+        "navigating nodes"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68725,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "if (x[i].nodeType == 2) then node type will be: ",
+    "op": [
+        "Element",
+        "Node",
+        "None of the given options",
+        "Attribute"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68726,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "XML often contains new line, or _______ space characters, between nodes.",
+    "op": [
+        "green",
+        "black",
+        "white",
+        "red"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68727,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following methods return attribute node? ",
+    "op": [
+        "None of the given options",
+        "getElementsByTagName()",
+        "getAttribute()",
+        "getAttributeNode()"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68728,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The _____________ method creates a new element node.",
+    "op": [
+        "getElement()",
+        "createElement()",
+        "newElement()",
+        "makeElement()"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68729,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following is used to get the value of an attribute?",
+    "op": [
+        "getAttribute()",
+        "nodeValue",
+        "getAttributeNode",
+        "getElementsByTagName()"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68730,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Element nodes do not have a _________ value.",
+    "op": [
+        "text",
+        "loop",
+        "audio",
+        "video"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68731,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The removeAttribute() method removes _________ by its name.",
+    "op": [
+        "Attribute value",
+        "None of the given",
+        "Root node",
+        "Attribute node"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68732,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The attributes property of an element node returns a list of attribute nodes. This is called a named _________ .",
+    "op": [
+        "node map",
+        "node function",
+        "function node",
+        "array map"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 69010,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The _________ property of a node list is the number of nodes in the list.",
+    "op": [
+        "height",
+        "count",
+        "length",
+        "width"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69013,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "In the XML DOM, each node is a/(an) ________.",
+    "op": [
+        "Property",
+        "Root",
+        "Object",
+        "Parser"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69302,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "During a server request, the readyState changes from ____ to ____ .",
+    "op": [
+        "1,3",
+        "1,4",
+        "0 , 4",
+        "2,2"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69308,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "All modern browsers support the ______ specification.",
+    "op": [
+        "W3C DOM",
+        "W2C DOM",
+        "W1C DOM",
+        "W4C DOM"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69317,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "If the node type is _______ it is an element node",
+    "op": [
+        "1",
+        "0",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69433,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "The ____________ method can also be used to remove a text node.",
+    "op": [
+        "textChild()",
+        "updateText()",
+        "removeChild()",
+        "childText()"
+    ],
+    "created_at": "2026-07-15T13:27:39.474579+00:00"
+},
+{
+    "id": 69459,
+    "cc": "CS311",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "replaceData() method has __________ parameters :",
+    "op": [
+        "1",
+        "3",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:27:39.474579+00:00"
+}
+]

@@ -1,0 +1,1850 @@
+[
+{
+    "id": 23226,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Traversing a binary tree can only be done using _________",
+    "op": [
+        "Recursion",
+        "Both recursion and iteration",
+        "None of the given options",
+        "Iteration"
+    ],
+    "created_at": "2026-06-28T19:02:16.834851+00:00"
+},
+{
+    "id": 23228,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To remove any node in the min heap other than the root node, the remove method first calls the _________ method before calling deleteMin().",
+    "op": [
+        "increaseKey(p,delta)",
+        "decreaseKey(p,delta)",
+        "remove(p,delta)",
+        "percolateDown(p,delta)"
+    ],
+    "created_at": "2026-06-28T19:02:19.902303+00:00"
+},
+{
+    "id": 23235,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The percolateDown procedure will move the smaller value____ and bigger value______.",
+    "op": [
+        "left,right",
+        "down,up",
+        "right,left",
+        "up,down"
+    ],
+    "created_at": "2026-06-28T19:02:31.668307+00:00"
+},
+{
+    "id": 23243,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There will be ________ external nodes in a binary tree, if we will have N internal nodes.",
+    "op": [
+        "N – 1",
+        "2N",
+        "N + 1",
+        "N/2"
+    ],
+    "created_at": "2026-06-28T19:02:44.412041+00:00"
+},
+{
+    "id": 23249,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the bottom level of a binary tree is not completely filled, depicts that the tree is not a _______.",
+    "op": [
+        "Threaded binary tree",
+        "Perfectly complete binary tree",
+        "complete binary tree",
+        "Expression tree"
+    ],
+    "created_at": "2026-06-28T19:02:53.662511+00:00"
+},
+{
+    "id": 23255,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If there are N external nodes in a binary tree then what will be the no. of internal nodes in this binary tree?",
+    "op": [
+        "N-1",
+        "N+1",
+        "N+2",
+        "N"
+    ],
+    "created_at": "2026-06-28T19:03:04.596433+00:00"
+},
+{
+    "id": 23261,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An expression tree that has only binary operators will always be a/an,",
+    "op": [
+        "Strictly binary tree",
+        "AVL tree",
+        "Binary search tree",
+        "Heap"
+    ],
+    "created_at": "2026-06-28T19:03:12.589517+00:00"
+},
+{
+    "id": 23270,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a binary tree, represented by the following array:\n10,7,9,5,2,1,6,3,4\n\nThis is a ________.",
+    "op": [
+        "Threaded binary tree",
+        "Binary Search tree",
+        "Max heap",
+        "Min heap"
+    ],
+    "created_at": "2026-06-28T19:03:22.066888+00:00"
+},
+{
+    "id": 23275,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is best for traversals,",
+    "op": [
+        "Heap",
+        "AVL tree",
+        "Binary Search Tree",
+        "Threaded Binary Tree"
+    ],
+    "created_at": "2026-06-28T19:03:30.426465+00:00"
+},
+{
+    "id": 23283,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array:\n11,22,33,44,55\n\nAfter inserting a node with value 66.Which of the following is the updated min heap?",
+    "op": [
+        "11,22,66,33,44,55",
+        "11,22,33,66,44,55",
+        "11,22,33,44,66,55",
+        "11,22,33,44,55,66"
+    ],
+    "created_at": "2026-06-28T19:03:38.683878+00:00"
+},
+{
+    "id": 23309,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When a complete binary tree, represented by an array then for any array element at position i, the right child is at position ______ .",
+    "op": [
+        "2i-1",
+        "2i+1",
+        "floor(i/2)",
+        "2i"
+    ],
+    "created_at": "2026-06-28T19:04:20.129534+00:00"
+},
+{
+    "id": 23331,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In deletion, ________ method reorganizes the min heap.",
+    "op": [
+        "DecreaseKey",
+        "PercolateDown",
+        "IncreaseKey",
+        "Percolate_Below"
+    ],
+    "created_at": "2026-06-28T19:04:52.848891+00:00"
+},
+{
+    "id": 23341,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "One requirement to construct a max heap tree is _________.",
+    "op": [
+        "The tree must be binary search three",
+        "The tree must be strictly binary tree",
+        "The tree must be AVL tree",
+        "The tree must be complete binary tree"
+    ],
+    "created_at": "2026-06-28T19:05:04.817653+00:00"
+},
+{
+    "id": 23358,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A binary tree with 33 internal nodes has _______ links to internal nodes.",
+    "op": [
+        "34",
+        "31",
+        "33",
+        "32"
+    ],
+    "created_at": "2026-06-28T19:05:19.503854+00:00"
+},
+{
+    "id": 23373,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A binary tree with 45 internal nodes has _______links to external nodes.",
+    "op": [
+        "45",
+        "46",
+        "90",
+        "44"
+    ],
+    "created_at": "2026-06-28T19:05:34.119528+00:00"
+},
+{
+    "id": 23385,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In heap data structure, the time required for insert() method will be proportional to ___________.",
+    "op": [
+        "N2",
+        "Nlog2N",
+        "log2n",
+        "N"
+    ],
+    "created_at": "2026-06-28T19:05:52.456138+00:00"
+},
+{
+    "id": 23767,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To develop a character encoding scheme in Huffman tree, _______ will be assigned to right branch.",
+    "op": [
+        "1 and 0",
+        "1",
+        "-1",
+        "0"
+    ],
+    "created_at": "2026-06-28T19:14:45.059359+00:00"
+},
+{
+    "id": 23781,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array: 5, 6, 8, 9, 7, 12 What will be the status of array after inserting a new node with value 3?",
+    "op": [
+        "3, 5, 6, 8, 9, 7, 12",
+        "3, 6, 8, 9, 7, 5, 12",
+        "3, 6, 5, 9, 7, 12, 8",
+        "3, 6, 5, 7, 9, 12, 8"
+    ],
+    "created_at": "2026-06-28T19:15:11.974955+00:00"
+},
+{
+    "id": 23782,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When a complete binary tree, represented by an array then for any array element at position i, the parent is at position ______ .",
+    "op": [
+        "2i-1",
+        "2i",
+        "floor(i/2)",
+        "2i+1"
+    ],
+    "created_at": "2026-06-28T19:15:12.369176+00:00"
+},
+{
+    "id": 23787,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If there are N internal nodes in a binary tree then what will be the no. of external nodes in this binary tree?",
+    "op": [
+        "N+2",
+        "N-1",
+        "N",
+        "N+1"
+    ],
+    "created_at": "2026-06-28T19:15:29.939326+00:00"
+},
+{
+    "id": 23791,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Huffman character codes, letters with higher frequencies have _______ code(s).",
+    "op": [
+        "Shorter",
+        "Not less than 4 bits",
+        "Not more than 1 bit",
+        "Larger"
+    ],
+    "created_at": "2026-06-28T19:15:39.929583+00:00"
+},
+{
+    "id": 23822,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a max heap, represented by the following array:\n40,30,20,10,15,16,17,8,4\n\nAfter inserting a node with value 35.Which of the following is the updated max heap?",
+    "op": [
+        "40,35,20,10,15,16,17,8,4,30",
+        "40,30,20,10,15,16,17,8,4,35",
+        "40,30,20,10,35,16,17,8,4,15",
+        "40,35,20,10,30,16,17,8,4,15"
+    ],
+    "created_at": "2026-06-28T19:16:31.476392+00:00"
+},
+{
+    "id": 23824,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In threaded binary tree, the NULL pointers are replaced by the",
+    "op": [
+        "NULL pointers are not replaced",
+        "postorder successor or predecessor",
+        "inorder successor or predecessor",
+        "preorder successor or predecessor"
+    ],
+    "created_at": "2026-06-28T19:16:35.363754+00:00"
+},
+{
+    "id": 23831,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "By using __________we avoid the recursive method of traversing a Tree, which makes use of stacks and consumes a lot of memory and time.",
+    "op": [
+        "Heap data structure",
+        "Binary tree only",
+        "Threaded binary tree",
+        "Huffman encoding"
+    ],
+    "created_at": "2026-06-28T19:16:46.429637+00:00"
+},
+{
+    "id": 23835,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array:\n10,30,20,60,40,50,80,70\n\nAfter inserting a node with value 31.Which of the following is the updated min heap?",
+    "op": [
+        "10,30,20,31,40,50,80,70,60",
+        "10,30,20,31,40,50,80,60,70",
+        "31,10,30,20,70,40,50,80,60",
+        "10,30,20,70,40,50,80,60,31"
+    ],
+    "created_at": "2026-06-28T19:16:52.863758+00:00"
+},
+{
+    "id": 23837,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a max heap, represented by the following array:\n40,30,20,10,15,16,17,8,4\n\nWhich of the following is the index of the parent of node 15?",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-06-28T19:16:53.545632+00:00"
+},
+{
+    "id": 23842,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When a complete binary tree represented by an array then if right child is at position 5 then left child will be at position _____",
+    "op": [
+        "3",
+        "4",
+        "2",
+        "6"
+    ],
+    "created_at": "2026-06-28T19:17:02.854071+00:00"
+},
+{
+    "id": 23849,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is true about dummy node of threaded binary tree?",
+    "op": [
+        "The left pointer of dummy node points to the itself while the right pointer points to the root of tree.",
+        "The left pointer of dummy node points to the root node of the tree while the right pointer points itself i.e. to dummy node.",
+        "The right pointer of dummy node points to the itself while the left pointer is always NULL.",
+        "The left pointer of dummy node points to the root node of the tree while the right pointer is always NULL."
+    ],
+    "created_at": "2026-06-28T19:17:11.792615+00:00"
+},
+{
+    "id": 23882,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is TRUE about iteration?",
+    "op": [
+        "Recursion is more efficient than iteration",
+        "Iteration extensively uses stack memory",
+        "Threaded Binary Trees use the concept of iteration",
+        "Iterative function calls consumes a lot of memory"
+    ],
+    "created_at": "2026-06-28T19:17:58.354233+00:00"
+},
+{
+    "id": 23890,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What will be result if we will evaluate following expression tree? data:image/png;base64,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",
+    "op": [
+        "18",
+        "24",
+        "10",
+        "Given expression cannot be evaluated"
+    ],
+    "created_at": "2026-06-28T19:18:10.648025+00:00"
+},
+{
+    "id": 24294,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "For the inorder traversal of threaded binary tree, we introduced a dummy node. The left pointer of the dummy node is pointing to the ________ node of the tree.",
+    "op": [
+        "root",
+        "right most",
+        "any of the given node",
+        "left most"
+    ],
+    "created_at": "2026-06-28T19:32:50.223921+00:00"
+},
+{
+    "id": 24301,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a max heap, represented by the following array:\n40,30,20,10,15,16,17,8,4\n\nWhich of the following is the parent of node 17?",
+    "op": [
+        "20",
+        "40",
+        "30",
+        "16"
+    ],
+    "created_at": "2026-06-28T19:33:13.344915+00:00"
+},
+{
+    "id": 24305,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A complete binary tree is a tree that is _________ filled, with the possible exception of the bottom level.",
+    "op": [
+        "completely",
+        "partially",
+        "partly",
+        "incompletely"
+    ],
+    "created_at": "2026-06-28T19:33:28.233806+00:00"
+},
+{
+    "id": 24323,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If an expression tree is correct then its root should have,",
+    "op": [
+        "(",
+        "an operand",
+        "an operator",
+        ")"
+    ],
+    "created_at": "2026-06-28T19:34:02.584134+00:00"
+},
+{
+    "id": 24333,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array:\n3,4,6,7,5,10\n\nAfter inserting a node with value 1. Which of the following is the updated min heap?",
+    "op": [
+        "3,4,6,7,5,1,10",
+        "1,4,3,7,5,10,6",
+        "1,4,6,7,5,10,3",
+        "3,4,6,7,5,10,1"
+    ],
+    "created_at": "2026-06-28T19:34:22.623699+00:00"
+},
+{
+    "id": 24351,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If there are 56 internal nodes in a binary tree then how many external nodes this binary tree will have?",
+    "op": [
+        "56",
+        "55",
+        "57",
+        "54"
+    ],
+    "created_at": "2026-06-28T19:34:51.388513+00:00"
+},
+{
+    "id": 24357,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following heap method increase the value of key at position ‘p’ by the amount ‘delta’?",
+    "op": [
+        "decreaseKey(p,delta)",
+        "increaseKey(p,delta)",
+        "percolateDown(p,delta)",
+        "remove(p,delta)"
+    ],
+    "created_at": "2026-06-28T19:35:02.919406+00:00"
+},
+{
+    "id": 24363,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "See the below code and fill the appropriate answer for ? sign. \nvoid fastInorder(TreeNode* p) \n{ \n   while((p=nexInorder(p)) != ? ) \n     cout << p->getInfo();\n}",
+    "op": [
+        "RTH",
+        "LTH",
+        "dummy",
+        "rootNode"
+    ],
+    "created_at": "2026-06-28T19:35:19.242499+00:00"
+},
+{
+    "id": 24367,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following method is helpful in creating the heap at once?",
+    "op": [
+        "insert",
+        "update",
+        "add",
+        "percolateDown"
+    ],
+    "created_at": "2026-06-28T19:35:26.963783+00:00"
+},
+{
+    "id": 24368,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is NOT true about threaded binary tree?",
+    "op": [
+        "Left thread of the right-most node points to the dummy node.",
+        "The left pointer of dummy node points to the root node of the tree.",
+        "Right thread of the right-most node points to the dummy node.",
+        "Left thread of the left-most node points to the dummy node."
+    ],
+    "created_at": "2026-06-28T19:35:35.377339+00:00"
+},
+{
+    "id": 24369,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "It is necessary for Huffman encoding tree to be,",
+    "op": [
+        "Complete Binary Tree",
+        "Binary Search Tree",
+        "None of the given",
+        "Binary Tree"
+    ],
+    "created_at": "2026-06-28T19:35:35.839588+00:00"
+},
+{
+    "id": 24373,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In threaded binary tree, we convert the ________ pointers of binary tree to threads.",
+    "op": [
+        "Left",
+        "None of the given options",
+        "NULL",
+        "Right"
+    ],
+    "created_at": "2026-06-28T19:35:51.196947+00:00"
+},
+{
+    "id": 24378,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A Threaded Binary Tree is a binary tree in which every node that does not have a right child has a THREAD (in actual sense, a link) to its __________ successor",
+    "op": [
+        "Inorder",
+        "Postorder",
+        "levelorder",
+        "Preorder"
+    ],
+    "created_at": "2026-06-28T19:36:06.828096+00:00"
+},
+{
+    "id": 24406,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A binary tree with N internal nodes has _____ links, _______ links to internal nodes and ________ links to external nodes.",
+    "op": [
+        "2N, N-1, N+1",
+        "N-1, 2N, N+1",
+        "N+1, 2N, N-1",
+        "N+1, N-1, 2N"
+    ],
+    "created_at": "2026-06-28T19:37:04.720253+00:00"
+},
+{
+    "id": 24411,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array: 2,5,6,7,8 After calling the function deleteMin().Which of the following is the updated min heap?",
+    "op": [
+        "5,6,7,8",
+        "5,7,8,6",
+        "5,8,6,7",
+        "5,7,6,8"
+    ],
+    "created_at": "2026-06-28T19:37:23.345871+00:00"
+},
+{
+    "id": 24420,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When a complete binary tree, represented by an array then for any array element at position i, the left child is at position ______.",
+    "op": [
+        "2i",
+        "2i+1",
+        "2i-1",
+        "floor(i/2)"
+    ],
+    "created_at": "2026-06-28T19:37:45.735662+00:00"
+},
+{
+    "id": 24440,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the bottom level of a binary tree is NOT completely filled, depicts that the tree is NOT a ----------",
+    "op": [
+        "Threaded binary tree",
+        "Expression tree",
+        "Perfectly complete Binary tree",
+        "Complete Binary tree"
+    ],
+    "created_at": "2026-06-28T19:39:51.502561+00:00"
+},
+{
+    "id": 24445,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "We are given N items to build a heap of items , this can be done with _____ successive inserts.",
+    "op": [
+        "N",
+        "N^2",
+        "N-1",
+        "N+1"
+    ],
+    "created_at": "2026-06-28T19:40:13.251751+00:00"
+},
+{
+    "id": 24461,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following array elements represents a min heap?",
+    "op": [
+        "9,11,13,10,15,18",
+        "9,11,13,26,15,18",
+        "9,7,13,26,15,18",
+        "9,11,8,26,15,18"
+    ],
+    "created_at": "2026-06-28T19:41:39.382917+00:00"
+},
+{
+    "id": 24465,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A complete binary tree of height 3 has between ________ nodes.",
+    "op": [
+        "8 to 17",
+        "8 to 14",
+        "8 to 16",
+        "8 to 15"
+    ],
+    "created_at": "2026-06-28T19:42:00.802176+00:00"
+},
+{
+    "id": 24472,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In heap's percolateDown method, why do we start our iterations from n/2 instead of n?",
+    "op": [
+        "Because nth node is a leaf node and it doesn't have any left & right child to get sorted",
+        "nth node contains null",
+        "nth node key is always largest",
+        "Because n node iterations create complexity"
+    ],
+    "created_at": "2026-06-28T19:42:27.123084+00:00"
+},
+{
+    "id": 24477,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "While building Huffman encoding tree the parent node is _________ of left and right child nodes.",
+    "op": [
+        "Multiplication",
+        "Division",
+        "Subtraction",
+        "Addition"
+    ],
+    "created_at": "2026-06-28T19:43:16.985959+00:00"
+},
+{
+    "id": 24489,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "We implement the heap by ______________ .",
+    "op": [
+        "Expression tree",
+        "AVL tree",
+        "Complete binary tree",
+        "Threaded Tree"
+    ],
+    "created_at": "2026-06-28T19:45:02.613578+00:00"
+},
+{
+    "id": 24491,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following heap method lowers the value of key at position ‘p’ by the amount ‘delta’?",
+    "op": [
+        "remove(p,delta)",
+        "percolateDown(p,delta)",
+        "increaseKey(p,delta)",
+        "decreaseKey(p,delta)"
+    ],
+    "created_at": "2026-06-28T19:45:04.102581+00:00"
+},
+{
+    "id": 24496,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In building Huffman encoding tree from leaf nodes,",
+    "op": [
+        "we start with characters with least frequencies.",
+        "we start with characters with maximum frequencies.",
+        "none of the options.",
+        "we start with characters with medium frequencies."
+    ],
+    "created_at": "2026-06-28T19:45:27.259908+00:00"
+},
+{
+    "id": 24505,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In heap, insertion takes unit time if _________________.",
+    "op": [
+        "Insertion is done at leaf node",
+        "Key percolates up to the root",
+        "Insertion is done at level 2",
+        "Insertion is done at level 1"
+    ],
+    "created_at": "2026-06-28T19:46:07.862425+00:00"
+},
+{
+    "id": 24514,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "While building Huffman encoding tree the new node that is the result of joining two nodes has the frequency.",
+    "op": [
+        "Equal to the difference of the two frequencies",
+        "Equal to the greater frequency",
+        "Equal to the small frequency",
+        "Equal to the sum of the two frequencies"
+    ],
+    "created_at": "2026-06-28T19:47:23.40977+00:00"
+},
+{
+    "id": 24520,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In an expression tree, if symbol is an operand add it on a ___________.",
+    "op": [
+        "Linked list",
+        "Stack",
+        "Queue",
+        "Heap"
+    ],
+    "created_at": "2026-06-28T19:47:46.706662+00:00"
+},
+{
+    "id": 24768,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To evaluate an expression tree which of following techniques is used?",
+    "op": [
+        "Left to right",
+        "Top down",
+        "Bottom up",
+        "Right to left"
+    ],
+    "created_at": "2026-06-28T20:13:45.984409+00:00"
+},
+{
+    "id": 24775,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a complete binary tree, represented by the following array (array index starts at 1):\n19, 7, 15, 6, 4, 13, 2, 3, 2\nWhat will be values of the children of the node with value ‘15’?\n\nLeft:________    Right:__________",
+    "op": [
+        "4,13",
+        "13,2",
+        "6,4",
+        "19,7"
+    ],
+    "created_at": "2026-06-28T20:14:09.436949+00:00"
+},
+{
+    "id": 24779,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In an expression tree, a unary operator will have only ________ subtree.",
+    "op": [
+        "None",
+        "Three",
+        "Two",
+        "One"
+    ],
+    "created_at": "2026-06-28T20:14:18.946578+00:00"
+},
+{
+    "id": 24825,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The worst case of building a heap of N keys is _______ .",
+    "op": [
+        "NlogN",
+        "2^N",
+        "N^2",
+        "N"
+    ],
+    "created_at": "2026-06-28T20:19:08.397537+00:00"
+},
+{
+    "id": 24905,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statement is not correct about Binary Trees, where binary tree traversals are carried out repeatedly?",
+    "op": [
+        "It is useful to modify the tree data structure which represents the binary tree to speed up the inorder traversal process by making it stack free.",
+        "The overhead of stack operations during recursive calls can be costly.",
+        "It is very cumbersome to modify the tree data structure as most of pointer fields are not NULL.",
+        "If we use non-recursive but stack driven traversal procedure then it would be costly again."
+    ],
+    "created_at": "2026-06-28T20:31:34.036205+00:00"
+},
+{
+    "id": 24911,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which of the following tree, parent node has key greater than or equal to its both children?",
+    "op": [
+        "Max heap",
+        "Binary search tree",
+        "Threaded Binary tree",
+        "Complete Binary tree"
+    ],
+    "created_at": "2026-06-28T20:33:50.935522+00:00"
+},
+{
+    "id": 24982,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If whole data is given to construct the min heap, then which of the following is true?",
+    "op": [
+        "BuildHeap method is appropriate for construction",
+        "Both Insert and Buildheap methods are inappropriate.",
+        "Insert method is appropriate for construction",
+        "Both Insert and BuildHeap method are equally appropriate"
+    ],
+    "created_at": "2026-06-28T20:54:29.619486+00:00"
+},
+{
+    "id": 24992,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If both pointers of the node in a binary tree are NULL then it will be a/an",
+    "op": [
+        "None of the given options",
+        "Inner node",
+        "Leaf node",
+        "Root node"
+    ],
+    "created_at": "2026-06-28T20:59:24.372872+00:00"
+},
+{
+    "id": 25033,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Huffman encoding, codes are sent to the receiver in ___________ format.",
+    "op": [
+        "Binary",
+        "Hexadecimal",
+        "Octal",
+        "ASCII"
+    ],
+    "created_at": "2026-06-28T21:08:08.788199+00:00"
+},
+{
+    "id": 25034,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If there are 23 external nodes in a binary tree then what will be the no. of internal nodes in this binary tree?",
+    "op": [
+        "24",
+        "23",
+        "22",
+        "21"
+    ],
+    "created_at": "2026-06-28T21:08:32.238498+00:00"
+},
+{
+    "id": 25066,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Huffman tree, the process of combining the two nodes of lowest frequency will be carried out until ________ node/nodes left.",
+    "op": [
+        "One",
+        "Zero",
+        "More than two nodes",
+        "Two"
+    ],
+    "created_at": "2026-06-28T21:17:45.710839+00:00"
+},
+{
+    "id": 25109,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider a min heap, represented by the following array:\n3,4,6,7,5\n\nAfter calling the function deleteMin().Which of the following is the updated min heap?",
+    "op": [
+        "4,5,6,7",
+        "4,6,5,7,",
+        "4,6,7,5",
+        "6,7,5,4"
+    ],
+    "created_at": "2026-06-28T21:37:16.230214+00:00"
+},
+{
+    "id": 25120,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In a threaded binary tree which nodes have NULL child pointers,",
+    "op": [
+        "All leaf nodes",
+        "Nodes other then leaf nodes",
+        "None of the nodes",
+        "Root Node"
+    ],
+    "created_at": "2026-06-28T21:41:52.597809+00:00"
+},
+{
+    "id": 25130,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In complete binary tree the bottom level is filled from ________",
+    "op": [
+        "Left to right",
+        "Not filled at all",
+        "Right to left",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-28T21:43:19.481125+00:00"
+},
+{
+    "id": 42364,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In deletion, ________ method reorganizes the min heap.",
+    "op": [
+        "DecreaseKey",
+        "IncreaseKey",
+        "PercolateDown",
+        "Percolate_Below"
+    ],
+    "created_at": "2026-07-01T15:26:33.977074+00:00"
+},
+{
+    "id": 42365,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "See the below code and fill the appropriate answer for ? sign. \nvoid fastInorder(TreeNode* p) \n{ \n   while((p=nexInorder(p)) != ? ) \n     cout << p->getInfo();\n}",
+    "op": [
+        "LTH",
+        "rootNode",
+        "dummy",
+        "RTH"
+    ],
+    "created_at": "2026-07-01T15:26:42.700752+00:00"
+},
+{
+    "id": 42367,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "We implement the heap by ______________ .",
+    "op": [
+        "Threaded Tree",
+        "Expression tree",
+        "AVL tree",
+        "Complete binary tree"
+    ],
+    "created_at": "2026-07-01T15:27:35.987793+00:00"
+},
+{
+    "id": 42368,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Consider a min heap, represented by the following array:\n10,30,20,60,40,50,80,70\n\nAfter inserting a node with value 31.Which of the following is the updated min heap?",
+    "op": [
+        "10,30,20,31,40,50,80,60,70",
+        "10,30,20,31,40,50,80,70,60",
+        "10,30,20,70,40,50,80,60,31",
+        "31,10,30,20,70,40,50,80,60"
+    ],
+    "created_at": "2026-07-01T15:27:49.492057+00:00"
+},
+{
+    "id": 42369,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "To evaluate an expression tree which of following techniques is used?",
+    "op": [
+        "Right to left",
+        "Left to right",
+        "Bottom up",
+        "Top down"
+    ],
+    "created_at": "2026-07-01T15:28:46.653278+00:00"
+},
+{
+    "id": 42370,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Consider a min heap, represented by the following array:\n11,22,33,44,55\n\nAfter inserting a node with value 66.Which of the following is the updated min heap?",
+    "op": [
+        "11,22,33,66,44,55",
+        "11,22,66,33,44,55",
+        "11,22,33,44,55,66",
+        "11,22,33,44,66,55"
+    ],
+    "created_at": "2026-07-01T15:29:33.319128+00:00"
+},
+{
+    "id": 42371,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In which of the following tree, parent node has key greater than or equal to its both children?",
+    "op": [
+        "Binary search tree",
+        "Threaded Binary tree",
+        "Max heap",
+        "Complete Binary tree"
+    ],
+    "created_at": "2026-07-01T15:29:44.762828+00:00"
+},
+{
+    "id": 42372,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following method is helpful in creating the heap at once?",
+    "op": [
+        "insert",
+        "percolateDown",
+        "update",
+        "add"
+    ],
+    "created_at": "2026-07-01T15:29:56.219734+00:00"
+},
+{
+    "id": 42374,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In a threaded binary tree which nodes have NULL child pointers,",
+    "op": [
+        "None of the nodes",
+        "Nodes other then leaf nodes",
+        "All leaf nodes",
+        "Root Node"
+    ],
+    "created_at": "2026-07-01T18:44:18.143311+00:00"
+},
+{
+    "id": 42375,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Consider a complete binary tree, represented by the following array (array index starts at 1):\n19, 7, 15, 6, 4, 13, 2, 3, 2\nWhat will be values of the children of the node with value ‘15’?\n\nLeft:________    Right:__________",
+    "op": [
+        "19,7",
+        "4,13",
+        "13,2",
+        "6,4"
+    ],
+    "created_at": "2026-07-01T18:46:17.355529+00:00"
+},
+{
+    "id": 42376,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If there are 23 external nodes in a binary tree then what will be the no. of internal nodes in this binary tree?",
+    "op": [
+        "21",
+        "24",
+        "22",
+        "23"
+    ],
+    "created_at": "2026-07-01T18:47:55.644579+00:00"
+},
+{
+    "id": 42377,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Consider a binary tree, represented by the following array:\n10,7,9,5,2,1,6,3,4\n\nThis is a ________.",
+    "op": [
+        "Min heap",
+        "Max heap",
+        "Threaded binary tree",
+        "Binary Search tree"
+    ],
+    "created_at": "2026-07-01T18:49:09.130292+00:00"
+},
+{
+    "id": 42378,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A binary tree with N internal nodes has _____ links, _______ links to internal nodes and ________ links to external nodes.",
+    "op": [
+        "N+1, 2N, N-1",
+        "2N, N-1, N+1",
+        "N-1, 2N, N+1",
+        "N+1, N-1, 2N"
+    ],
+    "created_at": "2026-07-01T18:49:59.289674+00:00"
+},
+{
+    "id": 42379,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "To develop a character encoding scheme in Huffman tree, _______ will be assigned to left branch.",
+    "op": [
+        "-1",
+        "1 and 0",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-01T18:50:28.861748+00:00"
+},
+{
+    "id": 42380,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Consider a min heap, represented by the following array: 5, 6, 8, 9, 7, 12 What will be the status of array after inserting a new node with value 3?",
+    "op": [
+        "3, 5, 6, 8, 9, 7, 12",
+        "3, 6, 5, 7, 9, 12, 8",
+        "3, 6, 8, 9, 7, 5, 12",
+        "3, 6, 5, 9, 7, 12, 8"
+    ],
+    "created_at": "2026-07-01T18:51:49.020509+00:00"
+},
+{
+    "id": 42381,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement concerning heaps is NOT true?",
+    "op": [
+        "A heap can be used to implement a priority queue.",
+        "A heap can be stored in an array.",
+        "A heap can be used to sort data.",
+        "A heap can be stored in a binary search tree."
+    ],
+    "created_at": "2026-07-01T18:52:40.478089+00:00"
+},
+{
+    "id": 42382,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The worst case of building a heap of N keys is _______ .",
+    "op": [
+        "N",
+        "2^N",
+        "NlogN",
+        "N^2"
+    ],
+    "created_at": "2026-07-01T18:53:17.200607+00:00"
+},
+{
+    "id": 47716,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are 100 elements in a heap, if we perform 100 deleteMin operations then we will get ___________ list",
+    "op": [
+        "Nonlinear",
+        "Random",
+        "Sorted",
+        "Unsorted"
+    ],
+    "created_at": "2026-07-05T19:05:18.648515+00:00"
+},
+{
+    "id": 47732,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If the height of a perfect binary tree is 4. What will be the total number of nodes in it?",
+    "op": [
+        "32",
+        "15",
+        "31",
+        "16"
+    ],
+    "created_at": "2026-07-05T19:05:28.686098+00:00"
+},
+{
+    "id": 47752,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In heap data structure, the time required for buildHeap() method will be proportional to ___________.",
+    "op": [
+        "Nlog2N",
+        "N",
+        "log2n",
+        "N2"
+    ],
+    "created_at": "2026-07-05T19:05:41.87544+00:00"
+},
+{
+    "id": 47771,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Median is __________.",
+    "op": [
+        "K = N * 3",
+        "K = N / 2",
+        "K = N * 2",
+        "K = N / 3"
+    ],
+    "created_at": "2026-07-05T19:05:53.168339+00:00"
+},
+{
+    "id": 47783,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT true regarding the maze generation?",
+    "op": [
+        "Removing a wall is the same as doing a union operation.",
+        "Remove a randomly chosen wall if the cells it separates are already in the same set.",
+        "Do not remove a randomly chosen wall if the cells it separates are already in the same set.",
+        "Randomly remove walls until the entrance and exit cells are in the same set."
+    ],
+    "created_at": "2026-07-05T19:06:01.870913+00:00"
+},
+{
+    "id": 47809,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the time complexity of binary search with iteration?",
+    "op": [
+        "O(n)",
+        "O(n2)",
+        "O(nlogn)",
+        "O(logn)"
+    ],
+    "created_at": "2026-07-05T19:06:25.309254+00:00"
+},
+{
+    "id": 47839,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is a skip list?",
+    "op": [
+        "a linked-list that allows faster search within an ordered sequence",
+        "a linked-list with size value in nodes",
+        "a tree which is in the form of linked list",
+        "a linked-list that allows slower search within an ordered sequence"
+    ],
+    "created_at": "2026-07-05T19:06:48.241065+00:00"
+},
+{
+    "id": 47851,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A pair of sets which does not have any ________ element are called disjoint sets",
+    "op": [
+        "Different",
+        "Common",
+        "Null",
+        "Uncommon"
+    ],
+    "created_at": "2026-07-05T19:06:56.292702+00:00"
+},
+{
+    "id": 47867,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In min heap, if there are 100 elements in a heap and we perform 100 deleteMin operations then we will get the elements in _________.",
+    "op": [
+        "Descending order",
+        "Random",
+        "Unsorted",
+        "Ascending order"
+    ],
+    "created_at": "2026-07-05T19:07:06.557146+00:00"
+},
+{
+    "id": 47881,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If we want to find 3rd minimum element from an array of elements, then after applying buildHeap method, how many times deleteMin method will be called ?",
+    "op": [
+        "4",
+        "1",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-07-05T19:07:17.319395+00:00"
+},
+{
+    "id": 48532,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The scenario “If Ali is brother of Asif and Asif is brother of Uzma then Ali is brother of Uzma” is the example of ___________ property.",
+    "op": [
+        "Transitive",
+        "Reflexive",
+        "Identity",
+        "Symmetry"
+    ],
+    "created_at": "2026-07-05T19:16:23.489315+00:00"
+},
+{
+    "id": 48537,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following possible operations are performed on Table ADT?",
+    "op": [
+        "Only Insert and Remove",
+        "Insert, Find, Remove",
+        "Only Insert and Find",
+        "Only Find and Remove"
+    ],
+    "created_at": "2026-07-05T19:16:32.274419+00:00"
+},
+{
+    "id": 48543,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Given the values are the array representation of heap;\n12\t23\t26\t31\t34\t44\t56 64\t78\t100\nWhat is the 5th smallest element in the given heap?",
+    "op": [
+        "31",
+        "56",
+        "34",
+        "44"
+    ],
+    "created_at": "2026-07-05T19:16:37.566567+00:00"
+},
+{
+    "id": 48550,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For a perfect binary tree of height h, having N nodes, the sum of heights of nodes is  _____________.",
+    "op": [
+        "N – 1 + h",
+        "N – (h - 1)",
+        "N – 1",
+        "N – h – 1"
+    ],
+    "created_at": "2026-07-05T19:16:46.108491+00:00"
+},
+{
+    "id": 48561,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Given the values are the array representation of heap;\n12\t23\t26\t31\t34\t44\t56 64\t78\t100\nIf we perform 4 deleteMin operations, the last element deleted is__________.",
+    "op": [
+        "31",
+        "44",
+        "34",
+        "56"
+    ],
+    "created_at": "2026-07-05T19:16:58.308542+00:00"
+},
+{
+    "id": 48590,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The array in binary search is sub divided ______________.",
+    "op": [
+        "Once",
+        "Until a sublist is no more divisible",
+        "Twice",
+        "N time"
+    ],
+    "created_at": "2026-07-05T19:17:27.091299+00:00"
+},
+{
+    "id": 48872,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The expression\nif ( ! heap->isFull() )\ncheck",
+    "op": [
+        "Heap is empty",
+        "Heap is full",
+        "Heap is not empty",
+        "Heap is not full"
+    ],
+    "created_at": "2026-07-05T19:22:59.967549+00:00"
+},
+{
+    "id": 48942,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The total number of nodes on 5th level of a perfect binary tree are :",
+    "op": [
+        "15",
+        "16",
+        "31",
+        "32"
+    ],
+    "created_at": "2026-07-05T19:25:30.762448+00:00"
+},
+{
+    "id": 48976,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Suppose there are a set of fruits and a set of vegetables. Both sets are ______________ sets.",
+    "op": [
+        "Disjoint",
+        "Subsets",
+        "Whole",
+        "Equal"
+    ],
+    "created_at": "2026-07-05T19:26:31.086427+00:00"
+},
+{
+    "id": 48989,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following properties are satisfied by Equivalence relationship?",
+    "op": [
+        "Only Reflexive and Transitive",
+        "Only Symmetric and transitive",
+        "Reflexive , Symmetric and Transitive",
+        "Only Reflexive and Symmetric"
+    ],
+    "created_at": "2026-07-05T19:26:56.959623+00:00"
+},
+{
+    "id": 49005,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following is NOT the property of equivalence relation?",
+    "op": [
+        "Symmetric",
+        "Reflexive",
+        "Associative",
+        "Transitive"
+    ],
+    "created_at": "2026-07-05T19:27:19.264317+00:00"
+},
+{
+    "id": 49027,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A perfect binary tree is constructed using 127 nodes then what will be sum of heights of nodes?",
+    "op": [
+        "121",
+        "119",
+        "118",
+        "120"
+    ],
+    "created_at": "2026-07-05T19:27:43.21233+00:00"
+},
+{
+    "id": 49207,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If a tree has 20 edges/links, then the total number of nodes in the tree will be :",
+    "op": [
+        "Can't be determined",
+        "19",
+        "20",
+        "21"
+    ],
+    "created_at": "2026-07-05T19:33:34.34154+00:00"
+},
+{
+    "id": 49212,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Heap can be used to implement",
+    "op": [
+        "Stack",
+        "Queue",
+        "Linked list",
+        "Priority Queue"
+    ],
+    "created_at": "2026-07-05T19:33:43.15624+00:00"
+},
+{
+    "id": 49391,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Suppose there is an image segmented into pixels. Each pixel has _________ neighbour(s).",
+    "op": [
+        "4",
+        "16",
+        "0",
+        "8"
+    ],
+    "created_at": "2026-07-05T19:39:48.067266+00:00"
+},
+{
+    "id": 49484,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The main reason of using heap in priority queue is",
+    "op": [
+        "heap can't be used in priority queues",
+        "less code",
+        "improve performance",
+        "code is readable"
+    ],
+    "created_at": "2026-07-05T19:42:52.751904+00:00"
+},
+{
+    "id": 49522,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT an implementation of Table ADT?",
+    "op": [
+        "Linked List",
+        "Sorted Sequential Array",
+        "Stack",
+        "Skip List"
+    ],
+    "created_at": "2026-07-05T19:44:16.190433+00:00"
+},
+{
+    "id": 49555,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In perfect binary tree ______________ .",
+    "op": [
+        "Leaf nodes are situated at different levels",
+        "Internal nodes has exactly two child nodes",
+        "Internal nodes has only left child",
+        "Internal nodes has only right child"
+    ],
+    "created_at": "2026-07-05T19:45:37.055506+00:00"
+},
+{
+    "id": 49568,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In a perfect binary tree of height h, the total number of nodes N is ___________.",
+    "op": [
+        "2h-1 – 1",
+        "2h+1 – 1",
+        "2h+1 + 1",
+        "2h-1 +1"
+    ],
+    "created_at": "2026-07-05T19:46:08.627501+00:00"
+},
+{
+    "id": 49737,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If we want to find median of 50 elements, then after applying buildHeap method, how many times deleteMin method will be called ?",
+    "op": [
+        "5",
+        "25",
+        "35",
+        "50"
+    ],
+    "created_at": "2026-07-05T19:54:16.842249+00:00"
+},
+{
+    "id": 49751,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The total number of nodes on 10th level of a perfect binary tree are :",
+    "op": [
+        "Can't be determined",
+        "512",
+        "256",
+        "1024"
+    ],
+    "created_at": "2026-07-05T19:54:52.161528+00:00"
+},
+{
+    "id": 49756,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In 1990,Bill Pugh proposed an enhancement on linked lists and the new data structure was termed as",
+    "op": [
+        "Tree List",
+        "Fixed list",
+        "Enhanced Linked list",
+        "Skip list"
+    ],
+    "created_at": "2026-07-05T19:54:59.229001+00:00"
+},
+{
+    "id": 50036,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Binary Search can be categorized into which of the following?",
+    "op": [
+        "Brute Force technique",
+        "Dynamic programming",
+        "Greedy algorithm",
+        "Divide and conquer"
+    ],
+    "created_at": "2026-07-05T20:15:30.16445+00:00"
+},
+{
+    "id": 50331,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Suppose there are 100 elements in an equivalence class, so initially there will be 100 trees. The collection of these trees is called ________________.",
+    "op": [
+        "Cluster",
+        "Forest",
+        "Bunch",
+        "Class"
+    ],
+    "created_at": "2026-07-05T20:44:08.778655+00:00"
+},
+{
+    "id": 50468,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Following data that is array representation of min heap. If we have to get the value 27 from the min heap then how many times deleteMin() method will be called? data:image/png;base64,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",
+    "op": [
+        "9",
+        "5",
+        "8",
+        "4"
+    ],
+    "created_at": "2026-07-05T21:11:47.443043+00:00"
+},
+{
+    "id": 50520,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statement is NOT correct regarding Table ADT?",
+    "op": [
+        "In a table, the type of information in columns may be different.",
+        "A table consists of several columns, known as entities.",
+        "The row of a table is called a record.",
+        "A major use of table is in databases where we build and use tables for keeping information."
+    ],
+    "created_at": "2026-07-05T21:25:16.276437+00:00"
+},
+{
+    "id": 50767,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A table consists of several columns, known as",
+    "op": [
+        "Entity",
+        "Fields",
+        "Record",
+        "Tuple"
+    ],
+    "created_at": "2026-07-05T22:50:40.085968+00:00"
+},
+{
+    "id": 65145,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Consider a min heap, represented by the following array:  2,5,6,7,8 After calling the function deleteMin().Which of the following is the updated min heap? ",
+    "op": [
+        "5,7,6,8",
+        "5,8,6,7",
+        "5,7,8,6",
+        "5,6,7,8"
+    ],
+    "created_at": "2026-07-15T13:27:16.096852+00:00"
+},
+{
+    "id": 65167,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What will be result if we will evaluate following expression tree? data:image/png;base64,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",
+    "op": [
+        "24",
+        "10",
+        "18",
+        "Given expression cannot be evaluated"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 73644,
+    "cc": "CS301",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider a min heap, represented by the following array: 3,4,6,7,5 After calling the function deleteMin().Which of the following is the updated min heap?",
+    "op": [
+        "4,5,6,7",
+        "6,7,5,4",
+        "4,6,7,5",
+        "4,6,5,7,"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73691,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For a perfect binary tree of height h, having N nodes, the sum of heights of nodes is _____________.",
+    "op": [
+        "N – (h - 1)",
+        "N – 1 + h",
+        "N – h – 1",
+        "N – 1"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73692,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Given the values are the array representation of heap; 12 23 26 31 34 44 56 64 78 100 If we perform 4 deleteMin operations, the last element deleted is__________.",
+    "op": [
+        "56",
+        "31",
+        "44",
+        "34"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73696,
+    "cc": "CS301",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The expression if ( ! heap->isEmpty() ) checks",
+    "op": [
+        "Heap is not empty",
+        "Heap is empty",
+        "Not a valid expression",
+        "Heap is full"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

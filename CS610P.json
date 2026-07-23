@@ -1,0 +1,1388 @@
+[
+    {
+        "id": 23596,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is not an installation component of Wireshark?",
+        "op": [
+            "TShark",
+            "Tools",
+            "Layout",
+            "Plugins & Extensions"
+        ],
+        "created_at": "2026-06-28T19:10:00.075204+00:00"
+    },
+    {
+        "id": 23602,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark, By default, the Packet List pane does not contain __________.",
+        "op": [
+            "Device",
+            "Protocol",
+            "Time",
+            "Source"
+        ],
+        "created_at": "2026-06-28T19:10:05.862498+00:00"
+    },
+    {
+        "id": 23613,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, you can see ‘packet content’ as_________.",
+        "op": [
+            "Binary",
+            "Octal",
+            "Hexadecimal",
+            "Alphabetically"
+        ],
+        "created_at": "2026-06-28T19:10:12.603812+00:00"
+    },
+    {
+        "id": 23621,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "Wireshark tool can capture ___________.",
+        "op": [
+            "dead packets",
+            "lost packets",
+            "virus infected packets",
+            "live packet data"
+        ],
+        "created_at": "2026-06-28T19:10:18.09852+00:00"
+    },
+    {
+        "id": 24084,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, until you ____________, you are working in Wireshark's default profile.",
+        "op": [
+            "Create a new profile",
+            "Create new column",
+            "Create new row",
+            "Create colors scheme"
+        ],
+        "created_at": "2026-06-28T19:23:38.729651+00:00"
+    },
+    {
+        "id": 24088,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, “Interfaces” option is available under _______ tab.",
+        "op": [
+            "Capture",
+            "File",
+            "View",
+            "Analyze"
+        ],
+        "created_at": "2026-06-28T19:23:47.716081+00:00"
+    },
+    {
+        "id": 24094,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, __________ would be able to capture live network traffic.",
+        "op": [
+            "ProPcap",
+            "WPcap",
+            "MSPcap",
+            "WinPcap"
+        ],
+        "created_at": "2026-06-28T19:23:56.971218+00:00"
+    },
+    {
+        "id": 24098,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "Which of the following tool captures and decodes the network frames?",
+        "op": [
+            "Packter tracer",
+            "Wireshark",
+            "Nesuss",
+            "Network simulator"
+        ],
+        "created_at": "2026-06-28T19:24:05.25704+00:00"
+    },
+    {
+        "id": 24156,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark, ________ shows profile name.",
+        "op": [
+            "Tool Bar",
+            "Menu Bar",
+            "Title Bar",
+            "Status Bar"
+        ],
+        "created_at": "2026-06-28T19:27:11.390225+00:00"
+    },
+    {
+        "id": 24185,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, profile name is shown in the right side column of the __________.",
+        "op": [
+            "Status bar",
+            "Title bar",
+            "Menu bar",
+            "Tool bar"
+        ],
+        "created_at": "2026-06-28T19:28:07.424395+00:00"
+    },
+    {
+        "id": 24190,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "In Wireshark tool, to create new profile you need to select __________ in Configuration Profile window.",
+        "op": [
+            "New",
+            "Edit",
+            "Narrow",
+            "Update"
+        ],
+        "created_at": "2026-06-28T19:28:13.836383+00:00"
+    },
+    {
+        "id": 24459,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is a network packet analyzer tool?",
+        "op": [
+            "Nesuss",
+            "Packter tracer",
+            "Network simulator",
+            "Wireshark"
+        ],
+        "created_at": "2026-06-28T19:41:28.790612+00:00"
+    },
+    {
+        "id": 24605,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "29 June 2026",
+        "qt": "Wireshark tool is available for __________.",
+        "op": [
+            "Only Windows",
+            "Android",
+            "Only UNIX",
+            "UNIX and Windows"
+        ],
+        "created_at": "2026-06-28T19:54:29.879971+00:00"
+    },
+    {
+        "id": 30776,
+        "cc": "CS610P",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "In Windows 7 or Windows 10 operating system, for assigning IP address to the computer, you will select __________after right-click on your local adapter.",
+        "op": [
+            "Properties",
+            "Status",
+            "Diagnose",
+            "Bridge connection"
+        ],
+        "created_at": "2026-06-30T19:01:52.714006+00:00"
+    },
+    {
+        "id": 30782,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "To configure IP address in windows operating system, go to the “Local Area Connection Properties” window and highlight ______________ .",
+        "op": [
+            "Internet Protocol Version 5 (TCP/IPv5)",
+            "Internet Protocol Version1 (TCP/IPv1)",
+            "Internet Protocol Version 4 (TCP/IPv4)",
+            "Internet Protocol Version 2 (TCP/IPv2)"
+        ],
+        "created_at": "2026-06-30T19:02:00.019639+00:00"
+    },
+    {
+        "id": 30790,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is correct address of Google DNS server?",
+        "op": [
+            "8.8.8.8",
+            "8.7.8.8",
+            "8.8.7.8",
+            "8.8.8.7"
+        ],
+        "created_at": "2026-06-30T19:02:08.112633+00:00"
+    },
+    {
+        "id": 30795,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "Windows will run __________ to verify the connection is good.",
+        "op": [
+            "Network Sniffer",
+            "Network Designer",
+            "Network Modeller",
+            "Network Diagnostics"
+        ],
+        "created_at": "2026-06-30T19:02:14.916143+00:00"
+    },
+    {
+        "id": 30804,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In windows operating system, _______ command can be used in command prompt to check that the network adapter settings have been successfully changed.",
+        "op": [
+            "Troubleshoot",
+            "Ping",
+            "Ipconfig",
+            "Ipcheck"
+        ],
+        "created_at": "2026-06-30T19:02:22.217765+00:00"
+    },
+    {
+        "id": 30873,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In “Internet Protocol Version 4 (TCP/IPv4) Properties” window, the _______ radio button will be selected to enter the correct IP address.",
+        "op": [
+            "Use the same IP address",
+            "Use the following IP address",
+            "Use the internal IP address",
+            "Use the embedded IP address"
+        ],
+        "created_at": "2026-06-30T19:04:33.919044+00:00"
+    },
+    {
+        "id": 30890,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In “Internet Protocol Version 4 (TCP/IPv4) Properties” window, after entering correct IP address, you also need to provide the preferred and alternate _________ server addresses.",
+        "op": [
+            "DNS",
+            "Proxy",
+            "Database",
+            "Web"
+        ],
+        "created_at": "2026-06-30T19:05:01.399812+00:00"
+    },
+    {
+        "id": 30899,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In “Internet Protocol Version 4 (TCP/IPv4) Properties” window while providing IP address, you also need to provide __________ and Default gateway that corresponds with your network setup.",
+        "op": [
+            "Supernet",
+            "Defaultnet",
+            "Localnet",
+            "Subnet mask"
+        ],
+        "created_at": "2026-06-30T19:05:16.353608+00:00"
+    },
+    {
+        "id": 31020,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In Windows 7 or Windows 10 operating system, which of the following option will be used to assign or change the computer’s IP address?",
+        "op": [
+            "Devices and Printers",
+            "Device Manger",
+            "Programs and Features",
+            "Network and Sharing"
+        ],
+        "created_at": "2026-06-30T19:09:34.870154+00:00"
+    },
+    {
+        "id": 31021,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In “Internet Protocol Version 4 (TCP/IPv4) Properties” window, _________ option will be checked to find any problems with the addresses you entered.",
+        "op": [
+            "Verify settings upon exit",
+            "Correct settings upon exit",
+            "Validate settings upon exit",
+            "Find settings upon exit"
+        ],
+        "created_at": "2026-06-30T19:09:36.251481+00:00"
+    },
+    {
+        "id": 31030,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In Windows 7 or Windows 10 operating system, you will go to _______________ settings to assign the IP address to the computer.",
+        "op": [
+            "Change devices",
+            "Change LAN",
+            "Change IP",
+            "Change adapter"
+        ],
+        "created_at": "2026-06-30T19:09:51.787901+00:00"
+    },
+    {
+        "id": 31135,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In windows operating system, if you find any problem in configuration of IP address then run the ________ wizard.",
+        "op": [
+            "Network troubleshooting",
+            "Network handling",
+            "Network solution",
+            "Network fixing"
+        ],
+        "created_at": "2026-06-30T19:13:14.442946+00:00"
+    },
+    {
+        "id": 38601,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "IP address is used in ______ of TCP/IP protocol suite.",
+        "op": [
+            "Layer 4",
+            "Layer 3",
+            "Layer 5",
+            "Layer 1"
+        ],
+        "created_at": "2026-07-02T19:03:07.133777+00:00"
+    },
+    {
+        "id": 38608,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "Which of the following filed specify that ARP message is request or response?",
+        "op": [
+            "Hardware Type",
+            "OpCode",
+            "Protocol Type",
+            "Hardware size"
+        ],
+        "created_at": "2026-07-02T19:03:40.170596+00:00"
+    },
+    {
+        "id": 38610,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "In ARP header, the size of sender MAC address field is __________.",
+        "op": [
+            "10 bytes",
+            "4 bytes",
+            "8 bytes",
+            "6 bytes"
+        ],
+        "created_at": "2026-07-02T19:03:55.787593+00:00"
+    },
+    {
+        "id": 38613,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP keeps track of _________ address which is associated with an IP address.",
+        "op": [
+            "Network",
+            "Port",
+            "DNS",
+            "MAC"
+        ],
+        "created_at": "2026-07-02T19:04:06.657369+00:00"
+    },
+    {
+        "id": 38614,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "When ARP does not know the MAC address of a local system, then it sends a ________ message containing the IP address.",
+        "op": [
+            "Broadcast",
+            "Multicast",
+            "Uni cast",
+            "Stream cast"
+        ],
+        "created_at": "2026-07-02T19:04:15.175214+00:00"
+    },
+    {
+        "id": 38616,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "The default gateway is the ___________ that is used to provide connectivity with other networks.",
+        "op": [
+            "Hub interface",
+            "Switch interface",
+            "Router interface",
+            "Local system interface"
+        ],
+        "created_at": "2026-07-02T19:04:55.849843+00:00"
+    },
+    {
+        "id": 38617,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP maintains a table with the combination of ______ and ________ address.",
+        "op": [
+            "IP,DNS",
+            "IP,MAC",
+            "IP, Subnet",
+            "IP,Port"
+        ],
+        "created_at": "2026-07-02T19:05:07.017317+00:00"
+    },
+    {
+        "id": 38622,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "Which of the following command is used to see the help feature of ARP?",
+        "op": [
+            "arp -all",
+            "arp -?",
+            "arp -help",
+            "arp -gethelp"
+        ],
+        "created_at": "2026-07-02T19:05:41.997386+00:00"
+    },
+    {
+        "id": 38634,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "In ARP table, the address type can be________.",
+        "op": [
+            "Static",
+            "Both static and dynamic",
+            "Dynamic",
+            "Auto"
+        ],
+        "created_at": "2026-07-02T19:08:33.585475+00:00"
+    },
+    {
+        "id": 38636,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP stands for _____________.",
+        "op": [
+            "Address Receive Protocol",
+            "Address Reverse Protocol",
+            "Address Reschedule Protocol",
+            "Address Resolution Protocol"
+        ],
+        "created_at": "2026-07-02T19:08:54.452931+00:00"
+    },
+    {
+        "id": 38643,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "In ARP header, the size of sender IP address field is __________.",
+        "op": [
+            "4 bytes",
+            "8 bytes",
+            "10 bytes",
+            "6 bytes"
+        ],
+        "created_at": "2026-07-02T19:10:05.163605+00:00"
+    },
+    {
+        "id": 38653,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP reply is ________.",
+        "op": [
+            "Broadcast",
+            "Multicast",
+            "Uni cast",
+            "Stream cast"
+        ],
+        "created_at": "2026-07-02T19:10:53.913816+00:00"
+    },
+    {
+        "id": 38659,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "Which of the following command is used to view the ARP table in the Windows operating system?",
+        "op": [
+            "arp -a",
+            "arp -v",
+            "arp -address",
+            "arp -view"
+        ],
+        "created_at": "2026-07-02T19:11:15.156593+00:00"
+    },
+    {
+        "id": 38662,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "Suppose destination IP address is not local, then the computer will need the MAC address of the __________.",
+        "op": [
+            "Neighbour",
+            "Repeater",
+            "Default gateway",
+            "Hub"
+        ],
+        "created_at": "2026-07-02T19:11:29.097548+00:00"
+    },
+    {
+        "id": 38694,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP request is always _______.",
+        "op": [
+            "Stream cast",
+            "Uni cast",
+            "Multicast",
+            "Broadcast"
+        ],
+        "created_at": "2026-07-02T19:17:18.606034+00:00"
+    },
+    {
+        "id": 38740,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "MAC address is used in ______ of TCP/IP protocol suite.",
+        "op": [
+            "Layer 4",
+            "Layer 3",
+            "Layer 2",
+            "Layer 5"
+        ],
+        "created_at": "2026-07-02T19:25:45.258606+00:00"
+    },
+    {
+        "id": 38767,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "03 July 2026",
+        "qt": "ARP is used for resolving _____________.",
+        "op": [
+            "IP address to Port address",
+            "MAC address to IP address",
+            "IP address to DNS address",
+            "IP address to MAC address"
+        ],
+        "created_at": "2026-07-02T19:34:39.118777+00:00"
+    },
+    {
+        "id": 41409,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following class of IP address is reserved for experimental use?",
+        "op": [
+            "Class E",
+            "Class B",
+            "Class C",
+            "Class D"
+        ],
+        "created_at": "2026-07-04T19:01:53.921976+00:00"
+    },
+    {
+        "id": 41410,
+        "cc": "CS610P",
+        "qn": "",
+        "dt": "05 July 2026",
+        "qt": "The address 130.2.1.0 lies in _____ class.",
+        "op": [
+            "Class A",
+            "Class D",
+            "Class C",
+            "Class B"
+        ],
+        "created_at": "2026-07-04T19:02:09.066254+00:00"
+    },
+    {
+        "id": 41412,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is a valid distribution for class C IP address?",
+        "op": [
+            "Network.Network.Host.Host",
+            "Network.Host.Host.Host",
+            "Network.Network.Network.Network",
+            "Network.Network.Network.Host"
+        ],
+        "created_at": "2026-07-04T19:02:14.880942+00:00"
+    },
+    {
+        "id": 41413,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "The address 14.20.1.0 lies in _____ class.",
+        "op": [
+            "Class A",
+            "Class D",
+            "Class B",
+            "Class C"
+        ],
+        "created_at": "2026-07-04T19:02:24.789174+00:00"
+    },
+    {
+        "id": 41415,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Network bits in IP address of Class A?",
+        "op": [
+            "12",
+            "24",
+            "8",
+            "16"
+        ],
+        "created_at": "2026-07-04T19:02:31.849622+00:00"
+    },
+    {
+        "id": 41416,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "First octet of Class A lies between ________.",
+        "op": [
+            "1-126",
+            "192-223",
+            "224-239",
+            "128-191"
+        ],
+        "created_at": "2026-07-04T19:02:34.422569+00:00"
+    },
+    {
+        "id": 41417,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Host bits in IP address of Class B?",
+        "op": [
+            "12",
+            "16",
+            "24",
+            "8"
+        ],
+        "created_at": "2026-07-04T19:02:42.059344+00:00"
+    },
+    {
+        "id": 41418,
+        "cc": "CS610P",
+        "qn": "",
+        "dt": "05 July 2026",
+        "qt": "Class D address starts with _______ bits.",
+        "op": [
+            "0",
+            "110",
+            "1110",
+            "10"
+        ],
+        "created_at": "2026-07-04T19:02:44.64186+00:00"
+    },
+    {
+        "id": 41419,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "The address 192.168.1.0 lies in _____ class.",
+        "op": [
+            "Class C",
+            "Class A",
+            "Class E",
+            "Class B"
+        ],
+        "created_at": "2026-07-04T19:02:58.126618+00:00"
+    },
+    {
+        "id": 41420,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the fallowing is not a valid class of IP address?",
+        "op": [
+            "Class A",
+            "Class D",
+            "Class B",
+            "Class G"
+        ],
+        "created_at": "2026-07-04T19:09:02.109585+00:00"
+    },
+    {
+        "id": 41421,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Class C address starts with _______ bits.",
+        "op": [
+            "10",
+            "1111",
+            "0",
+            "110"
+        ],
+        "created_at": "2026-07-04T19:09:17.182556+00:00"
+    },
+    {
+        "id": 41422,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Network bits in IP address of Class C?",
+        "op": [
+            "16",
+            "24",
+            "8",
+            "12"
+        ],
+        "created_at": "2026-07-04T19:09:27.358183+00:00"
+    },
+    {
+        "id": 41425,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "The address 172.16.0.1 lies in _____ class.",
+        "op": [
+            "Class B",
+            "Class C",
+            "Class A",
+            "Class D"
+        ],
+        "created_at": "2026-07-04T19:14:15.76232+00:00"
+    },
+    {
+        "id": 41426,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Class B address starts with _______ bits.",
+        "op": [
+            "110",
+            "10",
+            "1111",
+            "0"
+        ],
+        "created_at": "2026-07-04T19:14:46.578198+00:00"
+    },
+    {
+        "id": 41427,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Class A address starts with _______ bits.",
+        "op": [
+            "1111",
+            "10",
+            "0",
+            "110"
+        ],
+        "created_at": "2026-07-04T19:16:07.945055+00:00"
+    },
+    {
+        "id": 41428,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is a valid distribution for class A IP address?",
+        "op": [
+            "Network.Network.Network.Network",
+            "Network.Network.Host.Host",
+            "Network.Network.Network.Host",
+            "Network.Host.Host.Host"
+        ],
+        "created_at": "2026-07-04T19:16:18.906615+00:00"
+    },
+    {
+        "id": 41429,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "First octet of Class B lies between ________.",
+        "op": [
+            "224-239",
+            "128-191",
+            "1-126",
+            "192-223"
+        ],
+        "created_at": "2026-07-04T19:16:48.553697+00:00"
+    },
+    {
+        "id": 41430,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Host bits in IP address of Class A?",
+        "op": [
+            "8",
+            "16",
+            "12",
+            "24"
+        ],
+        "created_at": "2026-07-04T19:17:09.343489+00:00"
+    },
+    {
+        "id": 41439,
+        "cc": "CS610P",
+        "qn": "",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is a valid distribution for class B IP address?",
+        "op": [
+            "Network.Network.Network.Network",
+            "Network.Host.Host.Host",
+            "Network.Network.Host.Host",
+            "Network.Network.Network.Host"
+        ],
+        "created_at": "2026-07-04T19:20:58.713124+00:00"
+    },
+    {
+        "id": 41441,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is incorrect distribution range with respect to given class of IP address?",
+        "op": [
+            "CLASS D = 224 to 239",
+            "CLASS B = 128 to 191",
+            "CLASS C = 192 to 220",
+            "CLASS A = 1 to 126"
+        ],
+        "created_at": "2026-07-04T19:21:21.296525+00:00"
+    },
+    {
+        "id": 41442,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "First octet of Class C lies between ________.",
+        "op": [
+            "224-239",
+            "192-223",
+            "128-191",
+            "1-126"
+        ],
+        "created_at": "2026-07-04T19:21:59.103098+00:00"
+    },
+    {
+        "id": 41443,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following class of IP address is reserved for multicasting?",
+        "op": [
+            "Class B",
+            "Class D",
+            "Class A",
+            "Class E"
+        ],
+        "created_at": "2026-07-04T19:22:21.030149+00:00"
+    },
+    {
+        "id": 41451,
+        "cc": "CS610P",
+        "qn": "",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Host bits in IP address of Class C?",
+        "op": [
+            "24",
+            "12",
+            "8",
+            "16"
+        ],
+        "created_at": "2026-07-04T19:33:44.666415+00:00"
+    },
+    {
+        "id": 41454,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Class E address starts with _______ bits.",
+        "op": [
+            "1110",
+            "110",
+            "1111",
+            "10"
+        ],
+        "created_at": "2026-07-04T19:34:09.372357+00:00"
+    },
+    {
+        "id": 41459,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "There are ___________classes of IP addresses.",
+        "op": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ],
+        "created_at": "2026-07-04T19:43:11.912586+00:00"
+    },
+    {
+        "id": 41482,
+        "cc": "CS610P",
+        "qn": "10",
+        "dt": "05 July 2026",
+        "qt": "Which of the following is the correct size of Network bits in IP address of Class B?",
+        "op": [
+            "8",
+            "12",
+            "24",
+            "16"
+        ],
+        "created_at": "2026-07-04T20:29:12.103193+00:00"
+    },
+    {
+        "id": 43011,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "04 July 2026",
+        "qt": "The default gateway is the ___________ that is used to provide connectivity with other networks.",
+        "op": [
+            "Local system interface",
+            "Hub interface",
+            "Router interface",
+            "Switch interface"
+        ],
+        "created_at": "2026-07-04T12:45:51.40002+00:00"
+    },
+    {
+        "id": 43012,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "04 July 2026",
+        "qt": "Which of the following command is used to view the ARP table in the Windows operating system?",
+        "op": [
+            "arp -view",
+            "arp -a",
+            "arp -address",
+            "arp -v"
+        ],
+        "created_at": "2026-07-04T12:46:07.590949+00:00"
+    },
+    {
+        "id": 43013,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "04 July 2026",
+        "qt": "ARP keeps track of _________ address which is associated with an IP address.",
+        "op": [
+            "Network",
+            "Port",
+            "MAC",
+            "DNS"
+        ],
+        "created_at": "2026-07-04T12:47:28.090462+00:00"
+    },
+    {
+        "id": 43014,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "04 July 2026",
+        "qt": "In ARP table, the address type can be________.",
+        "op": [
+            "Both static and dynamic",
+            "Static",
+            "Dynamic",
+            "Auto"
+        ],
+        "created_at": "2026-07-04T12:47:37.039154+00:00"
+    },
+    {
+        "id": 43015,
+        "cc": "CS610P",
+        "qn": "9",
+        "dt": "04 July 2026",
+        "qt": "Which of the following filed specify that ARP message is request or response?",
+        "op": [
+            "OpCode",
+            "Hardware Type",
+            "Hardware size",
+            "Protocol Type"
+        ],
+        "created_at": "2026-07-04T12:47:47.210504+00:00"
+    },
+    {
+        "id": 43016,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "30 June 2026",
+        "qt": "In Wireshark tool, you can see ‘packet content’ as_________.",
+        "op": [
+            "Alphabetically",
+            "Hexadecimal",
+            "Octal",
+            "Binary"
+        ],
+        "created_at": "2026-06-30T07:57:25.673706+00:00"
+    },
+    {
+        "id": 43017,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "30 June 2026",
+        "qt": "In Wireshark tool, profile name is shown in the right side column of the __________.",
+        "op": [
+            "Status bar",
+            "Title bar",
+            "Tool bar",
+            "Menu bar"
+        ],
+        "created_at": "2026-06-30T07:57:33.457826+00:00"
+    },
+    {
+        "id": 43018,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "30 June 2026",
+        "qt": "_________ is free open source software program.",
+        "op": [
+            "Microsoft office",
+            "Microsoft windows",
+            "Wireshark",
+            "Adobe photo shop"
+        ],
+        "created_at": "2026-06-30T07:57:41.391906+00:00"
+    },
+    {
+        "id": 43019,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is not an installation component of Wireshark?",
+        "op": [
+            "Layout",
+            "TShark",
+            "Tools",
+            "Plugins & Extensions"
+        ],
+        "created_at": "2026-06-30T07:57:50.418114+00:00"
+    },
+    {
+        "id": 43020,
+        "cc": "CS610P",
+        "qn": "7",
+        "dt": "30 June 2026",
+        "qt": "In Wireshark tool, __________ would be able to capture live network traffic.",
+        "op": [
+            "WinPcap",
+            "MSPcap",
+            "WPcap",
+            "ProPcap"
+        ],
+        "created_at": "2026-06-30T07:58:02.183129+00:00"
+    },
+    {
+        "id": 43021,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is correct address of Google DNS server?",
+        "op": [
+            "8.8.8.8",
+            "8.8.8.7",
+            "8.7.8.8",
+            "8.8.7.8"
+        ],
+        "created_at": "2026-07-01T07:11:18.014365+00:00"
+    },
+    {
+        "id": 43022,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In Windows 7 or Windows 10 operating system, you will go to _______________ settings to assign the IP address to the computer.",
+        "op": [
+            "Change IP",
+            "Change LAN",
+            "Change devices",
+            "Change adapter"
+        ],
+        "created_at": "2026-07-01T07:11:26.973302+00:00"
+    },
+    {
+        "id": 43023,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In windows operating system, _______ command can be used in command prompt to check that the network adapter settings have been successfully changed.",
+        "op": [
+            "Troubleshoot",
+            "Ping",
+            "Ipconfig",
+            "Ipcheck"
+        ],
+        "created_at": "2026-07-01T07:11:37.322755+00:00"
+    },
+    {
+        "id": 43024,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "In “Internet Protocol Version 4 (TCP/IPv4) Properties” window, the _______ radio button will be selected to enter the correct IP address.",
+        "op": [
+            "Use the embedded IP address",
+            "Use the following IP address",
+            "Use the internal IP address",
+            "Use the same IP address"
+        ],
+        "created_at": "2026-07-01T07:11:45.896552+00:00"
+    },
+    {
+        "id": 43025,
+        "cc": "CS610P",
+        "qn": "8",
+        "dt": "01 July 2026",
+        "qt": "Windows will run __________ to verify the connection is good.",
+        "op": [
+            "Network Diagnostics",
+            "Network Modeller",
+            "Network Sniffer",
+            "Network Designer"
+        ],
+        "created_at": "2026-07-01T07:11:59.295263+00:00"
+    },
+    {
+        "id": 54684,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In _________ routing, there is no bandwidth usage between routers.",
+        "op": [
+            "Passive",
+            "Alternative",
+            "Static",
+            "Dynamic"
+        ],
+        "created_at": "2026-07-06T19:00:19.332894+00:00"
+    },
+    {
+        "id": 54685,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In _________ routing, administrator can allow routing access to specific networks.",
+        "op": [
+            "Passive",
+            "Alternative",
+            "Dual",
+            "Static"
+        ],
+        "created_at": "2026-07-06T19:00:27.858332+00:00"
+    },
+    {
+        "id": 54686,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following address is used to get packets from a network?",
+        "op": [
+            "Hardware",
+            "Port",
+            "Logical",
+            "Physical"
+        ],
+        "created_at": "2026-07-06T19:00:36.070124+00:00"
+    },
+    {
+        "id": 54687,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a routed protocol?",
+        "op": [
+            "POP",
+            "IP",
+            "RIP",
+            "FTP"
+        ],
+        "created_at": "2026-07-06T19:00:55.733513+00:00"
+    },
+    {
+        "id": 54689,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In ________ routing, there is no overhead on the router CPU.",
+        "op": [
+            "Static",
+            "Passive",
+            "Alternative",
+            "Dynamic"
+        ],
+        "created_at": "2026-07-06T19:01:05.794166+00:00"
+    },
+    {
+        "id": 54690,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "________ routing technique uses manual configuration.",
+        "op": [
+            "Alternative",
+            "Dynamic",
+            "Passive",
+            "Static"
+        ],
+        "created_at": "2026-07-06T19:01:16.00076+00:00"
+    },
+    {
+        "id": 54697,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "RIP is used by __________ device.",
+        "op": [
+            "Router",
+            "Hub",
+            "Repeater",
+            "Amplifier"
+        ],
+        "created_at": "2026-07-06T19:01:48.147524+00:00"
+    },
+    {
+        "id": 54766,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "_____________ is not a routing protocol.",
+        "op": [
+            "IP",
+            "OSPF",
+            "EIGRP",
+            "RIP"
+        ],
+        "created_at": "2026-07-06T19:07:03.283301+00:00"
+    },
+    {
+        "id": 54770,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "___________ protocols determine the method of packet delivery.",
+        "op": [
+            "Routed",
+            "Routing",
+            "Rolling",
+            "Rated"
+        ],
+        "created_at": "2026-07-06T19:07:11.854625+00:00"
+    },
+    {
+        "id": 54772,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In __________ routing technique, network parameters and environment are expected to remain constant.",
+        "op": [
+            "Passive",
+            "Dynamic",
+            "Static",
+            "Alternative"
+        ],
+        "created_at": "2026-07-06T19:07:23.465524+00:00"
+    },
+    {
+        "id": 54779,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a routing protocol?",
+        "op": [
+            "OSPF",
+            "SMTP",
+            "FTP",
+            "IP"
+        ],
+        "created_at": "2026-07-06T19:07:42.289521+00:00"
+    },
+    {
+        "id": 54784,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In ________routing all jobs are done automatically by routing protocol.",
+        "op": [
+            "Dynamic",
+            "Direct",
+            "Auto",
+            "Static"
+        ],
+        "created_at": "2026-07-06T19:08:08.642044+00:00"
+    },
+    {
+        "id": 54791,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "_________ selects the best path for packet delivery from source to destination.",
+        "op": [
+            "Repeater",
+            "Hub",
+            "Amplifier",
+            "Router"
+        ],
+        "created_at": "2026-07-06T19:08:44.86525+00:00"
+    },
+    {
+        "id": 54804,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is not feasible in large networks?",
+        "op": [
+            "Open Shortest Path First",
+            "Dynamic routing",
+            "Static routing",
+            "Routing Information Protocol"
+        ],
+        "created_at": "2026-07-06T19:10:00.465001+00:00"
+    },
+    {
+        "id": 54964,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following type of protocol determines the path of a packet through an inter-network?",
+        "op": [
+            "Rolling",
+            "Rated",
+            "Routed",
+            "Routing"
+        ],
+        "created_at": "2026-07-06T19:21:02.876005+00:00"
+    },
+    {
+        "id": 54973,
+        "cc": "CS610P",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following address is used to deliver the packet from a router to the correct destination host?",
+        "op": [
+            "Port",
+            "Logical",
+            "Hardware",
+            "IP"
+        ],
+        "created_at": "2026-07-06T19:22:06.513814+00:00"
+    }
+]

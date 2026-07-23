@@ -1,0 +1,1364 @@
+[
+{
+    "id": 11627,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Gouraud shading is the current de jure shading standard in accelerated ------------ hardware.",
+    "op": [
+        "Multidimensional",
+        "None of all",
+        "3 Dimensional",
+        "2Dimensional"
+    ],
+    "created_at": "2026-06-22T01:59:32.004238+00:00"
+},
+{
+    "id": 11628,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When we need an object to \"glow\" in a scene, we can do this with ------------ light.",
+    "op": [
+        "Emissive",
+        "Specular",
+        "Ambient",
+        "Diffuse"
+    ],
+    "created_at": "2026-06-22T02:00:24.126419+00:00"
+},
+{
+    "id": 11629,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "As f represents the attenuation of light, then f only approaches zero, when d approaches at distance -------------.",
+    "op": [
+        "1/n",
+        "Infinity",
+        "Zero",
+        "1/2"
+    ],
+    "created_at": "2026-06-22T02:00:48.410298+00:00"
+},
+{
+    "id": 11631,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Light is mostly reflected in case of ___________ surfaces.",
+    "op": [
+        "Conductor (like metals)",
+        "Nonconductor (like dielectrics)",
+        "None of the given",
+        "Both conductor and nonconductor"
+    ],
+    "created_at": "2026-06-22T02:01:21.744919+00:00"
+},
+{
+    "id": 11632,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "One problem with Gouraud shading is that the ----------- intensities can never be greater than the intensities at the edges.",
+    "op": [
+        "Squares",
+        "Triangles",
+        "Polygons",
+        "Rectangles"
+    ],
+    "created_at": "2026-06-22T02:01:45.25802+00:00"
+},
+{
+    "id": 11633,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Refractive index is a function of temperature, mostly due to density changes in materials with changes in temperature.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T02:02:23.392864+00:00"
+},
+{
+    "id": 11634,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In order to get a more realistic representation of lighting, we'll need to understand how light passes through a medium and how hitting the boundary layer at the ----------------- of two media can affect light's properties.",
+    "op": [
+        "Edges",
+        "Endpoints",
+        "Union",
+        "Intersection"
+    ],
+    "created_at": "2026-06-22T02:02:52.477572+00:00"
+},
+{
+    "id": 11635,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The attenuation formula is f =------------------------, where C, L and Q are the constand, linear and quadratic attenuation factors and d is the distance between the vertex being lit and the light source.",
+    "op": [
+        "1/(Cd + Ld + Qd2)",
+        "1/(C + L +d + Qd2)",
+        "1/(C + Ld + Qd2)",
+        "1/(C + Ld + Qd)"
+    ],
+    "created_at": "2026-06-22T02:03:24.484506+00:00"
+},
+{
+    "id": 11636,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When obtaining normals for a triangle, which of the following mathematical constructs is NOT used?",
+    "op": [
+        "Vector normalization",
+        "Vector cross products",
+        "Point-Point subtraction",
+        "Vector dot products"
+    ],
+    "created_at": "2026-06-22T02:04:05.956137+00:00"
+},
+{
+    "id": 13190,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the forms of texture mapping, Image to world space and world space to image, each suffers from different problems related to minification and magnification.  Which of the two shows the following problem: When the texture is larger than the screen space it maps to, many texture units (texels) are never sampled?",
+    "op": [
+        "World space to image",
+        "Y-axis",
+        "X-axis",
+        "Image to world space"
+    ],
+    "created_at": "2026-06-22T05:32:24.191637+00:00"
+},
+{
+    "id": 13200,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The traditional approach in real-time computer graphics has been to calculate lighting at a vertex as a sum of the ________ light.",
+    "op": [
+        "Specular",
+        "Ambient",
+        "Diffuse, and specular",
+        "Ambient, diffuse, and specular"
+    ],
+    "created_at": "2026-06-22T05:33:07.30568+00:00"
+},
+{
+    "id": 13208,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "There are not many different ways of representing the intensity of a particular colour element.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T05:33:42.371402+00:00"
+},
+{
+    "id": 13214,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The reflection coefficients are in the ------------------------- range and are specified as part of the material property. However, they are strictly empirical and since they simply adjust the overall intensity of the material colour, the material colour values are usually adjusted so the colour intensity varies rather than using a reflection coefficient.",
+    "op": [
+        "[0, 1]",
+        "[0, 5]",
+        "[0, 10]",
+        "[0, 2]"
+    ],
+    "created_at": "2026-06-22T05:34:19.276989+00:00"
+},
+{
+    "id": 13216,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "----------- reflection is the effect of reflecting light toward the direction from which it came, no matter the orientation of the surface.",
+    "op": [
+        "Forward scattering",
+        "Diffuse Lambertian",
+        "Retro",
+        "Backscattering"
+    ],
+    "created_at": "2026-06-22T05:34:55.741002+00:00"
+},
+{
+    "id": 13220,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Unlike ambient light, the intensity of diffuse light is directional and is a function of the angle of the incoming light and the surface. This type of shading is called Lambertian shading after Lambert's _________law.",
+    "op": [
+        "Tangent",
+        "Cosine",
+        "Perpendicular",
+        "Sine"
+    ],
+    "created_at": "2026-06-22T05:35:26.073476+00:00"
+},
+{
+    "id": 13224,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "We want our scene to look more realistic, we should use _________ lights.",
+    "op": [
+        "Parallel",
+        "Spot",
+        "Point",
+        "None of the given"
+    ],
+    "created_at": "2026-06-22T05:35:59.084531+00:00"
+},
+{
+    "id": 13229,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The Phong reflection model simplifies light-matter interactions essentially into 4 vectors and a number of constants.  Each piece of the Phong model uses different vectors and constants.  Which portion does NOT include taking a dot product?",
+    "op": [
+        "Specular",
+        "Diffuse",
+        "Ambient",
+        "Diffused specular"
+    ],
+    "created_at": "2026-06-22T05:36:39.294246+00:00"
+},
+{
+    "id": 13232,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Dark lights are nothing more than lights in which one or more of the color values are_______________.",
+    "op": [
+        "Negative",
+        "Unknown",
+        "Positive",
+        "Null"
+    ],
+    "created_at": "2026-06-22T05:37:07.402657+00:00"
+},
+{
+    "id": 13234,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "______________ is simply the calculation of color reflected by the surface.",
+    "op": [
+        "Scaling",
+        "Clamping",
+        "Shading",
+        "None of the given"
+    ],
+    "created_at": "2026-06-22T05:37:31.369647+00:00"
+},
+{
+    "id": 13236,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The physical range of colours a device can display is called _____________________ of the device.",
+    "op": [
+        "Colouring",
+        "Colouring with Sharpness",
+        "Gamut",
+        "Sharpness"
+    ],
+    "created_at": "2026-06-22T05:37:47.692249+00:00"
+},
+{
+    "id": 13237,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________ light is reflected in all directions from surface.",
+    "op": [
+        "Ambient",
+        "Emissive",
+        "Diffuse",
+        "Specular"
+    ],
+    "created_at": "2026-06-22T05:38:02.191587+00:00"
+},
+{
+    "id": 13242,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When you hit a surface in ray tracing, generally shadow rays are tested against all objects in a scene.  If these rays come back saying they hit an object in the scene, which of the following do you do?",
+    "op": [
+        "add only the ambient light from that light source to the object",
+        "add all components (i.e. ambient, diffuse and specular) from that light source to the object.",
+        "add none of the light from that light source to the object",
+        "add all EXCEPT the ambient light from that light source to the object (i.e. diffuse and specular)"
+    ],
+    "created_at": "2026-06-22T05:38:34.064811+00:00"
+},
+{
+    "id": 13251,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If we are not worried about computational resources, we should use _____________ lights.",
+    "op": [
+        "Parallel",
+        "Point",
+        "None of the given",
+        "Spot"
+    ],
+    "created_at": "2026-06-22T05:39:18.312156+00:00"
+},
+{
+    "id": 13252,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Light in the real worlds loses its --------- as the inverse square of the distance.",
+    "op": [
+        "Colors",
+        "Frequency",
+        "Intensity",
+        "Speed"
+    ],
+    "created_at": "2026-06-22T05:39:23.415763+00:00"
+},
+{
+    "id": 13256,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An algorithm that clips a polygon must deal with many ----------------- cases. The case is particularly note worthy in that the concave polygon is clipped into ----------- isolate polygons.",
+    "op": [
+        "Different, three",
+        "Similar, three",
+        "Different, two",
+        "Similar, two"
+    ],
+    "created_at": "2026-06-22T05:39:36.411758+00:00"
+},
+{
+    "id": 13260,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Loosely, the alpha component of the RGBA quad represents the _______________of a surface.",
+    "op": [
+        "Light",
+        "Darkness",
+        "Shine",
+        "Opaqueness"
+    ],
+    "created_at": "2026-06-22T05:39:51.609555+00:00"
+},
+{
+    "id": 13264,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_______________ colors specified for objects that generate light themselves.",
+    "op": [
+        "Diffuse",
+        "Ambient",
+        "Emissive",
+        "Specular"
+    ],
+    "created_at": "2026-06-22T05:40:06.139906+00:00"
+},
+{
+    "id": 13266,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Projection can be defined as a mapping of point P(x, y, z) onto its image P`(x`, y`, z` ) in the ----------------, which constitutes the display surface. The mapping is determined by a projection line called the projector that passes through P and intersects the ----------------.",
+    "op": [
+        "View plane",
+        "Three Coordinate Planes",
+        "Two Coordinate Planes",
+        "Mapping plane"
+    ],
+    "created_at": "2026-06-22T05:40:22.511109+00:00"
+},
+{
+    "id": 13267,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What makes this really challenging to model is that the index of refraction for most materials is a function of the ------------------- of the light. This means that not only is there a shift in the angle of refraction, but that the shift is different for differing --------------- of light.",
+    "op": [
+        "Reflecting angle,  Reflecting angle",
+        "Refracting angle,  Refracting angle",
+        "Frequency,  Frequency",
+        "Wavelength,  Wavelength"
+    ],
+    "created_at": "2026-06-22T05:40:43.055678+00:00"
+},
+{
+    "id": 13270,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "There are _________ angles associated with spotlights.",
+    "op": [
+        "four",
+        "two",
+        "five",
+        "three"
+    ],
+    "created_at": "2026-06-22T05:40:58.442531+00:00"
+},
+{
+    "id": 13450,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The rate at which light intensity decreases at a greater distance is called as ---------------------------.",
+    "op": [
+        "Light Decrement",
+        "Lambertian Shading",
+        "Light Attenuation",
+        "Light Intensity"
+    ],
+    "created_at": "2026-06-22T06:15:14.189358+00:00"
+},
+{
+    "id": 13451,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The ColorSpace tool is a handy tool that we can use to interactively add two colours together to see the effects of the various strategies for handling oversaturated colours.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T06:15:48.269957+00:00"
+},
+{
+    "id": 13736,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The reflected light wave turns out to be a --------------------- case since light is reflected at the same angle as the incident wave when the surface is smooth and uniform, as we'll assume for now.",
+    "op": [
+        "Complex",
+        "Simple",
+        "Unknown",
+        "Abnormal"
+    ],
+    "created_at": "2026-06-22T06:36:02.658685+00:00"
+},
+{
+    "id": 13746,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Length L depends on the angle alpha and the z coordinate of the point to be projected and L can be represented by --------------------.",
+    "op": [
+        "z * 1/ tan (alpha)",
+        "z * L2",
+        "z * 1/ tan (gamma)",
+        "z * 1/ tan (beta)"
+    ],
+    "created_at": "2026-06-22T06:36:19.394454+00:00"
+},
+{
+    "id": 13762,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider the following problem from lighting: A point (P1) is at (0, 0, 0) with normal equal to 1/(2*sqrt(2))*(sqrt(2), 2, sqrt(2)).  The light is located at (0, 1, 0).  The viewer is located at (1, 1, 1).  The specular and diffuse coefficients for the light are both (1, 1, 1), with the ambient portion as (.2, .2, .2).  Complete the reflection vector.\n\t\t[ ------------]\nr = \t\t[ 0 ]\n\t\t[1/sqrt(2)]\nChoose from the values below:",
+    "op": [
+        "1/sqrt(2)",
+        "-1",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-06-22T06:37:12.857766+00:00"
+},
+{
+    "id": 13843,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Lambertian shading was used mostly back when computers weren't fast enough to do ________ in real time.",
+    "op": [
+        "Processing",
+        "Gouraud shading",
+        "Phong shading",
+        "Shading"
+    ],
+    "created_at": "2026-06-22T06:40:55.796029+00:00"
+},
+{
+    "id": 13845,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________ lighting is not dependent on any source.",
+    "op": [
+        "Emissive",
+        "Ambient",
+        "Diffuse",
+        "Specular"
+    ],
+    "created_at": "2026-06-22T06:41:02.548028+00:00"
+},
+{
+    "id": 13855,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "We have limited computational resources, we should use _____________ lights.",
+    "op": [
+        "Point",
+        "None of the given",
+        "Spot",
+        "Parallel"
+    ],
+    "created_at": "2026-06-22T06:41:23.635085+00:00"
+},
+{
+    "id": 13859,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which is the oldest in given types of the shading?",
+    "op": [
+        "Flat Shading",
+        "None of all",
+        "Gouraud Shading",
+        "Phong Shading"
+    ],
+    "created_at": "2026-06-22T06:41:36.124279+00:00"
+},
+{
+    "id": 14046,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Refractive index is a function of temperature, mostly due to changes in ---------------------- of materials with changes in temperature. A simple correction can be applied in most circumstances to allow us to use a value given at one temperature at another.",
+    "op": [
+        "Volume",
+        "Pressure",
+        "Nature",
+        "Density"
+    ],
+    "created_at": "2026-06-22T06:48:40.978585+00:00"
+},
+{
+    "id": 14335,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_________ lights should be avoided because they are not for real time environment.",
+    "op": [
+        "Point",
+        "Spot",
+        "Parallel",
+        "None of the given"
+    ],
+    "created_at": "2026-06-22T07:02:12.237071+00:00"
+},
+{
+    "id": 14407,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The Phong reflection model simplifies light-matter interactions essentially into 4 vectors and a number of constants. Which piece of the Phong model is responsible for giving spheres their bright white spots?",
+    "op": [
+        "Ambient and Diffuse",
+        "Specular",
+        "Ambient",
+        "Diffuse"
+    ],
+    "created_at": "2026-06-22T07:06:03.170951+00:00"
+},
+{
+    "id": 14981,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A polygon is usually defined by a sequence of vertices and ------------------",
+    "op": [
+        "Points",
+        "Ending lines",
+        "Vertices",
+        "Edges"
+    ],
+    "created_at": "2026-06-22T08:00:55.924391+00:00"
+},
+{
+    "id": 14984,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the Phong reflection model, there are 3 constants (a, b, c) which are used to describe the qualities of which of the following phenomena?",
+    "op": [
+        "The amount to perturb reflection vectors as they are mirrored across the normal",
+        "The attenuation of a point light source with distance",
+        "The material reaction to ambient, diffuse and specular light respectively",
+        "The size (in each dimension) which the light is assumed to have"
+    ],
+    "created_at": "2026-06-22T08:01:40.169937+00:00"
+},
+{
+    "id": 15058,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_____________ projection is obtained by projecting points along parallel lines that are not perpendicular to projection plane.",
+    "op": [
+        "Oblique",
+        "Perpendicular",
+        "None of the given",
+        "Orthographic"
+    ],
+    "created_at": "2026-06-22T08:16:52.124861+00:00"
+},
+{
+    "id": 15065,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Ambient light is the light that comes from ----------------------directions, thus all surfaces are illuminated equally regardless of orientation. However, this is a big hack in traditional lighting calculations since \"real\" ambient light really comes from the light reflected from the \"environment.\"",
+    "op": [
+        "Four different",
+        "All",
+        "Same",
+        "Opposite"
+    ],
+    "created_at": "2026-06-22T08:19:41.637752+00:00"
+},
+{
+    "id": 15304,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If we want any object to glow, we should use ________________ lights.",
+    "op": [
+        "Diffuse",
+        "Specular",
+        "Emissive",
+        "Ambient"
+    ],
+    "created_at": "2026-06-22T09:24:21.546467+00:00"
+},
+{
+    "id": 31807,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The value returned is a unique small integer identifier for the window. The range of allocated identifiers starts at --------------------. This window identifier can be used when calling glutSetWindow.",
+    "op": [
+        "Two",
+        "Zero",
+        "One",
+        "Three"
+    ],
+    "created_at": "2026-06-30T19:38:31.967962+00:00"
+},
+{
+    "id": 31811,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A parametric curve is one whose defining equations are given in terms of a -------------, common, independent variable called the parametric variable.",
+    "op": [
+        "Triple",
+        "None of the given",
+        "Single",
+        "Double"
+    ],
+    "created_at": "2026-06-30T19:38:39.979387+00:00"
+},
+{
+    "id": 31818,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "We allow the parametric variable to take on values only in the interval ----------------.",
+    "op": [
+        "-1 <= u <= 1",
+        "-1 <= u <= 0",
+        "0 <= u <= 2",
+        "0 <= u <= 1"
+    ],
+    "created_at": "2026-06-30T19:38:48.897342+00:00"
+},
+{
+    "id": 31823,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The reflected light wave turns out to be a / an  ______________ case since light is reflected at the same angle as the incident wave (when the surface is smooth and uniform, as we'll assume for now).",
+    "op": [
+        "Simple",
+        "Abnormal",
+        "Unknown",
+        "Complex"
+    ],
+    "created_at": "2026-06-30T19:38:58.649764+00:00"
+},
+{
+    "id": 31828,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A space curve can be confined to a plane.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-30T19:39:05.943813+00:00"
+},
+{
+    "id": 31840,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Signed integer color components, when specified, are linearly mapped to floating-point values such that the most positive representable value maps to 1.0, and the most negative representable value maps to ------------------. Floating-point values are mapped directly.",
+    "op": [
+        "-1.0",
+        "0.0",
+        "1.0",
+        "2.0"
+    ],
+    "created_at": "2026-06-30T19:39:23.318028+00:00"
+},
+{
+    "id": 31852,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "End points and an intermediate point on the curve, then we now --------------------- quantities that we can express in terms of these coefficients (3 points x 3 coordinates each), and we can use these three points to define a unique curve.",
+    "op": [
+        "Two",
+        "Six",
+        "Three",
+        "Nine"
+    ],
+    "created_at": "2026-06-30T19:39:50.280793+00:00"
+},
+{
+    "id": 31859,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "--------- is the change in the direction of a light ray when it bounces off the boundary between two media.",
+    "op": [
+        "Reflection",
+        "Diffusion",
+        "Refraction",
+        "Shadow"
+    ],
+    "created_at": "2026-06-30T19:40:00.740992+00:00"
+},
+{
+    "id": 31880,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The ________________ functions multiply the current matrix by a rotation matrix.",
+    "op": [
+        "gluPerspective",
+        "glLoadIdentity",
+        "glRotated",
+        "glTranslated"
+    ],
+    "created_at": "2026-06-30T19:40:42.140332+00:00"
+},
+{
+    "id": 31887,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Normalized cross product of two vectors on that surface provides real number.",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-06-30T19:40:55.418771+00:00"
+},
+{
+    "id": 32379,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Imagine a curve in three-dimensional space, each point on the curve has a unique set of coordinates: a specific x value, y value, and z value. Each coordinate is controlled by a -------------- parametric equation.",
+    "op": [
+        "None of the given",
+        "Separate",
+        "Opposite",
+        "Similar"
+    ],
+    "created_at": "2026-06-30T20:43:13.126145+00:00"
+},
+{
+    "id": 32384,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Normalized cross product of two vectors on that surface provides normal vector",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-30T20:43:30.5735+00:00"
+},
+{
+    "id": 32394,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "_________________ sets the global idle call back to be 'func' so a GLUT program can perform background processing tasks or continuous animation when window system events are not being received.",
+    "op": [
+        "glutMainLoop",
+        "glutDisplayFunc",
+        "glutReshapeFunc",
+        "glutIdleFunc"
+    ],
+    "created_at": "2026-06-30T20:44:08.880782+00:00"
+},
+{
+    "id": 32399,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "While building polygonal model of surfaces, we should use T-intersections.",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-06-30T20:44:20.845113+00:00"
+},
+{
+    "id": 32404,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "NURBS stands for -----------------------.",
+    "op": [
+        "Non Universal Rational Binary Spline",
+        "Non Universal Rational Beta Splines",
+        "Non Uniform Rational Binary Splines",
+        "Non Uniform Rational Beta Splines"
+    ],
+    "created_at": "2026-06-30T20:44:44.248851+00:00"
+},
+{
+    "id": 32801,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Brenstien polynomial functions are the basic functions of ______________ curves.",
+    "op": [
+        "NURBS",
+        "Both NURBS and Bazier",
+        "Bezier",
+        "None of the given"
+    ],
+    "created_at": "2026-06-30T23:20:02.631787+00:00"
+},
+{
+    "id": 32802,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A tangent vector certainly defines the slope at one end of the curve, but a vector has characteristics of......",
+    "op": [
+        "direction",
+        "both direction and magnitude",
+        "None of the given",
+        "magnitude"
+    ],
+    "created_at": "2026-06-30T23:20:24.004565+00:00"
+},
+{
+    "id": 32803,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "the French mathematician who made significant contributions to our understanding of cubic and quadratic polynomials.",
+    "op": [
+        "Leonhard Euler",
+        "None of above",
+        "Bezier",
+        "Hermit"
+    ],
+    "created_at": "2026-06-30T23:21:50.241526+00:00"
+},
+{
+    "id": 32804,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The degree of a Bezier curve is equal to n-1, where n is the number of control points",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-06-30T23:21:58.8647+00:00"
+},
+{
+    "id": 32805,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "With similar expressions for y(u) and z(u). Again the a, b, c and d terms are constant coefficients. As we did with Equation for a plane curve, we combine the x(u), y(u) , and z(u) expressions into a single vector equation P(u) = ---------------------------------------.",
+    "op": [
+        "Au2+bu1+cu+d",
+        "Au4+bu3+cu2+d1",
+        "Au3+bu2+cu2+d",
+        "Au3+bu2+cu+d"
+    ],
+    "created_at": "2026-06-30T23:22:08.088889+00:00"
+},
+{
+    "id": 32806,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "To ensure a smooth transition from one section of a piecewise __________ to the next, we can impose various continuity conditions at the connection points",
+    "op": [
+        "parametric curve",
+        "polygon vector",
+        "Non of the these",
+        "non parametric curve"
+    ],
+    "created_at": "2026-06-30T23:23:23.215382+00:00"
+},
+{
+    "id": 32807,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The glClearColor function specifies the red, green, blue, and alpha values used by glClear to clear the color buffers. Values specified by glClearColor are clamped to the range ------------------.",
+    "op": [
+        "[-1,1]",
+        "[.5,1]",
+        "[0,-1]",
+        "[0,1]"
+    ],
+    "created_at": "2026-06-30T23:24:25.933699+00:00"
+},
+{
+    "id": 33375,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Another way to define a space curve by using intermediate points and the tangents at each end for making the curve",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-01T02:01:00.609393+00:00"
+},
+{
+    "id": 33377,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Bezier curve is tangent to the lines connecting _____________.",
+    "op": [
+        "Fist two points and last two point",
+        "None of the given",
+        "First two points",
+        "Last two points"
+    ],
+    "created_at": "2026-07-01T02:01:10.193685+00:00"
+},
+{
+    "id": 33380,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "OpenGL is well structured with an intuitive design and logical commands. Efficient OpenGL routines typically result in applications with fewer lines of code than those that make up programs generated using other graphics libraries or packages. In addition, OpenGL drivers --------------- information about the underlying hardware, freeing the application developer from having to design for specific hardware features.",
+    "op": [
+        "None of the given",
+        "Shows",
+        "Encapsulate",
+        "Hibernates"
+    ],
+    "created_at": "2026-07-01T02:01:24.466643+00:00"
+},
+{
+    "id": 33382,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If we assign a different value to the parametric variable for the intermediate point, then we obtain different values for the coefficients. This, in turn, means that a different curve is produced, although it passes through the -------------- three points.",
+    "op": [
+        "Different",
+        "Isolate",
+        "None of the given",
+        "Same"
+    ],
+    "created_at": "2026-07-01T02:01:34.876303+00:00"
+},
+{
+    "id": 33644,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A space curve is not confined to a plane. It is free to twist through space. To define a space curve we must use parametric functions that are ----------------------.",
+    "op": [
+        "Quadratic polynomials",
+        "Mono polynomials",
+        "Binary polynomials",
+        "Cubic polynomials"
+    ],
+    "created_at": "2026-07-01T02:50:20.536289+00:00"
+},
+{
+    "id": 33646,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "To convert the information in the A matrix into that required for the P matrix, we do some simple matrix algebra. First we have \nGP = ------------------------------",
+    "op": [
+        "NP",
+        "NU",
+        "UNP",
+        "UP"
+    ],
+    "created_at": "2026-07-01T02:50:42.901012+00:00"
+},
+{
+    "id": 33869,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The basis functions fi(u) in Bezier curve must be symmetric with respect to u and (u-2)",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-01T03:36:46.722761+00:00"
+},
+{
+    "id": 33873,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If the current matrix (according to glMatrixMode) is multiplied by the translation matrix, with the product replacing the current matrix. That is, if M is the current matrix and T is the translation matrix, then M is replaced with -----------------.",
+    "op": [
+        "M-T",
+        "M/T",
+        "M*T",
+        "M+T"
+    ],
+    "created_at": "2026-07-01T03:36:59.038229+00:00"
+},
+{
+    "id": 33874,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "_______________ sets the reshape callback for the current window. The reshape callback is triggered when a window is reshaped.",
+    "op": [
+        "glutReshapeFunc",
+        "glutMainLoop",
+        "glutIdleFunc",
+        "glutDisplayFunc"
+    ],
+    "created_at": "2026-07-01T03:37:07.670405+00:00"
+},
+{
+    "id": 33877,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The mathematics of parametric equation is the basis for ------------- curves.",
+    "op": [
+        "Hercules",
+        "Hermite",
+        "Tangent",
+        "Bresenham"
+    ],
+    "created_at": "2026-07-01T03:37:16.75665+00:00"
+},
+{
+    "id": 33880,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "glutReshapeWindow requests a change in the size of the current window. The width and height parameters are size extents in pixels. The width and height must be ---------------- values.",
+    "op": [
+        "Non of the given",
+        "Neutral",
+        "Negative",
+        "Positive"
+    ],
+    "created_at": "2026-07-01T03:37:26.402562+00:00"
+},
+{
+    "id": 34254,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The matrix generated by gluPerspective is multiplied by the current matrix, just as if glMultMatrix were called with the generated matrix. To load the perspective matrix onto the current matrix stack instead, precede the call to gluPerspective with a call to -----------------------.",
+    "op": [
+        "gluPerspective",
+        "glLoadIdentity",
+        "glTranslated",
+        "glRotated"
+    ],
+    "created_at": "2026-07-01T04:36:18.991469+00:00"
+},
+{
+    "id": 34261,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "All OpenGL applications produce consistent visual display results on any OpenGL API-compliant hardware, ---------------  of operating system or windowing system.",
+    "op": [
+        "Libraries",
+        "Kernel",
+        "Regardless",
+        "With respect"
+    ],
+    "created_at": "2026-07-01T04:37:09.279155+00:00"
+},
+{
+    "id": 34290,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Bezier curve  can represent the more complex piecewise ___________ curve.",
+    "op": [
+        "Cubic",
+        "Polynomial",
+        "None of above",
+        "Exponential"
+    ],
+    "created_at": "2026-07-01T04:39:13.482376+00:00"
+},
+{
+    "id": 34297,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "To convert the information in the A matrix into that required for the P matrix, we do some simple matrix algebra, First we have UA=UNP then Simply\nA = -------------",
+    "op": [
+        "None of the given",
+        "UN",
+        "UP",
+        "NP"
+    ],
+    "created_at": "2026-07-01T04:39:36.020946+00:00"
+},
+{
+    "id": 34306,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Using a lighting model based upon the Blinn Phong model means that we'll always get a uniform specular highlight based upon the colour of the --------------- light and material, which means that all reflections based on this model, will be reminiscent of plastic.",
+    "op": [
+        "Intersection",
+        "Refracting",
+        "Reflecting",
+        "Union"
+    ],
+    "created_at": "2026-07-01T04:40:41.368483+00:00"
+},
+{
+    "id": 34512,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Bit mask to select a window with multisampling support. If multisampling is not available, a ----------------- window will automatically be chosen.",
+    "op": [
+        "Di-multisampling",
+        "Mono-multisampling",
+        "Non-multisampling",
+        "Multisampling"
+    ],
+    "created_at": "2026-07-01T05:01:23.077793+00:00"
+},
+{
+    "id": 34616,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "An independent consortium, the OpenGL Architecture Review Board, guides the OpenGL specification. With broad industry support, OpenGL is the only truly open, vendor-neutral, --------------- graphics standard.",
+    "op": [
+        "Tertiary",
+        "Multiplatform",
+        "Binary",
+        "Single platform"
+    ],
+    "created_at": "2026-07-01T05:17:11.396142+00:00"
+},
+{
+    "id": 34752,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The curve is always contained within the _______ of the control points",
+    "op": [
+        "Convex Hull",
+        "None of Above",
+        "Subdivision",
+        "Tangents"
+    ],
+    "created_at": "2026-07-01T05:41:46.629797+00:00"
+},
+{
+    "id": 35172,
+    "cc": "CS602",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Curve and surface equations can be expressed in either a parametric or a nonparamehic form.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T07:02:33.407113+00:00"
+},
+{
+    "id": 42809,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_________ lights should be avoided because they are not for real time environment.",
+    "op": [
+        "Parallel",
+        "Point",
+        "Spot",
+        "None of the given"
+    ],
+    "created_at": "2026-06-22T08:31:38.770339+00:00"
+},
+{
+    "id": 42810,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________ light is reflected in all directions from surface.",
+    "op": [
+        "Diffuse",
+        "Emissive",
+        "Ambient",
+        "Specular"
+    ],
+    "created_at": "2026-06-22T08:32:41.213194+00:00"
+},
+{
+    "id": 42811,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "One problem with Gouraud shading is that the ----------- intensities can never be greater than the intensities at the edges.",
+    "op": [
+        "Squares",
+        "Rectangles",
+        "Polygons",
+        "Triangles"
+    ],
+    "created_at": "2026-06-22T08:33:01.128+00:00"
+},
+{
+    "id": 42812,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Gouraud shading is the current de jure shading standard in accelerated ------------ hardware.",
+    "op": [
+        "Multidimensional",
+        "None of all",
+        "2Dimensional",
+        "3 Dimensional"
+    ],
+    "created_at": "2026-06-22T08:34:17.027051+00:00"
+},
+{
+    "id": 42813,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "As f represents the attenuation of light, then f only approaches zero, when d approaches at distance -------------.",
+    "op": [
+        "1/n",
+        "Infinity",
+        "Zero",
+        "1/2"
+    ],
+    "created_at": "2026-06-22T08:34:37.428837+00:00"
+},
+{
+    "id": 42814,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When you hit a surface in ray tracing, generally shadow rays are tested against all objects in a scene.  If these rays come back saying they hit an object in the scene, which of the following do you do?",
+    "op": [
+        "add only the ambient light from that light source to the object",
+        "add all EXCEPT the ambient light from that light source to the object (i.e. diffuse and specular)",
+        "add all components (i.e. ambient, diffuse and specular) from that light source to the object.",
+        "add none of the light from that light source to the object"
+    ],
+    "created_at": "2026-06-22T08:34:59.765914+00:00"
+},
+{
+    "id": 42815,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "There is more penetration of light in case of ___________ surfaces.",
+    "op": [
+        "Conductor (like metals)",
+        "Both conductor and nonconductor",
+        "Nonconductor (like dielectrics)",
+        "None of the given"
+    ],
+    "created_at": "2026-06-22T08:36:07.614711+00:00"
+},
+{
+    "id": 42816,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The ColorSpace tool is a handy tool that we can use to interactively add two colours together to see the effects of the various strategies for handling oversaturated colours.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-22T08:36:27.81067+00:00"
+},
+{
+    "id": 42817,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "When we need an object to \"glow\" in a scene, we can do this with ------------ light.",
+    "op": [
+        "Diffuse",
+        "Ambient",
+        "Emissive",
+        "Specular"
+    ],
+    "created_at": "2026-06-22T08:36:46.674129+00:00"
+},
+{
+    "id": 42818,
+    "cc": "CS602",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Length L depends on the angle alpha and the z coordinate of the point to be projected and L can be represented by --------------------.",
+    "op": [
+        "z * 1/ tan (beta)",
+        "z * 1/ tan (alpha)",
+        "z * 1/ tan (gamma)",
+        "z * L2"
+    ],
+    "created_at": "2026-06-22T08:37:06.508082+00:00"
+}
+]

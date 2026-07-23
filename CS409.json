@@ -1,0 +1,548 @@
+[
+{
+    "id": 30755,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_________ is the smallest unit of storage that Oracle Database can use or allocate.",
+    "op": [
+        "Data Dictionary",
+        "Index",
+        "Tablespace",
+        "Data block"
+    ],
+    "created_at": "2026-06-30T19:01:14.620839+00:00"
+},
+{
+    "id": 30757,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Exceptions can be raised explicitly by the programmer by using the command _________.",
+    "op": [
+        "RAISE",
+        "EXCEPTION HANDLER",
+        "EXCEPTION",
+        "EXCEPTION CODE"
+    ],
+    "created_at": "2026-06-30T19:01:22.224126+00:00"
+},
+{
+    "id": 30763,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A tablespace is a logical storage container for_______.",
+    "op": [
+        "Data file",
+        "Segments",
+        "Block",
+        "Index"
+    ],
+    "created_at": "2026-06-30T19:01:30.132293+00:00"
+},
+{
+    "id": 30768,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A PCTFREE setting of 20% prevents the total amount of free space from dropping to 5% of the block, but permits ______ of the block to be free space.",
+    "op": [
+        "60%",
+        "50%",
+        "40%",
+        "80%"
+    ],
+    "created_at": "2026-06-30T19:01:40.731575+00:00"
+},
+{
+    "id": 30780,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A ________ is a set of extents that contains all the data for a logical storage structure within a tablespace.",
+    "op": [
+        "Index",
+        "Block",
+        "Data file",
+        "Segment"
+    ],
+    "created_at": "2026-06-30T19:01:58.836335+00:00"
+},
+{
+    "id": 30789,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ are the basic unit of data storage in an Oracle Database.",
+    "op": [
+        "Index",
+        "Data",
+        "Tables",
+        "Views"
+    ],
+    "created_at": "2026-06-30T19:02:07.463345+00:00"
+},
+{
+    "id": 30799,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The code that you write to handle exceptions is called a/an___________.",
+    "op": [
+        "Exception SQL code",
+        "Exception code",
+        "Exception handling",
+        "Exception handler"
+    ],
+    "created_at": "2026-06-30T19:02:17.57319+00:00"
+},
+{
+    "id": 30806,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which system privilege is required to create a cluster in another user's schema?",
+    "op": [
+        "CREATE SYSTEM CLUSTER",
+        "CLUSTER RIGHTS",
+        "CREATE ANY CLUSTER",
+        "CREATE CLUSTER"
+    ],
+    "created_at": "2026-06-30T19:02:27.216313+00:00"
+},
+{
+    "id": 31118,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A/an_________ provides an optional method of storing table data.",
+    "op": [
+        "Data block",
+        "Cluster",
+        "Data group",
+        "Index"
+    ],
+    "created_at": "2026-06-30T19:12:51.414796+00:00"
+},
+{
+    "id": 31125,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A ________ is a logical representation of one or more tables.",
+    "op": [
+        "Segment",
+        "Index",
+        "Block",
+        "View"
+    ],
+    "created_at": "2026-06-30T19:13:05.497747+00:00"
+},
+{
+    "id": 31133,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "______ stores space logically to create logical objects such as Tables, Indexes and other objects.",
+    "op": [
+        "Data Dictionary",
+        "Database block",
+        "Index",
+        "Tablespace"
+    ],
+    "created_at": "2026-06-30T19:13:10.75211+00:00"
+},
+{
+    "id": 31136,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "To create a table in a _______, you must have either the CREATE TABLE or CREATE ANY TABLE system privilege.",
+    "op": [
+        "Cluster",
+        "View",
+        "Index",
+        "Data"
+    ],
+    "created_at": "2026-06-30T19:13:16.111329+00:00"
+},
+{
+    "id": 31139,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Front end programming can be changed without affecting____________ programming.",
+    "op": [
+        "Server and client",
+        "Client",
+        "Server",
+        "SQL"
+    ],
+    "created_at": "2026-06-30T19:13:23.577609+00:00"
+},
+{
+    "id": 31143,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "You do not need a ___________ or the UNLIMITED TABLESPACE system privilege to create a table in a cluster.",
+    "op": [
+        "Table",
+        "Index",
+        "Cluster",
+        "Tablespace quota"
+    ],
+    "created_at": "2026-06-30T19:13:33.406266+00:00"
+},
+{
+    "id": 31145,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A/an ______________is a schema object from which multiple users can generate unique integers.",
+    "op": [
+        "Index",
+        "Sequence",
+        "Order",
+        "View"
+    ],
+    "created_at": "2026-06-30T19:13:42.581163+00:00"
+},
+{
+    "id": 32462,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Unlike an ordinary (heap-organized) table, data for an _________ is stored in a B-tree index structure in a primary key sorted manner.",
+    "op": [
+        "Alter table",
+        "Clustered table",
+        "Index-organized table",
+        "Partitioned Table"
+    ],
+    "created_at": "2026-06-30T20:57:29.877942+00:00"
+},
+{
+    "id": 32466,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A/an __________ derives its data from the tables on which it is based.",
+    "op": [
+        "Table",
+        "Data",
+        "Index",
+        "View"
+    ],
+    "created_at": "2026-06-30T20:58:07.436951+00:00"
+},
+{
+    "id": 32469,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An ________________ is a view that contains multiple tables in the top-level FROM clause of the SELECT statement, and is not restricted by the WITH READ ONLY clause.",
+    "op": [
+        "Add join view",
+        "Update join view",
+        "Edit join view",
+        "Updatable join view"
+    ],
+    "created_at": "2026-06-30T20:58:16.965559+00:00"
+},
+{
+    "id": 32614,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which system privilege is required to create a cluster in own schema?",
+    "op": [
+        "CREATE ANY CLUSTER",
+        "CLUSTER RIGHTS",
+        "CREATE CLUSTER",
+        "CREATE SYSTEM CLUSTER"
+    ],
+    "created_at": "2026-06-30T21:53:51.859608+00:00"
+},
+{
+    "id": 42658,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A/an_________ provides an optional method of storing table data.",
+    "op": [
+        "Cluster",
+        "Data group",
+        "Index",
+        "Data block"
+    ],
+    "created_at": "2026-07-02T18:41:14.091533+00:00"
+},
+{
+    "id": 42659,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A PCTFREE setting of 20% prevents the total amount of free space from dropping to 5% of the block, but permits ______ of the block to be free space.",
+    "op": [
+        "60%",
+        "40%",
+        "50%",
+        "80%"
+    ],
+    "created_at": "2026-07-02T18:41:59.491516+00:00"
+},
+{
+    "id": 42660,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To create a table in a _______, you must have either the CREATE TABLE or CREATE ANY TABLE system privilege.",
+    "op": [
+        "Data",
+        "View",
+        "Index",
+        "Cluster"
+    ],
+    "created_at": "2026-07-02T18:42:11.593811+00:00"
+},
+{
+    "id": 42661,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which system privilege is required to create a cluster in another user's schema?",
+    "op": [
+        "CREATE ANY CLUSTER",
+        "CREATE SYSTEM CLUSTER",
+        "CLUSTER RIGHTS",
+        "CREATE CLUSTER"
+    ],
+    "created_at": "2026-07-02T18:42:19.438049+00:00"
+},
+{
+    "id": 42662,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "______ stores space logically to create logical objects such as Tables, Indexes and other objects.",
+    "op": [
+        "Database block",
+        "Data Dictionary",
+        "Index",
+        "Tablespace"
+    ],
+    "created_at": "2026-07-02T18:42:25.775096+00:00"
+},
+{
+    "id": 42663,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "EMP.sal%TYPE is an example of __________ data type.",
+    "op": [
+        "Composite",
+        "Scalar",
+        "Complex",
+        "Subtype"
+    ],
+    "created_at": "2026-07-02T18:42:31.731168+00:00"
+},
+{
+    "id": 42664,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A ________ is a set of extents that contains all the data for a logical storage structure within a tablespace.",
+    "op": [
+        "Index",
+        "Block",
+        "Data file",
+        "Segment"
+    ],
+    "created_at": "2026-07-02T18:42:42.492748+00:00"
+},
+{
+    "id": 42665,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A tablespace is a logical storage container for_______.",
+    "op": [
+        "Block",
+        "Index",
+        "Data file",
+        "Segments"
+    ],
+    "created_at": "2026-07-02T18:42:49.000576+00:00"
+},
+{
+    "id": 42666,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A/an ______________is a schema object from which multiple users can generate unique integers.",
+    "op": [
+        "Sequence",
+        "Index",
+        "View",
+        "Order"
+    ],
+    "created_at": "2026-07-02T18:42:55.386617+00:00"
+},
+{
+    "id": 42667,
+    "cc": "CS409",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The code that you write to handle exceptions is called a/an___________.",
+    "op": [
+        "Exception handler",
+        "Exception handling",
+        "Exception SQL code",
+        "Exception code"
+    ],
+    "created_at": "2026-07-02T18:43:01.425536+00:00"
+},
+{
+    "id": 47687,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________ is a binary parameter file that resides on the database server machine.",
+    "op": [
+        "SPFILE",
+        "Log File",
+        "Control File",
+        "PFILE"
+    ],
+    "created_at": "2026-07-05T19:04:58.735851+00:00"
+},
+{
+    "id": 47695,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Oracle Trace files contain ________________.",
+    "op": [
+        "Checkpoints data",
+        "Transaction data",
+        "Diagnostic data",
+        "Backup data"
+    ],
+    "created_at": "2026-07-05T19:05:05.506554+00:00"
+},
+{
+    "id": 47705,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Oracle Alert log file is a ____________ file.",
+    "op": [
+        "WinRar",
+        "Text",
+        "Binary",
+        "PDF"
+    ],
+    "created_at": "2026-07-05T19:05:11.415435+00:00"
+},
+{
+    "id": 47714,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ is a pointer that points to the result of a query.",
+    "op": [
+        "Indicator",
+        "Record",
+        "Index",
+        "Cursor"
+    ],
+    "created_at": "2026-07-05T19:05:16.916383+00:00"
+},
+{
+    "id": 47725,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A/an_________ is a composite data structure, which means that it is composed of one or more elements.",
+    "op": [
+        "Cursor",
+        "Record",
+        "Index",
+        "Table"
+    ],
+    "created_at": "2026-07-05T19:05:23.761752+00:00"
+},
+{
+    "id": 47734,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which parameter is used in SQL Function?",
+    "op": [
+        "DECLARE",
+        "OUT",
+        "IN",
+        "IN OUT"
+    ],
+    "created_at": "2026-07-05T19:05:29.868605+00:00"
+},
+{
+    "id": 47741,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________ is a text parameter file that resides on the client machine.",
+    "op": [
+        "PFILE",
+        "Log File",
+        "Data File",
+        "SPFILE"
+    ],
+    "created_at": "2026-07-05T19:05:36.413572+00:00"
+},
+{
+    "id": 47754,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Database roles make it ______________ to grant multiple privileges to many users.",
+    "op": [
+        "Difficult",
+        "Easy",
+        "Static",
+        "Impossible"
+    ],
+    "created_at": "2026-07-05T19:05:42.183654+00:00"
+},
+{
+    "id": 47762,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Database role is a collection of privileges and other ___________.",
+    "op": [
+        "Tables",
+        "Views",
+        "Roles",
+        "Objects"
+    ],
+    "created_at": "2026-07-05T19:05:47.094303+00:00"
+},
+{
+    "id": 47770,
+    "cc": "CS409",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which keyword is not used in SQL procedure?",
+    "op": [
+        "IN OUT",
+        "DECLARE",
+        "OUT",
+        "IN"
+    ],
+    "created_at": "2026-07-05T19:05:52.727529+00:00"
+}
+]

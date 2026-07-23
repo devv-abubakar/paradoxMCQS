@@ -1,0 +1,982 @@
+[
+{
+    "id": 23414,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"HiThere\".swapcase() return?",
+    "op": [
+        "\"HItHere\"",
+        "\"hItheRE\"",
+        "\"hItHERE\"",
+        "\"hitHERE\""
+    ],
+    "created_at": "2026-06-28T19:06:32.777598+00:00"
+},
+{
+    "id": 23436,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the index of 'b' in lst = ['a', 'b', 'c']?",
+    "op": [
+        "0",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:07:01.153408+00:00"
+},
+{
+    "id": 23456,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does lst[-1] return in lst = [10, 20, 30]?",
+    "op": [
+        "20",
+        "30",
+        "10",
+        "0"
+    ],
+    "created_at": "2026-06-28T19:07:19.797373+00:00"
+},
+{
+    "id": 23467,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does lst.pop(1) do in [10, 20, 30]?",
+    "op": [
+        "Deletes 30",
+        "Deletes 20",
+        "Deletes 10",
+        "Raises an error"
+    ],
+    "created_at": "2026-06-28T19:07:28.637232+00:00"
+},
+{
+    "id": 23471,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Why are tuples considered immutable in Python?",
+    "op": [
+        "They support fewer data types",
+        "Their size is fixed and cannot be altered",
+        "They are stored in the heap memory",
+        "They are designed to be mutable"
+    ],
+    "created_at": "2026-06-28T19:07:37.808075+00:00"
+},
+{
+    "id": 23483,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method returns True if all characters in a string are alphabetic?",
+    "op": [
+        "isalnum()",
+        "isalpha()",
+        "isdigit()",
+        "isnumeric()"
+    ],
+    "created_at": "2026-06-28T19:07:49.563624+00:00"
+},
+{
+    "id": 23492,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method is used to add multiple items from another list?",
+    "op": [
+        "add()",
+        "append()",
+        "extend()",
+        "insert()"
+    ],
+    "created_at": "2026-06-28T19:07:59.000634+00:00"
+},
+{
+    "id": 23503,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"one,two,three\".split(',' , 1) return?",
+    "op": [
+        "['one,two', 'three']",
+        "['one']",
+        "['one', 'two,three']",
+        "['one', 'two', 'three']"
+    ],
+    "created_at": "2026-06-28T19:08:08.839593+00:00"
+},
+{
+    "id": 23568,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does s = \"hello\"; s[1:4] return?",
+    "op": [
+        "\"ell\"",
+        "\"elo\"",
+        "\"hel\"",
+        "\"llo\""
+    ],
+    "created_at": "2026-06-28T19:09:34.305544+00:00"
+},
+{
+    "id": 23619,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which statement is TRUE about lists?",
+    "op": [
+        "Duplicates are not allowed",
+        "They must contain only integers",
+        "Lists are immutable",
+        "Lists allow duplicate and mixed-type elements"
+    ],
+    "created_at": "2026-06-28T19:10:16.883888+00:00"
+},
+{
+    "id": 23655,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the difference between remove() and pop()?",
+    "op": [
+        "remove() uses index; pop() uses value",
+        "remove() uses value; pop() uses index",
+        "pop() removes first item",
+        "Both are the same"
+    ],
+    "created_at": "2026-06-28T19:10:56.154544+00:00"
+},
+{
+    "id": 23681,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does the expression 10 not in (10, 20, 30) return?",
+    "op": [
+        "Error",
+        "None",
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:11:46.853421+00:00"
+},
+{
+    "id": 23700,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the output of lst[1] = 5 for lst = [1, 2, 3]?",
+    "op": [
+        "[1, 5, 3]",
+        "[1, 2, 5]",
+        "[5, 2, 3]",
+        "[1, 5, 2, 3]"
+    ],
+    "created_at": "2026-06-28T19:12:24.198937+00:00"
+},
+{
+    "id": 23715,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the return type of partition() and rpartition()?",
+    "op": [
+        "Set",
+        "Tuple",
+        "List",
+        "String"
+    ],
+    "created_at": "2026-06-28T19:13:03.246322+00:00"
+},
+{
+    "id": 23727,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method removes trailing whitespace only?",
+    "op": [
+        "lstrip()",
+        "strip()",
+        "rstrip()",
+        "trim()"
+    ],
+    "created_at": "2026-06-28T19:13:36.673633+00:00"
+},
+{
+    "id": 23739,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"xxhellox\".strip('x') return?",
+    "op": [
+        "\"hello\"",
+        "\"xhellox\"",
+        "\"xhello\"",
+        "\"hellox\""
+    ],
+    "created_at": "2026-06-28T19:13:56.338745+00:00"
+},
+{
+    "id": 23752,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What happens if a list passed to join() contains non-string elements?",
+    "op": [
+        "It converts them",
+        "It skips them",
+        "It raises an error",
+        "It joins them with space"
+    ],
+    "created_at": "2026-06-28T19:14:17.368393+00:00"
+},
+{
+    "id": 23760,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"123\".isnumeric() return?",
+    "op": [
+        "Error",
+        "True",
+        "False",
+        "None"
+    ],
+    "created_at": "2026-06-28T19:14:32.805213+00:00"
+},
+{
+    "id": 23997,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does lst[:2] return in [10, 20, 30]?",
+    "op": [
+        "[10, 20]",
+        "[30]",
+        "[10, 20, 30]",
+        "[20, 30]"
+    ],
+    "created_at": "2026-06-28T19:21:03.183188+00:00"
+},
+{
+    "id": 24010,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \" abc \".strip() return?",
+    "op": [
+        "\" abc \"",
+        "\" abc\"",
+        "\"abc \"",
+        "\"abc\""
+    ],
+    "created_at": "2026-06-28T19:21:25.646295+00:00"
+},
+{
+    "id": 24024,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the output of \"banana\".count(\"a\")?",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-06-28T19:21:53.400761+00:00"
+},
+{
+    "id": 24040,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which operator is used to check if a substring exists in a string?",
+    "op": [
+        "has",
+        "in",
+        "exists",
+        "within"
+    ],
+    "created_at": "2026-06-28T19:22:10.99738+00:00"
+},
+{
+    "id": 24053,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"hello\".rfind(\"l\") return?",
+    "op": [
+        "1",
+        "2",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:22:27.756591+00:00"
+},
+{
+    "id": 25225,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does lst.append([3, 4]) do?",
+    "op": [
+        "Adds 3 and 4 separately",
+        "Adds 3 only",
+        "Adds the list as a single item",
+        "Replaces last item"
+    ],
+    "created_at": "2026-06-28T21:58:50.685643+00:00"
+},
+{
+    "id": 25229,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the output of lst[::2] for [0, 1, 2, 3, 4]?",
+    "op": [
+        "[2, 4]",
+        "[1, 2, 3]",
+        "[0, 2, 4]",
+        "[1, 3]"
+    ],
+    "created_at": "2026-06-28T21:59:00.5274+00:00"
+},
+{
+    "id": 25233,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the correct way to define a list in Python?",
+    "op": [
+        "mylist = (1, 2, 3)",
+        "mylist = {1, 2, 3}",
+        "mylist = <1, 2, 3>",
+        "mylist = [1, 2, 3]"
+    ],
+    "created_at": "2026-06-28T21:59:15.894013+00:00"
+},
+{
+    "id": 25237,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does f\"{10:>5}\" produce?",
+    "op": [
+        "'10 '",
+        "'0010'",
+        "' 10'",
+        "'10'"
+    ],
+    "created_at": "2026-06-28T21:59:27.969055+00:00"
+},
+{
+    "id": 25248,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the syntax error in the below code: s = \"abc\" print(s[3])",
+    "op": [
+        "You need to convert s to list first",
+        "Strings can't be indexed",
+        "Index 3 is out of range",
+        "Missing comma in print"
+    ],
+    "created_at": "2026-06-28T22:01:11.030253+00:00"
+},
+{
+    "id": 25251,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"hello world\".count(\"l\", 3) return?",
+    "op": [
+        "0",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-28T22:01:22.723157+00:00"
+},
+{
+    "id": 25253,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does lst[-2:] return for lst = [5, 10, 15]?",
+    "op": [
+        "[5, 10]",
+        "[ ]",
+        "[10, 15]",
+        "[15]"
+    ],
+    "created_at": "2026-06-28T22:01:33.215484+00:00"
+},
+{
+    "id": 25381,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"apple\".find(\"p\") return?",
+    "op": [
+        "4",
+        "2",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-06-29T00:11:08.346511+00:00"
+},
+{
+    "id": 25382,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method creates a list from a tuple?",
+    "op": [
+        "array()",
+        "list()",
+        "convert()",
+        "tolist()"
+    ],
+    "created_at": "2026-06-29T00:11:19.395435+00:00"
+},
+{
+    "id": 25383,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following empties a list?",
+    "op": [
+        "lst.clear()",
+        "lst.pop()",
+        "del lst[0]",
+        "lst.remove(0)"
+    ],
+    "created_at": "2026-06-29T00:11:27.695008+00:00"
+},
+{
+    "id": 25385,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method can be used to change an element in a tuple?",
+    "op": [
+        "Use the append() method",
+        "Convert the tuple to a list, modify it, and convert back",
+        "Use the replace() method",
+        "Direct assignment"
+    ],
+    "created_at": "2026-06-29T00:11:36.215599+00:00"
+},
+{
+    "id": 25387,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the result of \"hello123\".isalnum()?",
+    "op": [
+        "None",
+        "Error",
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-29T00:11:47.727404+00:00"
+},
+{
+    "id": 25391,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the result of lst[1:3] = [9, 10] on [1, 2, 3, 4]?",
+    "op": [
+        "[9, 10]",
+        "[1, 2, 9, 10, 4]",
+        "[1, 9, 10, 3, 4]",
+        "[1, 9, 10, 4]"
+    ],
+    "created_at": "2026-06-29T00:12:28.982427+00:00"
+},
+{
+    "id": 25598,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is tuple packing in Python?",
+    "op": [
+        "Assigning values from a tuple to variables",
+        "Grouping values into a tuple",
+        "Flattening a tuple into a list",
+        "Deleting a tuple"
+    ],
+    "created_at": "2026-06-29T02:14:55.704997+00:00"
+},
+{
+    "id": 25601,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the correct way to extract a sub-tuple from the tuple t = (10, 20, 30, 40, 50)?",
+    "op": [
+        "t[1, 3]",
+        "t[1:3]",
+        "t{1, 3}",
+        "t(1, 3)"
+    ],
+    "created_at": "2026-06-29T02:15:39.630825+00:00"
+},
+{
+    "id": 25608,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the output of \"Mississippi\".count(\"ss\")?",
+    "op": [
+        "2",
+        "1",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-06-29T02:16:58.888321+00:00"
+},
+{
+    "id": 25811,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is correct for unpacking a tuple t = (1, 2, 3) into variables?",
+    "op": [
+        "a = b = c = t",
+        "a, b, c = t",
+        "a, b = t",
+        "a, b, c = (1, 2)"
+    ],
+    "created_at": "2026-06-29T03:08:49.957193+00:00"
+},
+{
+    "id": 25812,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How can a tuple be extended by adding another tuple \"(1,2)\" to it?",
+    "op": [
+        "tuple + (1,2)",
+        "tuple.append((1,2))",
+        "tuple.extend((1,2))",
+        "tuple.add((1,2))"
+    ],
+    "created_at": "2026-06-29T03:09:00.066709+00:00"
+},
+{
+    "id": 25990,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the result of the following operation: (1, 2) + (3, 4)?",
+    "op": [
+        "(4, 6)",
+        "(1, 2, 3, 4)",
+        "(4, 6, 3, 4)",
+        "(1, 2) (3, 4)"
+    ],
+    "created_at": "2026-06-29T03:49:10.233545+00:00"
+},
+{
+    "id": 26002,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What will the code a, *b = (1, 2, 3, 4) do?",
+    "op": [
+        "Error",
+        "Assign a = (1,) and b = (2, 3, 4)",
+        "Assign a = (1, 2) and b = (3, 4)",
+        "Assign a = 1 and b = (2, 3, 4)"
+    ],
+    "created_at": "2026-06-29T03:51:32.866774+00:00"
+},
+{
+    "id": 26090,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does the following code return? \"hi\".ljust(5)",
+    "op": [
+        "' hi'",
+        "' hi '",
+        "'hi '",
+        "'hi'"
+    ],
+    "created_at": "2026-06-29T04:20:04.762021+00:00"
+},
+{
+    "id": 26126,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What does \"python programming\".title() return?",
+    "op": [
+        "\"python Programming\"",
+        "\"Python Programming\"",
+        "\"Pythonprogramming\"",
+        "\"Python programming\""
+    ],
+    "created_at": "2026-06-29T04:25:53.432562+00:00"
+},
+{
+    "id": 26127,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which method is used to right-align a string within a given width?",
+    "op": [
+        "rjust()",
+        "center()",
+        "justify()",
+        "ljust()"
+    ],
+    "created_at": "2026-06-29T04:25:54.371993+00:00"
+},
+{
+    "id": 26129,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the result of \"Python\" in \"I love Python programming\"?",
+    "op": [
+        "Programming",
+        "True",
+        "False",
+        "Python"
+    ],
+    "created_at": "2026-06-29T04:26:01.730459+00:00"
+},
+{
+    "id": 26132,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What is the output of below code? lst = [1, 2, 3, 4] lst[1:3]",
+    "op": [
+        "[1, 2, 3]",
+        "[3, 4]",
+        "[2, 3, 4]",
+        "[2, 3]"
+    ],
+    "created_at": "2026-06-29T04:26:23.102013+00:00"
+},
+{
+    "id": 26332,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How do you access the 3rd character of string s = \"Python\"?",
+    "op": [
+        "s[2]",
+        "s[3:4]",
+        "s[3]",
+        "s[-3]"
+    ],
+    "created_at": "2026-06-29T05:36:03.989211+00:00"
+},
+{
+    "id": 26335,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which escape sequence moves the cursor to the next line?",
+    "op": [
+        "\\f",
+        "\\t",
+        "\\n",
+        "\\r"
+    ],
+    "created_at": "2026-06-29T05:36:54.742963+00:00"
+},
+{
+    "id": 42520,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What does \"apple\".find(\"p\") return?",
+    "op": [
+        "4",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-30T03:36:18.566584+00:00"
+},
+{
+    "id": 42521,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What does \" abc \".strip() return?",
+    "op": [
+        "\" abc\"",
+        "\"abc\"",
+        "\"abc \"",
+        "\" abc \""
+    ],
+    "created_at": "2026-06-30T03:32:52.702889+00:00"
+},
+{
+    "id": 42522,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What is the difference between remove() and pop()?",
+    "op": [
+        "Both are the same",
+        "pop() removes first item",
+        "remove() uses value; pop() uses index",
+        "remove() uses index; pop() uses value"
+    ],
+    "created_at": "2026-06-30T03:33:37.958956+00:00"
+},
+{
+    "id": 42523,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What is the result of \"hello123\".isalnum()?",
+    "op": [
+        "True",
+        "Error",
+        "None",
+        "False"
+    ],
+    "created_at": "2026-06-30T03:34:12.345409+00:00"
+},
+{
+    "id": 42525,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What is the output of \"apple\".replace(\"p\", \"*\")?",
+    "op": [
+        "'apple'",
+        "'ap*le'",
+        "'a**le'",
+        "'a*ple'"
+    ],
+    "created_at": "2026-06-30T03:35:16.636391+00:00"
+},
+{
+    "id": 42526,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What happens if a list passed to join() contains non-string elements?",
+    "op": [
+        "It skips them",
+        "It converts them",
+        "It joins them with space",
+        "It raises an error"
+    ],
+    "created_at": "2026-06-30T03:35:47.023219+00:00"
+},
+{
+    "id": 42527,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What does lst.pop(1) do in [10, 20, 30]?",
+    "op": [
+        "Deletes 20",
+        "Raises an error",
+        "Deletes 30",
+        "Deletes 10"
+    ],
+    "created_at": "2026-06-30T03:36:40.939987+00:00"
+},
+{
+    "id": 42528,
+    "cc": "CS306",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What does lst[:2] return in [10, 20, 30]?",
+    "op": [
+        "[20, 30]",
+        "[10, 20, 30]",
+        "[30]",
+        "[10, 20]"
+    ],
+    "created_at": "2026-06-30T03:37:27.440002+00:00"
+},
+{
+    "id": 49118,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What does Python's consistency refer to in handling data structures?",
+    "op": [
+        "Python only supports immutable data structures",
+        "Lists and strings are treated as mutable",
+        "Lists and strings are immutable",
+        "Similar operations are available for different data structures"
+    ],
+    "created_at": "2026-07-05T19:30:20.311583+00:00"
+},
+{
+    "id": 49134,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How would you unpack a list l = [1, 2, 3] into individual variables?",
+    "op": [
+        "a, *b = l",
+        "a, b = l",
+        "a, b, c = l",
+        "a = l[0], b = l[1]"
+    ],
+    "created_at": "2026-07-05T19:30:51.059941+00:00"
+},
+{
+    "id": 49164,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which scenario \"set\" is most useful?",
+    "op": [
+        "When you need to store unique elements",
+        "When you need to modify elements in place",
+        "When you need to access elements by index",
+        "When you need to preserve the order of elements"
+    ],
+    "created_at": "2026-07-05T19:31:41.246069+00:00"
+},
+{
+    "id": 49179,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a property of sets in Python?",
+    "op": [
+        "Sets are ordered",
+        "Sets can contain only numbers",
+        "Sets do not allow duplicate elements",
+        "Sets allow duplicate elements"
+    ],
+    "created_at": "2026-07-05T19:32:27.43124+00:00"
+},
+{
+    "id": 49188,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following methods is used to find the number of occurrences of an element in a tuple?",
+    "op": [
+        "count()",
+        "search()",
+        "len()",
+        "index()"
+    ],
+    "created_at": "2026-07-05T19:32:52.377658+00:00"
+},
+{
+    "id": 49201,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true about variable-length unpacking in Python?",
+    "op": [
+        "The * operator can be used with strings and tuples, but not lists",
+        "You can only use * with lists",
+        "The * operator captures all remaining elements during unpacking",
+        "You cannot use * for unpacking a tuple"
+    ],
+    "created_at": "2026-07-05T19:33:20.461399+00:00"
+},
+{
+    "id": 49230,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which method is used to add a single element to a set?",
+    "op": [
+        "insert()",
+        "push()",
+        "append()",
+        "add()"
+    ],
+    "created_at": "2026-07-05T19:34:16.263251+00:00"
+},
+{
+    "id": 49239,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How can you repeat the elements of a tuple (1, 2) three times?",
+    "op": [
+        "(1, 2) * 3",
+        "tuple(1, 2).repeat(3)",
+        "(1, 2) + 3",
+        "(1, 2).repeat(3)"
+    ],
+    "created_at": "2026-07-05T19:34:34.443869+00:00"
+},
+{
+    "id": 49244,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How can multiple elements be added to a set at once?",
+    "op": [
+        "add()",
+        "extend()",
+        "update()",
+        "append()"
+    ],
+    "created_at": "2026-07-05T19:34:50.24559+00:00"
+},
+{
+    "id": 49255,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What happens when a duplicate element is added to a set?",
+    "op": [
+        "The set throws an error",
+        "The set grows in size",
+        "The duplicate is added at the end",
+        "The duplicate is ignored"
+    ],
+    "created_at": "2026-07-05T19:35:05.005992+00:00"
+},
+{
+    "id": 50452,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true about iterating through a set?",
+    "op": [
+        "You cannot iterate over a set",
+        "Sets are indexed, and you can use the index to iterate",
+        "Sets support list slicing for iteration",
+        "Sets are unordered, so iteration may not follow insertion order"
+    ],
+    "created_at": "2026-07-05T21:08:03.968666+00:00"
+},
+{
+    "id": 51035,
+    "cc": "CS306",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How can you find the index of element 30 in a tuple t = (10, 20, 30, 40)?",
+    "op": [
+        "t.search(30)",
+        "t.index(30)",
+        "index(t, 30)",
+        "find(30, t)"
+    ],
+    "created_at": "2026-07-06T00:09:33.920368+00:00"
+}
+]

@@ -1,0 +1,926 @@
+[
+{
+    "id": 31592,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A/An _______ loop in PL/SQL ensures that at least one statement is executed before the loop terminates.",
+    "op": [
+        "While",
+        "Exit",
+        "Cursor For",
+        "For"
+    ],
+    "created_at": "2026-06-30T19:32:02.565471+00:00"
+},
+{
+    "id": 31604,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Loop without exit condition is a/an _____________ loop.",
+    "op": [
+        "Finite",
+        "While",
+        "For",
+        "Infinite"
+    ],
+    "created_at": "2026-06-30T19:32:34.664218+00:00"
+},
+{
+    "id": 31607,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "By using PL/SQL _______, you can repeatedly execute one or more statements over and over again.",
+    "op": [
+        "Loops",
+        "Cursor",
+        "Case",
+        "Variables"
+    ],
+    "created_at": "2026-06-30T19:32:42.379271+00:00"
+},
+{
+    "id": 31609,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "DECLARE no NUMBER := 0; BEGIN FOR no IN 1 .. 5 LOOP DBMS_OUTPUT.PUT_LINE('Iteration : ' || no); CONTINUE WHEN no = 4 DBMS_OUTPUT.PUT_LINE('CONTINUE WHEN EXECUTE Iteration : ' || no); END LOOP; END; / Output for this piece of code :",
+    "op": [
+        "Iteration # 1 Iteration # 2 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4",
+        "Iteration # 1 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 3"
+    ],
+    "created_at": "2026-06-30T19:32:47.975371+00:00"
+},
+{
+    "id": 31626,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "You can also use CONTINUE to terminate an ___________loop and continue immediately on to the next iteration of an outer loop’s body.",
+    "op": [
+        "Outer",
+        "Nested",
+        "Simple",
+        "Inner"
+    ],
+    "created_at": "2026-06-30T19:33:09.867979+00:00"
+},
+{
+    "id": 31629,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "BEGIN WHILE lv_cnt_num <= 5 LOOP DBMS_OUTPUT.PUT_LINE(lv_cnt_num); lv_cnt_num := lv_cnt_num + 1; END LOOP; END; According to the code fragment above, how many times does the loop iterate?",
+    "op": [
+        "4",
+        "6",
+        "3",
+        "5"
+    ],
+    "created_at": "2026-06-30T19:33:17.433909+00:00"
+},
+{
+    "id": 31637,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "1. BEGIN 2. FOR loop_index IN 1..5 3. LOOP 4. dbms_output.put_line(loop_index); 5. dbms_output.put_line('Before the Continue statement'); 6. CONTINUE; 7. dbms_output.put_line('After the Continue statement'); 8. END LOOP loop_index; 9. dbms_output.put_line('Loop has been terminated'); 10. END; 11. /",
+    "op": [
+        "1 Before the Continue statement 2 Before the Continue statement 3 Before the Continue statement",
+        "1 Before the Continue statement 2 Before the Continue statement 3 Before the Continue statement 4 Before the Continue statement 5 Before the Continue statement Loop has been terminated",
+        "4 Before the Continue statement 5 Before the Continue statement Loop has been terminated",
+        "1 Before the Continue statement 2 Before the Continue statement 3 Before the Continue statement 4 Before the Continue statement"
+    ],
+    "created_at": "2026-06-30T19:33:24.55718+00:00"
+},
+{
+    "id": 31650,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is TRUE while using PL/SQL FOR Loop?",
+    "op": [
+        "The counter variable is implicitly declared in the declaration section, so you do not need to declare it explicitly.",
+        "It is not necessary to explicitly increment the counter variable since it is incremented by 1",
+        "FOR loops can use EXIT WHEN and EXIT statements, but it isn't often used.",
+        "All of the mentioned"
+    ],
+    "created_at": "2026-06-30T19:33:41.675212+00:00"
+},
+{
+    "id": 32434,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "PL/SQL Loops are also known as",
+    "op": [
+        "Indentation Control Statements",
+        "Indentation Case Statements",
+        "Iterative Case Statements",
+        "Iterative Control Statements"
+    ],
+    "created_at": "2026-06-30T20:49:51.950156+00:00"
+},
+{
+    "id": 32436,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Sequence of statements are executed in each iteration.___________ loop exit when condition is evaluated to false.",
+    "op": [
+        "While",
+        "For",
+        "Nested",
+        "Do while"
+    ],
+    "created_at": "2026-06-30T20:50:42.827037+00:00"
+},
+{
+    "id": 32438,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A ______ statement allows us to execute a statement or group of statements multiple times.",
+    "op": [
+        "loop",
+        "condition",
+        "array",
+        "procedure"
+    ],
+    "created_at": "2026-06-30T20:51:19.264267+00:00"
+},
+{
+    "id": 32440,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When you want to execute a series of statements repeatedly, you use the PL/SQL ____ loop.",
+    "op": [
+        "While",
+        "Cursor For",
+        "Cursor",
+        "For"
+    ],
+    "created_at": "2026-06-30T20:51:46.625845+00:00"
+},
+{
+    "id": 32445,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is the syntax of PL/SQL Loop?",
+    "op": [
+        "LOOP Sequence of statements; END LOOP;",
+        "END LOOP; LOOP Sequence of statements;",
+        "END LOOP; Sequence of statements; LOOP",
+        "LOOP END LOOP; Sequence of statements;"
+    ],
+    "created_at": "2026-06-30T20:54:28.736634+00:00"
+},
+{
+    "id": 32452,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which structure executes a sequence of statements repeatedly as long as a condition holds true?",
+    "op": [
+        "Selection structure",
+        "Sequence structure",
+        "Iteration structure",
+        "None of the above"
+    ],
+    "created_at": "2026-06-30T20:55:56.171471+00:00"
+},
+{
+    "id": 32606,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "DECLARE x NUMBER := 0; BEGIN LOOP -- After CONTINUE statement, control resumes here DBMS_OUTPUT.PUT_LINE ('Inside loop: x = ' || TO_CHAR(x)); x := x + 1; IF x < 3 THEN CONTINUE; END IF; DBMS_OUTPUT.PUT_LINE ('Inside loop, after CONTINUE: x = ' || TO_CHAR(x)); EXIT WHEN x = 5; END LOOP; DBMS_OUTPUT.PUT_LINE (' After loop: x = ' || TO_CHAR(x)); END; / Output for this piece of code :",
+    "op": [
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4 Inside loop: x = 4 Inside loop, after CONTINUE: x = 5 After loop: x = 5",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4"
+    ],
+    "created_at": "2026-06-30T21:52:42.066744+00:00"
+},
+{
+    "id": 32612,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following code fragments would not raise an error?",
+    "op": [
+        "BEGIN FOR i IN 1..10 LOOP DBMS_OUTPUT.PUT_LINE(i); END LOOP; END;",
+        "BEGIN FOR i IN 1..10 LOOP DBMS_OUTPUT.PUT_LINE(c) END LOOP END;",
+        "BEGIN FOR i IN 1..10 LOOP DBMS_OUTPUT.PUT_LINE END LOOP END;",
+        "BEGIN FOR i IN 1..10 DBMS_OUTPUT.PUT_LINE(i); END LOOP; END;"
+    ],
+    "created_at": "2026-06-30T21:53:40.876683+00:00"
+},
+{
+    "id": 32617,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many times does a WHILE Loop run?",
+    "op": [
+        "One or many",
+        "Until the condition becomes FALSE",
+        "Until the condition becomes TRUE",
+        "Zero or one"
+    ],
+    "created_at": "2026-06-30T21:54:12.505222+00:00"
+},
+{
+    "id": 32625,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Does PL/SQL allows using one loop inside another loop.",
+    "op": [
+        "Can be yes or no",
+        "No",
+        "Cannot say",
+        "Yes"
+    ],
+    "created_at": "2026-06-30T21:56:21.125596+00:00"
+},
+{
+    "id": 32659,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ loop  is use to repeat the set of operations. Control variable is initialized with end value. Value is decreased every time  by one.",
+    "op": [
+        "Do while",
+        "While",
+        "Numeric for",
+        "Reverse for"
+    ],
+    "created_at": "2026-06-30T22:04:51.595768+00:00"
+},
+{
+    "id": 32661,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many types of PL/SQL Loops are there?",
+    "op": [
+        "1",
+        "4",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-06-30T22:05:29.008133+00:00"
+},
+{
+    "id": 32891,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "____________ loop should be executed at least once. No direct implementation is provided in PL/SQL. It can be implemented using simple loop.",
+    "op": [
+        "While",
+        "For",
+        "Nested",
+        "Do while"
+    ],
+    "created_at": "2026-07-01T00:06:25.803475+00:00"
+},
+{
+    "id": 33179,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is the datatype of the counter used in FOR Loop?",
+    "op": [
+        "Any data type other than DATE",
+        "INTEGER",
+        "Any Data type",
+        "INTEGER OR Character datatype"
+    ],
+    "created_at": "2026-07-01T01:21:00.758148+00:00"
+},
+{
+    "id": 33181,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Where is the control transferred while using a CONTINUE statement?",
+    "op": [
+        "First statement after the end of the loop",
+        "Last iteration of the current loop",
+        "Next iteration of the current loop",
+        "First iteration of the current loop"
+    ],
+    "created_at": "2026-07-01T01:21:23.222469+00:00"
+},
+{
+    "id": 33335,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Label appear at the ________ of the LOOP statement.",
+    "op": [
+        "beginning",
+        "end",
+        "anywhere",
+        "Cannot say"
+    ],
+    "created_at": "2026-07-01T01:53:31.851121+00:00"
+},
+{
+    "id": 33336,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is the initial value of index for a reverse for loop?",
+    "op": [
+        "Upper bound-Lower bound/2",
+        "Lower bound",
+        "1",
+        "UPPER bound"
+    ],
+    "created_at": "2026-07-01T01:53:41.976667+00:00"
+},
+{
+    "id": 33339,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When does a FOR Loop end?",
+    "op": [
+        "When the index reaches the UPPER bound or is terminated early using EXIT statement",
+        "When lower bound is greater than UPPER bound or is terminated early using EXIT statement",
+        "Only when the index reaches the UPPER bound",
+        "When lower bound and upper bound are equal"
+    ],
+    "created_at": "2026-07-01T01:53:47.361372+00:00"
+},
+{
+    "id": 33342,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Loop within a loop is called _____________ loop.",
+    "op": [
+        "While",
+        "Do while",
+        "Nested",
+        "For"
+    ],
+    "created_at": "2026-07-01T01:54:12.591055+00:00"
+},
+{
+    "id": 33383,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Sequence of statements is enclosed between the LOOP and the END LOOP statements.",
+    "op": [
+        "FALSE",
+        "Can be true or false",
+        "Cannot say",
+        "TRUE"
+    ],
+    "created_at": "2026-07-01T02:01:38.619691+00:00"
+},
+{
+    "id": 33393,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "BEGIN FOR i IN 1 .. 5 LOOP IF i = 3 THEN CONTINUE; END IF; DBMS_OUTPUT.PUT_LINE('Iteration # ' || i); END LOOP; END; Output for this piece of code :",
+    "op": [
+        "Iteration # 1 Iteration # 2 Iteration # 5",
+        "Iteration # 1 Iteration # 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 4 Iteration # 5",
+        "Iteration # 2 Iteration # 4 Iteration # 5"
+    ],
+    "created_at": "2026-07-01T02:02:53.175503+00:00"
+},
+{
+    "id": 33836,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The counter in PL/SQL FOR Loop is by default incremented by _____________.",
+    "op": [
+        "2",
+        "1",
+        "NULL",
+        "0"
+    ],
+    "created_at": "2026-07-01T03:30:49.554641+00:00"
+},
+{
+    "id": 33838,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "FOR i IN 1..tbl_roast.COUNT LOOP lv_tot_num := lv_tot_num + tbl_roast(i); END LOOP; In the above code fragment, which of the following holds the value of the current iteration number?",
+    "op": [
+        "COUNT",
+        "i",
+        "tbl_roast",
+        "lv_tot_num"
+    ],
+    "created_at": "2026-07-01T03:31:06.362677+00:00"
+},
+{
+    "id": 33839,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The label in the LOOP statement should be enclosed by?",
+    "op": [
+        "double dollar sign",
+        "double angle brackets",
+        "single dollar sign",
+        "single angle brackets"
+    ],
+    "created_at": "2026-07-01T03:31:12.62316+00:00"
+},
+{
+    "id": 33970,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Program will run indefinitely and will result in abnormal termination.",
+    "op": [
+        "If there is no exit condition written",
+        "If variable is defined more than one time",
+        "Condition is wrong",
+        "Loop is not written"
+    ],
+    "created_at": "2026-07-01T03:52:20.203959+00:00"
+},
+{
+    "id": 47561,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The set of rows the cursor holds is referred to as the __________.",
+    "op": [
+        "active set",
+        "simple set",
+        "inactive set",
+        "complex set"
+    ],
+    "created_at": "2026-07-05T19:03:27.724652+00:00"
+},
+{
+    "id": 47567,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A _____ is a pointer to this context area.",
+    "op": [
+        "records",
+        "trigger",
+        "cursor",
+        "packages"
+    ],
+    "created_at": "2026-07-05T19:03:34.815147+00:00"
+},
+{
+    "id": 47571,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the maximum number of exception handlers processed before the PL/SQL block is exited, provided an exception occurs?",
+    "op": [
+        "None",
+        "All exceptions that apply",
+        "All exceptions that are referenced in the block",
+        "One"
+    ],
+    "created_at": "2026-07-05T19:03:41.051975+00:00"
+},
+{
+    "id": 47578,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What can the value of the INTO clause be while fetching data in an explicit cursor?",
+    "op": [
+        "Records only",
+        "PL/SQL scalar variables only",
+        "PL/SQL variables or records",
+        "Collections or records only"
+    ],
+    "created_at": "2026-07-05T19:03:48.610765+00:00"
+},
+{
+    "id": 47590,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is true about record types in Oracle 11g?",
+    "op": [
+        "They are user-defined data types that group related fields",
+        "They are predefined data types provided by Oracle",
+        "They cannot be used as table columns.",
+        "They can only store character data"
+    ],
+    "created_at": "2026-07-05T19:03:56.032681+00:00"
+},
+{
+    "id": 47598,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "........................... cursor are declared by ORACLE for each UPDATE, DELETE and INSERT SQL commands.",
+    "op": [
+        "Explicit",
+        "Implicit",
+        "External",
+        "Internal"
+    ],
+    "created_at": "2026-07-05T19:04:03.882479+00:00"
+},
+{
+    "id": 47610,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "PL/SQL controls the context area through a cursor.",
+    "op": [
+        "FALSE",
+        "TRUE",
+        "Can not say",
+        "Can be true or false"
+    ],
+    "created_at": "2026-07-05T19:04:11.562777+00:00"
+},
+{
+    "id": 47620,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the false statements about opening and closing an explicit cursor?",
+    "op": [
+        "Open statement identifies the result set and positions the cursor before the first row",
+        "An explicit cursor is closed with the CLOSE statement.",
+        "Optionally arguments can be passed to the open statement to open a cursor",
+        "A cursor once closed cannot be re-opened."
+    ],
+    "created_at": "2026-07-05T19:04:18.60514+00:00"
+},
+{
+    "id": 47638,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not correct about Cursor?",
+    "op": [
+        "Cursor is a named Private SQL area",
+        "SQL uses implicit Cursors to retrieve rows",
+        "Cursor is used for retrieving multiple rows",
+        "Cursor holds temporary results"
+    ],
+    "created_at": "2026-07-05T19:04:28.996648+00:00"
+},
+{
+    "id": 47658,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is true about propagating exceptions in Oracle 11g?",
+    "op": [
+        "All exceptions must be handled within the code block where they are raised.",
+        "The RAISE_APPLICATION_ERROR procedure is used to explicitly propagate user-defined errors.",
+        "Exceptions are automatically propagated by default.",
+        "Propagated exceptions cannot be handled within the current code block."
+    ],
+    "created_at": "2026-07-05T19:04:40.32825+00:00"
+},
+{
+    "id": 48601,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is true about implicit cursors?",
+    "op": [
+        "Implicit cursors are used in cursor for loops to handle data processing.",
+        "Implicit cursors are used for SQL statements that are not named.",
+        ". Developers should use implicit cursors with great care.",
+        "Implicit cursors are no longer a feature in Oracle."
+    ],
+    "created_at": "2026-07-05T19:17:39.369849+00:00"
+},
+{
+    "id": 48637,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How many rows can a cursor hold?",
+    "op": [
+        "One to ten",
+        "Zero only",
+        "One or more",
+        "One only"
+    ],
+    "created_at": "2026-07-05T19:18:09.481115+00:00"
+},
+{
+    "id": 48665,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How many types of cursors?",
+    "op": [
+        "2",
+        "3",
+        "1",
+        "4"
+    ],
+    "created_at": "2026-07-05T19:18:35.889574+00:00"
+},
+{
+    "id": 48689,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the syntax of an implicit cursor attribute ISOPEN?",
+    "op": [
+        "%ISOPEN",
+        "#ISOPEN",
+        "! ISOPEN",
+        "&ISOPEN"
+    ],
+    "created_at": "2026-07-05T19:19:08.158318+00:00"
+},
+{
+    "id": 49104,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Explicit cursors are programmer-defined cursors for gaining more control over the context area.",
+    "op": [
+        "Can not say",
+        "Yes",
+        "Can be yes or no",
+        "No"
+    ],
+    "created_at": "2026-07-05T19:29:54.647817+00:00"
+},
+{
+    "id": 49133,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Where do you declare an explicit cursor in the PL/SQL language?",
+    "op": [
+        "In the PL/SQL working storage section",
+        "In the PL/SQL declaration section",
+        "In the PL/SQL body section",
+        "In the PL/SQL exception section"
+    ],
+    "created_at": "2026-07-05T19:30:46.185398+00:00"
+},
+{
+    "id": 49137,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Programmers cannot control the _______ cursors and the information in it.",
+    "op": [
+        "both implicit & explicit",
+        "implicit",
+        "explicit",
+        "Can not say"
+    ],
+    "created_at": "2026-07-05T19:30:52.409774+00:00"
+},
+{
+    "id": 49139,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the operations of a cursor checks for the validity of a SQL statement?",
+    "op": [
+        "OPEN",
+        "PARSE",
+        "BIND",
+        "FETCH"
+    ],
+    "created_at": "2026-07-05T19:30:57.523188+00:00"
+},
+{
+    "id": 49250,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "......................... cursors are declared and used by the user to process multiple row, returned by SELECT statement.",
+    "op": [
+        "Explicit",
+        "Implicit",
+        "Internal",
+        "External"
+    ],
+    "created_at": "2026-07-05T19:34:57.370051+00:00"
+},
+{
+    "id": 49270,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The Implicit cursors are created in order to process the ____ statements.",
+    "op": [
+        "Data Manipulation Language (DML)",
+        "Transaction Control Languages (TCL)",
+        "Data Definition Language (DDL)",
+        "Data Control Language (DCL)"
+    ],
+    "created_at": "2026-07-05T19:35:31.9897+00:00"
+},
+{
+    "id": 51002,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which type of cursor does an implicit and explicit cursor belong to?",
+    "op": [
+        "Database cursor",
+        "Operating System cursor",
+        "System cursor",
+        "Session cursor"
+    ],
+    "created_at": "2026-07-06T00:03:42.52238+00:00"
+},
+{
+    "id": 51286,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When is an implicit cursor used?",
+    "op": [
+        "DDL statement is run and the statements are not associated with any explicit cursor.",
+        "SELECT/DML statement is run and the statements are not associated explicit cursor.",
+        "SELECT or DML statement is run and not associated with any cursor variable.",
+        "SELECT statement is run even if the statements are associated with explicit cursor."
+    ],
+    "created_at": "2026-07-06T01:07:29.307809+00:00"
+},
+{
+    "id": 51294,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "List the correct sequence of commands to process a set of records when using explicit cursors",
+    "op": [
+        "INITIALIZE, GET, CLOSE",
+        "CURSOR, FETCH, CLOSE",
+        "OPEN, FETCH, CLOSE",
+        "CURSOR, GET, FETCH, CLOSE"
+    ],
+    "created_at": "2026-07-06T01:08:32.686249+00:00"
+},
+{
+    "id": 51509,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the purpose of the %ROWTYPE attribute in Oracle 11g?",
+    "op": [
+        "To check if a variable holds a record data type",
+        "To convert a record variable into a string",
+        "To automatically populate a record with data from a table row",
+        "To define a new record type based on an existing table"
+    ],
+    "created_at": "2026-07-06T01:45:13.471343+00:00"
+},
+{
+    "id": 51519,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is true about cursors and records in Oracle 11g?",
+    "op": [
+        "You cannot use record variables with FOR loops iterating through a cursor",
+        "Cursors directly store records, eliminating the need for record variables",
+        "Record variables are required to hold data fetched from a cursor",
+        "Cursors automatically close after fetching the first record"
+    ],
+    "created_at": "2026-07-06T01:46:18.497418+00:00"
+},
+{
+    "id": 51535,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is correct syntax to open the Cursor?",
+    "op": [
+        "SELECT cursor_name",
+        "OPEN cursor_name",
+        "UPDATE cursor_name",
+        "INSERT cursor_name"
+    ],
+    "created_at": "2026-07-06T01:49:18.69663+00:00"
+},
+{
+    "id": 51924,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following built-in packages is used for advanced exception handling in Oracle 11g(PL/SQL)?",
+    "op": [
+        "DBMS_ERROR",
+        "PL/SQL.STANDARD_ERROR",
+        "UTL_ERROR",
+        "java.sql.SQLException"
+    ],
+    "created_at": "2026-07-06T02:55:49.641453+00:00"
+},
+{
+    "id": 51925,
+    "cc": "CS405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the name of the cursor written and maintained by a database user?",
+    "op": [
+        "User-defined cursor",
+        "Implicit cursor",
+        "User cursor",
+        "Explicit cursor"
+    ],
+    "created_at": "2026-07-06T02:56:41.793794+00:00"
+},
+{
+    "id": 66218,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "BEGIN  FOR l_index IN 1 .. 10  LOOP  CONTINUE WHEN MOD (l_index, 2) = 0;  DBMS_OUTPUT.PUT_LINE ('Loop index = ' || TO_CHAR (l_index));  END LOOP; END; / Output for this piece of code : ",
+    "op": [
+        "Loop index = 1 Loop index = 3 Loop index = 5 Loop index = 7 Loop index = 9",
+        "Loop index = 1 Loop index = 3",
+        "Loop index = 5 Loop index = 7 Loop index = 9",
+        "Loop index = 1"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66242,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "Inside the loop: n = 0 Inside the loop: n = 1 Inside the loop: n = 2 Inside the loop: n = 3 Inside the loop: n = 4 Inside the loop: n = 6 Inside the loop, after CONTINUE: n = 7 When out from the loop: n = 7",
+        "Inside the loop: n = 0 Inside the loop: n = 1 Inside the loop: n = 2 Inside the loop: n = 3 Inside the loop: n = 4 Inside the loop, after CONTINUE: n = 5 Inside the loop: n = 5 Inside the loop, after CONTINUE: n = 6 Inside the loop: n = 6 Inside the loop, after CONTINUE: n = 7 When out from the loop: n = 7",
+        "Inside the loop: n = 0 Inside the loop: n = 1 Inside the loop: n = 2 Inside the loop: n = 3 Inside the loop: n = 4",
+        "Inside the loop: n = 0 Inside the loop: n = 1 Inside the loop: n = 2 Inside the loop: n = 3 Inside the loop: n = 4 Inside the loop, after CONTINUE: n = 5 Inside the loop: n = 5 Inside the loop, after CONTINUE: n = 6"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66253,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "DECLARE  no NUMBER := 0; BEGIN  FOR no IN 1 .. 5 LOOP  DBMS_OUTPUT.PUT_LINE('Iteration : ' || no);  CONTINUE WHEN no = 4  DBMS_OUTPUT.PUT_LINE('CONTINUE WHEN EXECUTE Iteration : ' || no);  END LOOP; END; / Output for this piece of code :  ",
+    "op": [
+        "Iteration # 1 Iteration # 2 Iteration # 3",
+        "Iteration # 1 Iteration # 2 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4 Iteration # 5",
+        "Iteration # 1 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 3 CONTINUE WHEN EXECUTE Iteration: 4"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66255,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "BEGIN  FOR i IN 1 .. 5 LOOP  IF i = 3 THEN  CONTINUE;  END IF;  DBMS_OUTPUT.PUT_LINE('Iteration # ' || i);  END LOOP; END; Output for this piece of code :  ",
+    "op": [
+        "Iteration # 2 Iteration # 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 4 Iteration # 5",
+        "Iteration # 1 Iteration # 2 Iteration # 5",
+        "Iteration # 1 Iteration # 4 Iteration # 5"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66797,
+    "cc": "CS405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": " DECLARE   x NUMBER := 0;  BEGIN   LOOP -- After CONTINUE statement, control resumes here   DBMS_OUTPUT.PUT_LINE ('Inside loop: x = ' || TO_CHAR(x));   x := x + 1;   IF x < 3 THEN   CONTINUE;   END IF;   DBMS_OUTPUT.PUT_LINE   ('Inside loop, after CONTINUE: x = ' || TO_CHAR(x));   EXIT WHEN x = 5;   END LOOP;     DBMS_OUTPUT.PUT_LINE (' After loop: x = ' || TO_CHAR(x));  END;  /   Output for this piece of code :  ",
+    "op": [
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4 Inside loop: x = 4 Inside loop, after CONTINUE: x = 5 After loop: x = 5",
+        "Inside loop: x = 0 Inside loop: x = 1 Inside loop: x = 2 Inside loop, after CONTINUE: x = 3 Inside loop: x = 3 Inside loop, after CONTINUE: x = 4"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+}
+]

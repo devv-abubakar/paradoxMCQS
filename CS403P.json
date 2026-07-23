@@ -1,0 +1,1668 @@
+[
+    {
+        "id": 6,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "A table is in third normal form if it is in second normal form and there is no __________.",
+        "op": [
+            "Consistency",
+            "Partial dependency",
+            "Transitive dependency",
+            "Full functional dependency"
+        ],
+        "created_at": "2026-06-16T16:02:12.960633+00:00"
+    },
+    {
+        "id": 8,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "A relation is in third normal form if ________.",
+        "op": [
+            "It has multivalued attributes",
+            "It has a transitive dependency",
+            "It has a partial dependency",
+            "It is already in second normal form"
+        ],
+        "created_at": "2026-06-16T16:02:32.646771+00:00"
+    },
+    {
+        "id": 11,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "Which of the following action is performed on a relation to remove the transitive dependency?",
+        "op": [
+            "Decomposition",
+            "Aggregation",
+            "Composition",
+            "Augmentation"
+        ],
+        "created_at": "2026-06-16T16:03:00.069861+00:00"
+    },
+    {
+        "id": 14,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "Consider the following relation: STD(stId, stName, stAdr, prName, prCrdts) stId → stName, stAdr, prName, prCrdts prName → prCrdts Which of the following dependency exist in above relation?",
+        "op": [
+            "Reflexive dependency",
+            "Transitive dependency",
+            "Terminal dependency",
+            "Composite dependency"
+        ],
+        "created_at": "2026-06-16T16:03:20.679066+00:00"
+    },
+    {
+        "id": 17,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "The anomalies caused by transitive dependency in a relation are removed by __________.",
+        "op": [
+            "Changing primary key",
+            "Reducing number of rows",
+            "Reducing number of columns",
+            "Breaking down the relation"
+        ],
+        "created_at": "2026-06-16T16:03:40.736931+00:00"
+    },
+    {
+        "id": 20,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "A transitive dependency occurs when __________.",
+        "op": [
+            "Part of the key is dependent on key attribute",
+            "Primary key attribute is dependent on non-key attribute",
+            "Non-key attribute is not dependent on another non-key attribute",
+            "Non-key attribute is dependent on another non-key attribute"
+        ],
+        "created_at": "2026-06-16T16:03:59.7324+00:00"
+    },
+    {
+        "id": 32,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "16 June 2026",
+        "qt": "If a relation is not in third normal form, then anomalies are due to ________.",
+        "op": [
+            "Transitive dependency",
+            "Reflexive dependency",
+            "Partial dependency",
+            "Full functional dependency"
+        ],
+        "created_at": "2026-06-16T16:07:00.265448+00:00"
+    },
+    {
+        "id": 4283,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is NOT related to CREATE TABLE command?",
+        "op": [
+            "Attributes",
+            "Constraints",
+            "Records",
+            "Data types"
+        ],
+        "created_at": "2026-06-17T19:03:42.535003+00:00"
+    },
+    {
+        "id": 4285,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following command is used to insert data into tables?",
+        "op": [
+            "DQL",
+            "DDL",
+            "DDL",
+            "DML"
+        ],
+        "created_at": "2026-06-17T19:03:53.964329+00:00"
+    },
+    {
+        "id": 4288,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is NOT a type of integer data type in SQL?",
+        "op": [
+            "Smallerint",
+            "Smallint",
+            "Smallint",
+            "Int"
+        ],
+        "created_at": "2026-06-17T19:04:05.062049+00:00"
+    },
+    {
+        "id": 4293,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "INSERT INTO statement is used to enter values into__________.",
+        "op": [
+            "All columns",
+            "Only particular column",
+            "Not null columns only",
+            "Key value columns only"
+        ],
+        "created_at": "2026-06-17T19:04:39.307701+00:00"
+    },
+    {
+        "id": 4297,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is the correct syntax for inserting some values into the employee table?",
+        "op": [
+            "INSERT into employee (col1, col2, col3) VALUES (val1, val2, val3)",
+            "INSERT into employee (col1, col2, col3), (val1, val2, val3)",
+            "INSERT into (col1, col2, col3) VALUES (val1, val2, val3)",
+            "INSERT into employee COLUMN (col1, col2, col3) VALUES (val1, val2, val3)"
+        ],
+        "created_at": "2026-06-17T19:05:22.702945+00:00"
+    },
+    {
+        "id": 4299,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following commands is used to create a database table and its structure?",
+        "op": [
+            "DML",
+            "DQL",
+            "DDL",
+            "DCL"
+        ],
+        "created_at": "2026-06-17T19:05:36.16959+00:00"
+    },
+    {
+        "id": 4302,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "___________ SQL statement is used to enter values into columns.",
+        "op": [
+            "PUT INTO",
+            "INSERT TO",
+            "INSERT INTO",
+            "ENTER INTO"
+        ],
+        "created_at": "2026-06-17T19:05:53.465012+00:00"
+    },
+    {
+        "id": 4303,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "­­­­­­­­­­­­­­­­­___________ in SQL table is used to uniquely identify individual rows of a given table.",
+        "op": [
+            "Foreign key column",
+            "NOT NULL constraints",
+            "Primary key column",
+            "Secondary key column"
+        ],
+        "created_at": "2026-06-17T19:05:57.316599+00:00"
+    },
+    {
+        "id": 4306,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is a correct syntax for creating a Database named employee?",
+        "op": [
+            "CREATE DATABASE employee;",
+            "CREATE MYSQL Database employee",
+            "CREATE SQL DATABASE employee;",
+            "CREATE TABLE employee;"
+        ],
+        "created_at": "2026-06-17T19:06:21.203054+00:00"
+    },
+    {
+        "id": 4309,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is the correct syntax for creating a database table?",
+        "op": [
+            "CREATE TABLE;",
+            "TABLE name CREATE;",
+            "CREATE MYSQL TABLE name;",
+            "CREATE TABLE name;"
+        ],
+        "created_at": "2026-06-17T19:08:18.252952+00:00"
+    },
+    {
+        "id": 30932,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In projection operation, any duplicate values are_________.",
+        "op": [
+            "Grouped",
+            "Copied",
+            "Eliminated",
+            "Selected"
+        ],
+        "created_at": "2026-06-30T19:06:41.869101+00:00"
+    },
+    {
+        "id": 30938,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "What is the basic component/structure of Relational Data Model?",
+        "op": [
+            "Relation",
+            "Schema",
+            "Tuple",
+            "Model"
+        ],
+        "created_at": "2026-06-30T19:06:54.755766+00:00"
+    },
+    {
+        "id": 30949,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In the first semester of a degree program in a university, each student has to study five pre-selected courses. The relationship between student and course is:",
+        "op": [
+            "One to one",
+            "Many to many",
+            "Many to one",
+            "Recursive relationship"
+        ],
+        "created_at": "2026-06-30T19:07:09.887417+00:00"
+    },
+    {
+        "id": 30957,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A specific record of a relation is accessed through:",
+        "op": [
+            "Random key",
+            "Arbitrary Key",
+            "Secondary Key",
+            "Primary Key"
+        ],
+        "created_at": "2026-06-30T19:07:24.104875+00:00"
+    },
+    {
+        "id": 30966,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following operator is used to select the certain columns from a table?",
+        "op": [
+            "Conjugate operator",
+            "Cartesian operator",
+            "Select operator",
+            "Project operator"
+        ],
+        "created_at": "2026-06-30T19:07:36.113306+00:00"
+    },
+    {
+        "id": 30970,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A cell of a table is the intersection of row and a ________.",
+        "op": [
+            "Tuple",
+            "Degree",
+            "Column",
+            "Record"
+        ],
+        "created_at": "2026-06-30T19:07:47.273978+00:00"
+    },
+    {
+        "id": 30973,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If an entity STUDENT has four attributes named as Roll No., NAME, DATE_OF_BIRTH and ADDRESS then which of the following attribute is most suitable for Primary Key?",
+        "op": [
+            "NAME",
+            "DATE_OF_BIRTH",
+            "ADDRESS",
+            "Roll No."
+        ],
+        "created_at": "2026-06-30T19:07:58.861482+00:00"
+    },
+    {
+        "id": 30980,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following option is true for union commutative?",
+        "op": [
+            "B∩A=BUA",
+            "A∩B=AUB",
+            "AUB=A∩B",
+            "AUB=BUA"
+        ],
+        "created_at": "2026-06-30T19:08:10.670847+00:00"
+    },
+    {
+        "id": 30988,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A manufacturer manufactures 100 motor bikes in a month. The relationship between manufacturer and motor bikes is:",
+        "op": [
+            "One to one",
+            "Many to many",
+            "One to many",
+            "Recursive relationship"
+        ],
+        "created_at": "2026-06-30T19:08:23.526757+00:00"
+    },
+    {
+        "id": 30995,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the two data models were used before the relational data model?",
+        "op": [
+            "Flat Data model and Hierarchical Data Model",
+            "Object Oriented and Flat Data Model",
+            "Hierarchical and Network Data Model",
+            "Network and Object Oriented Data Model"
+        ],
+        "created_at": "2026-06-30T19:08:34.279087+00:00"
+    },
+    {
+        "id": 31093,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Consider the following two sets: STD Name = [Ali, Hassan] Course Name = {Eng, Math, Phy} Then the Cartesian product of STD Name and Course Name (i.e. STD Name x Course Name) will be equal to:",
+        "op": [
+            "{(Ali, Math), (Ali, Phy), (Hassan, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}",
+            "{(Ali, Eng), (Ali, Math), (Ali, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}",
+            "{(Ali, Eng), (Hassan, Math), (Ali, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}",
+            "{(Ali, Eng), (Ali, Math), (Ali, Phy), (Hassan, Phy), (Ali, Math), (Hassan, Eng)}"
+        ],
+        "created_at": "2026-06-30T19:12:11.396454+00:00"
+    },
+    {
+        "id": 31101,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If relation M has C tuples and relation N has D tuples, then their Cartesian product will have _________ tuples.",
+        "op": [
+            "CUD",
+            "C*D",
+            "C∩D",
+            "C^D"
+        ],
+        "created_at": "2026-06-30T19:12:22.026807+00:00"
+    },
+    {
+        "id": 31102,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "While converting Entity-Relationship Diagram to Relational Data Model, each entity type is converted into:",
+        "op": [
+            "Attribute",
+            "Relation",
+            "Relationship",
+            "Object"
+        ],
+        "created_at": "2026-06-30T19:12:27.01375+00:00"
+    },
+    {
+        "id": 31110,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Suppose a relation named STUDENT contains attributes St_name, St_cgpa, cur_semester and st_roll. Which of the following query will be used to SELECT all those student records having cgpa greater than 3.0?",
+        "op": [
+            "Ωcgpa>3.0 (STUDENT)",
+            "σcgpa>3.0 (STUDENT)",
+            "σcgpa>3.0 (STUDENT)",
+            "€cgpa>3.0 (STUDENT)"
+        ],
+        "created_at": "2026-06-30T19:12:39.645736+00:00"
+    },
+    {
+        "id": 31111,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If there are two relations X and Y then the difference of these two relations (i.e. X-Y) will be set of tuples that ________________.",
+        "op": [
+            "Do not appear in both X and Y",
+            "Appear in Y but not in X",
+            "Appear in X but do not appear in Y",
+            "Appear in both X and Y"
+        ],
+        "created_at": "2026-06-30T19:12:40.64523+00:00"
+    },
+    {
+        "id": 31116,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In a table, column represents __________.",
+        "op": [
+            "Data",
+            "Instances",
+            "Records",
+            "Attributes"
+        ],
+        "created_at": "2026-06-30T19:12:47.432029+00:00"
+    },
+    {
+        "id": 31128,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In many to many relationship, a third table is created for the relationship. It is known as _______.",
+        "op": [
+            "Associative entity type",
+            "Regular entity type",
+            "Strong entity type",
+            "Naming entity type"
+        ],
+        "created_at": "2026-06-30T19:13:06.949009+00:00"
+    },
+    {
+        "id": 31146,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If a teacher teaches multiple courses in a university then the relationship between teacher and course is:",
+        "op": [
+            "Many to one",
+            "Recursive relationship",
+            "One to many",
+            "One to one"
+        ],
+        "created_at": "2026-06-30T19:13:48.314833+00:00"
+    },
+    {
+        "id": 31150,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In relational data model, composite attributes need to be represented as:",
+        "op": [
+            "Entity type",
+            "Recursive relationship",
+            "Separate relation",
+            "Objects"
+        ],
+        "created_at": "2026-06-30T19:13:58.198376+00:00"
+    },
+    {
+        "id": 31168,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Rows of the table in the relational database are identified by __________.",
+        "op": [
+            "Serial number",
+            "Row name",
+            "Header",
+            "Key values"
+        ],
+        "created_at": "2026-06-30T19:14:37.814135+00:00"
+    },
+    {
+        "id": 31260,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Suppose a relation named EMPLOYEE contains attributes Emp_name, Emp_designation, Emp_address and Emp_salary. Which of the following query will be used to SELECT all those employees whose designation is Admin officer?",
+        "op": [
+            "ռ designation = ‘Admin officer’ (EMPLOYEE)",
+            "α designation = ‘Admin officer’ (EMPLOYEE)",
+            "σ designation = ‘Admin officer’ (EMPLOYEE)",
+            "ϕ designation = ‘Admin officer’(EMPLOYEE)"
+        ],
+        "created_at": "2026-06-30T19:17:29.139426+00:00"
+    },
+    {
+        "id": 31278,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following are unary operators?",
+        "op": [
+            "SELECT and CARTESIAN",
+            "PROJECT and CARTESIAN",
+            "UNION and PROJECT",
+            "SELECT and PROJECT"
+        ],
+        "created_at": "2026-06-30T19:18:15.415026+00:00"
+    },
+    {
+        "id": 31290,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Consider the following two sets: X = [a, b] Y = {1,3,5} Then the Cartesian product of A and B (i.e. XxY) will be equal to:",
+        "op": [
+            "{(a,1), (a,5), (a,3), (b,5), (b,1), (b,5)}",
+            "{(a, a), (a,3), (a,1), (b,5), (b,5), (b,3)}",
+            "{(a,1), (a,3), (a,5), (b,1), (b,3), (b,5)}",
+            "{(a,1), (b,1), (a,5), (b,3), (a,5), (b,5)}"
+        ],
+        "created_at": "2026-06-30T19:18:41.581599+00:00"
+    },
+    {
+        "id": 31310,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In relational database, each cell of a table cannot have __________ .",
+        "op": [
+            "Multiple values",
+            "Unique values",
+            "String values",
+            "Numeric values"
+        ],
+        "created_at": "2026-06-30T19:19:19.820759+00:00"
+    },
+    {
+        "id": 31317,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In a university, each student can avail a single scholarship. The relationship between student and scholarship is:",
+        "op": [
+            "Recursive relationship",
+            "One to one",
+            "Many to many",
+            "One to many"
+        ],
+        "created_at": "2026-06-30T19:19:51.440524+00:00"
+    },
+    {
+        "id": 31526,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In intersection operation, which of the following is selected?",
+        "op": [
+            "Tuples common in both relations",
+            "Tuples of second relation",
+            "Tuples of first relation",
+            "Tuples of single relation only"
+        ],
+        "created_at": "2026-06-30T19:28:22.071746+00:00"
+    },
+    {
+        "id": 31538,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Table is a ______________ representation of a relation.",
+        "op": [
+            "Three Dimensional",
+            "Two Dimensional",
+            "Six Dimensional",
+            "Four Dimensional"
+        ],
+        "created_at": "2026-06-30T19:28:57.023078+00:00"
+    },
+    {
+        "id": 31543,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Column of the table in the relational database are identified by ___________.",
+        "op": [
+            "Serial number",
+            "Value",
+            "Name",
+            "Key"
+        ],
+        "created_at": "2026-06-30T19:29:10.793649+00:00"
+    },
+    {
+        "id": 31816,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "An attribute which is a combination of two or more attributes is known as:",
+        "op": [
+            "Special attribute",
+            "Recursive attribute",
+            "Homonym attribute",
+            "Composite attribute"
+        ],
+        "created_at": "2026-06-30T19:38:47.926075+00:00"
+    },
+    {
+        "id": 32065,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A relation named FACULTY contains the attributes FactId, FactName, FactDept and FactRank. Which of the query will be used to PROJECT the FactId and FactDept?",
+        "op": [
+            "ϕ FactId, FactDept (Faculty)",
+            "σ FactId, FactDept (Faculty)",
+            "∏ FactId, FactDept (Faculty)",
+            "Ω FactId, FactDept (Faculty)"
+        ],
+        "created_at": "2026-06-30T19:54:11.902079+00:00"
+    },
+    {
+        "id": 40491,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "In functional dependency, if one attribute is determinant of all other attributes of the relation then the relation has at least __________.",
+        "op": [
+            "Random key",
+            "Super key",
+            "Relational key",
+            "Secondary key"
+        ],
+        "created_at": "2026-07-03T19:11:36.924477+00:00"
+    },
+    {
+        "id": 40492,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "A table is in the 2nd Normal Form if there is no___________.",
+        "op": [
+            "Transitive dependency",
+            "Reflexive dependency",
+            "Functional dependency",
+            "Partial dependency"
+        ],
+        "created_at": "2026-07-03T19:11:47.36558+00:00"
+    },
+    {
+        "id": 40493,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "2nd Normal Form is based on which of the following dependency?",
+        "op": [
+            "Transitive dependency",
+            "Partial dependency",
+            "Full functional dependency",
+            "Reflexive dependency"
+        ],
+        "created_at": "2026-07-03T19:12:00.358873+00:00"
+    },
+    {
+        "id": 40494,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "Consider the following functional dependency: A → B In above functional dependency, attribute B is_______ on A.",
+        "op": [
+            "Dependent",
+            "Terminated",
+            "Reflected",
+            "Projected"
+        ],
+        "created_at": "2026-07-03T19:12:14.195912+00:00"
+    },
+    {
+        "id": 40495,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "A relation is in second normal form if and only if ______________ and all the non key attributes are fully functionally dependent on the key.",
+        "op": [
+            "It has inconsistent data",
+            "It is in first normal form",
+            "It has multivalued attributes",
+            "It is not in first normal form"
+        ],
+        "created_at": "2026-07-03T19:12:22.639946+00:00"
+    },
+    {
+        "id": 40496,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "If the relation is not in 2nd Normal Form, then we need to remove___________.",
+        "op": [
+            "Transitive dependency",
+            "Full functional dependency",
+            "Partial dependency",
+            "Reflexive dependency"
+        ],
+        "created_at": "2026-07-03T19:12:34.894068+00:00"
+    },
+    {
+        "id": 40497,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "Suppose A → B, then which of the following is valid Functional dependency for augmentation?",
+        "op": [
+            "AD → B",
+            "AB → C",
+            "AC → BC",
+            "A → C"
+        ],
+        "created_at": "2026-07-03T19:12:44.895426+00:00"
+    },
+    {
+        "id": 40519,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "If a relation CLASS (crId, stId, stName, fId, room, grade) has following Functional Dependencies: crId, stId → stName, fId, room, grade which of the following functional dependency is in above functional dependency?",
+        "op": [
+            "Squencial dependency",
+            "Reflexive dependency",
+            "Transitive dependency",
+            "Partial dependency"
+        ],
+        "created_at": "2026-07-03T19:31:03.487606+00:00"
+    },
+    {
+        "id": 40520,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "The only time we are concerned about 2nd Normal Form is when ___________.",
+        "op": [
+            "Primary key contains redundant values",
+            "Primary key contains non-unique values",
+            "Primary key consists of single attribute",
+            "Primary key is composite"
+        ],
+        "created_at": "2026-07-03T19:32:01.193789+00:00"
+    },
+    {
+        "id": 40551,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "______________ is a step by step process to reduce data redundancy and improve data integrity to build a more efficient and accurate database design.",
+        "op": [
+            "Classification",
+            "Integration",
+            "Normalization",
+            "Modeling"
+        ],
+        "created_at": "2026-07-03T20:05:38.394462+00:00"
+    },
+    {
+        "id": 42616,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "INSERT INTO statement is used to enter values into__________.",
+        "op": [
+            "Key value columns only",
+            "Only particular column",
+            "All columns",
+            "Not null columns only"
+        ],
+        "created_at": "2026-06-18T00:12:39.422036+00:00"
+    },
+    {
+        "id": 42617,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "From the following options, Choose the correct statement for the third normal form.",
+        "op": [
+            "There is redundant data in the relation",
+            "Non key attribute is dependent on another non key attribute",
+            "There is partial dependency in the relation",
+            "No non key attribute is dependent on another non key attribute"
+        ],
+        "created_at": "2026-06-14T19:02:18.95711+00:00"
+    },
+    {
+        "id": 42618,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "Which of the following action is performed on a relation to remove the transitive dependency?",
+        "op": [
+            "Aggregation",
+            "Decomposition",
+            "Augmentation",
+            "Composition"
+        ],
+        "created_at": "2026-06-14T19:02:42.817903+00:00"
+    },
+    {
+        "id": 42619,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "If a relation is not in third normal form, then anomalies are due to ________.",
+        "op": [
+            "Full functional dependency",
+            "Reflexive dependency",
+            "Partial dependency",
+            "Transitive dependency"
+        ],
+        "created_at": "2026-06-14T19:02:49.090809+00:00"
+    },
+    {
+        "id": 42620,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "The anomalies caused by transitive dependency in a relation are removed by __________.",
+        "op": [
+            "Changing primary key",
+            "Reducing number of columns",
+            "Breaking down the relation",
+            "Reducing number of rows"
+        ],
+        "created_at": "2026-06-14T19:03:04.720834+00:00"
+    },
+    {
+        "id": 42621,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "A transitive dependency occurs when __________.",
+        "op": [
+            "Non-key attribute is dependent on another non-key attribute",
+            "Non-key attribute is not dependent on another non-key attribute",
+            "Part of the key is dependent on key attribute",
+            "Primary key attribute is dependent on non-key attribute"
+        ],
+        "created_at": "2026-06-14T19:03:25.839177+00:00"
+    },
+    {
+        "id": 42622,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "A relation is in third normal form if ________.",
+        "op": [
+            "It is already in second normal form",
+            "It has multivalued attributes",
+            "It has a partial dependency",
+            "It has a transitive dependency"
+        ],
+        "created_at": "2026-06-14T19:02:35.93436+00:00"
+    },
+    {
+        "id": 42623,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "A table is in third normal form if it is in second normal form and there is no __________.",
+        "op": [
+            "Partial dependency",
+            "Consistency",
+            "Full functional dependency",
+            "Transitive dependency"
+        ],
+        "created_at": "2026-06-14T19:02:47.290362+00:00"
+    },
+    {
+        "id": 42624,
+        "cc": "CS403P",
+        "qn": "9",
+        "dt": "15 June 2026",
+        "qt": "Consider the following relation: STD(stId, stName, stAdr, prName, prCrdts) stId → stName, stAdr, prName, prCrdts prName → prCrdts Which of the following dependency exist in above relation?",
+        "op": [
+            "Reflexive dependency",
+            "Transitive dependency",
+            "Terminal dependency",
+            "Composite dependency"
+        ],
+        "created_at": "2026-06-14T19:02:58.471437+00:00"
+    },
+    {
+        "id": 42625,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "Consider the following functional dependency: A → B In above functional dependency, attribute B is_______ on A.",
+        "op": [
+            "Dependent",
+            "Projected",
+            "Terminated",
+            "Reflected"
+        ],
+        "created_at": "2026-07-04T12:36:06.962354+00:00"
+    },
+    {
+        "id": 42626,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "___________ SQL statement is used to enter values into columns.",
+        "op": [
+            "INSERT TO",
+            "PUT INTO",
+            "INSERT INTO",
+            "ENTER INTO"
+        ],
+        "created_at": "2026-06-18T00:13:00.834041+00:00"
+    },
+    {
+        "id": 42627,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is NOT a type of integer data type in SQL?",
+        "op": [
+            "Int",
+            "Smallint",
+            "Smallerint",
+            "Smallint"
+        ],
+        "created_at": "2026-06-18T00:13:29.532952+00:00"
+    },
+    {
+        "id": 42628,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following command is used to insert data into tables?",
+        "op": [
+            "DDL",
+            "DML",
+            "DQL",
+            "DDL"
+        ],
+        "created_at": "2026-06-18T00:13:56.630141+00:00"
+    },
+    {
+        "id": 42629,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "2nd Normal Form is based on which of the following dependency?",
+        "op": [
+            "Transitive dependency",
+            "Partial dependency",
+            "Reflexive dependency",
+            "Full functional dependency"
+        ],
+        "created_at": "2026-07-04T12:36:19.694576+00:00"
+    },
+    {
+        "id": 42630,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following commands is used to create a database table and its structure?",
+        "op": [
+            "DCL",
+            "DQL",
+            "DML",
+            "DDL"
+        ],
+        "created_at": "2026-06-18T00:14:33.401777+00:00"
+    },
+    {
+        "id": 42631,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is the correct syntax for creating a database table?",
+        "op": [
+            "CREATE MYSQL TABLE name;",
+            "TABLE name CREATE;",
+            "CREATE TABLE name;",
+            "CREATE TABLE;"
+        ],
+        "created_at": "2026-06-18T00:14:47.377475+00:00"
+    },
+    {
+        "id": 42632,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is a correct syntax for creating a Database named employee?",
+        "op": [
+            "CREATE MYSQL Database employee",
+            "CREATE DATABASE employee;",
+            "CREATE TABLE employee;",
+            "CREATE SQL DATABASE employee;"
+        ],
+        "created_at": "2026-06-18T00:15:19.886626+00:00"
+    },
+    {
+        "id": 42633,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "If the relation is not in 2nd Normal Form, then we need to remove___________.",
+        "op": [
+            "Full functional dependency",
+            "Reflexive dependency",
+            "Partial dependency",
+            "Transitive dependency"
+        ],
+        "created_at": "2026-07-04T12:36:27.379581+00:00"
+    },
+    {
+        "id": 42634,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is NOT related to CREATE TABLE command?",
+        "op": [
+            "Records",
+            "Attributes",
+            "Data types",
+            "Constraints"
+        ],
+        "created_at": "2026-06-18T00:41:50.297944+00:00"
+    },
+    {
+        "id": 42635,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is the correct syntax for inserting some values into the employee table?",
+        "op": [
+            "INSERT into employee (col1, col2, col3) VALUES (val1, val2, val3)",
+            "INSERT into (col1, col2, col3) VALUES (val1, val2, val3)",
+            "INSERT into employee (col1, col2, col3), (val1, val2, val3)",
+            "INSERT into employee COLUMN (col1, col2, col3) VALUES (val1, val2, val3)"
+        ],
+        "created_at": "2026-06-18T00:42:12.034474+00:00"
+    },
+    {
+        "id": 42636,
+        "cc": "CS403P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "­­­­­­­­­­­­­­­­­___________ in SQL table is used to uniquely identify individual rows of a given table.",
+        "op": [
+            "Foreign key column",
+            "NOT NULL constraints",
+            "Secondary key column",
+            "Primary key column"
+        ],
+        "created_at": "2026-06-18T04:13:00.032535+00:00"
+    },
+    {
+        "id": 42637,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "If there are two relations X and Y then the difference of these two relations (i.e. X-Y) will be set of tuples that ________________.",
+        "op": [
+            "Appear in X but do not appear in Y",
+            "Appear in Y but not in X",
+            "Do not appear in both X and Y",
+            "Appear in both X and Y"
+        ],
+        "created_at": "2026-07-01T07:13:05.023358+00:00"
+    },
+    {
+        "id": 42638,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In a table, column represents __________.",
+        "op": [
+            "Records",
+            "Instances",
+            "Attributes",
+            "Data"
+        ],
+        "created_at": "2026-07-01T07:13:14.769033+00:00"
+    },
+    {
+        "id": 42639,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Suppose a relation named STUDENT contains attributes St_name, St_cgpa, cur_semester and st_roll. Which of the following query will be used to SELECT all those student records having cgpa greater than 3.0?",
+        "op": [
+            "σcgpa>3.0 (STUDENT)",
+            "Ωcgpa>3.0 (STUDENT)",
+            "σcgpa>3.0 (STUDENT)",
+            "€cgpa>3.0 (STUDENT)"
+        ],
+        "created_at": "2026-07-01T07:13:23.500213+00:00"
+    },
+    {
+        "id": 42640,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In intersection operation, which of the following is selected?",
+        "op": [
+            "Tuples of single relation only",
+            "Tuples of first relation",
+            "Tuples common in both relations",
+            "Tuples of second relation"
+        ],
+        "created_at": "2026-07-01T07:13:32.112222+00:00"
+    },
+    {
+        "id": 42641,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Suppose a relation named EMPLOYEE contains attributes Emp_name, Emp_designation, Emp_address and Emp_salary. Which of the following query will be used to SELECT all those employees whose designation is Admin officer?",
+        "op": [
+            "ϕ designation = ‘Admin officer’(EMPLOYEE)",
+            "σ designation = ‘Admin officer’ (EMPLOYEE)",
+            "α designation = ‘Admin officer’ (EMPLOYEE)",
+            "ռ designation = ‘Admin officer’ (EMPLOYEE)"
+        ],
+        "created_at": "2026-07-01T07:13:39.816662+00:00"
+    },
+    {
+        "id": 42642,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Consider the following two sets: STD Name = [Ali, Hassan] Course Name = {Eng, Math, Phy} Then the Cartesian product of STD Name and Course Name (i.e. STD Name x Course Name) will be equal to:",
+        "op": [
+            "{(Ali, Eng), (Ali, Math), (Ali, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}",
+            "{(Ali, Math), (Ali, Phy), (Hassan, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}",
+            "{(Ali, Eng), (Ali, Math), (Ali, Phy), (Hassan, Phy), (Ali, Math), (Hassan, Eng)}",
+            "{(Ali, Eng), (Hassan, Math), (Ali, Phy), (Hassan, Eng), (Hassan, Math), (Hassan, Phy)}"
+        ],
+        "created_at": "2026-07-01T07:13:47.719096+00:00"
+    },
+    {
+        "id": 42643,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following operator is used to select the certain columns from a table?",
+        "op": [
+            "Conjugate operator",
+            "Select operator",
+            "Project operator",
+            "Cartesian operator"
+        ],
+        "created_at": "2026-07-01T07:13:58.842629+00:00"
+    },
+    {
+        "id": 42644,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "What is the basic component/structure of Relational Data Model?",
+        "op": [
+            "Schema",
+            "Relation",
+            "Tuple",
+            "Model"
+        ],
+        "created_at": "2026-07-01T07:14:05.782178+00:00"
+    },
+    {
+        "id": 42645,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following are unary operators?",
+        "op": [
+            "UNION and PROJECT",
+            "PROJECT and CARTESIAN",
+            "SELECT and CARTESIAN",
+            "SELECT and PROJECT"
+        ],
+        "created_at": "2026-07-01T07:14:14.257515+00:00"
+    },
+    {
+        "id": 42646,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In relational database, each cell of a table cannot have __________ .",
+        "op": [
+            "Numeric values",
+            "Unique values",
+            "String values",
+            "Multiple values"
+        ],
+        "created_at": "2026-07-01T07:14:23.66006+00:00"
+    },
+    {
+        "id": 42647,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Which of the two data models were used before the relational data model?",
+        "op": [
+            "Network and Object Oriented Data Model",
+            "Hierarchical and Network Data Model",
+            "Object Oriented and Flat Data Model",
+            "Flat Data model and Hierarchical Data Model"
+        ],
+        "created_at": "2026-07-02T17:16:04.645052+00:00"
+    },
+    {
+        "id": 42648,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If an entity STUDENT has four attributes named as Roll No., NAME, DATE_OF_BIRTH and ADDRESS then which of the following attribute is most suitable for Primary Key?",
+        "op": [
+            "Roll No.",
+            "NAME",
+            "ADDRESS",
+            "DATE_OF_BIRTH"
+        ],
+        "created_at": "2026-07-02T17:16:15.591839+00:00"
+    },
+    {
+        "id": 42649,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "A specific record of a relation is accessed through:",
+        "op": [
+            "Arbitrary Key",
+            "Secondary Key",
+            "Random key",
+            "Primary Key"
+        ],
+        "created_at": "2026-07-02T17:17:37.002148+00:00"
+    },
+    {
+        "id": 42650,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "In many to many relationship, a third table is created for the relationship. It is known as _______.",
+        "op": [
+            "Associative entity type",
+            "Naming entity type",
+            "Strong entity type",
+            "Regular entity type"
+        ],
+        "created_at": "2026-07-02T17:18:07.909216+00:00"
+    },
+    {
+        "id": 42651,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "In relational data model, composite attributes need to be represented as:",
+        "op": [
+            "Separate relation",
+            "Entity type",
+            "Objects",
+            "Recursive relationship"
+        ],
+        "created_at": "2026-07-02T17:18:35.95554+00:00"
+    },
+    {
+        "id": 42652,
+        "cc": "CS403P",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Column of the table in the relational database are identified by ___________.",
+        "op": [
+            "Serial number",
+            "Key",
+            "Name",
+            "Value"
+        ],
+        "created_at": "2026-07-02T17:19:26.889852+00:00"
+    },
+    {
+        "id": 42653,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "04 July 2026",
+        "qt": "If relation M has C tuples and relation N has D tuples, then their Cartesian product will have _________ tuples.",
+        "op": [
+            "CUD",
+            "C^D",
+            "C∩D",
+            "C*D"
+        ],
+        "created_at": "2026-07-04T12:33:01.378754+00:00"
+    },
+    {
+        "id": 42654,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "A relation is in second normal form if and only if ______________ and all the non key attributes are fully functionally dependent on the key.",
+        "op": [
+            "It has multivalued attributes",
+            "It is not in first normal form",
+            "It has inconsistent data",
+            "It is in first normal form"
+        ],
+        "created_at": "2026-07-04T12:34:53.793621+00:00"
+    },
+    {
+        "id": 42655,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "The only time we are concerned about 2nd Normal Form is when ___________.",
+        "op": [
+            "Primary key contains redundant values",
+            "Primary key consists of single attribute",
+            "Primary key is composite",
+            "Primary key contains non-unique values"
+        ],
+        "created_at": "2026-07-04T12:35:24.54836+00:00"
+    },
+    {
+        "id": 42656,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "A table is in the 2nd Normal Form if there is no___________.",
+        "op": [
+            "Functional dependency",
+            "Reflexive dependency",
+            "Transitive dependency",
+            "Partial dependency"
+        ],
+        "created_at": "2026-07-04T12:35:39.551309+00:00"
+    },
+    {
+        "id": 42657,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "04 July 2026",
+        "qt": "Suppose A → B, then which of the following is valid Functional dependency for augmentation?",
+        "op": [
+            "AB → C",
+            "A → C",
+            "AD → B",
+            "AC → BC"
+        ],
+        "created_at": "2026-07-04T12:35:48.361637+00:00"
+    },
+    {
+        "id": 46952,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "A relation named FACULTY contains the attributes FactId, FactName, FactDept and FactRank. Which of the query will be used to PROJECT the FactId and FactDept?",
+        "op": [
+            "σ FactId, FactDept (Faculty)",
+            "∏ FactId, FactDept (Faculty)",
+            "Ω FactId, FactDept (Faculty)",
+            "ϕ FactId, FactDept (Faculty)"
+        ],
+        "created_at": "2026-06-10T18:25:24.326211+00:00"
+    },
+    {
+        "id": 46953,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "In projection operation, any duplicate values are_________.",
+        "op": [
+            "Grouped",
+            "Eliminated",
+            "Selected",
+            "Copied"
+        ],
+        "created_at": "2026-06-10T18:25:36.449091+00:00"
+    },
+    {
+        "id": 46954,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "Which of the following option is true for union commutative?",
+        "op": [
+            "B∩A=BUA",
+            "AUB=A∩B",
+            "AUB=BUA",
+            "A∩B=AUB"
+        ],
+        "created_at": "2026-06-10T18:25:44.293659+00:00"
+    },
+    {
+        "id": 46955,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "Which of the following are unary operators?",
+        "op": [
+            "SELECT and CARTESIAN",
+            "SELECT and PROJECT",
+            "PROJECT and CARTESIAN",
+            "UNION and PROJECT"
+        ],
+        "created_at": "2026-06-10T18:25:55.372617+00:00"
+    },
+    {
+        "id": 46956,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "In intersection operation, which of the following is selected?",
+        "op": [
+            "Tuples common in both relations",
+            "Tuples of single relation only",
+            "Tuples of first relation",
+            "Tuples of second relation"
+        ],
+        "created_at": "2026-06-10T18:26:06.207951+00:00"
+    },
+    {
+        "id": 46957,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "If relation M has C tuples and relation N has D tuples, then their Cartesian product will have _________ tuples.",
+        "op": [
+            "C^D",
+            "C*D",
+            "CUD",
+            "C∩D"
+        ],
+        "created_at": "2026-06-10T18:26:14.545989+00:00"
+    },
+    {
+        "id": 46958,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "If there are two relations X and Y then the difference of these two relations (i.e. X-Y) will be set of tuples that ________________.",
+        "op": [
+            "Appear in both X and Y",
+            "Do not appear in both X and Y",
+            "Appear in X but do not appear in Y",
+            "Appear in Y but not in X"
+        ],
+        "created_at": "2026-06-10T18:26:29.044643+00:00"
+    },
+    {
+        "id": 46959,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "Suppose a relation named EMPLOYEE contains attributes Emp_name, Emp_designation, Emp_address and Emp_salary. Which of the following query will be used to SELECT all those employees whose designation is Admin officer?",
+        "op": [
+            "ռ designation = ‘Admin officer’ (EMPLOYEE)",
+            "α designation = ‘Admin officer’ (EMPLOYEE)",
+            "σ designation = ‘Admin officer’ (EMPLOYEE)",
+            "ϕ designation = ‘Admin officer’(EMPLOYEE)"
+        ],
+        "created_at": "2026-06-10T18:27:38.090347+00:00"
+    },
+    {
+        "id": 46960,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "Which of the following operator is used to select the certain columns from a table?",
+        "op": [
+            "Conjugate operator",
+            "Project operator",
+            "Select operator",
+            "Cartesian operator"
+        ],
+        "created_at": "2026-06-10T18:28:18.398919+00:00"
+    },
+    {
+        "id": 46961,
+        "cc": "CS403P",
+        "qn": "7",
+        "dt": "10 June 2026",
+        "qt": "Suppose a relation named STUDENT contains attributes St_name, St_cgpa, cur_semester and st_roll. Which of the following query will be used to SELECT all those student records having cgpa greater than 3.0?",
+        "op": [
+            "Ωcgpa>3.0 (STUDENT)",
+            "σcgpa>3.0 (STUDENT)",
+            "€cgpa>3.0 (STUDENT)",
+            "σcgpa>3.0 (STUDENT)"
+        ],
+        "created_at": "2026-06-10T18:28:55.106495+00:00"
+    },
+    {
+        "id": 46962,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "______________ is a step by step process to reduce data redundancy and improve data integrity to build a more efficient and accurate database design.",
+        "op": [
+            "Modeling",
+            "Classification",
+            "Integration",
+            "Normalization"
+        ],
+        "created_at": "2026-06-10T19:28:21.140895+00:00"
+    },
+    {
+        "id": 46963,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "If a relation CLASS (crId, stId, stName, fId, room, grade) has following Functional Dependencies: crId, stId → stName, fId, room, grade which of the following functional dependency is in above functional dependency?",
+        "op": [
+            "Squencial dependency",
+            "Partial dependency",
+            "Transitive dependency",
+            "Reflexive dependency"
+        ],
+        "created_at": "2026-06-10T19:28:30.197513+00:00"
+    },
+    {
+        "id": 46964,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "If the relation is not in 2nd Normal Form, then we need to remove___________.",
+        "op": [
+            "Transitive dependency",
+            "Partial dependency",
+            "Full functional dependency",
+            "Reflexive dependency"
+        ],
+        "created_at": "2026-06-10T19:29:30.781116+00:00"
+    },
+    {
+        "id": 46965,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "The only time we are concerned about 2nd Normal Form is when ___________.",
+        "op": [
+            "Primary key contains redundant values",
+            "Primary key is composite",
+            "Primary key contains non-unique values",
+            "Primary key consists of single attribute"
+        ],
+        "created_at": "2026-06-10T19:29:42.244327+00:00"
+    },
+    {
+        "id": 46966,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "In functional dependency, if one attribute is determinant of all other attributes of the relation then the relation has at least __________.",
+        "op": [
+            "Random key",
+            "Relational key",
+            "Super key",
+            "Secondary key"
+        ],
+        "created_at": "2026-06-10T19:29:50.304557+00:00"
+    },
+    {
+        "id": 46967,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "A table is in the 2nd Normal Form if there is no___________.",
+        "op": [
+            "Reflexive dependency",
+            "Functional dependency",
+            "Transitive dependency",
+            "Partial dependency"
+        ],
+        "created_at": "2026-06-10T19:30:00.169703+00:00"
+    },
+    {
+        "id": 46968,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "Consider the following functional dependency: A → B In above functional dependency, attribute B is_______ on A.",
+        "op": [
+            "Projected",
+            "Reflected",
+            "Dependent",
+            "Terminated"
+        ],
+        "created_at": "2026-06-10T19:30:07.289907+00:00"
+    },
+    {
+        "id": 46969,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "Suppose A → B, then which of the following is valid Functional dependency for augmentation?",
+        "op": [
+            "AC → BC",
+            "A → C",
+            "AB → C",
+            "AD → B"
+        ],
+        "created_at": "2026-06-10T19:35:25.361857+00:00"
+    },
+    {
+        "id": 46970,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "A relation is in second normal form if and only if ______________ and all the non key attributes are fully functionally dependent on the key.",
+        "op": [
+            "It is not in first normal form",
+            "It has inconsistent data",
+            "It is in first normal form",
+            "It has multivalued attributes"
+        ],
+        "created_at": "2026-06-10T19:36:24.177638+00:00"
+    },
+    {
+        "id": 46971,
+        "cc": "CS403P",
+        "qn": "8",
+        "dt": "11 June 2026",
+        "qt": "2nd Normal Form is based on which of the following dependency?",
+        "op": [
+            "Full functional dependency",
+            "Reflexive dependency",
+            "Transitive dependency",
+            "Partial dependency"
+        ],
+        "created_at": "2026-06-10T19:36:52.787158+00:00"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "id": 27411,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "What does AJAX stand for in web development?",
+        "op": [
+            "Advanced JavaScript and XML",
+            "Asynchronous jQuery and XHTML",
+            "Asynchronous JavaScript and XML",
+            "Active JavaScript and XML"
+        ],
+        "created_at": "2026-06-29T19:05:38.34097+00:00"
+    },
+    {
+        "id": 27414,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which conditional statement is used to execute a block of code if a certain condition is true?",
+        "op": [
+            "else",
+            "if",
+            "switch",
+            "for"
+        ],
+        "created_at": "2026-06-29T19:05:47.951141+00:00"
+    },
+    {
+        "id": 27417,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which loop in PHP will always execute the loop body at least once?",
+        "op": [
+            "while loop",
+            "do-while loop",
+            "for loop",
+            "foreach loop"
+        ],
+        "created_at": "2026-06-29T19:06:01.621543+00:00"
+    },
+    {
+        "id": 27420,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "How can you access an object's property in PHP?",
+        "op": [
+            "By using the dot (.) operator",
+            "By using the equals (=) operator",
+            "By using the double colon (::) operator",
+            "By using the arrow (->) operator"
+        ],
+        "created_at": "2026-06-29T19:06:13.326115+00:00"
+    },
+    {
+        "id": 27423,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which operator is used for string concatenation in PHP?",
+        "op": [
+            "*",
+            "/",
+            "+",
+            "."
+        ],
+        "created_at": "2026-06-29T19:06:26.092014+00:00"
+    },
+    {
+        "id": 27426,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "What is the file extension for a PHP file?",
+        "op": [
+            ".html",
+            ".php",
+            ".js",
+            ".css"
+        ],
+        "created_at": "2026-06-29T19:06:40.745679+00:00"
+    },
+    {
+        "id": 27430,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which visibility keyword is used when a property should only be accessible within its own class?",
+        "op": [
+            "Protected",
+            "Private",
+            "Static",
+            "Public"
+        ],
+        "created_at": "2026-06-29T19:06:49.403373+00:00"
+    },
+    {
+        "id": 27432,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which keyword is used to define a class in PHP?",
+        "op": [
+            "new",
+            "object",
+            "class",
+            "define"
+        ],
+        "created_at": "2026-06-29T19:07:00.016403+00:00"
+    },
+    {
+        "id": 27437,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "What does the jQuery \"fadeOut\" method do?",
+        "op": [
+            "It applies a CSS animation to an HTML element.",
+            "It adds a fade-in effect to an HTML element.",
+            "It removes an HTML element from the DOM.",
+            "It makes an HTML element invisible with a fading effect."
+        ],
+        "created_at": "2026-06-29T19:07:11.967648+00:00"
+    },
+    {
+        "id": 27748,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "How can you access a static property of a class in PHP?",
+        "op": [
+            "By using the parent keyword",
+            "By using the object of the class",
+            "By using the self-keyword",
+            "By using the static keyword"
+        ],
+        "created_at": "2026-06-29T19:40:10.206246+00:00"
+    },
+    {
+        "id": 27755,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "When should you use the GET method instead of POST in PHP?",
+        "op": [
+            "When performing database operations.",
+            "When sending sensitive data, such as passwords.",
+            "When the data being sent should not be visible in the URL.",
+            "When the data being sent is too large to fit in the URL."
+        ],
+        "created_at": "2026-06-29T19:41:24.217763+00:00"
+    },
+    {
+        "id": 27761,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "What is a server-side technology used for web development?",
+        "op": [
+            "HTML",
+            "CSS",
+            "PHP",
+            "JavaScript"
+        ],
+        "created_at": "2026-06-29T19:42:44.524292+00:00"
+    },
+    {
+        "id": 27764,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "What is the role of PHP in server-side development?",
+        "op": [
+            "It interacts with databases and generates dynamic web content.",
+            "It handles client-side events.",
+            "It manages the server's operating system.",
+            "It handles animations and DOM manipulation."
+        ],
+        "created_at": "2026-06-29T19:43:19.224466+00:00"
+    },
+    {
+        "id": 27766,
+        "cc": "CS521",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which one of the following super global arrays is used to retrieve data sent via the HTTP GET method in PHP?",
+        "op": [
+            "$_REQUEST",
+            "$_SERVER",
+            "$_GET",
+            "$_POST"
+        ],
+        "created_at": "2026-06-29T19:43:43.224482+00:00"
+    },
+    {
+        "id": 48621,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "WHERE keyword in SQL is used to",
+        "op": [
+            "Specify the IP address of database server",
+            "Indicated that only records that match the given criteria expression should be returned",
+            "Specify the location where the Database is stored on the server",
+            "Indicate the table from which the data should be fetched"
+        ],
+        "created_at": "2026-07-05T19:17:53.429956+00:00"
+    },
+    {
+        "id": 48635,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is the purpose of PHP filters?",
+        "op": [
+            "To handle errors in PHP code",
+            "To apply styling to HTML elements",
+            "To filter and sanitize user input data",
+            "To execute complex database queries"
+        ],
+        "created_at": "2026-07-05T19:18:05.638888+00:00"
+    },
+    {
+        "id": 48643,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What are regular expressions in PHP?",
+        "op": [
+            "Predefined functions used to handle errors in PHP",
+            "Special characters used to concatenate strings",
+            "Patterns used to search, match, and manipulate strings",
+            "Built-in PHP functions used for database operations"
+        ],
+        "created_at": "2026-07-05T19:18:15.641341+00:00"
+    },
+    {
+        "id": 48653,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In SQL if we want to fetch data from multiple tables in a database we use the concept of",
+        "op": [
+            "Join",
+            "Collection",
+            "Aggregation",
+            "Arrays"
+        ],
+        "created_at": "2026-07-05T19:18:24.686049+00:00"
+    },
+    {
+        "id": 48662,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Following is the name of a PHP MySQL API",
+        "op": [
+            "mysqli",
+            "phpExtend",
+            "JavaScript",
+            "phpMyAdmin"
+        ],
+        "created_at": "2026-07-05T19:18:32.268029+00:00"
+    },
+    {
+        "id": 48686,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Following is the SQL keyword for specifying the table to extract data.",
+        "op": [
+            "From",
+            "Order by",
+            "Where",
+            "Select"
+        ],
+        "created_at": "2026-07-05T19:19:02.212658+00:00"
+    },
+    {
+        "id": 48704,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is the purpose of PHP's try-catch block?",
+        "op": [
+            "To handle exceptions and errors that occur in PHP code",
+            "To prevent errors from occurring in PHP code",
+            "To disable error reporting in PHP",
+            "To report errors to the user"
+        ],
+        "created_at": "2026-07-05T19:19:19.603078+00:00"
+    },
+    {
+        "id": 48710,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Following is the SQL keyword for adding a new record in a table.",
+        "op": [
+            "Select",
+            "Update",
+            "Add",
+            "Insert"
+        ],
+        "created_at": "2026-07-05T19:19:31.043561+00:00"
+    },
+    {
+        "id": 48732,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "We want to execute a group of statements such that if one statement fails then other statements should also not execute. Which databases feature is suitable for this scenario?",
+        "op": [
+            "Backup",
+            "Join",
+            "Normalization",
+            "Transactions"
+        ],
+        "created_at": "2026-07-05T19:20:03.26953+00:00"
+    },
+    {
+        "id": 48737,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which PHP function is used to validate an email address using a filter?",
+        "op": [
+            "validate_email()",
+            "sanitize_email()",
+            "filter_var()",
+            "filter_input()"
+        ],
+        "created_at": "2026-07-05T19:20:13.274044+00:00"
+    },
+    {
+        "id": 48924,
+        "cc": "CS521",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "When performing a database update, which SQL statement is commonly used?",
+        "op": [
+            "DELETE",
+            "UPDATE",
+            "INSERT",
+            "SELECT"
+        ],
+        "created_at": "2026-07-05T19:24:44.772387+00:00"
+    }
+]

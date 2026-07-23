@@ -1,0 +1,644 @@
+[
+    {
+        "id": 32382,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "____________ is an artificial key which is not a part of the system. The purpose of the key is to avoid the complexity of the composite primary keys.",
+        "op": [
+            "Surrogate Key",
+            "Unique Key",
+            "Candidate Key",
+            "Foreign Key"
+        ],
+        "created_at": "2026-06-30T20:43:22.857882+00:00"
+    },
+    {
+        "id": 32385,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which one is relevant for Primary key - foreign key relationship?",
+        "op": [
+            "Partial Constraints",
+            "Referential Integrity Constraints",
+            "Integrity constraints",
+            "Completeness Constraints"
+        ],
+        "created_at": "2026-06-30T20:43:31.591631+00:00"
+    },
+    {
+        "id": 32387,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The correct syntax of insert statement is:",
+        "op": [
+            "Insert into database values(value1, value2, ……)",
+            "Insert into tablename values(value1, value2, ….)",
+            "Insert values(value1, value2, ……..) into tablename",
+            "Insert values(value1, value2,…) into database"
+        ],
+        "created_at": "2026-06-30T20:43:41.039215+00:00"
+    },
+    {
+        "id": 32388,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Suppose your company has hired a new employee Ahmad and you are required to add his information in the emp table. Which of the following SQL command will you use for this purpose?",
+        "op": [
+            "Update",
+            "Add",
+            "Insert",
+            "New"
+        ],
+        "created_at": "2026-06-30T20:43:49.916313+00:00"
+    },
+    {
+        "id": 32390,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which one is not a type of Anomalies?",
+        "op": [
+            "Insertion Anomaly",
+            "Select Anomaly",
+            "Deletion Anomaly",
+            "Update Anomaly"
+        ],
+        "created_at": "2026-06-30T20:43:58.529148+00:00"
+    },
+    {
+        "id": 32393,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Cascading defines the behavior of _______ when the record from the parent table is deleted or updated.",
+        "op": [
+            "Super key",
+            "Foreign key",
+            "Secondary key",
+            "Primary key"
+        ],
+        "created_at": "2026-06-30T20:44:05.389432+00:00"
+    },
+    {
+        "id": 32397,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Deletion Anomaly occurs due to __________.",
+        "op": [
+            "Poor design decision",
+            "Poor application program",
+            "Poor maintenance",
+            "Poor codding decision"
+        ],
+        "created_at": "2026-06-30T20:44:16.766096+00:00"
+    },
+    {
+        "id": 32400,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "First normal forma removes _________",
+        "op": [
+            "Transitive dependency",
+            "Multiple value of an attribute",
+            "Functional dependency",
+            "Single value of an attribute"
+        ],
+        "created_at": "2026-06-30T20:44:25.642031+00:00"
+    },
+    {
+        "id": 32401,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "In E-R Diagram which one is not possible to show?",
+        "op": [
+            "Relationships",
+            "Attributes",
+            "Entities",
+            "Foreign key relationships"
+        ],
+        "created_at": "2026-06-30T20:44:35.26648+00:00"
+    },
+    {
+        "id": 48155,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "____________________ combine two or more conditions into a compound condition in order to get the specific required results.",
+        "op": [
+            "Conditional Operators",
+            "Logical Operators",
+            "Boolean Operators",
+            "Arithmetic Operators"
+        ],
+        "created_at": "2026-07-05T19:11:20.689386+00:00"
+    },
+    {
+        "id": 48161,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which clause is used only with Group functions?",
+        "op": [
+            "WHERE",
+            "HAVING",
+            "GROUP BY",
+            "SELECT"
+        ],
+        "created_at": "2026-07-05T19:11:27.644341+00:00"
+    },
+    {
+        "id": 48172,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "__________________ statement is used to view the data from database.",
+        "op": [
+            "Create",
+            "View",
+            "Select",
+            "Join"
+        ],
+        "created_at": "2026-07-05T19:11:34.435896+00:00"
+    },
+    {
+        "id": 48182,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The _____________operator in SQL works like OR operator and allows to search for a value from given list of values.",
+        "op": [
+            "LIKE",
+            "BETWEEN",
+            "IN",
+            "ANY"
+        ],
+        "created_at": "2026-07-05T19:11:40.838865+00:00"
+    },
+    {
+        "id": 48191,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Group functions manipulate groups of rows to give ______ result per group of rows.",
+        "op": [
+            "Three",
+            "Four",
+            "Two",
+            "One"
+        ],
+        "created_at": "2026-07-05T19:11:46.686578+00:00"
+    },
+    {
+        "id": 48205,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "______________ is a Multi Rows/Group function.",
+        "op": [
+            "INSTR",
+            "ROUND",
+            "CONCAT",
+            "COUNT"
+        ],
+        "created_at": "2026-07-05T19:11:55.806044+00:00"
+    },
+    {
+        "id": 48209,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What will be displayed after execution of following SQL command?\nSELECT ename, job FROM emp;",
+        "op": [
+            "Whole table",
+            "All values of ename and job columns from emp table",
+            "Some of the values from ename and job columns of emp table",
+            "All the unique values from enmae column of Emp table"
+        ],
+        "created_at": "2026-07-05T19:12:03.753302+00:00"
+    },
+    {
+        "id": 48220,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "________ is a Single Row function.",
+        "op": [
+            "MAX",
+            "AVG",
+            "ROUND",
+            "MIN"
+        ],
+        "created_at": "2026-07-05T19:12:10.860767+00:00"
+    },
+    {
+        "id": 48228,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "“Where Clause” restricts ____________ returned as a result after execution of select command.",
+        "op": [
+            "Attributes",
+            "Rows",
+            "Tables",
+            "Columns"
+        ],
+        "created_at": "2026-07-05T19:12:16.430463+00:00"
+    },
+    {
+        "id": 48241,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_____________ is used to sort the result set in ascending or descending order.",
+        "op": [
+            "From Clause",
+            "Where Clause",
+            "Order by Clause",
+            "Group by Clause"
+        ],
+        "created_at": "2026-07-05T19:12:23.190597+00:00"
+    },
+    {
+        "id": 48974,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The __________ sign allows for the substitution of zero or more characters in a field.",
+        "op": [
+            "Underscore (_)",
+            "Asterisk (*)",
+            "None of them",
+            "Percentage (%)"
+        ],
+        "created_at": "2026-07-05T19:26:29.712585+00:00"
+    },
+    {
+        "id": 48980,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "SQL stands for _______________.",
+        "op": [
+            "Strict Query Language",
+            "Struct Query Language",
+            "Structured Query Language",
+            "Structured Question Language"
+        ],
+        "created_at": "2026-07-05T19:26:39.038234+00:00"
+    },
+    {
+        "id": 48983,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What does * means in the given SQL statement?\nSELECT DISTINCT * ColumnName FROM TableName;",
+        "op": [
+            "All Columns",
+            "One Row",
+            "One Column",
+            "All Rows"
+        ],
+        "created_at": "2026-07-05T19:26:46.270655+00:00"
+    },
+    {
+        "id": 48986,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following clause is used to apply the condition on Selection from a table?",
+        "op": [
+            "Order By",
+            "Select",
+            "Group By",
+            "Where"
+        ],
+        "created_at": "2026-07-05T19:26:53.713495+00:00"
+    },
+    {
+        "id": 49002,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The SQL GROUP BY clause is used in collaboration with the _________ statement.",
+        "op": [
+            "UPDATE",
+            "INSERT",
+            "SELECT",
+            "DELETE"
+        ],
+        "created_at": "2026-07-05T19:27:16.63531+00:00"
+    },
+    {
+        "id": 49009,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In SQL which operator uses Wildcard characters?",
+        "op": [
+            "AND",
+            "IN",
+            "BETWEEN",
+            "LIKE"
+        ],
+        "created_at": "2026-07-05T19:27:23.65416+00:00"
+    },
+    {
+        "id": 49015,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Single row function accepts one or more argument(s) and returns _____________ value(s) for each row returned by the query.",
+        "op": [
+            "ONE",
+            "FOUR",
+            "THREE",
+            "TWO"
+        ],
+        "created_at": "2026-07-05T19:27:32.182292+00:00"
+    },
+    {
+        "id": 49022,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ is used to extract unique values of column from the table.",
+        "op": [
+            "Unique",
+            "Distinct",
+            "Single",
+            "*"
+        ],
+        "created_at": "2026-07-05T19:27:39.930276+00:00"
+    },
+    {
+        "id": 49290,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which wildcard character is used in SQL?",
+        "op": [
+            "#",
+            "!",
+            "%",
+            "$"
+        ],
+        "created_at": "2026-07-05T19:36:13.480648+00:00"
+    },
+    {
+        "id": 49301,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Having Clause places conditions on _________.",
+        "op": [
+            "Single Row",
+            "Groups created by the GROUP BY clause",
+            "Whole/Selected Column",
+            "All Rows"
+        ],
+        "created_at": "2026-07-05T19:36:28.071462+00:00"
+    },
+    {
+        "id": 49911,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The _____________ operator selects values within a specific range and the values could be numbers, text, or dates.",
+        "op": [
+            "IN",
+            "LIKE",
+            "ANY",
+            "BETWEEN"
+        ],
+        "created_at": "2026-07-05T20:04:09.239652+00:00"
+    },
+    {
+        "id": 49914,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "________________ is used to undo the transactions which have not already been stored in the database.",
+        "op": [
+            "Commit",
+            "Undo",
+            "Rollback",
+            "Truncate"
+        ],
+        "created_at": "2026-07-05T20:04:27.109212+00:00"
+    },
+    {
+        "id": 49916,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ clause is used in collaboration with the SELECT statement to arrange identical data into groups.",
+        "op": [
+            "Having",
+            "Order by",
+            "Group by",
+            "Drop"
+        ],
+        "created_at": "2026-07-05T20:04:43.361744+00:00"
+    },
+    {
+        "id": 49917,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "_______________ is the correct syntax for SELECT statement.",
+        "op": [
+            "SELECT column_name(s) FROM table_name",
+            "FROM table_name SELECT column_name(s)",
+            "SELECT FROM table_name column_name(s)",
+            "FROM SELECT column_name(s) table_name"
+        ],
+        "created_at": "2026-07-05T20:04:59.194792+00:00"
+    },
+    {
+        "id": 49921,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which is not related to SQL?",
+        "op": [
+            "Data Definition Language",
+            "Data Translation Language",
+            "Data Control Language",
+            "Data Manipulation Language"
+        ],
+        "created_at": "2026-07-05T20:05:09.885634+00:00"
+    },
+    {
+        "id": 51549,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What does DISTINCT means in the given SQL statement?\nSELECT DISTINCT * ColumnName FROM TableName;",
+        "op": [
+            "Unique Values from Columns",
+            "All Values from Columns",
+            "Duplicate Values from Columns",
+            "One Value from Columns"
+        ],
+        "created_at": "2026-07-06T01:50:27.860074+00:00"
+    },
+    {
+        "id": 51920,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "BETWEEN operator is used in _______________ clause.",
+        "op": [
+            "SELECT",
+            "WHERE",
+            "HAVING",
+            "GROUP BY"
+        ],
+        "created_at": "2026-07-06T02:55:12.274525+00:00"
+    },
+    {
+        "id": 52081,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which logical operator will be used in where clause of SQL statement if you want to display the list of all employee names who are earning more than 2500 but less than 5000?",
+        "op": [
+            "OR",
+            "AND",
+            "XOR",
+            "NOT"
+        ],
+        "created_at": "2026-07-06T03:23:28.752899+00:00"
+    },
+    {
+        "id": 52103,
+        "cc": "CS312",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "% wildcard means ____________.",
+        "op": [
+            "Exactly one character",
+            "Zero characters",
+            "More than zero characters",
+            "Zero or more characters"
+        ],
+        "created_at": "2026-07-06T03:26:28.444558+00:00"
+    },
+    {
+        "id": 66244,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Transaction is a unit of ____________ accomplished in a logical order against a database.",
+        "op": [
+            "Power",
+            "Query",
+            "Work",
+            "Command"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66245,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following SQL command will be used to delete a record of an employee named ALI form emp table?",
+        "op": [
+            "Insert",
+            "Update",
+            "Delete",
+            "Truncate"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66246,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following command will be used if you want to permanently save the changes made in database?",
+        "op": [
+            "Savepoint",
+            "Rollback",
+            "Commit",
+            "Store"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66248,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the following SQL command will be used to change the salary of a particular Employee from 20000 to 25000 in EMPLOYEE table? (Salary is an attribute of EMPLOYEE table.)",
+        "op": [
+            "Commit",
+            "Edit",
+            "Insert",
+            "Update"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66249,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The Rollback statement is the transactional command used to save changes invoked by a transaction to the database.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66250,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "______________ statement deletes the table but the structure remains un-deleted.",
+        "op": [
+            "Truncate",
+            "Terminate",
+            "Remove",
+            "Drop"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66251,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Insert, update and delete are the ______________ commands.",
+        "op": [
+            "DML",
+            "DCL",
+            "DLL",
+            "DDL"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66369,
+        "cc": "CS312",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "_______________ command is used to restore the changes made in the database.",
+        "op": [
+            "Commit",
+            "Truncate",
+            "Delete",
+            "Rollback"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    }
+]

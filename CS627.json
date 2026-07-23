@@ -1,0 +1,534 @@
+[
+    {
+        "id": 54954,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which security mechanism is based on the trimmed down version of the 802.11i standard?",
+        "op": [
+            "WPA3",
+            "WPA",
+            "WEP",
+            "WPA2"
+        ],
+        "created_at": "2026-07-06T19:20:13.602495+00:00"
+    },
+    {
+        "id": 54959,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is the consequence of using incorrect capitalization for Nmap flags?",
+        "op": [
+            "Nmap speeds up the scanning process.",
+            "Nmap fails to recognize the flags.",
+            "Nmap displays a warning message.",
+            "Nmap recognizes the flags as different options."
+        ],
+        "created_at": "2026-07-06T19:20:36.055609+00:00"
+    },
+    {
+        "id": 54960,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Wireless networks are more vulnerable to eavesdropping and jamming compared to wired networks due to:",
+        "op": [
+            "Channel interference",
+            "Accessibility",
+            "Limited resources",
+            "Mobility"
+        ],
+        "created_at": "2026-07-06T19:20:46.368817+00:00"
+    },
+    {
+        "id": 54962,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "The IEEE standard for wired LAN is:",
+        "op": [
+            "IEEE 802.1X",
+            "IEEE 802.3",
+            "IEEE 802.11i",
+            "IEEE 802.11"
+        ],
+        "created_at": "2026-07-06T19:20:53.517973+00:00"
+    },
+    {
+        "id": 54963,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "How can you check the version of the installed Nmap on your system?",
+        "op": [
+            "nmap -V",
+            "nmap -about",
+            "nmap --info",
+            "nmap --version"
+        ],
+        "created_at": "2026-07-06T19:21:00.880005+00:00"
+    },
+    {
+        "id": 54965,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "The organization that owns the Wi-Fi trademark is:",
+        "op": [
+            "Wi-Fi Alliance",
+            "IEEE 802 LAN/MAN Standards Committee",
+            "IEEE",
+            "Wired Ethernet Compatibility Alliance (WECA)"
+        ],
+        "created_at": "2026-07-06T19:21:07.783597+00:00"
+    },
+    {
+        "id": 54967,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Why it is important to use the correct capitalization for flags in Nmap?",
+        "op": [
+            "It increases the scanning speed.",
+            "It improves network security.",
+            "It enhances the accuracy of scan results.",
+            "It reduces the memory usage of Nmap."
+        ],
+        "created_at": "2026-07-06T19:21:14.100321+00:00"
+    },
+    {
+        "id": 54968,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What is the purpose of the -F flag in Nmap?",
+        "op": [
+            "To enable OS detection",
+            "To perform a fast scan",
+            "To enable aggressive scanning techniques",
+            "To specify the target port range"
+        ],
+        "created_at": "2026-07-06T19:21:21.034407+00:00"
+    },
+    {
+        "id": 54969,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What is the primary purpose of NESUSS scanning?",
+        "op": [
+            "Web application testing",
+            "Network traffic analysis",
+            "Intrusion detection",
+            "Identifying and assessing security vulnerabilities"
+        ],
+        "created_at": "2026-07-06T19:21:27.624755+00:00"
+    },
+    {
+        "id": 55249,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "How can you instruct Nmap to guess the operating system of a target host?",
+        "op": [
+            "-p-",
+            "-O",
+            "-TO",
+            "-OS"
+        ],
+        "created_at": "2026-07-06T20:14:04.427895+00:00"
+    },
+    {
+        "id": 55250,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "The IEEE 802.11 standard is concerned with:",
+        "op": [
+            "Mobile networks",
+            "Internet protocols",
+            "Wired LAN",
+            "Wireless LAN"
+        ],
+        "created_at": "2026-07-06T20:14:16.052325+00:00"
+    },
+    {
+        "id": 55251,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What is the Nmap flag used specifically for scanning HTTP services?",
+        "op": [
+            "-O",
+            "-S",
+            "-Fs",
+            "-p"
+        ],
+        "created_at": "2026-07-06T20:14:23.527823+00:00"
+    },
+    {
+        "id": 55253,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which Nmap flag is used to scan all ports on a target system?",
+        "op": [
+            "-p-",
+            "-T4",
+            "-sF",
+            "-sP"
+        ],
+        "created_at": "2026-07-06T20:14:47.217644+00:00"
+    },
+    {
+        "id": 55254,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What can Nmap help in analyzing on a target host?",
+        "op": [
+            "Running processes on the system",
+            "File system permissions",
+            "Free ports and their status",
+            "Web server log files"
+        ],
+        "created_at": "2026-07-06T20:14:56.688705+00:00"
+    },
+    {
+        "id": 55258,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "How can you instruct Nmap to perform an IPv6 scan?",
+        "op": [
+            "nmap -6 <target>",
+            "nmap -ipv6 <target>",
+            "nmap -v6 <target>",
+            "nmap -ip6 <target>"
+        ],
+        "created_at": "2026-07-06T20:15:13.155562+00:00"
+    },
+    {
+        "id": 55260,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "The final form of the 802.11i standard is referred to as:",
+        "op": [
+            "WEP",
+            "CCMP",
+            "RSN",
+            "TKIP"
+        ],
+        "created_at": "2026-07-06T20:15:33.10566+00:00"
+    },
+    {
+        "id": 55558,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Wi-Fi Direct is a program introduced by the Wi-Fi Alliance for:",
+        "op": [
+            "Peer-to-peer wireless connections",
+            "Wi-Fi passpoint certification",
+            "Simplified Wi-Fi generational numbering",
+            "Network access control"
+        ],
+        "created_at": "2026-07-07T02:10:04.01794+00:00"
+    },
+    {
+        "id": 55559,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What is the purpose of the -A flag in Nmap?",
+        "op": [
+            "It limits the scan to a specific port range",
+            "It performs a TCP SYN scan",
+            "It enables OS detection, version detection, script scanning, and traceroute",
+            "It specifies the target IP address range"
+        ],
+        "created_at": "2026-07-07T02:10:26.648077+00:00"
+    },
+    {
+        "id": 55560,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What does the -A flag in Nmap stand for?",
+        "op": [
+            "Advanced mode",
+            "Active scan",
+            "Aggressive scan",
+            "All ports scan"
+        ],
+        "created_at": "2026-07-07T02:10:34.101614+00:00"
+    },
+    {
+        "id": 55566,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "__________________ one of the key capabilities of Nmap in terms of network security.",
+        "op": [
+            "Generating compliance reports",
+            "Detecting network intrusions",
+            "Uncovering network vulnerabilities and system loopholes",
+            "Monitoring network traffic in real-time"
+        ],
+        "created_at": "2026-07-07T02:15:59.134053+00:00"
+    },
+    {
+        "id": 55567,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is correct option for Nikto tool?",
+        "op": [
+            "It has both open-source and proprietary versions",
+            "It requires a commercial license for usage",
+            "it is a proprietary tool",
+            "it is open-source and freely available"
+        ],
+        "created_at": "2026-07-07T02:17:15.31202+00:00"
+    },
+    {
+        "id": 55569,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "In terms of vulnerability assessment, Nikto is a __________________.",
+        "op": [
+            "A password cracking tool",
+            "A vulnerability scanning tool for web applications",
+            "A network monitoring tool",
+            "A firewall configuration tool"
+        ],
+        "created_at": "2026-07-07T02:17:37.763996+00:00"
+    },
+    {
+        "id": 55570,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "NESUSS is a ______________________.",
+        "op": [
+            "A vulnerability scanning tool",
+            "A firewall configuration tool",
+            "A password cracking tool",
+            "A network monitoring tool"
+        ],
+        "created_at": "2026-07-07T02:17:52.802463+00:00"
+    },
+    {
+        "id": 55586,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "What is the purpose of the -6 flag in Nmap?",
+        "op": [
+            "It limits the scan to IPv6 targets only.",
+            "It specifies the number of packets to send in an IPv6 scan.",
+            "It enables IPv6 scanning mode.",
+            "It enables verbose output for IPv6 scanning."
+        ],
+        "created_at": "2026-07-07T02:36:21.776427+00:00"
+    },
+    {
+        "id": 55587,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "The IEEE 802.1X standard is primarily used for:",
+        "op": [
+            "Data link layer protocols",
+            "Port-based network access control",
+            "Encryption algorithms",
+            "Wired network communication"
+        ],
+        "created_at": "2026-07-07T02:36:29.867066+00:00"
+    },
+    {
+        "id": 55610,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is the correct syntax for Nmap command?",
+        "op": [
+            "nmap -scan <target>",
+            "nmap <target>",
+            "nmap -tp <target>",
+            "nmap <target> -pd"
+        ],
+        "created_at": "2026-07-07T02:56:44.384933+00:00"
+    },
+    {
+        "id": 55625,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "WPA2 uses which encryption algorithm for data confidentiality?",
+        "op": [
+            "TKIP",
+            "CCMP",
+            "RC4",
+            "WEP"
+        ],
+        "created_at": "2026-07-07T02:59:39.293453+00:00"
+    },
+    {
+        "id": 55641,
+        "cc": "CS627",
+        "qn": "3",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is not a correct option regarding NESUSS?",
+        "op": [
+            "Vulnerable software versions",
+            "Packet capturing",
+            "Weak passwords",
+            "Misconfigured network devices"
+        ],
+        "created_at": "2026-07-07T03:11:22.534674+00:00"
+    },
+    {
+        "id": 59155,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is a Buffer Overflow?",
+        "op": [
+            "A programming error that overwrites adjacent memory locations",
+            "A type of web application vulnerability",
+            "A method used to execute shellcode",
+            "An attack on a computer's memory structure"
+        ],
+        "created_at": "2026-07-08T19:13:00.203054+00:00"
+    },
+    {
+        "id": 59159,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is \"shellcode\" in the context of Buffer Overflow Attacks?",
+        "op": [
+            "Software used to prevent buffer overflows",
+            "A type of encoding technique for data input",
+            "Code supplied by an attacker, often saved in a buffer being overflowed",
+            "A defensive programming technique"
+        ],
+        "created_at": "2026-07-08T19:13:19.626688+00:00"
+    },
+    {
+        "id": 59160,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Which type of Buffer Overflow Defense manipulates the location of key data structures?",
+        "op": [
+            "Compile-Time Defenses",
+            "Address Space Randomization",
+            "Run-Time Defenses",
+            "Safe Coding Techniques"
+        ],
+        "created_at": "2026-07-08T19:13:36.306708+00:00"
+    },
+    {
+        "id": 59162,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is a primary reason for the continued concern over Buffer Overflow Attacks?",
+        "op": [
+            "Advanced prevention techniques",
+            "Legacy code in widely deployed systems",
+            "Lack of awareness among programmers",
+            "Use of high-level programming languages"
+        ],
+        "created_at": "2026-07-08T19:13:53.094764+00:00"
+    },
+    {
+        "id": 59163,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Which of the following results in a first widely known Buffer Overflow Attack?",
+        "op": [
+            "Code Red worm",
+            "SQL Slammer",
+            "ILOVEYOU",
+            "Morris worm"
+        ],
+        "created_at": "2026-07-08T19:14:04.760938+00:00"
+    },
+    {
+        "id": 59168,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Which security flaw is NOT included in the OWASP Top 10?",
+        "op": [
+            "Un-validated Input",
+            "Denial-of-Service",
+            "Buffer Overflow",
+            "Cross-site Scripting"
+        ],
+        "created_at": "2026-07-08T19:14:17.92544+00:00"
+    },
+    {
+        "id": 59172,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is the OWASP Top 10?",
+        "op": [
+            "A list of security solutions",
+            "A list of web application security risks",
+            "Top 10 secure programming languages",
+            "A group of security experts"
+        ],
+        "created_at": "2026-07-08T19:14:49.474749+00:00"
+    },
+    {
+        "id": 59179,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Which programming practice can help in reducing software vulnerabilities?",
+        "op": [
+            "Using low-level programming languages",
+            "Not testing the software for potential vulnerabilities",
+            "Writing code with strong assumptions about inputs",
+            "Applying structured design and testing methods"
+        ],
+        "created_at": "2026-07-08T19:15:33.633916+00:00"
+    },
+    {
+        "id": 59182,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What kind of programming languages are less vulnerable to Buffer Overflow Attacks?",
+        "op": [
+            "Object-oriented languages",
+            "Low-level languages",
+            "High-level languages",
+            "Assembly languages"
+        ],
+        "created_at": "2026-07-08T19:15:48.859866+00:00"
+    },
+    {
+        "id": 59184,
+        "cc": "CS627",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is the purpose of using fuzzing as a method to identify vulnerable programs?",
+        "op": [
+            "To automate the process of finding buffer overflow vulnerabilities",
+            "To trace program execution",
+            "To inspect program source code",
+            "To enforce range checks on variables"
+        ],
+        "created_at": "2026-07-08T19:16:04.604788+00:00"
+    }
+]

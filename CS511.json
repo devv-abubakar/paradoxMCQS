@@ -1,0 +1,688 @@
+[
+{
+    "id": 27428,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The code given below is an example of Javascript event handling approach called ______ <input type=”text” name=”name” onchange=”check(this);”>",
+    "op": [
+        "Self Call",
+        "Inline Hook",
+        "Embedded Hook",
+        "Embedded Call"
+    ],
+    "created_at": "2026-06-29T19:06:45.495356+00:00"
+},
+{
+    "id": 27431,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the followings in NOT one of the valid JQuery manipulators?",
+    "op": [
+        "html()",
+        "pttrn()",
+        "attr()",
+        "text()"
+    ],
+    "created_at": "2026-06-29T19:06:55.529413+00:00"
+},
+{
+    "id": 27434,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Suppose we just want to update time on web page and want to display the current server time, then in synchronous request to web server:",
+    "op": [
+        "The entire web page will be requested and server will recreate the content of entire web page",
+        "Synchronous request is not possible in client-server communication",
+        "Server time cannot be displayed on a web page",
+        "Only the time content will be requested and server will recreate only the time content"
+    ],
+    "created_at": "2026-06-29T19:07:02.073085+00:00"
+},
+{
+    "id": 27436,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider the Javascript code below: var btnButton = document.getElementById(‘example’); btnButton.onclick = alert(‘some message’); The above code is an example of Javascript Event-Handling approach called _______",
+    "op": [
+        "Event Property Approach",
+        "Event Stack Approach",
+        "Event Localization",
+        "Inline Hook"
+    ],
+    "created_at": "2026-06-29T19:07:10.567472+00:00"
+},
+{
+    "id": 27439,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The opening and closing tags for writing PHP code in .html file are:",
+    "op": [
+        "<PHP />",
+        "<type script=txt/PHP></script>",
+        "<?PHP ?>",
+        "<PHP> </PHP>"
+    ],
+    "created_at": "2026-06-29T19:07:17.729844+00:00"
+},
+{
+    "id": 27442,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider the following code: class Painting { public $title; private $profit; public $year; public function func() { $t =$this->$title; $p =$this->$profit; $y=$this->$year; } } Identify the statement(s) that is/are not allowed.",
+    "op": [
+        "$t =$this->title;",
+        "All are allowed",
+        "$p =$this->profit;",
+        "$y=$this->year;"
+    ],
+    "created_at": "2026-06-29T19:07:36.096587+00:00"
+},
+{
+    "id": 27451,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The exact syntax of JQuery’s get() function is: Note: The three dots “…” in options represent parameters.",
+    "op": [
+        "JGet(…)",
+        "$.get(…);",
+        "$_GET[…];",
+        "$->get(…);"
+    ],
+    "created_at": "2026-06-29T19:08:24.388991+00:00"
+},
+{
+    "id": 27732,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In context of AJAX, suppose we want to load the contents of “welcome.php” file (that is residing on server) in an HTML “div” element having id “#welcomediv”, the exact syntax of the JQuery’s “load()” method will be:",
+    "op": [
+        "JQuery.load(“#welcomediv”,” welcome.php”);",
+        "$->load(“#welcomediv”,” welcome.php”);",
+        "$(“#welcomediv”).load(“welcome.php”);",
+        "load(“#welcomediv”).get(“welcome.php”);"
+    ],
+    "created_at": "2026-06-29T19:37:31.351459+00:00"
+},
+{
+    "id": 27734,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In PHP, strings can be concatenated using ____",
+    "op": [
+        "“.” Operator",
+        "“..” Operator",
+        "“~” Operator",
+        "“->” Operator"
+    ],
+    "created_at": "2026-06-29T19:37:54.265251+00:00"
+},
+{
+    "id": 27735,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The $() function (in jQuery) ___________",
+    "op": [
+        "Does not return anything",
+        "Always returns child node",
+        "Always returns a set of results",
+        "Always returns a parent node"
+    ],
+    "created_at": "2026-06-29T19:38:00.200669+00:00"
+},
+{
+    "id": 27736,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "AJAX is used to:",
+    "op": [
+        "Validate the JavaScript errors on client side code",
+        "Execute the server side code on client side",
+        "Connect with webserver without loading the whole webpage",
+        "Minimize the query strings using XML"
+    ],
+    "created_at": "2026-06-29T19:38:06.178209+00:00"
+},
+{
+    "id": 27737,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Identify the correct code that defines a static function named \"StaticFunction\" of public scope.",
+    "op": [
+        "static public function StaticFunction() {}",
+        "public static function StaticFunction() {}",
+        "static __StaticFunction() {}",
+        "public __StaticFunction() {}"
+    ],
+    "created_at": "2026-06-29T19:38:11.177391+00:00"
+},
+{
+    "id": 27739,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The function var_dump($expression) can be used for:",
+    "op": [
+        "Displaying structured information such as type and value of $expression",
+        "Duplicating value of $expression",
+        "Deleting the value of $expression",
+        "Initializing value of $expression"
+    ],
+    "created_at": "2026-06-29T19:38:17.740715+00:00"
+},
+{
+    "id": 28053,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "___________ define the tasks each instance of a class can perform and are useful since they associate behavior with objects.",
+    "op": [
+        "Constant parameters",
+        "Variables",
+        "Default values",
+        "Methods"
+    ],
+    "created_at": "2026-06-29T20:51:40.010854+00:00"
+},
+{
+    "id": 28054,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "To select all the fields from a table named “Users”, the valid SQL query will be:",
+    "op": [
+        "Find * from Users",
+        "Select * from Users",
+        "Find All from Users",
+        "Select All from Users"
+    ],
+    "created_at": "2026-06-29T20:51:49.884851+00:00"
+},
+{
+    "id": 28055,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Constants in PHP are created using:",
+    "op": [
+        "const();",
+        "constant();",
+        "final();",
+        "define();"
+    ],
+    "created_at": "2026-06-29T20:51:59.540815+00:00"
+},
+{
+    "id": 28056,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In Javascript events are handled in three phases ______",
+    "op": [
+        "Localize, Collect Arguments, Ground",
+        "Execute, Serialize, Ground",
+        "Capturing, Target, Bubbeling",
+        "Localize, Execute, Bubble"
+    ],
+    "created_at": "2026-06-29T20:52:09.122947+00:00"
+},
+{
+    "id": 28057,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider the JQuery selector: $(“#main time”) It will select:",
+    "op": [
+        "Only first <time> element that is indirect child of the element having id as “#main”",
+        "Only the last <time> element that is direct or indirect child of the element having id as “#main”",
+        "All the <time> elements that are direct or indirect child of the element having id as “#main”",
+        "Only first <time> element that is direct child of the element having id as “#main”"
+    ],
+    "created_at": "2026-06-29T20:52:28.912606+00:00"
+},
+{
+    "id": 28062,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "_______ is executed on the server side whereas _______ on client side.",
+    "op": [
+        "Javascript, PHP",
+        "CSS, PHP",
+        "PHP, Javascript",
+        "Javascript, CSS"
+    ],
+    "created_at": "2026-06-29T20:53:02.651629+00:00"
+},
+{
+    "id": 28124,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "____ makes working with Javascript and DOM easy.",
+    "op": [
+        "JQuery",
+        "Laravel",
+        "PHP",
+        "HTML"
+    ],
+    "created_at": "2026-06-29T21:31:15.280785+00:00"
+},
+{
+    "id": 28126,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Identify the exact syntax to define a static variable named \"artistcount\" of public scope is:",
+    "op": [
+        "public static $artistcount = 0;",
+        "public _$artistcount=0;",
+        "static public $artistcount = 0;",
+        "static _$artistcount=0;"
+    ],
+    "created_at": "2026-06-29T21:31:30.968282+00:00"
+},
+{
+    "id": 28128,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If you want to define a function in PHP, the function should start with:",
+    "op": [
+        "Keyword “void”",
+        "Return type of the function",
+        "Keyword “function”",
+        "Name of the function"
+    ],
+    "created_at": "2026-06-29T21:31:40.792655+00:00"
+},
+{
+    "id": 28129,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The JQuery’s “serialize()” method can be used:",
+    "op": [
+        "On any DOM element to convert it into a binary string",
+        "On DOM form element to encode it into a query string",
+        "On any HTML web page to include external JQuery scripts into the page",
+        "On any JavaScript function to call it from any part of web page"
+    ],
+    "created_at": "2026-06-29T21:31:47.853406+00:00"
+},
+{
+    "id": 28131,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In case of _________ method to send form data, the fields of form and their values are sent through query string as part of HTTP header.",
+    "op": [
+        "Send",
+        "Get",
+        "Dispatch",
+        "Post"
+    ],
+    "created_at": "2026-06-29T21:32:17.752297+00:00"
+},
+{
+    "id": 28132,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider the following JavaScript code: var node = document.getElementById(“here”); The JQuery equivalent of above code is:",
+    "op": [
+        "var node = __$(“#here”);",
+        "var node = $_Get(“#here”);",
+        "var node = $_Run(“#here”);",
+        "var node = $(“#here”);"
+    ],
+    "created_at": "2026-06-29T21:32:24.217045+00:00"
+},
+{
+    "id": 28235,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The function _________ reads entire file into a string.",
+    "op": [
+        "get_file_contents(…)",
+        "read_file_contents(…)",
+        "file_get_contents(…)",
+        "get_file(…)"
+    ],
+    "created_at": "2026-06-29T23:47:32.097894+00:00"
+},
+{
+    "id": 28236,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Identify the correct syntax to create an object of the class “Artist”.",
+    "op": [
+        "$picaso = Artist();",
+        "$picaso = Artist[];",
+        "$picaso = Alloc(Artist());",
+        "$picaso = new Artist();"
+    ],
+    "created_at": "2026-06-29T23:48:25.347741+00:00"
+},
+{
+    "id": 28257,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In PHP, by convention:",
+    "op": [
+        "The constants are written using capital letters",
+        "Constants names should start with a double underscore ( __ )",
+        "The constants are written using small letters",
+        "Constants names should start with a single underscore ( _ )"
+    ],
+    "created_at": "2026-06-30T00:03:43.063696+00:00"
+},
+{
+    "id": 28295,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Consider the following code written using JQuery: $(“p.warning”).html(“No Warning”); When the above line is executed:",
+    "op": [
+        "Text of all the <p> tags having style named “warning” will be updated to “No Warning”",
+        "Text of all the <p> tags having class “warning” will be updated to “No Warning”",
+        "Text of all the <p> tags having id “warning” will be updated to “No Warning”",
+        "Text of all the <p> tags having tag name “warning” will be updated to “No Warning”"
+    ],
+    "created_at": "2026-06-30T00:19:18.402708+00:00"
+},
+{
+    "id": 28296,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "val() manipulator in JQuery is used for getting/setting ______",
+    "op": [
+        "Values of elements having value property",
+        "Values of textbox elements",
+        "Values of elements having innerHTML property",
+        "Values of all elements"
+    ],
+    "created_at": "2026-06-30T00:21:33.419696+00:00"
+},
+{
+    "id": 28413,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In context of PHP, what does the following statement do? define (“MY_DB”, “localhost”);",
+    "op": [
+        "Creates a database named “MY_DB” on “localhost” server",
+        "Defines a new localhost webserver and names it as “MY_DB”",
+        "Defines a constant named “MY_DB” and assigns it the value “localhost”*",
+        "Creates a database named “localhost” on “MY_DB” server"
+    ],
+    "created_at": "2026-06-30T01:01:10.370168+00:00"
+},
+{
+    "id": 28414,
+    "cc": "CS511",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is NOT a server side technology?",
+    "op": [
+        "JavaScript",
+        "PHP",
+        "ASP",
+        "ASP.NET"
+    ],
+    "created_at": "2026-06-30T01:01:23.858876+00:00"
+},
+{
+    "id": 49240,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of AJAX, the ________ event is fired on a HTML document when the load state of the page's content has changed.",
+    "op": [
+        "onstatusupdate",
+        "onstateupdate",
+        "onstatuschange",
+        "onreadystatechange"
+    ],
+    "created_at": "2026-07-05T19:34:35.329124+00:00"
+},
+{
+    "id": 49261,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Suppose we want to check that the variable named “USER” is set (or not) in session. Identify the correct statement for this purpose.",
+    "op": [
+        "if($_SESSION_SET[‘USER’]) {}",
+        "if(isset($_SESSION[‘USER’])) {}",
+        "if(!$_SESSION_SET[‘USER’]) {}",
+        "if(notset($_SESSION[‘USER’])) {}"
+    ],
+    "created_at": "2026-07-05T19:35:16.002978+00:00"
+},
+{
+    "id": 49263,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In PHP, the super global array for storing session’s data is ____",
+    "op": [
+        "$_LOCAL",
+        "$_SESSION_POOL",
+        "$_BUFFER",
+        "$_SESSION"
+    ],
+    "created_at": "2026-07-05T19:35:23.686819+00:00"
+},
+{
+    "id": 49279,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Cookies are a way to store data ____",
+    "op": [
+        "On ISP’s in-proc server",
+        "In javascript",
+        "On client side",
+        "In SSL server memory"
+    ],
+    "created_at": "2026-07-05T19:35:51.571423+00:00"
+},
+{
+    "id": 49284,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "AJAX requests are initiated __________",
+    "op": [
+        "On ISP’s in-proc server",
+        "In CSS classes",
+        "On client side",
+        "In SSL server memory"
+    ],
+    "created_at": "2026-07-05T19:36:01.706981+00:00"
+},
+{
+    "id": 49287,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "By maintaining the sessions, the server can track the _____",
+    "op": [
+        "PHP Validation Regex",
+        "States of the user",
+        "CSS Interactive states",
+        "JavaScript Routing Mechanism"
+    ],
+    "created_at": "2026-07-05T19:36:10.17702+00:00"
+},
+{
+    "id": 49300,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "HTML5 gives us web storage to store data on client’s machine in the form of:",
+    "op": [
+        "DOM tree",
+        "Key/value pair",
+        "Javascript variables",
+        "CSS classes"
+    ],
+    "created_at": "2026-07-05T19:36:23.805035+00:00"
+},
+{
+    "id": 49312,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of Web Application Design, the 3-layer Model comprises of:",
+    "op": [
+        "HTML Layer, Javascript Layer, CSS Layer",
+        "Server Layer, HTTP Layer, Database Layer",
+        "Presentation Layer, Business Layer, Data Layer",
+        "Browser Layer, HTTP Layer, Server Layer"
+    ],
+    "created_at": "2026-07-05T19:36:57.659665+00:00"
+},
+{
+    "id": 49314,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the followings is NOT one of the states of XHR object in context of AJAX?",
+    "op": [
+        "OPENED",
+        "PROCESSING",
+        "UNSET",
+        "LOADING"
+    ],
+    "created_at": "2026-07-05T19:37:04.580656+00:00"
+},
+{
+    "id": 49321,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In PHP a user session on server is started using:",
+    "op": [
+        "session_start()",
+        "session_begin()",
+        "execute_session()",
+        "invoke_session()"
+    ],
+    "created_at": "2026-07-05T19:37:17.305338+00:00"
+},
+{
+    "id": 68162,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "Consider the following code: class Painting { public $title; private $profit; public $year; public function func() {  t =this->$title; p =this->$profit; y=this->$year; } } Identify the statement(s) that is/are not allowed. ",
+    "op": [
+        "All are allowed",
+        "t =this->title;",
+        "p =this->profit;",
+        "y=this->year;"
+    ],
+    "created_at": "2026-07-15T13:27:31.462933+00:00"
+},
+{
+    "id": 68166,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "What will be the output of following code? <?php $product=\"box\"; $weight =1.56789; printf(\"The %s is %.2f pounds\", product,weight); ?> ",
+    "op": [
+        "The box is 1.60 pounds",
+        "The box is 2.00 pounds",
+        "The box is 1.57 pounds",
+        "The box is 1.56 pounds"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68167,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "The output of the following code will be: <?php $initial = 15; func($initial); echo $initial ; function func(&$i) { i=i+300; } ?> ",
+    "op": [
+        "300",
+        "315",
+        "Error",
+        "15"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68168,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "Consider the following code: <?php class T { public $fn; } $myt = new T(); ?> What will be the valid statement to assign a value \"PHP\" to $fn data member of class “T”? ",
+    "op": [
+        "$myt->fn = \"PHP\"",
+        "$myt-fn = \"PHP\"",
+        "$myt.fn = \"PHP\"",
+        "$myt:fn = \"PHP\""
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68209,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "What will be the output of following code? <?php $product=\"box\"; $weight =1.56789; printf(\"The %s is %.2f pounds\", $product,$weight); ?> ",
+    "op": [
+        "The box is 1.56 pounds",
+        "The box is 1.60 pounds",
+        "The box is 2.00 pounds",
+        "The box is 1.57 pounds"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68210,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "Consider the following code: class Painting { public $title; private $profit; public $year; public function func() {  $t = $this->$title; $p = $this->$profit; $y= $this->$year; } } Identify the statement(s) that is/are not allowed. ",
+    "op": [
+        "$t = $this->title;",
+        "All are allowed",
+        "$y= $this->year;",
+        "$p = $this->profit;"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68222,
+    "cc": "CS511",
+    "qn": "4",
+    "dt": "03 January 2026",
+    "qt": "The output of the following code will be: <?php $initial = 15; func($initial); echo $initial ; function func(&$i) { $i=$i+300; } ?> ",
+    "op": [
+        "300",
+        "Error",
+        "15",
+        "315"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+}
+]

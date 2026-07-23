@@ -1,0 +1,1710 @@
+[
+{
+    "id": 30746,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A join is identified by multiple tables in the ____ clause",
+    "op": [
+        "SORT BY",
+        "GROUP BY",
+        "SELECT",
+        "FROM"
+    ],
+    "created_at": "2026-06-30T19:00:54.168049+00:00"
+},
+{
+    "id": 30758,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is not an activity of Data Quality Analysis Project?",
+    "op": [
+        "“Analyze”",
+        "“Measure”",
+        "“Compression”",
+        "“Define”"
+    ],
+    "created_at": "2026-06-30T19:01:22.607821+00:00"
+},
+{
+    "id": 30777,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Bitmap index is appropriate for:",
+    "op": [
+        "Low cardinality data",
+        "High cardinality data",
+        "Aggregated data",
+        "Clustered data"
+    ],
+    "created_at": "2026-06-30T19:01:53.066609+00:00"
+},
+{
+    "id": 30803,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_______ index uses even less space than ______ index, but the block has to be searched, even for unsuccessful searches.",
+    "op": [
+        "Dense, sparse",
+        "Sparse, dense",
+        "Dense, inverted",
+        "Sparse, inverted"
+    ],
+    "created_at": "2026-06-30T19:02:22.102327+00:00"
+},
+{
+    "id": 30818,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is not an “Orr’s Law of Data Quality”?",
+    "op": [
+        "“Data will be no better than its most stringent use!”",
+        "“Data that is not used cannot be correct!”",
+        "“Data duplication can be harmful for the organization!”",
+        "“Data quality is a function of its use, not its collection!”"
+    ],
+    "created_at": "2026-06-30T19:02:48.588519+00:00"
+},
+{
+    "id": 30837,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_____________ is the degree to which data accurately reflects the real-world object that the data represents.",
+    "op": [
+        "Intrinsic Data Quality",
+        "Strong Data Quality",
+        "Weak Data Quality",
+        "Realistic Data Quality"
+    ],
+    "created_at": "2026-06-30T19:03:17.119565+00:00"
+},
+{
+    "id": 30853,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Parallelism can be exploited, if there is:",
+    "op": [
+        "Sufficient I/O bandwidth",
+        "Symmetric multi-processors (SMP)",
+        "Underutilized or intermittently used CPUs",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-30T19:03:47.935546+00:00"
+},
+{
+    "id": 30868,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "One of the main reasons for the failure of DWH deployments is ______________.",
+    "op": [
+        "Data duplication",
+        "Data anomaly",
+        "Data integrity",
+        "Data quality"
+    ],
+    "created_at": "2026-06-30T19:04:21.620678+00:00"
+},
+{
+    "id": 30883,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "______________ incorporates the concept of product quality, process control, quality assurance, and quality improvement.",
+    "op": [
+        "Realistic Data Quality Management",
+        "Strong Data Quality Management",
+        "Intrinsic Data Quality Management",
+        "Total Quality Management"
+    ],
+    "created_at": "2026-06-30T19:04:51.272398+00:00"
+},
+{
+    "id": 31289,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "______________ is the extent to which data is regarded as true and credible.",
+    "op": [
+        "Completeness",
+        "Accessibility",
+        "Believability",
+        "Consistency"
+    ],
+    "created_at": "2026-06-30T19:18:37.579449+00:00"
+},
+{
+    "id": 31293,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In context of data parallelism, to get a speed-up of N with N partitions, it must be ensured that:",
+    "op": [
+        "Work done in each partition almost same",
+        "Query-coordinator is very fast as compared to query servers",
+        "There are enough computing resources",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-30T19:18:45.964978+00:00"
+},
+{
+    "id": 31298,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "___________is a/an measure of how current or up to date the data is.",
+    "op": [
+        "Accessibility",
+        "Timeliness",
+        "Completeness",
+        "Consistency"
+    ],
+    "created_at": "2026-06-30T19:18:55.391275+00:00"
+},
+{
+    "id": 31301,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_______ do not (typically) keep the index values in sorted order",
+    "op": [
+        "Sparse index",
+        "Dense index",
+        "B-Tree index",
+        "Hash based index"
+    ],
+    "created_at": "2026-06-30T19:18:57.678512+00:00"
+},
+{
+    "id": 31304,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ in a database or data warehouse has no actual value; it only has potential value.",
+    "op": [
+        "Data",
+        "Data marts",
+        "Flat tables",
+        "Entity"
+    ],
+    "created_at": "2026-06-30T19:19:04.240448+00:00"
+},
+{
+    "id": 31305,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is NOT one of the parallel hardware architectures?",
+    "op": [
+        "Shared Memory",
+        "Symmetric Multi Processing",
+        "Massively Parallel Processing",
+        "Non-uniform Memory Access"
+    ],
+    "created_at": "2026-06-30T19:19:13.685406+00:00"
+},
+{
+    "id": 31306,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The exact formula for Speed-up is:",
+    "op": [
+        "(Time on Serial Processor) / (Time on parallel processors)",
+        "(Time on Serial Processor) * (Time on parallel processors)",
+        "(Time on Serial Processor) + (Time on parallel processors)",
+        "(Time on Serial Processor) - (Time on parallel processors)"
+    ],
+    "created_at": "2026-06-30T19:19:13.900007+00:00"
+},
+{
+    "id": 31316,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An optimized structure which is built primarily for retrieval, with update being only a secondary consideration is",
+    "op": [
+        "DSS",
+        "OLTP",
+        "Inverted Index",
+        "OLAP"
+    ],
+    "created_at": "2026-06-30T19:19:44.576871+00:00"
+},
+{
+    "id": 31320,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Assume a company with a multi-million row customer table i.e. n rows. Checking for Referential Integrity (RI) using a naive approach would take _______________ time.",
+    "op": [
+        "O(1)",
+        "O(log n)",
+        "None of the given",
+        "O(n)"
+    ],
+    "created_at": "2026-06-30T19:19:54.209551+00:00"
+},
+{
+    "id": 31321,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Data is the “_____________” on which a Data Warehouse (DWH) runs.",
+    "op": [
+        "Element",
+        "Entity",
+        "Fuel",
+        "Component"
+    ],
+    "created_at": "2026-06-30T19:19:58.111286+00:00"
+},
+{
+    "id": 31326,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If a task takes “T” time units to execute on a single data item, then execution of this task on “N” data items will take _______ time units.",
+    "op": [
+        "N+T",
+        "N/T",
+        "N*T",
+        "N-T"
+    ],
+    "created_at": "2026-06-30T19:20:05.860879+00:00"
+},
+{
+    "id": 31328,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In context of bitmap index, the length of the bit vector is:",
+    "op": [
+        "The possible number of bitmap tables formed for corresponding field (column)",
+        "The possible number of domain values in corresponding field (column)",
+        "The number of records in the base table",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-30T19:20:09.354091+00:00"
+},
+{
+    "id": 31329,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ is known as state of being only one of its kind or being without an equal or parallel.",
+    "op": [
+        "Consistency",
+        "Completeness",
+        "Accessibility",
+        "Uniqueness"
+    ],
+    "created_at": "2026-06-30T19:20:11.140685+00:00"
+},
+{
+    "id": 31334,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If a product meets formally defined \"requirement specifications,\" yet fails to be a quality product from the customers' perspective, this means the requirements were________.",
+    "op": [
+        "Unclear",
+        "Unrefined",
+        "Undefined",
+        "Defective"
+    ],
+    "created_at": "2026-06-30T19:20:17.693189+00:00"
+},
+{
+    "id": 31338,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The ___________ operator proves useful in more complex metrics applicable to the dimensions of timeliness and accessibility.",
+    "op": [
+        "None of given",
+        "Min and Max",
+        "Min",
+        "Max"
+    ],
+    "created_at": "2026-06-30T19:20:38.141053+00:00"
+},
+{
+    "id": 31340,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In B-tree index, the lowest level index blocks are called leaf blocks, and these blocks contain:",
+    "op": [
+        "Every indexed data value and a corresponding ROWID",
+        "Every indexed data value and pointer to next level block",
+        "Every indexed data value and pointer to root block",
+        "NULL value to make the leaf terminal node"
+    ],
+    "created_at": "2026-06-30T19:20:47.127302+00:00"
+},
+{
+    "id": 31344,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "__________ is making all efforts to increase effectiveness and efficiency in meeting accepted customer expectations.",
+    "op": [
+        "Quality Establishment",
+        "Quality Maintenance",
+        "Quality assurance",
+        "Quality improvement"
+    ],
+    "created_at": "2026-06-30T19:20:57.600423+00:00"
+},
+{
+    "id": 31354,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "One of the preconditions to decide about operations to be parallelized is that:",
+    "op": [
+        "Operations share same namespace",
+        "Operations can be implemented independent of each other",
+        "Operations share same memory location",
+        "Output of one operation becomes input of other"
+    ],
+    "created_at": "2026-06-30T19:21:30.821579+00:00"
+},
+{
+    "id": 31367,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In nested-loop join case, if there are ‘M’ rows in outer table and ‘N’ rows in inner table, time complexity is",
+    "op": [
+        "O (M log N)",
+        "O (log MN)",
+        "O (M + N)",
+        "O (MN)"
+    ],
+    "created_at": "2026-06-30T19:21:59.997464+00:00"
+},
+{
+    "id": 31722,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Most DWH implementations today do not use ______________ enforced by the database, but as TQM methods improve overall data quality and database optimizers.",
+    "op": [
+        "Using Data Quality Rules",
+        "Attribute domain",
+        "Consistency Integrity",
+        "Referential Integrity"
+    ],
+    "created_at": "2026-06-30T19:36:05.758391+00:00"
+},
+{
+    "id": 31743,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If every key in the data file is represented in the index file then it is called",
+    "op": [
+        "Sparse Index",
+        "A Multi level Sparse Index",
+        "Dense Index",
+        "Inverted Index"
+    ],
+    "created_at": "2026-06-30T19:36:25.185406+00:00"
+},
+{
+    "id": 31749,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_______ refers to “Parallel execution of single data operation across multiple partitions of data”",
+    "op": [
+        "Hardware parallelism",
+        "Software parallelism",
+        "Data parallelism",
+        "Operational parallelism"
+    ],
+    "created_at": "2026-06-30T19:36:35.369507+00:00"
+},
+{
+    "id": 31772,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As the number of processors increase, the speedup should also increase. Thus we should have linear speedup. Which of the following is NOT one of the barriers to achieve this linear speed-up?",
+    "op": [
+        "Skew",
+        "Amdahl’ Law",
+        "Startup",
+        "No Interference"
+    ],
+    "created_at": "2026-06-30T19:37:08.38641+00:00"
+},
+{
+    "id": 32071,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is NOT one of the variants of Nested-loop join?",
+    "op": [
+        "Binary index nested-loop join",
+        "Indexed nested-loop join",
+        "Naïve nested-loop join",
+        "Temporary index nested-loop join"
+    ],
+    "created_at": "2026-06-30T19:55:29.33857+00:00"
+},
+{
+    "id": 32073,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_________ lists each term in the collection only once and then shows a list of all the documents that contain the given term.",
+    "op": [
+        "Join index",
+        "Bitmap index",
+        "Cluster index",
+        "Inverted index"
+    ],
+    "created_at": "2026-06-30T19:55:42.097929+00:00"
+},
+{
+    "id": 32076,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_____________ is the degree of utility and value the data has to support the enterprise processes that enable accomplishing enterprise objectives.",
+    "op": [
+        "Intrinsic Data Quality",
+        "Weak Data Quality",
+        "Realistic Data Quality",
+        "Strong Data Quality"
+    ],
+    "created_at": "2026-06-30T19:55:51.911555+00:00"
+},
+{
+    "id": 32085,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In context of data parallelism, the work done by query processor should be:",
+    "op": [
+        "Pipelined",
+        "Maximum",
+        "Filtered across partitions",
+        "Almost zero"
+    ],
+    "created_at": "2026-06-30T19:56:52.179494+00:00"
+},
+{
+    "id": 32578,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "“If resources increase in proportion to increase in data size, time is constant”. The statement refers to:",
+    "op": [
+        "Size-up",
+        "Scale-Up",
+        "Speed-Up",
+        "Over-utilized system"
+    ],
+    "created_at": "2026-06-30T21:35:18.099449+00:00"
+},
+{
+    "id": 32582,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which is not a/an characteristics of data quality?",
+    "op": [
+        "Accessibility",
+        "Reliability",
+        "Consistency",
+        "Uniqueness"
+    ],
+    "created_at": "2026-06-30T21:37:49.178611+00:00"
+},
+{
+    "id": 32584,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Two interesting examples of quality dimensions that can make use of the min operator are _________________.",
+    "op": [
+        "Reliability and appropriate amount of data",
+        "Believability and Consistency",
+        "Believability and appropriate amount of data",
+        "Believability and Redundancy"
+    ],
+    "created_at": "2026-06-30T21:38:29.618079+00:00"
+},
+{
+    "id": 32586,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The ____________ dimension represents data correctness.",
+    "op": [
+        "Correctness",
+        "Consistency",
+        "Completeness",
+        "Free-of-error"
+    ],
+    "created_at": "2026-06-30T21:39:10.127155+00:00"
+},
+{
+    "id": 32602,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which is not a/an Data Quality Validation Technique?",
+    "op": [
+        "Referential Integrity",
+        "Attribute domain",
+        "Consistency Integrity",
+        "Using Data Quality Rules"
+    ],
+    "created_at": "2026-06-30T21:51:19.565212+00:00"
+},
+{
+    "id": 32903,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A ______ index, if fits in the memory, costs only one disk I/O access to locate a record given a key.",
+    "op": [
+        "B-Tree",
+        "Sparse",
+        "Dense",
+        "Hash"
+    ],
+    "created_at": "2026-07-01T00:11:05.446236+00:00"
+},
+{
+    "id": 32905,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "“More resources means proportionally less time for given amount of data”. The statement refers to:",
+    "op": [
+        "Speed-Up",
+        "Scale-Up",
+        "Over-utilized system",
+        "Size-up"
+    ],
+    "created_at": "2026-07-01T00:11:39.543962+00:00"
+},
+{
+    "id": 33030,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The _________ operator is conservative in that it assigns to the dimension an aggregate value no higher than the value of its weakest data quality indicator.",
+    "op": [
+        "Min and Max",
+        "Min",
+        "Max",
+        "None of given"
+    ],
+    "created_at": "2026-07-01T00:49:16.686935+00:00"
+},
+{
+    "id": 33049,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In context of joining tables, the join condition is specified in ____ clause",
+    "op": [
+        "SELECT",
+        "GROUP BY",
+        "FROM",
+        "WHERE"
+    ],
+    "created_at": "2026-07-01T00:54:25.140072+00:00"
+},
+{
+    "id": 33207,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In context of nested-loop join, actual number of matching rows returned as a result of the join would be ______ of the order of tables",
+    "op": [
+        "Superset",
+        "Independent",
+        "Dependent",
+        "Subset"
+    ],
+    "created_at": "2026-07-01T01:27:51.518593+00:00"
+},
+{
+    "id": 33340,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In ______ index, the ith bit is set to \"1\" if the ith row of the base table has the value for the indexed column.",
+    "op": [
+        "Cluster index",
+        "Join index",
+        "Bitmap index",
+        "Inverted index"
+    ],
+    "created_at": "2026-07-01T01:53:49.628957+00:00"
+},
+{
+    "id": 33346,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "______ index stores first value in each block in the sequential file and a pointer to the block.",
+    "op": [
+        "B-Tree",
+        "Hash",
+        "Dense",
+        "Sparse"
+    ],
+    "created_at": "2026-07-01T01:54:43.355968+00:00"
+},
+{
+    "id": 33446,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The optimizer uses a hash join to join two tables if they are joined using an equijoin and",
+    "op": [
+        "Inner table has less number of rows",
+        "Large amount of data needs to be joined",
+        "Cardinality of tables is equal",
+        "Outer table has less number of rows"
+    ],
+    "created_at": "2026-07-01T02:07:57.907226+00:00"
+},
+{
+    "id": 33556,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The degree to which values are present in the attributes that require them is known as ____________.",
+    "op": [
+        "Uniqueness",
+        "Consistency",
+        "Accessibility",
+        "Completeness"
+    ],
+    "created_at": "2026-07-01T02:32:37.463374+00:00"
+},
+{
+    "id": 33559,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following tasks can NOT be parallelized?",
+    "op": [
+        "Partitioned index scans",
+        "None of the given options",
+        "Creation of large indexes",
+        "Large table scans and joins"
+    ],
+    "created_at": "2026-07-01T02:34:09.399119+00:00"
+},
+{
+    "id": 33561,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The extent to which data is in appropriate languages, symbols, and units, and the definitions are clear is known as _______________.",
+    "op": [
+        "Accessibility",
+        "Consistency",
+        "Interpretability",
+        "Uniqueness"
+    ],
+    "created_at": "2026-07-01T02:34:27.750943+00:00"
+},
+{
+    "id": 33660,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is not a Data Quality Validation Technique?",
+    "op": [
+        "Using Data Quality Rules",
+        "Indexes",
+        "Referential Integrity",
+        "Data Histograming"
+    ],
+    "created_at": "2026-07-01T02:55:05.494697+00:00"
+},
+{
+    "id": 33903,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "__________ is a system of activities that assures conformance of product to pre-established requirements.",
+    "op": [
+        "Quality improvement",
+        "Quality Establishment",
+        "Quality Maintenance",
+        "Quality assurance"
+    ],
+    "created_at": "2026-07-01T03:39:10.718793+00:00"
+},
+{
+    "id": 48632,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Improper documentation results the problem(s) like:",
+    "op": [
+        "All of the given options",
+        "New developers unable to configure already existing code",
+        "Maintenance issue",
+        "Lot of time required for enhancing the code"
+    ],
+    "created_at": "2026-07-05T19:18:02.15503+00:00"
+},
+{
+    "id": 48654,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In contrast to data mining, statistics is ______ driven.",
+    "op": [
+        "Assumption",
+        "Discovery",
+        "Knowledge",
+        "Database"
+    ],
+    "created_at": "2026-07-05T19:18:25.351511+00:00"
+},
+{
+    "id": 48669,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In lifecycle data track, we begin with translating the requirements into dimensional model, which then transforms into ______",
+    "op": [
+        "Conceptual structure",
+        "System structure",
+        "Physical structure",
+        "Logical structure"
+    ],
+    "created_at": "2026-07-05T19:18:42.382343+00:00"
+},
+{
+    "id": 48705,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The phase-3 i.e. “Rollout and Maintenance” phase in “12-steps data warehouse implementation approach” of Shaku Atre comprises of _______ activity.",
+    "op": [
+        "None of the given options",
+        "Deployment & System Management",
+        "On Line Analytical Processing",
+        "Construct Metadata Repository"
+    ],
+    "created_at": "2026-07-05T19:19:20.085714+00:00"
+},
+{
+    "id": 48730,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of analytical applications track, the application development activity can begin after:",
+    "op": [
+        "A subset of historical data has been loaded",
+        "Database design is complete",
+        "All of the given options",
+        "The data access tools and metadata are installed"
+    ],
+    "created_at": "2026-07-05T19:20:01.158987+00:00"
+},
+{
+    "id": 48731,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following activity executes parallel with all other activities in Kimball’s DWH development approach?",
+    "op": [
+        "Deployment",
+        "Project Planning",
+        "Requirement elicitation",
+        "Project management"
+    ],
+    "created_at": "2026-07-05T19:20:02.733898+00:00"
+},
+{
+    "id": 48752,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of data mining definition, the term “nontrivial” means:",
+    "op": [
+        "Discovering information is a simple task",
+        "Discovering information is a complex task",
+        "We can not discover information",
+        "We simply find things rather than discovery"
+    ],
+    "created_at": "2026-07-05T19:20:26.376374+00:00"
+},
+{
+    "id": 48768,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Bill Inmon argues that requirements are well understood only after",
+    "op": [
+        "Data warehouse is populated",
+        "They extracted and verified",
+        "All the schemas are defined",
+        "They are documented"
+    ],
+    "created_at": "2026-07-05T19:20:40.045189+00:00"
+},
+{
+    "id": 48779,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following activity/activities is/are part of project planning phase in Kimballs DWH development approach?",
+    "op": [
+        "Establish the preliminary scope and justification",
+        "Assess organization's readiness for a data warehouse initiative",
+        "All of the given options",
+        "Obtain resources"
+    ],
+    "created_at": "2026-07-05T19:20:50.737887+00:00"
+},
+{
+    "id": 48783,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of the most fundamental data warehouse life cycle model, which of the following is NOT one of the data warehouse design activities?",
+    "op": [
+        "End-user interviews and re-interviews",
+        "Source system cataloguing",
+        "System vision development",
+        "Definition of key performance indicators"
+    ],
+    "created_at": "2026-07-05T19:21:01.293651+00:00"
+},
+{
+    "id": 48799,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Mining multi dimensional databases allow users to:",
+    "op": [
+        "Analyze the data",
+        "Summarize the data",
+        "All of the given options",
+        "Categorize the data"
+    ],
+    "created_at": "2026-07-05T19:21:24.747474+00:00"
+},
+{
+    "id": 48804,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "As per Kimball, ______ is the main operational process",
+    "op": [
+        "Schema design",
+        "Requirement extraction",
+        "Business process",
+        "Goal design"
+    ],
+    "created_at": "2026-07-05T19:21:28.616826+00:00"
+},
+{
+    "id": 48814,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "As per Bill Inmon, a data warehouse, in contrast with classical applications is:",
+    "op": [
+        "Resource driven",
+        "Time sensitive",
+        "Data driven",
+        "Requirement driven"
+    ],
+    "created_at": "2026-07-05T19:21:41.333645+00:00"
+},
+{
+    "id": 48815,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The first step of the “12-steps data warehouse implementation approach” of Shaku Atre is:",
+    "op": [
+        "Data acquisition and cleansing",
+        "Planning system resources",
+        "Finding system scope",
+        "Finding user needs"
+    ],
+    "created_at": "2026-07-05T19:21:42.084391+00:00"
+},
+{
+    "id": 48823,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Vertically wide data means:",
+    "op": [
+        "Dataset has partitioning skews",
+        "Dataset has attribute skews",
+        "Dataset has large no. of attributes",
+        "Dataset has large no. of records"
+    ],
+    "created_at": "2026-07-05T19:21:56.594761+00:00"
+},
+{
+    "id": 48824,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the activities of “Maintenance and Growth” phase in Kimball’s DWH development approach?",
+    "op": [
+        "Technical Education",
+        "Program Support",
+        "Education",
+        "Interface Deployment"
+    ],
+    "created_at": "2026-07-05T19:21:57.066857+00:00"
+},
+{
+    "id": 48829,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Waterfall is a/an ______ model",
+    "op": [
+        "Iterative",
+        "Object Oriented",
+        "Rapid development",
+        "Simple linear sequential"
+    ],
+    "created_at": "2026-07-05T19:22:10.472602+00:00"
+},
+{
+    "id": 48833,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The _______ phase of fundamental data warehouse life cycle model includes data warehouse daily maintenance activities",
+    "op": [
+        "Enhancement",
+        "Deployment",
+        "Maintenance",
+        "Operation"
+    ],
+    "created_at": "2026-07-05T19:22:13.432403+00:00"
+},
+{
+    "id": 48849,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An effective user education program includes, among others, the following guideline(s):",
+    "op": [
+        "All of the given options",
+        "Understand the audience, don’t overwhelm",
+        "Train after delivery of data and analytic applications",
+        "Postpone education, if DWH not ready"
+    ],
+    "created_at": "2026-07-05T19:22:33.819881+00:00"
+},
+{
+    "id": 49099,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ is the technique in which existing heterogeneous segments are reshuffled, relocated into homogeneous segments.",
+    "op": [
+        "Aggregation",
+        "Partitioning",
+        "Segmentation",
+        "Clustering"
+    ],
+    "created_at": "2026-07-05T19:29:38.277935+00:00"
+},
+{
+    "id": 49103,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the possible pitfalls in DWH Life Cycle & Development?",
+    "op": [
+        "Not having multiple servers",
+        "None of the given options",
+        "Low priority for OLAP Cube Construction",
+        "Improper documentation"
+    ],
+    "created_at": "2026-07-05T19:29:48.501519+00:00"
+},
+{
+    "id": 49109,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Technical architecture design supports the communication about technical requirements: \nI) Within the team\nII) Upward to management\nIII) Outward to vendors",
+    "op": [
+        "(I) only",
+        "(III) Only",
+        "(II) Only",
+        "(I), (II) and (III)"
+    ],
+    "created_at": "2026-07-05T19:30:03.698864+00:00"
+},
+{
+    "id": 49122,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Normally the term “DWH face to the business user” refers to:",
+    "op": [
+        "Lifecycle technology track",
+        "Lifecycle Analytical Applications track",
+        "Lifecycle Maintenance track",
+        "Lifecycle Data track"
+    ],
+    "created_at": "2026-07-05T19:30:29.393617+00:00"
+},
+{
+    "id": 49131,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Normally the input data structure (a database table) for a data mining algorithm:",
+    "op": [
+        "Has more number of records than attributes",
+        "Has more number of attributes than records",
+        "Has limited amount of relations",
+        "Has limited amount of data"
+    ],
+    "created_at": "2026-07-05T19:30:40.380115+00:00"
+},
+{
+    "id": 49160,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of clustering, the term “distance” means:",
+    "op": [
+        "The relation of a record with corresponding record in child table",
+        "None of the given options",
+        "The difference between the primary keys of two records",
+        "Similarity/dissimilarly of records"
+    ],
+    "created_at": "2026-07-05T19:31:32.231765+00:00"
+},
+{
+    "id": 49169,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of data mining definition, the term “value” means:",
+    "op": [
+        "Importance of hidden patterns discovered",
+        "The index location of the record",
+        "Numerical or string measure assigned to an attribute",
+        "The primary key of table"
+    ],
+    "created_at": "2026-07-05T19:31:52.178927+00:00"
+},
+{
+    "id": 49648,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Waterfall model is appropriate when",
+    "op": [
+        "When resources are limited",
+        "When the budget is low",
+        "Requirements are clearly defined",
+        "When the deadline is strict"
+    ],
+    "created_at": "2026-07-05T19:49:49.962711+00:00"
+},
+{
+    "id": 49653,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Goal driven approach of data warehouse development was result of ______ work",
+    "op": [
+        "Bill Inmon",
+        "Ralph Kimball",
+        "Böhnlein and Ulbrich-vom",
+        "Westerman"
+    ],
+    "created_at": "2026-07-05T19:49:57.354819+00:00"
+},
+{
+    "id": 49667,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Users do not care, how advance the front end of your DWH is, what they care is that:",
+    "op": [
+        "Tables should be properly denormalized",
+        "They should get information in timely manner and the way they want",
+        "Proper partitioning technique should be used",
+        "At least star or snow flake schema should be implemented"
+    ],
+    "created_at": "2026-07-05T19:50:31.12567+00:00"
+},
+{
+    "id": 49669,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "“What means What”. The phrase refers to:",
+    "op": [
+        "Transformed data",
+        "Internal representations",
+        "Meta data",
+        "External data"
+    ],
+    "created_at": "2026-07-05T19:50:36.785658+00:00"
+},
+{
+    "id": 49681,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of requirement definition phase of Kimball’s DWH development approach, ________ is positioned as a findings review and prioritization meeting.",
+    "op": [
+        "Requirement configuration",
+        "Requirements wrap-up presentation",
+        "Scope definition",
+        "System analysis"
+    ],
+    "created_at": "2026-07-05T19:51:21.675843+00:00"
+},
+{
+    "id": 49684,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A typical cycle of implementing the change in DWH comprises of the sequence:",
+    "op": [
+        "Production -> QA -> Development",
+        "Production -> Development -> QA",
+        "Development-> QA -> Production",
+        "Development -> Production -> QA"
+    ],
+    "created_at": "2026-07-05T19:51:28.349669+00:00"
+},
+{
+    "id": 49687,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is/are example(s) of static attributes?",
+    "op": [
+        "Employee Date of Birth",
+        "Employee Name",
+        "Employee blood Group",
+        "All of the given options"
+    ],
+    "created_at": "2026-07-05T19:51:34.928185+00:00"
+},
+{
+    "id": 49699,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the methodologies for Data Warehouse project development?",
+    "op": [
+        "Data Driven",
+        "Goal Driven",
+        "System Driven",
+        "User Driven"
+    ],
+    "created_at": "2026-07-05T19:52:16.19361+00:00"
+},
+{
+    "id": 49707,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In data mining, initially you _____ what you are looking for.",
+    "op": [
+        "May or may not know",
+        "None of the given options",
+        "Know",
+        "Don’t know"
+    ],
+    "created_at": "2026-07-05T19:52:34.339169+00:00"
+},
+{
+    "id": 49713,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the three parallel tracks in Kimballs approach?",
+    "op": [
+        "Lifecycle Maintenance track",
+        "Lifecycle Data track",
+        "Lifecycle technology track",
+        "Lifecycle Analytical Applications track"
+    ],
+    "created_at": "2026-07-05T19:52:45.58688+00:00"
+},
+{
+    "id": 49718,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ refers to the overall process of discovering useful knowledge from data and data mining refers to a particular step in this process.",
+    "op": [
+        "Statistics",
+        "Clustering",
+        "Information cleansing",
+        "Knowledge discovery in database"
+    ],
+    "created_at": "2026-07-05T19:53:09.420677+00:00"
+},
+{
+    "id": 49721,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In ________learning you don’t know the number of clusters and no idea about their attributes.",
+    "op": [
+        "Supervised learning",
+        "Multi Dimension modeling",
+        "None of the given options",
+        "Unsupervised learning"
+    ],
+    "created_at": "2026-07-05T19:53:21.431443+00:00"
+},
+{
+    "id": 49734,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A top down implementation approach is useful when",
+    "op": [
+        "Technology is mature and well understood",
+        "Business objectives are unclear",
+        "Problem to be solved are not well documented",
+        "Organization can not implement latest technologies"
+    ],
+    "created_at": "2026-07-05T19:54:08.988036+00:00"
+},
+{
+    "id": 49823,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____ says that as far as company goals are concerned, the entire company pursues in the same direction",
+    "op": [
+        "Bohnlein",
+        "Kimball",
+        "Bill Inmon",
+        "Westerman"
+    ],
+    "created_at": "2026-07-05T19:57:49.192866+00:00"
+},
+{
+    "id": 49991,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Horizontally wide data means:",
+    "op": [
+        "Dataset has large no. of records",
+        "Dataset has attribute skews",
+        "Dataset has large no. of attributes",
+        "Dataset has partitioning skews"
+    ],
+    "created_at": "2026-07-05T20:11:02.318679+00:00"
+},
+{
+    "id": 49992,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Spiral model is ________",
+    "op": [
+        "All of the given options",
+        "An iterative model",
+        "Risk oriented model",
+        "Sequence of waterfall model"
+    ],
+    "created_at": "2026-07-05T20:11:06.767907+00:00"
+},
+{
+    "id": 49997,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Four Cell Quadrant Technique, The quadrant's vertical axis refers to:",
+    "op": [
+        "The potential impact or value to the business",
+        "Scope",
+        "Feasibility",
+        "Resources available"
+    ],
+    "created_at": "2026-07-05T20:11:20.074314+00:00"
+},
+{
+    "id": 50000,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the most ignored step during data warehouse development",
+    "op": [
+        "Schema validation",
+        "The requirement verification",
+        "The vision definition",
+        "Success criteria development"
+    ],
+    "created_at": "2026-07-05T20:11:45.599657+00:00"
+},
+{
+    "id": 50169,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In analytical application development phase, we follow standards for:",
+    "op": [
+        "Standard for calculations",
+        "All of the given options",
+        "Standards for libraries",
+        "Naming conventions"
+    ],
+    "created_at": "2026-07-05T20:30:53.050881+00:00"
+},
+{
+    "id": 50171,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the top-10 mistakes that should be avoided during DWH development?",
+    "op": [
+        "Not being an accommodating person",
+        "Training the users with dummy data and considering it success",
+        "Not interacting directly with end user",
+        "Isolating IT support people from business users"
+    ],
+    "created_at": "2026-07-05T20:30:59.333556+00:00"
+},
+{
+    "id": 50215,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of requirement definition phase in Kimball’s DWH development approach, activities like debriefing, documentation, and prioritization are considered to be the part of:",
+    "op": [
+        "Post collection",
+        "Business requirements collection",
+        "Requirement preplanning",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-05T20:36:07.480676+00:00"
+},
+{
+    "id": 50280,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In ______ phase of a fundamental data warehouse life cycle model, a working model of data warehouse is deployed for a selective set of users",
+    "op": [
+        "Deployment",
+        "Design",
+        "Prototype",
+        "Operation"
+    ],
+    "created_at": "2026-07-05T20:40:03.077241+00:00"
+},
+{
+    "id": 50316,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "One of the drawbacks of waterfall model is that:",
+    "op": [
+        "It does not work when the resources are limited",
+        "All of the given options",
+        "Customers can not review the product during development",
+        "It does not define the project timeline/schedule"
+    ],
+    "created_at": "2026-07-05T20:42:43.027326+00:00"
+},
+{
+    "id": 50412,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Classification consists of examining the properties of a newly presented observation and assigning it to a predefined ____________.",
+    "op": [
+        "Container",
+        "Class",
+        "Object",
+        "Subject"
+    ],
+    "created_at": "2026-07-05T21:02:09.129507+00:00"
+},
+{
+    "id": 50423,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A bottom up implementation approach is useful when",
+    "op": [
+        "All the requirements are well documented",
+        "The business objectives are very much clear",
+        "Technology is mature and well understood",
+        "Organization can not implement latest technologies"
+    ],
+    "created_at": "2026-07-05T21:03:49.01286+00:00"
+},
+{
+    "id": 50451,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In ___________ phase of kimballs approach, we identify the components needed now and in future.",
+    "op": [
+        "Architectural design",
+        "Analytical application development",
+        "Requirement definition",
+        "Product development"
+    ],
+    "created_at": "2026-07-05T21:08:03.059275+00:00"
+},
+{
+    "id": 50555,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Implementation of a data warehouse requires ________ activities",
+    "op": [
+        "Tightly decoupled",
+        "Loosely integrated",
+        "None of the given",
+        "Highly integrated"
+    ],
+    "created_at": "2026-07-05T21:33:39.795353+00:00"
+},
+{
+    "id": 50660,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is/are included in the list of Top-7 key steps for smooth DWH implementation?",
+    "op": [
+        "All of the given options",
+        "Be a diplomat NOT a technologist",
+        "Assign significant resources for ETL",
+        "Consider handing-off project management"
+    ],
+    "created_at": "2026-07-05T22:14:24.44475+00:00"
+},
+{
+    "id": 50959,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT one of the examples of dynamic attributes?",
+    "op": [
+        "Air pressure",
+        "Daily Sale",
+        "Date of Birth",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-05T23:57:37.012842+00:00"
+},
+{
+    "id": 51932,
+    "cc": "CS614",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In contrast to statistics, data mining is ______ driven.",
+    "op": [
+        "Database",
+        "Assumption",
+        "Knowledge",
+        "Human"
+    ],
+    "created_at": "2026-07-06T02:59:12.830934+00:00"
+},
+{
+    "id": 66087,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Time Complexity of Key Creation process in basic Sorted Neighborhood (BSN) Method is ________.",
+    "op": [
+        "O(n)",
+        "O(2n)",
+        "O(log n)",
+        "O(n log n)"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66252,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Time Complexity of Basic Sorted Neighborhood (BSN) Method is __________________.",
+    "op": [
+        "O(n)",
+        "O(log n)",
+        "O(2n)",
+        "O(n log n)"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66254,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "______________can result in costly errors, such as: False frequency distributions and incorrect aggregates due to double counting.",
+    "op": [
+        "Data duplication",
+        "Data reduction",
+        "Data anomaly",
+        "Data transformation"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66310,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Instance matching between different sources is then achieved by a standard _____________ on the identifying attribute(s), if you are very, very lucky.",
+    "op": [
+        "Outer join",
+        "Inner join",
+        "Fuller join",
+        "Equi-join"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66402,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "______________ is much more than simply updating a record with good data.",
+    "op": [
+        "Data transformation",
+        "Data cleansing",
+        "Data reduction",
+        "Data duplication"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66411,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The data coming from outside the organization owning the DWH can have even ______________ quality data i.e. different representation for same entity, transcription or typographical errors.",
+    "op": [
+        "Medium",
+        "Higher",
+        "Lower",
+        "Average"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66416,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The degree of similarity between two records, often measured by a numerical value between ________, usually depends on application characteristics.",
+    "op": [
+        "0 and 1",
+        "2 and 3",
+        "1 and 2",
+        "None of the given"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66465,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which is not a/an distance Function in Basic Sorted Neighborhood (BSN) Method?",
+    "op": [
+        "Matrix distance",
+        "Phonetic distance",
+        "Typewriter distance",
+        "Edit Distance"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66513,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Records referring to the same entity are represented in different formats in the different data sets or are represented erroneously. Thus, duplicate records will appear in the merged database. This problem is known as _______________.",
+    "op": [
+        "Redundant problem",
+        "Redundant duplication problem",
+        "Duplication problem",
+        "Merge/purge problem"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66601,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which is not a/an step of data cleansing procedure?",
+    "op": [
+        "Standardizing",
+        "Verifying",
+        "Elementizing",
+        "Aggregation"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66710,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Serious ______________________involves decomposing and reassembling the data.",
+    "op": [
+        "Data Extraction",
+        "Data transformation",
+        "Data cleansing",
+        "Data loading"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66721,
+    "cc": "CS614",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The degree of similarity measured___________, different attributes may contribute differently.",
+    "op": [
+        "None of the given",
+        "Quantitative",
+        "Qualitative",
+        "Numerically"
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+}
+]

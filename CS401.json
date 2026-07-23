@@ -1,0 +1,1500 @@
+[
+{
+    "id": 23461,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "IBM AT has ___________ Programmable Interrupt Controllers (PIC).",
+    "op": [
+        "4",
+        "1",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:07:23.236573+00:00"
+},
+{
+    "id": 23470,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A parallel port has ________ views.",
+    "op": [
+        "8",
+        "1",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:07:36.942445+00:00"
+},
+{
+    "id": 23488,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which interrupt is used for exporting parallel port services from the following options?",
+    "op": [
+        "INT 17",
+        "INT 16",
+        "INT 15",
+        "INT 8"
+    ],
+    "created_at": "2026-06-28T19:07:55.587095+00:00"
+},
+{
+    "id": 23518,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The Programmable Interval Timer (PIT) has an input frequency of _________________.",
+    "op": [
+        "2.19318 MHZ",
+        "3.19318 MHZ",
+        "4.19318 MHZ",
+        "1.19318 MHZ"
+    ],
+    "created_at": "2026-06-28T19:08:25.097764+00:00"
+},
+{
+    "id": 23539,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the interrupt number for Non-Maskable Interrupt (NMI)?",
+    "op": [
+        "INT 3",
+        "INT 1",
+        "INT 0",
+        "INT 2"
+    ],
+    "created_at": "2026-06-28T19:08:47.954407+00:00"
+},
+{
+    "id": 23545,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In programmable interrupt controller, which of the following ports is the control port?",
+    "op": [
+        "Port 20",
+        "Port 19",
+        "Port 22",
+        "Port 21"
+    ],
+    "created_at": "2026-06-28T19:08:58.607029+00:00"
+},
+{
+    "id": 23552,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "An End of Interrupt (EOI) signal is sent by the _____________________.",
+    "op": [
+        "programmable interrupt controller",
+        "processor",
+        "interrupt request",
+        "interrupt handler"
+    ],
+    "created_at": "2026-06-28T19:09:08.562383+00:00"
+},
+{
+    "id": 23559,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the time interval between two timer ticks?",
+    "op": [
+        "50 ms",
+        "40 ms",
+        "55 ms",
+        "45 ms"
+    ],
+    "created_at": "2026-06-28T19:09:19.48407+00:00"
+},
+{
+    "id": 23828,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Interrupts are __________ events.",
+    "op": [
+        "Synchronous",
+        "Dependent",
+        "Predictable",
+        "Asynchronous"
+    ],
+    "created_at": "2026-06-28T19:16:43.43164+00:00"
+},
+{
+    "id": 23852,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "___________ is used for exporting keyboard services.",
+    "op": [
+        "INT 12",
+        "INT 11",
+        "INT 16",
+        "INT 8"
+    ],
+    "created_at": "2026-06-28T19:17:16.506462+00:00"
+},
+{
+    "id": 23862,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The first parallel port LPT1 has ports designated from _________ to _________.",
+    "op": [
+        "278, 27A",
+        "378, 37A",
+        "178, 17A",
+        "478, 47A"
+    ],
+    "created_at": "2026-06-28T19:17:28.719532+00:00"
+},
+{
+    "id": 23874,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following Interrupt Requests (IRQ) is connected to serial port COM 2?",
+    "op": [
+        "IRQ 2",
+        "IRQ 1",
+        "IRQ 3",
+        "IRQ 0"
+    ],
+    "created_at": "2026-06-28T19:17:44.337021+00:00"
+},
+{
+    "id": 23878,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "At the end of servicing an interrupt, ______________ signal is used to inform the Programmable Interrupt Controller (PIC) about it.",
+    "op": [
+        "IOE",
+        "RET n",
+        "IRET",
+        "EOI"
+    ],
+    "created_at": "2026-06-28T19:17:50.088203+00:00"
+},
+{
+    "id": 23886,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The routine which executes as a result of INT instruction is called _______________.",
+    "op": [
+        "Internal System Routine",
+        "Interrupt Service Routine",
+        "Interrupt Vector Routine",
+        "Interrupt System Routine"
+    ],
+    "created_at": "2026-06-28T19:17:59.744825+00:00"
+},
+{
+    "id": 23892,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following interrupts is used to maintain the system time?",
+    "op": [
+        "INT 9",
+        "INT 10",
+        "INT 11",
+        "INT 8"
+    ],
+    "created_at": "2026-06-28T19:18:12.548065+00:00"
+},
+{
+    "id": 23900,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If the _________ flag is set, then after every instruction, a type 1 interrupt will be generated automatically.",
+    "op": [
+        "trap",
+        "overflow",
+        "parity",
+        "carry"
+    ],
+    "created_at": "2026-06-28T19:18:24.624104+00:00"
+},
+{
+    "id": 23901,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following formulae is used for calculating the segment address of an interrupt service routine \"n\"?",
+    "op": [
+        "n*4",
+        "n*4+2",
+        "n*2+4",
+        "n*4-2"
+    ],
+    "created_at": "2026-06-28T19:18:27.148017+00:00"
+},
+{
+    "id": 23908,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following Interrupt Requests (IRQ) is derived by the timer device?",
+    "op": [
+        "IRQ 2",
+        "IRQ 1",
+        "IRQ 0",
+        "IRQ 3"
+    ],
+    "created_at": "2026-06-28T19:18:35.786932+00:00"
+},
+{
+    "id": 23915,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "DOS has a single entry point to access all of its services through ______________.",
+    "op": [
+        "INT 10",
+        "INT 16",
+        "INT 2",
+        "INT 21"
+    ],
+    "created_at": "2026-06-28T19:18:46.034513+00:00"
+},
+{
+    "id": 23922,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "______________ is used in debugging along with the trap flag.",
+    "op": [
+        "INT 1",
+        "INT 2",
+        "INT 0",
+        "INT 3"
+    ],
+    "created_at": "2026-06-28T19:18:54.538653+00:00"
+},
+{
+    "id": 23926,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following instruction is used to return from an interrupt service routine?",
+    "op": [
+        "reti",
+        "iret",
+        "ret",
+        "INTR"
+    ],
+    "created_at": "2026-06-28T19:18:59.538669+00:00"
+},
+{
+    "id": 23934,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The output of Programmable Interval Timer (PIT) is connected to the _____________ line of Programmable Interrupt Controller (PIC).",
+    "op": [
+        "IRQ 1",
+        "IRQ 3",
+        "IRQ 2",
+        "IRQ 0"
+    ],
+    "created_at": "2026-06-28T19:19:10.77974+00:00"
+},
+{
+    "id": 23947,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statements is correct regarding the input frequency of Programmable Interval Timer (PIT)?",
+    "op": [
+        "It depends on processor clock",
+        "It is fixed",
+        "It depends on hardware attached",
+        "It is variable"
+    ],
+    "created_at": "2026-06-28T19:19:32.227687+00:00"
+},
+{
+    "id": 23949,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Programmable Interrupt Controller (PIC), which of the following ports is used to selectively enable or disable interrupts?",
+    "op": [
+        "20",
+        "21",
+        "22",
+        "19"
+    ],
+    "created_at": "2026-06-28T19:19:36.717484+00:00"
+},
+{
+    "id": 23959,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the ACK pin in DB-25 connector?",
+    "op": [
+        "12",
+        "11",
+        "13",
+        "10"
+    ],
+    "created_at": "2026-06-28T19:19:52.757598+00:00"
+},
+{
+    "id": 24003,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following instructions is used to disable all  interrupts during the execution of a program?",
+    "op": [
+        "sti",
+        "reti",
+        "cld",
+        "cli"
+    ],
+    "created_at": "2026-06-28T19:21:18.989373+00:00"
+},
+{
+    "id": 24160,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Software interrupts are called by extended ____________ call mechanism.",
+    "op": [
+        "near",
+        "short",
+        "jmp",
+        "far"
+    ],
+    "created_at": "2026-06-28T19:27:20.355838+00:00"
+},
+{
+    "id": 24168,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following pins of DB-25 connector are ground?",
+    "op": [
+        "25-32",
+        "10-17",
+        "18-25",
+        "2-9"
+    ],
+    "created_at": "2026-06-28T19:27:38.230375+00:00"
+},
+{
+    "id": 24180,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The interrupt call loads new values in CS, IP and ______________.",
+    "op": [
+        "FLAGS",
+        "DS",
+        "BP",
+        "SS"
+    ],
+    "created_at": "2026-06-28T19:27:54.923893+00:00"
+},
+{
+    "id": 24199,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "There are ___________ forms of MOVS instruction.",
+    "op": [
+        "three",
+        "two",
+        "five",
+        "four"
+    ],
+    "created_at": "2026-06-28T19:28:38.546961+00:00"
+},
+{
+    "id": 24207,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the number of pin(s) outside the processor for generating interrupts by the external hardware?",
+    "op": [
+        "2",
+        "4",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:29:08.719693+00:00"
+},
+{
+    "id": 24216,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The IDTR is a ____________ bit register similar in structure to the GDTR.",
+    "op": [
+        "48",
+        "128",
+        "64",
+        "32"
+    ],
+    "created_at": "2026-06-28T19:29:20.311488+00:00"
+},
+{
+    "id": 24241,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following instructions, selects the memory address space?",
+    "op": [
+        "IN",
+        "MOV",
+        "ADD",
+        "DEC"
+    ],
+    "created_at": "2026-06-28T19:30:12.380456+00:00"
+},
+{
+    "id": 24244,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following flags is cleared with the help of stack?",
+    "op": [
+        "Interrupt flag",
+        "Zero Flag",
+        "Trap flag",
+        "Direction flag"
+    ],
+    "created_at": "2026-06-28T19:30:20.165456+00:00"
+},
+{
+    "id": 24253,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Interrupts are ________________ and ________________.",
+    "op": [
+        "asynchronous, predictable",
+        "synchronous, predictable",
+        "asynchronous, unpredictable",
+        "synchronous, unpredictable"
+    ],
+    "created_at": "2026-06-28T19:30:33.216767+00:00"
+},
+{
+    "id": 24255,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the source register in OUT instruction?",
+    "op": [
+        "AL or AX",
+        "BL or BX",
+        "CL or CX",
+        "DL or DX"
+    ],
+    "created_at": "2026-06-28T19:30:41.202166+00:00"
+},
+{
+    "id": 24257,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following instructions is used to read a character from the keyboard port?",
+    "op": [
+        "in al, 0x60",
+        "out al, 0x60",
+        "in al, 0x21",
+        "in al, dx"
+    ],
+    "created_at": "2026-06-28T19:30:41.894766+00:00"
+},
+{
+    "id": 24259,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The correlation process from the interrupt number to the interrupt handler uses a table called _________.",
+    "op": [
+        "Interrupt Handling Table",
+        "Interrupt Correlation Table",
+        "Interrupt Calling Table",
+        "Interrupt Vector Table"
+    ],
+    "created_at": "2026-06-28T19:30:51.281589+00:00"
+},
+{
+    "id": 24261,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Every bit of port _______ corresponds to one of the Interrupt Request (IRQ) lines.",
+    "op": [
+        "20",
+        "19",
+        "21",
+        "18"
+    ],
+    "created_at": "2026-06-28T19:31:07.750237+00:00"
+},
+{
+    "id": 24262,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "____________ is a special instruction that loads a general purpose register, and a segment register from two consecutive memory locations.",
+    "op": [
+        "MOVS",
+        "CALL",
+        "LES",
+        "SCAS"
+    ],
+    "created_at": "2026-06-28T19:31:09.231883+00:00"
+},
+{
+    "id": 24263,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following Interrupt Requests (IRQ) is derived by the keyboard?",
+    "op": [
+        "IRQ 0",
+        "IRQ 1",
+        "IRQ 3",
+        "IRQ 2"
+    ],
+    "created_at": "2026-06-28T19:31:10.094811+00:00"
+},
+{
+    "id": 24266,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following Interrupt Requests (IRQ) is used for a floppy disk drive?",
+    "op": [
+        "IRQ 5",
+        "IRQ 7",
+        "IRQ 6",
+        "IRQ 4"
+    ],
+    "created_at": "2026-06-28T19:31:26.458801+00:00"
+},
+{
+    "id": 24290,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the destination register in IN instruction?",
+    "op": [
+        "AL or AX",
+        "BL or BX",
+        "CL or CX",
+        "DL or DX"
+    ],
+    "created_at": "2026-06-28T19:32:36.568869+00:00"
+},
+{
+    "id": 24298,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "According to the IBM standard, port number(s) for the parallel port is/are __________",
+    "op": [
+        "20 and 21",
+        "378",
+        "60 to 64",
+        "380"
+    ],
+    "created_at": "2026-06-28T19:32:58.548737+00:00"
+},
+{
+    "id": 24515,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The execution of the instruction \"mov word [ES:160],  0x1230\" will print a character on screen at the ____________ column of the ____________ row.",
+    "op": [
+        "first, third",
+        "second, second",
+        "first, second",
+        "second, first"
+    ],
+    "created_at": "2026-06-28T19:47:27.926622+00:00"
+},
+{
+    "id": 24517,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Programmable interrupt controller has ___________ ports.",
+    "op": [
+        "1",
+        "4",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:47:45.125498+00:00"
+},
+{
+    "id": 24566,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following are the data pins used to take data from the processor to the device connected through parallel port?",
+    "op": [
+        "18 to 25",
+        "2 to 9",
+        "20 to 27",
+        "10 to 17"
+    ],
+    "created_at": "2026-06-28T19:51:10.059205+00:00"
+},
+{
+    "id": 24577,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "INT instruction takes a _________ byte(s) argument varying from 0-255.",
+    "op": [
+        "1",
+        "2",
+        "6",
+        "4"
+    ],
+    "created_at": "2026-06-28T19:51:48.966761+00:00"
+},
+{
+    "id": 24585,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following Interrupt Requests (IRQ) is connected to serial port COM 1?",
+    "op": [
+        "IRQ 7",
+        "IRQ 5",
+        "IRQ 6",
+        "IRQ 4"
+    ],
+    "created_at": "2026-06-28T19:52:20.931531+00:00"
+},
+{
+    "id": 24597,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The convention to return a value from a subroutine is to use the ____________ register.",
+    "op": [
+        "BX",
+        "AX",
+        "DX",
+        "CX"
+    ],
+    "created_at": "2026-06-28T19:53:15.180084+00:00"
+},
+{
+    "id": 24607,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Intel 8088, the Interrupt Vector Table occupies ____________ of memory.",
+    "op": [
+        "4 bytes",
+        "1 KB",
+        "1 MB",
+        "64 KB"
+    ],
+    "created_at": "2026-06-28T19:54:34.065144+00:00"
+},
+{
+    "id": 24738,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the order of pushing the contents on stack during the execution of INT instruction?",
+    "op": [
+        "FLAGS, IP, and then CS",
+        "FLAGS, CS, and then IP",
+        "IP, CS, and then FLAGS",
+        "CS, IP, and then FLAGS"
+    ],
+    "created_at": "2026-06-28T20:10:09.550779+00:00"
+},
+{
+    "id": 24754,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Programmable Interrupt Controller (PIC) has ____________ input signal(s) and ____________ output signal(s).",
+    "op": [
+        "eight, one",
+        "eight, eight",
+        "one, one",
+        "one, eight"
+    ],
+    "created_at": "2026-06-28T20:12:05.788183+00:00"
+},
+{
+    "id": 24760,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the interrupt number for debug interrupt?",
+    "op": [
+        "INT 2",
+        "INT 0",
+        "INT 1",
+        "INT 3"
+    ],
+    "created_at": "2026-06-28T20:12:53.968+00:00"
+},
+{
+    "id": 24796,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following instructions, selects the peripheral address space?",
+    "op": [
+        "DEC",
+        "ADD",
+        "IN",
+        "MOV"
+    ],
+    "created_at": "2026-06-28T20:15:34.838216+00:00"
+},
+{
+    "id": 24798,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The parallel port connector is called ___________.",
+    "op": [
+        "RS-232",
+        "DB-25",
+        "TD-25",
+        "BD-25"
+    ],
+    "created_at": "2026-06-28T20:15:52.702941+00:00"
+},
+{
+    "id": 24807,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The _________ and DPL have the same meaning as in data and code descriptors.",
+    "op": [
+        "O",
+        "P",
+        "T",
+        "S"
+    ],
+    "created_at": "2026-06-28T20:17:38.024095+00:00"
+},
+{
+    "id": 24871,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "_________ is a special type of interrupt that returns to the same instruction instead of the next instruction.",
+    "op": [
+        "Debug interrupt",
+        "Divide overflow interrupt",
+        "Change of sign interrupt",
+        "Arithmetic overflow interrupt"
+    ],
+    "created_at": "2026-06-28T20:26:18.640307+00:00"
+},
+{
+    "id": 24981,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "REP allows an instruction to be _____________ CX times.",
+    "op": [
+        "replaced",
+        "repositioned",
+        "reported",
+        "repeated"
+    ],
+    "created_at": "2026-06-28T20:54:02.168042+00:00"
+},
+{
+    "id": 25045,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Scrolling is the process of moving one or more lines towards the top or bottom of the screen, and the new line that appears on the top or bottom is___________.",
+    "op": [
+        "multiplied",
+        "added",
+        "cleared",
+        "joined"
+    ],
+    "created_at": "2026-06-28T21:12:46.643531+00:00"
+},
+{
+    "id": 25140,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "REP allows the instruction to be repeated _________ times.",
+    "op": [
+        "AX",
+        "CX",
+        "DX",
+        "BX"
+    ],
+    "created_at": "2026-06-28T21:44:32.104548+00:00"
+},
+{
+    "id": 25184,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Total number of reserved interrupts in Intel 8088 are ______________.",
+    "op": [
+        "3",
+        "8",
+        "255",
+        "5"
+    ],
+    "created_at": "2026-06-28T21:52:10.772918+00:00"
+},
+{
+    "id": 25330,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "REP with MOVS utilizes the _______________ power of a processor to do scrolling in minimum time.",
+    "op": [
+        "quarter",
+        "half",
+        "full",
+        "small"
+    ],
+    "created_at": "2026-06-28T23:29:48.064634+00:00"
+},
+{
+    "id": 25419,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Each entry of the interrupt vector table is of __________ byte(s).",
+    "op": [
+        "3",
+        "4",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-29T00:24:31.375152+00:00"
+},
+{
+    "id": 26005,
+    "cc": "CS401",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The 8088 processor divides interrupts into ____ classes.",
+    "op": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+    ],
+    "created_at": "2026-06-29T03:52:54.78459+00:00"
+},
+{
+    "id": 47934,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the context of video services, if we want to scroll the window up which of the following will be the value of AH?",
+    "op": [
+        "AH = 07h",
+        "AH = 06h",
+        "AH = 08h",
+        "AH = 05h"
+    ],
+    "created_at": "2026-07-05T19:08:03.733457+00:00"
+},
+{
+    "id": 47951,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The maximum length of DOS command line parameters is",
+    "op": [
+        "512 bits",
+        "127 bits",
+        "256 bits",
+        "64 bits"
+    ],
+    "created_at": "2026-07-05T19:08:20.864273+00:00"
+},
+{
+    "id": 47962,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the priority of Interrupt Request (IRQ) 0?",
+    "op": [
+        "Low",
+        "Highest",
+        "High",
+        "Medium"
+    ],
+    "created_at": "2026-07-05T19:08:28.655925+00:00"
+},
+{
+    "id": 47975,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following interrupts is used for saving and restoring the registers?",
+    "op": [
+        "INT 10",
+        "INT 09",
+        "INT 16",
+        "INT 08"
+    ],
+    "created_at": "2026-07-05T19:08:37.563591+00:00"
+},
+{
+    "id": 48002,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following interrupts plays the most significant part during single step debugging of a program?",
+    "op": [
+        "INT 1",
+        "INT 0",
+        "INT 2",
+        "INT 3"
+    ],
+    "created_at": "2026-07-05T19:08:55.652067+00:00"
+},
+{
+    "id": 48017,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "On executing INT 0x21--service 0x3D, if file can't be opened then",
+    "op": [
+        "ZF will contain 1",
+        "CF will contain 0",
+        "CF will contain 1",
+        "ZF will contain 0"
+    ],
+    "created_at": "2026-07-05T19:09:03.293842+00:00"
+},
+{
+    "id": 48030,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following flags can be used in mathematical operations?",
+    "op": [
+        "Carry flag",
+        "Trap flag",
+        "Interrupt flag",
+        "Direction flag"
+    ],
+    "created_at": "2026-07-05T19:09:12.945567+00:00"
+},
+{
+    "id": 48045,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the context of video services, if we want to set the cursor at top left corner, which of the values will be stored in DH and DL respectively?",
+    "op": [
+        "25, 80",
+        "01, 01",
+        "00, 80",
+        "00, 00"
+    ],
+    "created_at": "2026-07-05T19:09:23.182248+00:00"
+},
+{
+    "id": 48061,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "BIOS video services are exported via interrupt",
+    "op": [
+        "INT7",
+        "INT10",
+        "INT8",
+        "INT9"
+    ],
+    "created_at": "2026-07-05T19:09:32.732274+00:00"
+},
+{
+    "id": 48246,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following registers are used as a DOS input buffer?",
+    "op": [
+        "DS:DX",
+        "SS:SP",
+        "CS:BX",
+        "DS:AX"
+    ],
+    "created_at": "2026-07-05T19:12:25.578156+00:00"
+},
+{
+    "id": 48324,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "INT 0x13 service 0x03 is used to _________.",
+    "op": [
+        "Get drive parameter",
+        "Read disk sector",
+        "Write disk sector",
+        "Reset disk sector"
+    ],
+    "created_at": "2026-07-05T19:13:11.958234+00:00"
+},
+{
+    "id": 48407,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In DOS, if 'file name' is more than 8-characters then which flags of 'attribute byte' are set",
+    "op": [
+        "Directory flag, Hidden flag, System flag and Volume label flag",
+        "Directory flag and Hidden flag",
+        "Directory flag and System flag",
+        "System flag and Volume label flag"
+    ],
+    "created_at": "2026-07-05T19:14:32.465733+00:00"
+},
+{
+    "id": 48434,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following INT 21 service is used to read character from standard input?",
+    "op": [
+        "02",
+        "01",
+        "00",
+        "03"
+    ],
+    "created_at": "2026-07-05T19:15:01.391202+00:00"
+},
+{
+    "id": 48611,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In multitasking, which of the following interrupts is used as a scheduler?",
+    "op": [
+        "INT 16",
+        "INT 13",
+        "INT 08",
+        "INT 21"
+    ],
+    "created_at": "2026-07-05T19:17:46.76956+00:00"
+},
+{
+    "id": 48618,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "BIOS video services are broadly classified into ________ categories.",
+    "op": [
+        "2",
+        "3",
+        "4",
+        "1"
+    ],
+    "created_at": "2026-07-05T19:17:49.424563+00:00"
+},
+{
+    "id": 48620,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the size of Hard Disk MBR (Master Boot Record)?",
+    "op": [
+        "446 bytes",
+        "350 bytes",
+        "512 bytes",
+        "256 bytes"
+    ],
+    "created_at": "2026-07-05T19:17:52.992456+00:00"
+},
+{
+    "id": 48630,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The first sector on hard disk contains the",
+    "op": [
+        "Partition table",
+        "Data size",
+        "Hard disk size",
+        "Sector size"
+    ],
+    "created_at": "2026-07-05T19:17:59.870816+00:00"
+},
+{
+    "id": 48638,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "During multitasking, ____________ is used to get control from the program without letting the program know about it.",
+    "op": [
+        "IRQ 1",
+        "IRQ 7",
+        "IRQ 0",
+        "IRQ 5"
+    ],
+    "created_at": "2026-07-05T19:18:09.853578+00:00"
+},
+{
+    "id": 48649,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following symbols is used to terminate a string in assembly language?",
+    "op": [
+        "#",
+        "$",
+        ";",
+        "!"
+    ],
+    "created_at": "2026-07-05T19:18:20.423675+00:00"
+},
+{
+    "id": 48672,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following services of INT 10 is used to write graphic pixel on the screen ?",
+    "op": [
+        "0x0B",
+        "0x0C",
+        "0x0D",
+        "0x0A"
+    ],
+    "created_at": "2026-07-05T19:18:44.817445+00:00"
+},
+{
+    "id": 48676,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Changing and restoring the state of Central Processing Unit (CPU) is called ________________.",
+    "op": [
+        "Multithreading",
+        "Multitasking",
+        "Context Switching",
+        "Thrashing"
+    ],
+    "created_at": "2026-07-05T19:18:53.103762+00:00"
+},
+{
+    "id": 48681,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "\"INT13 --BIOS disk services\" generally uses which register to return the 'error flag' ?",
+    "op": [
+        "AL",
+        "CF",
+        "AH",
+        "DL"
+    ],
+    "created_at": "2026-07-05T19:18:58.363344+00:00"
+},
+{
+    "id": 48691,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "As compared to _________ , ___________ provides more cooked services.",
+    "op": [
+        "BIOS, DOS",
+        "DOS,OS",
+        "OS, DOS",
+        "DOS, BIOS"
+    ],
+    "created_at": "2026-07-05T19:19:09.610049+00:00"
+},
+{
+    "id": 48697,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following services of INT 10 is used for writing the string?",
+    "op": [
+        "0x13",
+        "0x11",
+        "0x10",
+        "0x12"
+    ],
+    "created_at": "2026-07-05T19:19:14.801207+00:00"
+},
+{
+    "id": 48706,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In case of COM file, maximum length of parameters passed through command line can be ___",
+    "op": [
+        "511 bytes",
+        "255 bytes",
+        "63 bytes",
+        "127 bytes"
+    ],
+    "created_at": "2026-07-05T19:19:20.868103+00:00"
+},
+{
+    "id": 49273,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following registers hold the page number for using the write string service of INT 10?",
+    "op": [
+        "BH",
+        "CL",
+        "BL",
+        "AH"
+    ],
+    "created_at": "2026-07-05T19:35:38.936846+00:00"
+},
+{
+    "id": 49280,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "On executing INT 0x21 service 0x3D, if file is successfully opened then",
+    "op": [
+        "CF will contain 1",
+        "ZF will contain 1",
+        "ZF will contain 0",
+        "CF will contain 0"
+    ],
+    "created_at": "2026-07-05T19:35:54.03916+00:00"
+},
+{
+    "id": 49292,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The thread registration code initializes the Process Control Block (PCB) and adds it to the linked list. The ________________, then gives it a turn.",
+    "op": [
+        "scheduler",
+        "interpreter",
+        "linker",
+        "assembler"
+    ],
+    "created_at": "2026-07-05T19:36:13.744591+00:00"
+},
+{
+    "id": 49322,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In DOS input buffer, the _____ byte stores the maximum characters the buffer can hold.",
+    "op": [
+        "Second",
+        "First",
+        "Third",
+        "Last"
+    ],
+    "created_at": "2026-07-05T19:37:18.021833+00:00"
+},
+{
+    "id": 49612,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the highest priority interrupt?",
+    "op": [
+        "INT 08",
+        "INT 17",
+        "INT 10",
+        "INT 16"
+    ],
+    "created_at": "2026-07-05T19:48:18.653776+00:00"
+},
+{
+    "id": 49615,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following stands for TSR?",
+    "op": [
+        "Terminate and Store Routines",
+        "Transmit and Save Resources",
+        "Truncate and Start Recursively",
+        "Terminate and Stay Resident"
+    ],
+    "created_at": "2026-07-05T19:48:25.151658+00:00"
+},
+{
+    "id": 49620,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The space where all registers of a task are stored is called ____________________.",
+    "op": [
+        "process control block",
+        "heap",
+        "cache memory",
+        "local variable"
+    ],
+    "created_at": "2026-07-05T19:48:38.853443+00:00"
+},
+{
+    "id": 49625,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In multitasking environment, which of the following structure is used to maintain the order of active Process Control Blocks (PCB)?",
+    "op": [
+        "Register",
+        "Linked List",
+        "Array",
+        "Stack"
+    ],
+    "created_at": "2026-07-05T19:49:00.245153+00:00"
+},
+{
+    "id": 49634,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "iret returns on the basis of __________ and __________.",
+    "op": [
+        "CS, IP",
+        "DS, IP",
+        "CS, SS",
+        "IP, SP"
+    ],
+    "created_at": "2026-07-05T19:49:26.290342+00:00"
+},
+{
+    "id": 49641,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following services of INT 10 is used to get the video font information?",
+    "op": [
+        "1128h",
+        "1129h",
+        "1130h",
+        "1127h"
+    ],
+    "created_at": "2026-07-05T19:49:38.962027+00:00"
+},
+{
+    "id": 49660,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A FAT32 file system directory entry in DOS consist of how many bytes ?",
+    "op": [
+        "16",
+        "24",
+        "64",
+        "32"
+    ],
+    "created_at": "2026-07-05T19:50:14.765405+00:00"
+},
+{
+    "id": 49666,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The 'program segment prefix' for com files is of _____ size.",
+    "op": [
+        "64 bytes",
+        "512 bytes",
+        "256 bytes",
+        "128 bytes"
+    ],
+    "created_at": "2026-07-05T19:50:24.603225+00:00"
+},
+{
+    "id": 49783,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In the context of video services, if we want to write string then which of the value will be placed in AH?",
+    "op": [
+        "10h",
+        "12h",
+        "13h",
+        "11h"
+    ],
+    "created_at": "2026-07-05T19:56:06.919868+00:00"
+},
+{
+    "id": 49879,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "We can set the current file position in DOS using service number ____",
+    "op": [
+        "0x40",
+        "0x42",
+        "0x38",
+        "0x43"
+    ],
+    "created_at": "2026-07-05T20:01:50.118665+00:00"
+},
+{
+    "id": 50108,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "The root directory of floppy contains _____ fixed entries.",
+    "op": [
+        "64",
+        "512",
+        "128",
+        "256"
+    ],
+    "created_at": "2026-07-05T20:21:59.859301+00:00"
+},
+{
+    "id": 50110,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "\"INT13 --BIOS disk services\" generally uses which register to return the 'error code' ?",
+    "op": [
+        "CF",
+        "AL",
+        "AH",
+        "DL"
+    ],
+    "created_at": "2026-07-05T20:22:12.756226+00:00"
+},
+{
+    "id": 50268,
+    "cc": "CS401",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "PCB stands for ___________________________.",
+    "op": [
+        "Process Caching Block",
+        "Program Control Block",
+        "Process Control Block",
+        "Programmable Counter Block"
+    ],
+    "created_at": "2026-07-05T20:39:30.088378+00:00"
+}
+]

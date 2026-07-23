@@ -1,0 +1,1122 @@
+[
+{
+    "id": 9589,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the following protects the network operators from different types of fraud found in today's cellular world?",
+    "op": [
+        "HLR",
+        "VLR",
+        "AUC",
+        "EIR"
+    ],
+    "created_at": "2026-06-21T19:11:33.860412+00:00"
+},
+{
+    "id": 9594,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In GSM network, each time slotted user is allocated a frequency of __________ in each direction.",
+    "op": [
+        "100 KHz",
+        "50 KHz",
+        "200 KHz",
+        "30 KHz"
+    ],
+    "created_at": "2026-06-21T19:11:47.192688+00:00"
+},
+{
+    "id": 9599,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is NOT a supplementary service provided by a GSM network?",
+    "op": [
+        "Call Barring",
+        "Handoff/Handover",
+        "Conferencing",
+        "Call Waiting"
+    ],
+    "created_at": "2026-06-21T19:11:57.547787+00:00"
+},
+{
+    "id": 9604,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "__________ is one of the supplementary services provided by GSM network.",
+    "op": [
+        "Conferencing",
+        "Modem selection",
+        "SMS",
+        "Calling"
+    ],
+    "created_at": "2026-06-21T19:12:05.864649+00:00"
+},
+{
+    "id": 9608,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "_____________ is used to store the visitor user information temporarily.",
+    "op": [
+        "AUC",
+        "HLR",
+        "EIR",
+        "VLR"
+    ],
+    "created_at": "2026-06-21T19:12:13.73894+00:00"
+},
+{
+    "id": 9611,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The area in which radio coverage is provided by one BTS is called a(n) __________.",
+    "op": [
+        "MSC service area",
+        "PLMN service area",
+        "Location area",
+        "Cell"
+    ],
+    "created_at": "2026-06-21T19:12:22.508966+00:00"
+},
+{
+    "id": 9616,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS network, which of the following network identifiers indicate the capabilities of mobile station?",
+    "op": [
+        "ESN",
+        "SCC",
+        "SAT",
+        "MIN"
+    ],
+    "created_at": "2026-06-21T19:12:30.742393+00:00"
+},
+{
+    "id": 9618,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the given topologies is used in AMPS for Forward Control Channel?",
+    "op": [
+        "Broadcast",
+        "Dedicated",
+        "Random",
+        "Multicast"
+    ],
+    "created_at": "2026-06-21T19:12:40.331579+00:00"
+},
+{
+    "id": 9619,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, which of the following identifiers is assigned by the regulators to a geographical service area?",
+    "op": [
+        "MIN",
+        "SCC",
+        "SID",
+        "DCC"
+    ],
+    "created_at": "2026-06-21T19:12:48.076381+00:00"
+},
+{
+    "id": 10961,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Switching System can detect a stolen or unauthorized phone by using the information stored in ________________",
+    "op": [
+        "Visitor Location Register (HLR)",
+        "Home Location Register (HLR)",
+        "Equipment Identity Register (EIR)",
+        "Authentication Centre (AUC)"
+    ],
+    "created_at": "2026-06-21T21:50:08.237829+00:00"
+},
+{
+    "id": 10964,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the following components of GSM network is responsible for performing call processing and subscriber related functions?",
+    "op": [
+        "Operation and Support System",
+        "Base Station System",
+        "None of the given",
+        "Switching System"
+    ],
+    "created_at": "2026-06-21T21:51:04.929523+00:00"
+},
+{
+    "id": 10969,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "FDMA  stands for______.",
+    "op": [
+        "Frequency division micro access",
+        "Frequency Diversity Multiple access",
+        "Freeze division multiple access",
+        "Frequency Division Multiple Access"
+    ],
+    "created_at": "2026-06-21T21:53:04.3991+00:00"
+},
+{
+    "id": 10970,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "____________ is used to express relative differences in signal strength.",
+    "op": [
+        "Baud Rate",
+        "Frequency",
+        "Decibel",
+        "Bit Rate"
+    ],
+    "created_at": "2026-06-21T21:53:23.708577+00:00"
+},
+{
+    "id": 10972,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The process of shifting a call from one BTS of a cell to another BTS is called ____________.",
+    "op": [
+        "Handover",
+        "Cell foot",
+        "transfering",
+        "Roaming"
+    ],
+    "created_at": "2026-06-21T21:53:43.453485+00:00"
+},
+{
+    "id": 10973,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the given medium access techniques is used in GSM for transmitting signals?",
+    "op": [
+        "TDMA/FDD",
+        "FDMA/FDD",
+        "CDMA/FDD",
+        "CSMA/CA"
+    ],
+    "created_at": "2026-06-21T21:54:16.924193+00:00"
+},
+{
+    "id": 10974,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the following conditions should be true for a Hand-off/Handover to occur?",
+    "op": [
+        "Mobile moves from one cell to another cell",
+        "After spending some time in the same cell",
+        "Mobile moves from one cluster to another sector",
+        "Mobile moves from one cluster to another cluster"
+    ],
+    "created_at": "2026-06-21T21:54:49.334911+00:00"
+},
+{
+    "id": 10975,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "A Location Area (LA) in GSM network is served by ________________.",
+    "op": [
+        "a single BSC only",
+        "a single MSC",
+        "more than one MSC only",
+        "a single Cell"
+    ],
+    "created_at": "2026-06-21T21:55:04.050377+00:00"
+},
+{
+    "id": 10977,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In GSM, a PLMN is identified by _______________.",
+    "op": [
+        "Mobile Country Code",
+        "Mobile Network Code",
+        "Location Area Code",
+        "Mobile Country Code and Mobile Network Code"
+    ],
+    "created_at": "2026-06-21T21:55:28.92858+00:00"
+},
+{
+    "id": 11960,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "GSM is a ________ network.",
+    "op": [
+        "2G",
+        "3G",
+        "4G",
+        "1G"
+    ],
+    "created_at": "2026-06-22T03:18:52.937346+00:00"
+},
+{
+    "id": 11963,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The ___________ is formed by the BSCs and BTSs within the PLMN.",
+    "op": [
+        "Regional Access Network",
+        "Radio Access Network",
+        "Wide Area Network",
+        "Local Area Network"
+    ],
+    "created_at": "2026-06-22T03:19:05.427461+00:00"
+},
+{
+    "id": 11964,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Subscriber registration, authentication is performed by the _____________.",
+    "op": [
+        "Base station system",
+        "Switching center",
+        "Base transceiver system",
+        "Operation and support system"
+    ],
+    "created_at": "2026-06-22T03:19:10.984193+00:00"
+},
+{
+    "id": 11966,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Grouping of different cells makes a/an _______________.",
+    "op": [
+        "cluster",
+        "cell",
+        "area",
+        "sector"
+    ],
+    "created_at": "2026-06-22T03:19:19.762773+00:00"
+},
+{
+    "id": 11969,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In first-generation networks, each operator is allocated a   frequency spectrum of __________ in each direction.",
+    "op": [
+        "12.5 MHz",
+        "25 MHz",
+        "60 MHz",
+        "30 MHz"
+    ],
+    "created_at": "2026-06-22T03:19:31.150528+00:00"
+},
+{
+    "id": 11975,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In GSM, each channel has a bandwidth of ______________.",
+    "op": [
+        "20 MHz",
+        "25 Khz",
+        "200 KHz",
+        "30 KHz"
+    ],
+    "created_at": "2026-06-22T03:19:52.104901+00:00"
+},
+{
+    "id": 11977,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, which of the following network identifiers is assigned by the operating company to each base station?",
+    "op": [
+        "ESN",
+        "MIN",
+        "SAT",
+        "SCC"
+    ],
+    "created_at": "2026-06-22T03:20:00.71713+00:00"
+},
+{
+    "id": 12149,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, forward channels are used for communication ______________.",
+    "op": [
+        "None of the given",
+        "From Mobile to Base",
+        "Both of the given",
+        "From Base to Mobile"
+    ],
+    "created_at": "2026-06-22T03:38:34.561358+00:00"
+},
+{
+    "id": 12171,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which modulation scheme is used in GSM network?",
+    "op": [
+        "FSK",
+        "QPSK",
+        "GMSK",
+        "PSK"
+    ],
+    "created_at": "2026-06-22T03:41:43.657094+00:00"
+},
+{
+    "id": 12175,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "CUG is a supplementary service related to number identification; it stands for ____________.",
+    "op": [
+        "Caller Used Ground",
+        "None of the choices is correct",
+        "Closed User Group",
+        "Controlled User Grouping"
+    ],
+    "created_at": "2026-06-22T03:41:59.198299+00:00"
+},
+{
+    "id": 12182,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "GSM uses LPC as speech coder. LPC stands for __________.",
+    "op": [
+        "Low Power Carrier",
+        "Line Pulse Coding",
+        "Linear Predictive Coding",
+        "Long Prediction Code"
+    ],
+    "created_at": "2026-06-22T03:42:53.553755+00:00"
+},
+{
+    "id": 12185,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In operational channels FCC stands for__________________.",
+    "op": [
+        "Force control channel",
+        "Fast control channel",
+        "Forward control channel",
+        "Fast correct channel"
+    ],
+    "created_at": "2026-06-22T03:43:19.342558+00:00"
+},
+{
+    "id": 12960,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, a 10 kbps control information is converted into 30 KHz signal by using ______________.",
+    "op": [
+        "MSK",
+        "ASK",
+        "FSK",
+        "PSK"
+    ],
+    "created_at": "2026-06-22T05:03:37.768312+00:00"
+},
+{
+    "id": 12963,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which one of the given systems of GSM is used by the network operator to monitor and control the system?",
+    "op": [
+        "OSS",
+        "MSS",
+        "BSS",
+        "SS"
+    ],
+    "created_at": "2026-06-22T05:03:47.674495+00:00"
+},
+{
+    "id": 12965,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The term ___________ services is used for additional services that are provided by GSM in addition to teleservices and bearer services.",
+    "op": [
+        "Supportive",
+        "Add-on",
+        "Supplementary",
+        "Complementary"
+    ],
+    "created_at": "2026-06-22T05:03:51.902688+00:00"
+},
+{
+    "id": 12968,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In first-generation cellular network, transmission of data is done via a ____________ signal.",
+    "op": [
+        "Continuously variable",
+        "Constant",
+        "All of the given",
+        "Discrete variable"
+    ],
+    "created_at": "2026-06-22T05:04:05.346929+00:00"
+},
+{
+    "id": 12971,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Cell sectoring refers to the divided area in different direction __________ .",
+    "op": [
+        "with in a sector",
+        "With in a cell",
+        "In cluster",
+        "Outside of a cell"
+    ],
+    "created_at": "2026-06-22T05:04:16.161812+00:00"
+},
+{
+    "id": 13042,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, 3KHz voice is modulated into 30 KHz signal by using ______________.",
+    "op": [
+        "Reverse Modulation",
+        "Phase Modulation",
+        "Frequency Modulation",
+        "Amplitude Modulation"
+    ],
+    "created_at": "2026-06-22T05:12:51.420407+00:00"
+},
+{
+    "id": 13046,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "_________covers areas such as building or a tunnel.",
+    "op": [
+        "macro cell",
+        "Umbrella cell",
+        "Micro cell",
+        "Pico cell"
+    ],
+    "created_at": "2026-06-22T05:13:19.594007+00:00"
+},
+{
+    "id": 13051,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, each physical channel is __________ wide.",
+    "op": [
+        "30 Mhz",
+        "30 KHz",
+        "20 MHz",
+        "20 KHz"
+    ],
+    "created_at": "2026-06-22T05:13:48.894331+00:00"
+},
+{
+    "id": 13407,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In extended frequency spectrum for AMPS, number of channels were increased by ___________ as compared to original spectrum.",
+    "op": [
+        "100",
+        "166",
+        "200",
+        "66"
+    ],
+    "created_at": "2026-06-22T06:05:40.301089+00:00"
+},
+{
+    "id": 13431,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The actual radio coverage of a cell is known as the_____________.",
+    "op": [
+        "Cluster",
+        "Cell foot print",
+        "Cell set",
+        "Sector"
+    ],
+    "created_at": "2026-06-22T06:12:06.371005+00:00"
+},
+{
+    "id": 13432,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In a cellular network, high speed users are serviced by ___________.",
+    "op": [
+        "Micro cells",
+        "All type of cells",
+        "Pico cells",
+        "Macro cells"
+    ],
+    "created_at": "2026-06-22T06:12:24.282306+00:00"
+},
+{
+    "id": 13433,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "In AMPS, which of the given multiple access techniques is used?",
+    "op": [
+        "CSMA/CS",
+        "FDMA/FDD",
+        "CDMA",
+        "TDMA/FDD"
+    ],
+    "created_at": "2026-06-22T06:12:31.30133+00:00"
+},
+{
+    "id": 13435,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "Which of the following operators started its operations as a first GSM network in Pakistan?",
+    "op": [
+        "Warid",
+        "Zong",
+        "Telenor",
+        "Mobilink"
+    ],
+    "created_at": "2026-06-22T06:12:44.518545+00:00"
+},
+{
+    "id": 13438,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "At the time of its launch, GSM had a data transfer rate of ___________.",
+    "op": [
+        "32 kbps",
+        "9.6 kbps",
+        "56.6 kbps",
+        "13 kbps"
+    ],
+    "created_at": "2026-06-22T06:12:57.598677+00:00"
+},
+{
+    "id": 14209,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "GSM stands for ______________.",
+    "op": [
+        "Global shared mobile system",
+        "Great system for mobile communication",
+        "General system for mobile communication",
+        "Global system for mobile communication"
+    ],
+    "created_at": "2026-06-22T06:56:36.850522+00:00"
+},
+{
+    "id": 14240,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "SIM is an abbreviation for __________.",
+    "op": [
+        "Sender Identity Module",
+        "Service Information Module",
+        "Sender Information Module",
+        "Subscriber Identity Module"
+    ],
+    "created_at": "2026-06-22T06:57:28.681596+00:00"
+},
+{
+    "id": 14246,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "GSM was first deployed in ___________.",
+    "op": [
+        "UK",
+        "Finland",
+        "Japan",
+        "USA"
+    ],
+    "created_at": "2026-06-22T06:57:46.232375+00:00"
+},
+{
+    "id": 14844,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "First-generation cellular networks use voice channels each having a frequency of __________.",
+    "op": [
+        "30 KHz",
+        "10 KHz",
+        "60 KHz",
+        "20 KHz"
+    ],
+    "created_at": "2026-06-22T07:41:50.265504+00:00"
+},
+{
+    "id": 14857,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "BTS is a component of _________________.",
+    "op": [
+        "Base station system",
+        "Base station controller",
+        "Switching center",
+        "Operation and support system"
+    ],
+    "created_at": "2026-06-22T07:43:40.600352+00:00"
+},
+{
+    "id": 15105,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The GSM Network identifies each cell via specailly assigned number known as ____________.",
+    "op": [
+        "BSC",
+        "SDC",
+        "GCI",
+        "PCI"
+    ],
+    "created_at": "2026-06-22T08:28:43.181935+00:00"
+},
+{
+    "id": 15106,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "There are ___________ Operational channels from BTS to MS and MS to BTS.",
+    "op": [
+        "10",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-06-22T08:29:01.514353+00:00"
+},
+{
+    "id": 16302,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "22 June 2026",
+    "qt": "The handover at mobile station’s decision after received power from surrounding BSs and continually reports the results of these measurements to the serving BS is called __________",
+    "op": [
+        "Mobile assisted handover",
+        "code assisted handover",
+        "Frequency assisted handoff",
+        "BTS assisted handoff"
+    ],
+    "created_at": "2026-06-22T16:10:31.140969+00:00"
+},
+{
+    "id": 18662,
+    "cc": "CS314",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "In extended frequency spectrum of AMPS, total __________ channels are used as control channels.",
+    "op": [
+        "42",
+        "416",
+        "395",
+        "832"
+    ],
+    "created_at": "2026-06-23T09:49:32.703+00:00"
+},
+{
+    "id": 24991,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following classes of MS can operate only packet switched services?",
+    "op": [
+        "Class D",
+        "Class A",
+        "Class B",
+        "Class C"
+    ],
+    "created_at": "2026-06-28T20:59:15.814643+00:00"
+},
+{
+    "id": 24993,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A base station include(s) __________ component(s) .",
+    "op": [
+        "Both BSC and BTS",
+        "BSC",
+        "BTS",
+        "MSC"
+    ],
+    "created_at": "2026-06-28T20:59:29.37009+00:00"
+},
+{
+    "id": 25282,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following classes of MS can operate simultaneous packet switched and circuit switched services?",
+    "op": [
+        "Class D",
+        "Class C",
+        "Class A",
+        "Class B"
+    ],
+    "created_at": "2026-06-28T22:26:26.607093+00:00"
+},
+{
+    "id": 25283,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A GSM subscriber has his/her subscription data permanently registered in ___________.",
+    "op": [
+        "EIR",
+        "HLR",
+        "VLR",
+        "AUC"
+    ],
+    "created_at": "2026-06-28T22:27:04.073764+00:00"
+},
+{
+    "id": 25882,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A VPLMN uses the ____________ to send billing records to the HPLMN of a subscriber",
+    "op": [
+        "IMEI",
+        "SIM",
+        "MSNR",
+        "IMSI"
+    ],
+    "created_at": "2026-06-29T03:20:46.811336+00:00"
+},
+{
+    "id": 26321,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "HSCSD stands for ______________ .",
+    "op": [
+        "High Speed Censor Switched Data",
+        "High Speed Circuit Switched Data",
+        "High Scan Creative Simultaneous Data",
+        "None of the Given"
+    ],
+    "created_at": "2026-06-29T05:32:31.064508+00:00"
+},
+{
+    "id": 26323,
+    "cc": "CS314",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ is assigned to a subscriber during call handling and is released when the call to that subscriber is established.",
+    "op": [
+        "Mobile Station Roaming Number",
+        "International Mobile Equipment Identifier",
+        "Mobile Subscriber Number",
+        "International Mobile Network Identifier"
+    ],
+    "created_at": "2026-06-29T05:33:09.223749+00:00"
+},
+{
+    "id": 55199,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following channels is used in GSM system to provide a reliable connection for signalling and Short Message Service?",
+    "op": [
+        "Slow Associated Control Channel",
+        "Fast Associated Control Channel",
+        "Stand-alone Dedicated Control Channel",
+        "Packet Common Control Channel"
+    ],
+    "created_at": "2026-07-06T20:02:00.331768+00:00"
+},
+{
+    "id": 55202,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following control channels is used to transfer SMS during calls?",
+    "op": [
+        "Slow Associated Control Channel",
+        "Stand-alone Dedicated Control Channel",
+        "Packet Common Control Channel",
+        "Fast Associated Control Channel"
+    ],
+    "created_at": "2026-07-06T20:02:18.417228+00:00"
+},
+{
+    "id": 55214,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "EDGE stands for__________________________ .",
+    "op": [
+        "Electric data rate for GSM evolution",
+        "Expected data rate for GSM evolution",
+        "Enhance data rates for GSM evolution",
+        "Easier data rate for GSM evolution"
+    ],
+    "created_at": "2026-07-06T20:03:51.987819+00:00"
+},
+{
+    "id": 55216,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "MCS 4 provide data rate of ________ kbps.",
+    "op": [
+        "18.6",
+        "14.0",
+        "17.6",
+        "15.0"
+    ],
+    "created_at": "2026-07-06T20:04:28.879956+00:00"
+},
+{
+    "id": 55311,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Data is transmitted between a MS and  GPRS network only when the mobile station is in _________ state.",
+    "op": [
+        "Idle",
+        "Active",
+        "Standby",
+        "Backup"
+    ],
+    "created_at": "2026-07-06T20:48:23.307754+00:00"
+},
+{
+    "id": 55312,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In GRPS, QoS classes are based on _____________ parameters.",
+    "op": [
+        "5",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-07-06T20:48:49.52942+00:00"
+},
+{
+    "id": 55313,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "GPRS specifies signaling based on ______________ traffic streams.",
+    "op": [
+        "Both Connection Oriented and Connection Less",
+        "None of the Given",
+        "Connection Oriented",
+        "Connection Less"
+    ],
+    "created_at": "2026-07-06T20:48:57.787738+00:00"
+},
+{
+    "id": 55314,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In MCS-1 coding scheme is implemented, the payload size will be ___________.",
+    "op": [
+        "44 octets",
+        "28 octets",
+        "56 octets",
+        "22 octets"
+    ],
+    "created_at": "2026-07-06T20:49:28.161145+00:00"
+},
+{
+    "id": 55315,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In EDGE network we use ___________________ different modulation schemes to provide different throughput.",
+    "op": [
+        "7",
+        "6",
+        "9",
+        "8"
+    ],
+    "created_at": "2026-07-06T20:49:42.272306+00:00"
+},
+{
+    "id": 55316,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "MCS-8 provides the data rate which is ________.",
+    "op": [
+        "49.4 kbps",
+        "54.4 kbps",
+        "60.2 kbps",
+        "59.2 kbps"
+    ],
+    "created_at": "2026-07-06T20:51:23.467786+00:00"
+},
+{
+    "id": 55317,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Although GMSK is more robust but 8-PSK give more ________________.",
+    "op": [
+        "delay",
+        "error",
+        "throughput",
+        "noise"
+    ],
+    "created_at": "2026-07-06T20:51:51.876957+00:00"
+},
+{
+    "id": 55318,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "A mobile station has ___________ states in GPRS system.",
+    "op": [
+        "Five",
+        "Two",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-07-06T20:52:07.914172+00:00"
+},
+{
+    "id": 55320,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In GRPS, Load supervision is done in _________ Layer.",
+    "op": [
+        "LLC",
+        "MAC",
+        "RLC",
+        "Physical"
+    ],
+    "created_at": "2026-07-06T20:52:28.668615+00:00"
+},
+{
+    "id": 55476,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "LA(link adaption) module continuously monitor and measure the ___________ condition.",
+    "op": [
+        "Control",
+        "Propagation",
+        "Error",
+        "delay"
+    ],
+    "created_at": "2026-07-07T00:38:00.597825+00:00"
+},
+{
+    "id": 55525,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The payload size in case of MCS-3 coding scheme is __________.",
+    "op": [
+        "74 octets",
+        "28 octets",
+        "56 octets",
+        "37 octets"
+    ],
+    "created_at": "2026-07-07T01:31:19.235889+00:00"
+},
+{
+    "id": 55728,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The payload of MCS 3 has the maximum size __________ octets.",
+    "op": [
+        "27",
+        "37",
+        "47",
+        "17"
+    ],
+    "created_at": "2026-07-07T03:48:02.712834+00:00"
+},
+{
+    "id": 55793,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Up-link data transfer in GPRS mobility is from MS to _________ .",
+    "op": [
+        "BSS",
+        "SS",
+        "CSS",
+        "BS"
+    ],
+    "created_at": "2026-07-07T04:17:33.913774+00:00"
+},
+{
+    "id": 55795,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Coding rate against MCS-9 is___________.",
+    "op": [
+        ".92",
+        ".84",
+        ".17",
+        "1.0"
+    ],
+    "created_at": "2026-07-07T04:19:17.782076+00:00"
+},
+{
+    "id": 55842,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Internet access by a GPRS user belongs to which of following types of GRPS service?",
+    "op": [
+        "Multipoint to Point",
+        "Point to Multipoint",
+        "Point to Point",
+        "Multipoint to Multipoint"
+    ],
+    "created_at": "2026-07-07T04:34:48.793649+00:00"
+},
+{
+    "id": 55924,
+    "cc": "CS314",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following channels is used to send the resource assignment to MS prior to packet transfer?",
+    "op": [
+        "PPCH",
+        "PNCH",
+        "PRACH",
+        "PAGCH"
+    ],
+    "created_at": "2026-07-07T05:08:22.653767+00:00"
+}
+]

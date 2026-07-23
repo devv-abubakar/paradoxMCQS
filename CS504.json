@@ -1,0 +1,2298 @@
+[
+{
+    "id": 23213,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How can we implement generalization in Object Oriented programming languages?",
+    "op": [
+        "Polymorphism",
+        "Abstraction",
+        "Inheritance",
+        "Encapsulation"
+    ],
+    "created_at": "2026-06-28T19:01:56.40151+00:00"
+},
+{
+    "id": 23217,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In multiprocessing applications, different execution threads may pass information to one another by sending _____________________ to each other.",
+    "op": [
+        "Synchronous messages",
+        "System calls",
+        "Interrupt calls",
+        "Asynchronous messages"
+    ],
+    "created_at": "2026-06-28T19:02:03.469128+00:00"
+},
+{
+    "id": 23221,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________ pointed out the elegant conceptual integrity exhibited by layered organization of software systems, with the resulting gains in development and maintenance ease.",
+    "op": [
+        "Barry Boehm",
+        "Shaw and Garlan",
+        "Edsger Dijkstra",
+        "David Parnas"
+    ],
+    "created_at": "2026-06-28T19:02:10.587847+00:00"
+},
+{
+    "id": 23227,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Client server is a ______________ system model.",
+    "op": [
+        "Distributed",
+        "Homogeneous",
+        "Heterogeneous",
+        "Integrated"
+    ],
+    "created_at": "2026-06-28T19:02:18.992356+00:00"
+},
+{
+    "id": 23230,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Collaboration diagram can show _______________.\na. Binary messages\nb. Asynchronous messages\nc. Synchronous messages",
+    "op": [
+        "c only",
+        "a only",
+        "b only",
+        "both b and c"
+    ],
+    "created_at": "2026-06-28T19:02:25.997173+00:00"
+},
+{
+    "id": 23238,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Sequence of messages can be present in:\na. Use case diagram\nb. Sequence diagram\nc. Collaboration diagram",
+    "op": [
+        "b only",
+        "b and c",
+        "c only",
+        "a only"
+    ],
+    "created_at": "2026-06-28T19:02:34.068872+00:00"
+},
+{
+    "id": 23239,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Client server model tries to …….data and processing.",
+    "op": [
+        "Clone",
+        "Merge",
+        "Proceed",
+        "Distribute"
+    ],
+    "created_at": "2026-06-28T19:02:43.411374+00:00"
+},
+{
+    "id": 23248,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A _____ relationship indicates that one entity is composed of one or more parts which are themselves instances of that or another entity.",
+    "op": [
+        "Specialization",
+        "Generalization",
+        "Whole-part",
+        "Inheritance"
+    ],
+    "created_at": "2026-06-28T19:02:52.115858+00:00"
+},
+{
+    "id": 23252,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Consider the following piece of code:\n\npublic class Square extends Shape { \n// some code .\n}\nThe above code is an example of:",
+    "op": [
+        "Generalization/Specialization",
+        "Data encapsulation",
+        "Data Sharing",
+        "Part-Whole relationship"
+    ],
+    "created_at": "2026-06-28T19:02:59.153076+00:00"
+},
+{
+    "id": 23439,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In case of a ________________ message, the called routine that handles the message is completed before the caller resumes execution.\na. Synchronous \nb. Asynchronous\nc. Bidirectional",
+    "op": [
+        "both b and c",
+        "a only",
+        "c only",
+        "b only"
+    ],
+    "created_at": "2026-06-28T19:07:03.008095+00:00"
+},
+{
+    "id": 23475,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Whole Part Structure is also called ______",
+    "op": [
+        "Generalization",
+        "Association",
+        "Aggregation",
+        "Specialization"
+    ],
+    "created_at": "2026-06-28T19:07:42.056606+00:00"
+},
+{
+    "id": 23501,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Selecting Objects (in a domain) include:",
+    "op": [
+        "Actors, Participants and Places",
+        "Only Actors",
+        "Only Actors and Places",
+        "Only Participants"
+    ],
+    "created_at": "2026-06-28T19:08:08.395025+00:00"
+},
+{
+    "id": 23530,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In order to determine the role and responsibilities of the identified objects, we need to consider which of the following step(s):\na. Who I am?\nb. What I know?\nc. Who I know?\nd. What I do?",
+    "op": [
+        "c and d",
+        "b, c and d",
+        "a and b",
+        "a only"
+    ],
+    "created_at": "2026-06-28T19:08:33.983941+00:00"
+},
+{
+    "id": 23549,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Return values in synchronous messages are:",
+    "op": [
+        "Not used at all",
+        "May not used when response is obvious",
+        "Compulsory",
+        "represented by solid lines"
+    ],
+    "created_at": "2026-06-28T19:09:05.616171+00:00"
+},
+{
+    "id": 23560,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The clients and servers, in a client server environment, are connected through _____________________.",
+    "op": [
+        "Groupware",
+        "Middleware",
+        "Interface",
+        "Framework"
+    ],
+    "created_at": "2026-06-28T19:09:22.850392+00:00"
+},
+{
+    "id": 23563,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following activities are included in the design process of a software architecture__________?",
+    "op": [
+        "Requirement Specifications of the system",
+        "Architectural Analysis and Testing",
+        "System Development and Deployment",
+        "System Structuring and Modular Decomposition"
+    ],
+    "created_at": "2026-06-28T19:09:28.347332+00:00"
+},
+{
+    "id": 23566,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Process view in Krutchen’s 4+1 architectural view model captures ____________.",
+    "op": [
+        "Static organization of the software in its development environment",
+        "Concurrency and synchronization aspects of the design",
+        "Object model of the design",
+        "Mapping(s) of the software onto the hardware and reflects its distributed aspect"
+    ],
+    "created_at": "2026-06-28T19:09:31.612913+00:00"
+},
+{
+    "id": 23577,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A ________ is a system component that provides services to other components but would not normally be considered as a separate system.",
+    "op": [
+        "Module",
+        "Method",
+        "Relationship",
+        "Message"
+    ],
+    "created_at": "2026-06-28T19:09:40.879173+00:00"
+},
+{
+    "id": 23591,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A \"register\" in \"Point of sale system\" is an example of:",
+    "op": [
+        "Tangible thing",
+        "Transaction",
+        "Actor",
+        "Participant"
+    ],
+    "created_at": "2026-06-28T19:09:56.328399+00:00"
+},
+{
+    "id": 23601,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Physical view in Krutchen’s 4+1 architectural view model captures __________.",
+    "op": [
+        "Mapping(s) of the software onto the hardware and reflects its distributed aspect",
+        "Static organization of the software in its development environment",
+        "Concurrency and synchronization aspects of the design",
+        "Object model of the design"
+    ],
+    "created_at": "2026-06-28T19:10:04.548748+00:00"
+},
+{
+    "id": 23607,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The focus of sequence diagrams is:",
+    "op": [
+        "On object constraints",
+        "On the flow of Control",
+        "On static Model of system",
+        "On objects/classes and messages exchanged among them"
+    ],
+    "created_at": "2026-06-28T19:10:08.866374+00:00"
+},
+{
+    "id": 23622,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Return values in Synchronous messages are represented by:",
+    "op": [
+        "Double line",
+        "A dotted line with label",
+        "A solid line with label",
+        "A solid line"
+    ],
+    "created_at": "2026-06-28T19:10:18.934991+00:00"
+},
+{
+    "id": 23629,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Defining the services of an object means:",
+    "op": [
+        "Whome it knows?",
+        "What it knows?",
+        "Who knows it?",
+        "What it does?"
+    ],
+    "created_at": "2026-06-28T19:10:27.483429+00:00"
+},
+{
+    "id": 23637,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Specialization means:",
+    "op": [
+        "Hiding the data",
+        "Creating new subclasses from an existing class",
+        "Abstraction",
+        "Calling the same method with object of child object"
+    ],
+    "created_at": "2026-06-28T19:10:34.882995+00:00"
+},
+{
+    "id": 23678,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In case of a file servers, client requests selected records from a .....and the server transmits records to client over the network.",
+    "op": [
+        "File",
+        "Local Memory",
+        "Network",
+        "Database"
+    ],
+    "created_at": "2026-06-28T19:11:44.295064+00:00"
+},
+{
+    "id": 23697,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When a class gets physical existance in computer memory, it is called",
+    "op": [
+        "Static Object",
+        "Object",
+        "polymorphism",
+        "Parent Class"
+    ],
+    "created_at": "2026-06-28T19:12:13.500109+00:00"
+},
+{
+    "id": 23710,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In sequence diagram, the solid lines depict:",
+    "op": [
+        "Messages being sent from one object to the other",
+        "Objects (or classes)",
+        "Life-time of an object",
+        "state of the object"
+    ],
+    "created_at": "2026-06-28T19:12:43.176175+00:00"
+},
+{
+    "id": 23717,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "As per Peter Coad’s methodology, which of the following may NOT be a perfect candidate for being an object?",
+    "op": [
+        "Garage",
+        "Recipient",
+        "Zone",
+        "Password"
+    ],
+    "created_at": "2026-06-28T19:13:05.295553+00:00"
+},
+{
+    "id": 23728,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In the architecture trade-off analysis method the architectural style should be described using the",
+    "op": [
+        "data Flow view and process view",
+        "data Flow view , module view and process view",
+        "data Flow view and module view",
+        "module view and process view"
+    ],
+    "created_at": "2026-06-28T19:13:39.428394+00:00"
+},
+{
+    "id": 23741,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Client server model, the application is modeled as a set of .....that are provided by servers.",
+    "op": [
+        "Services",
+        "Requests",
+        "Protocols",
+        "Requirements"
+    ],
+    "created_at": "2026-06-28T19:13:58.763285+00:00"
+},
+{
+    "id": 23745,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Static structural model shows the major system……",
+    "op": [
+        "Activities",
+        "Objectives",
+        "Components",
+        "Leaks"
+    ],
+    "created_at": "2026-06-28T19:14:08.193543+00:00"
+},
+{
+    "id": 23754,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A life line represents the object’s life during the interaction in a sequence diagram while its notation is depicted by ________.",
+    "op": [
+        "Curved Lines",
+        "Dotted Lines",
+        "Full Arrow",
+        "Solid Lines"
+    ],
+    "created_at": "2026-06-28T19:14:18.593494+00:00"
+},
+{
+    "id": 23764,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If Cat is derived from Mammal Class, and Mammal is derived from Animal Class, then:",
+    "op": [
+        "Cat will not be able to access any class",
+        "Cat is allowed to access only the Mammal’s Class",
+        "Cat will not inherit Animal's functions and data",
+        "Cat will inherit Animal's functions and data"
+    ],
+    "created_at": "2026-06-28T19:14:39.566058+00:00"
+},
+{
+    "id": 24195,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Thin Client Model places a heavy processing load on……",
+    "op": [
+        "Neither Server nor Network",
+        "Only Network",
+        "Both Server and Network",
+        "Only Server"
+    ],
+    "created_at": "2026-06-28T19:28:24.966674+00:00"
+},
+{
+    "id": 24198,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Fat Client Model is one of the configurations of ……Model.",
+    "op": [
+        "Client Server",
+        "Data-centered",
+        "Reference",
+        "Layered"
+    ],
+    "created_at": "2026-06-28T19:28:34.053468+00:00"
+},
+{
+    "id": 24200,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Aynchronous messages :",
+    "op": [
+        "are implemented as operation call",
+        "occurs in multi-threaded applications",
+        "are shown by dotted line",
+        "These block caller before response"
+    ],
+    "created_at": "2026-06-28T19:28:41.944599+00:00"
+},
+{
+    "id": 24217,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In sequence diagram, the boxes denote:",
+    "op": [
+        "Objects (or classes)",
+        "Relationships",
+        "Messages, sent from one object to other",
+        "Life-time of Objects"
+    ],
+    "created_at": "2026-06-28T19:29:21.459246+00:00"
+},
+{
+    "id": 24220,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The ___________ provides the software engineer with a view of the system as a whole.",
+    "op": [
+        "Process Model",
+        "Architectural Model",
+        "Requirements Model",
+        "Business model"
+    ],
+    "created_at": "2026-06-28T19:29:31.446081+00:00"
+},
+{
+    "id": 24228,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ has become a standard notation for object oriented system modeling.",
+    "op": [
+        "UML",
+        "C++",
+        "OCL (object Constraint Language)",
+        "Java"
+    ],
+    "created_at": "2026-06-28T19:29:49.965385+00:00"
+},
+{
+    "id": 24232,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Thin Client Model is one of the configurations of ……Model.",
+    "op": [
+        "Reference",
+        "Data-centered",
+        "Layered",
+        "Client Server"
+    ],
+    "created_at": "2026-06-28T19:29:59.16884+00:00"
+},
+{
+    "id": 24370,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not a possible server in client server environment?",
+    "op": [
+        "Database Server",
+        "Transaction Server",
+        "Time Server",
+        "File Server"
+    ],
+    "created_at": "2026-06-28T19:35:40.594633+00:00"
+},
+{
+    "id": 24412,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In \"Point of Sale system\", the term \"Payment\" represents",
+    "op": [
+        "Container",
+        "Actor",
+        "Participant",
+        "Transaction"
+    ],
+    "created_at": "2026-06-28T19:37:30.020497+00:00"
+},
+{
+    "id": 24416,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Dynamic process model shows the process ……of the system.",
+    "op": [
+        "Structure",
+        "Components",
+        "Objects",
+        "Linkage"
+    ],
+    "created_at": "2026-06-28T19:37:38.702623+00:00"
+},
+{
+    "id": 24424,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An attribute that varies over time, e.g., price of an item, should be replaced by a/an ___________ with an effective date and value",
+    "op": [
+        "Additional Method/Function",
+        "Structure",
+        "Additional Class",
+        "Interface"
+    ],
+    "created_at": "2026-06-28T19:38:02.762664+00:00"
+},
+{
+    "id": 24429,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In sequence diagram, the objects are organized in a _____________ line and the events in a __________ time line.",
+    "op": [
+        "Horizontal, straight",
+        "Horizontal, vertical",
+        "Vertical, straight",
+        "Vertical, horizontal"
+    ],
+    "created_at": "2026-06-28T19:38:19.146562+00:00"
+},
+{
+    "id": 24548,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identifying  Whole-Part structures (Aggregations) means what are my _________",
+    "op": [
+        "Components",
+        "Methods",
+        "Attributes",
+        "Messages"
+    ],
+    "created_at": "2026-06-28T19:50:02.852072+00:00"
+},
+{
+    "id": 24558,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Maintainability and Portability issues are discussed in _____________.",
+    "op": [
+        "Physical View",
+        "Functional View",
+        "Logical View",
+        "Code View"
+    ],
+    "created_at": "2026-06-28T19:50:35.812499+00:00"
+},
+{
+    "id": 24560,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "To determine the architectural style or combination of styles that best fits the Proposed system, requirements engineering is used to uncover",
+    "op": [
+        "control and data",
+        "algorithmic complexity",
+        "characteristics and constraints",
+        "design patterns"
+    ],
+    "created_at": "2026-06-28T19:50:51.808669+00:00"
+},
+{
+    "id": 24563,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A useful technique for evaluating the overall complexity of a proposed\narchitecture is to look at the component's _______ .",
+    "op": [
+        "flow dependencies and sharing dependencies",
+        "number and size of components",
+        "function points",
+        "size and cost"
+    ],
+    "created_at": "2026-06-28T19:51:02.430541+00:00"
+},
+{
+    "id": 24628,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Collaboration diagrams, sequence of messaging is shown by _______________.",
+    "op": [
+        "Ordering of the messages in time",
+        "Vertical ordering of messages",
+        "Horizontal ordering of the messages",
+        "Numbering each message in an increasing order of numeric value"
+    ],
+    "created_at": "2026-06-28T19:56:08.519359+00:00"
+},
+{
+    "id": 24633,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A necessary supplement to transform or transaction mapping needed to create a complete architectural design is",
+    "op": [
+        "the data dictionary",
+        "entity relationship diagrams",
+        "processing narratives for each module",
+        "test cases for each module"
+    ],
+    "created_at": "2026-06-28T19:56:48.069651+00:00"
+},
+{
+    "id": 24662,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Data-Centered Architectural Style is also called ….",
+    "op": [
+        "Client Server model",
+        "Reference model",
+        "Sub system model",
+        "Repository model"
+    ],
+    "created_at": "2026-06-28T19:59:58.955988+00:00"
+},
+{
+    "id": 24800,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Sequence diagrams:",
+    "op": [
+        "Provide the static behavior",
+        "Provide a time-based view",
+        "Provide Data Flow",
+        "Provide parallel data flow"
+    ],
+    "created_at": "2026-06-28T20:16:33.151885+00:00"
+},
+{
+    "id": 24940,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An architectural style encompasses which of the following elements?",
+    "op": [
+        "Constraints, Set of Components and Semantic Models",
+        "Set of Components and Semantic Models",
+        "Set of Components and Constraints",
+        "Semantic Models and Constraints"
+    ],
+    "created_at": "2026-06-28T20:40:46.352351+00:00"
+},
+{
+    "id": 24976,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "While establishing the services for an object, the goal  is to keep data and action together for ________ coupling and ________ cohesion.",
+    "op": [
+        "Higher, Lower",
+        "Higher, Higher",
+        "Lower, Lower",
+        "Lower, Higher"
+    ],
+    "created_at": "2026-06-28T20:52:58.020658+00:00"
+},
+{
+    "id": 24979,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In Object oriented design, combining the services offered by an object with the attributes they work on, results in:\na. Lower coupling and stronger cohesion\nb. Lower cohesion and stronger coupling \nc. Increased likelihood of reuse\nd. Decreases the modularity of the system",
+    "op": [
+        "b and d",
+        "a and c",
+        "b and c",
+        "a only"
+    ],
+    "created_at": "2026-06-28T20:53:35.806369+00:00"
+},
+{
+    "id": 25035,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The criteria used to assess the quality of an architectural design should be based on system",
+    "op": [
+        "accessibility and reliability",
+        "implementation details",
+        "functionality",
+        "data and control"
+    ],
+    "created_at": "2026-06-28T21:09:35.417281+00:00"
+},
+{
+    "id": 25036,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of these represents the Krutchen’s 4+1 architectural view model?",
+    "op": [
+        "Logical view, Dynamic view, Physical view, Development view, Use case view",
+        "Logical view, Process view, Physical view, Development view, Use case view",
+        "Logical view, Process view, Physical view, Development view, Sequence view",
+        "Dynamic view, Process view, Physical view, Development view, Use case view"
+    ],
+    "created_at": "2026-06-28T21:09:42.952423+00:00"
+},
+{
+    "id": 25098,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Software architecture must address _________________ requirements of a software system.",
+    "op": [
+        "Both Functional and Non-Functional",
+        "Functional",
+        "Non-Functional",
+        "User Interface Requirements"
+    ],
+    "created_at": "2026-06-28T21:26:27.115132+00:00"
+},
+{
+    "id": 25113,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Issues like system performance, availability, scalability, and security are analyzed in __________.",
+    "op": [
+        "Physical View",
+        "Code View",
+        "Concurrency View",
+        "Logical View"
+    ],
+    "created_at": "2026-06-28T21:39:56.636695+00:00"
+},
+{
+    "id": 25275,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Logical view in Krutchen’s 4+1 architectural view model captures________.",
+    "op": [
+        "Mapping(s)of the software onto the hardware and reflects its distributed aspect",
+        "Object model of the design",
+        "Concurrency and synchronization aspects of the design",
+        "Static organization of the software in its development environment"
+    ],
+    "created_at": "2026-06-28T22:08:37.782548+00:00"
+},
+{
+    "id": 25278,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not part of software architecture?",
+    "op": [
+        "algorithm details",
+        "program structure",
+        "data design",
+        "databases"
+    ],
+    "created_at": "2026-06-28T22:10:12.859145+00:00"
+},
+{
+    "id": 25363,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_________________ architectural model is widely used in mainframe application.",
+    "op": [
+        "Repository Model",
+        "Filter Model",
+        "Layered Model",
+        "Client-Server Model"
+    ],
+    "created_at": "2026-06-29T00:00:51.635179+00:00"
+},
+{
+    "id": 25428,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Different messages in sequence diagrams includes:",
+    "op": [
+        "Both Simple and Asynchronous",
+        "Notify",
+        "Asynchronous",
+        "Simple"
+    ],
+    "created_at": "2026-06-29T00:29:27.708263+00:00"
+},
+{
+    "id": 42739,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "________ has become a standard notation for object oriented system modeling.",
+    "op": [
+        "Java",
+        "OCL (object Constraint Language)",
+        "UML",
+        "C++"
+    ],
+    "created_at": "2026-06-30T06:53:39.896866+00:00"
+},
+{
+    "id": 42740,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "________________ pointed out the elegant conceptual integrity exhibited by layered organization of software systems, with the resulting gains in development and maintenance ease.",
+    "op": [
+        "Shaw and Garlan",
+        "Barry Boehm",
+        "David Parnas",
+        "Edsger Dijkstra"
+    ],
+    "created_at": "2026-06-30T06:53:45.844844+00:00"
+},
+{
+    "id": 42741,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "A life line represents the object’s life during the interaction in a sequence diagram while its notation is depicted by ________.",
+    "op": [
+        "Full Arrow",
+        "Dotted Lines",
+        "Curved Lines",
+        "Solid Lines"
+    ],
+    "created_at": "2026-06-30T06:53:51.999018+00:00"
+},
+{
+    "id": 42743,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "The ___________ provides the software engineer with a view of the system as a whole.",
+    "op": [
+        "Process Model",
+        "Architectural Model",
+        "Business model",
+        "Requirements Model"
+    ],
+    "created_at": "2026-06-30T06:54:04.356977+00:00"
+},
+{
+    "id": 42744,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following activities are included in the design process of a software architecture__________?",
+    "op": [
+        "Requirement Specifications of the system",
+        "Architectural Analysis and Testing",
+        "System Development and Deployment",
+        "System Structuring and Modular Decomposition"
+    ],
+    "created_at": "2026-06-30T06:54:10.198147+00:00"
+},
+{
+    "id": 42746,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "_________________ architectural model is widely used in mainframe application.",
+    "op": [
+        "Client-Server Model",
+        "Repository Model",
+        "Filter Model",
+        "Layered Model"
+    ],
+    "created_at": "2026-06-30T06:54:40.368816+00:00"
+},
+{
+    "id": 42747,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Identifying  Whole-Part structures (Aggregations) means what are my _________",
+    "op": [
+        "Methods",
+        "Components",
+        "Attributes",
+        "Messages"
+    ],
+    "created_at": "2026-07-01T07:08:05.361763+00:00"
+},
+{
+    "id": 42748,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Object oriented design, combining the services offered by an object with the attributes they work on, results in:\na. Lower coupling and stronger cohesion\nb. Lower cohesion and stronger coupling \nc. Increased likelihood of reuse\nd. Decreases the modularity of the system",
+    "op": [
+        "b and c",
+        "a only",
+        "a and c",
+        "b and d"
+    ],
+    "created_at": "2026-07-01T07:08:32.324851+00:00"
+},
+{
+    "id": 42749,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "\"A car is made up of a body, three or four wheels, a steering mechanism, a breaking mechanism, and a power-engine\"\nThe above statement is example of:",
+    "op": [
+        "Inheritance",
+        "Specialization",
+        "Whole-Part relationship",
+        "Generalization"
+    ],
+    "created_at": "2026-07-01T07:08:43.105737+00:00"
+},
+{
+    "id": 42750,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A _____ relationship indicates that one entity is composed of one or more parts which are themselves instances of that or another entity.",
+    "op": [
+        "Whole-part",
+        "Inheritance",
+        "Generalization",
+        "Specialization"
+    ],
+    "created_at": "2026-07-01T07:08:52.410139+00:00"
+},
+{
+    "id": 42751,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Sequence diagrams:",
+    "op": [
+        "Provide the static behavior",
+        "Provide parallel data flow",
+        "Provide a time-based view",
+        "Provide Data Flow"
+    ],
+    "created_at": "2026-07-01T07:08:59.628344+00:00"
+},
+{
+    "id": 42752,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An architectural style encompasses which of the following elements?",
+    "op": [
+        "Set of Components and Constraints",
+        "Semantic Models and Constraints",
+        "Set of Components and Semantic Models",
+        "Constraints, Set of Components and Semantic Models"
+    ],
+    "created_at": "2026-07-01T07:09:08.962878+00:00"
+},
+{
+    "id": 42753,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In multiprocessing applications, different execution threads may pass information to one another by sending _____________________ to each other.",
+    "op": [
+        "Asynchronous messages",
+        "System calls",
+        "Synchronous messages",
+        "Interrupt calls"
+    ],
+    "created_at": "2026-07-01T07:09:30.193559+00:00"
+},
+{
+    "id": 47622,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Comma ( , ) is very dangerous because ____________",
+    "op": [
+        "Compiler does not recognise this symbol",
+        "It does not causes side effects",
+        "It creates linkage problem",
+        "It causes side effects"
+    ],
+    "created_at": "2026-07-05T19:04:19.220593+00:00"
+},
+{
+    "id": 47649,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If an application fulfills its specifications but deviates from users expectations or their desired behavior. This means, software is verified but not ------------",
+    "op": [
+        "Corrected",
+        "Checked",
+        "Validated",
+        "Traced"
+    ],
+    "created_at": "2026-07-05T19:04:32.954021+00:00"
+},
+{
+    "id": 47661,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Floating point constants should always be written with decimal point and at least",
+    "op": [
+        "none of the given",
+        "two decimal",
+        "one decimal",
+        "three decimal"
+    ],
+    "created_at": "2026-07-05T19:04:41.733995+00:00"
+},
+{
+    "id": 47673,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Variables should be initialized where they are ------and they should be declared in the ------scope possible.",
+    "op": [
+        "defined and medium",
+        "declared and smallest",
+        "declared and medium",
+        "defined and smallest"
+    ],
+    "created_at": "2026-07-05T19:04:49.650953+00:00"
+},
+{
+    "id": 47690,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The complexity of a program may ______ if there are exceptional paths in it",
+    "op": [
+        "Cutback",
+        "Decrease",
+        "Remain same",
+        "Increase"
+    ],
+    "created_at": "2026-07-05T19:05:01.854499+00:00"
+},
+{
+    "id": 47707,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The form  for (;;) should be used for",
+    "op": [
+        "nested loop",
+        "more than 1000 iterations",
+        "empty loop",
+        "less than 1000 iterations"
+    ],
+    "created_at": "2026-07-05T19:05:11.830175+00:00"
+},
+{
+    "id": 47719,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In case of header files, construction is to avoid ------ errors. The construction should appear in the top of the file (before the file header).",
+    "op": [
+        "logical",
+        "All of the given",
+        "compilation",
+        "run time"
+    ],
+    "created_at": "2026-07-05T19:05:19.821375+00:00"
+},
+{
+    "id": 47728,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A self documenting code is a code that explains itself without the need of comments and extraneous documentation, like _______",
+    "op": [
+        "Process-flow state diagrams",
+        "Flowcharts",
+        "UML diagrams",
+        "All of the given choices"
+    ],
+    "created_at": "2026-07-05T19:05:26.629456+00:00"
+},
+{
+    "id": 47738,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "STL Stnads for ------------------",
+    "op": [
+        "Standard Tempo Line",
+        "Standard Template Library",
+        "Standard Type Link",
+        "Standard Type Link"
+    ],
+    "created_at": "2026-07-05T19:05:34.19963+00:00"
+},
+{
+    "id": 47749,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In order to write a portable code which of the following guideline will not be helpful:",
+    "op": [
+        "Stick to the standards",
+        "Size of data types",
+        "Using vendor specific language extensions",
+        "Program in the mainstream"
+    ],
+    "created_at": "2026-07-05T19:05:41.430647+00:00"
+},
+{
+    "id": 47751,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "It ensures that a class only has one instance and provides a global point of access to it.",
+    "op": [
+        "Singleton Pattern",
+        "Observer Pattern",
+        "Real Pattern",
+        "None of the given"
+    ],
+    "created_at": "2026-07-05T19:05:41.729088+00:00"
+},
+{
+    "id": 47764,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one of these is a correct short cut used by the programmer?",
+    "op": [
+        "x*a=",
+        "x*=a",
+        "=a*x",
+        "x=*a"
+    ],
+    "created_at": "2026-07-05T19:05:48.688977+00:00"
+},
+{
+    "id": 47786,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Identifier names also play a significant role in enhancing the -------- of a program.",
+    "op": [
+        "All of the given choices",
+        "Reliability",
+        "Readability",
+        "Writ ability"
+    ],
+    "created_at": "2026-07-05T19:06:02.587148+00:00"
+},
+{
+    "id": 47794,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If a function changes the value of some other accessible data object along with returning its value after execution, is called ___________.",
+    "op": [
+        "Short Circuiting",
+        "Side Effects",
+        "Abstraction",
+        "Modularity"
+    ],
+    "created_at": "2026-07-05T19:06:09.890912+00:00"
+},
+{
+    "id": 47802,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ cause major portability issues",
+    "op": [
+        "Conditional Structures",
+        "Sizes of data types",
+        "Bugs in code",
+        "Loops"
+    ],
+    "created_at": "2026-07-05T19:06:16.508379+00:00"
+},
+{
+    "id": 47816,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "“Description of communicating objects and classes that are customized to solve a general design problem in a particular context.” is called ----------",
+    "op": [
+        "System Design",
+        "Design Method",
+        "Design Pattren",
+        "System Pattren"
+    ],
+    "created_at": "2026-07-05T19:06:30.92127+00:00"
+},
+{
+    "id": 47827,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which indent size eliminates the chance of code lines splitting?",
+    "op": [
+        "4",
+        "2",
+        "3",
+        "6"
+    ],
+    "created_at": "2026-07-05T19:06:37.961498+00:00"
+},
+{
+    "id": 48102,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Exception handling provides:",
+    "op": [
+        "Error Handling mechanism",
+        "Both Portability & Code Usability mechanism",
+        "Portability mechanism",
+        "Code Usability mechanism"
+    ],
+    "created_at": "2026-07-05T19:10:28.894183+00:00"
+},
+{
+    "id": 48114,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "1) x = (a + 2 > 3)? a : a-1 ;\n2) if((a + 2)> 3)\n     x = a;\n   else \n     x = a - 1;",
+    "op": [
+        "None of the given options",
+        "Both statements are very complex",
+        "Statement (2) is more complex than (1)",
+        "Statement (1) is more complex than (2)"
+    ],
+    "created_at": "2026-07-05T19:10:46.25348+00:00"
+},
+{
+    "id": 48121,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Some bit field members are stored:\nI) left to right \nII) right to left\nIII) in circular array",
+    "op": [
+        "Both (I) and (II) are true",
+        "Only (II) is true",
+        "only (I) is true",
+        "Only (III) is true"
+    ],
+    "created_at": "2026-07-05T19:10:55.198315+00:00"
+},
+{
+    "id": 48140,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Switch statement is equal to ___________ statement.",
+    "op": [
+        "if-else",
+        "nested if",
+        "if-else if",
+        "if"
+    ],
+    "created_at": "2026-07-05T19:11:10.855208+00:00"
+},
+{
+    "id": 48151,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Charles Simonyi first discussed Hungarian Notation.\nHe was of ------ .",
+    "op": [
+        "IBM",
+        "Microsoft",
+        "Cisco",
+        "Dell"
+    ],
+    "created_at": "2026-07-05T19:11:18.925819+00:00"
+},
+{
+    "id": 48171,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The expressions with logical operators can be evaluated only from ___________________.",
+    "op": [
+        "Left to right",
+        "Right to left",
+        "Bottom to top",
+        "Top to bottom"
+    ],
+    "created_at": "2026-07-05T19:11:34.422437+00:00"
+},
+{
+    "id": 48188,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A function should not be larger in any case and should not exceed ______ in length .",
+    "op": [
+        "Half page",
+        "Three Pages",
+        "One page",
+        "Two pages"
+    ],
+    "created_at": "2026-07-05T19:11:44.822785+00:00"
+},
+{
+    "id": 48200,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "which of the following statements are same in output:\n1) a = a >> 2\n2) a = a / 4\n3) a = a * 2",
+    "op": [
+        "(1) and (2) only",
+        "All procduce the same result",
+        "(1) and (3) only",
+        "(2) and (3) only"
+    ],
+    "created_at": "2026-07-05T19:11:53.22826+00:00"
+},
+{
+    "id": 48291,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the switch statement, cases should always end with a -------statment.",
+    "op": [
+        "Stop",
+        "Switch",
+        "Go",
+        "Break"
+    ],
+    "created_at": "2026-07-05T19:12:51.459963+00:00"
+},
+{
+    "id": 48299,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "\"is\" prefix should be used for------ variables and methods.",
+    "op": [
+        "Constant",
+        "Boolean",
+        "General",
+        "None of the given"
+    ],
+    "created_at": "2026-07-05T19:12:58.32042+00:00"
+},
+{
+    "id": 48318,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In order to make a code more portable,  Instead of using vendor specific language extensions, use _______ as much as possible",
+    "op": [
+        "ISO",
+        "CMMI",
+        "ANSI",
+        "STL"
+    ],
+    "created_at": "2026-07-05T19:13:07.850205+00:00"
+},
+{
+    "id": 48328,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A __________ is a variance from a desired product attribute.",
+    "op": [
+        "Error",
+        "Exception",
+        "Defect",
+        "Mistake"
+    ],
+    "created_at": "2026-07-05T19:13:13.589763+00:00"
+},
+{
+    "id": 48335,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "C++ header files should have the extension---- Source files can have the extension ----",
+    "op": [
+        ".h and .cpp",
+        "All of the given",
+        ".c  and .h",
+        ".cc and .h"
+    ],
+    "created_at": "2026-07-05T19:13:19.603398+00:00"
+},
+{
+    "id": 48350,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Software _________ is the process of examining the software product against its requirements.",
+    "op": [
+        "Exception handling",
+        "Fixing",
+        "Debugging",
+        "Testing"
+    ],
+    "created_at": "2026-07-05T19:13:28.403629+00:00"
+},
+{
+    "id": 48359,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "N-tier architecture stems from the struggle to find a ----------- between the fat-client\narchitecture and the thin-client architecture.",
+    "op": [
+        "Distribution point",
+        "Similarity",
+        "Concurrency",
+        "Middle ground"
+    ],
+    "created_at": "2026-07-05T19:13:36.426891+00:00"
+},
+{
+    "id": 48370,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The C/C++ language has not specified whether ______ is arithmetic or logical.",
+    "op": [
+        "&&",
+        "Right shift >>",
+        "||",
+        "Right shift <<"
+    ],
+    "created_at": "2026-07-05T19:13:41.790008+00:00"
+},
+{
+    "id": 48377,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Complex expressions:",
+    "op": [
+        "Make the code difficult to modify",
+        "Make the code easy to modify",
+        "Does not effect understandablity",
+        "Make the code easy to understand"
+    ],
+    "created_at": "2026-07-05T19:13:50.714952+00:00"
+},
+{
+    "id": 48382,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When an error is thrown the overall system (on the lookout for this error flag) responds by ______ the error.",
+    "op": [
+        "Pass over",
+        "Casting",
+        "Ignoring",
+        "Catching"
+    ],
+    "created_at": "2026-07-05T19:13:57.806011+00:00"
+},
+{
+    "id": 48491,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ and ________ are important short circuiting logical operators.\na.AND\t\tb. OR\t\tc. NOT \t    d. NOR",
+    "op": [
+        "a & c",
+        "c & d",
+        "b & c",
+        "a & b"
+    ],
+    "created_at": "2026-07-05T19:15:46.83846+00:00"
+},
+{
+    "id": 48500,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Verification and validation are the processes in which we check a product against its _________ and the __________ of the users who will be using it",
+    "op": [
+        "specifications, expectations",
+        "specifications , arguments",
+        "statements, expectations",
+        "statements, arguments"
+    ],
+    "created_at": "2026-07-05T19:15:51.428356+00:00"
+},
+{
+    "id": 48515,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The raising of the imaginary error flag is simply called raising or ________ an error",
+    "op": [
+        "Throwing",
+        "Repress",
+        "Casting",
+        "Catching"
+    ],
+    "created_at": "2026-07-05T19:16:06.649715+00:00"
+},
+{
+    "id": 48518,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one is correct?",
+    "op": [
+        "all of the given",
+        "double total = 0.5;",
+        "double total = .50;",
+        "double total = .5;"
+    ],
+    "created_at": "2026-07-05T19:16:11.57564+00:00"
+},
+{
+    "id": 48525,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Bit fields allow the packing of data in a structure. using Bit fields we can:",
+    "op": [
+        "Avoid syntax errors",
+        "Avoid memory overflow",
+        "Read 9 bit integers",
+        "Avoid memory leakages"
+    ],
+    "created_at": "2026-07-05T19:16:16.572569+00:00"
+},
+{
+    "id": 48535,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "if (!(block < activeBlock))\n\nis equvivalent to:",
+    "op": [
+        "if ((block == activeBlock))",
+        "None of the given",
+        "if ((block < activeBlock))",
+        "if ((block >= activeBlock))"
+    ],
+    "created_at": "2026-07-05T19:16:30.681481+00:00"
+},
+{
+    "id": 48539,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Bit fields are a convenient way to express many difficult operations. However, bit fields suffer from one problem",
+    "op": [
+        "Lack of security",
+        "Lack of usability",
+        "Lack of portability",
+        "Lack of performance"
+    ],
+    "created_at": "2026-07-05T19:16:33.321714+00:00"
+},
+{
+    "id": 48610,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are ……layers in OSI reference model.",
+    "op": [
+        "6",
+        "8",
+        "7",
+        "5"
+    ],
+    "created_at": "2026-07-05T19:17:45.923782+00:00"
+},
+{
+    "id": 48628,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Goto statements violate the idea of",
+    "op": [
+        "structured code",
+        "object oriented code",
+        "repetition structure",
+        "control  structure"
+    ],
+    "created_at": "2026-07-05T19:17:56.972797+00:00"
+},
+{
+    "id": 48696,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "if a major rework is required to translate a program written for one environment to another, it means code is not or less _________",
+    "op": [
+        "Bug Free",
+        "plateform dependent",
+        "Secure",
+        "Portable"
+    ],
+    "created_at": "2026-07-05T19:19:13.376807+00:00"
+},
+{
+    "id": 48702,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "using proper paranthesis normally makes the code",
+    "op": [
+        "easy to understand",
+        "All of the given options",
+        "less ambigous",
+        "easy to read"
+    ],
+    "created_at": "2026-07-05T19:19:18.743878+00:00"
+},
+{
+    "id": 48709,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Vertical partitioning divides the architecture application from a …… making perspective.",
+    "op": [
+        "Decision",
+        "Conclusion",
+        "Move",
+        "Design"
+    ],
+    "created_at": "2026-07-05T19:19:30.202401+00:00"
+},
+{
+    "id": 48713,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is used for multi level commenting?",
+    "op": [
+        "*/ Comment/*",
+        "// Comment",
+        "/* Comment */",
+        "(Comment)"
+    ],
+    "created_at": "2026-07-05T19:19:34.82826+00:00"
+},
+{
+    "id": 48719,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "for (i =0, col = 0; i < 27; i++, j++)\nIn the above line of the code, 27 is representing____________.",
+    "op": [
+        "Positive Numbers",
+        "Constant Numbers",
+        "Real Numbers",
+        "Magic Numbers"
+    ],
+    "created_at": "2026-07-05T19:19:38.190185+00:00"
+},
+{
+    "id": 48722,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ and _________ are two important tools that helps in managing the program complexity.",
+    "op": [
+        "Composition, Inheritance",
+        "Abstraction, Encapsulation",
+        "Modularity, Composition",
+        "Aggregation, Inheritance"
+    ],
+    "created_at": "2026-07-05T19:19:48.312504+00:00"
+},
+{
+    "id": 48736,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Code should not be:",
+    "op": [
+        "aligned",
+        "indented",
+        "commented",
+        "cryptic"
+    ],
+    "created_at": "2026-07-05T19:20:10.420421+00:00"
+},
+{
+    "id": 48742,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In the N-Tire Architecture,the idea is to enhance scalability and -------------- by distributing both the data and the application using multiple server machines.",
+    "op": [
+        "Interoperability",
+        "Performance",
+        "Usability",
+        "Integrity"
+    ],
+    "created_at": "2026-07-05T19:20:16.302275+00:00"
+},
+{
+    "id": 48766,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Class variables should never be declared public. Public variables violate which of the following:",
+    "op": [
+        "Encapsulation",
+        "None of the given",
+        "Information hiding",
+        "Information hiding and Encapsulation"
+    ],
+    "created_at": "2026-07-05T19:20:38.725136+00:00"
+},
+{
+    "id": 49064,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Constant values used in the program are called_________.",
+    "op": [
+        "Real Numbers",
+        "Magic Numbers",
+        "Positive Numbers",
+        "Constant Numbers"
+    ],
+    "created_at": "2026-07-05T19:28:31.204534+00:00"
+},
+{
+    "id": 49096,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In case of using unrelated operators in a single expression, _________ would be the best choice to prevent the logical errors.",
+    "op": [
+        "Parenthesis",
+        "Indents",
+        "Short Cuts",
+        "Comments"
+    ],
+    "created_at": "2026-07-05T19:29:26.805569+00:00"
+},
+{
+    "id": 49098,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Be very careful when you use functions with side effects – functions that change the values of the \n________",
+    "op": [
+        "Variables",
+        "Objects",
+        "Structures",
+        "Classes"
+    ],
+    "created_at": "2026-07-05T19:29:32.057952+00:00"
+},
+{
+    "id": 49233,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Patterns are devices that allow programs to share knowledge about their -------------.",
+    "op": [
+        "Analysis",
+        "Code",
+        "Design",
+        "Implementation"
+    ],
+    "created_at": "2026-07-05T19:34:21.946444+00:00"
+},
+{
+    "id": 49265,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Global variables in C++ should always be referred to by using the",
+    "op": [
+        "Without an operator",
+        "None of the given",
+        ": operator",
+        ":: operator"
+    ],
+    "created_at": "2026-07-05T19:35:24.088251+00:00"
+},
+{
+    "id": 49396,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________ is a tool that can help us in reducing the size of individual functions.",
+    "op": [
+        "Abstraction",
+        "Association",
+        "Inheritance",
+        "Modularity"
+    ],
+    "created_at": "2026-07-05T19:39:56.618713+00:00"
+},
+{
+    "id": 49406,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "MVC stands for ---------------",
+    "op": [
+        "Model View Controller",
+        "Modern View Center",
+        "Model View Center",
+        "Modern View Controller"
+    ],
+    "created_at": "2026-07-05T19:40:15.194063+00:00"
+},
+{
+    "id": 49428,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The order in which bytes of one word are stored is _________ dependent",
+    "op": [
+        "software",
+        "hardware",
+        "syntax",
+        "language"
+    ],
+    "created_at": "2026-07-05T19:41:01.461079+00:00"
+},
+{
+    "id": 49438,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "-----provides a unified interface to a set of interfaces in a sub-system.",
+    "op": [
+        "All of the above",
+        "Observer Pattern",
+        "Singleton Pattern",
+        "Façade Pattern"
+    ],
+    "created_at": "2026-07-05T19:41:31.880617+00:00"
+},
+{
+    "id": 49447,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following shows a commented statement in C++",
+    "op": [
+        "// Ans = first + second",
+        "\\\\ Ans = first + second",
+        "/# Ans = first + second",
+        "# Ans = first + second"
+    ],
+    "created_at": "2026-07-05T19:41:41.844685+00:00"
+},
+{
+    "id": 49457,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "if (e.Title() == “CEO” || e.Salary() > 10000)\nin the above statement if (e.Title()==\"CEO\") is TRUE then",
+    "op": [
+        "Second part is not evaluated but e.Salary() is called",
+        "Second part must also be TRUE",
+        "Second part is always evaluated",
+        "Second part is not evaluated"
+    ],
+    "created_at": "2026-07-05T19:41:56.164299+00:00"
+},
+{
+    "id": 49463,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When programmers use shortcuts and cryptic codes in their program, ________ becomes a major problem.",
+    "op": [
+        "Availability",
+        "Reusability",
+        "Maintenance",
+        "Readability"
+    ],
+    "created_at": "2026-07-05T19:42:02.399531+00:00"
+},
+{
+    "id": 49481,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When a small set of functions (which use each other) is so overwhelmingly the bottleneck, there are two alternatives:",
+    "op": [
+        "changed programming language OR compiler at least",
+        "use a better algorithm OR re-write the code",
+        "debug the code OR place assertions in code",
+        "remove the functions OR add more functions"
+    ],
+    "created_at": "2026-07-05T19:42:39.66986+00:00"
+},
+{
+    "id": 49596,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "x = 0; // x is floating pt\n\nWhich rewritten form of above line of code is more in line with the self-documentation philosophy than the code above.",
+    "op": [
+        "x = ‘\\0’",
+        "x = false",
+        "x = NULL",
+        "x = 0.0;"
+    ],
+    "created_at": "2026-07-05T19:47:20.408548+00:00"
+},
+{
+    "id": 49600,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The idea behind exception handling is to raise some error flag every time ________",
+    "op": [
+        "The code compiles",
+        "Something goes wrong",
+        "The code links",
+        "Memory is allocated"
+    ],
+    "created_at": "2026-07-05T19:47:35.772885+00:00"
+},
+{
+    "id": 49607,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The process that involves verification of product with respect to its written requirements is called _________.",
+    "op": [
+        "Debugging",
+        "Developement",
+        "Maintainance",
+        "Testing"
+    ],
+    "created_at": "2026-07-05T19:47:53.185959+00:00"
+},
+{
+    "id": 49820,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Vertical partitioning is also known as…..",
+    "op": [
+        "Factoring",
+        "Mutating",
+        "Parallelizing",
+        "Balancing"
+    ],
+    "created_at": "2026-07-05T19:57:27.7679+00:00"
+},
+{
+    "id": 49962,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Distributing the responsibilities to different subsystems so that we get a software system which is easy to maintain, is called ………the architecture.",
+    "op": [
+        "Subtracting",
+        "Cloning",
+        "Partitioning",
+        "Balancing"
+    ],
+    "created_at": "2026-07-05T20:07:48.256501+00:00"
+},
+{
+    "id": 49966,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The size of __________ plays a significant role in making the program easy or difficult to understand.",
+    "op": [
+        "none of the above",
+        "object",
+        "data type",
+        "function"
+    ],
+    "created_at": "2026-07-05T20:08:18.669946+00:00"
+},
+{
+    "id": 50131,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "One of the main reasons to make functions is ________.",
+    "op": [
+        "Maintainability",
+        "Reliability",
+        "Reusability",
+        "Effeciency"
+    ],
+    "created_at": "2026-07-05T20:25:29.582884+00:00"
+},
+{
+    "id": 50164,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The greatest advantage of exception handling is its ability to handle:",
+    "op": [
+        "Memory errors",
+        "Syntax errors",
+        "Asynchronous errors",
+        "Control Structure errors"
+    ],
+    "created_at": "2026-07-05T20:30:18.511223+00:00"
+},
+{
+    "id": 50166,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Exception handling is a powerful technique that separates error-handling code from\n______ code.",
+    "op": [
+        "Normal",
+        "Buggy",
+        "Complex",
+        "Faulty"
+    ],
+    "created_at": "2026-07-05T20:30:26.34932+00:00"
+},
+{
+    "id": 50175,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The number __________ is the most abused symbol in programs written in C or C++.",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-07-05T20:32:11.544885+00:00"
+},
+{
+    "id": 50242,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_________ was the first pure Object Oriented language in which observer pattern was used in implementing its Model View Controller pattern",
+    "op": [
+        "C++",
+        "PASCAL",
+        "Smalltalk",
+        "JAVA"
+    ],
+    "created_at": "2026-07-05T20:37:57.515521+00:00"
+},
+{
+    "id": 51001,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "80/20 rule states that:",
+    "op": [
+        "you spend 20 percent of your time in 80 percent of the code",
+        "We should try to optimized 80 percent or at least 20 percent of the code",
+        "We should try to optimized 20 percent or at least 80 percent of the code",
+        "you spend 80 percent of your time in 20 percent of the code"
+    ],
+    "created_at": "2026-07-06T00:03:25.889383+00:00"
+},
+{
+    "id": 73635,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Performance, Security and maintainability are the types of ________ requirements.",
+    "op": [
+        "Domain",
+        "Functional",
+        "Business",
+        "Non-Functional"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73636,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A useful technique for evaluating the overall complexity of a proposed architecture is to look at the component's _______ .",
+    "op": [
+        "number and size of components",
+        "function points",
+        "flow dependencies and sharing dependencies",
+        "size and cost"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73642,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Collaboration diagram can show _______________. a. Binary messages b. Asynchronous messages c. Synchronous messages",
+    "op": [
+        "b only",
+        "both b and c",
+        "a only",
+        "c only"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73643,
+    "cc": "CS504",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Sequence of messages can be present in: a. Use case diagram b. Sequence diagram c. Collaboration diagram",
+    "op": [
+        "b only",
+        "a only",
+        "b and c",
+        "c only"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73687,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Exception handling is a powerful technique that separates error-handling code from ______ code.",
+    "op": [
+        "Buggy",
+        "Faulty",
+        "Normal",
+        "Complex"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73688,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In order to make a code more portable, Instead of using vendor specific language extensions, use _______ as much as possible",
+    "op": [
+        "STL",
+        "CMMI",
+        "ISO",
+        "ANSI"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73689,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "1) x = (a + 2 > 3)? a : a-1 ; 2) if((a + 2)> 3) x = a; else x = a - 1;",
+    "op": [
+        "Statement (1) is more complex than (2)",
+        "Both statements are very complex",
+        "Statement (2) is more complex than (1)",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73697,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "str = 0; // str is string Which rewritten form of above line of code is more in line with the self-documentation philosophy than the code above.",
+    "op": [
+        "str = false;",
+        "str = NULL;",
+        "str = ‘\\0’;",
+        "str = 0.0;"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73698,
+    "cc": "CS504",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Consider the following statement: int a,b=10; Which of the following is correct:",
+    "op": [
+        "variable \"a\" is initialized to 10",
+        "Variable \"b\" is initialized to 10",
+        "variables can not be initialized this way",
+        "Both variables \"a\" and \"b\" are initialized to 10"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

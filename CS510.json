@@ -1,0 +1,828 @@
+[
+{
+    "id": 24211,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Given below is an operation of identify business actor:",
+    "op": [
+        "Who will maintain information in the system?",
+        "Construct use-case model diagram of the system",
+        "Document the business requirements will be written by user",
+        "What are the main tasks of the actor?"
+    ],
+    "created_at": "2026-06-28T19:29:16.795245+00:00"
+},
+{
+    "id": 24219,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "\"Librarian Updates Catalogue\". \nFrom above statement, ____________ is use case.",
+    "op": [
+        "b) Catalogue",
+        "c) Update Catalogue",
+        "a) Librarian",
+        "d) Both a and b"
+    ],
+    "created_at": "2026-06-28T19:29:25.339362+00:00"
+},
+{
+    "id": 24222,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In use case diagram, a human like symbol represents:",
+    "op": [
+        "Model",
+        "System boundary",
+        "Actor",
+        "Use case"
+    ],
+    "created_at": "2026-06-28T19:29:34.193024+00:00"
+},
+{
+    "id": 24225,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The third step of use case modeling is:",
+    "op": [
+        "Construct use-case model diagram",
+        "Identify business actor",
+        "Documents business requirements",
+        "Identify business use cases"
+    ],
+    "created_at": "2026-06-28T19:29:42.135031+00:00"
+},
+{
+    "id": 24230,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The first step of use case modeling is:",
+    "op": [
+        "Construct use-case model diagram",
+        "Identify business actor",
+        "Documents business requirements",
+        "Identify business use cases"
+    ],
+    "created_at": "2026-06-28T19:29:53.29444+00:00"
+},
+{
+    "id": 24234,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Use cases should be named with a ____________ specifying the objective of the actor.",
+    "op": [
+        "Preposition",
+        "Verb",
+        "Noun",
+        "Adjective"
+    ],
+    "created_at": "2026-06-28T19:30:03.394194+00:00"
+},
+{
+    "id": 24240,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Use case diagram is a:",
+    "op": [
+        "Specific System",
+        "Model",
+        "Subsystem",
+        "Entity"
+    ],
+    "created_at": "2026-06-28T19:30:11.35066+00:00"
+},
+{
+    "id": 24246,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Use case diagram does not specify:",
+    "op": [
+        "Who will run the test case",
+        "Who uses the system",
+        "What tasks, a system performs",
+        "Which user interacts with which use case"
+    ],
+    "created_at": "2026-06-28T19:30:22.529689+00:00"
+},
+{
+    "id": 24250,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A subset of overall system functionality is called ___________.",
+    "op": [
+        "Artefact",
+        "Model",
+        "Use case",
+        "Assignment"
+    ],
+    "created_at": "2026-06-28T19:30:29.951641+00:00"
+},
+{
+    "id": 24254,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________________ an activity to be described at a high level, then expanded at lower level by adding details.",
+    "op": [
+        "State diagram",
+        "Concurrency",
+        "Aggregation",
+        "Nested state diagram"
+    ],
+    "created_at": "2026-06-28T19:30:36.693368+00:00"
+},
+{
+    "id": 24279,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In the statement: \n\"Ali schedules flight\"\nAli is __________",
+    "op": [
+        "Relation",
+        "Use case",
+        "Actor",
+        "Model"
+    ],
+    "created_at": "2026-06-28T19:32:03.382218+00:00"
+},
+{
+    "id": 24287,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Given below is a sample state of a car:",
+    "op": [
+        "Accelerator: On",
+        "Brakes: Off",
+        "Transmission: Reverse",
+        "Fuel: Empty"
+    ],
+    "created_at": "2026-06-28T19:32:30.414372+00:00"
+},
+{
+    "id": 24306,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "“User does not click the submit button but clicks the cancel button to go back home page” is a/an:",
+    "op": [
+        "System failure",
+        "Assumption",
+        "Alternative path",
+        "Exception"
+    ],
+    "created_at": "2026-06-28T19:33:29.300361+00:00"
+},
+{
+    "id": 24317,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________________ is responsible for the flow of work and information between activities performed by users and system or its parts.",
+    "op": [
+        "Sequence diagram",
+        "Finite State Machine diagram",
+        "Use case diagram",
+        "Activity diagram"
+    ],
+    "created_at": "2026-06-28T19:33:52.677545+00:00"
+},
+{
+    "id": 24328,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Aggregation provides:",
+    "op": [
+        "Transition",
+        "Generalization",
+        "Redundancy",
+        "Concurrency"
+    ],
+    "created_at": "2026-06-28T19:34:12.592309+00:00"
+},
+{
+    "id": 24336,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "“Server not connected” is a/an:",
+    "op": [
+        "Alternative path",
+        "Assumption",
+        "Exception",
+        "System failure"
+    ],
+    "created_at": "2026-06-28T19:34:24.815776+00:00"
+},
+{
+    "id": 24341,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Transition from one state to the next is denoted by:",
+    "op": [
+        "A signal",
+        "Round rectangle",
+        "Filled black circle",
+        "Arrow head"
+    ],
+    "created_at": "2026-06-28T19:34:32.829238+00:00"
+},
+{
+    "id": 24345,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All of the given are benefits of a requirement model except ___________.",
+    "op": [
+        "It helps to identify the customer.",
+        "It can provide a measure of progress.",
+        "It can help to uncover problems.",
+        "It can guide in elicitation."
+    ],
+    "created_at": "2026-06-28T19:34:40.69089+00:00"
+},
+{
+    "id": 24353,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "State of aggregate object is combination of states of __________________.",
+    "op": [
+        "Sub-transition",
+        "Sub-generalization",
+        "Sub-objects",
+        "Sub-concurrency"
+    ],
+    "created_at": "2026-06-28T19:34:52.864946+00:00"
+},
+{
+    "id": 24355,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A State is denoted by:",
+    "op": [
+        "Filled black circle",
+        "Round rectangle",
+        "A signal",
+        "Arrow head"
+    ],
+    "created_at": "2026-06-28T19:34:59.341702+00:00"
+},
+{
+    "id": 24359,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________ is the cause of the transition.",
+    "op": [
+        "State",
+        "Transition",
+        "Initial & final state",
+        "Trigger"
+    ],
+    "created_at": "2026-06-28T19:35:06.705661+00:00"
+},
+{
+    "id": 24361,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ is one of the dependency relations in use case diagram.",
+    "op": [
+        "Verifies",
+        "Extends",
+        "Indicate",
+        "Solves"
+    ],
+    "created_at": "2026-06-28T19:35:12.853034+00:00"
+},
+{
+    "id": 24366,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There are ________ major steps for making a use case modeling.",
+    "op": [
+        "Two",
+        "One",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-06-28T19:35:25.335783+00:00"
+},
+{
+    "id": 24561,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Actor must be name with proper ______________.",
+    "op": [
+        "Noun",
+        "Preposition",
+        "Adjective",
+        "Verb"
+    ],
+    "created_at": "2026-06-28T19:50:55.695926+00:00"
+},
+{
+    "id": 24562,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is not a proper use case name?",
+    "op": [
+        "TrackOrder",
+        "BookOrder",
+        "CancelOrder",
+        "FlightNumber"
+    ],
+    "created_at": "2026-06-28T19:51:02.412575+00:00"
+},
+{
+    "id": 24565,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In context of UseCase diagram, association between an actor and usecase is represented by a/an:",
+    "op": [
+        "Oval",
+        "Human like Symbol",
+        "Rectangle",
+        "Line"
+    ],
+    "created_at": "2026-06-28T19:51:09.337054+00:00"
+},
+{
+    "id": 24567,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A _______ is set of diagrams, each of which focuses on a different aspect of the user’s needs.",
+    "op": [
+        "System document",
+        "Plan",
+        "Requirement model",
+        "A simple model"
+    ],
+    "created_at": "2026-06-28T19:51:16.304952+00:00"
+},
+{
+    "id": 24575,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The initial state is denoted by:",
+    "op": [
+        "Arrow head",
+        "Filled black circle",
+        "Round rectangle",
+        "A signal"
+    ],
+    "created_at": "2026-06-28T19:51:46.132527+00:00"
+},
+{
+    "id": 24686,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________________ provide a concise, complete, and unambiguous representation of the states of an object or system.",
+    "op": [
+        "State Machines",
+        "Moore Machine",
+        "Melay Machine",
+        "Finite State Machine"
+    ],
+    "created_at": "2026-06-28T20:03:20.086554+00:00"
+},
+{
+    "id": 24692,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The forth step of use case modeling is:",
+    "op": [
+        "Documents business requirements",
+        "Construct use-case model diagram",
+        "Identify business use cases",
+        "Identify business actor"
+    ],
+    "created_at": "2026-06-28T20:03:55.191433+00:00"
+},
+{
+    "id": 25281,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "____________ shows that which actor interacts with which user.",
+    "op": [
+        "Dependency",
+        "Object",
+        "Composition",
+        "Association"
+    ],
+    "created_at": "2026-06-28T22:26:02.158019+00:00"
+},
+{
+    "id": 25513,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An ______ dependency, is a generalization relationship denoting the inclusion of the behaviour described by another use case.",
+    "op": [
+        "Verify",
+        "Solve",
+        "Extend",
+        "Include"
+    ],
+    "created_at": "2026-06-29T01:15:49.010766+00:00"
+},
+{
+    "id": 47647,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Identify the FALSE statement:",
+    "op": [
+        "Goals help us to verify requirements completeness",
+        "Goals help us to elicit requirements",
+        "Goals help us to explore design choices",
+        "Goals help us to read the mind of customer"
+    ],
+    "created_at": "2026-07-05T19:04:31.931489+00:00"
+},
+{
+    "id": 47662,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Associations are ________ objects.",
+    "op": [
+        "independent and passive",
+        "dependent and passive",
+        "independent and active",
+        "dependent and active"
+    ],
+    "created_at": "2026-07-05T19:04:41.967624+00:00"
+},
+{
+    "id": 47717,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Entities are independent because:",
+    "op": [
+        "Their  descriptions do not need to refer to other objects of the model",
+        "They don't have any attributes",
+        "They don't have methods",
+        "They can’t perform operations"
+    ],
+    "created_at": "2026-07-05T19:05:18.720388+00:00"
+},
+{
+    "id": 47730,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Agents are _________ objects.",
+    "op": [
+        "independent and passive",
+        "dependent and active",
+        "dependent and passive",
+        "independent and active"
+    ],
+    "created_at": "2026-07-05T19:05:27.285023+00:00"
+},
+{
+    "id": 47737,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Key concept in Non Functional Requirement (NFR)Framework is notion of:",
+    "op": [
+        "Design",
+        "Softgoal",
+        "Criteria of satisfaction of goal",
+        "Requirement"
+    ],
+    "created_at": "2026-07-05T19:05:33.998707+00:00"
+},
+{
+    "id": 47755,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________ can be identified by looking at all the existing requirements.",
+    "op": [
+        "Goals",
+        "Objects",
+        "Behaviors",
+        "Operations"
+    ],
+    "created_at": "2026-07-05T19:05:42.80916+00:00"
+},
+{
+    "id": 47767,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Operationalizing softgoal means:",
+    "op": [
+        "a) Finding Non functional softgoals",
+        "b) Finding lower-level (design) techniques for satisficing NFR softgoals",
+        "d) Both b and c",
+        "c) Finding the design process to implement requirements"
+    ],
+    "created_at": "2026-07-05T19:05:50.323077+00:00"
+},
+{
+    "id": 47829,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In KAOS operation model, operations are represented by ______________.",
+    "op": [
+        "Ovals",
+        "Cloud",
+        "Parallelogram",
+        "Rectangles"
+    ],
+    "created_at": "2026-07-05T19:06:39.883665+00:00"
+},
+{
+    "id": 47842,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Softgoals are goals that:",
+    "op": [
+        "Are nothing but implementations of requirements",
+        "Do not have a clear-cut criterion for their satisfaction",
+        "Do have a clear-cut criterion for their satisfaction",
+        "Are nothing but implementations of different design choices"
+    ],
+    "created_at": "2026-07-05T19:06:48.348094+00:00"
+},
+{
+    "id": 47852,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "RUP stands for _____________.",
+    "op": [
+        "Rational Unified Programming",
+        "Rapid Unified Programming",
+        "Rational Unified Process",
+        "Rapid Unified Process"
+    ],
+    "created_at": "2026-07-05T19:06:56.748084+00:00"
+},
+{
+    "id": 48255,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The main modeling tool that NFR framework provides is:",
+    "op": [
+        "System Artifact Model (SAM)",
+        "System Interaction Model (SIM)",
+        "Softgoal Interdependency Graph (SIG)",
+        "Analysis and Design Toll (ADT)"
+    ],
+    "created_at": "2026-07-05T19:12:31.576578+00:00"
+},
+{
+    "id": 48272,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ are expressed in terms of operations performed by agents.",
+    "op": [
+        "Ovals",
+        "Goals",
+        "Objects",
+        "Behaviors"
+    ],
+    "created_at": "2026-07-05T19:12:41.551433+00:00"
+},
+{
+    "id": 48303,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Behaviors are expressed in terms of ______ performed by agents.",
+    "op": [
+        "Operations",
+        "Attributes",
+        "Goals",
+        "Associations"
+    ],
+    "created_at": "2026-07-05T19:12:59.790487+00:00"
+},
+{
+    "id": 48343,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_____________ is the most famous agile technique.",
+    "op": [
+        "Extreme Programming",
+        "Scaling",
+        "Testing",
+        "Hard Coding"
+    ],
+    "created_at": "2026-07-05T19:13:23.918416+00:00"
+},
+{
+    "id": 48353,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ are represented as those traffic signs that are used to indicate directions.",
+    "op": [
+        "Events",
+        "Behaviors",
+        "Operations",
+        "Objects"
+    ],
+    "created_at": "2026-07-05T19:13:31.654153+00:00"
+},
+{
+    "id": 48368,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Identify the FALSE statement(s):",
+    "op": [
+        "a) A requirement is a particular way of achieving a goal.",
+        "d) Both a and b",
+        "b) Requirements are at a higher level than goals",
+        "c) Goals are more stable than corresponding requirements"
+    ],
+    "created_at": "2026-07-05T19:13:40.556481+00:00"
+},
+{
+    "id": 48395,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Extreme Programming (XP) use story cards for _____________.",
+    "op": [
+        "elicitation",
+        "validation",
+        "analysis",
+        "defect removal"
+    ],
+    "created_at": "2026-07-05T19:14:12.488047+00:00"
+},
+{
+    "id": 48759,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A __________ describes for each agent, the requirements and expectations that he is responsible for.",
+    "op": [
+        "Responsibility diagram",
+        "Softgoal Interdependency Graph",
+        "Object Model",
+        "Goal Model"
+    ],
+    "created_at": "2026-07-05T19:20:32.34441+00:00"
+},
+{
+    "id": 48782,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "KAOS responsibility model contains all the responsibility ____________.",
+    "op": [
+        "requirements",
+        "values",
+        "variables",
+        "diagrams"
+    ],
+    "created_at": "2026-07-05T19:20:59.009236+00:00"
+},
+{
+    "id": 48841,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In context of NFR framework, which of the following is NOT one of the framework activities:",
+    "op": [
+        "Decomposing NFRs",
+        "Extracting functional requirements from Non functional requirements",
+        "Capturing NFRs for the domain of interest",
+        "Identifying possible NFR operationalizations"
+    ],
+    "created_at": "2026-07-05T19:22:24.484085+00:00"
+},
+{
+    "id": 49138,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A user story is the description that provides business value to the _____________.",
+    "op": [
+        "project manager",
+        "developer",
+        "customer",
+        "tester"
+    ],
+    "created_at": "2026-07-05T19:30:56.48132+00:00"
+},
+{
+    "id": 49147,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not an agile technique:",
+    "op": [
+        "Lean Software Development",
+        "Scrum",
+        "Rapid Application Development",
+        "Extreme Programming (XP)"
+    ],
+    "created_at": "2026-07-05T19:31:12.799766+00:00"
+},
+{
+    "id": 50047,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which statement is FALSE?\nTo be complete, operation model must specify:",
+    "op": [
+        "When operations are to be executed",
+        "The agents who perform the operations",
+        "The input and output data for each operation",
+        "non-functional requirements to be considered"
+    ],
+    "created_at": "2026-07-05T20:16:05.874892+00:00"
+},
+{
+    "id": 50337,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one is wrong?\nSoftgoal Interdependency Graph represents:",
+    "op": [
+        "Softgoals",
+        "Softgoal supporting decisions",
+        "Softgoal refinements (AND/OR)",
+        "Softgoal contributions (Positive/Negative)"
+    ],
+    "created_at": "2026-07-05T20:45:52.429132+00:00"
+},
+{
+    "id": 52040,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________ are input-output relations over objects.",
+    "op": [
+        "Attributes",
+        "Goals",
+        "Properties",
+        "Operations"
+    ],
+    "created_at": "2026-07-06T03:15:17.573454+00:00"
+},
+{
+    "id": 73637,
+    "cc": "CS510",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "\"Librarian Updates Catalogue\". From above statement, ____________ is use case.",
+    "op": [
+        "b) Catalogue",
+        "c) Update Catalogue",
+        "a) Librarian",
+        "d) Both a and b"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73690,
+    "cc": "CS510",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which statement is FALSE? To be complete, operation model must specify:",
+    "op": [
+        "The agents who perform the operations",
+        "The input and output data for each operation",
+        "non-functional requirements to be considered",
+        "When operations are to be executed"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

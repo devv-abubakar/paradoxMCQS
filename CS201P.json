@@ -1,0 +1,2648 @@
+[
+{
+    "id": 8871,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, default visibility of structure is ______.",
+    "op": [
+        "Pass",
+        "Public",
+        "Protected",
+        "Private"
+    ],
+    "created_at": "2026-06-20T19:01:24.570034+00:00"
+},
+{
+    "id": 8872,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, which operator is used while accessing through the pointer to structure?",
+    "op": [
+        "->",
+        "=",
+        "_",
+        "&"
+    ],
+    "created_at": "2026-06-20T19:01:37.782257+00:00"
+},
+{
+    "id": 8873,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Functions seekg () and seekp () require an argument of type ____ to let them know how many bytes to move forward or backward.",
+    "op": [
+        "int",
+        "long",
+        "float",
+        "double"
+    ],
+    "created_at": "2026-06-20T19:01:47.61761+00:00"
+},
+{
+    "id": 8874,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, __________ function is used to write a character into a file while _______ is used to get a character from a file.",
+    "op": [
+        "getc(), putc()",
+        "putc(), getc()",
+        "tellg(), seekg()",
+        "seekg(), tellg()"
+    ],
+    "created_at": "2026-06-20T19:01:57.35562+00:00"
+},
+{
+    "id": 8875,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In bit manipulation of binary systems, if we shift a bit towards right then it means we are ______________ that binary value with ‘2’",
+    "op": [
+        "Multiplying",
+        "Dividing",
+        "Adding",
+        "Subtracting"
+    ],
+    "created_at": "2026-06-20T19:02:08.816539+00:00"
+},
+{
+    "id": 8876,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "What will be the output of the following code? #include <iostream> using namespace std; struct Student { char name[10]; char grade[2]; int age; int id; }; int main() { Student s1; cout << sizeof(s1); return 0; }",
+    "op": [
+        "16",
+        "24",
+        "20",
+        "18"
+    ],
+    "created_at": "2026-06-20T19:02:18.494551+00:00"
+},
+{
+    "id": 8877,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "What type of argument does seekg() and seekp() require to indicate the number of bytes to move?",
+    "op": [
+        "int",
+        "long",
+        "float",
+        "char"
+    ],
+    "created_at": "2026-06-20T19:02:30.978785+00:00"
+},
+{
+    "id": 8878,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Which of the following is a correct way to declare structure variables immediately after the structure definition? struct student { char name[60]; char address[100]; float GPA; } _______;",
+    "op": [
+        "struct std1, std2;",
+        "student std1, std2;",
+        "struct student std1, std2;",
+        "std1, std2"
+    ],
+    "created_at": "2026-06-20T19:02:39.753241+00:00"
+},
+{
+    "id": 8879,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "The bit manipulation operator ______________ is used to set a specific bit.",
+    "op": [
+        "*",
+        "&",
+        "^",
+        "|"
+    ],
+    "created_at": "2026-06-20T19:02:58.784952+00:00"
+},
+{
+    "id": 8882,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, combination of ________ and _________ functions are used to determine the actual data length of a file.",
+    "op": [
+        "getc(), putc()",
+        "putc(), getc()",
+        "seekg(), tellg()",
+        "seekp(), tellp()"
+    ],
+    "created_at": "2026-06-20T19:22:22.994919+00:00"
+},
+{
+    "id": 8886,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Which of the following statement is true regarding structures?",
+    "op": [
+        "Variables which are part of a structure are called Member Functions",
+        "All data members must have the same memory space",
+        "Variables which are part of a structure are called Data Members",
+        "All data members must have the same data type"
+    ],
+    "created_at": "2026-06-20T19:23:40.36054+00:00"
+},
+{
+    "id": 8887,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "What will be the output of the following code? int num = 2; int count=0; while(num!= 0) { if ( num & 01) count ++; num >>=1; } cout<< count; return 0;",
+    "op": [
+        "2",
+        "4",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-06-20T19:24:36.575984+00:00"
+},
+{
+    "id": 21995,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What does the expression malloc(1000 * sizeof(int)) do?",
+    "op": [
+        "Allocates memory for 1000 integers",
+        "Allocates memory for 1000 bytes",
+        "Allocates memory for 1000 floats",
+        "Allocates memory for 1000 characters"
+    ],
+    "created_at": "2026-06-26T19:02:01.529774+00:00"
+},
+{
+    "id": 21996,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Dynamic memory allocation uses memory from the __________.",
+    "op": [
+        "Mulit-dimensional Array",
+        "Stack",
+        "Array",
+        "Heap"
+    ],
+    "created_at": "2026-06-26T19:02:03.126247+00:00"
+},
+{
+    "id": 21997,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Representing logical depiction of the solution to the problem is known as a ______________.",
+    "op": [
+        "Structure",
+        "Sequence",
+        "Flowchart",
+        "Loop"
+    ],
+    "created_at": "2026-06-26T19:02:15.619627+00:00"
+},
+{
+    "id": 21998,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Trying to use getch() function without including #include<conio.h> header file in the program is a ________ error.",
+    "op": [
+        "Logical",
+        "RunTime",
+        "Arithmetic",
+        "Compilation"
+    ],
+    "created_at": "2026-06-26T19:02:15.902426+00:00"
+},
+{
+    "id": 22000,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "The statement char arr [10]; is an example of a type of ____________ memory allocation.",
+    "op": [
+        "Null Value",
+        "Built-in",
+        "Static",
+        "Dynamic"
+    ],
+    "created_at": "2026-06-26T19:02:43.198851+00:00"
+},
+{
+    "id": 22001,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "To understand programming concepts, ___________ programming language is being used as a vehicle in CS201- “Introduction to Programming” course.",
+    "op": [
+        "C#",
+        "Java",
+        "C/C++",
+        "B"
+    ],
+    "created_at": "2026-06-26T19:02:50.432895+00:00"
+},
+{
+    "id": 22002,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What type of expression is used as the condition in a while loop?",
+    "op": [
+        "Logical expression (returns true or false)",
+        "Character expression",
+        "String expression",
+        "Integer expression"
+    ],
+    "created_at": "2026-06-26T19:02:54.870681+00:00"
+},
+{
+    "id": 22004,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Which is not a preprocessor directive of C-language?",
+    "op": [
+        "#startif",
+        "#else",
+        "#endif",
+        "#if"
+    ],
+    "created_at": "2026-06-26T19:03:06.95401+00:00"
+},
+{
+    "id": 22005,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What will happen if the outer if condition in a nested if statement is false?",
+    "op": [
+        "The program skips the entire block",
+        "It causes a syntax error",
+        "The inner if is still checked",
+        "Only the else block of the inner if is executed"
+    ],
+    "created_at": "2026-06-26T19:03:17.889945+00:00"
+},
+{
+    "id": 22006,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Macro is defined by ____________ preprocessor directive.",
+    "op": [
+        "#define",
+        "#endif",
+        "#if",
+        "#else"
+    ],
+    "created_at": "2026-06-26T19:03:19.505432+00:00"
+},
+{
+    "id": 22009,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "___________ is a useful statement when at a certain stage you do not want to execute the remaining statements inside the loop and want to go to the first statement of loop.",
+    "op": [
+        "Break",
+        "Goto",
+        "Continue",
+        "Default"
+    ],
+    "created_at": "2026-06-26T19:03:34.428396+00:00"
+},
+{
+    "id": 22010,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What would be the output of the following statement? c = 13 % 2;",
+    "op": [
+        "2",
+        "1",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-06-26T19:03:45.227471+00:00"
+},
+{
+    "id": 22011,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What is the purpose of using && in an if condition?",
+    "op": [
+        "To combine two conditions where both must be true",
+        "To combine two conditions where at least one must be true",
+        "To end the if block",
+        "To check equality"
+    ],
+    "created_at": "2026-06-26T19:03:46.686913+00:00"
+},
+{
+    "id": 27352,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is not true about Destructor?",
+    "op": [
+        "Destructors don’t return a value.",
+        "Destructors cannot be used for memory manipulation.",
+        "Destructors take no arguments",
+        "Destructors cannot be overloaded."
+    ],
+    "created_at": "2026-06-29T19:01:46.499213+00:00"
+},
+{
+    "id": 27355,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In function overloading, how does the compiler differentiate between overloaded functions?",
+    "op": [
+        "By looking at the number and types of parameters",
+        "By checking the return type of the function",
+        "By looking at the function names",
+        "By checking the function visibility (public/private)"
+    ],
+    "created_at": "2026-06-29T19:02:05.590039+00:00"
+},
+{
+    "id": 27358,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "A constructor with arguments is known as.",
+    "op": [
+        "Destructor",
+        "Default Constructor",
+        "Virtual Constructor",
+        "Paramterized Constructor"
+    ],
+    "created_at": "2026-06-29T19:02:17.949556+00:00"
+},
+{
+    "id": 27360,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "What will be the output of the following code? void sampleFunction(int = 5,float = 4.1, char = 'A'); int main(){ sampleFunction(50,3.2); } void sampleFunction(int one,float two ,char three) { cout << one << \", \" << two << \", \" << three; }",
+    "op": [
+        "50, 4.1, A",
+        "50, 3.2, A",
+        "5, 3.2, A",
+        "5, 4.1, A"
+    ],
+    "created_at": "2026-06-29T19:02:24.252383+00:00"
+},
+{
+    "id": 27365,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is a correct example of function overloading in C++?",
+    "op": [
+        "int sqrt(int i); double sqrt(double i);",
+        "double sqrt(int i); float sqrt(int i);",
+        "int sqrt(int i); double sqrt(int i);",
+        "int sqrt(int i); int sqrt(double i);"
+    ],
+    "created_at": "2026-06-29T19:02:37.390484+00:00"
+},
+{
+    "id": 27369,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "_________ is a user-defined data type.",
+    "op": [
+        "Pointer",
+        "Function",
+        "Constructor",
+        "Class"
+    ],
+    "created_at": "2026-06-29T19:02:44.390898+00:00"
+},
+{
+    "id": 27375,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In C++, the name of the _________ is the same as that of a class with a preceding tilde (~) sign.",
+    "op": [
+        "Utility function",
+        "Friend function",
+        "Constructor",
+        "Destructor"
+    ],
+    "created_at": "2026-06-29T19:03:00.285633+00:00"
+},
+{
+    "id": 27381,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In C++, which of the following option is used to declare a class?",
+    "op": [
+        "Class",
+        "CLASS",
+        "class",
+        "cLAss"
+    ],
+    "created_at": "2026-06-29T19:03:17.692045+00:00"
+},
+{
+    "id": 27387,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In C++, which operator is used to access the data members of the class?",
+    "op": [
+        "Not",
+        "Dot",
+        "And",
+        "Plus"
+    ],
+    "created_at": "2026-06-29T19:03:28.016151+00:00"
+},
+{
+    "id": 27390,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which function is automatically called when an object of a class is initiated?",
+    "op": [
+        "Friend function",
+        "Destructor",
+        "Utility function",
+        "Constructor"
+    ],
+    "created_at": "2026-06-29T19:03:37.613547+00:00"
+},
+{
+    "id": 27394,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which function is automatically called in C++ if we do not define it in a class?",
+    "op": [
+        "Default and Parametrized Constructor",
+        "Inline function",
+        "Parametrized Constructor",
+        "Default Constructor"
+    ],
+    "created_at": "2026-06-29T19:03:56.559139+00:00"
+},
+{
+    "id": 27402,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Where to put inline function during the frequent calling inside the program from multiple source files?",
+    "op": [
+        "Outside the class",
+        "Header File",
+        "Inside the class",
+        "Main()"
+    ],
+    "created_at": "2026-06-29T19:04:56.284984+00:00"
+},
+{
+    "id": 27445,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In C++, which of the following function causes the full definition of the function to be inserted in each place when it gets called?",
+    "op": [
+        "Built-in function",
+        "Library function",
+        "Recursive function",
+        "Inline function"
+    ],
+    "created_at": "2026-06-29T19:07:46.113857+00:00"
+},
+{
+    "id": 27551,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "In C++, the default constructor takes _______.",
+    "op": [
+        "Only two arguments",
+        "More than two arguments",
+        "Only one argument",
+        "No arguments"
+    ],
+    "created_at": "2026-06-29T19:15:46.800482+00:00"
+},
+{
+    "id": 42294,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Functions seekg () and seekp () require an argument of type ____ to let them know how many bytes to move forward or backward.",
+    "op": [
+        "long",
+        "double",
+        "int",
+        "float"
+    ],
+    "created_at": "2026-06-21T00:37:47.566622+00:00"
+},
+{
+    "id": 42295,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "The bit manipulation operator ______________ is used to check whether a specific bit is set or not.",
+    "op": [
+        "|",
+        "&",
+        "^",
+        "*"
+    ],
+    "created_at": "2026-06-21T00:37:59.246395+00:00"
+},
+{
+    "id": 42296,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, default visibility of structure is ______.",
+    "op": [
+        "Pass",
+        "Public",
+        "Private",
+        "Protected"
+    ],
+    "created_at": "2026-06-21T00:38:05.994413+00:00"
+},
+{
+    "id": 42297,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, combination of ________ and _________ functions are used to determine the actual data length of a file.",
+    "op": [
+        "seekg(), tellg()",
+        "seekp(), tellp()",
+        "getc(), putc()",
+        "putc(), getc()"
+    ],
+    "created_at": "2026-06-21T00:38:14.00844+00:00"
+},
+{
+    "id": 42298,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "What type of argument does seekg() and seekp() require to indicate the number of bytes to move?",
+    "op": [
+        "long",
+        "float",
+        "char",
+        "int"
+    ],
+    "created_at": "2026-06-21T00:38:26.328938+00:00"
+},
+{
+    "id": 42299,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "What will be the output of the following code? int num = 2; int count=0; while(num!= 0) { if ( num & 01) count ++; num >>=1; } cout<< count; return 0;",
+    "op": [
+        "1",
+        "3",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-06-21T00:38:36.726229+00:00"
+},
+{
+    "id": 42300,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Which of the following is a correct way to declare structure variables immediately after the structure definition? struct student { char name[60]; char address[100]; float GPA; } _______;",
+    "op": [
+        "struct student std1, std2;",
+        "student std1, std2;",
+        "std1, std2",
+        "struct std1, std2;"
+    ],
+    "created_at": "2026-06-21T00:38:48.154541+00:00"
+},
+{
+    "id": 42301,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, which operator is used while accessing through the pointer to structure?",
+    "op": [
+        "_",
+        "->",
+        "=",
+        "&"
+    ],
+    "created_at": "2026-06-21T00:38:57.461879+00:00"
+},
+{
+    "id": 42302,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "Which of the following statement is true regarding structures?",
+    "op": [
+        "Variables which are part of a structure are called Member Functions",
+        "Variables which are part of a structure are called Data Members",
+        "All data members must have the same data type",
+        "All data members must have the same memory space"
+    ],
+    "created_at": "2026-06-21T00:39:10.069572+00:00"
+},
+{
+    "id": 42303,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In bit manipulation of binary systems, if we shift a bit towards right then it means we are ______________ that binary value with ‘2’",
+    "op": [
+        "Adding",
+        "Multiplying",
+        "Subtracting",
+        "Dividing"
+    ],
+    "created_at": "2026-06-21T00:39:23.233156+00:00"
+},
+{
+    "id": 42304,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "The bit manipulation operator ______________ is used to set a specific bit.",
+    "op": [
+        "*",
+        "|",
+        "&",
+        "^"
+    ],
+    "created_at": "2026-06-21T04:10:46.1161+00:00"
+},
+{
+    "id": 42305,
+    "cc": "CS201P",
+    "qn": "7",
+    "dt": "21 June 2026",
+    "qt": "In C++, __________ function is used to write a character into a file while _______ is used to get a character from a file.",
+    "op": [
+        "seekg(), tellg()",
+        "getc(), putc()",
+        "tellg(), seekg()",
+        "putc(), getc()"
+    ],
+    "created_at": "2026-06-21T04:10:55.3028+00:00"
+},
+{
+    "id": 42307,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Representing logical depiction of the solution to the problem is known as a ______________.",
+    "op": [
+        "Sequence",
+        "Structure",
+        "Loop",
+        "Flowchart"
+    ],
+    "created_at": "2026-06-27T02:05:35.868994+00:00"
+},
+{
+    "id": 42308,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What type of expression is used as the condition in a while loop?",
+    "op": [
+        "Integer expression",
+        "String expression",
+        "Logical expression (returns true or false)",
+        "Character expression"
+    ],
+    "created_at": "2026-06-27T02:05:39.029426+00:00"
+},
+{
+    "id": 42309,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "To understand programming concepts, ___________ programming language is being used as a vehicle in CS201- “Introduction to Programming” course.",
+    "op": [
+        "Java",
+        "B",
+        "C/C++",
+        "C#"
+    ],
+    "created_at": "2026-06-27T02:05:50.268839+00:00"
+},
+{
+    "id": 42310,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Trying to use getch() function without including #include<conio.h> header file in the program is a ________ error.",
+    "op": [
+        "Arithmetic",
+        "RunTime",
+        "Compilation",
+        "Logical"
+    ],
+    "created_at": "2026-06-27T02:06:03.067964+00:00"
+},
+{
+    "id": 42311,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What is the purpose of using && in an if condition?",
+    "op": [
+        "To end the if block",
+        "To combine two conditions where both must be true",
+        "To check equality",
+        "To combine two conditions where at least one must be true"
+    ],
+    "created_at": "2026-06-27T02:06:20.970273+00:00"
+},
+{
+    "id": 42313,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "___________ is a useful statement when at a certain stage you do not want to execute the remaining statements inside the loop and want to go to the first statement of loop.",
+    "op": [
+        "Goto",
+        "Break",
+        "Continue",
+        "Default"
+    ],
+    "created_at": "2026-06-27T02:06:44.616911+00:00"
+},
+{
+    "id": 42314,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Macro is defined by ____________ preprocessor directive.",
+    "op": [
+        "#if",
+        "#else",
+        "#endif",
+        "#define"
+    ],
+    "created_at": "2026-06-27T02:06:52.685774+00:00"
+},
+{
+    "id": 42315,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Which is not a preprocessor directive of C-language?",
+    "op": [
+        "#endif",
+        "#else",
+        "#startif",
+        "#if"
+    ],
+    "created_at": "2026-06-27T02:07:01.706976+00:00"
+},
+{
+    "id": 42316,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What does the expression malloc(1000 * sizeof(int)) do?",
+    "op": [
+        "Allocates memory for 1000 integers",
+        "Allocates memory for 1000 characters",
+        "Allocates memory for 1000 floats",
+        "Allocates memory for 1000 bytes"
+    ],
+    "created_at": "2026-06-27T02:07:07.407143+00:00"
+},
+{
+    "id": 42317,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "What would be the output of the following statement? c = 13 % 2;",
+    "op": [
+        "2",
+        "3",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-06-27T11:07:32.482734+00:00"
+},
+{
+    "id": 42318,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "The statement char arr [10]; is an example of a type of ____________ memory allocation.",
+    "op": [
+        "Null Value",
+        "Dynamic",
+        "Static",
+        "Built-in"
+    ],
+    "created_at": "2026-06-27T11:07:41.13976+00:00"
+},
+{
+    "id": 42319,
+    "cc": "CS201P",
+    "qn": "8",
+    "dt": "27 June 2026",
+    "qt": "Dynamic memory allocation uses memory from the __________.",
+    "op": [
+        "Stack",
+        "Mulit-dimensional Array",
+        "Heap",
+        "Array"
+    ],
+    "created_at": "2026-06-27T11:08:05.464492+00:00"
+},
+{
+    "id": 42320,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Representing logical depiction of the solution to the problem is known as a ______________.",
+    "op": [
+        "Structure",
+        "Sequence",
+        "Loop",
+        "Flowchart"
+    ],
+    "created_at": "2026-07-01T06:43:14.960259+00:00"
+},
+{
+    "id": 42321,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Functions seekg () and seekp () require an argument of type ____ to let them know how many bytes to move forward or backward.",
+    "op": [
+        "long",
+        "float",
+        "double",
+        "int"
+    ],
+    "created_at": "2026-07-01T06:43:26.041878+00:00"
+},
+{
+    "id": 42322,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In C++, which operator is used while accessing through the pointer to structure?",
+    "op": [
+        "_",
+        "&",
+        "->",
+        "="
+    ],
+    "created_at": "2026-07-01T06:43:34.505841+00:00"
+},
+{
+    "id": 42323,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Dynamic memory allocation uses memory from the __________.",
+    "op": [
+        "Heap",
+        "Mulit-dimensional Array",
+        "Stack",
+        "Array"
+    ],
+    "created_at": "2026-07-02T07:46:04.246165+00:00"
+},
+{
+    "id": 42324,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In C++, the name of the _________ is the same as that of a class with a preceding tilde (~) sign.",
+    "op": [
+        "Destructor",
+        "Friend function",
+        "Constructor",
+        "Utility function"
+    ],
+    "created_at": "2026-07-02T07:46:30.126699+00:00"
+},
+{
+    "id": 42325,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A constructor with arguments is known as.",
+    "op": [
+        "Default Constructor",
+        "Virtual Constructor",
+        "Paramterized Constructor",
+        "Destructor"
+    ],
+    "created_at": "2026-07-02T07:47:07.245823+00:00"
+},
+{
+    "id": 42326,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is a correct example of function overloading in C++?",
+    "op": [
+        "int sqrt(int i); int sqrt(double i);",
+        "int sqrt(int i); double sqrt(int i);",
+        "int sqrt(int i); double sqrt(double i);",
+        "double sqrt(int i); float sqrt(int i);"
+    ],
+    "created_at": "2026-07-02T07:47:27.245158+00:00"
+},
+{
+    "id": 42327,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In C++, combination of ________ and _________ functions are used to determine the actual data length of a file.",
+    "op": [
+        "seekg(), tellg()",
+        "seekp(), tellp()",
+        "getc(), putc()",
+        "putc(), getc()"
+    ],
+    "created_at": "2026-07-02T07:48:44.024346+00:00"
+},
+{
+    "id": 42328,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the purpose of using && in an if condition?",
+    "op": [
+        "To combine two conditions where both must be true",
+        "To end the if block",
+        "To check equality",
+        "To combine two conditions where at least one must be true"
+    ],
+    "created_at": "2026-07-02T07:49:01.044065+00:00"
+},
+{
+    "id": 42329,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What type of expression is used as the condition in a while loop?",
+    "op": [
+        "Logical expression (returns true or false)",
+        "Integer expression",
+        "Character expression",
+        "String expression"
+    ],
+    "created_at": "2026-07-02T07:49:21.898851+00:00"
+},
+{
+    "id": 42330,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What will be the output of the following code? void sampleFunction(int = 5,float = 4.1, char = 'A'); int main(){ sampleFunction(50,3.2); } void sampleFunction(int one,float two ,char three) { cout << one << \", \" << two << \", \" << three; }",
+    "op": [
+        "5, 4.1, A",
+        "50, 4.1, A",
+        "50, 3.2, A",
+        "5, 3.2, A"
+    ],
+    "created_at": "2026-07-02T07:49:38.632099+00:00"
+},
+{
+    "id": 42331,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "_________ is a user-defined data type.",
+    "op": [
+        "Function",
+        "Pointer",
+        "Class",
+        "Constructor"
+    ],
+    "created_at": "2026-07-02T13:10:48.226287+00:00"
+},
+{
+    "id": 42332,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In C++, which operator is used to access the data members of the class?",
+    "op": [
+        "Not",
+        "And",
+        "Plus",
+        "Dot"
+    ],
+    "created_at": "2026-07-02T13:11:25.462358+00:00"
+},
+{
+    "id": 42333,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In C++, the default constructor takes _______.",
+    "op": [
+        "No arguments",
+        "Only one argument",
+        "More than two arguments",
+        "Only two arguments"
+    ],
+    "created_at": "2026-07-02T13:13:10.746764+00:00"
+},
+{
+    "id": 47452,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "Memory allocated at run time is a system resource, and it is the responsibility of the _____ to deallocate this memory.",
+    "op": [
+        "Compiler",
+        "Destructor",
+        "Garbage collector",
+        "Programmer"
+    ],
+    "created_at": "2026-07-05T19:01:46.993056+00:00"
+},
+{
+    "id": 47457,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "The data members that are visible only from inside the class and hidden from the outside known as.",
+    "op": [
+        "Friend",
+        "Private and Public",
+        "Public",
+        "Private"
+    ],
+    "created_at": "2026-07-05T19:01:56.977072+00:00"
+},
+{
+    "id": 47463,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "In C/C++ language, memory at runtime is allocated from _______.",
+    "op": [
+        "Free store(heap)",
+        "ROM",
+        "Stack",
+        "Hard disk"
+    ],
+    "created_at": "2026-07-05T19:02:01.957704+00:00"
+},
+{
+    "id": 47465,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "An entry in an online encyclopedia that refers to another entry whose title has been changed is an example of _________.",
+    "op": [
+        "Dangling pointer",
+        "Reference pointer",
+        "NULL pointer",
+        "This pointer"
+    ],
+    "created_at": "2026-07-05T19:02:03.697835+00:00"
+},
+{
+    "id": 47472,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "In C++, which operator is used for memory allocation?",
+    "op": [
+        "Calloc",
+        "Allocate",
+        "New",
+        "Allocate_memory"
+    ],
+    "created_at": "2026-07-05T19:02:10.576315+00:00"
+},
+{
+    "id": 47481,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "Where can we declare a friend function in the class?",
+    "op": [
+        "Anywhere",
+        "Main()",
+        "Void",
+        "Nowhere"
+    ],
+    "created_at": "2026-07-05T19:02:17.186766+00:00"
+},
+{
+    "id": 47496,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "Which one is correct syntax for declaration of a function which can return a reference?",
+    "op": [
+        "datatype& function_name (parameter list)",
+        "&datatype function_name (parameter list)",
+        "datatype (parameter list) &function_name",
+        "&function_name datatype (parameter list)"
+    ],
+    "created_at": "2026-07-05T19:02:27.268833+00:00"
+},
+{
+    "id": 47497,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "In the following code, what will be the output of i? #include<iostream> using namespace std; main() { int i; int &j = i; i = 123; cout<< \"\\n The value of i =\" << i; }",
+    "op": [
+        "321",
+        "012345x",
+        "123",
+        "X012345"
+    ],
+    "created_at": "2026-07-05T19:02:29.901764+00:00"
+},
+{
+    "id": 47502,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "In C++, sizeof operator is used to determine ____________.",
+    "op": [
+        "Number of words",
+        "Size of data type",
+        "Length of string",
+        "Length of words"
+    ],
+    "created_at": "2026-07-05T19:02:34.056585+00:00"
+},
+{
+    "id": 47513,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "calloc() functions allocates multiple blocks of memory and each block have _______?",
+    "op": [
+        "Same size",
+        "Different length",
+        "Same length",
+        "Different size"
+    ],
+    "created_at": "2026-07-05T19:02:42.624671+00:00"
+},
+{
+    "id": 47517,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "Which one is the correct syntax to declare the friend function?",
+    "op": [
+        "FRIEND return_type friend_function_name(int, char);",
+        "friend return_type friend_function_name(int, char);",
+        "Friend return_type (int, char);",
+        "FRIEND friend_function_name(int, char);"
+    ],
+    "created_at": "2026-07-05T19:02:47.415636+00:00"
+},
+{
+    "id": 47521,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "If the memory in the free store is not sufficient enough to fulfill the request, malloc () function returns ________.",
+    "op": [
+        "NULL",
+        "1",
+        "0",
+        "-1"
+    ],
+    "created_at": "2026-07-05T19:02:49.645334+00:00"
+},
+{
+    "id": 47523,
+    "cc": "CS201P",
+    "qn": "10",
+    "dt": "06 July 2026",
+    "qt": "Data encapsulation can be achieved through ________.",
+    "op": [
+        "Structures",
+        "Arrays",
+        "Pointers",
+        "Classes"
+    ],
+    "created_at": "2026-07-05T19:02:50.153366+00:00"
+},
+{
+    "id": 54991,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "C/C++ has many libraries which contain variables and function names normally starting with ____.",
+    "op": [
+        "Hash",
+        "Hyphen",
+        "Underscore",
+        "Semi-Colon"
+    ],
+    "created_at": "2026-07-06T19:24:14.849527+00:00"
+},
+{
+    "id": 54994,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Short data type store ______ bytes of memory.",
+    "op": [
+        "3",
+        "2",
+        "4",
+        "1"
+    ],
+    "created_at": "2026-07-06T19:24:26.468703+00:00"
+},
+{
+    "id": 54997,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Which data type from the following will take lesser space in memory?",
+    "op": [
+        "int",
+        "char",
+        "float",
+        "short"
+    ],
+    "created_at": "2026-07-06T19:24:37.455414+00:00"
+},
+{
+    "id": 55000,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "In C++, which of the following option has the correct meaning of the expression “a <= b” ?",
+    "op": [
+        "a is less than b",
+        "a is greater than b",
+        "a is less than or equal to b",
+        "a is greater than or equal to b"
+    ],
+    "created_at": "2026-07-06T19:24:47.812478+00:00"
+},
+{
+    "id": 55001,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Normally, the float data type is half of the size of ___________.",
+    "op": [
+        "double",
+        "short",
+        "char",
+        "int"
+    ],
+    "created_at": "2026-07-06T19:24:49.944968+00:00"
+},
+{
+    "id": 55007,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "In C++, cout is known as ______.",
+    "op": [
+        "input stream",
+        "output stream",
+        "file stream",
+        "error stream"
+    ],
+    "created_at": "2026-07-06T19:25:06.894601+00:00"
+},
+{
+    "id": 55010,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of following C++ program? #include <iostream> using namespace std; int main() { int num1 = 10; int num2 = 20/3; int sum; sum = num1 + num2; cout << \"The sum is: \" << sum << endl; return 0; }",
+    "op": [
+        "The sum is: 19",
+        "The sum is: 16",
+        "The sum is: 18",
+        "The sum is: 20"
+    ],
+    "created_at": "2026-07-06T19:25:20.202515+00:00"
+},
+{
+    "id": 55013,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "In C/C++, which of the following data type is used to store real numbers?",
+    "op": [
+        "int",
+        "float",
+        "char",
+        "boolean"
+    ],
+    "created_at": "2026-07-06T19:25:35.125351+00:00"
+},
+{
+    "id": 55017,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is an example of logical operator?",
+    "op": [
+        "&&,||",
+        "<,>",
+        "+,*",
+        "/,%"
+    ],
+    "created_at": "2026-07-06T19:25:44.219386+00:00"
+},
+{
+    "id": 55018,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Suppose we have an integer variable named “num” with 4567 as its value, then what will be the resulting value for the expression “num/100”?",
+    "op": [
+        "45",
+        "4",
+        "456",
+        "456.7"
+    ],
+    "created_at": "2026-07-06T19:25:46.484983+00:00"
+},
+{
+    "id": 55022,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int x = 15; int y = 10; int z = 5; cout << x * x - 4 * y * z;",
+    "op": [
+        "-25",
+        "5",
+        "25",
+        "-5"
+    ],
+    "created_at": "2026-07-06T19:26:00.511916+00:00"
+},
+{
+    "id": 55026,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Learning “how to program” is important, because it develops _______ and problem-solving abilities.",
+    "op": [
+        "Listening",
+        "Reading",
+        "Writing",
+        "Analytical"
+    ],
+    "created_at": "2026-07-06T19:26:16.757883+00:00"
+},
+{
+    "id": 55031,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "If the condition is not made false in while loop, what will happen?",
+    "op": [
+        "Loop will become infinite.",
+        "Program will terminate early.",
+        "Program will not run at all.",
+        "Syntax errors occur."
+    ],
+    "created_at": "2026-07-06T19:26:40.654089+00:00"
+},
+{
+    "id": 55034,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Which of the following structure is correct for WHILE loop?",
+    "op": [
+        "While (start; condition)",
+        "While (condition)",
+        "While (condition; end)",
+        "While (start; condition; end)"
+    ],
+    "created_at": "2026-07-06T19:26:52.926992+00:00"
+},
+{
+    "id": 55036,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is true about the switch statement?",
+    "op": [
+        "It is valid for the small programs only.",
+        "It is valid for the large programs only.",
+        "It works efficiently on compound conditions which use logical operators.",
+        "It cannot handle the compound conditions which use logical operators."
+    ],
+    "created_at": "2026-07-06T19:27:07.952607+00:00"
+},
+{
+    "id": 55042,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The loop, given below, will iterate_____ times. For (int counter = 1; counter < 10; counter = counter +1)",
+    "op": [
+        "10",
+        "0",
+        "9",
+        "110"
+    ],
+    "created_at": "2026-07-06T19:27:23.369616+00:00"
+},
+{
+    "id": 55047,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "In following switch statement program with two cases and an expression in the switch condition, what will be the output of the program? #include <iostream> using namespace std; int main() { int num = 7; switch(num % 2) { case 0: cout << \"Even number\" << endl; break; case 1: cout << \"Odd number\" << endl; break; default: cout << \"Invalid number\" << endl; } return 0; }",
+    "op": [
+        "Compile-time error",
+        "Invalid number",
+        "Even number",
+        "Odd number"
+    ],
+    "created_at": "2026-07-06T19:27:35.032891+00:00"
+},
+{
+    "id": 55051,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of following program? #include <iostream> using namespace std; int main() { int x = 5; cout << x++ << \" \" << --x << \" \" << ++x << endl; return 0; }",
+    "op": [
+        "5 6 7",
+        "6 5 6",
+        "4 5 6",
+        "5 5 6"
+    ],
+    "created_at": "2026-07-06T19:27:48.997756+00:00"
+},
+{
+    "id": 55056,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "If a function does not return anything, its return type will be ______.",
+    "op": [
+        "Null",
+        "Zero",
+        "Return 0",
+        "Void"
+    ],
+    "created_at": "2026-07-06T19:28:03.291342+00:00"
+},
+{
+    "id": 55060,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is the first step in FOR loop?",
+    "op": [
+        "Initialization condition",
+        "Termination condition",
+        "Continuation condition",
+        "Incrementing condition"
+    ],
+    "created_at": "2026-07-06T19:28:17.209217+00:00"
+},
+{
+    "id": 55061,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int i = 1; while(i<10){ if (i / 2 == 2) cout << i << “ ”; i++; }",
+    "op": [
+        "4 5",
+        "2 3",
+        "2 4",
+        "6 7"
+    ],
+    "created_at": "2026-07-06T19:28:23.381774+00:00"
+},
+{
+    "id": 55064,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following piece of code? int square(int number) { int result = 0; result = number * number; return result; } int main() { cout<<square(9); }",
+    "op": [
+        "99",
+        "99",
+        "81",
+        "49"
+    ],
+    "created_at": "2026-07-06T19:28:31.584607+00:00"
+},
+{
+    "id": 55071,
+    "cc": "CS201P",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "The operators ++ and -- are used to increment or decrement the variable value by ______.",
+    "op": [
+        "1",
+        "4",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-07-06T19:28:48.645014+00:00"
+},
+{
+    "id": 55074,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is an example of repetition structure?",
+    "op": [
+        "while",
+        "cond",
+        "if-else",
+        "if"
+    ],
+    "created_at": "2026-07-06T19:29:13.316523+00:00"
+},
+{
+    "id": 55075,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "While programming in C++, the statement if (x = 3), will result into a ______.",
+    "op": [
+        "Syntax Error",
+        "Runtime Error",
+        "Linker Error",
+        "Logical Error"
+    ],
+    "created_at": "2026-07-06T19:29:34.108628+00:00"
+},
+{
+    "id": 55080,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "In C/C++, the algebraic expression (b2-4ac) / 2a can be written as:",
+    "op": [
+        "b*b – 4* a*c / (2*a)",
+        "b*b – (4*a*c) / 2*a",
+        "b*b – 4*a* c/ 2*a",
+        "(b*b – 4*a*c) / (2*a)"
+    ],
+    "created_at": "2026-07-06T19:29:56.467268+00:00"
+},
+{
+    "id": 55083,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "Which of the following C++ statements is used to show output on the screen?",
+    "op": [
+        "cerr",
+        "cin",
+        "cout",
+        "cget"
+    ],
+    "created_at": "2026-07-06T19:30:31.68039+00:00"
+},
+{
+    "id": 55085,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of following program? #include <iostream> using namespace std; int main() { int x = 5; while (x > 0) { x--; } cout << \"Final value of x: \" << x << endl; return 0; }",
+    "op": [
+        "Final value of x: 0",
+        "Final value of x: 5",
+        "Final value of x: 6",
+        "Final value of x: 2"
+    ],
+    "created_at": "2026-07-06T19:30:56.13592+00:00"
+},
+{
+    "id": 55086,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "Which of the following C++ statements is used take input from the user?",
+    "op": [
+        "cout",
+        "cget",
+        "cerr",
+        "cin"
+    ],
+    "created_at": "2026-07-06T19:31:27.092418+00:00"
+},
+{
+    "id": 55400,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "A binary operator has _____ operands.",
+    "op": [
+        "Four",
+        "Two",
+        "One",
+        "Three"
+    ],
+    "created_at": "2026-07-06T22:26:10.532816+00:00"
+},
+{
+    "id": 55401,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "The coding of a program is translated into machine language by ______.",
+    "op": [
+        "Linker",
+        "Debugger",
+        "Loader",
+        "Compiler"
+    ],
+    "created_at": "2026-07-06T22:27:59.841786+00:00"
+},
+{
+    "id": 55402,
+    "cc": "CS201P",
+    "qn": "1",
+    "dt": "07 July 2026",
+    "qt": "Which of the following expression is correct in C/C++ language?",
+    "op": [
+        "X + 5 = Y + 7",
+        "Y + X = 7",
+        "X = X + 3",
+        "3 = X + 3"
+    ],
+    "created_at": "2026-07-06T22:29:35.257711+00:00"
+},
+{
+    "id": 55606,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is the correct way to initialize all the elements of array with 0?",
+    "op": [
+        "int arr[5]={5&0}",
+        "int arr[5]={0};",
+        "int arr[5]=All_Zero;",
+        "int arr[5]={5(0)};"
+    ],
+    "created_at": "2026-07-07T02:55:34.67712+00:00"
+},
+{
+    "id": 55608,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The size variable in the following program is a ______ variable. #include<iostream> … int size; … int main () { … }",
+    "op": [
+        "Static",
+        "Local",
+        "Constant",
+        "Global"
+    ],
+    "created_at": "2026-07-07T02:55:59.395845+00:00"
+},
+{
+    "id": 55609,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Two arrays are equal if ____________.",
+    "op": [
+        "Both their size and values are equal",
+        "Only their values are equal",
+        "Their values are equal but size is not",
+        "Only their size is equal"
+    ],
+    "created_at": "2026-07-07T02:56:19.764769+00:00"
+},
+{
+    "id": 55611,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is the correct method to declare an array?",
+    "op": [
+        "array name [size] data type;",
+        "data type array name [size];",
+        "[size] array name data type;",
+        "array name data type [size];"
+    ],
+    "created_at": "2026-07-07T02:56:45.606106+00:00"
+},
+{
+    "id": 55612,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "char name [] = “Hello World”; In the above statement, a memory of ____ characters will be allocated to the array name.",
+    "op": [
+        "11",
+        "10",
+        "13",
+        "12"
+    ],
+    "created_at": "2026-07-07T02:57:06.101047+00:00"
+},
+{
+    "id": 55613,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "How do you access the element in the second row and third column of a 2D array named matrix?",
+    "op": [
+        "matrix[2][1]",
+        "matrix{2, 3}",
+        "matrix[2][3]",
+        "matrix[1][2]"
+    ],
+    "created_at": "2026-07-07T02:57:25.44446+00:00"
+},
+{
+    "id": 55614,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following two arrays are copy-able?",
+    "op": [
+        "int a[4], int b[5]",
+        "float a[4], int b[5]",
+        "int a[5], int b[5]",
+        "int a[5], float b[5]"
+    ],
+    "created_at": "2026-07-07T02:57:44.469602+00:00"
+},
+{
+    "id": 55617,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is the default function calling mechanism of C/C++?",
+    "op": [
+        "Call by Function Memory",
+        "Call by Reference",
+        "Call by Variable Address",
+        "Call by Value"
+    ],
+    "created_at": "2026-07-07T02:58:11.538849+00:00"
+},
+{
+    "id": 55620,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code snippet? void func(int arr[]) { arr[0] = 10; } int main() { int arr[5] = {1, 2, 3, 4, 5}; func(arr); cout << arr[0]; return 0; }",
+    "op": [
+        "2",
+        "1",
+        "Undefined",
+        "10"
+    ],
+    "created_at": "2026-07-07T02:58:34.576842+00:00"
+},
+{
+    "id": 55621,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In the call by reference method, which operator is used to get the address of a variable?",
+    "op": [
+        "%",
+        "#",
+        "&",
+        "@"
+    ],
+    "created_at": "2026-07-07T02:58:58.507835+00:00"
+},
+{
+    "id": 55639,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "Which of the following option is used when working with complicated expressions in C++ ?",
+    "op": [
+        "[]",
+        "/",
+        "()",
+        "{}"
+    ],
+    "created_at": "2026-07-07T03:09:29.604852+00:00"
+},
+{
+    "id": 55642,
+    "cc": "CS201P",
+    "qn": "2",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int i = 1; while(i<10){ if (i % 2 == 0) cout << i << “ ”; i++; }",
+    "op": [
+        "1 3 5 7",
+        "2 4 8 10",
+        "2 4 6 8",
+        "2 4 6 10"
+    ],
+    "created_at": "2026-07-07T03:11:50.664486+00:00"
+},
+{
+    "id": 55664,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is not a file opening mode?",
+    "op": [
+        "ios::ate",
+        "ios::nocreate",
+        "ios::in",
+        "ios::trunc"
+    ],
+    "created_at": "2026-07-07T03:22:50.413615+00:00"
+},
+{
+    "id": 55668,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "To create an output file stream, we must declare the stream to be of class.",
+    "op": [
+        "ifstream",
+        "ofstream",
+        "iostream",
+        "cstream"
+    ],
+    "created_at": "2026-07-07T03:23:59.306776+00:00"
+},
+{
+    "id": 55671,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? #include <iostream> #include <cstring> using namespace std; int main() { char s1[20] = \"Hello\"; char s2[] = \"World\"; strcpy(s1, s2); cout << s1; return 0; }",
+    "op": [
+        "World",
+        "Hello",
+        "HelloWorld",
+        "Undefined"
+    ],
+    "created_at": "2026-07-07T03:24:31.468445+00:00"
+},
+{
+    "id": 55672,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "Suppose we have declared a two-dimensional array “multi”. To access its elements using pointer, we should use referencing like ________.",
+    "op": [
+        "**multi",
+        "*multi",
+        "*multi + 1",
+        "multi"
+    ],
+    "created_at": "2026-07-07T03:24:44.940774+00:00"
+},
+{
+    "id": 55676,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "What will happen if you run the following code when \"data.txt\" does not exist? #include <iostream> #include <fstream> using namespace std; int main() { ifstream file(\"data.txt\"); if (!file) { cout << \"File not found!\" << endl; } return 0; }",
+    "op": [
+        "It will throw an exception.",
+        "It will print File not found!.",
+        "It will do nothing.",
+        "It will create \"data.txt\"."
+    ],
+    "created_at": "2026-07-07T03:25:16.57466+00:00"
+},
+{
+    "id": 55678,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "In C++, atoi () function is used to convert _______.",
+    "op": [
+        "Character string to long integer",
+        "Character string to integer",
+        "Character string to double",
+        "Character string to float"
+    ],
+    "created_at": "2026-07-07T03:25:47.460859+00:00"
+},
+{
+    "id": 55679,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "To perform I/O operations on file, we must use _____________ header file.",
+    "op": [
+        "cstream",
+        "fstream",
+        "hstream",
+        "istream"
+    ],
+    "created_at": "2026-07-07T03:26:03.55184+00:00"
+},
+{
+    "id": 55680,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "In C++, a file can be opened for reading by using the _____ function.",
+    "op": [
+        "read()",
+        "open()",
+        "open_file()",
+        "write()"
+    ],
+    "created_at": "2026-07-07T03:26:20.247081+00:00"
+},
+{
+    "id": 55682,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main (int argc, char **argv) { cout<<argc; }",
+    "op": [
+        "2",
+        "Null",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-07T03:26:42.359565+00:00"
+},
+{
+    "id": 55818,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, a sequence of objects having the same type, is called ________.",
+    "op": [
+        "Operator",
+        "Array",
+        "Function",
+        "Stack"
+    ],
+    "created_at": "2026-07-07T04:27:29.639348+00:00"
+},
+{
+    "id": 55822,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main() { int a[4]={1,2,3,4}; cout<< a[2]; }",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-07-07T04:29:13.273183+00:00"
+},
+{
+    "id": 55826,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "What is the output of the following code snippet? int a = 5; int *ptr = &a; *ptr = 10; cout << a;",
+    "op": [
+        "5",
+        "0",
+        "10",
+        "Undefined"
+    ],
+    "created_at": "2026-07-07T04:30:10.950806+00:00"
+},
+{
+    "id": 55829,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, to get the value stored at a memory address, we use the _______ operator.",
+    "op": [
+        "dereferencing",
+        "bitwise",
+        "arithmetic",
+        "logical"
+    ],
+    "created_at": "2026-07-07T04:30:34.102932+00:00"
+},
+{
+    "id": 55831,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main() { int x = 5; int * ptr = &x; *ptr + 1; cout << (*ptr)++; }",
+    "op": [
+        "8",
+        "7",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-07T04:30:51.083445+00:00"
+},
+{
+    "id": 55832,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "Identify the invalid option.",
+    "op": [
+        "int *pi = 0;",
+        "int i; double* dp = &i;",
+        "int *ip;",
+        "char s, *sp = 0;"
+    ],
+    "created_at": "2026-07-07T04:31:06.160943+00:00"
+},
+{
+    "id": 55833,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "Which of the following option gives the [value] stored at the address pointed to by the pointer \"ptr\"?",
+    "op": [
+        "Value(ptr)",
+        "ptr",
+        "*ptr",
+        "&ptr"
+    ],
+    "created_at": "2026-07-07T04:31:25.135093+00:00"
+},
+{
+    "id": 55834,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main(){ char str[] = \"Hello World\"; cout<<str[4]; return 0; }",
+    "op": [
+        "H",
+        "l",
+        "W",
+        "o"
+    ],
+    "created_at": "2026-07-07T04:31:44.657705+00:00"
+},
+{
+    "id": 55835,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, a one-dimensional array inside a one-dimensional array is called _________.",
+    "op": [
+        "Three-dimensional array",
+        "Multi-casting array",
+        "Two-dimensional array",
+        "One-dimensional array"
+    ],
+    "created_at": "2026-07-07T04:32:02.250771+00:00"
+},
+{
+    "id": 55836,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, pointer can be initialized with",
+    "op": [
+        "Hash(#)",
+        "Semicolon(;)",
+        "Dot(.)",
+        "Null"
+    ],
+    "created_at": "2026-07-07T04:32:20.685554+00:00"
+},
+{
+    "id": 55886,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which type of arrays are used while dealing with sentences?",
+    "op": [
+        "Integer arrays",
+        "Character arrays",
+        "Word arrays",
+        "Floating-point arrays"
+    ],
+    "created_at": "2026-07-07T04:52:39.80128+00:00"
+},
+{
+    "id": 55894,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "____ character is used to terminate a string.",
+    "op": [
+        "Null",
+        "End",
+        "Full",
+        "Stop"
+    ],
+    "created_at": "2026-07-07T04:56:25.533842+00:00"
+},
+{
+    "id": 55969,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, the precise way to declare a pointer is.",
+    "op": [
+        "int ptr;",
+        "int ptr*;",
+        "int & ptr;",
+        "int * ptr;"
+    ],
+    "created_at": "2026-07-07T05:38:28.07634+00:00"
+},
+{
+    "id": 55970,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "In C++, what is the correct syntax for accessing the fifth element of an array?",
+    "op": [
+        "a[4]",
+        "a[5]",
+        "a(5)",
+        "a(4)"
+    ],
+    "created_at": "2026-07-07T05:39:45.286088+00:00"
+},
+{
+    "id": 55972,
+    "cc": "CS201P",
+    "qn": "5",
+    "dt": "07 July 2026",
+    "qt": "Which of the following shows the memory address of the first element in an array?",
+    "op": [
+        "array(0)",
+        "array{0}",
+        "array[0]",
+        "array"
+    ],
+    "created_at": "2026-07-07T05:40:20.128634+00:00"
+},
+{
+    "id": 56134,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "In C++, all the string manipulation function are defined inside _______ header file.",
+    "op": [
+        "stdio.h",
+        "conio.h",
+        "string.h",
+        "iostream"
+    ],
+    "created_at": "2026-07-07T06:37:07.580775+00:00"
+},
+{
+    "id": 56139,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main(){ int number[5] = {10,20,30,40,50}; cout << *(number+3); }",
+    "op": [
+        "40",
+        "10",
+        "30",
+        "50"
+    ],
+    "created_at": "2026-07-07T06:37:55.420217+00:00"
+},
+{
+    "id": 56174,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In C/C++ language, the subscript of array starts from ______.",
+    "op": [
+        "3",
+        "2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-07T06:54:28.516751+00:00"
+},
+{
+    "id": 56197,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "From the following code, what will be the size of the array “name”? char name [] = “My full name”;",
+    "op": [
+        "13",
+        "15",
+        "14",
+        "12"
+    ],
+    "created_at": "2026-07-07T07:21:39.200028+00:00"
+},
+{
+    "id": 56198,
+    "cc": "CS201P",
+    "qn": "6",
+    "dt": "07 July 2026",
+    "qt": "What will be the output of the following code? int main(){ char str1[] = “Hello ”; char str2[] = “World!”; cout << strcat(str1,str2); }",
+    "op": [
+        "Hello World!",
+        "World!",
+        "Hello",
+        "HelloWorld!"
+    ],
+    "created_at": "2026-07-07T07:22:11.47795+00:00"
+},
+{
+    "id": 57132,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "In the syntax of the overloaded operator function given below: Complex operator + (Complex & ); What is ‘operator’?",
+    "op": [
+        "Object",
+        "Operand",
+        "Class",
+        "Keyword"
+    ],
+    "created_at": "2026-07-07T19:01:59.011002+00:00"
+},
+{
+    "id": 57134,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the following is assignment operator?",
+    "op": [
+        "-",
+        "=",
+        "^",
+        "+"
+    ],
+    "created_at": "2026-07-07T19:02:18.313679+00:00"
+},
+{
+    "id": 57139,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The correct syntax of stream insertion operator is:",
+    "op": [
+        "ostream* ostream::operator << ();",
+        "istream& istream::operator >> (char *text);",
+        "ostream& ostream::operator << (char *text);",
+        "istream* istream::operator >> ();"
+    ],
+    "created_at": "2026-07-07T19:02:35.040047+00:00"
+},
+{
+    "id": 57142,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What will be out put of following code: #include <iostream> #include <iomanip> using namespace std; main () { int num=7; cout << setfill('*') << setw(4) << num << endl; }",
+    "op": [
+        "***7",
+        "7***",
+        "7****",
+        "****7"
+    ],
+    "created_at": "2026-07-07T19:02:44.791221+00:00"
+},
+{
+    "id": 57146,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "When overloading assignment (=) operator, which of the following syntax is correct?",
+    "op": [
+        "void operator = ( const String &s );",
+        "void operator (= String &s );",
+        "void operator (=) const String &other ;",
+        "void operator (=) ( const String &s );"
+    ],
+    "created_at": "2026-07-07T19:02:59.212035+00:00"
+},
+{
+    "id": 57151,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A variable of the bool data type can take ______ values.",
+    "op": [
+        "2",
+        "0",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:03:14.013596+00:00"
+},
+{
+    "id": 57157,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "if (day == daysOfMonth ( *this ) ) { } In above code, *this refers to:",
+    "op": [
+        "Any Object",
+        "Current Object",
+        "Today Date and Time",
+        "Current Class"
+    ],
+    "created_at": "2026-07-07T19:03:42.026038+00:00"
+},
+{
+    "id": 57161,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What will be the output of following code? #include <iostream> #include <iomanip> using namespace std; main () { float num=15.9999; cout << setprecision (2) << num; }",
+    "op": [
+        "15.999",
+        "16",
+        "15",
+        "15.99"
+    ],
+    "created_at": "2026-07-07T19:03:57.024993+00:00"
+},
+{
+    "id": 57185,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "How many objects are initializing in this statement of code: Date myDate [10] = { Date(09, 03, 1970), Date(08, 23, 1974) }",
+    "op": [
+        "3",
+        "2",
+        "10",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:05:29.848372+00:00"
+},
+{
+    "id": 57259,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the output of the following code if the user enters 10? #include <iostream> using namespace std; int main() { int num; cout << \"Enter a number: \"; cin >> num; cout << \"Output: \" << num + 5; return 0; }",
+    "op": [
+        "50",
+        "105",
+        "15",
+        "10"
+    ],
+    "created_at": "2026-07-07T19:08:37.434681+00:00"
+},
+{
+    "id": 57263,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which header file is used for file manipulation?",
+    "op": [
+        "iomanip.h",
+        "filestream.h",
+        "fstream.h",
+        "iostream.h"
+    ],
+    "created_at": "2026-07-07T19:08:55.571156+00:00"
+},
+{
+    "id": 57296,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which option will be correct in order to free the space of memory allocated to a buffer (buf)?",
+    "op": [
+        "strcpy buf",
+        "delete buf",
+        "remove buf",
+        "free buf"
+    ],
+    "created_at": "2026-07-07T19:10:24.667318+00:00"
+},
+{
+    "id": 57302,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the following options not a source of the output stream?",
+    "op": [
+        "simple variable",
+        "region in the memory",
+        "file",
+        "screen"
+    ],
+    "created_at": "2026-07-07T19:10:37.806691+00:00"
+},
+{
+    "id": 57308,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "For overloading minus (-) operator, which member operator function will be correct?",
+    "op": [
+        "Complex operator – (Complex c)",
+        "Complex operator (complex c1- complex c2)",
+        "Complex – operator (Complex c)",
+        "Complex (-) operator (Complex c)"
+    ],
+    "created_at": "2026-07-07T19:11:02.278884+00:00"
+},
+{
+    "id": 57314,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the following operator can be overloaded?",
+    "op": [
+        ".*",
+        ".",
+        "?",
+        "delete[]"
+    ],
+    "created_at": "2026-07-07T19:11:35.570154+00:00"
+},
+{
+    "id": 57324,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the following option returns the state of end of file?",
+    "op": [
+        "cin.enof();",
+        "cin.endoffile();",
+        "cin.endof();",
+        "cin.eof();"
+    ],
+    "created_at": "2026-07-07T19:11:57.217572+00:00"
+},
+{
+    "id": 57326,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the correct prototype of overloading of delete operator?",
+    "op": [
+        "void operator delete ( void * ptr) ;",
+        "void * operator delete ( size_t size ) ;",
+        "new operator delete ( void * ptr);",
+        "void * operator delete ( size_t, size ) ;"
+    ],
+    "created_at": "2026-07-07T19:12:06.088018+00:00"
+},
+{
+    "id": 57345,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the output of this program? #include < iostream > using namespace std; main () { int num; cout << \"Please enter an integer value: \"; cin >> num + 4; }",
+    "op": [
+        "Error",
+        "Add number+4",
+        "4+1",
+        "4"
+    ],
+    "created_at": "2026-07-07T19:13:35.837918+00:00"
+},
+{
+    "id": 57352,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the following correctly initializes the 3rd object of the Date class in the array mydate?",
+    "op": [
+        "mydate[2] = Date(10, 10, 2021);",
+        "Date mydate[2] = Date(10, 10, 2021);",
+        "mydate[3] = Date(3, 3, 2021);",
+        "Date mydate[3] = Date(10, 10, 2021);"
+    ],
+    "created_at": "2026-07-07T19:14:10.23799+00:00"
+},
+{
+    "id": 57441,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which one is not the member function of input stream?",
+    "op": [
+        "cin.read();",
+        "cin.get();",
+        "cin.getline();",
+        "get();"
+    ],
+    "created_at": "2026-07-07T19:21:32.182581+00:00"
+},
+{
+    "id": 57462,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Complex cadd ( Complex c1, Complex c2 ) ; Which statement is true for above code?",
+    "op": [
+        "It accepts two complex numbers as parameters and returns back the resultant complex number.",
+        "Define the function named Complex.",
+        "Class with name of Complex has been created.",
+        "Creating object of class Complex with name cadd with parameters."
+    ],
+    "created_at": "2026-07-07T19:24:37.22999+00:00"
+},
+{
+    "id": 57480,
+    "cc": "CS201P",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the right syntax of the buf for calling object by using this pointer?",
+    "op": [
+        "(*this).buf",
+        "*this.(buf)",
+        "this*buf",
+        "*this.buf"
+    ],
+    "created_at": "2026-07-07T19:28:38.28845+00:00"
+},
+{
+    "id": 64061,
+    "cc": "CS201P",
+    "qn": "08",
+    "dt": "24 December 2025",
+    "qt": "What would be the output of the following statement?  c = 13 % 2; ",
+    "op": [
+        "3",
+        "2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:27:05.43504+00:00"
+},
+{
+    "id": 64398,
+    "cc": "CS201P",
+    "qn": "09",
+    "dt": "28 December 2025",
+    "qt": "What will be the output of the following code? void sampleFunction(int = 5,float = 4.1, char = 'A'); int main(){  sampleFunction(50,3.2); } void sampleFunction(int one,float two ,char three) { cout << one << \", \" << two << \", \" << three; } ",
+    "op": [
+        "50, 3.2, A",
+        "5, 4.1, A",
+        "50, 4.1, A",
+        "5, 3.2, A"
+    ],
+    "created_at": "2026-07-15T13:27:10.04194+00:00"
+},
+{
+    "id": 70697,
+    "cc": "CS201P",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "What is the output of the following code if the user enters 10? #include <iostream> using namespace std;   int main() {  int num;  cout << \"Enter a number: \";  cin >> num;  cout << \"Output: \" << num + 5;  return 0; } ",
+    "op": [
+        "105",
+        "15",
+        "10",
+        "50"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+},
+{
+    "id": 70718,
+    "cc": "CS201P",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "if (day == daysOfMonth ( *this ) )  { } In above code, *this refers to: ",
+    "op": [
+        "Any Object",
+        "Current Object",
+        "Current Class",
+        "Today Date and Time"
+    ],
+    "created_at": "2026-07-15T13:27:51.139945+00:00"
+}
+]

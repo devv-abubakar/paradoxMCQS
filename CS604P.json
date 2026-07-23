@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 4311,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem all the five philosophers sitting around the round circular table have _______ chopsticks.",
+        "op": [
+            "4",
+            "5",
+            "10",
+            "3"
+        ],
+        "created_at": "2026-06-17T19:12:08.930714+00:00"
+    },
+    {
+        "id": 4312,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In case producer process wants to produce some item and buffer is already full to its capacity then there will be buffer________message.",
+        "op": [
+            "full",
+            "busy",
+            "empty",
+            "pull"
+        ],
+        "created_at": "2026-06-17T19:12:17.270131+00:00"
+    },
+    {
+        "id": 4313,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In ____________a process must enter the maximum number of instances that he may need in the future.",
+        "op": [
+            "Lotus algorithm",
+            "Banker algorithm",
+            "College algorithm",
+            "University algorithm"
+        ],
+        "created_at": "2026-06-17T19:12:23.894994+00:00"
+    },
+    {
+        "id": 4314,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem all the five philosophers can do two things ______________.",
+        "op": [
+            "thinking and eating",
+            "sleeping and eating",
+            "laughing and eating",
+            "playing and eating"
+        ],
+        "created_at": "2026-06-17T19:12:32.04822+00:00"
+    },
+    {
+        "id": 4330,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "We have to implement the Producer-Consumer problem by using ______.",
+        "op": [
+            "Read-Only Memory (ROM)",
+            "Programmable Read-Only Memory (PROM)",
+            "Shared Memory",
+            "Unshared Memory"
+        ],
+        "created_at": "2026-06-17T19:16:24.784085+00:00"
+    },
+    {
+        "id": 4332,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker algorithm Need data structure is used. If_______, then process Pi may need k more instances of resource type Rj to complete the task.",
+        "op": [
+            "Need[i,j] = k",
+            "Need[k,j] = k",
+            "Need[ j,i ] = k",
+            "Need[i,k] = j"
+        ],
+        "created_at": "2026-06-17T19:16:44.638562+00:00"
+    },
+    {
+        "id": 4335,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Producer process produces an item that is ________by the consumer.",
+        "op": [
+            "send",
+            "blocked",
+            "hold",
+            "consumed"
+        ],
+        "created_at": "2026-06-17T19:17:03.257605+00:00"
+    },
+    {
+        "id": 4336,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "The Solution of Dining Philosopher Problem is used to avoid __________.",
+        "op": [
+            "Separation condition",
+            "Multitasking condition",
+            "Deadlock condition",
+            "Isolation condition"
+        ],
+        "created_at": "2026-06-17T19:17:13.512342+00:00"
+    },
+    {
+        "id": 4337,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Dining Philosopher Problem is used in Operating System to solve the Process ________.",
+        "op": [
+            "Synchronization Problem",
+            "Subtracting Problem",
+            "Adding Problem",
+            "Finding Problem"
+        ],
+        "created_at": "2026-06-17T19:17:25.370129+00:00"
+    },
+    {
+        "id": 4340,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "We need the following data structures in the Banker’s algorithm:",
+        "op": [
+            "Available, Max, Allocation and Need.",
+            "Available, Min, Allocation and Find.",
+            "Available, Max, Allocation and Next.",
+            "Available, Min, Allocation and First."
+        ],
+        "created_at": "2026-06-17T19:18:44.815549+00:00"
+    },
+    {
+        "id": 4341,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker’s algorithm the order of process termination is called__________________.",
+        "op": [
+            "priority check",
+            "safe sequence",
+            "random sequence",
+            "bulk execution"
+        ],
+        "created_at": "2026-06-17T19:19:18.614827+00:00"
+    },
+    {
+        "id": 4342,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In case producer process has not yet produced any item and consumer process want to consume an item from the buffer than there will be buffer _______ message.",
+        "op": [
+            "full",
+            "busy",
+            "empty",
+            "lock"
+        ],
+        "created_at": "2026-06-17T19:19:27.138675+00:00"
+    },
+    {
+        "id": 4346,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker's Algorithm, the system must know the ________ resource demand of each process in advance.",
+        "op": [
+            "current",
+            "maximum",
+            "minimum",
+            "average"
+        ],
+        "created_at": "2026-06-17T19:22:24.13925+00:00"
+    },
+    {
+        "id": 4347,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "What is the purpose of the Banker's Algorithm?",
+        "op": [
+            "Speeding up memory access",
+            "Compressing resources",
+            "Avoiding deadlock",
+            "Managing user passwords"
+        ],
+        "created_at": "2026-06-17T19:22:35.452155+00:00"
+    },
+    {
+        "id": 4348,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker's algorithm we can say that a system is in a ______if all of the processes in the system can be executed to termination in some order.",
+        "op": [
+            "reverse state",
+            "stop state",
+            "halt state",
+            "safe state"
+        ],
+        "created_at": "2026-06-17T19:22:45.715413+00:00"
+    },
+    {
+        "id": 4380,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "A system is said to be in a safe state if _____________________.",
+        "op": [
+            "no process is blocked",
+            "resources are never allocated",
+            "processes can finish in some order",
+            "CPU is idle"
+        ],
+        "created_at": "2026-06-17T20:10:54.481151+00:00"
+    },
+    {
+        "id": 4381,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem, a philosopher can start eating once he has ______chopsticks",
+        "op": [
+            "5",
+            "4",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-06-17T20:30:01.659048+00:00"
+    },
+    {
+        "id": 4426,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker algorithm Max data structure is used. If______, then process Pi can request maximum k instances of resource type Rj.",
+        "op": [
+            "Max[i,j] = k",
+            "Max[ j,i ] = k",
+            "Max[k,j] = i",
+            "Max[i,k] = j"
+        ],
+        "created_at": "2026-06-17T21:40:05.218878+00:00"
+    },
+    {
+        "id": 4427,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Which variable is used to check if the system is in a safe state in Banker’s algorithm?",
+        "op": [
+            "counter",
+            "safe",
+            "allocation",
+            "exec"
+        ],
+        "created_at": "2026-06-17T21:54:12.421628+00:00"
+    },
+    {
+        "id": 4467,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "What is calculated by available[i] = maxres[i] - allocation[i] in Baker’s algorithm?",
+        "op": [
+            "Average memory usage",
+            "Total resource usage",
+            "Remaining resources",
+            "Process priority"
+        ],
+        "created_at": "2026-06-18T00:37:42.03797+00:00"
+    },
+    {
+        "id": 21280,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "If Segment = 1000 and Offset = 0020, what will be the Physical Address?",
+        "op": [
+            "10020h",
+            "10000",
+            "10020",
+            "10010h"
+        ],
+        "created_at": "2026-06-24T19:13:03.193025+00:00"
+    },
+    {
+        "id": 21281,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "In Logical to Physical Address Translation, how is the 20-bit Physical Address calculated?",
+        "op": [
+            "Segment * Offset",
+            "(Segment * 16) + Offset",
+            "(Segment / 16) + Offset",
+            "Segment + Offset"
+        ],
+        "created_at": "2026-06-24T19:13:28.798753+00:00"
+    },
+    {
+        "id": 21282,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Which function is used to pause the screen at the end of the program in c language?",
+        "op": [
+            "system(\"pause\")",
+            "pause()",
+            "stop()",
+            "end()"
+        ],
+        "created_at": "2026-06-24T19:14:56.834407+00:00"
+    },
+    {
+        "id": 21283,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Suppose there are 16 number of pages so number of bits needed for p is:",
+        "op": [
+            "4",
+            "1",
+            "3",
+            "2"
+        ],
+        "created_at": "2026-06-24T19:15:12.880374+00:00"
+    },
+    {
+        "id": 21285,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Logical data refers to the instruction or data stored in the ____________.",
+        "op": [
+            "Hash table space",
+            "Process address space",
+            "Secondary memory location",
+            "Physical memory location"
+        ],
+        "created_at": "2026-06-24T19:19:30.897369+00:00"
+    },
+    {
+        "id": 21286,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Which header file is used to access the log2 function in C?",
+        "op": [
+            "<stdio.h>",
+            "<math.h>",
+            "<string.h>",
+            "<stdlib.h>"
+        ],
+        "created_at": "2026-06-24T19:20:07.791159+00:00"
+    },
+    {
+        "id": 21304,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "What is the formula for calculating physical address size, if the page number is p, frame number is f memory is mem and offset is d?",
+        "op": [
+            "pages + mem",
+            "f + d",
+            "p + f",
+            "p + d"
+        ],
+        "created_at": "2026-06-24T19:30:54.881408+00:00"
+    },
+    {
+        "id": 21306,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "The address generated by CPU is commonly referred to as the ___________.",
+        "op": [
+            "Physical address",
+            "Logical address",
+            "Sample address",
+            "Complex address"
+        ],
+        "created_at": "2026-06-24T19:31:26.383756+00:00"
+    },
+    {
+        "id": 21307,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Suppose there are 32 number of frames so number of bits needed for f is:",
+        "op": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "created_at": "2026-06-24T19:31:37.413861+00:00"
+    },
+    {
+        "id": 21308,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Logical Address generated by the CPU is divided into two parts: a page number (p) and a page offset (d) and is calculated by following formula:",
+        "op": [
+            "p + d",
+            "p / d",
+            "p * d",
+            "p % d"
+        ],
+        "created_at": "2026-06-24T19:31:47.969569+00:00"
+    },
+    {
+        "id": 21312,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Paging allows physical address space to be_______________.",
+        "op": [
+            "noncontiguous",
+            "sequential",
+            "processed",
+            "contiguous"
+        ],
+        "created_at": "2026-06-24T19:33:02.272266+00:00"
+    },
+    {
+        "id": 21313,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Consider a program statement seg = seg*16; in 20-bit Physical Address calculation. What will happen if no multiplication by 16 is done?",
+        "op": [
+            "Incorrect physical address is calculated",
+            "Correct physical address is calculated",
+            "Program will crash",
+            "Nothing happens in address calculation"
+        ],
+        "created_at": "2026-06-24T19:33:24.063974+00:00"
+    },
+    {
+        "id": 21376,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "The address seen by memory unit i.e. the address loaded into the memory address register is commonly referred to as the ___________.",
+        "op": [
+            "Complex address",
+            "Logical address",
+            "Physical address",
+            "Simple address"
+        ],
+        "created_at": "2026-06-24T21:34:49.353859+00:00"
+    },
+    {
+        "id": 21419,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "For Logical to Physical Address Translation , which register is used to hold the physical address in memory?",
+        "op": [
+            "Instruction Register (IR)",
+            "Stack Pointer (SP)",
+            "Program Counter (PC)",
+            "Memory Address Register (MAR)"
+        ],
+        "created_at": "2026-06-25T00:17:19.231624+00:00"
+    },
+    {
+        "id": 24109,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "As long as there is no________, the effective access time is equal to the memory access time.",
+        "op": [
+            "queue faults",
+            "demand faults",
+            "page faults",
+            "stack faults"
+        ],
+        "created_at": "2026-06-28T19:24:32.956877+00:00"
+    },
+    {
+        "id": 24127,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "In most computers memory access time is ranging from ______________.",
+        "op": [
+            "10 to 200 nanoseconds",
+            "10 to 200 microseconds",
+            "200 to 300 microseconds",
+            "300 to 600 microseconds"
+        ],
+        "created_at": "2026-06-28T19:25:27.59771+00:00"
+    },
+    {
+        "id": 24728,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "29 June 2026",
+        "qt": "____________has the significant effect on computer performance.",
+        "op": [
+            "Self paging",
+            "Queue paging",
+            "Demand paging",
+            "Stack paging"
+        ],
+        "created_at": "2026-06-28T20:08:59.798365+00:00"
+    },
+    {
+        "id": 36687,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "Page Replacement Algorithm LRU is called:",
+        "op": [
+            "Low Reset UP",
+            "Low Resolution Used",
+            "Low Reset Used",
+            "Least Recently Used"
+        ],
+        "created_at": "2026-07-01T19:08:53.940793+00:00"
+    },
+    {
+        "id": 36692,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "Least Recently Used (LRU) page replacement algorithm basically works on the concept that the pages that are heavily used in _______instructions are likely to be used heavily in next instructions.",
+        "op": [
+            "previous",
+            "push",
+            "pop",
+            "hash"
+        ],
+        "created_at": "2026-07-01T19:09:12.044714+00:00"
+    },
+    {
+        "id": 36700,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "In _________________Page Replacement algorithm. If we use the recent past as an approximation of the near future, then we will replace the page that has not been used for the longest period of time.",
+        "op": [
+            "Low Reset UP (LRU)",
+            "Low Resolution Used (LRU)",
+            "Least Recently Used (LRU)",
+            "Low Reset Used (LRU)"
+        ],
+        "created_at": "2026-07-01T19:09:48.798339+00:00"
+    },
+    {
+        "id": 42859,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "What is calculated by available[i] = maxres[i] - allocation[i] in Baker’s algorithm?",
+        "op": [
+            "Remaining resources",
+            "Average memory usage",
+            "Process priority",
+            "Total resource usage"
+        ],
+        "created_at": "2026-06-18T06:28:17.618755+00:00"
+    },
+    {
+        "id": 42860,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker's algorithm we can say that a system is in a ______if all of the processes in the system can be executed to termination in some order.",
+        "op": [
+            "reverse state",
+            "safe state",
+            "stop state",
+            "halt state"
+        ],
+        "created_at": "2026-06-18T06:29:16.741092+00:00"
+    },
+    {
+        "id": 42861,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker algorithm Max data structure is used. If______, then process Pi can request maximum k instances of resource type Rj.",
+        "op": [
+            "Max[k,j] = i",
+            "Max[i,j] = k",
+            "Max[ j,i ] = k",
+            "Max[i,k] = j"
+        ],
+        "created_at": "2026-06-18T02:28:59.909946+00:00"
+    },
+    {
+        "id": 42862,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem, a philosopher can start eating once he has ______chopsticks",
+        "op": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-06-18T02:29:35.234173+00:00"
+    },
+    {
+        "id": 42863,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker’s algorithm the order of process termination is called__________________.",
+        "op": [
+            "safe sequence",
+            "bulk execution",
+            "random sequence",
+            "priority check"
+        ],
+        "created_at": "2026-06-18T02:30:09.417776+00:00"
+    },
+    {
+        "id": 42864,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker's Algorithm, the system must know the ________ resource demand of each process in advance.",
+        "op": [
+            "maximum",
+            "minimum",
+            "average",
+            "current"
+        ],
+        "created_at": "2026-06-18T02:30:40.476896+00:00"
+    },
+    {
+        "id": 42865,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Producer process produces an item that is ________by the consumer.",
+        "op": [
+            "send",
+            "hold",
+            "blocked",
+            "consumed"
+        ],
+        "created_at": "2026-06-18T02:31:19.636723+00:00"
+    },
+    {
+        "id": 42866,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Which variable is used to check if the system is in a safe state in Banker’s algorithm?",
+        "op": [
+            "allocation",
+            "safe",
+            "counter",
+            "exec"
+        ],
+        "created_at": "2026-06-18T11:07:36.761067+00:00"
+    },
+    {
+        "id": 42867,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Producer-Consumer problem is considered as the process __________ problem.",
+        "op": [
+            "receiving",
+            "blocking",
+            "limitation",
+            "synchronization"
+        ],
+        "created_at": "2026-06-18T11:08:12.948973+00:00"
+    },
+    {
+        "id": 42868,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "The Solution of Dining Philosopher Problem is used to avoid __________.",
+        "op": [
+            "Isolation condition",
+            "Deadlock condition",
+            "Multitasking condition",
+            "Separation condition"
+        ],
+        "created_at": "2026-06-18T15:09:48.504377+00:00"
+    },
+    {
+        "id": 42869,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "We have to implement the Producer-Consumer problem by using ______.",
+        "op": [
+            "Unshared Memory",
+            "Read-Only Memory (ROM)",
+            "Programmable Read-Only Memory (PROM)",
+            "Shared Memory"
+        ],
+        "created_at": "2026-06-18T11:09:06.235623+00:00"
+    },
+    {
+        "id": 42870,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In case producer process wants to produce some item and buffer is already full to its capacity then there will be buffer________message.",
+        "op": [
+            "pull",
+            "full",
+            "busy",
+            "empty"
+        ],
+        "created_at": "2026-06-18T04:57:53.63999+00:00"
+    },
+    {
+        "id": 42871,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "A system is said to be in a safe state if _____________________.",
+        "op": [
+            "processes can finish in some order",
+            "CPU is idle",
+            "no process is blocked",
+            "resources are never allocated"
+        ],
+        "created_at": "2026-06-18T04:58:01.778357+00:00"
+    },
+    {
+        "id": 42872,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In ____________a process must enter the maximum number of instances that he may need in the future.",
+        "op": [
+            "Lotus algorithm",
+            "University algorithm",
+            "Banker algorithm",
+            "College algorithm"
+        ],
+        "created_at": "2026-06-18T04:58:07.284902+00:00"
+    },
+    {
+        "id": 42873,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "What is the purpose of the Banker's Algorithm?",
+        "op": [
+            "Speeding up memory access",
+            "Managing user passwords",
+            "Avoiding deadlock",
+            "Compressing resources"
+        ],
+        "created_at": "2026-06-18T04:58:13.066143+00:00"
+    },
+    {
+        "id": 42874,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "04 July 2026",
+        "qt": "In _________________Page Replacement algorithm. If we use the recent past as an approximation of the near future, then we will replace the page that has not been used for the longest period of time.",
+        "op": [
+            "Low Reset UP (LRU)",
+            "Least Recently Used (LRU)",
+            "Low Reset Used (LRU)",
+            "Low Resolution Used (LRU)"
+        ],
+        "created_at": "2026-07-04T12:45:03.567227+00:00"
+    },
+    {
+        "id": 42875,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "Dining Philosopher Problem is used in Operating System to solve the Process ________.",
+        "op": [
+            "Finding Problem",
+            "Subtracting Problem",
+            "Synchronization Problem",
+            "Adding Problem"
+        ],
+        "created_at": "2026-06-18T11:38:43.206501+00:00"
+    },
+    {
+        "id": 42876,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In Banker algorithm Need data structure is used. If_______, then process Pi may need k more instances of resource type Rj to complete the task.",
+        "op": [
+            "Need[i,k] = j",
+            "Need[ j,i ] = k",
+            "Need[k,j] = k",
+            "Need[i,j] = k"
+        ],
+        "created_at": "2026-06-18T05:05:49.526222+00:00"
+    },
+    {
+        "id": 42877,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "We need the following data structures in the Banker’s algorithm:",
+        "op": [
+            "Available, Min, Allocation and First.",
+            "Available, Min, Allocation and Find.",
+            "Available, Max, Allocation and Next.",
+            "Available, Max, Allocation and Need."
+        ],
+        "created_at": "2026-06-18T05:06:02.580957+00:00"
+    },
+    {
+        "id": 42878,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem all the five philosophers can do two things ______________.",
+        "op": [
+            "thinking and eating",
+            "playing and eating",
+            "laughing and eating",
+            "sleeping and eating"
+        ],
+        "created_at": "2026-06-18T11:02:24.123106+00:00"
+    },
+    {
+        "id": 42879,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In case producer process has not yet produced any item and consumer process want to consume an item from the buffer than there will be buffer _______ message.",
+        "op": [
+            "lock",
+            "empty",
+            "busy",
+            "full"
+        ],
+        "created_at": "2026-06-18T11:39:14.446105+00:00"
+    },
+    {
+        "id": 42880,
+        "cc": "CS604P",
+        "qn": "07",
+        "dt": "18 June 2026",
+        "qt": "In dining philosopher problem all the five philosophers sitting around the round circular table have _______ chopsticks.",
+        "op": [
+            "5",
+            "4",
+            "10",
+            "3"
+        ],
+        "created_at": "2026-06-18T11:02:56.081984+00:00"
+    },
+    {
+        "id": 42881,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "What is the purpose of the Banker's Algorithm?",
+        "op": [
+            "Compressing resources",
+            "Speeding up memory access",
+            "Avoiding deadlock",
+            "Managing user passwords"
+        ],
+        "created_at": "2026-06-25T15:31:48.004887+00:00"
+    },
+    {
+        "id": 42882,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "The address seen by memory unit i.e. the address loaded into the memory address register is commonly referred to as the ___________.",
+        "op": [
+            "Physical address",
+            "Simple address",
+            "Complex address",
+            "Logical address"
+        ],
+        "created_at": "2026-06-25T15:31:57.090502+00:00"
+    },
+    {
+        "id": 42883,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Which function is used to pause the screen at the end of the program in c language?",
+        "op": [
+            "pause()",
+            "end()",
+            "stop()",
+            "system(\"pause\")"
+        ],
+        "created_at": "2026-06-25T15:32:09.207061+00:00"
+    },
+    {
+        "id": 42884,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "In Logical to Physical Address Translation, how is the 20-bit Physical Address calculated?",
+        "op": [
+            "Segment * Offset",
+            "(Segment * 16) + Offset",
+            "Segment + Offset",
+            "(Segment / 16) + Offset"
+        ],
+        "created_at": "2026-06-25T15:32:16.676298+00:00"
+    },
+    {
+        "id": 42885,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Logical data refers to the instruction or data stored in the ____________.",
+        "op": [
+            "Physical memory location",
+            "Process address space",
+            "Secondary memory location",
+            "Hash table space"
+        ],
+        "created_at": "2026-06-25T15:32:27.826061+00:00"
+    },
+    {
+        "id": 42886,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "The address generated by CPU is commonly referred to as the ___________.",
+        "op": [
+            "Physical address",
+            "Sample address",
+            "Complex address",
+            "Logical address"
+        ],
+        "created_at": "2026-06-25T15:54:00.055928+00:00"
+    },
+    {
+        "id": 42887,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "Suppose there are 16 number of pages so number of bits needed for p is:",
+        "op": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "created_at": "2026-06-25T15:54:08.39004+00:00"
+    },
+    {
+        "id": 42888,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "25 June 2026",
+        "qt": "In Banker’s algorithm the order of process termination is called__________________.",
+        "op": [
+            "bulk execution",
+            "priority check",
+            "safe sequence",
+            "random sequence"
+        ],
+        "created_at": "2026-06-25T15:54:35.078342+00:00"
+    },
+    {
+        "id": 42889,
+        "cc": "CS604P",
+        "qn": "08",
+        "dt": "26 June 2026",
+        "qt": "Logical Address generated by the CPU is divided into two parts: a page number (p) and a page offset (d) and is calculated by following formula:",
+        "op": [
+            "p * d",
+            "p % d",
+            "p / d",
+            "p + d"
+        ],
+        "created_at": "2026-06-26T08:20:13.278583+00:00"
+    },
+    {
+        "id": 42890,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "30 June 2026",
+        "qt": "In most computers memory access time is ranging from ______________.",
+        "op": [
+            "300 to 600 microseconds",
+            "10 to 200 nanoseconds",
+            "200 to 300 microseconds",
+            "10 to 200 microseconds"
+        ],
+        "created_at": "2026-06-30T07:53:54.440464+00:00"
+    },
+    {
+        "id": 42891,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "30 June 2026",
+        "qt": "Suppose there are 32 number of frames so number of bits needed for f is:",
+        "op": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "created_at": "2026-06-30T07:54:29.643442+00:00"
+    },
+    {
+        "id": 42892,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "30 June 2026",
+        "qt": "Paging allows physical address space to be_______________.",
+        "op": [
+            "sequential",
+            "contiguous",
+            "noncontiguous",
+            "processed"
+        ],
+        "created_at": "2026-06-30T07:55:01.562989+00:00"
+    },
+    {
+        "id": 42893,
+        "cc": "CS604P",
+        "qn": "03",
+        "dt": "30 June 2026",
+        "qt": "For Logical to Physical Address Translation , which register is used to hold the physical address in memory?",
+        "op": [
+            "Memory Address Register (MAR)",
+            "Instruction Register (IR)",
+            "Program Counter (PC)",
+            "Stack Pointer (SP)"
+        ],
+        "created_at": "2026-06-30T07:55:22.400564+00:00"
+    },
+    {
+        "id": 42894,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "Page Replacement Algorithm LRU is called:",
+        "op": [
+            "Low Reset Used",
+            "Least Recently Used",
+            "Low Resolution Used",
+            "Low Reset UP"
+        ],
+        "created_at": "2026-07-02T17:20:41.059725+00:00"
+    },
+    {
+        "id": 42895,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "Least Recently Used (LRU) page replacement algorithm basically works on the concept that the pages that are heavily used in _______instructions are likely to be used heavily in next instructions.",
+        "op": [
+            "pop",
+            "hash",
+            "push",
+            "previous"
+        ],
+        "created_at": "2026-07-02T17:20:57.854011+00:00"
+    },
+    {
+        "id": 42896,
+        "cc": "CS604P",
+        "qn": "09",
+        "dt": "02 July 2026",
+        "qt": "What is the formula for calculating physical address size, if the page number is p, frame number is f memory is mem and offset is d?",
+        "op": [
+            "pages + mem",
+            "p + d",
+            "p + f",
+            "f + d"
+        ],
+        "created_at": "2026-07-02T17:21:17.167043+00:00"
+    },
+    {
+        "id": 47676,
+        "cc": "CS604P",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Two-dimensional array can be traversed in column major order if is traversed _______wise.",
+        "op": [
+            "row",
+            "hash",
+            "diagonal",
+            "column"
+        ],
+        "created_at": "2026-07-05T19:04:51.148544+00:00"
+    },
+    {
+        "id": 47810,
+        "cc": "CS604P",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In the following declaration of two dimensional integer array: int A[1024][1024]; Integer array A has _________number of rows.",
+        "op": [
+            "1024x 1024",
+            "1024",
+            "512",
+            "256"
+        ],
+        "created_at": "2026-07-05T19:06:25.471462+00:00"
+    },
+    {
+        "id": 47824,
+        "cc": "CS604P",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "In _____________the pager brings only those necessary pages into memory that are needed.",
+        "op": [
+            "Push paging",
+            "Self paging",
+            "Hash paging",
+            "Demand paging"
+        ],
+        "created_at": "2026-07-05T19:06:35.663636+00:00"
+    },
+    {
+        "id": 47837,
+        "cc": "CS604P",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Two-dimensional array can be traversed in row major order if it is traversed _______wise.",
+        "op": [
+            "row",
+            "diagonal",
+            "column",
+            "hash"
+        ],
+        "created_at": "2026-07-05T19:06:46.118831+00:00"
+    },
+    {
+        "id": 59039,
+        "cc": "CS604P",
+        "qn": "10",
+        "dt": "09 July 2026",
+        "qt": "In Disk Free Space Management by using bit map and bit vector each block is represented by ___________.",
+        "op": [
+            "4 bits",
+            "1 bit.",
+            "2 bits",
+            "3 bits"
+        ],
+        "created_at": "2026-07-08T19:03:43.475332+00:00"
+    },
+    {
+        "id": 59047,
+        "cc": "CS604P",
+        "qn": "10",
+        "dt": "09 July 2026",
+        "qt": "Overhead of Bit-Map in Free-Space Management is calculated as:",
+        "op": [
+            "overhead = (diskSize / freespaceSize)",
+            "overhead = (diskSize / bit-vactorSize)",
+            "overhead = (diskSize / blockSize)",
+            "overhead = (fileSize / blockSize)"
+        ],
+        "created_at": "2026-07-08T19:03:49.352752+00:00"
+    },
+    {
+        "id": 59114,
+        "cc": "CS604P",
+        "qn": "10",
+        "dt": "09 July 2026",
+        "qt": "In Disk Free Space management free space list is implemented as a ___________.",
+        "op": [
+            "Bit Map or Bit Vector",
+            "Bit Nap or Bit Tap",
+            "Bit Sap or Bit Wap",
+            "Bit Cap or Bit Tap"
+        ],
+        "created_at": "2026-07-08T19:08:19.318021+00:00"
+    }
+]

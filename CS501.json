@@ -1,0 +1,1640 @@
+[
+{
+    "id": 9527,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "VLIW stands for ____________.",
+    "op": [
+        "Very Long Instruction Word",
+        "Very Long Instruction Width",
+        "Variable Length Instruction Word",
+        "Variable Length Instruction Width"
+    ],
+    "created_at": "2026-06-21T19:08:51.229656+00:00"
+},
+{
+    "id": 9533,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A _____ processor is based on a very long instruction word.",
+    "op": [
+        "FALCON-A",
+        "SRC",
+        "VLIW",
+        "FALCON-E"
+    ],
+    "created_at": "2026-06-21T19:09:01.704689+00:00"
+},
+{
+    "id": 9537,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_______ signal has input direction with respect to printer",
+    "op": [
+        "STROBE#",
+        "BUSY",
+        "PE#",
+        "ACKNLG#"
+    ],
+    "created_at": "2026-06-21T19:09:12.104286+00:00"
+},
+{
+    "id": 9543,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "An interface that can be used to connect the microcomputer bus to ________is called an I/O Port.",
+    "op": [
+        "Multiplexers",
+        "Flip Flops",
+        "Peripheral devices",
+        "Memory"
+    ],
+    "created_at": "2026-06-21T19:09:23.93118+00:00"
+},
+{
+    "id": 9550,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following methods for resolving the priority makes use of individual bits of a priority encoder?",
+    "op": [
+        "Asynchronous Priority",
+        "Semi-synchronous  Priority",
+        "Parallel Priority",
+        "Daisy-Chaining  Priority"
+    ],
+    "created_at": "2026-06-21T19:09:34.270279+00:00"
+},
+{
+    "id": 9553,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which temporary register is loaded with either a register value from the register file or a constant from the instruction?",
+    "op": [
+        "X3",
+        "Z4",
+        "Y3",
+        "Z5"
+    ],
+    "created_at": "2026-06-21T19:09:42.906257+00:00"
+},
+{
+    "id": 9558,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In ________, a separate address space of the CPU is reserved for I/O operations.",
+    "op": [
+        "Isolated I/O",
+        "Memory Mapped I/O",
+        "None of above",
+        "All of above"
+    ],
+    "created_at": "2026-06-21T19:09:53.724035+00:00"
+},
+{
+    "id": 9563,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_______ signal has Output direction with respect to printer",
+    "op": [
+        "D<7..0>",
+        "STROBE#",
+        "INIT#",
+        "ACKNLG#"
+    ],
+    "created_at": "2026-06-21T19:10:03.549794+00:00"
+},
+{
+    "id": 9566,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "ET = ___________.",
+    "op": [
+        "CPI / IC x T",
+        "CPI x IC x T",
+        "CP x IC x T",
+        "CPI x IC / T"
+    ],
+    "created_at": "2026-06-21T19:10:14.46827+00:00"
+},
+{
+    "id": 10051,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_______hazard occurs when an instruction attempts to access some data value that has not yet been updated by the previous instruction.",
+    "op": [
+        "Data",
+        "Structural",
+        "Instruction",
+        "Branch"
+    ],
+    "created_at": "2026-06-21T19:43:26.533594+00:00"
+},
+{
+    "id": 10054,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Tri-state buffers are used for removing ___________.",
+    "op": [
+        "Instruction contention",
+        "Instruction collision",
+        "bus contention",
+        "bus collision"
+    ],
+    "created_at": "2026-06-21T19:43:34.018528+00:00"
+},
+{
+    "id": 10058,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "To set the value of micro-PC from branch address, the value of 4 to 1 multiplexer is ______________.",
+    "op": [
+        "10",
+        "01",
+        "00",
+        "11"
+    ],
+    "created_at": "2026-06-21T19:43:45.902181+00:00"
+},
+{
+    "id": 10061,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_____________ is/are example(s) of synchronous communication.",
+    "op": [
+        "Memory to Memory",
+        "Register to Register",
+        "Register to Memory",
+        "All of the given"
+    ],
+    "created_at": "2026-06-21T19:43:55.968178+00:00"
+},
+{
+    "id": 10064,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following pins of processor is designated for maskable interrupts?",
+    "op": [
+        "RINT",
+        "NMI",
+        "INTR",
+        "MI"
+    ],
+    "created_at": "2026-06-21T19:44:01.959067+00:00"
+},
+{
+    "id": 10066,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Connection to a CPU that provides a data path between the CPU and external devices, such as a keyboard, display, or reader is called-----------",
+    "op": [
+        "Buffer",
+        "I/O port",
+        "Memory mapping",
+        "Processor"
+    ],
+    "created_at": "2026-06-21T19:44:08.543598+00:00"
+},
+{
+    "id": 10070,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If a character is not available at the beginning of an interval, an ________ is said to occur.",
+    "op": [
+        "Parity Error",
+        "Framing Error",
+        "Overrun Error",
+        "Under-run Error"
+    ],
+    "created_at": "2026-06-21T19:44:15.755395+00:00"
+},
+{
+    "id": 10075,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Super-scalar processor divides the instructions into _________ classes.",
+    "op": [
+        "4",
+        "3",
+        "5",
+        "2"
+    ],
+    "created_at": "2026-06-21T19:44:21.52915+00:00"
+},
+{
+    "id": 10077,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Where does the processor store the address of the first instruction of the ISR?",
+    "op": [
+        "Interrupt handler",
+        "Interrupt request",
+        "Interrupt vector",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-21T19:44:26.886903+00:00"
+},
+{
+    "id": 10668,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_____ form the branch control field in the micro instruction.",
+    "op": [
+        "A Bits",
+        "B Bits",
+        "M Bits",
+        "C Bits"
+    ],
+    "created_at": "2026-06-21T20:44:59.458495+00:00"
+},
+{
+    "id": 10670,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The __________ instruction is completed once memory access has been made and the memory location has been written to.",
+    "op": [
+        "Branch",
+        "Store",
+        "Control",
+        "Link"
+    ],
+    "created_at": "2026-06-21T20:45:32.775444+00:00"
+},
+{
+    "id": 10671,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A collection of -----------is called a micro program.",
+    "op": [
+        "Registers",
+        "large scale operations",
+        "Microinstructions",
+        "DMA"
+    ],
+    "created_at": "2026-06-21T20:45:41.501359+00:00"
+},
+{
+    "id": 10673,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Every time you press a key, an interrupt is generated.\nThis is an example of",
+    "op": [
+        "Hardware interrupt",
+        "All of the given",
+        "Software interrupt",
+        "None of the given"
+    ],
+    "created_at": "2026-06-21T20:45:55.27492+00:00"
+},
+{
+    "id": 10674,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_____________ is said to occur when a 0 is received instead of a stop bit.",
+    "op": [
+        "Framing Error",
+        "Parity Error",
+        "Block Error",
+        "Over-run Error"
+    ],
+    "created_at": "2026-06-21T20:46:02.308177+00:00"
+},
+{
+    "id": 11241,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is not True regarding serial communication?",
+    "op": [
+        "Inefficient",
+        "Slow",
+        "Easy to implement",
+        "High Cost"
+    ],
+    "created_at": "2026-06-22T00:10:14.37508+00:00"
+},
+{
+    "id": 11245,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT a technique used when the CPU wants to exchange data with a peripheral device?",
+    "op": [
+        "Interrupt driven I/O",
+        "Programmed I/O",
+        "Virtual Memory",
+        "Direct Memory Access (DMA)"
+    ],
+    "created_at": "2026-06-22T00:10:52.631163+00:00"
+},
+{
+    "id": 11248,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In which one of the following methods for resolving the priority, the device with the highest priority is placed in the first position, followed by lower-priority devices up to the device with the lowest priority, which is placed last in the series?",
+    "op": [
+        "Parallel",
+        "Asynchronous",
+        "Semi-synchronous",
+        "Daisy-Chaining Priority"
+    ],
+    "created_at": "2026-06-22T00:11:13.367132+00:00"
+},
+{
+    "id": 11254,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "________ controls the sequence of the flow of microinstructions.",
+    "op": [
+        "Virtual Memory",
+        "DMA Controller",
+        "Multiplexer",
+        "Micro program controller"
+    ],
+    "created_at": "2026-06-22T00:12:33.21268+00:00"
+},
+{
+    "id": 11256,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Below given RTL description belongs to which stage of pipe-lining?\n\nIR2 ← M [PC];\nPC2 ← PC+4;",
+    "op": [
+        "ALU Operation",
+        "Instruction Fetch",
+        "Memory Access",
+        "Instruction Decode"
+    ],
+    "created_at": "2026-06-22T00:12:54.764102+00:00"
+},
+{
+    "id": 11381,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the type of serial communication error condition in which \"0\" is received instead of a stop bit (which is always a \"1\")?",
+    "op": [
+        "Under-run error",
+        "Parity error",
+        "Overrun error",
+        "Framing error"
+    ],
+    "created_at": "2026-06-22T00:40:52.183431+00:00"
+},
+{
+    "id": 11382,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "__________ means that the CPU should input data from an input device only when the device is ready to provide data and send data to an output device only when it is ready to receive data.",
+    "op": [
+        "Asynchronous transmission",
+        "Data location",
+        "Data transfer",
+        "Data synchronization"
+    ],
+    "created_at": "2026-06-22T00:41:13.67809+00:00"
+},
+{
+    "id": 11384,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A computer interface is an ___________ circuit that matches the requirements of the two subsystems between which it is connected",
+    "op": [
+        "Electronic",
+        "Obituary",
+        "Primary",
+        "Digital"
+    ],
+    "created_at": "2026-06-22T00:41:19.673564+00:00"
+},
+{
+    "id": 11385,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "What is the status of the ACKNLG# signal when a character is completely received by the printer?",
+    "op": [
+        "It remains unaffected",
+        "It goes from high to low",
+        "It toggles its state",
+        "It goes from low to high"
+    ],
+    "created_at": "2026-06-22T00:42:05.086265+00:00"
+},
+{
+    "id": 11439,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_________ is a technique in which some of the CPU’s address lines forming an input to the address decoder are ignored.",
+    "op": [
+        "Microprogramming",
+        "Pipelining",
+        "Instruction pre-fetching",
+        "Partial decoding"
+    ],
+    "created_at": "2026-06-22T01:03:51.873433+00:00"
+},
+{
+    "id": 11449,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "______________ usually involves calculating the target address and evaluating a condition.",
+    "op": [
+        "Load/Store instructions",
+        "ALU instructions",
+        "Pipelined SRC",
+        "Branch Instructions"
+    ],
+    "created_at": "2026-06-22T01:06:43.581881+00:00"
+},
+{
+    "id": 11452,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_____ form the branch address field in the micro instruction.",
+    "op": [
+        "A Bits",
+        "B Bits",
+        "C Bits",
+        "M Bits"
+    ],
+    "created_at": "2026-06-22T01:06:57.16837+00:00"
+},
+{
+    "id": 11456,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A software routine performed when an interrupt is received by the computer is called as ---------",
+    "op": [
+        "Trap",
+        "Interrupt",
+        "Exception",
+        "Interrupt handler"
+    ],
+    "created_at": "2026-06-22T01:07:21.974424+00:00"
+},
+{
+    "id": 11517,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_________ hazard occurs when attempting to access the same resource in different ways at the same time",
+    "op": [
+        "Structural",
+        "Branch",
+        "Data",
+        "Instruction"
+    ],
+    "created_at": "2026-06-22T01:20:05.580784+00:00"
+},
+{
+    "id": 11525,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The SRC uses a hazard detection unit. The hazard can be resolved using either pipeline stalls or by ____________.",
+    "op": [
+        "Data compressing",
+        "Data forwarding",
+        "Instruction forwarding",
+        "Instruction handling"
+    ],
+    "created_at": "2026-06-22T01:20:39.985074+00:00"
+},
+{
+    "id": 11530,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "From an n bit control word we may have __________ bit signal values.",
+    "op": [
+        "2xn",
+        "2^n",
+        "n^2",
+        "nxn"
+    ],
+    "created_at": "2026-06-22T01:21:08.907219+00:00"
+},
+{
+    "id": 11535,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Every interrupt handler has an interrupt return (IRET) instruction, this instruction is an example of ___________ return.",
+    "op": [
+        "FAR",
+        "SHORT",
+        "NEAR",
+        "RELATIVE"
+    ],
+    "created_at": "2026-06-22T01:21:55.394997+00:00"
+},
+{
+    "id": 11603,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "-------------- is the time needed by the CPU to recognize (not service) an interrupt request.",
+    "op": [
+        "Response Deadline",
+        "Throughput",
+        "Interrupt Latency",
+        "Timer delay"
+    ],
+    "created_at": "2026-06-22T01:50:25.555125+00:00"
+},
+{
+    "id": 11610,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "How can you define an interrupt?",
+    "op": [
+        "A process where an external device can speedup the working of the microprocessor",
+        "A process where memory can speed up programs execution speed",
+        "A process where input devices can takeover the working of the microprocessor",
+        "A process where an external device can get the attention of the microprocessor"
+    ],
+    "created_at": "2026-06-22T01:52:21.42296+00:00"
+},
+{
+    "id": 11616,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Most parallel I/O ports used with peripheral devices are mapped on a range of______________.",
+    "op": [
+        "Bus addresses",
+        "contiguous addresses",
+        "Cache",
+        "Direct memory Access"
+    ],
+    "created_at": "2026-06-22T01:55:34.742123+00:00"
+},
+{
+    "id": 11623,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the following type of serial communication error condition in which no character is available at the beginning of an interval.",
+    "op": [
+        "Under-run error",
+        "Framing error",
+        "Overrun error",
+        "Parity error"
+    ],
+    "created_at": "2026-06-22T01:56:15.634698+00:00"
+},
+{
+    "id": 11640,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "______ is an electrical pathway through which the processor communicates with the internal and external devices attached to the computer.",
+    "op": [
+        "Computer Bus",
+        "Hazard",
+        "Disk",
+        "Memory"
+    ],
+    "created_at": "2026-06-22T02:09:34.455839+00:00"
+},
+{
+    "id": 11648,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "___________ signal is used in printer with DB-25 interface to reset its controller.",
+    "op": [
+        "#SLCT",
+        "#PE",
+        "#INIT",
+        "#STROB"
+    ],
+    "created_at": "2026-06-22T02:13:19.609174+00:00"
+},
+{
+    "id": 11668,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "At the start of the transfer operation in synchronous communication, the master activates the _________ signal.",
+    "op": [
+        "Read",
+        "Enable",
+        "Acknowledge",
+        "Data"
+    ],
+    "created_at": "2026-06-22T02:16:24.543052+00:00"
+},
+{
+    "id": 11710,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In 8086/8088 processor, interrupt vector table is located at the memory location ___________.",
+    "op": [
+        "1024",
+        "0",
+        "4",
+        "256"
+    ],
+    "created_at": "2026-06-22T02:22:46.953305+00:00"
+},
+{
+    "id": 11712,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the following type of serial communication error condition:\n “The prior character that was received was not still read by the CPU and is over written by a new received character.”",
+    "op": [
+        "Under-run error",
+        "Parity error",
+        "Overrun error",
+        "Framing error"
+    ],
+    "created_at": "2026-06-22T02:24:06.54942+00:00"
+},
+{
+    "id": 11716,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Pipeline hazard occurs when an instruction depends on the result of ___________ instruction that is not yet complete.",
+    "op": [
+        "ongoing",
+        "next",
+        "previous",
+        "first"
+    ],
+    "created_at": "2026-06-22T02:25:26.49841+00:00"
+},
+{
+    "id": 11717,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "To set the value of micro-PC from external address, the value of 4 to 1 multiplexer is ______________.",
+    "op": [
+        "10",
+        "00",
+        "01",
+        "11"
+    ],
+    "created_at": "2026-06-22T02:25:36.337333+00:00"
+},
+{
+    "id": 11721,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A parallel port can be considered to be a big ___________ gate.",
+    "op": [
+        "NOR",
+        "NOR",
+        "AND",
+        "OR"
+    ],
+    "created_at": "2026-06-22T02:26:15.340251+00:00"
+},
+{
+    "id": 11854,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In the little-endian format exchanging data between computers, the data transmitted by one will be received in a “swapped” form by the other.",
+    "op": [
+        "Swapped",
+        "Arranged",
+        "Signals",
+        "Organized"
+    ],
+    "created_at": "2026-06-22T02:57:28.896695+00:00"
+},
+{
+    "id": 11855,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The multiplexer___________ is used to decide which value is transferred to be written back to the register file.",
+    "op": [
+        "MP5",
+        "MP3",
+        "MP2",
+        "MP4"
+    ],
+    "created_at": "2026-06-22T02:57:49.572163+00:00"
+},
+{
+    "id": 12306,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In a printer with DB-25 interface, ___________ signal is  is better for edge triggered systems.",
+    "op": [
+        "ACKNLG#",
+        "BUSY#",
+        "STROB#",
+        "PE#"
+    ],
+    "created_at": "2026-06-22T03:59:33.695584+00:00"
+},
+{
+    "id": 12975,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The Pentium does allow the use of some part of its _____ accumulator register EAX",
+    "op": [
+        "64 bits",
+        "8 bits",
+        "32 bits",
+        "16 bits"
+    ],
+    "created_at": "2026-06-22T05:04:59.371054+00:00"
+},
+{
+    "id": 13452,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which of the followings is not an example of super-scalar processors?",
+    "op": [
+        "DEC Alpha 21164",
+        "Intel P6",
+        "IAPX88",
+        "PowerPC 601"
+    ],
+    "created_at": "2026-06-22T06:15:54.794506+00:00"
+},
+{
+    "id": 36720,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Shifting of the radix point towards left or right is called ________",
+    "op": [
+        "Right Shift",
+        "Scaling",
+        "Logical Shift",
+        "Shifting"
+    ],
+    "created_at": "2026-07-01T19:11:13.928169+00:00"
+},
+{
+    "id": 36721,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The main issue/s in error control is/are________________.",
+    "op": [
+        "Avoidance of Error",
+        "Both Detection of Error and Correction of Error",
+        "Correction of Error",
+        "Detection of Error"
+    ],
+    "created_at": "2026-07-01T19:11:21.945025+00:00"
+},
+{
+    "id": 36723,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In computers,floating-point representation uses ______to encode significand,exponent and their sign in a single word",
+    "op": [
+        "Binary Numbers",
+        "Decimal Numbers",
+        "Hexa decimal Numbers",
+        "Octal Number"
+    ],
+    "created_at": "2026-07-01T19:11:29.238969+00:00"
+},
+{
+    "id": 36727,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In _______ adder circuit we feed carry out from the previous stage to the next stage and so on.",
+    "op": [
+        "Carry Look Ahead Adder",
+        "2’s Complement Adder",
+        "Ripple Carry Adder",
+        "Complement Adder"
+    ],
+    "created_at": "2026-07-01T19:11:36.056387+00:00"
+},
+{
+    "id": 36729,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A component connected to the system bus and having control of it during a particular bus cycle is called___________.",
+    "op": [
+        "Buffer component",
+        "Slave component",
+        "System bus",
+        "Master component"
+    ],
+    "created_at": "2026-07-01T19:11:42.599802+00:00"
+},
+{
+    "id": 36734,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which I/O technique will be used by a sound card that may need to access data stored in the computer's RAM?",
+    "op": [
+        "Programmed I/O",
+        "Interrupt driven I/O",
+        "Direct memory access(DMA)",
+        "Polling"
+    ],
+    "created_at": "2026-07-01T19:11:59.531484+00:00"
+},
+{
+    "id": 36736,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Select the parts of a hard disk.",
+    "op": [
+        "Header, data section and a trailer.",
+        "Data section only",
+        "Header only",
+        "Data section and a trailer"
+    ],
+    "created_at": "2026-07-01T19:12:07.313921+00:00"
+},
+{
+    "id": 36739,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "How Interrupt driven I/O is better than polling because?",
+    "op": [
+        "Interrupt driver I/O is easy to design",
+        "Interrupt driver I/O does not waste time on checking which device is available.",
+        "Interrupt driver I/O is enhanced version of polling.",
+        "Interrupt driven I/O is easy to program."
+    ],
+    "created_at": "2026-07-01T19:12:16.474571+00:00"
+},
+{
+    "id": 36743,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A combination of parallel and sequential hardware used to build a multiplier is known as _______",
+    "op": [
+        "Parallel Array Multiplier",
+        "Series Parallel Multiplier",
+        "None of the given",
+        "Booth Recording"
+    ],
+    "created_at": "2026-07-01T19:12:24.371625+00:00"
+},
+{
+    "id": 36760,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A component connected to the _________ and with which the master component can communicate during a particular bus cycle. Normally the CPU with its bus control logic is the master component.",
+    "op": [
+        "Slave component",
+        "Bus component",
+        "Master component",
+        "System bus"
+    ],
+    "created_at": "2026-07-01T19:14:31.726902+00:00"
+},
+{
+    "id": 36766,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "___________ depends upon the present position of the head and the position of the required sector.",
+    "op": [
+        "Throughput",
+        "Direct memory Access",
+        "Seek time",
+        "Execution time"
+    ],
+    "created_at": "2026-07-01T19:14:52.069523+00:00"
+},
+{
+    "id": 36769,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Along with the information bits, we add up another bit, which is called?",
+    "op": [
+        "Start bit",
+        "Stop bit",
+        "Parity bit",
+        "Header bit"
+    ],
+    "created_at": "2026-07-01T19:15:04.211194+00:00"
+},
+{
+    "id": 36773,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Why DMA is faster than Programmer I/O technique because?",
+    "op": [
+        "DMA transfers data directly without using CPU",
+        "DMA uses buffers with CPU",
+        "DMA transfers data directly using CPU.",
+        "DMA uses interrupted driven I/O"
+    ],
+    "created_at": "2026-07-01T19:15:17.930596+00:00"
+},
+{
+    "id": 36775,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In ______, bits are encoded in pairs so there are only ' n/2' additions instead of 'n'.",
+    "op": [
+        "Bit Pair Recording",
+        "Integer division",
+        "None of the given",
+        "Booth Recording"
+    ],
+    "created_at": "2026-07-01T19:15:25.697095+00:00"
+},
+{
+    "id": 36777,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In which one of the following methods, does the CPU poll to identify the interrupting module and branches to an interrupt service routine on detecting an interrupt?",
+    "op": [
+        "Multiple interrupt lines",
+        "Daisy Chain",
+        "Software Poll",
+        "All of the given options"
+    ],
+    "created_at": "2026-07-01T19:15:32.924712+00:00"
+},
+{
+    "id": 36779,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In Single-Precision Binary Floating Point Representation the exponent is _______",
+    "op": [
+        "11 bits",
+        "23 bits",
+        "8 bits",
+        "1 bit"
+    ],
+    "created_at": "2026-07-01T19:15:43.142611+00:00"
+},
+{
+    "id": 36951,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The directive ____________ is used to define variables.",
+    "op": [
+        ".org",
+        ".sw",
+        ".db",
+        ".equ"
+    ],
+    "created_at": "2026-07-01T20:20:53.546538+00:00"
+},
+{
+    "id": 36952,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "______ is a combination of arithmetic, logic and shifter unit along with some multiplexers and control unit.",
+    "op": [
+        "Control Unit",
+        "Barrel Rotator",
+        "ALU",
+        "Flip Flop"
+    ],
+    "created_at": "2026-07-01T20:21:01.983879+00:00"
+},
+{
+    "id": 36953,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In Double-Precision Binary Floating Point Representation the fraction is _______",
+    "op": [
+        "52 bits",
+        "11 bits",
+        "23 bits",
+        "1 bit"
+    ],
+    "created_at": "2026-07-01T20:21:11.124709+00:00"
+},
+{
+    "id": 36954,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The information about interrupt vector is given in 8-bits, from bit 0 to 7, which is translated to bit ___________ on the data bus.",
+    "op": [
+        "16 to 23",
+        "11 to 18",
+        "0 to 7",
+        "8 to 15"
+    ],
+    "created_at": "2026-07-01T20:21:28.980525+00:00"
+},
+{
+    "id": 36955,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which is the last instruction of the ISR that is to be executed when the ISR terminates?",
+    "op": [
+        "IRQ",
+        "NMI",
+        "INT",
+        "IRET"
+    ],
+    "created_at": "2026-07-01T20:21:37.345014+00:00"
+},
+{
+    "id": 36956,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "----------- allows a peripheral to read and write memory without intervention by the CPU.",
+    "op": [
+        "Polling",
+        "Interrupt driven I/O",
+        "Programmed I/O",
+        "Direct memory access(DMA)"
+    ],
+    "created_at": "2026-07-01T20:21:43.751667+00:00"
+},
+{
+    "id": 36957,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Interrupt driven I/O is better than ______________.",
+    "op": [
+        "Data Forwarding",
+        "Polling",
+        "First In First Out",
+        "Stall"
+    ],
+    "created_at": "2026-07-01T20:21:49.689052+00:00"
+},
+{
+    "id": 37058,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The source file of FALSIM should contain ____________ text only.",
+    "op": [
+        "UTF",
+        "ANSI",
+        "ASCII",
+        "Unicode"
+    ],
+    "created_at": "2026-07-01T21:24:19.70707+00:00"
+},
+{
+    "id": 37059,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "CRC has ------------ overhead as compared to Hamming code.",
+    "op": [
+        "Equal",
+        "Greater",
+        "Lesser",
+        "None of the given"
+    ],
+    "created_at": "2026-07-01T21:24:33.176639+00:00"
+},
+{
+    "id": 37060,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Along with information bits we add up another bit which is called the______________bit.",
+    "op": [
+        "Hamming",
+        "Parity",
+        "CRC",
+        "Error Detection"
+    ],
+    "created_at": "2026-07-01T21:24:58.077497+00:00"
+},
+{
+    "id": 37061,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Raid level ______ distributes the parity strips across all disks.",
+    "op": [
+        "5",
+        "3",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-07-01T21:25:04.699404+00:00"
+},
+{
+    "id": 37197,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "human works with base 10 and computers work with base _________.",
+    "op": [
+        "16",
+        "10",
+        "2",
+        "8"
+    ],
+    "created_at": "2026-07-02T00:54:54.990911+00:00"
+},
+{
+    "id": 37198,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The average latency to the desired data is halfway round the disk so, what will be the average rotational latency if the disk rotates at 20,000 rpm.",
+    "op": [
+        "1.0ms",
+        "1.25ms",
+        "2.0ms",
+        "1.5ms"
+    ],
+    "created_at": "2026-07-02T00:55:18.482487+00:00"
+},
+{
+    "id": 37212,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A _______signal decides whether the input word should be shifted or bypassed.",
+    "op": [
+        "Control Read",
+        "None of the given",
+        "shift/bypass",
+        "Control Write"
+    ],
+    "created_at": "2026-07-02T01:14:56.427416+00:00"
+},
+{
+    "id": 37213,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "______ is the simplest form for representing a signed number",
+    "op": [
+        "Sign Magnitude Form",
+        "Diminished Radix Compliment Form",
+        "Biased Representation",
+        "None of the given"
+    ],
+    "created_at": "2026-07-02T01:15:06.648199+00:00"
+},
+{
+    "id": 37214,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Taking control of the system bus for a few bus cycles is known as _____________.",
+    "op": [
+        "Cycle Transfering",
+        "Cycle Stealing",
+        "None of given",
+        "Bus Stealing"
+    ],
+    "created_at": "2026-07-02T01:15:13.913996+00:00"
+},
+{
+    "id": 37215,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The conversion of numbers from a representation in one base to another is known as_______",
+    "op": [
+        "Number Representation",
+        "Decimal representation",
+        "Radix Conversion",
+        "Hexadecimal Representation"
+    ],
+    "created_at": "2026-07-02T01:15:19.86277+00:00"
+},
+{
+    "id": 37216,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In which technique does the hardware directly access host memory for reading or writing independent of CPU?",
+    "op": [
+        "Interrupt driven I/O",
+        "Direct Memory Access (DMA)",
+        "Polling",
+        "Programmed I/O"
+    ],
+    "created_at": "2026-07-02T01:15:27.484456+00:00"
+},
+{
+    "id": 37217,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "By which file extension does the FALCON-A Assembler loads a FALCON-A assembly file?",
+    "op": [
+        ".exe",
+        ".org",
+        ".asmfa",
+        ".src"
+    ],
+    "created_at": "2026-07-02T01:15:39.22809+00:00"
+},
+{
+    "id": 37218,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "How does DMA saves CPU time?",
+    "op": [
+        "By issuing an interrupt request to the CPU to request attention.",
+        "By periodically polling.",
+        "By controlling data transfer between I/O device and memory directly.",
+        "By storing all data in a buffer to be later transferred to the CPU."
+    ],
+    "created_at": "2026-07-02T01:15:55.583275+00:00"
+},
+{
+    "id": 37219,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is the basic idea of “carry look ahead”?",
+    "op": [
+        "To speed up the ripple carry",
+        "To solve the redundancy",
+        "To synchronize with CPU clock",
+        "To reduce congestion"
+    ],
+    "created_at": "2026-07-02T01:47:52.433322+00:00"
+},
+{
+    "id": 37220,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The _________ of an m digit number x is \\[{x^c} = {b^m} - 1 - x\\]",
+    "op": [
+        "Diminished Radix Compliment",
+        "Radix Compliment",
+        "Biased Representation",
+        "Signed Magnitude Form"
+    ],
+    "created_at": "2026-07-02T01:48:07.206662+00:00"
+},
+{
+    "id": 37255,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What should be the behavior of interrupts during critical sections?",
+    "op": [
+        "Only important interrupts be enable.",
+        "Depends on current situation",
+        "Must remain Disable",
+        "Must remain Enable"
+    ],
+    "created_at": "2026-07-02T02:17:28.226631+00:00"
+},
+{
+    "id": 37257,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "----------the device usually means reading its status register every so often until the device's status changes to indicate that it has completed the request.",
+    "op": [
+        "Masking",
+        "Interrupting",
+        "Polling",
+        "Executing"
+    ],
+    "created_at": "2026-07-02T02:20:22.341303+00:00"
+},
+{
+    "id": 37259,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "When a particular sector is found, the data is transferred to ____________.",
+    "op": [
+        "I/O module",
+        "Instruction register",
+        "RAM",
+        "Cache memory"
+    ],
+    "created_at": "2026-07-02T02:22:10.950666+00:00"
+},
+{
+    "id": 37278,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "When an I/O module has a capability of executing a specific set of instructions for specific I/O devices in the memory without the involvement of CPU is called ________.",
+    "op": [
+        "Cycle Stealing",
+        "I/O processors",
+        "Selector Channel",
+        "I/O Channel"
+    ],
+    "created_at": "2026-07-02T02:37:39.857067+00:00"
+},
+{
+    "id": 37288,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The ___________ can be determined from the number of platters and the number of tracks.",
+    "op": [
+        "execution time",
+        "Latency",
+        "storage capacity",
+        "Speed of processing"
+    ],
+    "created_at": "2026-07-02T02:56:51.071821+00:00"
+},
+{
+    "id": 37399,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "____________ lets the user execute the program, one instruction at a time.",
+    "op": [
+        "Change PC",
+        "List File",
+        "Single Step",
+        "Execute"
+    ],
+    "created_at": "2026-07-02T04:00:36.119589+00:00"
+},
+{
+    "id": 37447,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Raid Level ____ is not a true member of the RAID family.",
+    "op": [
+        "2",
+        "3",
+        "0",
+        "4"
+    ],
+    "created_at": "2026-07-02T04:29:48.912776+00:00"
+},
+{
+    "id": 37577,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "_______ are computed by the ALU and stored in processor status register.",
+    "op": [
+        "None of the given",
+        "Conditional Branches",
+        "Condition codes",
+        "Fraction Division"
+    ],
+    "created_at": "2026-07-02T05:21:51.930765+00:00"
+},
+{
+    "id": 37761,
+    "cc": "CS501",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For ________ of an error we just need to know that there exists an error.",
+    "op": [
+        "Both Correction and Detection",
+        "None of the given",
+        "Detection",
+        "Correction"
+    ],
+    "created_at": "2026-07-02T06:37:53.773394+00:00"
+},
+{
+    "id": 42717,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The third stage of the Pipelined version of SRC is;",
+    "op": [
+        "Memory access",
+        "Register write",
+        "Instruction Fetch",
+        "ALU operation"
+    ],
+    "created_at": "2026-06-22T08:23:02.385442+00:00"
+},
+{
+    "id": 42718,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "At the start of the transfer operation in synchronous communication, the master activates the _________ signal.",
+    "op": [
+        "Acknowledge",
+        "Enable",
+        "Data",
+        "Read"
+    ],
+    "created_at": "2026-06-22T08:23:36.99677+00:00"
+},
+{
+    "id": 42719,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_______ signal has Output direction with respect to printer",
+    "op": [
+        "INIT#",
+        "ACKNLG#",
+        "D<7..0>",
+        "STROBE#"
+    ],
+    "created_at": "2026-06-22T08:24:53.040801+00:00"
+},
+{
+    "id": 42720,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which temporary register is loaded with either a register value from the register file or a constant from the instruction?",
+    "op": [
+        "Y3",
+        "X3",
+        "Z5",
+        "Z4"
+    ],
+    "created_at": "2026-06-22T08:25:24.964367+00:00"
+},
+{
+    "id": 42721,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "In which one of the following methods for resolving the priority, the device with the highest priority is placed in the first position, followed by lower-priority devices up to the device with the lowest priority, which is placed last in the series?",
+    "op": [
+        "Daisy-Chaining Priority",
+        "Parallel",
+        "Asynchronous",
+        "Semi-synchronous"
+    ],
+    "created_at": "2026-06-22T08:26:21.487556+00:00"
+},
+{
+    "id": 42722,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "_________ hazard occurs when attempting to access the same resource in different ways at the same time",
+    "op": [
+        "Branch",
+        "Structural",
+        "Instruction",
+        "Data"
+    ],
+    "created_at": "2026-06-22T08:26:44.458973+00:00"
+},
+{
+    "id": 42723,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Every interrupt handler has an interrupt return (IRET) instruction, this instruction is an example of ___________ return.",
+    "op": [
+        "NEAR",
+        "SHORT",
+        "FAR",
+        "RELATIVE"
+    ],
+    "created_at": "2026-06-22T08:27:07.307255+00:00"
+},
+{
+    "id": 42724,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Identify the following type of serial communication error condition in which no character is available at the beginning of an interval.",
+    "op": [
+        "Parity error",
+        "Framing error",
+        "Under-run error",
+        "Overrun error"
+    ],
+    "created_at": "2026-06-22T08:27:26.878031+00:00"
+},
+{
+    "id": 42725,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A parallel port can be considered to be a big ___________ gate.",
+    "op": [
+        "NOR",
+        "AND",
+        "OR",
+        "NOR"
+    ],
+    "created_at": "2026-06-22T08:27:47.244003+00:00"
+},
+{
+    "id": 42726,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "________ controls the sequence of the flow of microinstructions.",
+    "op": [
+        "Micro program controller",
+        "DMA Controller",
+        "Multiplexer",
+        "Virtual Memory"
+    ],
+    "created_at": "2026-06-22T08:28:56.222563+00:00"
+},
+{
+    "id": 69247,
+    "cc": "CS501",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Given an m-digit base b number x, the ________ of x is {{\\rm{x}}^c}{\\rm{ = (}}{{\\rm{b}}^m}{\\rm{ - x) mod }}\\,{{\\rm{b}}^m}",
+    "op": [
+        "Signed Magnitude Form",
+        "Radix Compliment",
+        "Biased Representation",
+        "Diminished Radix Compliment"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69644,
+    "cc": "CS501",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Given an m-digit base b number x, the ________ of x is \\[{{\\rm{x}}^c}{\\rm{ = (}}{{\\rm{b}}^m}{\\rm{ - x) mod }}\\,{{\\rm{b}}^m}\\]",
+    "op": [
+        "Radix Compliment",
+        "Diminished Radix Compliment",
+        "Biased Representation",
+        "Signed Magnitude Form"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+},
+{
+    "id": 73630,
+    "cc": "CS501",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Identify the following type of serial communication error condition: “The prior character that was received was not still read by the CPU and is over written by a new received character.”",
+    "op": [
+        "Overrun error",
+        "Framing error",
+        "Parity error",
+        "Under-run error"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

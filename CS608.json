@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 26276,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Decision table is a tool that helps us look at the ____________________ of combination of conditions.",
+        "op": [
+            "Completeness and consistency",
+            "Consistency",
+            "Completeness",
+            "Validity"
+        ],
+        "created_at": "2026-06-29T05:13:51.18753+00:00"
+    },
+    {
+        "id": 26277,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is a description of system’s behavior?",
+        "op": [
+            "Abstraction",
+            "Attributes",
+            "Model",
+            "Class"
+        ],
+        "created_at": "2026-06-29T05:14:02.106773+00:00"
+    },
+    {
+        "id": 26278,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Bug status is set to postpone due to ________.",
+        "op": [
+            "The bug may not be the major effect in the software",
+            "Priority of that bug may low",
+            "Data may be unavailable",
+            "Lack of time for the release"
+        ],
+        "created_at": "2026-06-29T05:14:15.267524+00:00"
+    },
+    {
+        "id": 26279,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If a system takes three input values for the three lengths of a triangle, a valid test case for testing a triangle to be scalene is:",
+        "op": [
+            "12, 12, 20",
+            "10, 10, 10",
+            "15, 11, 17",
+            "14, 27, 27"
+        ],
+        "created_at": "2026-06-29T05:14:31.001324+00:00"
+    },
+    {
+        "id": 26280,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Equivalence class testing uses mathematical concept of equivalence class to generate test cases for largely ____________.",
+        "op": [
+            "Structural testing",
+            "Functional testing",
+            "White-box testing",
+            "Integration testing"
+        ],
+        "created_at": "2026-06-29T05:14:42.590835+00:00"
+    },
+    {
+        "id": 26281,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In which of the following technique, we sow one fault at a time leading to original program and mutant version of that program?",
+        "op": [
+            "Data flow coverage",
+            "Control flow coverage",
+            "Fault seeding technique",
+            "Mutation Testing"
+        ],
+        "created_at": "2026-06-29T05:14:54.19993+00:00"
+    },
+    {
+        "id": 26282,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Effective testing will reduce _____________ cost.",
+        "op": [
+            "documentation",
+            "coding",
+            "design",
+            "maintenance"
+        ],
+        "created_at": "2026-06-29T05:15:05.952712+00:00"
+    },
+    {
+        "id": 26283,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Messages are accepted when they should not refer to a(an) _________________.",
+        "op": [
+            "Davey John Locker",
+            "sneak path",
+            "illegal path",
+            "trap door"
+        ],
+        "created_at": "2026-06-29T05:15:18.098176+00:00"
+    },
+    {
+        "id": 26284,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If a test produces different results for one of the mutants, that mutant is said to be ______________.",
+        "op": [
+            "alive",
+            "lucky",
+            "immortal",
+            "dead"
+        ],
+        "created_at": "2026-06-29T05:15:30.704771+00:00"
+    },
+    {
+        "id": 26558,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "During specification based testing, test case specifications can be extracted from the ____________________.",
+        "op": [
+            "Representative values of each ITF only",
+            "Model of each ITF only",
+            "Functional specification of the system only",
+            "Representative values or model of each ITF"
+        ],
+        "created_at": "2026-06-29T06:52:00.210336+00:00"
+    },
+    {
+        "id": 26559,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Formal conformance testing technique is based on ________________.",
+        "op": [
+            "Transition graph",
+            "Non regular language",
+            "Non-finite state machine",
+            "Finite state machine"
+        ],
+        "created_at": "2026-06-29T06:52:26.322261+00:00"
+    },
+    {
+        "id": 26561,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "What are the basic assumptions regarding Finite State Machines?",
+        "op": [
+            "Deterministic and completely defined",
+            "Deterministic and partially defined",
+            "Non-deterministic and completely defined",
+            "Non-deterministic and partially defined"
+        ],
+        "created_at": "2026-06-29T06:53:11.507386+00:00"
+    },
+    {
+        "id": 26562,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A testing strategy that test the application as a whole is called __________________.",
+        "op": [
+            "System testing",
+            "Verification testing",
+            "Validation testing",
+            "Requirement gathering"
+        ],
+        "created_at": "2026-06-29T06:53:33.568762+00:00"
+    },
+    {
+        "id": 26563,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If a system takes three input values for the three lengths of a triangle, a valid test case for testing a triangle to be equilateral is:",
+        "op": [
+            "15, 11, 17",
+            "14, 12, 27",
+            "12, 12, 20",
+            "10, 10, 10"
+        ],
+        "created_at": "2026-06-29T06:53:51.641367+00:00"
+    },
+    {
+        "id": 26566,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A fault model is a hypothetical model of what types of faults may occur in a(an) _________________.",
+        "op": [
+            "specification",
+            "testing",
+            "design",
+            "implementation"
+        ],
+        "created_at": "2026-06-29T06:54:14.765249+00:00"
+    },
+    {
+        "id": 26567,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If a system takes three input values for the three lengths of a triangle, a valid test case for testing a triangle to be isosceles is:",
+        "op": [
+            "15, 11, 17",
+            "14, 12, 27",
+            "12, 12, 20",
+            "10, 10, 10"
+        ],
+        "created_at": "2026-06-29T06:54:34.456083+00:00"
+    },
+    {
+        "id": 26570,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In which of the following technique, a predefined number of artificially generated errors is sown in the program code?",
+        "op": [
+            "Control flow coverage",
+            "Fault seeding technique",
+            "Mutation Testing",
+            "Data flow coverage"
+        ],
+        "created_at": "2026-06-29T06:54:56.526931+00:00"
+    },
+    {
+        "id": 26833,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "If a system takes three input values from 1 to 30 for the three lengths of a triangle, weak robust equivalence test cases will include _____ invalid test case in addition to Weak Normal.",
+        "op": [
+            "15",
+            "2",
+            "10",
+            "6"
+        ],
+        "created_at": "2026-06-29T09:46:21.833221+00:00"
+    },
+    {
+        "id": 26835,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Control sequence state is indicated by _________________.",
+        "op": [
+            "Decision box",
+            "Conditional box",
+            "State box",
+            "Data box"
+        ],
+        "created_at": "2026-06-29T09:46:53.514839+00:00"
+    },
+    {
+        "id": 26898,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following equivalence class testing approaches consider the invalid input variables?",
+        "op": [
+            "Weak Robust and Strong Robust",
+            "Strong Normal and Strong Robust",
+            "Weak Normal and Strong Normal",
+            "Weak Normal and Weak Robust"
+        ],
+        "created_at": "2026-06-29T10:30:18.764351+00:00"
+    },
+    {
+        "id": 26899,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is not a part of Execution Flow during debugging?",
+        "op": [
+            "Step Out",
+            "Step Over",
+            "Step Into",
+            "Step Up"
+        ],
+        "created_at": "2026-06-29T10:31:10.845399+00:00"
+    },
+    {
+        "id": 26900,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "A __________ is a hypothetical story, used to help a person think through a complex problem or system.",
+        "op": [
+            "Requirement",
+            "Scenario",
+            "Use case",
+            "Functional specification"
+        ],
+        "created_at": "2026-06-29T10:31:44.361912+00:00"
+    },
+    {
+        "id": 28108,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Stakeholder is:",
+        "op": [
+            "Each person, who is always the ultimate end user of the system",
+            "A representative of the company, who deals with the development team",
+            "A person, who can influence development decisions about a system",
+            "A single person, who owns the system"
+        ],
+        "created_at": "2026-06-29T21:11:31.457449+00:00"
+    },
+    {
+        "id": 28948,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The conditions in the decision table may take on_____________________.",
+        "op": [
+            "True or False values only",
+            "Any number of values",
+            "0 / 1 values only",
+            "Binary values only"
+        ],
+        "created_at": "2026-06-30T04:52:25.250801+00:00"
+    },
+    {
+        "id": 28951,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "When should a company stop the testing of a particular software?",
+        "op": [
+            "After Unit testing",
+            "It depends on the risks for the system being tested",
+            "After Integration testing",
+            "After smoke testing"
+        ],
+        "created_at": "2026-06-30T04:52:36.219571+00:00"
+    },
+    {
+        "id": 30247,
+        "cc": "CS608",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In case of a valid triangle, if there are three types of valid situations then there will be 2 power 3 test conditions. Suppose, there are 3 impossible situations then, which of the following will be the remaining test conditions?",
+        "op": [
+            "7",
+            "8",
+            "5",
+            "6"
+        ],
+        "created_at": "2026-06-30T12:18:44.705463+00:00"
+    },
+    {
+        "id": 52619,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are ____________ inputs for test result reporting.",
+        "op": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "created_at": "2026-07-06T04:59:38.526978+00:00"
+    },
+    {
+        "id": 52623,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For small scale bug tracking, we can use _____________________ software with backend in some DBMS.",
+        "op": [
+            "JIRA",
+            "IBM Rational Test Manager",
+            "Open source",
+            "Microsoft Test Manager"
+        ],
+        "created_at": "2026-07-06T04:59:50.298115+00:00"
+    },
+    {
+        "id": 52628,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In fault seeding, confidence C is calculated by using C = S/(S - N + 1), where N is calculated by ___________.",
+        "op": [
+            "N = S*n / s",
+            "N = S / s*n",
+            "N = s / S*n",
+            "N = s*n / S"
+        ],
+        "created_at": "2026-07-06T05:00:00.336557+00:00"
+    },
+    {
+        "id": 52632,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Test engineers do regression testing at the ____________ level.",
+        "op": [
+            "unit",
+            "system",
+            "function",
+            "program"
+        ],
+        "created_at": "2026-07-06T05:00:15.596612+00:00"
+    },
+    {
+        "id": 52635,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Test __________ is a set of test inputs, execution conditions, and expected results developed to test a particular execution path.",
+        "op": [
+            "suite",
+            "plan",
+            "case",
+            "run"
+        ],
+        "created_at": "2026-07-06T05:00:32.06369+00:00"
+    },
+    {
+        "id": 52636,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following color is used to show unsuccessful test cases in Microsoft Test Manager (MTM)?",
+        "op": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "created_at": "2026-07-06T05:00:41.55585+00:00"
+    },
+    {
+        "id": 52637,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is to measure the outcome of the test case?",
+        "op": [
+            "Test case",
+            "Test outcome",
+            "Test motivation",
+            "Test objectives"
+        ],
+        "created_at": "2026-07-06T05:00:49.701313+00:00"
+    },
+    {
+        "id": 52638,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following keeps a track of test cases and know which test cases are related to which part of SRS, SDS etc.?",
+        "op": [
+            "Traceability Matrix",
+            "Data flow diagram",
+            "Microsoft Visio",
+            "Rational Rose"
+        ],
+        "created_at": "2026-07-06T05:01:01.107053+00:00"
+    },
+    {
+        "id": 52640,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Quality Assurance engineers do regression testing at the ____________ level.",
+        "op": [
+            "program",
+            "unit",
+            "system",
+            "function"
+        ],
+        "created_at": "2026-07-06T05:01:10.185419+00:00"
+    },
+    {
+        "id": 52641,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are _____________ different levels at which regression testing is performed.",
+        "op": [
+            "8",
+            "4",
+            "1",
+            "2"
+        ],
+        "created_at": "2026-07-06T05:01:21.787692+00:00"
+    },
+    {
+        "id": 52940,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is true for a test case?",
+        "op": [
+            "It is a single activity",
+            "It is a process",
+            "It is a mechanism",
+            "It is a product"
+        ],
+        "created_at": "2026-07-06T05:46:35.504008+00:00"
+    },
+    {
+        "id": 52943,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The problem that threatens the success of a project but which has not yet happened is called as __________.",
+        "op": [
+            "Error",
+            "Bug",
+            "Risk",
+            "Defect"
+        ],
+        "created_at": "2026-07-06T05:46:47.548205+00:00"
+    },
+    {
+        "id": 52946,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are total of ______________ different states of a test case.",
+        "op": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "created_at": "2026-07-06T05:47:13.715511+00:00"
+    },
+    {
+        "id": 52949,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Test objectives helps test ___________ developer to define the relevant test cases.",
+        "op": [
+            "aggregate",
+            "case",
+            "plan",
+            "suite"
+        ],
+        "created_at": "2026-07-06T05:47:26.649776+00:00"
+    },
+    {
+        "id": 52951,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "M. E. Fagan defined __________ in 1976.",
+        "op": [
+            "Reviews",
+            "Inspections",
+            "Documentation",
+            "Checklists"
+        ],
+        "created_at": "2026-07-06T05:47:36.837323+00:00"
+    },
+    {
+        "id": 52955,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are ____________ outputs of test result reporting.",
+        "op": [
+            "3",
+            "6",
+            "5",
+            "4"
+        ],
+        "created_at": "2026-07-06T05:48:02.001363+00:00"
+    },
+    {
+        "id": 53085,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following are the number of reasons for organizing test cases in a hierarchical manner?",
+        "op": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-07-06T06:10:04.599441+00:00"
+    },
+    {
+        "id": 53088,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Inspections can find about ______________ of all defects.",
+        "op": [
+            "60%",
+            "100%",
+            "20%",
+            "40%"
+        ],
+        "created_at": "2026-07-06T06:10:41.911003+00:00"
+    },
+    {
+        "id": 53090,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Inspection process is led by a trained ___________.",
+        "op": [
+            "Moderator",
+            "Reviewer",
+            "Author",
+            "Developer"
+        ],
+        "created_at": "2026-07-06T06:10:52.013035+00:00"
+    },
+    {
+        "id": 53092,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is tester’s motivation?",
+        "op": [
+            "Prove the software to be efficient",
+            "Solve code issues",
+            "Find faults",
+            "Identify success factors"
+        ],
+        "created_at": "2026-07-06T06:11:01.407197+00:00"
+    },
+    {
+        "id": 53096,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Mike Fagan of IBM describes a method called __________ which formalised the software review process.",
+        "op": [
+            "Pair review",
+            "Online review",
+            "Peer review",
+            "Table review"
+        ],
+        "created_at": "2026-07-06T06:11:15.627498+00:00"
+    },
+    {
+        "id": 53099,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Regression testing usually refers to testing activities during software ___________________ phase.",
+        "op": [
+            "maintenance",
+            "design",
+            "requirements specification",
+            "quality assurance"
+        ],
+        "created_at": "2026-07-06T06:11:38.182053+00:00"
+    },
+    {
+        "id": 53101,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "There are ___________ steps in Fagan inspections.",
+        "op": [
+            "1",
+            "4",
+            "6",
+            "2"
+        ],
+        "created_at": "2026-07-06T06:11:49.586263+00:00"
+    },
+    {
+        "id": 53939,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is the correct sequence from informal to formal in verification methods?",
+        "op": [
+            "Inspection, Peer review, Walkthrough, Informal",
+            "Informal, Walkthrough, Peer review, Inspection",
+            "Informal, Inspection, Walkthrough, Peer review",
+            "Walkthrough, Inspection, Peer review, Informal"
+        ],
+        "created_at": "2026-07-06T10:12:50.306484+00:00"
+    },
+    {
+        "id": 53940,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Test plan and _____________ are the first and last steps of Test Data Management respectively.",
+        "op": [
+            "reporting",
+            "test run",
+            "recording",
+            "Test suite"
+        ],
+        "created_at": "2026-07-06T10:13:21.634105+00:00"
+    },
+    {
+        "id": 54418,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following activities are done when software is delivered to QA testing companies?",
+        "op": [
+            "Test closure",
+            "Implementation and execution",
+            "Planning and control",
+            "Analysis and design"
+        ],
+        "created_at": "2026-07-06T16:44:20.92289+00:00"
+    },
+    {
+        "id": 54419,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "While doing Regression Testing, cost of finding changed part should not exceed rerunning _____________ of the test suite.",
+        "op": [
+            "selected parts",
+            "identified parts",
+            "randomly taken chunks",
+            "whole"
+        ],
+        "created_at": "2026-07-06T16:44:46.999607+00:00"
+    },
+    {
+        "id": 54420,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What are the steps involved in Fagan Inspections?",
+        "op": [
+            "Planning, Overview, Preparation, Inspection, Rework, Follow-up",
+            "Overview, Planning, Preparation, Inspection, Rework, Follow-up",
+            "Planning, Overview, Inspection, Preparation, Follow-up, Rework",
+            "Planning, Overview, Inspection, Preparation, Rework, Follow-up"
+        ],
+        "created_at": "2026-07-06T16:44:54.951981+00:00"
+    },
+    {
+        "id": 54422,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In mutation testing, mutation score is represented as ___________.",
+        "op": [
+            "Mutation Score = 100 * E / (N - D)",
+            "Mutation Score = 100 * E / (N + D)",
+            "Mutation Score = 100 * D / (N + E)",
+            "Mutation Score = 100 * D / (N - E)"
+        ],
+        "created_at": "2026-07-06T16:45:07.30063+00:00"
+    },
+    {
+        "id": 54424,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Evaluating exit criteria and reporting is set of criteria for each test level against which we will measure if ____________testing is done.",
+        "op": [
+            "complete",
+            "enough",
+            "perfect",
+            "ideal"
+        ],
+        "created_at": "2026-07-06T16:45:40.693217+00:00"
+    },
+    {
+        "id": 54425,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "What is associated with the Product Risk?",
+        "op": [
+            "Test object",
+            "Non-availability of test environment",
+            "Negative consequences",
+            "Control of test item"
+        ],
+        "created_at": "2026-07-06T16:45:46.670966+00:00"
+    },
+    {
+        "id": 54692,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is the size of team in Fagan inspections for verification?",
+        "op": [
+            "1",
+            "4",
+            "2",
+            "6"
+        ],
+        "created_at": "2026-07-06T19:01:33.498246+00:00"
+    },
+    {
+        "id": 54701,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fault seeding, confidence C is calculated by ___________.",
+        "op": [
+            "C = S/(N + S - 1)",
+            "C = S/(S - N + 1)",
+            "C = S/(S + N + 1)",
+            "C = S/(N - S + 1)"
+        ],
+        "created_at": "2026-07-06T19:01:59.933224+00:00"
+    },
+    {
+        "id": 54708,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following refers to keeping the previous data along with managing the previous test execution record but for the purpose of upward usage it is seized to exist?",
+        "op": [
+            "Test case deprecation",
+            "Test case deletion",
+            "Test case kill",
+            "Test case trashing"
+        ],
+        "created_at": "2026-07-06T19:02:26.683106+00:00"
+    },
+    {
+        "id": 54721,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a series of steps from its creation to being deleted or deprecated?",
+        "op": [
+            "Test case",
+            "SRS",
+            "Test plan",
+            "Testing objective"
+        ],
+        "created_at": "2026-07-06T19:03:17.597361+00:00"
+    },
+    {
+        "id": 54724,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Test objectives should measure the ___________ of a test case.",
+        "op": [
+            "outcome",
+            "input",
+            "usability",
+            "internal functionality"
+        ],
+        "created_at": "2026-07-06T19:03:33.44365+00:00"
+    },
+    {
+        "id": 54727,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Developers do regression testing at the ____________ level.",
+        "op": [
+            "function",
+            "program",
+            "system",
+            "unit"
+        ],
+        "created_at": "2026-07-06T19:03:58.079618+00:00"
+    },
+    {
+        "id": 55810,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "There are ____________ phases of Software Testing Lifecycle.",
+        "op": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-07-07T04:25:09.209022+00:00"
+    },
+    {
+        "id": 56102,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Bug is the same name of _______.",
+        "op": [
+            "Defect",
+            "Incident",
+            "Mistake",
+            "Error"
+        ],
+        "created_at": "2026-07-07T06:27:33.553244+00:00"
+    },
+    {
+        "id": 56105,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Tracking each software feature from SRS to Test suites is referred as ___________________.",
+        "op": [
+            "traceability",
+            "tracking",
+            "drive through",
+            "under observation"
+        ],
+        "created_at": "2026-07-07T06:28:24.83878+00:00"
+    },
+    {
+        "id": 56107,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In walkthrough, meeting is led by the  ______________ and attended by other members of the team.",
+        "op": [
+            "Author of the document under review",
+            "Reviewer of the document",
+            "Tester of the document",
+            "Project Manager"
+        ],
+        "created_at": "2026-07-07T06:29:06.798735+00:00"
+    },
+    {
+        "id": 56158,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following color is used to show successful test cases in Microsoft Test Manager (MTM)?",
+        "op": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "created_at": "2026-07-07T06:45:33.791304+00:00"
+    },
+    {
+        "id": 56159,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following determines the scope and risks and identify the objectives of testing?",
+        "op": [
+            "Test closure",
+            "Planning and control",
+            "Implementation and execution",
+            "Analysis and design"
+        ],
+        "created_at": "2026-07-07T06:45:59.36095+00:00"
+    },
+    {
+        "id": 56164,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "A test case ____________ means that we will never require a test case with its execution history again.",
+        "op": [
+            "deprecation",
+            "trashing",
+            "kill",
+            "deletion"
+        ],
+        "created_at": "2026-07-07T06:47:59.562371+00:00"
+    },
+    {
+        "id": 56786,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Verification is the responsibility of __________.",
+        "op": [
+            "Tester",
+            "QA Team",
+            "Designer",
+            "Developer"
+        ],
+        "created_at": "2026-07-07T14:02:50.215515+00:00"
+    },
+    {
+        "id": 57942,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "_____________ step is used to review the information we need in order to start the test analysis and create our own test cases.",
+        "op": [
+            "Testing",
+            "Test plan",
+            "Analysis and design",
+            "SRS"
+        ],
+        "created_at": "2026-07-08T04:53:20.847271+00:00"
+    },
+    {
+        "id": 58494,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "__________________ represent a set of conditions under which a test will determine whether an application is working correctly or not and the test case is pass or fail.",
+        "op": [
+            "Implementation and execution",
+            "Deployment",
+            "Testing",
+            "Execution in a constrained environment"
+        ],
+        "created_at": "2026-07-08T11:20:16.07673+00:00"
+    },
+    {
+        "id": 69479,
+        "cc": "CS608",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The set of test cases organized in a hierarchical manner for a certain software release is referred as a test ______________.",
+        "op": [
+            "suite",
+            "execution",
+            "case",
+            "plan"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    }
+]

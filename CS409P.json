@@ -1,0 +1,814 @@
+[
+    {
+        "id": 39,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "16 June 2026",
+        "qt": "Which of the following option is not a characteristic of PL/SQL?",
+        "op": [
+            "Centrally accessible from single database",
+            "Executed on server without any network overhead",
+            "Embedded structured programming",
+            "Performed on client Machine"
+        ],
+        "created_at": "2026-06-16T16:09:58.103587+00:00"
+    },
+    {
+        "id": 40,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "16 June 2026",
+        "qt": "Front end programming can be changed without affecting ____________ programming.",
+        "op": [
+            "Client",
+            "SQL",
+            "Server",
+            "Server and client"
+        ],
+        "created_at": "2026-06-16T16:10:05.361126+00:00"
+    },
+    {
+        "id": 188,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "16 June 2026",
+        "qt": "Which of the following language code is executed on server without any network overhead?",
+        "op": [
+            "Python",
+            "PL/SQL",
+            "C++",
+            "PHP"
+        ],
+        "created_at": "2026-06-16T16:34:28.272771+00:00"
+    },
+    {
+        "id": 4375,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "PL/SQL function must contain a _____________ .",
+        "op": [
+            "NULL Statement",
+            "GOTO Statement",
+            "Return Statement",
+            "Follow Statement"
+        ],
+        "created_at": "2026-06-17T20:07:16.324582+00:00"
+    },
+    {
+        "id": 4376,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "In PL/SQL procedure, how many types of parameters can be used?",
+        "op": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-06-17T20:07:27.566821+00:00"
+    },
+    {
+        "id": 4377,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is not a parameter of PL/SQL procedure?",
+        "op": [
+            "CREATE",
+            "IN OUT",
+            "IN",
+            "OUT"
+        ],
+        "created_at": "2026-06-17T20:07:38.832817+00:00"
+    },
+    {
+        "id": 4378,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which keyword is not used in PL/SQL procedure?",
+        "op": [
+            "Declare",
+            "Begin",
+            "Create",
+            "Replace"
+        ],
+        "created_at": "2026-06-17T20:07:49.860146+00:00"
+    },
+    {
+        "id": 4379,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is a parameter that can be used in PL/SQL function?",
+        "op": [
+            "ALL",
+            "IN",
+            "OUT",
+            "IN OUT"
+        ],
+        "created_at": "2026-06-17T20:08:00.541714+00:00"
+    },
+    {
+        "id": 4517,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "PL/SQL uses a _______ structured syntax.",
+        "op": [
+            "Logical",
+            "Physical",
+            "Block",
+            "Banner"
+        ],
+        "created_at": "2026-06-18T01:47:02.824523+00:00"
+    },
+    {
+        "id": 4518,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following cannot be performed in PL/SQL procedure?",
+        "op": [
+            "Drop",
+            "Replace",
+            "Declare",
+            "Create"
+        ],
+        "created_at": "2026-06-18T01:47:25.974297+00:00"
+    },
+    {
+        "id": 31157,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A/an ____________ is a collection of column information corresponding to a single record.",
+        "op": [
+            "Entity",
+            "Attribute",
+            "Row",
+            "Table"
+        ],
+        "created_at": "2026-06-30T19:14:20.302353+00:00"
+    },
+    {
+        "id": 31162,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A/an ________ is a logical representation of a table or combination of tables.",
+        "op": [
+            "Function",
+            "Index",
+            "Join",
+            "View"
+        ],
+        "created_at": "2026-06-30T19:14:32.179096+00:00"
+    },
+    {
+        "id": 31173,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following database provide the concept of partitions as tablespaces?",
+        "op": [
+            "MS Excel",
+            "MS Access",
+            "Clipper",
+            "Oracle"
+        ],
+        "created_at": "2026-06-30T19:14:48.939136+00:00"
+    },
+    {
+        "id": 31177,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following archive destination status indicates whether there was a problem accessing the destination?",
+        "op": [
+            "Valid/Invalid",
+            "Active/Inactive",
+            "Enabled/Disabled",
+            "Archiving/ Non-Archiving"
+        ],
+        "created_at": "2026-06-30T19:14:54.226782+00:00"
+    },
+    {
+        "id": 31182,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "__________ is the basic unit of data storage in an Oracle Database.",
+        "op": [
+            "Table",
+            "Function",
+            "Index",
+            "Join"
+        ],
+        "created_at": "2026-06-30T19:15:01.856989+00:00"
+    },
+    {
+        "id": 31192,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "You can use views in almost the same way as __________.",
+        "op": [
+            "Join",
+            "Table",
+            "Function",
+            "Index"
+        ],
+        "created_at": "2026-06-30T19:15:18.576698+00:00"
+    },
+    {
+        "id": 31196,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The structure consists of two or more pre-allocated files that store all changes made to the database as they occur, known as ______________.",
+        "op": [
+            "Change store log",
+            "Undo Log",
+            "Backup Log",
+            "Redo Log"
+        ],
+        "created_at": "2026-06-30T19:15:24.718031+00:00"
+    },
+    {
+        "id": 31200,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "_______­­­­­__ determines if the information about the disc location or the service name is specified and valid.",
+        "op": [
+            "Active/Inactive",
+            "Valid/Invalid",
+            "Archiving/ Non-Archiving",
+            "Enabled/Disabled"
+        ],
+        "created_at": "2026-06-30T19:15:31.933016+00:00"
+    },
+    {
+        "id": 31207,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "To create a new group of redo log files, use the SQL statement ALTER DATABASAE with the ______________ clause with Group number.",
+        "op": [
+            "ADD LOGFILE",
+            "ADD GROUP FILE",
+            "ADD REDO LOGFILE",
+            "ADD GROUP LOG FILE"
+        ],
+        "created_at": "2026-06-30T19:15:42.54138+00:00"
+    },
+    {
+        "id": 31211,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Redo records are buffered in a __________ fashion in the redo log buffer of the SGA.",
+        "op": [
+            "LIFO",
+            "Linear",
+            "Circular",
+            "FIFO"
+        ],
+        "created_at": "2026-06-30T19:15:47.881417+00:00"
+    },
+    {
+        "id": 32121,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "The Average number of transactions processed per minute is called __________.",
+        "op": [
+            "Multiplexing",
+            "Transaction Throughput",
+            "Space Utilization",
+            "Speed"
+        ],
+        "created_at": "2026-06-30T20:01:52.046409+00:00"
+    },
+    {
+        "id": 32125,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "______________________ is referred as the time that a database transaction takes to run and obtains a response.",
+        "op": [
+            "Throughput",
+            "Speed",
+            "Multiplexing",
+            "Response Time"
+        ],
+        "created_at": "2026-06-30T20:02:15.880837+00:00"
+    },
+    {
+        "id": 32128,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Redo records are written to one of the redo log files by the ______________.",
+        "op": [
+            "Log Writer",
+            "File Writer",
+            "Record Writer",
+            "Redo Writer"
+        ],
+        "created_at": "2026-06-30T20:02:33.737922+00:00"
+    },
+    {
+        "id": 32130,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "____________ are redo log files that are necessary for instance recovery.",
+        "op": [
+            "Redo instance files",
+            "Active Redo instance files",
+            "Active Redo log files",
+            "Redo log files"
+        ],
+        "created_at": "2026-06-30T20:02:50.794352+00:00"
+    },
+    {
+        "id": 32134,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "__________ is the process of converting redo log files into archived redo log files.",
+        "op": [
+            "Multiplexing",
+            "Archiving",
+            "Archive process",
+            "Non-Archiving"
+        ],
+        "created_at": "2026-06-30T20:03:13.711943+00:00"
+    },
+    {
+        "id": 32143,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A/an _________ derives its data from the table on which it is based. This table is known as base table.",
+        "op": [
+            "Index",
+            "Join",
+            "Function",
+            "View"
+        ],
+        "created_at": "2026-06-30T20:04:39.739229+00:00"
+    },
+    {
+        "id": 32149,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "A _______________ is the point at which the database stops writing to one redo log file and begins writing to another.",
+        "op": [
+            "Log switch",
+            "Log change",
+            "Redo file switch",
+            "Redo switch"
+        ],
+        "created_at": "2026-06-30T20:05:35.683917+00:00"
+    },
+    {
+        "id": 32407,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "To create new redo log members for an existing group, use the SQL statement ALTER DATABASE with the ________________ clause.",
+        "op": [
+            "ADD LOGFILE MEMBER",
+            "ALTER LOGFILE MEMBER",
+            "ADD MEMBER",
+            "ALTER MEMBER"
+        ],
+        "created_at": "2026-06-30T20:45:47.407008+00:00"
+    },
+    {
+        "id": 32408,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following option display all redo log groups for the database and indicates which group need to be archived?",
+        "op": [
+            "V$LOG_HISTORY",
+            "V$LOG",
+            "V$BACKUP_REDOLOG",
+            "V$DATABASE"
+        ],
+        "created_at": "2026-06-30T20:45:56.355617+00:00"
+    },
+    {
+        "id": 33356,
+        "cc": "CS409P",
+        "qn": "3",
+        "dt": "01 July 2026",
+        "qt": "Which of the following option display information about the state of various archive processes for an instance?",
+        "op": [
+            "V$DATABASE",
+            "V$LOG",
+            "V$LOG_HISTORY",
+            "V$ARCHIVE_PROCESSES"
+        ],
+        "created_at": "2026-07-01T01:58:14.698958+00:00"
+    },
+    {
+        "id": 40638,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "Making an index ____________ is an alternative method to make it unusable or dropping it.",
+        "op": [
+            "INVISIBLE",
+            "MUTE",
+            "UNREADABLE",
+            "VISIBLE"
+        ],
+        "created_at": "2026-07-04T00:18:20.535226+00:00"
+    },
+    {
+        "id": 40639,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "_______________ statement is used to change or rebuild an existing index.",
+        "op": [
+            "CHANGE INDEX",
+            "UPDATE INDEX",
+            "REBUILD INDEX",
+            "ALTER INDEX"
+        ],
+        "created_at": "2026-07-04T00:18:28.820885+00:00"
+    },
+    {
+        "id": 40640,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "How many types of views are utilized to control table-related information?",
+        "op": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "created_at": "2026-07-04T00:18:37.395336+00:00"
+    },
+    {
+        "id": 40641,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "To alter an index, your schema must contain the index or you must have the ______________ system privilege.",
+        "op": [
+            "ANY INDEX ALTER",
+            "ALTER PRIVILEGE",
+            "ALTER INDEX",
+            "ALTER ANY INDEX"
+        ],
+        "created_at": "2026-07-04T00:18:44.660276+00:00"
+    },
+    {
+        "id": 40642,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "A/an _________________ is a schema object that contains an entry for each value that appears in the column of the table or cluster and provides direct, fast access to rows.",
+        "op": [
+            "View",
+            "Cluster Table",
+            "Index",
+            "Join"
+        ],
+        "created_at": "2026-07-04T00:18:51.037097+00:00"
+    },
+    {
+        "id": 40649,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "04 July 2026",
+        "qt": "Which of the following table statement is used to delete only the table structure from the database?",
+        "op": [
+            "Delete",
+            "Drop",
+            "Update",
+            "Create"
+        ],
+        "created_at": "2026-07-04T01:40:30.186791+00:00"
+    },
+    {
+        "id": 42668,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "15 June 2026",
+        "qt": "Which of the following option is not a characteristic of PL/SQL?",
+        "op": [
+            "Embedded structured programming",
+            "Executed on server without any network overhead",
+            "Centrally accessible from single database",
+            "Performed on client Machine"
+        ],
+        "created_at": "2026-06-14T19:03:06.432018+00:00"
+    },
+    {
+        "id": 42669,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "15 June 2026",
+        "qt": "Which of the following language code is executed on server without any network overhead?",
+        "op": [
+            "PHP",
+            "PL/SQL",
+            "Python",
+            "C++"
+        ],
+        "created_at": "2026-06-14T19:02:42.927124+00:00"
+    },
+    {
+        "id": 42670,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "15 June 2026",
+        "qt": "Front end programming can be changed without affecting ____________ programming.",
+        "op": [
+            "Client",
+            "Server and client",
+            "SQL",
+            "Server"
+        ],
+        "created_at": "2026-06-14T19:03:00.067994+00:00"
+    },
+    {
+        "id": 42671,
+        "cc": "CS409P",
+        "qn": "09",
+        "dt": "15 June 2026",
+        "qt": "EMP.sal%TYPE is an example of __________ data type.",
+        "op": [
+            "Complex",
+            "Subtype",
+            "Composite",
+            "Scalar"
+        ],
+        "created_at": "2026-06-14T20:06:01.359312+00:00"
+    },
+    {
+        "id": 42672,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is not a parameter of PL/SQL procedure?",
+        "op": [
+            "IN",
+            "OUT",
+            "CREATE",
+            "IN OUT"
+        ],
+        "created_at": "2026-06-18T10:00:02.268204+00:00"
+    },
+    {
+        "id": 42673,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following cannot be performed in PL/SQL procedure?",
+        "op": [
+            "Declare",
+            "Create",
+            "Replace",
+            "Drop"
+        ],
+        "created_at": "2026-06-17T19:10:13.878275+00:00"
+    },
+    {
+        "id": 42674,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "PL/SQL function must contain a _____________ .",
+        "op": [
+            "Follow Statement",
+            "GOTO Statement",
+            "NULL Statement",
+            "Return Statement"
+        ],
+        "created_at": "2026-06-17T19:10:41.914173+00:00"
+    },
+    {
+        "id": 42675,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which keyword is not used in PL/SQL procedure?",
+        "op": [
+            "Replace",
+            "Create",
+            "Begin",
+            "Declare"
+        ],
+        "created_at": "2026-06-17T19:11:13.763808+00:00"
+    },
+    {
+        "id": 42676,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "In PL/SQL procedure, how many types of parameters can be used?",
+        "op": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "created_at": "2026-06-17T19:11:22.690057+00:00"
+    },
+    {
+        "id": 42677,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "Which of the following is a parameter that can be used in PL/SQL function?",
+        "op": [
+            "OUT",
+            "IN OUT",
+            "ALL",
+            "IN"
+        ],
+        "created_at": "2026-06-17T19:11:33.587745+00:00"
+    },
+    {
+        "id": 42678,
+        "cc": "CS409P",
+        "qn": "10",
+        "dt": "18 June 2026",
+        "qt": "PL/SQL uses a _______ structured syntax.",
+        "op": [
+            "Banner",
+            "Physical",
+            "Block",
+            "Logical"
+        ],
+        "created_at": "2026-06-17T20:22:38.022482+00:00"
+    },
+    {
+        "id": 46972,
+        "cc": "CS409P",
+        "qn": "07",
+        "dt": "10 June 2026",
+        "qt": "A/an ________ is a logical representation of a table or combination of tables.",
+        "op": [
+            "View",
+            "Function",
+            "Index",
+            "Join"
+        ],
+        "created_at": "2026-06-10T18:15:00.398203+00:00"
+    },
+    {
+        "id": 46973,
+        "cc": "CS409P",
+        "qn": "07",
+        "dt": "10 June 2026",
+        "qt": "A/an _________ derives its data from the table on which it is based. This table is known as base table.",
+        "op": [
+            "Function",
+            "Join",
+            "Index",
+            "View"
+        ],
+        "created_at": "2026-06-10T18:15:10.328414+00:00"
+    },
+    {
+        "id": 46974,
+        "cc": "CS409P",
+        "qn": "07",
+        "dt": "10 June 2026",
+        "qt": "__________ is the basic unit of data storage in an Oracle Database.",
+        "op": [
+            "Index",
+            "Join",
+            "Table",
+            "Function"
+        ],
+        "created_at": "2026-06-10T18:15:37.080739+00:00"
+    },
+    {
+        "id": 46975,
+        "cc": "CS409P",
+        "qn": "07",
+        "dt": "10 June 2026",
+        "qt": "You can use views in almost the same way as __________.",
+        "op": [
+            "Join",
+            "Function",
+            "Table",
+            "Index"
+        ],
+        "created_at": "2026-06-10T18:15:46.913636+00:00"
+    },
+    {
+        "id": 46976,
+        "cc": "CS409P",
+        "qn": "07",
+        "dt": "10 June 2026",
+        "qt": "A/an ____________ is a collection of column information corresponding to a single record.",
+        "op": [
+            "Entity",
+            "Attribute",
+            "Table",
+            "Row"
+        ],
+        "created_at": "2026-06-10T18:15:57.018643+00:00"
+    },
+    {
+        "id": 46977,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "A/an _________________ is a schema object that contains an entry for each value that appears in the column of the table or cluster and provides direct, fast access to rows.",
+        "op": [
+            "Index",
+            "Cluster Table",
+            "View",
+            "Join"
+        ],
+        "created_at": "2026-06-11T00:20:07.731769+00:00"
+    },
+    {
+        "id": 46978,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "To alter an index, your schema must contain the index or you must have the ______________ system privilege.",
+        "op": [
+            "ANY INDEX ALTER",
+            "ALTER ANY INDEX",
+            "ALTER PRIVILEGE",
+            "ALTER INDEX"
+        ],
+        "created_at": "2026-06-11T00:20:18.171624+00:00"
+    },
+    {
+        "id": 46979,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "Making an index ____________ is an alternative method to make it unusable or dropping it.",
+        "op": [
+            "MUTE",
+            "INVISIBLE",
+            "VISIBLE",
+            "UNREADABLE"
+        ],
+        "created_at": "2026-06-11T00:20:30.458473+00:00"
+    },
+    {
+        "id": 46980,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "How many types of views are utilized to control table-related information?",
+        "op": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "created_at": "2026-06-11T00:20:38.82474+00:00"
+    },
+    {
+        "id": 46981,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "_______________ statement is used to change or rebuild an existing index.",
+        "op": [
+            "ALTER INDEX",
+            "REBUILD INDEX",
+            "CHANGE INDEX",
+            "UPDATE INDEX"
+        ],
+        "created_at": "2026-06-11T00:20:49.177272+00:00"
+    },
+    {
+        "id": 46982,
+        "cc": "CS409P",
+        "qn": "08",
+        "dt": "11 June 2026",
+        "qt": "Which of the following table statement is used to delete only the table structure from the database?",
+        "op": [
+            "Drop",
+            "Update",
+            "Delete",
+            "Create"
+        ],
+        "created_at": "2026-06-11T05:09:08.948475+00:00"
+    }
+]

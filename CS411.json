@@ -1,0 +1,1346 @@
+[
+{
+    "id": 24004,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By default, there will be ______ number of columns if we do not mention any column definition in grids.",
+    "op": [
+        "3",
+        "2",
+        "None",
+        "1"
+    ],
+    "created_at": "2026-06-28T19:21:19.594761+00:00"
+},
+{
+    "id": 24011,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Manipulation events work if IsManipulationEnabled=?",
+    "op": [
+        "Null",
+        "True",
+        "False",
+        "\\r"
+    ],
+    "created_at": "2026-06-28T19:21:30.120135+00:00"
+},
+{
+    "id": 24016,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In WPF, _________ control will allow you to visually group a set of controls together.",
+    "op": [
+        "GroupBox",
+        "Box_Group",
+        "Group",
+        "Boxed_group"
+    ],
+    "created_at": "2026-06-28T19:21:39.914562+00:00"
+},
+{
+    "id": 24023,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Dock panel is a _____ of stack panel.",
+    "op": [
+        "Superset",
+        "Subset",
+        "Intersection",
+        "Union"
+    ],
+    "created_at": "2026-06-28T19:21:50.289184+00:00"
+},
+{
+    "id": 24032,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In a code segment, if the Visibility=”Collapsed” then which of the following events are not generated?",
+    "op": [
+        "Mouse Events",
+        "Routed Events",
+        "Key down Events",
+        "Keyboard Events"
+    ],
+    "created_at": "2026-06-28T19:22:01.317165+00:00"
+},
+{
+    "id": 24038,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In WPF, clipping is done before _________",
+    "op": [
+        "Skew Transform",
+        "Layout Transform",
+        "Matrix Transform",
+        "Render Transform"
+    ],
+    "created_at": "2026-06-28T19:22:09.770572+00:00"
+},
+{
+    "id": 24046,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In multi touch events, a/an __________ id is assigned to each individual event.",
+    "op": [
+        "Processor",
+        "CPU",
+        "Event",
+        "Device"
+    ],
+    "created_at": "2026-06-28T19:22:18.501611+00:00"
+},
+{
+    "id": 24067,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To create rollover effect, the preferred way is to use ______ with IsMouseOver property",
+    "op": [
+        "Bubbling",
+        "Element",
+        "Trigger",
+        "Tunneling"
+    ],
+    "created_at": "2026-06-28T19:22:49.623703+00:00"
+},
+{
+    "id": 24344,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following code segment is used to set the background of Canvas Panel?",
+    "op": [
+        "<Canvas.Background> </Canvas.Background>",
+        "</Canvas.BackGround> <Canvas.BackGround>",
+        "</Canvas.Background> <Canvas.Background>",
+        "<Canvas.BackGround> </Canvas.BackGround>"
+    ],
+    "created_at": "2026-06-28T19:34:37.401852+00:00"
+},
+{
+    "id": 24350,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Attached event will be raised by the ______ element while bubbling.",
+    "op": [
+        "Header",
+        "Both 1 & 2",
+        "parent",
+        "child"
+    ],
+    "created_at": "2026-06-28T19:34:50.875521+00:00"
+},
+{
+    "id": 24364,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "An event that is raised whenever the value of \"CanExecute\" changes is known as __________.",
+    "op": [
+        "Command",
+        "Execute",
+        "CanExecuteChanged",
+        "CanExecute"
+    ],
+    "created_at": "2026-06-28T19:35:20.862057+00:00"
+},
+{
+    "id": 24374,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "UI element focusable value is _____ by default.",
+    "op": [
+        "False",
+        "Zero",
+        "Nil",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:35:56.670794+00:00"
+},
+{
+    "id": 24409,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In WPF, Grids have ________ base indexing for Rows & Columns.",
+    "op": [
+        "Two",
+        "One",
+        "-1",
+        "Zero"
+    ],
+    "created_at": "2026-06-28T19:37:18.47421+00:00"
+},
+{
+    "id": 24425,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By convention _______ event names are prefixed with Preview.",
+    "op": [
+        "InDirect",
+        "Tunneling",
+        "Direct",
+        "Bubbling"
+    ],
+    "created_at": "2026-06-28T19:38:04.0571+00:00"
+},
+{
+    "id": 24430,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we want to place a component at top in \"dockpanel\" then which one is correct syntax?",
+    "op": [
+        "Dock=\"Top\"",
+        "DockPanel.Dock=\"Top\"",
+        "PanelDock=\"Top\"",
+        "DockPanel=\"Top\""
+    ],
+    "created_at": "2026-06-28T19:38:19.572534+00:00"
+},
+{
+    "id": 24600,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Grid act as a stack panel if it has  ______",
+    "op": [
+        "Multiple rows and single column",
+        "1 column and autosize rows",
+        "Single row & multiple columns",
+        "1 row and autosize column"
+    ],
+    "created_at": "2026-06-28T19:53:52.152681+00:00"
+},
+{
+    "id": 24602,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "__________ Function registers routed event.",
+    "op": [
+        "RegisterroutedEve();",
+        "Registerroutedevent();",
+        "RegisteredRoutedEvent();",
+        "RegistersRoute();"
+    ],
+    "created_at": "2026-06-28T19:54:04.816951+00:00"
+},
+{
+    "id": 24603,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Superset of canvas is _______.",
+    "op": [
+        "Dock panel",
+        "Stack Panel",
+        "Grid",
+        "Wrap panel"
+    ],
+    "created_at": "2026-06-28T19:54:25.379926+00:00"
+},
+{
+    "id": 24606,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In WPF, _______ library is used for scrolling.",
+    "op": [
+        "System.Windows.Controls.Viewer",
+        "System.Media.ScrollViewer",
+        "System.Windows.Contols.ScrollViewer",
+        "System.Windows.Contols.Scroll"
+    ],
+    "created_at": "2026-06-28T19:54:32.410058+00:00"
+},
+{
+    "id": 24609,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following components generates an input Event?",
+    "op": [
+        "Multi Touch",
+        "Printer",
+        "Plotter",
+        "Speaker"
+    ],
+    "created_at": "2026-06-28T19:54:51.039174+00:00"
+},
+{
+    "id": 24610,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which type of panel is used when we have to customize the builtin controls in wpf?",
+    "op": [
+        "Primitive",
+        "Stack",
+        "Grid",
+        "Wrap"
+    ],
+    "created_at": "2026-06-28T19:55:00.332524+00:00"
+},
+{
+    "id": 24614,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A _______ is like events in Windows forms which are raised by the element in which the event is originated.",
+    "op": [
+        "Channeling",
+        "Bubbling",
+        "Direct Event",
+        "Tunneling"
+    ],
+    "created_at": "2026-06-28T19:55:12.763867+00:00"
+},
+{
+    "id": 24616,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In multi touch events, when multiple fingers are touching simultaneously, these events get raised for each finger ___________.",
+    "op": [
+        "Independently",
+        "Completely",
+        "Dependently",
+        "Partially"
+    ],
+    "created_at": "2026-06-28T19:55:22.72461+00:00"
+},
+{
+    "id": 24620,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In order to resize the row and column in Grid panel, _________ is used.",
+    "op": [
+        "Grid compiler",
+        "Grid divider",
+        "Grid converter",
+        "Grid splitter"
+    ],
+    "created_at": "2026-06-28T19:55:31.014165+00:00"
+},
+{
+    "id": 24736,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In tunneling, event move from _______.",
+    "op": [
+        "Diagonally",
+        "Right to Left",
+        "Left to Right",
+        "Top to Down"
+    ],
+    "created_at": "2026-06-28T20:10:01.636824+00:00"
+},
+{
+    "id": 24737,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A class that implements the 'ICommand' and supports 'bubbling' just like a routed event is known as _____________.",
+    "op": [
+        "CanExecuteChanged",
+        "ExecutedCommand",
+        "RoutedUICommand",
+        "CanExecute"
+    ],
+    "created_at": "2026-06-28T20:10:08.673944+00:00"
+},
+{
+    "id": 24740,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A __________ receives keyboard events only if it has keyboard focus.",
+    "op": [
+        "Mouse",
+        "Keyboard Controls",
+        "UIElement",
+        "Keyboard"
+    ],
+    "created_at": "2026-06-28T20:10:17.312205+00:00"
+},
+{
+    "id": 24742,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Multitouch events are available on _______",
+    "op": [
+        "Windows 95",
+        "Windows 99",
+        "Windows 7 or later",
+        "Windows XP"
+    ],
+    "created_at": "2026-06-28T20:10:23.171822+00:00"
+},
+{
+    "id": 24744,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For a Horizontal grid splitter, ____ has to be specified.",
+    "op": [
+        "Height",
+        "Width",
+        "Alignment",
+        "Size"
+    ],
+    "created_at": "2026-06-28T20:10:29.215139+00:00"
+},
+{
+    "id": 24747,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "IsSharedSizeScope shares size information in ____ grid(s).",
+    "op": [
+        "Double",
+        "Single",
+        "Both 1 & 2",
+        "Multiple"
+    ],
+    "created_at": "2026-06-28T20:10:49.522557+00:00"
+},
+{
+    "id": 24749,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Dockpanel uses __________ property while docking elements in different orientations.",
+    "op": [
+        "Attached",
+        "Resolution Independency",
+        "Property Value Inheritance",
+        "Rich composition"
+    ],
+    "created_at": "2026-06-28T20:10:55.523005+00:00"
+},
+{
+    "id": 25040,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Attached event will be raised by the ______ element while tunneling.",
+    "op": [
+        "Both 1 & 2",
+        "Header",
+        "Child",
+        "Parent"
+    ],
+    "created_at": "2026-06-28T21:11:30.297093+00:00"
+},
+{
+    "id": 25048,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Dockpanel, __________ attribute doesn’t fill the remaining space at the end.",
+    "op": [
+        "Lastchildfill=false;",
+        "Lastfill=true;",
+        "Lastchildfill=nill;",
+        "Lastchildfill=true;"
+    ],
+    "created_at": "2026-06-28T21:13:51.264925+00:00"
+},
+{
+    "id": 25049,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While working with grids in WPF, which attribute is used to see grid lines on screen?",
+    "op": [
+        "Showgrid",
+        "Showgrids",
+        "ShowGridLine",
+        "ShowGridLines"
+    ],
+    "created_at": "2026-06-28T21:14:08.285091+00:00"
+},
+{
+    "id": 25051,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If we insert some objects in a single cell in Grid panel, then these objects are placed on ______________ .",
+    "op": [
+        "One on Side of the other",
+        "One on Bottom of the other",
+        "One after the other",
+        "One on Top of the other"
+    ],
+    "created_at": "2026-06-28T21:14:38.137952+00:00"
+},
+{
+    "id": 25151,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To achieve DockPanel behaviour in grid we can use _______.",
+    "op": [
+        "Elements.Grid",
+        "Rows height and column height",
+        "Element resizing",
+        "Row span and column span"
+    ],
+    "created_at": "2026-06-28T21:47:34.254131+00:00"
+},
+{
+    "id": 25167,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Handlers in C# for routed events have a _____ parameter",
+    "op": [
+        "System.Windows",
+        "System.Handlers",
+        "System.Form.Windows",
+        "System.Object"
+    ],
+    "created_at": "2026-06-28T21:49:12.49011+00:00"
+},
+{
+    "id": 25378,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "DockPanel.Dock is the ______ in which child element describe its dock position in dock panel.",
+    "op": [
+        "Button Property",
+        "Grid Property",
+        "Attach Property",
+        "Text Property"
+    ],
+    "created_at": "2026-06-29T00:10:09.21109+00:00"
+},
+{
+    "id": 25379,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is an example of tunnel key event?",
+    "op": [
+        "Key down",
+        "Preview key down",
+        "Key up",
+        "Preview key entered"
+    ],
+    "created_at": "2026-06-29T00:10:32.063951+00:00"
+},
+{
+    "id": 25380,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Identify the pre-defined built in command(s):",
+    "op": [
+        "DockPanel",
+        "Close",
+        "StackPanel",
+        "ProgressBar"
+    ],
+    "created_at": "2026-06-29T00:10:41.415248+00:00"
+},
+{
+    "id": 25441,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To plug in custom logic, you need to add a ________ to the element that will execute the command or any parent element.",
+    "op": [
+        "HelpCanExecute",
+        "Execute Command",
+        "RoutedUICommand",
+        "CommandBinding"
+    ],
+    "created_at": "2026-06-29T00:34:33.685921+00:00"
+},
+{
+    "id": 25443,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Stylus can behave same as _______ but has higher resolution.",
+    "op": [
+        "Touchpad",
+        "Keyboard",
+        "Mouse",
+        "Joystick"
+    ],
+    "created_at": "2026-06-29T00:34:50.082367+00:00"
+},
+{
+    "id": 25444,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following panels is most powerful, versatile and customizable?",
+    "op": [
+        "Canvas panel",
+        "Grid Panel",
+        "Doc panel",
+        "Stack panel"
+    ],
+    "created_at": "2026-06-29T00:34:55.368549+00:00"
+},
+{
+    "id": 25445,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Button and Texbox have _________ Knowledge of each other.",
+    "op": [
+        "Important",
+        "Partial",
+        "Direct",
+        "No Direct"
+    ],
+    "created_at": "2026-06-29T00:35:09.629925+00:00"
+},
+{
+    "id": 25484,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To check that the user either pressed left Alt key or right Alt key, the __________ is used.",
+    "op": [
+        "KeyStates.IsKeyDown",
+        "keyboardDevice.IsKeyDown",
+        "IsDown",
+        "IsKeyDown"
+    ],
+    "created_at": "2026-06-29T01:01:22.459375+00:00"
+},
+{
+    "id": 25488,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is the default panel in Visual Studio and expression blend?",
+    "op": [
+        "Canvas",
+        "Grid",
+        "Wrap Panel",
+        "Stack Panel"
+    ],
+    "created_at": "2026-06-29T01:02:05.255497+00:00"
+},
+{
+    "id": 25490,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Bubbling, event moves from ______",
+    "op": [
+        "Top to Bottom",
+        "Right to Left",
+        "Bottom to Top",
+        "Left to Right"
+    ],
+    "created_at": "2026-06-29T01:02:11.581106+00:00"
+},
+{
+    "id": 25492,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Default value of Grid.Row is __________",
+    "op": [
+        "0",
+        "1",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-06-29T01:02:34.167743+00:00"
+},
+{
+    "id": 25501,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "\"dock\" property in WPF DockPanel has _________ possible values.",
+    "op": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+    ],
+    "created_at": "2026-06-29T01:11:08.985489+00:00"
+},
+{
+    "id": 25503,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To design a complex Interface, which of the following technique is best to achieve the required results?",
+    "op": [
+        "Panels composed in three panels",
+        "Panels composed within panels",
+        "Panels composed in two panels",
+        "Panels composed in single panel"
+    ],
+    "created_at": "2026-06-29T01:11:39.830893+00:00"
+},
+{
+    "id": 25504,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When a user select element from listbox, after selecting compiler marked the selected element as____",
+    "op": [
+        "Fix",
+        "Handled",
+        "Bubble",
+        "Selected"
+    ],
+    "created_at": "2026-06-29T01:12:07.729982+00:00"
+},
+{
+    "id": 25511,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following device is sensitive to pressure?",
+    "op": [
+        "Keyboard",
+        "Mouse",
+        "Stylus",
+        "Printer"
+    ],
+    "created_at": "2026-06-29T01:15:33.111678+00:00"
+},
+{
+    "id": 25512,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "We use \"UIElement\" property ClipToBounds= “false” when ________________________.",
+    "op": [
+        "Parent area also increases on increasing of area of child element",
+        "We want area of child element is allowed to cross the boundary of parent",
+        "We want area child element don’t cross the boundary of parent",
+        "Parent area also decreases on decreasing the area of child element"
+    ],
+    "created_at": "2026-06-29T01:15:44.689188+00:00"
+},
+{
+    "id": 25532,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following method is used to get the location of touch?",
+    "op": [
+        "getTocuhLocation();",
+        "getTouch();",
+        "getTouchpoint();",
+        "getTouchDown();"
+    ],
+    "created_at": "2026-06-29T01:36:28.241646+00:00"
+},
+{
+    "id": 25546,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Suppose we have two elements in grid one is button and other is rectangle,which property will be helpful to set position of button on top of the rectangle?",
+    "op": [
+        "Sizing",
+        "Transform",
+        "Z index",
+        "Stack Panel"
+    ],
+    "created_at": "2026-06-29T01:44:31.263165+00:00"
+},
+{
+    "id": 25560,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In grid, elements are arranged in multicolumn and multirow like a ________ in HTML.",
+    "op": [
+        "Table",
+        "Column",
+        "List",
+        "Paragraph"
+    ],
+    "created_at": "2026-06-29T01:55:16.145564+00:00"
+},
+{
+    "id": 25561,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "__________ allow attaching a handler for an event that is defined in an element other than the one adding the handler.",
+    "op": [
+        "Bubbling",
+        "Routed Event",
+        "Tunneling",
+        "Attached Event"
+    ],
+    "created_at": "2026-06-29T01:55:25.631683+00:00"
+},
+{
+    "id": 25809,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Multi touch events are categorized into _____________ and ______________.",
+    "op": [
+        "Advanced touch events, low-level manipulation events",
+        "Basic touch events, higher-level manipulation events",
+        "Touchdown events, touchup events",
+        "Touch events, touchup events"
+    ],
+    "created_at": "2026-06-29T03:07:44.897662+00:00"
+},
+{
+    "id": 25810,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the followings are keyboard events?",
+    "op": [
+        "Key pressed, key released",
+        "Key down, key up",
+        "Key entered, key exit",
+        "Key strike, key release"
+    ],
+    "created_at": "2026-06-29T03:08:32.544065+00:00"
+},
+{
+    "id": 26004,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In multitouch, each finger has its own __________ identified by separate id.",
+    "op": [
+        "Touchdevice",
+        "Touch event",
+        "Touch",
+        "Touchpad"
+    ],
+    "created_at": "2026-06-29T03:52:01.871409+00:00"
+},
+{
+    "id": 26018,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Identify the correct option:",
+    "op": [
+        "Commands in WPF are created by implementing the IComponentConnector interface.&nbsp;",
+        "A control that supports an event does not support a command",
+        "A control that supports a command does not support an event",
+        "Commands are a more abstract and loosely coupled version of events"
+    ],
+    "created_at": "2026-06-29T03:56:35.557855+00:00"
+},
+{
+    "id": 26023,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Dock panel is used in ________ interface.",
+    "op": [
+        "Top level",
+        "Bottom level",
+        "Left level",
+        "Right level"
+    ],
+    "created_at": "2026-06-29T03:59:06.962283+00:00"
+},
+{
+    "id": 26057,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "________ is the subclass of grid used to freeze some rows and columns of grid.",
+    "op": [
+        "Selective Panel",
+        "Wrap Grid",
+        "Selective Scrolling Grid",
+        "Grid Panel"
+    ],
+    "created_at": "2026-06-29T04:09:57.156299+00:00"
+},
+{
+    "id": 26140,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "\"Viewbox\" element uses different types of stretching with the help of stretch property. There is/are   ____________ possible value(s) of stretch property.",
+    "op": [
+        "2",
+        "1",
+        "3",
+        "4"
+    ],
+    "created_at": "2026-06-29T04:28:16.675976+00:00"
+},
+{
+    "id": 26221,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Visibility attribute will be set to _______to hide a particular panel in WPF.",
+    "op": [
+        "Invisible",
+        "Collapsed",
+        "Hide",
+        "Resizable"
+    ],
+    "created_at": "2026-06-29T04:59:37.69316+00:00"
+},
+{
+    "id": 42679,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Handlers in C# for routed events have a _____ parameter",
+    "op": [
+        "System.Handlers",
+        "System.Windows",
+        "System.Object",
+        "System.Form.Windows"
+    ],
+    "created_at": "2026-07-01T18:55:41.660264+00:00"
+},
+{
+    "id": 42680,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Stylus can behave same as _______ but has higher resolution.",
+    "op": [
+        "Joystick",
+        "Touchpad",
+        "Mouse",
+        "Keyboard"
+    ],
+    "created_at": "2026-07-01T18:56:01.439255+00:00"
+},
+{
+    "id": 42681,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Visibility attribute will be set to _______to hide a particular panel in WPF.",
+    "op": [
+        "Resizable",
+        "Hide",
+        "Collapsed",
+        "Invisible"
+    ],
+    "created_at": "2026-07-01T18:56:33.622752+00:00"
+},
+{
+    "id": 42682,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Multi touch events are categorized into _____________ and ______________.",
+    "op": [
+        "Touch events, touchup events",
+        "Basic touch events, higher-level manipulation events",
+        "Touchdown events, touchup events",
+        "Advanced touch events, low-level manipulation events"
+    ],
+    "created_at": "2026-07-01T18:57:04.895505+00:00"
+},
+{
+    "id": 42683,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following code segment is used to set the background of Canvas Panel?",
+    "op": [
+        "</Canvas.BackGround> <Canvas.BackGround>",
+        "<Canvas.Background> </Canvas.Background>",
+        "</Canvas.Background> <Canvas.Background>",
+        "<Canvas.BackGround> </Canvas.BackGround>"
+    ],
+    "created_at": "2026-07-01T18:57:22.182893+00:00"
+},
+{
+    "id": 42684,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "In grid, elements are arranged in multicolumn and multirow like a ________ in HTML.",
+    "op": [
+        "List",
+        "Column",
+        "Paragraph",
+        "Table"
+    ],
+    "created_at": "2026-07-01T18:57:44.736646+00:00"
+},
+{
+    "id": 42685,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "For a Horizontal grid splitter, ____ has to be specified.",
+    "op": [
+        "Height",
+        "Size",
+        "Alignment",
+        "Width"
+    ],
+    "created_at": "2026-07-01T18:58:24.727344+00:00"
+},
+{
+    "id": 42686,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the followings are keyboard events?",
+    "op": [
+        "Key strike, key release",
+        "Key pressed, key released",
+        "Key down, key up",
+        "Key entered, key exit"
+    ],
+    "created_at": "2026-07-01T18:58:41.651083+00:00"
+},
+{
+    "id": 42687,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "To plug in custom logic, you need to add a ________ to the element that will execute the command or any parent element.",
+    "op": [
+        "HelpCanExecute",
+        "Execute Command",
+        "RoutedUICommand",
+        "CommandBinding"
+    ],
+    "created_at": "2026-07-01T18:59:08.315069+00:00"
+},
+{
+    "id": 42688,
+    "cc": "CS411",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following components generates an input Event?",
+    "op": [
+        "Multi Touch",
+        "Printer",
+        "Speaker",
+        "Plotter"
+    ],
+    "created_at": "2026-07-01T18:59:26.315711+00:00"
+},
+{
+    "id": 47697,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "_________ supports the creation of applications that run directly in a web browser.",
+    "op": [
+        "WPF",
+        "Partial Class",
+        "Logic Behind",
+        "C/C++"
+    ],
+    "created_at": "2026-07-05T19:05:06.057773+00:00"
+},
+{
+    "id": 47710,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "\"Binding\" technique binds two properties together and keeps a _________________ open.",
+    "op": [
+        "Memory location",
+        "Communication channel",
+        "Selection",
+        "Choice"
+    ],
+    "created_at": "2026-07-05T19:05:14.041338+00:00"
+},
+{
+    "id": 47721,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "XBAP stands for:",
+    "op": [
+        "ActiveX Browser application",
+        "XAML Base Application",
+        "XAML Browser application",
+        "Extensive Browser application"
+    ],
+    "created_at": "2026-07-05T19:05:20.239895+00:00"
+},
+{
+    "id": 47729,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Data binding between the source and the target is performed through an object of ________ class.",
+    "op": [
+        "Content",
+        "String",
+        "Connection",
+        "Binding"
+    ],
+    "created_at": "2026-07-05T19:05:26.821508+00:00"
+},
+{
+    "id": 47736,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "By default, Navigation Window _______ a bar along with the top with Back/Forward buttons while a frame _________.",
+    "op": [
+        "Has, doesn’t have",
+        "Has, has",
+        "Both doesn’t have",
+        "Doesn’t have, has"
+    ],
+    "created_at": "2026-07-05T19:05:32.746762+00:00"
+},
+{
+    "id": 47747,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "__________ is used to perform navigation.",
+    "op": [
+        "Hypertext markup language code",
+        "Internet protocol",
+        "Session",
+        "Hyperlink"
+    ],
+    "created_at": "2026-07-05T19:05:39.688091+00:00"
+},
+{
+    "id": 47760,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A/An _________ screen is an image that appears while a game or program is loading",
+    "op": [
+        "Startup",
+        "Initial",
+        "Splash",
+        "Opening"
+    ],
+    "created_at": "2026-07-05T19:05:44.843142+00:00"
+},
+{
+    "id": 47768,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Frame has a __________ property used in enabling or disabling the bar (containing Back/Forward buttons).",
+    "op": [
+        "NavigationUIVisibility",
+        "BlocknavigationUI",
+        "ShowsNavigationUI",
+        "NavigationUIBlock"
+    ],
+    "created_at": "2026-07-05T19:05:50.997595+00:00"
+},
+{
+    "id": 47779,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "XBAPs are suited for relatively full-featured applications that:",
+    "op": [
+        "Run on Desktop",
+        "Require .Net framework",
+        "Require Android Studio",
+        "Happen to be hosted directly in a web browser"
+    ],
+    "created_at": "2026-07-05T19:05:56.865159+00:00"
+},
+{
+    "id": 47789,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a string format property throughout WPF?",
+    "op": [
+        "StringFormat",
+        "RowHeaderStringFormat",
+        "ItemStringFormat",
+        "ContentStringFormat"
+    ],
+    "created_at": "2026-07-05T19:06:02.973751+00:00"
+},
+{
+    "id": 48605,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "A Window can spawn ____________ number of additional Windows by instantiating a Window-derived class and calling Show(...).",
+    "op": [
+        "Any",
+        "Six",
+        "Five",
+        "Four"
+    ],
+    "created_at": "2026-07-05T19:17:42.109566+00:00"
+},
+{
+    "id": 48614,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In ________ browser app, you change \n\"<TargetZone>Internet</TargetZone>\" to \n\"<TargetZone>Custom</TargetZone>\"",
+    "op": [
+        "Partial-reject",
+        "Full-reject",
+        "Partial-trust",
+        "Full-trust"
+    ],
+    "created_at": "2026-07-05T19:17:48.007216+00:00"
+},
+{
+    "id": 48627,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "If you want to navigate to an HTML page, you must use the ___________ of \"Navigate\" that ___________ a URI.",
+    "op": [
+        "Overload, accepts",
+        "IFrame, accepts",
+        "IFrame, rejects",
+        "Overload, rejects"
+    ],
+    "created_at": "2026-07-05T19:17:56.098763+00:00"
+},
+{
+    "id": 48639,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following is used, if we want to add a window resource in procedural code?",
+    "op": [
+        "<Widows.Resources></Widows.Resources>",
+        "Window.Resources.Add();",
+        "Window.Resource.Add ();",
+        "<Window.Resources></Window.Resources>"
+    ],
+    "created_at": "2026-07-05T19:18:09.961229+00:00"
+},
+{
+    "id": 48646,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Using _________, system can support customized setup user interfaces, such as showing an end user license agreement (EULA).",
+    "op": [
+        "Windows Installer",
+        "license agreement (EULA)",
+        "Windows API",
+        "ClickOnce"
+    ],
+    "created_at": "2026-07-05T19:18:17.683181+00:00"
+},
+{
+    "id": 48652,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "To remove data binding between the source and the target, we can use __________ function.",
+    "op": [
+        "ResetBinding",
+        "ClearBinding",
+        "RemoveBinding",
+        "StopBinding"
+    ],
+    "created_at": "2026-07-05T19:18:23.130247+00:00"
+},
+{
+    "id": 48666,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In C# WPF, ___________and __________ are the two important properties of Binding object.",
+    "op": [
+        "Source, Path",
+        "Start, Destination",
+        "Items, Selected",
+        "BindTo, BindFrom"
+    ],
+    "created_at": "2026-07-05T19:18:36.347768+00:00"
+},
+{
+    "id": 48671,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following can be used to set dependency property values?",
+    "op": [
+        "Static resource",
+        "Temporary resource",
+        "Dynamic resource",
+        "Permanent resource"
+    ],
+    "created_at": "2026-07-05T19:18:42.780823+00:00"
+},
+{
+    "id": 49968,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In case of integrating Navigation to XBAP, \"ShowNavigationUI\" should be set to ______ in order to bypass integration.",
+    "op": [
+        "0",
+        "False",
+        "Null",
+        "True"
+    ],
+    "created_at": "2026-07-05T20:08:32.311302+00:00"
+},
+{
+    "id": 51048,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "In WPF, using ___________ requires more overhead than _________ because of the extra tracking.",
+    "op": [
+        "TemporaryResource, PermanentResource",
+        "StaticResource, DynamicResource",
+        "DynamicResource, StaticResource",
+        "PermanentResource, TemporaryResource"
+    ],
+    "created_at": "2026-07-06T00:13:18.405629+00:00"
+},
+{
+    "id": 51278,
+    "cc": "CS411",
+    "qn": "04",
+    "dt": "06 July 2026",
+    "qt": "___________ provides the logic behind the \"Back\" and \"Forward\" buttons.",
+    "op": [
+        "Navigation Window",
+        "IFrame",
+        "Hyperlink",
+        "Journal"
+    ],
+    "created_at": "2026-07-06T01:02:37.268258+00:00"
+}
+]
