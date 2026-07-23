@@ -1,0 +1,2046 @@
+[
+{
+    "id": 28788,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The horizontal asymptote for the function $y = \\frac{{2x - 8}}{{{x^2} - 16}}$ is . . . . . . . .",
+    "op": [
+        "y = 16",
+        "y = 2",
+        "y = 1",
+        "y = 0"
+    ],
+    "created_at": "2026-06-30T04:13:48.337945+00:00"
+},
+{
+    "id": 28789,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$The{\\text{ }}graph{\\text{ }}of{\\text{ }}f\\left( x \\right) = \\left| x \\right|{\\text{ }}at{\\text{ }}x = 0{\\text{ }}has{\\text{ }}a$$",
+    "op": [
+        "Cusp",
+        "Derivative",
+        "Both (a) and (b)",
+        "Node"
+    ],
+    "created_at": "2026-06-30T04:13:57.926528+00:00"
+},
+{
+    "id": 28791,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A singular point of a curve is called ----------.",
+    "op": [
+        "None of the other",
+        "Cusp",
+        "Node",
+        "Both Node and Cusp"
+    ],
+    "created_at": "2026-06-30T04:14:07.676342+00:00"
+},
+{
+    "id": 28793,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A point on the curve through which two branches of the curve does not pass is called",
+    "op": [
+        "Double point",
+        "Singular point",
+        "None of the other",
+        "Triple point"
+    ],
+    "created_at": "2026-06-30T04:14:21.037713+00:00"
+},
+{
+    "id": 28795,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A function f has a local maximum at a point “c” if ……………….. in some open interval containing “c”.",
+    "op": [
+        "$f(c) \\leqslant f(x)\\,\\,\\,\\,\\,\\,$",
+        "$f(c) \\geqslant f(x)\\,\\,\\,\\,$",
+        "$f(c) + f(x) \\leqslant 0\\,$",
+        "$f(c)f(x)\\, \\geqslant 0$"
+    ],
+    "created_at": "2026-06-30T04:14:31.846104+00:00"
+},
+{
+    "id": 28796,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$The{\\text{ }}functions{\\text{ }}y = 4\\sqrt x {\\text{ }}and{\\text{ }}y = - 4\\sqrt x {\\text{ }}are{\\text{ }}two{\\text{ }}branches{\\text{ }}of{\\text{ }}parabola$$",
+    "op": [
+        "$${y^2} = 4x$$",
+        "$${y^2} =- 4x$$",
+        "$$y = 16x$$",
+        "$${y^2} = 16x$$"
+    ],
+    "created_at": "2026-06-30T04:14:38.811158+00:00"
+},
+{
+    "id": 28798,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} = {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a$$",
+    "op": [
+        "None of above",
+        "Node",
+        "Isolated point",
+        "Cusp"
+    ],
+    "created_at": "2026-06-30T04:14:55.023359+00:00"
+},
+{
+    "id": 28805,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is true for the function $f(x) = 4{x^2} - 20x - 1000{\\text{ }};x \\in \\mathbb{R}$",
+    "op": [
+        "It has a critical point at x= 1000",
+        "It has no critical point",
+        "None of the other",
+        "It has a critical number at x = 5/2"
+    ],
+    "created_at": "2026-06-30T04:15:54.437208+00:00"
+},
+{
+    "id": 28806,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$Let{\\text{ f(x) = 3x - 5, }}and{\\text{ }}\\frac{{df(x)}}{{dx}} > 0,\\,then$",
+    "op": [
+        "f(x) is a decreasing function",
+        "f(x) must has a critical point",
+        "f(x) is an increasing function",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T04:16:02.979104+00:00"
+},
+{
+    "id": 29177,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$A{\\text{ }}point{\\text{ }}on{\\text{ }}the{\\text{ }}curve{\\text{ }}through{\\text{ }}which{\\text{ }}r{\\text{ }}branches{\\text{ }}of{\\text{ }}the{\\text{ }}curve{\\text{ }}pass{\\text{ }}is{\\text{ }}called{\\text{ }}Multiple{\\text{ }}point{\\text{ }}of$$",
+    "op": [
+        "sth order",
+        "Multiple order",
+        "rth order",
+        "pth order"
+    ],
+    "created_at": "2026-06-30T05:57:16.400196+00:00"
+},
+{
+    "id": 29179,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For a function “f” if at some point “c”, f'(c) = 0 or does not exist at it, then “c” is called . . . . . . . . . .",
+    "op": [
+        "Critical point",
+        "Inflation point",
+        "Unique point",
+        "Singular point"
+    ],
+    "created_at": "2026-06-30T05:57:36.664003+00:00"
+},
+{
+    "id": 29181,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If two tangents at the origin are imaginary then the origin is a",
+    "op": [
+        "Conjugate point",
+        "Cusp",
+        "None of these",
+        "Node"
+    ],
+    "created_at": "2026-06-30T05:57:54.435372+00:00"
+},
+{
+    "id": 29183,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$Let{\\text{ f(x) = }}4{x^2} + 10x + 50,{\\text{ and }}\\frac{{df(x)}}{{dx}}\\, < \\,0,\\,\\;at\\,R(x,y),then$",
+    "op": [
+        "f(x) is a decreasing function at P(x,y)",
+        "f(x) must has a critical point at P(x,y)",
+        "f(x) is an increasing function at P(x,y)",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T05:58:33.137959+00:00"
+},
+{
+    "id": 29185,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For the function $y = f(x)$ , the line $y = b$ is called the horizontal asymptote iff as . . . . . .",
+    "op": [
+        "$$x \\to 0$$, $$y \\to \\infty$$",
+        "$$x \\to \\infty$$, $$y \\to 0$$",
+        "$$x \\to \\infty$$, $$y \\to b$$",
+        "$$x \\to 0$$, $$y \\to b$$"
+    ],
+    "created_at": "2026-06-30T05:58:53.043591+00:00"
+},
+{
+    "id": 29186,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$The{\\text{ }}curve{\\text{ }}\\left( {{x^2} + {y^2}} \\right)x - 2a{y^2} = 0{\\text{ }}has{\\text{ }}tangents{\\text{ }}at{\\text{ }}origin{\\text{ }}as{\\text{ }}{y^2} = 0,{\\text{ }}then{\\text{ }}the{\\text{ }}origin{\\text{ }}is{\\text{ }}a$$",
+    "op": [
+        "Conjugate point",
+        "Node",
+        "Isolated point",
+        "Cusp"
+    ],
+    "created_at": "2026-06-30T06:00:06.234292+00:00"
+},
+{
+    "id": 29189,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} < {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a$$",
+    "op": [
+        "Cusp",
+        "Isolated point",
+        "Node",
+        "All of them"
+    ],
+    "created_at": "2026-06-30T06:00:31.52704+00:00"
+},
+{
+    "id": 29191,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For the graph of a function $y = f(x)$ , asymptote is a line that as $x \\to \\infty$, . . . . . . . .",
+    "op": [
+        "Gets arbitrarily close to the curve but never touches it.",
+        "Crosses the curve after constant intervals.",
+        "Remains at a constant distance from the curve.",
+        "Gets arbitrarily away from the curve."
+    ],
+    "created_at": "2026-06-30T06:00:50.069481+00:00"
+},
+{
+    "id": 29194,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For the graph of the function $y = f(x)$ , a line $y = b$ is called an asymptote if for the distance $d = \\left| {f({x_i}) - b} \\right|$",
+    "op": [
+        "$$d \\to b$$",
+        "$$d \\to 1$$",
+        "$$d \\to \\infty$$",
+        "$$d \\to 0$$"
+    ],
+    "created_at": "2026-06-30T06:01:06.242677+00:00"
+},
+{
+    "id": 29195,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Let $P(r,\\theta )$ be a point on a straight line “L” and “p” is the length of the perpendicular drawn on the line from pole, making an angle $\\alpha$ with the initial line, then the equation in polar form of “L” is . . . . . . . . .",
+    "op": [
+        "$p = r\\cos (\\theta - \\alpha )$",
+        "$p = \\alpha r\\cos (\\theta )$",
+        "$p = r\\cos (\\alpha \\theta )$",
+        "$p = r\\cos (\\theta + \\alpha )$"
+    ],
+    "created_at": "2026-06-30T06:01:25.708925+00:00"
+},
+{
+    "id": 29355,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If first derivative is equal to zero, then these points are called ------------ .",
+    "op": [
+        "Double points",
+        "Multiple points",
+        "Critical points",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T06:32:32.072223+00:00"
+},
+{
+    "id": 29357,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 3x + 1{\\text{ }}are$$",
+    "op": [
+        "0",
+        "±1",
+        "1",
+        "-1"
+    ],
+    "created_at": "2026-06-30T06:32:53.094343+00:00"
+},
+{
+    "id": 29358,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is true for the function $f(x) = {x^{2\\,}} - 2{\\text{ }};\\,x \\in \\mathbb{R}$",
+    "op": [
+        "It has an absolute maximum value at x = 0",
+        "It does not have an absolute minimum value",
+        "It has an absolute minimum value at x=0",
+        "None of the others"
+    ],
+    "created_at": "2026-06-30T06:33:07.892282+00:00"
+},
+{
+    "id": 29360,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$In{\\text{ }}curve{\\text{ }}{y^2} = x{\\left( {x - a} \\right)^2},{\\text{ }}the{\\text{ }}singular{\\text{ }}point{\\text{ }}\\left( {a,0} \\right){\\text{ }}is{\\text{ }}a{\\text{ }} \\ldots \\ldots \\,when{\\text{ }}{f_{xx}}\\left( {a,0} \\right) = {\\text{ }} - 2a,{\\text{ }}{f_{yy}}\\left( {a,0} \\right) = 2{\\text{ }}and{\\text{ }}{f_{xy}}\\left( {a,0} \\right) = 0.$$",
+    "op": [
+        "Conjugate point",
+        "Node",
+        "Cusp",
+        "Isolated point"
+    ],
+    "created_at": "2026-06-30T06:33:40.345435+00:00"
+},
+{
+    "id": 29362,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$According{\\text{ }}to{\\text{ }}the{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}f{\\text{ }}has{\\text{ }}a{\\text{ }}relative{\\text{ }}maximum{\\text{ }}value{\\text{ }}at{\\text{ }}c{\\text{ }}if{\\text{ }}f''\\left( c \\right)$$",
+    "op": [
+        "<0",
+        ">0",
+        "≤0",
+        "=0"
+    ],
+    "created_at": "2026-06-30T06:34:09.125519+00:00"
+},
+{
+    "id": 29366,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The singular points of ${x^2}{(x - 3)^2}y'' + (x - 3)y' + 3{x^2}y = \\,0$ are",
+    "op": [
+        "1,3",
+        "4,3",
+        "0,3",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T06:34:57.290842+00:00"
+},
+{
+    "id": 29368,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$If{\\text{ }}f'\\left( x \\right) > 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}left{\\text{ }}from{\\text{ }}{x_0}\\,and{\\text{ }}f'\\left( x \\right) < 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}right{\\text{ }}from{\\text{ }}{x_0},{\\text{ }}then{\\text{ }}at{\\text{ }}{x_0}\\,the{\\text{ }}f{\\text{ }}has{\\text{ }}a$$",
+    "op": [
+        "Relative minimum",
+        "Relative extremum",
+        "No maxima",
+        "Relative maximum"
+    ],
+    "created_at": "2026-06-30T06:35:13.63576+00:00"
+},
+{
+    "id": 29370,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$If{\\text{ }}\\frac{{df}}{{dx}}\\, < \\,0,\\,\\;at\\,R(x,y),then$",
+    "op": [
+        "f(x) must has a critical point at R(x,y)",
+        "f(x) is a decreasing function at R(x,y)",
+        "None of the other",
+        "f(x) is an increasing function at R(x,y)"
+    ],
+    "created_at": "2026-06-30T06:35:27.456056+00:00"
+},
+{
+    "id": 29449,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Points of inflection and multiple points are the types of",
+    "op": [
+        "Singular point",
+        "Double point",
+        "None of these",
+        "End points"
+    ],
+    "created_at": "2026-06-30T06:53:09.116245+00:00"
+},
+{
+    "id": 29450,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 2{x^2}\\,are$$",
+    "op": [
+        "0,4/3",
+        "2",
+        "0,-2",
+        "±2"
+    ],
+    "created_at": "2026-06-30T06:53:20.25971+00:00"
+},
+{
+    "id": 29456,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is true for the function $f(x) = 5{x^2} - 15x - 20{\\text{ }};x \\in \\mathbb{R}$",
+    "op": [
+        "It has a critical point at x= 20",
+        "It has no critical point",
+        "It has a critical number at x = 3/2",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T06:53:58.504674+00:00"
+},
+{
+    "id": 29457,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$According{\\text{ }}to{\\text{ }}the{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}f{\\text{ }}has{\\text{ }}a{\\text{ }}relative{\\text{ }}minimum{\\text{ }}value{\\text{ }}at{\\text{ }}c{\\text{ }}if{\\text{ }}f''\\left( c \\right)$$",
+    "op": [
+        "≥0",
+        ">0",
+        "=0",
+        "<0"
+    ],
+    "created_at": "2026-06-30T06:54:08.063689+00:00"
+},
+{
+    "id": 29458,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A critical number for a function “f” . . . . . . . . exist(s) in the domain of function.",
+    "op": [
+        "Always",
+        "May or may not",
+        "None of the above",
+        "Does not"
+    ],
+    "created_at": "2026-06-30T06:54:15.785884+00:00"
+},
+{
+    "id": 29461,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$If{\\text{ }}f'\\left( x \\right){\\text{ }}has{\\text{ }}the{\\text{ }}same{\\text{ }}sign{\\text{ }}on{\\text{ }}both{\\text{ }}left{\\text{ }}and{\\text{ }}right{\\text{ }}sides{\\text{ }}of{\\text{ }}{x_0}\\,on{\\text{ }}an{\\text{ }}open{\\text{ }}interval,{\\text{ }}then{\\text{ }}f.........\\,relative{\\text{ }}extremum/extrema{\\text{ }}at{\\text{ }}{x_0}.$$",
+    "op": [
+        "Three",
+        "One",
+        "Does not have",
+        "Two"
+    ],
+    "created_at": "2026-06-30T06:55:01.218537+00:00"
+},
+{
+    "id": 29572,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A function f has a local minimum at a point “d” if ……………….. in some open interval containing “d”.",
+    "op": [
+        "$f(d)f(x)\\, = 0$",
+        "$f(d) < f(x)\\,$",
+        "$f(d)f(x)\\, \\geqslant 0\\,\\,$",
+        "$f(d) \\geqslant f(x)$"
+    ],
+    "created_at": "2026-06-30T07:32:24.1381+00:00"
+},
+{
+    "id": 29573,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$If{\\text{ }}f'\\left( x \\right) < 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}left{\\text{ }}from{\\text{ }}{x_0}\\,and{\\text{ }}f'\\left( x \\right) > 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}right{\\text{ }}from{\\text{ }}{x_0},{\\text{ }}then{\\text{ }}at{\\text{ }}{x_0}\\,the{\\text{ }}f{\\text{ }}has{\\text{ }}a$$",
+    "op": [
+        "Relative minimum",
+        "Relative maximum",
+        "Relative extremum",
+        "No maxima"
+    ],
+    "created_at": "2026-06-30T07:32:41.521544+00:00"
+},
+{
+    "id": 29574,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$Let{\\text{ f(x) = - 10x + 50, }}and{\\text{ }}\\frac{{df(x)}}{{dx}} < 0,\\,then$",
+    "op": [
+        "f(x) is a decreasing function",
+        "f(x) is an increasing function",
+        "f(x) must has a critical point",
+        "None of the other"
+    ],
+    "created_at": "2026-06-30T07:32:58.526327+00:00"
+},
+{
+    "id": 29576,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "To discuss the nature of a double point, we have to calculate the",
+    "op": [
+        "Normal",
+        "Both (a) and (b)",
+        "Binormal",
+        "Tangents"
+    ],
+    "created_at": "2026-06-30T07:33:12.776636+00:00"
+},
+{
+    "id": 29579,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A double point Q on a curve is a ……… if there exist no real points of the curve in the neighborhood of R.",
+    "op": [
+        "Conjugate point",
+        "Both (b) and (c)",
+        "Complex point",
+        "Isolated point"
+    ],
+    "created_at": "2026-06-30T07:33:55.240062+00:00"
+},
+{
+    "id": 29712,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "$$For{\\text{ }}the{\\text{ }}curve{\\text{ }}{x^3} + {y^3} - 3axy = 0,{\\text{ }}the{\\text{ }}tangents{\\text{ }}at{\\text{ }}the{\\text{ }}origin{\\text{ }}are{\\text{ }}x = 0{\\text{ }}and{\\text{ }}y = 0,{\\text{ }}then{\\text{ }}the{\\text{ }}origin{\\text{ }}is{\\text{ }}a$$",
+    "op": [
+        "Node",
+        "Cusp",
+        "Isolated point",
+        "None of these"
+    ],
+    "created_at": "2026-06-30T08:11:03.69623+00:00"
+},
+{
+    "id": 29723,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "The horizontal asymptote for the function $y = \\frac{{{x^2} - 25}}{{{x^2} - x - 2}}$ is . . . . . . . .",
+    "op": [
+        "y = 1",
+        "y= 0",
+        "y = 5/4",
+        "None"
+    ],
+    "created_at": "2026-06-30T08:13:11.534609+00:00"
+},
+{
+    "id": 29733,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For the function $y = f(x)$ , the line $x = c$ is called the vertical asymptote if and only if . . . . . .",
+    "op": [
+        "$$\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = \\pm \\infty$$",
+        "$$\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = 0$$",
+        "$$\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) = \\pm c$$",
+        "$$\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = \\pm c$$"
+    ],
+    "created_at": "2026-06-30T08:14:29.668391+00:00"
+},
+{
+    "id": 29802,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "A function f is said to have no absolute maximum when . . . . . . . . . . . . . . .",
+    "op": [
+        "As $x \\to 0$ , then $f(x) \\to 0$",
+        "As $x \\to \\infty$ ,then $f(x) \\to \\infty$",
+        "As $x \\to 0$ , then $f(x) \\to \\infty$",
+        "As $x \\to \\infty$ , then $f(x) \\to 0$"
+    ],
+    "created_at": "2026-06-30T08:27:43.095316+00:00"
+},
+{
+    "id": 29803,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is true for the function$f(x) = 3{x^2} - 6x - 10{\\text{ }};x \\in \\mathbb{R}$",
+    "op": [
+        "None of the other",
+        "It has a critical point at x = 1",
+        "It has no critical point",
+        "It has a critical number at x= -1"
+    ],
+    "created_at": "2026-06-30T08:27:58.503957+00:00"
+},
+{
+    "id": 29804,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For a rational function $r(x) = \\frac{{p(x)}}{{q(x)}} = \\frac{{{a_n}{x^n} + {a_{n - 1}}{x^{n - 1}} + ... + {a_0}}}{{{b_m}{x^m} + {b_{m - 1}}{x^{m - 1}} + ... + {b_0}}}$ , if n > m, then . . . . . . . .",
+    "op": [
+        "The line $y = {b_m}$ is the vertical asymptote.",
+        "The line $y = {a_n}$ is the horizontal asymptote.",
+        "The line $y = \\frac{{{a_n}}}{{{b_m}}}$ is the horizontal asymptote.",
+        "The rational function r(x) becomes unbounded for large values of x."
+    ],
+    "created_at": "2026-06-30T08:28:26.620442+00:00"
+},
+{
+    "id": 29805,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "For a rational function $r(x) = \\frac{{p(x)}}{{q(x)}} = \\frac{{{a_n}{x^n} + {a_{n - 1}}{x^{n - 1}} + ... + {a_0}}}{{{b_m}{x^m} + {b_{m - 1}}{x^{m - 1}} + ... + {b_0}}}$ , if m = n, then . . . . . . . .",
+    "op": [
+        "The line $y = \\frac{{{a_n}}}{{{b_m}}}$ is the vertical asymptote.",
+        "The line $y = {b_m}$ is the vertical asymptote.",
+        "The line $y = \\frac{{{a_n}}}{{{b_m}}}$ is the horizontal asymptote.",
+        "The line $y = {a_n}$ is the horizontal asymptote."
+    ],
+    "created_at": "2026-06-30T08:28:39.815774+00:00"
+},
+{
+    "id": 29990,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "Which of the following is not true for the function $f(y) = {y^2};\\,\\,\\,1 \\leqslant \\,y\\, \\leqslant \\,10$",
+    "op": [
+        "It has a critical point at x = 5",
+        "None of the other",
+        "It has a critical point at x = 0",
+        "It has no critical point"
+    ],
+    "created_at": "2026-06-30T10:11:20.222625+00:00"
+},
+{
+    "id": 29994,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If for a rational function $r(x) = \\frac{{p(x)}}{{q(x)}}$ , degree of p(x) is strictly one great than the degree of q(x) then r(x) will have a/an . . . . . . .",
+    "op": [
+        "Horizontal asymptote",
+        "Vertical asymptote",
+        "y = 1 line as asymptote",
+        "Oblique asymptote"
+    ],
+    "created_at": "2026-06-30T10:13:26.809583+00:00"
+},
+{
+    "id": 30045,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "30 June 2026",
+    "qt": "If two real branches of a curve passing through the double point are real and tangents to them are distinct then the double point is a",
+    "op": [
+        "Node",
+        "Isolated point",
+        "Cusp",
+        "None of these"
+    ],
+    "created_at": "2026-06-30T10:26:10.596958+00:00"
+},
+{
+    "id": 35659,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Let the straight line $y = mx + c$ be an asymptote to the graph of $y = f(x)$ , then which of the following is true.",
+    "op": [
+        "$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) \\times (mx + c)} \\right] = 0$",
+        "$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) - (mx + c)} \\right] = 0$",
+        "$\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) + (mx + c)} \\right] = \\infty$",
+        "$\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {f(x) - (mx + c)} \\right] = \\infty$"
+    ],
+    "created_at": "2026-07-01T09:32:43.536775+00:00"
+},
+{
+    "id": 35668,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "$$The{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}gives{\\text{ }}no{\\text{ }}information{\\text{ }}if{\\text{ }}f''\\left( c \\right),\\,\\left( {where{\\text{ }}c{\\text{ }}is{\\text{ }}a{\\text{ }}critical{\\text{ }}point} \\right)$$",
+    "op": [
+        "<0",
+        "≥0",
+        "=0",
+        ">0"
+    ],
+    "created_at": "2026-07-01T09:35:33.568587+00:00"
+},
+{
+    "id": 35754,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "$$If{\\text{ }}f\\left( x \\right) = {\\left( {x - 1} \\right)^{2/3}} - 3\\left( {x - 1} \\right){\\text{ }}and{\\text{ }}f'\\left( x \\right) = \\frac{2}{{3{{\\left( {x - 1} \\right)}^{1/3}}}} - 3{\\text{ }}then{\\text{ }}the{\\text{ }}singular{\\text{ }}point{\\text{ }}of{\\text{ }}f\\left( x \\right){\\text{ }}is$$",
+    "op": [
+        "0",
+        "1",
+        "-1",
+        "2"
+    ],
+    "created_at": "2026-07-01T10:15:10.294384+00:00"
+},
+{
+    "id": 35761,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "$$If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} > {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a$$",
+    "op": [
+        "Isolated point",
+        "Node",
+        "Cusp",
+        "Both (a) and (b)"
+    ],
+    "created_at": "2026-07-01T10:15:43.963818+00:00"
+},
+{
+    "id": 35766,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following cannot be an asymptote to the graph of a function $y = f(x)$.",
+    "op": [
+        "Curved Asymptote",
+        "Oblique Asymptote",
+        "Horizontal Asymptote",
+        "Vertical Asymptote"
+    ],
+    "created_at": "2026-07-01T10:17:21.815412+00:00"
+},
+{
+    "id": 35993,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "The horizontal asymptote for the function $y = \\frac{{2x + 1}}{{x + 2}}$ is . . . . . . . . .",
+    "op": [
+        "None",
+        "y = 4",
+        "y = 0",
+        "y =2"
+    ],
+    "created_at": "2026-07-01T12:34:06.964575+00:00"
+},
+{
+    "id": 35994,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "A Point on the curve through which more than one branch of the curve pass is called",
+    "op": [
+        "Singular point",
+        "Critical point",
+        "None of the other",
+        "Multiple Point"
+    ],
+    "created_at": "2026-07-01T12:34:21.302656+00:00"
+},
+{
+    "id": 36180,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "A function f has an absolute maximum at a point “c” if ......",
+    "op": [
+        "$f(c)f(x)\\, \\geqslant 0\\,\\,\\,\\,\\,\\,\\forall \\,\\,\\,x \\in D$",
+        "$f(c) + f(x) \\leqslant 0\\,\\,\\,\\,\\,\\,\\,\\forall \\,\\,\\,x \\in D$",
+        "$$f(c) \\geqslant f(x)\\,\\,\\,\\,\\,\\,\\,\\forall \\,\\,\\,x \\in D$$",
+        "$f(c) \\leqslant f(x)\\,\\,\\,\\,\\,\\,\\,\\forall \\,\\,\\,x \\in D$"
+    ],
+    "created_at": "2026-07-01T14:13:58.447351+00:00"
+},
+{
+    "id": 36181,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "In polar coordinates, asymptote to a curve can be defined with the help of parameter(s). . . . . . .",
+    "op": [
+        "The distance $r$ and the initial line.",
+        "The distance $r$ and the angle $\\theta$.",
+        "The distance $r$ only.",
+        "The angle $\\theta$ only."
+    ],
+    "created_at": "2026-07-01T14:14:24.173026+00:00"
+},
+{
+    "id": 36305,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "If two real branches of a curve passing through the double point are real and tangents to them are coincident then the double point is a",
+    "op": [
+        "Cusp",
+        "All of them",
+        "Node",
+        "Conjugate point"
+    ],
+    "created_at": "2026-07-01T16:01:36.720444+00:00"
+},
+{
+    "id": 36323,
+    "cc": "MTH403",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "$If{\\text{ }}\\frac{{df}}{{dx}}\\, > \\,0,\\,\\;at\\,R(x,y),then$",
+    "op": [
+        "f(x) must has a critical point at R(x,y)",
+        "None of the other",
+        "f(x) is an increasing function at R(x,y)",
+        "f(x) is a decreasing function at R(x,y)"
+    ],
+    "created_at": "2026-07-01T16:06:19.496011+00:00"
+},
+{
+    "id": 38869,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "The intersection of a sphere and a plane is always a:",
+    "op": [
+        "Parabola",
+        "Circle (or empty set)",
+        "Hyperbola",
+        "Point"
+    ],
+    "created_at": "2026-07-02T20:22:26.627616+00:00"
+},
+{
+    "id": 38870,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "A right circular cylinder is defined as a surface generated by:",
+    "op": [
+        "Rotating a rectangle about its side",
+        "Translating a parabola along its axis",
+        "Rotating a circle about its diameter",
+        "Moving a straight line parallel to itself along a curve"
+    ],
+    "created_at": "2026-07-02T20:22:35.528932+00:00"
+},
+{
+    "id": 38871,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "Ellipsoid is symmetrical about _____.",
+    "op": [
+        "(d)    All (a),(b) and (c)",
+        "(a)    xy-plane",
+        "(b)    yz-plane",
+        "(c)    xz-plane"
+    ],
+    "created_at": "2026-07-02T20:22:47.360754+00:00"
+},
+{
+    "id": 38872,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "A surface is symmetric with respect to the yz-plane if:",
+    "op": [
+        "Replacing x with −x keeps the equation unchanged",
+        "Replacing z with −z keeps the equation unchanged",
+        "Replacing x with −x changes the equation",
+        "Replacing y with −y keeps the equation unchanged"
+    ],
+    "created_at": "2026-07-02T20:22:52.882326+00:00"
+},
+{
+    "id": 38873,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$$\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} = \\frac{{{z^2}}}{{36}},\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}{\\text{.}}$$",
+    "op": [
+        "cone",
+        "cylinder",
+        "paraboloid",
+        "sphere"
+    ],
+    "created_at": "2026-07-02T20:22:58.713033+00:00"
+},
+{
+    "id": 38874,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$\\frac{{{x^2}}}{{36}} + \\frac{{{y^2}}}{{49}} = z$, is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Elliptic paraboloid",
+        "Hyperbolic paraboloid",
+        "Hyperboloid of one sheet"
+    ],
+    "created_at": "2026-07-02T20:23:05.413342+00:00"
+},
+{
+    "id": 38875,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$$\\frac{{{x^2}}}{{{3^2}}} + \\frac{{{y^2}}}{{{4^2}}} = 1,\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}\\,\\,{\\text{cylinder}}{\\text{.}}$$",
+    "op": [
+        "parabolic",
+        "elliptic",
+        "hyperbolic",
+        "circular"
+    ],
+    "created_at": "2026-07-02T20:23:09.856039+00:00"
+},
+{
+    "id": 38876,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$${\\text{Trace}}\\,\\,{\\text{of}}\\,\\,{\\text{a cone}}\\,\\,\\,{x^2} + \\,\\,\\frac{{{y^2}}}{9} = {z^2},\\,\\,\\,{\\text{in}}\\,\\,xz - {\\text{plane}}\\,\\,\\,{\\text{is }}\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$x = \\pm \\,\\,z$$",
+        "$$x = \\pm \\,\\,\\frac{y}{3}$$",
+        "$$y = \\pm \\,3\\,z$$",
+        "no trace"
+    ],
+    "created_at": "2026-07-02T20:23:31.546535+00:00"
+},
+{
+    "id": 38877,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "Only the xy-plane",
+        "None",
+        "Only the x-axis",
+        "All coordinate planes and the origin"
+    ],
+    "created_at": "2026-07-02T20:23:40.28893+00:00"
+},
+{
+    "id": 38878,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "${x^2} + \\frac{{{y^2}}}{{16}} - \\frac{{{z^2}}}{{25}} = 1,$ is an equation of ______.",
+    "op": [
+        "Ellipsoid",
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Paraboloid"
+    ],
+    "created_at": "2026-07-02T20:23:58.200086+00:00"
+},
+{
+    "id": 39115,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} - \\frac{{{z^2}}}{{36}} = - 1,$ is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Elliptic Paraboloid",
+        "Hyperboloid of one sheet",
+        "Hyperbolic Paraboloid"
+    ],
+    "created_at": "2026-07-03T03:31:36.930351+00:00"
+},
+{
+    "id": 39122,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$\\frac{{{x^2}}}{{64}} + \\frac{{{y^2}}}{{81}} + 1 = \\frac{{{z^2}}}{{100}},$ is an equation of ______.",
+    "op": [
+        "Ellipsoid",
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Paraboloid"
+    ],
+    "created_at": "2026-07-03T03:35:20.266105+00:00"
+},
+{
+    "id": 39124,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "A sphere is defined as the set of all points in space that are:",
+    "op": [
+        "None of these",
+        "Equidistant from a fixed point (center)",
+        "Lies on a cylinder",
+        "Equidistant from a fixed plane"
+    ],
+    "created_at": "2026-07-03T03:35:52.159028+00:00"
+},
+{
+    "id": 39125,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$$\\frac{{{x^2}}}{9} + \\frac{{{y^2}}}{{16}} + \\frac{{{z^2}}}{{16}} = 1,\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}{\\text{.}}$$",
+    "op": [
+        "cone",
+        "paraboloid",
+        "ellipsoid",
+        "hyperboloid"
+    ],
+    "created_at": "2026-07-03T03:36:31.377715+00:00"
+},
+{
+    "id": 39215,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "Which surface is symmetric with respect to the xz-plane?",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAUCAYAAADvJjFnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGeSURBVFhH7ZcBjYQwEEWxgAYs4AEJaMACDnCAAxSgAAMYwAEeennNzqXhuEJLoSzhJc22u2yZ/3dmtiTq5XJe0yPgbfo8z6ppGpWmqUqSRM9jcrd4bHibPgyDKstSz/u+10Jjcrd4bASJbJomVRTFZxWfu8WzJIjpVVVpoS6cmYk+8VzJYeV1XatxHD+r/Zxlum88V3JIuSmQuQtnmH4knitZVc5JgJ6IMfwpQdd1+mTAq6z53BwuuFyPgVxvGsnpxHzPNR75/tawsbYHHm21ttVd27bVGUNvxHwEMQ/JliCBH537i0AT1pxaYiHegCTqntZmVY5gfrmjpYoxkgm2YTOQ7DGvudMJxcVwsJrOZltm+MK+rpAAVCEcPaGEaC/gajhYd0VYlmW/QkOyR9ASHn6oOgRiWmx8DId/lWM4/QqReZ7rGxxtMyY+pmM0sciTZ0yWhlN1xLan+v4ox2jzlEJrYS3Gh8LHdInFNbPOAD+kBcmgK+zBXXkgfEyX6vt2opnuAhX2FMPh9qZTxpStPKQ9ga/I9Kfxmn45Sv0AKzyKfOLN8FYAAAAASUVORK5CYII=.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAYCAYAAAB6OOplAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFXSURBVGhD7ZcNrYMwFEaxgAYs4AEJaMACDnCAAxSgAAMYwAEeupxmfSF7j7HR7nsjuSdpxt8o99D7ZcucIcFEizDRIky0CBMtwkSLMNEiTLQIEy3CRIuIEj3PsyuKwuV57pZl8cfatnVZlv3spyTcm89A13W/jj3C+aPBffaYpunP74zjeL/imCjRFLeuq5fNgzZN44ZhuJ9NC0Vx7yB2C/vI+BShtsCZOpNEB8KRfTT53sp4HM+k0Snba9ivqspvKzi7mJKIZrVRvAqiqu97v03hRzG1fYl741l0BGI6NtoO0VHXtX9YMlsB89FFzPeKoBTESIYo0UimbSm4LEtfPC0d80CvgFzmQ7iCrWRqPiP9tGgmI5fDKqaVWdUc/zS8TOJD0UEsnm3EhPHurypdsCYkto3/g0uJPtu238BlRJPJRNU7fxK+iUtGxxUx0SJMtAgTLcG5G5n8oiAL+saTAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAWCAYAAAC1zAClAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGASURBVFhH7ZcBzYQgGECtYAYr2MEIZrCCDWxgAxOYwAIWsIEdvttjx8Y5PfH/QY/B29ip54DvAR+YScIbSa5HnMldlkWappEsyyTPcxnH8f1PvDiT23Wd9H2vrtu2laqq1HXMeEkLwzAo2bHjXO66rlLX9fsubpzKRSx5l9+EQ7lbseTd2LGSO8+zFEWhTgGcCgB5nAz0vT4p6OJrQ2PwqJs2zBPJ3jOTaZo++ndUeO8I9pHt+6aTLVZyEUlQCKYBRLJpPQHtM9jINAcQKQTqMyXRno5bDzJ9OeJSWkAygv8rdm8G7JVv0AfznTtPKDZi4ZJcltxZ0HdBYPRFB2jO4j1cpAWwFQvWpqiUIxYdsKn4DvSXIB8vZ1JccEUsWMk1Ky3LUqUHgnkq72roEwN+x8lkK5ZNDBdHmxmcymXzIs/qSpklzF6ePw05lgAJ3De0Y6YPCl6+8RsJ9A9cXaJPEKRcluKvi4Wg5DJbWY4hiIVg00IIJLkeSXI9kuR6Q+QFLnGlzMCKewEAAAAASUVORK5CYII=.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAASCAYAAADFavmwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGJSURBVFhH7ZcLkYMwEECxgAYs4AEJaMACDnCAAxSgAAMYwAEe9uZlml5KobAh1yvTvJlMgYaEffksJKJgmiapqkqSJJE0TaXv+9s/EYtKaNM00ratOa7rWoqiMMeRX1RCXbquM4Ijj3gJnedZyrK8nR1jGIavmNFqochkH+VXQxS6wlIm++hRvk7oOI6SZZnJ3mRzQBgZ3Z7bDG+LRpBGKANGXfpw3yTWrrnQh/t8W4V6W5AXlvVdJ3vchSKPQJBKo8gj8YRCI5T+GWDqu/fQBsFptxsN9GfjtgPLsxzlackjFqlnZa6N9Fp5Bc/g1nnnm4WPTHiKiOW0F6gPmhlqIRiexQa1d3+IJQ++MuHBHA3xOkSnPo29wkco2C8yPij2RITgjEy4C3UbyvPcLH0CCLWP+grlHgZZ80bhy1ImiQgXRxMSGKEkIPZN2xCzgVnK9VD4CmXPJCiC/Wvox90aKHjREH6z3MBH6Nnl9x+8TagWltnVZMLHCWVWstSuKBM+doZelSg0KCI/FDBHIvTuQYUAAAAASUVORK5CYII=."
+    ],
+    "created_at": "2026-07-03T04:37:04.772152+00:00"
+},
+{
+    "id": 39219,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$\\frac{{{x^2}}}{4} + \\frac{{{y^2}}}{9} + 1 = \\frac{{{z^2}}}{{16}},$ is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Ellipsoid",
+        "Paraboloid"
+    ],
+    "created_at": "2026-07-03T04:40:36.442447+00:00"
+},
+{
+    "id": 39220,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} = z$, is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Elliptic paraboloid",
+        "Hyperbolic paraboloid"
+    ],
+    "created_at": "2026-07-03T04:44:02.549987+00:00"
+},
+{
+    "id": 39221,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "If the elements of a cylinder are normal to a plane, then it is known as _____ with respect to that plane.",
+    "op": [
+        "paraboloid",
+        "right cylinder",
+        "cone",
+        "sphere"
+    ],
+    "created_at": "2026-07-03T04:44:21.301591+00:00"
+},
+{
+    "id": 39226,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "In cylinder each line through the curve and _____ to the line is called an element (or ruling) of the cylinder.",
+    "op": [
+        "(b)    parallel",
+        "(d)    both (a) and (b)",
+        "(c)    center",
+        "(a)    perpendicular"
+    ],
+    "created_at": "2026-07-03T04:47:31.173158+00:00"
+},
+{
+    "id": 39264,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "Which of the following is the equation of a cone?",
+    "op": [
+        "$$\\frac{{{x^2}}}{4} + \\frac{{\\,{y^2}}}{9} = {z^2}$$",
+        "$$\\frac{{{x^2}}}{4} + \\frac{{\\,{y^2}}}{{16}} = \\,\\, - 3\\,{z^2}$$",
+        "$$\\frac{{{x^2}}}{4} + \\frac{{\\,{y^2}}}{9} + \\frac{{{z^2}}}{{16}} = 0$$",
+        "$$\\frac{{{x^2}}}{4} + \\frac{{\\,{y^2}}}{9} = - \\,{z^2}$$"
+    ],
+    "created_at": "2026-07-03T05:12:10.924637+00:00"
+},
+{
+    "id": 39265,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "$${\\text{When}}\\,\\,a = b = c,\\,\\,\\,{\\text{the}}\\,\\,{\\text{ellipsoid}}\\,\\,\\,\\,\\frac{{{x^2}}}{{{a^2}}} + \\frac{{{y^2}}}{{{b^2}}} + \\frac{{{z^2}}}{{{c^2}}} = 1,\\,\\,\\,{\\text{becomes}}\\,\\,{\\text{the}}\\,\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "cone",
+        "sphere",
+        "paraboloid",
+        "hyperboloid"
+    ],
+    "created_at": "2026-07-03T05:12:22.922616+00:00"
+},
+{
+    "id": 39390,
+    "cc": "MTH403",
+    "qn": "04",
+    "dt": "03 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "None of these.",
+        "data:image/png;base64,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.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANEAAAAZCAYAAACvgcs2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYWSURBVHhe7VurtqswEL2fhqlCoapQqCpUVRUKVVXFB6CqUFVVqCpUFQpVhUKh5k5eNITwKuVw74G9VtY60LzmsSeTkPMH1oaygKLkf68SJRTrVsDXsS4SZRG4bggZf1wnCog9G7y44M8bpmI9JCof4FkHiHL+3EAJ6S2ER+vv86J8xRCeffB9H87hHdKP55GjHAHtxz+HEL90q04Kl70D4bqjCUUR+2CfH/zpM6yGRMnZhH2Q8ieBHJ73GzrvERxzB4ZhL+JYReyB7QYQI3Nezxt4ewPnYn2wWmQQOjtwLgnkyJ0yu8HRNPX9JD6Y9sKrchaCLesc9fCjNihiOJmoay/mLz5DN4mokMSgUlla8Z8gv8LBOMC1Ed0Jie5wT1J4BvbPGrBCAr7pwOUpTa5A5ye6Nj2IR2xfshBlsC64zrxR3o7Yj4+jqEghQLIe7wvujxYlEUlrTebTc5Eo9ghp0Ij8mQEjna2+m4oYPBRkohydoM51iJAy7aB1liBRFag8kJOK+ETeoV4GZxqYolkah8gC2r9Ov+nFAuN4w0R2Iagk+kGQ1d8NAzjNRSLqUD+24sxNohyigwF20C3NYiRCLV9dC2x0ZnloFsRG6CWPcLXVkYiR1LqoqSziQSL/6ctBcQSWIhGmcR49YGK+NwOJxjm1MDYrikLo8owrVxVtWan6pr/L7eVxuYCiKKSm42JlMb7daolh8ixHIh34qmK4cBt6wCB0rAra9p6AO3FPfKlD2FTYTthFsbEuCDMdizqo65iNX+lc9M0faX2tPLKdSHYkjdtrQ5LGuVzmuUikCNIF4cgVaFtVKVhHUihTpNy/zsmb7+hYUj+CPL3yU6VboAvEMv4lEhXxCUyUzRkzGaFrVSFdJNLqvgct48SebFPu2FKdNrs3/WUciVQfzEKv04Y0jauixpwk0kSRBqgwKtmY8qpVgSpFdUzVcE1DDlbe4Hn2k2MyicoC8jwfVro+dpJUw0QCXZ4YM0eApmYahxhAouNtxK5Ia9MmqD4r+zRtTKHaZjSJFH/rA03jAsln2LzmIVGDHBrQejgBTamTSO1LVWhTwWKVaZa3wtUI1IofIlH+4N9mBpWodoL2BjqFY4F7Tcdv9tvIMoBEzvXFnwegwz8adhMkonPQtFFtM5pEiMoP+3y2xDgj0jiBuUikTrINZPJ9K8EEEvVFl3+NRNPBCOTF701QmYQQ9aShFUp+LK51OtSnduPT1H0vdDblY8hj11Yi+vtMJOJg9usi0wPOlgVWrZiwI212Jn12oxHBRILmYKGZz2rRIkwNH5KoZoAWDCYRd66+o+I+EpVFTxo2CfqrOMn5UI+cJGVsnQO3m3qUn5xxf2XCufmhaLBuatDYVGev2jtOsoa5aF89JFL9QG1Tw9igwOoP8qMOaEhEwDtvODIxlBCSG02pU9tgDiIR66e28nCl11cjbCcJO5hEkMAZ9xiH9vs+FIJE2oCd38Al+jCO8P1vkwU8L04VDeWyw/He25UnlcMw9tC4eMFRkA+ryhzTyx6MfaBPH+k3pPpVKKqHLr3qbKq+4/aTfYOlenI77mMdJBL9vKejtkHf8WT/U32rDzH7TnQa3ECLFhIxMMHrpe7YnEhtvw8iEYLWY+2r98IQValHn+EkYnVNbSh+QeSiw9IrP2KcHZjEieX7VOUDfHrkPMZAA9GQUyq12wcZXB02z/ZTO7KiIfmcM9weD7gHLpLRhailOr3NUAuCzJ6dMmptyu0h5o19xppVpO5P2AeVvYNECBbc2to0/W+YfZjdzd273c78ajr3+1De0VmU6zCfII/ccanPHMD0zO05CCizBO70OlPWcUBRwv1oKPcJSYBrEmRDN1ZBIvrxcm+Cr1uMBgOd7nSaIZ0bhxRXl7Z0bhTI/bwdpovyNoxE+a8vtb8fKyERUuDhgdVzf64LZUKuzE9i4XS8ruC6n8sgg+yVRn3M3dCK1ZCIIAudDx2nhCSq321bAtn9CsnY/47QIb2A7VwXl+e3YFUkoidhwQnCb6RD/yvKB1xO0UagL2JlJNqw4fvYSLRhw0RsJNqwYSI2Em3YMBEbiTZsmASAv5z/Lh7zBtyQAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,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."
+    ],
+    "created_at": "2026-07-03T05:47:01.088615+00:00"
+},
+{
+    "id": 72144,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}graph{\\text{ }}of{\\text{ }}f\\left( x \\right) = \\left| x \\right|{\\text{ }}at{\\text{ }}x = 0{\\text{ }}has{\\text{ }}a",
+    "op": [
+        "Derivative",
+        "Cusp",
+        "Node",
+        "Both (a) and (b)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72145,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "In{\\text{ }}curve{\\text{ }}{y^2} = x{\\left( {x - a} \\right)^2},{\\text{ }}the{\\text{ }}singular{\\text{ }}point{\\text{ }}\\left( {a,0} \\right){\\text{ }}is{\\text{ }}a{\\text{ }} \\ldots \\ldots \\,when{\\text{ }}{f_{xx}}\\left( {a,0} \\right) = {\\text{ }} - 2a,{\\text{ }}{f_{yy}}\\left( {a,0} \\right) = 2{\\text{ }}and{\\text{ }}{f_{xy}}\\left( {a,0} \\right) = 0.",
+    "op": [
+        "Conjugate point",
+        "Isolated point",
+        "Node",
+        "Cusp"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72146,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For a rational function r(x) = \\frac{{p(x)}}{{q(x)}} = \\frac{{{a_n}{x^n} + {a_{n - 1}}{x^{n - 1}} + ... + {a_0}}}{{{b_m}{x^m} + {b_{m - 1}}{x^{m - 1}} + ... + {b_0}}} , if m = n, then . . . . . . . .",
+    "op": [
+        "The line y = \\frac{{{a_n}}}{{{b_m}}} is the horizontal asymptote.",
+        "The line y = {a_n} is the horizontal asymptote.",
+        "The line y = \\frac{{{a_n}}}{{{b_m}}} is the vertical asymptote.",
+        "The line y = {b_m} is the vertical asymptote."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72148,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}functions{\\text{ }}y = 4\\sqrt x {\\text{ }}and{\\text{ }}y = - 4\\sqrt x {\\text{ }}are{\\text{ }}two{\\text{ }}branches{\\text{ }}of{\\text{ }}parabola",
+    "op": [
+        "{y^2} = 4x",
+        "{y^2} = 16x",
+        "y = 16x",
+        "{y^2} =- 4x"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72149,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} < {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a",
+    "op": [
+        "All of them",
+        "Isolated point",
+        "Node",
+        "Cusp"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72150,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Which of the following is not true for the function f(y) = {y^2};\\,\\,\\,1 \\leqslant \\,y\\, \\leqslant \\,10",
+    "op": [
+        "None of the other",
+        "It has a critical point at x = 0",
+        "It has no critical point",
+        "It has a critical point at x = 5"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72152,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For the function y = f(x) , the line x = c is called the vertical asymptote if and only if . . . . . . ",
+    "op": [
+        "\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = 0",
+        "\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = \\pm \\infty",
+        "\\mathop {\\lim }\\limits_{x \\to {c^ + }} f(x) = \\pm c",
+        "\\mathop {\\lim }\\limits_{x \\to \\infty } f(x) = \\pm c"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72229,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[The{\\text{ }}functions{\\text{ }}y = 4\\sqrt x {\\text{ }}and{\\text{ }}y = - 4\\sqrt x {\\text{ }}are{\\text{ }}two{\\text{ }}branches{\\text{ }}of{\\text{ }}parabola\\]",
+    "op": [
+        "\\[{y^2} =- 4x\\]",
+        "\\[{y^2} = 4x\\]",
+        "\\[y = 16x\\]",
+        "\\[{y^2} = 16x\\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72230,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For the function y = f(x) , the line y = b is called the horizontal asymptote iff as . . . . . .",
+    "op": [
+        "x \\to 0, y \\to \\infty",
+        "x \\to 0, y \\to b",
+        "x \\to \\infty, y \\to b",
+        "x \\to \\infty, y \\to 0"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72231,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 2{x^2}\\,are\\]",
+    "op": [
+        "0,-2",
+        "0,4/3",
+        "±2",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72232,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 3x + 1{\\text{ }}are\\]",
+    "op": [
+        "0",
+        "±1",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72250,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} > {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a\\]",
+    "op": [
+        "Node",
+        "Isolated point",
+        "Both (a) and (b)",
+        "Cusp"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72251,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[For{\\text{ }}the{\\text{ }}curve{\\text{ }}{x^3} + {y^3} - 3axy = 0,{\\text{ }}the{\\text{ }}tangents{\\text{ }}at{\\text{ }}the{\\text{ }}origin{\\text{ }}are{\\text{ }}x = 0{\\text{ }}and{\\text{ }}y = 0,{\\text{ }}then{\\text{ }}the{\\text{ }}origin{\\text{ }}is{\\text{ }}a\\]",
+    "op": [
+        "Cusp",
+        "Node",
+        "None of these",
+        "Isolated point"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72253,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[If{\\text{ }}f'\\left( x \\right){\\text{ }}has{\\text{ }}the{\\text{ }}same{\\text{ }}sign{\\text{ }}on{\\text{ }}both{\\text{ }}left{\\text{ }}and{\\text{ }}right{\\text{ }}sides{\\text{ }}of{\\text{ }}{x_0}\\,on{\\text{ }}an{\\text{ }}open{\\text{ }}interval,{\\text{ }}then{\\text{ }}f.........\\,relative{\\text{ }}extremum/extrema{\\text{ }}at{\\text{ }}{x_0}.\\]",
+    "op": [
+        "Does not have",
+        "Three",
+        "One",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72289,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}gives{\\text{ }}no{\\text{ }}information{\\text{ }}if{\\text{ }}f''\\left( c \\right),\\,\\left( {where{\\text{ }}c{\\text{ }}is{\\text{ }}a{\\text{ }}critical{\\text{ }}point} \\right)",
+    "op": [
+        "=0",
+        "<0",
+        "≥0",
+        ">0"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72290,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "A{\\text{ }}point{\\text{ }}on{\\text{ }}the{\\text{ }}curve{\\text{ }}through{\\text{ }}which{\\text{ }}r{\\text{ }}branches{\\text{ }}of{\\text{ }}the{\\text{ }}curve{\\text{ }}pass{\\text{ }}is{\\text{ }}called{\\text{ }}Multiple{\\text{ }}point{\\text{ }}of",
+    "op": [
+        "sth order",
+        "pth order",
+        "rth order",
+        "Multiple order"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72291,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}curve{\\text{ }}\\left( {{x^2} + {y^2}} \\right)x - 2a{y^2} = 0{\\text{ }}has{\\text{ }}tangents{\\text{ }}at{\\text{ }}origin{\\text{ }}as{\\text{ }}{y^2} = 0,{\\text{ }}then{\\text{ }}the{\\text{ }}origin{\\text{ }}is{\\text{ }}a",
+    "op": [
+        "Conjugate point",
+        "Cusp",
+        "Node",
+        "Isolated point"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72292,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let the straight line y = mx + c be an asymptote to the graph of y = f(x) , then which of the following is true.",
+    "op": [
+        "\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {f(x) - (mx + c)} \\right] = \\infty",
+        "\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) - (mx + c)} \\right] = 0",
+        "\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) + (mx + c)} \\right] = \\infty",
+        "\\mathop {\\lim }\\limits_{x \\to \\infty } \\left[ {f(x) \\times (mx + c)} \\right] = 0"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72293,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For the graph of the function y = f(x) , a line y = b is called an asymptote if for the distance d = \\left| {f({x_i}) - b} \\right| ",
+    "op": [
+        "d \\to b",
+        "d \\to 1",
+        "d \\to 0",
+        "d \\to \\infty"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72294,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} = {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a",
+    "op": [
+        "Cusp",
+        "Isolated point",
+        "None of above",
+        "Node"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72295,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If{\\text{ }}f'\\left( x \\right) < 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}left{\\text{ }}from{\\text{ }}{x_0}\\,and{\\text{ }}f'\\left( x \\right) > 0{\\text{ }}on{\\text{ }}an{\\text{ }}open{\\text{ }}interval{\\text{ }}extending{\\text{ }}right{\\text{ }}from{\\text{ }}{x_0},{\\text{ }}then{\\text{ }}at{\\text{ }}{x_0}\\,the{\\text{ }}f{\\text{ }}has{\\text{ }}a",
+    "op": [
+        "No maxima",
+        "Relative maximum",
+        "Relative extremum",
+        "Relative minimum"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72296,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If for a rational function r(x) = \\frac{{p(x)}}{{q(x)}} , degree of p(x) is strictly one great than the degree of q(x) then r(x) will have a/an . . . . . . .",
+    "op": [
+        "Oblique asymptote",
+        "y = 1 line as asymptote",
+        "Horizontal asymptote",
+        "Vertical asymptote"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72297,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Which of the following cannot be an asymptote to the graph of a function y = f(x)",
+    "op": [
+        "Vertical Asymptote",
+        "Curved Asymptote",
+        "Oblique Asymptote",
+        "Horizontal Asymptote"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72317,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For the graph of a function y = f(x) , asymptote is a line that as x \\to \\infty, . . . . . . . .",
+    "op": [
+        "Crosses the curve after constant intervals.",
+        "Gets arbitrarily away from the curve.",
+        "Remains at a constant distance from the curve.",
+        "Gets arbitrarily close to the curve but never touches it."
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72348,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For a rational function r(x) = \\frac{{p(x)}}{{q(x)}} = \\frac{{{a_n}{x^n} + {a_{n - 1}}{x^{n - 1}} + ... + {a_0}}}{{{b_m}{x^m} + {b_{m - 1}}{x^{m - 1}} + ... + {b_0}}} , if n > m, then . . . . . . . .",
+    "op": [
+        "The line y = {a_n} is the horizontal asymptote.",
+        "The line y = {b_m} is the vertical asymptote.",
+        "The rational function r(x) becomes unbounded for large values of x.",
+        "The line y = \\frac{{{a_n}}}{{{b_m}}} is the horizontal asymptote."
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72349,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Which of the following is true for the function f(x) = {x^{2\\,}} - 2{\\text{ }};\\,x \\in \\mathbb{R}",
+    "op": [
+        "It does not have an absolute minimum value",
+        "It has an absolute maximum value at x = 0",
+        "It has an absolute minimum value at x=0",
+        "None of the others"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72350,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 2{x^2}\\,are",
+    "op": [
+        "0,-2",
+        "±2",
+        "2",
+        "0,4/3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72351,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let{\\text{ f(x) = - 10x + 50, }}and{\\text{ }}\\frac{{df(x)}}{{dx}} < 0,\\,then",
+    "op": [
+        "f(x) must has a critical point",
+        "f(x) is a decreasing function",
+        "f(x) is an increasing function",
+        "None of the other"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72352,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "According{\\text{ }}to{\\text{ }}the{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}f{\\text{ }}has{\\text{ }}a{\\text{ }}relative{\\text{ }}minimum{\\text{ }}value{\\text{ }}at{\\text{ }}c{\\text{ }}if{\\text{ }}f''\\left( c \\right)",
+    "op": [
+        "≥0",
+        ">0",
+        "<0",
+        "=0"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72363,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[According{\\text{ }}to{\\text{ }}the{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}f{\\text{ }}has{\\text{ }}a{\\text{ }}relative{\\text{ }}minimum{\\text{ }}value{\\text{ }}at{\\text{ }}c{\\text{ }}if{\\text{ }}f''\\left( c \\right)\\]",
+    "op": [
+        "=0",
+        "<0",
+        ">0",
+        "≥0"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72364,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[A{\\text{ }}point{\\text{ }}on{\\text{ }}the{\\text{ }}curve{\\text{ }}through{\\text{ }}which{\\text{ }}r{\\text{ }}branches{\\text{ }}of{\\text{ }}the{\\text{ }}curve{\\text{ }}pass{\\text{ }}is{\\text{ }}called{\\text{ }}Multiple{\\text{ }}point{\\text{ }}of\\]",
+    "op": [
+        "Multiple order",
+        "pth order",
+        "rth order",
+        "sth order"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72375,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The{\\text{ }}critical{\\text{ }}points{\\text{ }}of{\\text{ }}the{\\text{ }}polynomial{\\text{ }}p\\left( x \\right) = {x^3} - 3x + 1{\\text{ }}are",
+    "op": [
+        "0",
+        "±1",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72376,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If{\\text{ }}f\\left( x \\right) = {\\left( {x - 1} \\right)^{2/3}} - 3\\left( {x - 1} \\right){\\text{ }}and{\\text{ }}f'\\left( x \\right) = \\frac{2}{{3{{\\left( {x - 1} \\right)}^{1/3}}}} - 3{\\text{ }}then{\\text{ }}the{\\text{ }}singular{\\text{ }}point{\\text{ }}of{\\text{ }}f\\left( x \\right){\\text{ }}is",
+    "op": [
+        "-1",
+        "2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72434,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Which of the following is true for the function f(x) = 5{x^2} - 15x - 20{\\text{ }};x \\in \\mathbb{R}",
+    "op": [
+        "It has a critical number at x = 3/2",
+        "It has a critical point at x= 20",
+        "It has no critical point",
+        "None of the other"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72435,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "If{\\text{ }}f'\\left( x \\right){\\text{ }}has{\\text{ }}the{\\text{ }}same{\\text{ }}sign{\\text{ }}on{\\text{ }}both{\\text{ }}left{\\text{ }}and{\\text{ }}right{\\text{ }}sides{\\text{ }}of{\\text{ }}{x_0}\\,on{\\text{ }}an{\\text{ }}open{\\text{ }}interval,{\\text{ }}then{\\text{ }}f.........\\,relative{\\text{ }}extremum/extrema{\\text{ }}at{\\text{ }}{x_0}.",
+    "op": [
+        "Does not have",
+        "One",
+        "Three",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72436,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "\\[If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} = {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a\\]",
+    "op": [
+        "None of above",
+        "Isolated point",
+        "Node",
+        "Cusp"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72437,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "If{\\text{ }}\\frac{{df}}{{dx}}\\, > \\,0,\\,\\;at\\,R(x,y),then",
+    "op": [
+        "f(x) is an increasing function at R(x,y)",
+        "f(x) must has a critical point at R(x,y)",
+        "f(x) is a decreasing function at R(x,y)",
+        "None of the other"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72438,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Which of the following is true for the functionf(x) = 3{x^2} - 6x - 10{\\text{ }};x \\in \\mathbb{R}",
+    "op": [
+        "It has a critical point at x = 1",
+        "None of the other",
+        "It has no critical point",
+        "It has a critical number at x= -1"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72446,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "The horizontal asymptote for the function y = \\frac{{2x - 8}}{{{x^2} - 16}} is . . . . . . . . ",
+    "op": [
+        "y = 0",
+        "y = 16",
+        "y = 1",
+        "y = 2"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72447,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Let{\\text{ f(x) = 3x - 5, }}and{\\text{ }}\\frac{{df(x)}}{{dx}} > 0,\\,then",
+    "op": [
+        "f(x) must has a critical point",
+        "f(x) is an increasing function",
+        "None of the other",
+        "f(x) is a decreasing function"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72448,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Let P(r,\\theta ) be a point on a straight line “L” and “p” is the length of the perpendicular drawn on the line from pole, making an angle \\alpha with the initial line, then the equation in polar form of “L” is . . . . . . . . .",
+    "op": [
+        "p = r\\cos (\\alpha \\theta )",
+        "p = r\\cos (\\theta + \\alpha )",
+        "p = r\\cos (\\theta - \\alpha )",
+        "p = \\alpha r\\cos (\\theta )"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72449,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "If{\\text{ }}{\\left( {{f_{xy}}} \\right)^2} - {f_{xx}}{f_{yy}} > {\\text{ }}0,{\\text{ }}then{\\text{ }}the{\\text{ }}double{\\text{ }}point{\\text{ }}\\left( {x,{\\text{ }}y} \\right){\\text{ }}would{\\text{ }}be{\\text{ }}a",
+    "op": [
+        "Both (a) and (b)",
+        "Cusp",
+        "Node",
+        "Isolated point"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72450,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "The singular points of {x^2}{(x - 3)^2}y'' + (x - 3)y' + 3{x^2}y = \\,0 are",
+    "op": [
+        "None of the other",
+        "4,3",
+        "1,3",
+        "0,3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72453,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "\\[The{\\text{ }}graph{\\text{ }}of{\\text{ }}f\\left( x \\right) = \\left| x \\right|{\\text{ }}at{\\text{ }}x = 0{\\text{ }}has{\\text{ }}a\\]",
+    "op": [
+        "Node",
+        "Derivative",
+        "Cusp",
+        "Both (a) and (b)"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72454,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Let{\\text{ f(x) = }}4{x^2} + 10x + 50,{\\text{ and }}\\frac{{df(x)}}{{dx}}\\, < \\,0,\\,\\;at\\,R(x,y),then",
+    "op": [
+        "f(x) is a decreasing function at P(x,y)",
+        "None of the other",
+        "f(x) is an increasing function at P(x,y)",
+        "f(x) must has a critical point at P(x,y)"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72455,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "If{\\text{ }}\\frac{{df}}{{dx}}\\, < \\,0,\\,\\;at\\,R(x,y),then",
+    "op": [
+        "f(x) is a decreasing function at R(x,y)",
+        "f(x) must has a critical point at R(x,y)",
+        "f(x) is an increasing function at R(x,y)",
+        "None of the other"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72470,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "03 January 2026",
+    "qt": "\\[In{\\text{ }}curve{\\text{ }}{y^2} = x{\\left( {x - a} \\right)^2},{\\text{ }}the{\\text{ }}singular{\\text{ }}point{\\text{ }}\\left( {a,0} \\right){\\text{ }}is{\\text{ }}a{\\text{ }} \\ldots \\ldots \\,when{\\text{ }}{f_{xx}}\\left( {a,0} \\right) = {\\text{ }} - 2a,{\\text{ }}{f_{yy}}\\left( {a,0} \\right) = 2{\\text{ }}and{\\text{ }}{f_{xy}}\\left( {a,0} \\right) = 0.\\]",
+    "op": [
+        "Conjugate point",
+        "Isolated point",
+        "Node",
+        "Cusp"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72471,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "03 January 2026",
+    "qt": "According{\\text{ }}to{\\text{ }}the{\\text{ }}second{\\text{ }}derivative{\\text{ }}test{\\text{ }}f{\\text{ }}has{\\text{ }}a{\\text{ }}relative{\\text{ }}maximum{\\text{ }}value{\\text{ }}at{\\text{ }}c{\\text{ }}if{\\text{ }}f''\\left( c \\right)",
+    "op": [
+        "<0",
+        ">0",
+        "≤0",
+        "=0"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72472,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "03 January 2026",
+    "qt": "For a rational function r(x) = \\frac{{p(x)}}{{q(x)}} = \\frac{{{a_n}{x^n} + {a_{n - 1}}{x^{n - 1}} + ... + {a_0}}}{{{b_m}{x^m} + {b_{m - 1}}{x^{m - 1}} + ... + {b_0}}} , if n < m, then . . . . . . . .",
+    "op": [
+        "The line y = \\frac{{{a_n}}}{{{b_m}}} is the horizontal asymptote.",
+        "The line y = 0 is the horizontal asymptote.",
+        "The line y = {b_m} is the vertical asymptote.",
+        "The line y = {a_n} is the horizontal asymptote."
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72473,
+    "cc": "MTH403",
+    "qn": "3",
+    "dt": "03 January 2026",
+    "qt": "The horizontal asymptote for the function y = \\frac{{2x + 1}}{{x + 2}} is . . . . . . . . .",
+    "op": [
+        "y =2",
+        "y = 4",
+        "y = 0",
+        "None"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 73133,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "data:image/png;base64,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",
+        "data:image/png;base64,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",
+        "None of these.",
+        "data:image/png;base64,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"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73136,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{4} + \\frac{{{y^2}}}{9} + 1 = \\frac{{{z^2}}}{{16}}, is an equation of ______.",
+    "op": [
+        "Ellipsoid",
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Paraboloid"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73137,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} - \\frac{{{z^2}}}{{36}} = - 1, is an equation of ______.",
+    "op": [
+        "Hyperboloid of one sheet",
+        "Hyperboloid of two sheets",
+        "Elliptic Paraboloid",
+        "Hyperbolic Paraboloid"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73139,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[{\\text{Trace}}\\,\\,{\\text{of}}\\,\\,{\\text{a cone}}\\,\\,\\,{x^2} + \\,\\,\\frac{{{y^2}}}{9} = {z^2},\\,\\,\\,{\\text{in}}\\,\\,xz - {\\text{plane}}\\,\\,\\,{\\text{is }}\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "no trace",
+        "\\[x = \\pm \\,\\,\\frac{y}{3}\\]",
+        "\\[x = \\pm \\,\\,z\\]",
+        "\\[y = \\pm \\,3\\,z\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73140,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{{{3^2}}} + \\frac{{{y^2}}}{{{4^2}}} = 1,\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}\\,\\,{\\text{cylinder}}{\\text{.}}",
+    "op": [
+        "hyperbolic",
+        "parabolic",
+        "elliptic",
+        "circular"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73142,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{{64}} + \\frac{{{y^2}}}{{81}} + 1 = \\frac{{{z^2}}}{{100}}, is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Paraboloid",
+        "Ellipsoid",
+        "Hyperboloid of one sheet"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73173,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " {x^2} + \\frac{{{y^2}}}{{16}} - \\frac{{{z^2}}}{{25}} = 1, is an equation of ______.",
+    "op": [
+        "Hyperboloid of one sheet",
+        "Ellipsoid",
+        "Paraboloid",
+        "Hyperboloid of two sheets"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73174,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{{36}} + \\frac{{{y^2}}}{{49}} = z, is an equation of ______.",
+    "op": [
+        "Hyperboloid of two sheets",
+        "Hyperbolic paraboloid",
+        "Hyperboloid of one sheet",
+        "Elliptic paraboloid"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73176,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} = \\frac{{{z^2}}}{{36}},\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}{\\text{.}}",
+    "op": [
+        "paraboloid",
+        "cylinder",
+        "cone",
+        "sphere"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73177,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYgAAAAiCAYAAABFs04aAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAeXSURBVHhe7ZvrUVtLEIRJwTGQAjk4BGLwDxIgAzJwBo6ACJwACTgD56B7P4quatq7KwmEdKD6q9rSOfuY7Zl9jJDvvdqVUkopA5ogSimlDGmCKKWUMqQJopRSypAmiFJKKUOaIEoppQxpgiillDKkCaKUUsqQJohSSilDmiBKKaUMaYIopZQypAnizPz582f348eP3dXV1e7bt2+7x8fHl5bLsCU9v3//3n3//v1Zy/X19bO2UsrlaII4Mw8PD7ufP38+P9/f3z9fiJdkS3qY++npaff379/nZ7SVUi7HqwTx69ev529vq8K3POCZ/lsFndLMt9EtQvy2dAluSQ9/1WivbQ32VJPXv+j+OMdffjrfqz3Cue86vY9XCYJgekAJMAdV8OxJZKsJgg2KPn/emla+Jd/e3r68HQaH4aO+4W9JD39F8NfMOWC/s8/ZI/zE1gvla6A17Xq+j38ShJMJgstWF+2WEwR+XPKnkn1wGRNXPo/hoy7kLek5d3IgKehbKJ+8b3VfX5ItnyeRGr/iXxDszX3785Rrtfw3iEwQzpYTBJq3uqHzMj7mMvyIC3lLejw5oOejD/foAmH+m5ubl7cCWz5PgruIO8n5igli37176rV6d4KgnWeK//aon3ZU9C1thGzwqflwkjo5y0LLlqAv7errfVTSnkrq8bbcVMRh1uZwwdGXb6GKBRcO4/QuX1Xk3yEccyFzwcpn/y+Tsu5cemC0Ph4rjzNlFWuQL6uy0kd7ziGNM7Sv/ZBKt87DDMWaT/Ub7S1ddrQBffGDeKsvffyMuZ/qR7vsq91jpriLkRbvT2Fe2VespHMUO/ns/RKNo/DsfmqM14FihA8+nuKxpc3bsTND/bOvx0C2wTXxjCav9/VJ36VfxXG7FN7dlkoyWivIsfjoUDdbm/lJ+B8GeUAcTSYRCi4gyCf0xUxwXnOon6BeGxu8nTZpwIazGge0eTtt8iO14oeeFWj1TUgGXMyKBTpmfd8CfrruFcxPwkpfscGlrL8Y3sMxeoC+iocSGBovBf/mkuuLJt8rjtbf9wBx1nPuO+eYfQ56p01zZp3OGLZ551PPKmj2Op6BsdIDq33u+tyWjycOqhc+DmjTHZHIrsO7NIDmU/wo0pwxBXyiTnOixTU76ps2GKOYgdtT/IF6NHh8ZEvxdP2ug2fZ0nj55W1Am8ckob/HXHPLnuzP1iF5HY0AYe6Ik0I9+L5ZvIwck2BfBJHOMp6+ItvFrB60EdSO1lnfXGyVWUwEiYJ5Vgt5CLM4ZlmRMeP90M2RnEIPbCE5gP+VRSFhUFY/MenAaW0Vk32s9rlsqo1P3zv7zsFoPO+6FIB3t4k97WP1z6L2nH9kHzwW0pR9VtDfNfLu8/q+VQxkP2MCnEEfk34k2V8+ZJGN2f04io/HhvFuT4X+tLmGhH4eoyR95D01upZ9LHvNAgApFFHqy+fKycQD5vPx7M7mJsh2MarHF8ayCN4+swHMN2tbwc83rvNUsPGO1cMljBZdxm/xZ8Zb9JwyOWAH31blWH0kCPbEDF0avvd9vtXhdb05R+5JJ/dongNpYj1gdEHx7tqwp3n27fOcf2Qf/OKZ9Vnh86BJfmKDZ/kH3ubvznsTBPNRN0NzqoiR764Pm+6LkxoSbGBrRvrIs9ZZZOxWvI5ogNg0LlKoC8HB1ULMYDx2FaB01oMM2S6yfvXOXLNNoIU+Bi5ALhnGnfobMnpG/u6Dn5RIWvwPcbON+RaO1bOVvxxmKJmuDg5t9BkdUvYRbftizP6jn18EsstY2p3cv3kOfCzwybv7wfvsvKr/jJx/ZB/wR3ZS0yG4XWnThemxAsVAGjImkJdt+pFkf/mQfibSrXtkFB/sqh0N6Y/wdRmB3dHeE+kjz5pXjGI1Y9kLwzOxKdQdU2A9CARt5Bj1PgfPGsezO8czduUc7R4MkfUjO2qXVvoI1+p9hfd1/ALkZwp+apr5/RawNfJ3H4whaaHnlByjJ5MDcSdG+w7fOUAba3TIf+Kq/aJ+7FUfw34hLgl1vm94zkuCOmzneOo9zsynMwDSpHF88u6xdc2APdez2uc+P5pH9oE218UYfwefcwQ66CNfsKk6RzGQBo+J4so4j7H7MSL7A/2pd6TF69Grd8XHbfGu+EurfAT64ova1BfUBmqjZPzBfWSctHj8aE8/Z7xevRck0ovE8On1TERg9C5xEpb1Cf0QP+o3motPoJ/qfaFUp6JAep3m07hsT63eRhmBTezpAuTbOn19Yd4LsZrFcQVx4zLmIjwlx+hh/oyjr9ul0F8NJFD8WZH7hL1FbH3/zg7eap8L7Gc97xpDvHQGVPKs3t3dvXrPdsZjR+8+n/ejCLeR9hSz1CVcPwUfV+gcCcXc1yY10MfXhr7ejs2MY5L9HY8XRT6kz6rX/Kt9kWO9fbRmQn6kRuFjRcYjtVA3igmMb7uySVhoP9CH8JE/67xFT5lDPDng5XOjC1kJ4zPTBPGFYYN+VHIop6fJ9mvQBFE2DX81sEGbHLaP/9TAxVI+N7Of4D4rTRCllFKGNEGUUkoZ0gRRSillSBNEKaWUIU0QpZRShjRBlFJKGdIEUUopZcBu9x8H3PN42+RJqQAAAABJRU5ErkJggg== ",
+    "op": [
+        "Only the x-axis",
+        "None",
+        "Only the xy-plane",
+        "All coordinate planes and the origin"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73178,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "{\\text{Trace}}\\,\\,{\\text{of}}\\,\\,{\\text{a cone}}\\,\\,\\,{x^2} + \\,\\,\\frac{{{y^2}}}{9} = {z^2},\\,\\,\\,{\\text{in}}\\,\\,xz - {\\text{plane}}\\,\\,\\,{\\text{is }}\\_\\_\\_\\_\\_.",
+    "op": [
+        "y = \\pm \\,3\\,z",
+        "x = \\pm \\,\\,\\frac{y}{3}",
+        "no trace",
+        "x = \\pm \\,\\,z"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73179,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{{{x^2}}}{9} + \\frac{{{y^2}}}{{16}} + \\frac{{{z^2}}}{{16}} = 1,\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}{\\text{.}}",
+    "op": [
+        "ellipsoid",
+        "cone",
+        "paraboloid",
+        "hyperboloid"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73181,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "{\\text{When}}\\,\\,a = b = c,\\,\\,\\,{\\text{the}}\\,\\,{\\text{ellipsoid}}\\,\\,\\,\\,\\frac{{{x^2}}}{{{a^2}}} + \\frac{{{y^2}}}{{{b^2}}} + \\frac{{{z^2}}}{{{c^2}}} = 1,\\,\\,\\,{\\text{becomes}}\\,\\,{\\text{the}}\\,\\_\\_\\_\\_\\_.",
+    "op": [
+        "cone",
+        "paraboloid",
+        "hyperboloid",
+        "sphere"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73186,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\frac{{{x^2}}}{9} + \\frac{{{y^2}}}{{16}} + \\frac{{{z^2}}}{{16}} = 1,\\,\\,\\,{\\text{is }}\\,{\\text{the equation }}\\,{\\text{of _____}}{\\text{.}}\\]",
+    "op": [
+        "ellipsoid",
+        "hyperboloid",
+        "cone",
+        "paraboloid"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73506,
+    "cc": "MTH403",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\frac{{{x^2}}}{{16}} + \\frac{{{y^2}}}{{25}} = z, is an equation of ______.",
+    "op": [
+        "Elliptic paraboloid",
+        "Hyperboloid of two sheets",
+        "Hyperboloid of one sheet",
+        "Hyperbolic paraboloid"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+}
+]

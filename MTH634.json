@@ -1,0 +1,916 @@
+[
+    {
+        "id": 40509,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Which of the following statements about open balls in a metric space is true?",
+        "op": [
+            "An open ball always includes its boundary points.",
+            "The centre of an open ball is not necessarily contained in the ball.",
+            "Every open ball is an open set in the metric space.",
+            "The radius of an open ball can be negative."
+        ],
+        "created_at": "2026-07-03T19:17:30.619768+00:00"
+    },
+    {
+        "id": 40511,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A homoemorphic map between two topological spaces is always …………..",
+        "op": [
+            "continuous",
+            "an identity map",
+            "piecewise continuous",
+            "discontinuous"
+        ],
+        "created_at": "2026-07-03T19:17:43.065416+00:00"
+    },
+    {
+        "id": 40513,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Two spaces are called topologically equivalent if there exists a ………… between two topological spaces.",
+        "op": [
+            "an injective map",
+            "surjective map",
+            "homeomorphism",
+            "bijection"
+        ],
+        "created_at": "2026-07-03T19:17:52.080757+00:00"
+    },
+    {
+        "id": 40514,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A topological property is a property of a topological space that is preserved under homeomorphisms, which of the following represent the topological property ..........",
+        "op": [
+            "All of these options",
+            "Connectedness and Compactness",
+            "Discreteness",
+            "Countability"
+        ],
+        "created_at": "2026-07-03T19:18:01.481763+00:00"
+    },
+    {
+        "id": 40515,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "$${T_{X\\, \\times \\,Y}}$$ denotes ...........on $X\\, \\times \\,Y$.",
+        "op": [
+            "co finite topology",
+            "product topology",
+            "lower limit topology",
+            "upper limit topology"
+        ],
+        "created_at": "2026-07-03T19:18:24.00982+00:00"
+    },
+    {
+        "id": 40516,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Which of the following best describes a projection map in topology?",
+        "op": [
+            "A continuous map from a topological space to a discrete set.",
+            "A map that assigns every point in a Cartesian product space to its first component.",
+            "A homeomorphism between two topological spaces.",
+            "A map that preserves the open sets of a topological space."
+        ],
+        "created_at": "2026-07-03T19:18:36.369391+00:00"
+    },
+    {
+        "id": 40517,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A topological space is said to be the second countable space if it has a ..............base.",
+        "op": [
+            "uncountable closed",
+            "countable open",
+            "countable closed",
+            "uncountable open"
+        ],
+        "created_at": "2026-07-03T19:18:51.550067+00:00"
+    },
+    {
+        "id": 40518,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A map ‘f’ from a topological space X to a topological space Y is ………..if and only if the image of each closed subset of X is closed  in Y.",
+        "op": [
+            "a closed map",
+            "a surjective map",
+            "an open map",
+            "an injective map"
+        ],
+        "created_at": "2026-07-03T19:18:59.892943+00:00"
+    },
+    {
+        "id": 40643,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A map ‘f’ between two topological spaces is called …………… iff ‘f’ is bijective, continuous and f-1(f inverse) is continuous.",
+        "op": [
+            "automorphism",
+            "isomorphism",
+            "bijection",
+            "homeomorphism"
+        ],
+        "created_at": "2026-07-04T00:38:57.997425+00:00"
+    },
+    {
+        "id": 40644,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Every metric space is first countable.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-04T00:39:54.508175+00:00"
+    },
+    {
+        "id": 40645,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let $X$ and $Y$ be topological spaces. A map $f:X \\to Y$ is called a Closed Map if________",
+        "op": [
+            "None of them",
+            "for every open set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is open.",
+            "for every closed set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is closed",
+            "for every open set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is closed."
+        ],
+        "created_at": "2026-07-04T00:42:55.100637+00:00"
+    },
+    {
+        "id": 40650,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A topological space is said to be a separable space if it has a ................subset.",
+        "op": [
+            "uncountable dense",
+            "uncountable dense",
+            "countable dense",
+            "countable open"
+        ],
+        "created_at": "2026-07-04T01:51:06.994594+00:00"
+    },
+    {
+        "id": 40651,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Which of the following properties must a relation R on a set A satisfy to be an equivalence relation?",
+        "op": [
+            "antisymmetry and transitivity",
+            "symmetry and transitivity",
+            "reflexivity, symmetry, and transitivity",
+            "reflexivity and symmetry"
+        ],
+        "created_at": "2026-07-04T01:52:08.406871+00:00"
+    },
+    {
+        "id": 40652,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "$${\\text{Metric topology induced by }}d(x,y) = |x - y{\\text{| on }}\\mathbb{R}{\\text{ is called\\_\\_\\_\\_\\_}}$$",
+        "op": [
+            "indiscrete topology",
+            "usual topology",
+            "discrete topology",
+            "None of them"
+        ],
+        "created_at": "2026-07-04T01:52:18.168453+00:00"
+    },
+    {
+        "id": 40653,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A first countable space is a topological space in which there exist a..................... base at each of its point.",
+        "op": [
+            "countable local",
+            "uncountable non-local",
+            "countable non-local",
+            "uncountable local"
+        ],
+        "created_at": "2026-07-04T01:52:27.440394+00:00"
+    },
+    {
+        "id": 40654,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let $X$ and $Y$ be topological spaces. A map $f:X \\to Y$ is called an Open Map if________",
+        "op": [
+            "for every open set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is open.",
+            "for every closed set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is closed.",
+            "None of them",
+            "for every open set $U \\subseteq X$, the image $f(U) \\subseteq Y$ is closed."
+        ],
+        "created_at": "2026-07-04T01:52:50.501936+00:00"
+    },
+    {
+        "id": 40686,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let X and Y be two topological spaces. If f is a function from X to Y, then f is said to be homeomorphism if..............",
+        "op": [
+            "all of these options",
+            "f is continuous",
+            "f is open",
+            "f is bijective"
+        ],
+        "created_at": "2026-07-04T02:55:21.666956+00:00"
+    },
+    {
+        "id": 40687,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A topological space (X,ͳ) is said to be metrizable if there is a metric d on X that generate.... ...",
+        "op": [
+            "none of these",
+            "both X and ͳ",
+            "whole space X",
+            "topology ͳ"
+        ],
+        "created_at": "2026-07-04T02:56:40.083111+00:00"
+    },
+    {
+        "id": 40694,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let$X = R$(Set of real numbers) be a usual metric space and $N \\subseteq R$, then which of the following is NOT true about $N$ ?",
+        "op": [
+            "It is not a neighbourhood of any of its point.",
+            "None of them.",
+            "Neither of its point is an interior point.",
+            "It must be an open set."
+        ],
+        "created_at": "2026-07-04T03:08:38.871472+00:00"
+    },
+    {
+        "id": 40696,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A topological space X is said to be separable if it has a countable dense subset. Which of the following is a countable dense subset of the real numbers?",
+        "op": [
+            "The set of natural numbers",
+            "The set of rational numbers",
+            "The set of all real numbers",
+            "The set of integers"
+        ],
+        "created_at": "2026-07-04T03:09:12.077763+00:00"
+    },
+    {
+        "id": 40698,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Which of the following statements best defines a metric space?",
+        "op": [
+            "A set that is equipped with a topology.",
+            "A set where every element has a unique inverse element.",
+            "A set with a binary operation that combines any two elements to form a third element.",
+            "A set with a function that measures the distance between any two elements in the set."
+        ],
+        "created_at": "2026-07-04T03:10:12.818643+00:00"
+    },
+    {
+        "id": 40706,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "If $(X,d)$ is a compact metric space, then______",
+        "op": [
+            "every sequence which has a convergent subsequence is a Cauchy sequence.",
+            "every sequence is a Cauchy sequence.",
+            "every sequence has a subsequence which is a Cauchy sequence.",
+            "every Cauchy sequence converges."
+        ],
+        "created_at": "2026-07-04T03:26:34.170352+00:00"
+    },
+    {
+        "id": 40707,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let$X = R$(Set of real numbers) be a usual metric space and $N \\subseteq R$, then which of the following is true about $N$ ?",
+        "op": [
+            "It is not an open set.",
+            "All of them.",
+            "None of its point is an interior point.",
+            "It has disjoint intersection with the set of its interior points."
+        ],
+        "created_at": "2026-07-04T03:28:08.528799+00:00"
+    },
+    {
+        "id": 40783,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "What is an open cover of a topological space X?",
+        "op": [
+            "A collection of open sets that are disjoint.",
+            "A single open set that contains X.",
+            "A collection of closed sets whose intersection is X.",
+            "A collection of open sets whose union is X."
+        ],
+        "created_at": "2026-07-04T05:06:52.671032+00:00"
+    },
+    {
+        "id": 40785,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "If $X$ has more than two points and $\\left( {X,\\tau } \\right)$ be an indiscrete topology then which of the following statement is true about $\\left( {X,\\tau } \\right)$ ?",
+        "op": [
+            "It is Haussdorff.",
+            "It is metrizable.",
+            "None of them.",
+            "It is not metrizable."
+        ],
+        "created_at": "2026-07-04T05:08:27.037696+00:00"
+    },
+    {
+        "id": 40825,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let $X = \\left\\{ {1,2,3,4,5,6} \\right\\}$ and $\\tau = \\left\\{ {\\emptyset ,\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\}$ be a topology on $X$, then the local base ( ${B_x}$ ) of the point $x = 1$ is_______",
+        "op": [
+            "$\\left\\{ {\\{ 1\\} ,\\{ 2\\} ,X} \\right\\}$.",
+            "$\\left\\{ {\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\}$.",
+            "$\\left\\{ {\\{ 1\\} ,\\{ 1,2\\} ,X} \\right\\}$.",
+            "None of them"
+        ],
+        "created_at": "2026-07-04T06:08:17.579071+00:00"
+    },
+    {
+        "id": 40827,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "Let $X = \\left\\{ {1,2,3,4} \\right\\}$ and $\\tau = \\left\\{ {\\emptyset ,\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\}$ be a topology on $X$, then which of the following is NOT true ?",
+        "op": [
+            "$\\left( {X,\\tau } \\right)$ be a topological space.",
+            "Every element of $X$ has uncountable local base.",
+            "The local base of the element 4 is $\\emptyset$.",
+            "$\\left( {X,\\tau } \\right)$ be a first countable space."
+        ],
+        "created_at": "2026-07-04T06:09:22.391127+00:00"
+    },
+    {
+        "id": 55365,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements correctly characterizes a T1 topological space?",
+        "op": [
+            "Every singleton subset is open.",
+            "Every subset is closed.",
+            "Every subset is open.",
+            "Every singleton subset is closed."
+        ],
+        "created_at": "2026-07-06T21:37:58.725959+00:00"
+    },
+    {
+        "id": 55366,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Given a Hausdorff space $(X, T)$ and a subset $Y \\subset X$, with the subspace topology $(Y, T_{Y})$, which of the following statements is true?",
+        "op": [
+            "Y must be compact",
+            "Y with the subspace topology $(Y, T_{Y})$ is also Hausdorff.",
+            "Y must be connected.",
+            "Y with the subspace topology $(Y, T_{Y})$ is not Hausdorff."
+        ],
+        "created_at": "2026-07-06T21:38:33.559438+00:00"
+    },
+    {
+        "id": 55367,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is an example of a metric space that is also Hausdorff?",
+        "op": [
+            "The discrete metric space on any set.",
+            "The set of complex numbers $\\mathbb{C}$ with the metric defined on the set of complex numbers.",
+            "All of these",
+            "The set of real numbers $\\mathbb{R}$ with the standard Euclidean metric."
+        ],
+        "created_at": "2026-07-06T21:38:54.972798+00:00"
+    },
+    {
+        "id": 55368,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is true about discrete topological space?",
+        "op": [
+            "None of these",
+            "Every discrete topological space is regular.",
+            "Every discrete topological space may or may not be regular.",
+            "Every discrete topological space is not regular."
+        ],
+        "created_at": "2026-07-06T21:39:14.480555+00:00"
+    },
+    {
+        "id": 55369,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following space is a Housdorff?",
+        "op": [
+            "A non empty set X with indiscrete space.",
+            "An Infinite set with cofinite toplogy.",
+            "Real numbers with toplogy generated by { ${{(a, \\infty) | a \\in R}}$}",
+            "Real numbers with Lower limit topology."
+        ],
+        "created_at": "2026-07-06T21:39:35.310732+00:00"
+    },
+    {
+        "id": 55370,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is equivalent to the statement that a topological space X is T1?",
+        "op": [
+            "For any two distinct points x and y in X, there exists an open set V such that y ∈ V and x ∉ V.",
+            "For any two distinct points x and y in X, there exist disjoint open sets U and V such that x ∈ U and y ∈ V.",
+            "None",
+            "For any two distinct points x and y in X, there exists an open set U such that x ∈ U and y ∉ U."
+        ],
+        "created_at": "2026-07-06T21:39:55.275655+00:00"
+    },
+    {
+        "id": 55371,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Let X be a topological space. Which of the following statement is true?",
+        "op": [
+            "Every pair of disjoint closed sets in X can be separated by closed sets.",
+            "Every pair of disjoint closed sets in X can be separated by open sets."
+        ],
+        "created_at": "2026-07-06T21:40:14.358299+00:00"
+    },
+    {
+        "id": 55372,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is equivalent to the statement that a topological space X is regular?",
+        "op": [
+            "For any point x in X and any closed set F such that x ∉ F, there exists a closed set G such that x ∈ G and F ∩ G = ∅.",
+            "A topological space X is said to be regular if, for every point x in X and every closed set F in X such that x ∉ F, there exist disjoint open sets U and V in X such that x ∈ U and F ⊆ V."
+        ],
+        "created_at": "2026-07-06T21:40:36.314072+00:00"
+    },
+    {
+        "id": 55373,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is true regarding finite T1​ spaces?",
+        "op": [
+            "Every finite T1​ space is discrete.",
+            "Every finite T1​ ​ space is T3 .​",
+            "Every finite T1​ space is indiscrete.",
+            "Every finite T1​space is T4.​"
+        ],
+        "created_at": "2026-07-06T21:41:05.937985+00:00"
+    },
+    {
+        "id": 55374,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "A topological space is a $T_{1}$- space if and only if each of its finite subset is ....",
+        "op": [
+            "neither open nor closed.",
+            "an open set",
+            "a closed set.",
+            "both open and closed."
+        ],
+        "created_at": "2026-07-06T21:41:25.674203+00:00"
+    },
+    {
+        "id": 55488,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following topological spaces is Hausdorff?",
+        "op": [
+            "The set of all real numbers with the usual topology.",
+            "The set of all infinite sets with the discrete topology.",
+            "The set of all points in the plane with the Euclidean topology.",
+            "The set of all finite sets with the discrete topology."
+        ],
+        "created_at": "2026-07-07T01:08:35.335489+00:00"
+    },
+    {
+        "id": 55489,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is true about Hausdorff spaces?",
+        "op": [
+            "Every open set is dense.",
+            "Every sequence has a convergent subsequence.",
+            "Every pair of distinct points can be separated by overlapping open sets.",
+            "Every pair of distinct points can be separated by disjoint open sets."
+        ],
+        "created_at": "2026-07-07T01:09:31.342808+00:00"
+    },
+    {
+        "id": 55490,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements is true about metric spaces?",
+        "op": [
+            "Every metric space is not Hausdorff.",
+            "Every metric space is complete.",
+            "Every metric space is Hausdorff.",
+            "Every metric space is discrete."
+        ],
+        "created_at": "2026-07-07T01:10:01.622926+00:00"
+    },
+    {
+        "id": 55494,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If $\\left( {X,\\tau } \\right)$ be a separable topology then it must have countable dense set.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-07T01:11:31.708477+00:00"
+    },
+    {
+        "id": 55497,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a correct reason why every subspace of a Hausdorff space is also Hausdorff?",
+        "op": [
+            "Because the subspace have different separation properties from the parent space.",
+            "Because every subspace is closed in a Hausdorff space.",
+            "Because every subspace of a topological space is always Hausdorff.",
+            "Because the subspace inherits the separation properties from the parent space."
+        ],
+        "created_at": "2026-07-07T01:12:32.37785+00:00"
+    },
+    {
+        "id": 55661,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements about an indiscrete topological space is true?",
+        "op": [
+            "It is always a $T_{0}$ space.",
+            "It is never a $T_{0}$ space.",
+            "It may be a $T_{0}$ space.",
+            "None of these"
+        ],
+        "created_at": "2026-07-07T03:22:08.663517+00:00"
+    },
+    {
+        "id": 55681,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is not an example of compact spaces?",
+        "op": [
+            "A finite set with any toplogy.",
+            "An infinite set with discrete topology.",
+            "A set with topology containing finite number of elements.",
+            "A set with indiscrete toplogy."
+        ],
+        "created_at": "2026-07-07T03:26:21.509831+00:00"
+    },
+    {
+        "id": 55711,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements correctly compares T1​ and T0 properties?",
+        "op": [
+            "T1​ property implies T0 property, but not vice versa.",
+            "T0​ property is a stronger property than T1​ property.",
+            "T0​ property implies T1​ property, but not vice versa.",
+            "T1​ property is equivalent to T0 property."
+        ],
+        "created_at": "2026-07-07T03:40:53.169493+00:00"
+    },
+    {
+        "id": 55739,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Consider a set $X$ with the indiscrete topology. What can be said about the singleton sets in $X$?",
+        "op": [
+            "They are neither open nor closed.",
+            "They are closed but not open.",
+            "They are open but not closed.",
+            "They are open and closed."
+        ],
+        "created_at": "2026-07-07T03:53:35.436174+00:00"
+    },
+    {
+        "id": 71822,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "If (X,d) is a compact metric space, then______",
+        "op": [
+            "every sequence which has a convergent subsequence is a Cauchy sequence.",
+            "every sequence has a subsequence which is a Cauchy sequence.",
+            "every sequence is a Cauchy sequence.",
+            "every Cauchy sequence converges."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71823,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "LetX = R(Set of real numbers) be a usual metric space and N \\subseteq R, then which of the following is true about N ?",
+        "op": [
+            "It has disjoint intersection with the set of its interior points.",
+            "It is not an open set.",
+            "All of them.",
+            "None of its point is an interior point."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71824,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Let X and Y be topological spaces. A map f:X \\to Y is called a Closed Map if________",
+        "op": [
+            "for every open set U \\subseteq X, the image f(U) \\subseteq Y is open.",
+            "None of them",
+            "for every open set U \\subseteq X, the image f(U) \\subseteq Y is closed.",
+            "for every closed set U \\subseteq X, the image f(U) \\subseteq Y is closed"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71895,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[{T_{X\\, \\times \\,Y}}\\] denotes ...........on $X\\, \\times \\,Y$.",
+        "op": [
+            "upper limit topology",
+            "product topology",
+            "co finite topology",
+            "lower limit topology"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71921,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "If X has more than two points and \\left( {X,\\tau } \\right) be an indiscrete topology then which of the following statement is true about \\left( {X,\\tau } \\right) ? ",
+        "op": [
+            "None of them.",
+            "It is Haussdorff.",
+            "It is metrizable.",
+            "It is not metrizable."
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71922,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Let X = \\left\\{ {1,2,3,4,5,6} \\right\\} and \\tau = \\left\\{ {\\emptyset ,\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\} be a topology on X, then the local base ( {B_x} ) of the point x = 1 is_______ ",
+        "op": [
+            "None of them",
+            "\\left\\{ {\\{ 1\\} ,\\{ 2\\} ,X} \\right\\}",
+            "\\left\\{ {\\{ 1\\} ,\\{ 1,2\\} ,X} \\right\\}",
+            "\\left\\{ {\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\}"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71923,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "{\\text{Metric topology induced by }}d(x,y) = |x - y{\\text{| on }}\\mathbb{R}{\\text{ is called\\_\\_\\_\\_\\_}}",
+        "op": [
+            "discrete topology",
+            "None of them",
+            "indiscrete topology",
+            "usual topology"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71938,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "{T_{X\\, \\times \\,Y}} denotes ...........on X\\, \\times \\,Y",
+        "op": [
+            "co finite topology",
+            "product topology",
+            "upper limit topology",
+            "lower limit topology"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71939,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "LetX = R(Set of real numbers) be a usual metric space and N \\subseteq R, then which of the following is NOT true about N ?",
+        "op": [
+            "It is not a neighbourhood of any of its point.",
+            "It must be an open set.",
+            "Neither of its point is an interior point.",
+            "None of them."
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71940,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Let X = \\left\\{ {1,2,3,4} \\right\\} and \\tau = \\left\\{ {\\emptyset ,\\{ 1\\} ,\\{ 2\\} ,\\{ 1,2\\} ,X} \\right\\} be a topology on X, then which of the following is NOT true ? ",
+        "op": [
+            "Every element of X has uncountable local base.",
+            "\\left( {X,\\tau } \\right) be a topological space.",
+            "The local base of the element 4 is \\emptyset",
+            "\\left( {X,\\tau } \\right) be a first countable space."
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71950,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Let X and Y be topological spaces. A map f:X \\to Y is called an Open Map if________",
+        "op": [
+            "for every open set U \\subseteq X, the image f(U) \\subseteq Y is closed.",
+            "for every closed set U \\subseteq X, the image f(U) \\subseteq Y is closed.",
+            "for every open set U \\subseteq X, the image f(U) \\subseteq Y is open.",
+            "None of them"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71981,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Let \\left( {X,\\tau } \\right) be a metrizable then which of the following statement is true? ",
+        "op": [
+            "\\left( {X,\\tau } \\right) is separable.",
+            "\\left( {X,\\tau } \\right) is second countable.",
+            "All of them",
+            "\\left( {X,\\tau } \\right) has the countable chain collection"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71996,
+        "cc": "MTH634",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[{\\text{Metric topology induced by }}d(x,y) = |x - y{\\text{| on }}\\mathbb{R}{\\text{ is called\\_\\_\\_\\_\\_}}\\]",
+        "op": [
+            "discrete topology",
+            "None of them",
+            "usual topology",
+            "indiscrete topology"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72610,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": " If \\left( {X,\\tau } \\right) be a separable topology then it must have countable dense set.  ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72611,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Consider a set \\(X\\) with the indiscrete topology. What can be said about the singleton sets in \\(X\\)? ",
+        "op": [
+            "They are closed but not open.",
+            "They are open and closed.",
+            "They are neither open nor closed.",
+            "They are open but not closed."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72612,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "A topological space is a \\(T_{1}\\)- space if and only if each of its finite subset is .... ",
+        "op": [
+            "an open set",
+            "neither open nor closed.",
+            "both open and closed.",
+            "a closed set."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72613,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Given a Hausdorff space (X, T) and a subset Y \\subset X, with the subspace topology (Y, T_{Y}), which of the following statements is true? ",
+        "op": [
+            "Y with the subspace topology (Y, T_{Y}) is not Hausdorff.",
+            "Y must be connected.",
+            "Y must be compact",
+            "Y with the subspace topology (Y, T_{Y}) is also Hausdorff."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72682,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Given a Hausdorff space \\((X, T)\\) and a subset \\(Y \\subset X\\), with the subspace topology \\((Y, T_{Y})\\), which of the following statements is true? ",
+        "op": [
+            "Y must be connected.",
+            "Y with the subspace topology \\((Y, T_{Y})\\) is not Hausdorff.",
+            "Y must be compact",
+            "Y with the subspace topology \\((Y, T_{Y})\\) is also Hausdorff."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72699,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Consider a set X with the indiscrete topology. What can be said about the singleton sets in X? ",
+        "op": [
+            "They are closed but not open.",
+            "They are neither open nor closed.",
+            "They are open and closed.",
+            "They are open but not closed."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72700,
+        "cc": "MTH634",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "A topological space is a T_{1}- space if and only if each of its finite subset is .... ",
+        "op": [
+            "both open and closed.",
+            "neither open nor closed.",
+            "a closed set.",
+            "an open set"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    }
+]

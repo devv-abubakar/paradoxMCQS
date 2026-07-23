@@ -1,0 +1,3068 @@
+[
+{
+    "id": 23193,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What would be the required cycle time for a process that operates 9 hours daily with a desired output of 300 units per day?",
+    "op": [
+        "0.03 minutes",
+        "1.8 minutes",
+        "291 minutes",
+        "2700 minutes"
+    ],
+    "created_at": "2026-06-28T19:01:08.400358+00:00"
+},
+{
+    "id": 23200,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________ is a philosophy of continually seeking ways to improve operations",
+    "op": [
+        "Robustness",
+        "Kaizen",
+        "Quality deployment",
+        "Poke – yoke"
+    ],
+    "created_at": "2026-06-28T19:01:22.291773+00:00"
+},
+{
+    "id": 23203,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Total Quality Management stresses on all of the following principles except:",
+    "op": [
+        "Employee involvement",
+        "Customer satisfaction",
+        "Quality as competitive advantage",
+        "Continuous improvement in quality"
+    ],
+    "created_at": "2026-06-28T19:01:34.623293+00:00"
+},
+{
+    "id": 23216,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What would be the output capacity if an assembly line operates for 7 hours per day with a cycle time of 2.0 minutes?",
+    "op": [
+        "3.5 units per day",
+        "14 units per day",
+        "0.004 units per day",
+        "210 units per day"
+    ],
+    "created_at": "2026-06-28T19:02:03.189361+00:00"
+},
+{
+    "id": 23224,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "G.S.Radford demonstrated the connections between:",
+    "op": [
+        "High quality, decreased quality and higher cost",
+        "High quality, increased quality and lower cost",
+        "High quality, increased quality and higher cost",
+        "High quality, decreased quality and lower cost"
+    ],
+    "created_at": "2026-06-28T19:02:15.328064+00:00"
+},
+{
+    "id": 23232,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is one of the prime determinants of choosing a plan?",
+    "op": [
+        "Technology",
+        "Time",
+        "Personnel",
+        "Resources"
+    ],
+    "created_at": "2026-06-28T19:02:26.971967+00:00"
+},
+{
+    "id": 23241,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In the “Check” stage, team analyzes the data collected during the ____ stage to find out how closely the results correspond to the specifications of ____ stage.",
+    "op": [
+        "Plan, Do",
+        "Do, Plan",
+        "Do, Check",
+        "Plan, Check"
+    ],
+    "created_at": "2026-06-28T19:02:43.749508+00:00"
+},
+{
+    "id": 23250,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The technical aspect of Six Sigma includes all of the following Except:",
+    "op": [
+        "Improving process performance",
+        "Reduction in variations",
+        "Top management commitment",
+        "Use of statistical methods"
+    ],
+    "created_at": "2026-06-28T19:02:53.735158+00:00"
+},
+{
+    "id": 23257,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following refers to changing the job role of one worker with another?",
+    "op": [
+        "Job rotation",
+        "Job design",
+        "Job enrichment",
+        "Job enlargement"
+    ],
+    "created_at": "2026-06-28T19:03:08.248589+00:00"
+},
+{
+    "id": 23639,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following refers to the length of time needed to complete a job?",
+    "op": [
+        "Work measurement",
+        "Work sampling methods",
+        "Job design",
+        "Methods analysis"
+    ],
+    "created_at": "2026-06-28T19:10:35.229609+00:00"
+},
+{
+    "id": 23649,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Technology has impacted the work place by:",
+    "op": [
+        "Unifying the workforce to a common skill level",
+        "Increasing the amount required to be spent on training",
+        "Adding to the existing geographical barriers for recruiting",
+        "Increasing the cost of telecommuting"
+    ],
+    "created_at": "2026-06-28T19:10:48.119853+00:00"
+},
+{
+    "id": 23656,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is a disadvantage of a process layout?",
+    "op": [
+        "Minimizing material handling costs",
+        "Use of individual incentive system",
+        "Equipment utilization rate is high",
+        "A variety of processing requirements"
+    ],
+    "created_at": "2026-06-28T19:10:58.564762+00:00"
+},
+{
+    "id": 23661,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Generally most of the values in control charts fall within which range of standard deviation?",
+    "op": [
+        "+/- 1",
+        "+/- 3",
+        "+/- 4",
+        "+/- 5"
+    ],
+    "created_at": "2026-06-28T19:11:09.094711+00:00"
+},
+{
+    "id": 23665,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Six Sigma is primarily centered towards all of the following except:",
+    "op": [
+        "Cost cutting",
+        "Time saving",
+        "Quality improvement",
+        "Continuous improvement"
+    ],
+    "created_at": "2026-06-28T19:11:18.633022+00:00"
+},
+{
+    "id": 23675,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In six sigma process, ________ stage comes after the “Analyze” stage",
+    "op": [
+        "Monitor",
+        "Improve",
+        "Control",
+        "Choose"
+    ],
+    "created_at": "2026-06-28T19:11:39.51903+00:00"
+},
+{
+    "id": 23682,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All are six sigma teams except:",
+    "op": [
+        "Master \"black belts\"",
+        "Master \"green belts\"",
+        "\"Green belts\"",
+        "\"Black belts\""
+    ],
+    "created_at": "2026-06-28T19:11:47.006545+00:00"
+},
+{
+    "id": 23686,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Generally an Operations Manager should NOT inspect the process for defects_________.",
+    "op": [
+        "Before the supply of finished goods",
+        "Before a costly operation",
+        "Before purchasing raw material",
+        "Before manufacturing high volume products"
+    ],
+    "created_at": "2026-06-28T19:11:54.52922+00:00"
+},
+{
+    "id": 23692,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is a type of layout where equipment, machinery and people are moved as required?",
+    "op": [
+        "Product layout",
+        "Process layout",
+        "Hybrid layout",
+        "Fixed position layout"
+    ],
+    "created_at": "2026-06-28T19:12:04.160784+00:00"
+},
+{
+    "id": 24319,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following contributes in customer’s perception of Expected Service?",
+    "op": [
+        "After service guarantee",
+        "Service features",
+        "Past experience",
+        "Reliability of service"
+    ],
+    "created_at": "2026-06-28T19:33:54.766676+00:00"
+},
+{
+    "id": 24324,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Maintaining quality is the responsibility of ______ in the organization.",
+    "op": [
+        "Everyone",
+        "Top Management",
+        "Quality Control Department",
+        "Operations Department"
+    ],
+    "created_at": "2026-06-28T19:34:06.720406+00:00"
+},
+{
+    "id": 24331,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is TRUE about work sampling?",
+    "op": [
+        "It providing standard times for micro motions such as reach, move and release",
+        "It describes individual human motions that are used in a job task",
+        "It involves determining the amount of time a worker spends on various activities",
+        "It involves determining the length of time it will take to undertake a particular task"
+    ],
+    "created_at": "2026-06-28T19:34:16.153704+00:00"
+},
+{
+    "id": 24338,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the final inspector at an automobile paint shop discovers that the paint on the car has a poor finish, the car may have to be completely rescinded and repainted. This would result in ________ incurred.",
+    "op": [
+        "External failure cost",
+        "Appraisal cost",
+        "Prevention cost",
+        "Internal failure cost"
+    ],
+    "created_at": "2026-06-28T19:34:26.713144+00:00"
+},
+{
+    "id": 24343,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is an internal failure cost?",
+    "op": [
+        "Liability cost",
+        "Interest cost",
+        "Loss of future business cost",
+        "Rework cost"
+    ],
+    "created_at": "2026-06-28T19:34:36.018456+00:00"
+},
+{
+    "id": 24348,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____ costs are incurred if the item is routed to some previous operations to correct the defect or if the service must be performed again?",
+    "op": [
+        "Process redesigning costs",
+        "Scrapped work costs",
+        "Appraisal costs",
+        "Rework costs"
+    ],
+    "created_at": "2026-06-28T19:34:45.275653+00:00"
+},
+{
+    "id": 24352,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In _________ sampling, one random sample is drawn from each lot",
+    "op": [
+        "Double",
+        "Multiple",
+        "None of the above",
+        "Single"
+    ],
+    "created_at": "2026-06-28T19:34:52.858214+00:00"
+},
+{
+    "id": 24356,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "___________  is a mean of translating customer requirements into the appropriate technical requirements for each stage of service development",
+    "op": [
+        "Robustness",
+        "Quality function development",
+        "Poka-Yoke",
+        "Quality function deployment"
+    ],
+    "created_at": "2026-06-28T19:35:00.090743+00:00"
+},
+{
+    "id": 24360,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Ali got his mobile repaired from UNITED MOBILES which was situated very near to his home. Which dimension of service quality is referred in this example?",
+    "op": [
+        "Responsiveness",
+        "Reliability",
+        "Assurance",
+        "Convenience"
+    ],
+    "created_at": "2026-06-28T19:35:09.330444+00:00"
+},
+{
+    "id": 24599,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Assembly lines relate most closely to a:",
+    "op": [
+        "Functional layout",
+        "Process layout",
+        "Product layout",
+        "Departmental layout"
+    ],
+    "created_at": "2026-06-28T19:53:50.724822+00:00"
+},
+{
+    "id": 24604,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following layout type is associated with a supermarket?",
+    "op": [
+        "Product layout",
+        "Fixed Position layout",
+        "Process layout",
+        "Cellular layout"
+    ],
+    "created_at": "2026-06-28T19:54:28.614027+00:00"
+},
+{
+    "id": 24612,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In statistical process control, some tools are used primarily to detect production of defective products / services or process changes. What those tools are known as?",
+    "op": [
+        "Regression charts",
+        "Control charts",
+        "Pareto charts",
+        "Histograms"
+    ],
+    "created_at": "2026-06-28T19:55:09.843526+00:00"
+},
+{
+    "id": 24710,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Reliability and safety of service is ensured through which of the following?",
+    "op": [
+        "Quality in design",
+        "Quality in equipment",
+        "Quality in system",
+        "Quality in training"
+    ],
+    "created_at": "2026-06-28T20:05:12.805132+00:00"
+},
+{
+    "id": 24715,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The disadvantages of specialization to management include all of the following EXCEPT:",
+    "op": [
+        "More difficult to teach the job",
+        "Minimum responsibility",
+        "More absenteeism",
+        "More turnover"
+    ],
+    "created_at": "2026-06-28T20:06:17.070264+00:00"
+},
+{
+    "id": 24717,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Increase in inspection results in the increase of which cost?",
+    "op": [
+        "Appraisal costs",
+        "Rework costs",
+        "Inspection costs",
+        "Prevention costs"
+    ],
+    "created_at": "2026-06-28T20:06:56.707464+00:00"
+},
+{
+    "id": 24723,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is not a Dimension of Quality",
+    "op": [
+        "Special Features",
+        "Size & Shape",
+        "Perceived Quality",
+        "Durability"
+    ],
+    "created_at": "2026-06-28T20:07:30.470278+00:00"
+},
+{
+    "id": 24764,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is the first step in line balancing?",
+    "op": [
+        "Determine the required cycle time.",
+        "Specify the sequential relationship among tasks.",
+        "Determine the minimum number of workstations.",
+        "Determine the desired output"
+    ],
+    "created_at": "2026-06-28T20:13:34.498782+00:00"
+},
+{
+    "id": 24767,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which stage comes after the “compare” stage of control process?",
+    "op": [
+        "Correct",
+        "Monitor",
+        "Evaluate",
+        "Measure"
+    ],
+    "created_at": "2026-06-28T20:13:45.416659+00:00"
+},
+{
+    "id": 24776,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Averages of accepted and rejected batches in operating curve is known as__________.",
+    "op": [
+        "Average lot tolerance percent defective",
+        "Average acceptance quality level",
+        "Average outgoing quality limit",
+        "Average outgoing quality"
+    ],
+    "created_at": "2026-06-28T20:14:13.623794+00:00"
+},
+{
+    "id": 24784,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Who emphasized quality in terms of inspection and gauging?",
+    "op": [
+        "F.W. Taylor",
+        "G.S. Radford",
+        "W.E. Demig",
+        "W. Shewhart"
+    ],
+    "created_at": "2026-06-28T20:14:40.451091+00:00"
+},
+{
+    "id": 24787,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "An operations manager of milling plant is facing a decline in the number of scrapped units at a milling machine. This change in process can be detected by which of the following?",
+    "op": [
+        "None of the above",
+        "Six sigma",
+        "Statistical process control",
+        "Inspection process"
+    ],
+    "created_at": "2026-06-28T20:14:52.034665+00:00"
+},
+{
+    "id": 24789,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "ABC Freight Company is overflowed with customer complaints of poor quality services. To achieve quality in the services being provided, managers can make use of which of the following strategy?",
+    "op": [
+        "Statistical process control strategy",
+        "Service differentiation strategy",
+        "Conditional service guarantee strategy",
+        "Cost leadership strategy"
+    ],
+    "created_at": "2026-06-28T20:14:59.934444+00:00"
+},
+{
+    "id": 24793,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statements is not true while comparing Quality Assurance with Strategic Approach?",
+    "op": [
+        "Strategic Approach is the superlative form of Quality Assurance",
+        "Strategic Approach is proactive rather than reactive",
+        "Quality Assurance places emphasis on finding and correcting defects before reaching market",
+        "Strategic Approach is reactive while Quality Assurance is a proactive approach"
+    ],
+    "created_at": "2026-06-28T20:15:08.216846+00:00"
+},
+{
+    "id": 24795,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A digital camera assured to work accurately up to the specified period of time is an example of which of the following?",
+    "op": [
+        "Aesthetics",
+        "Durability",
+        "Reliability",
+        "Safety"
+    ],
+    "created_at": "2026-06-28T20:15:18.342746+00:00"
+},
+{
+    "id": 25334,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is an example of regional factors that affect location decisions?",
+    "op": [
+        "Location of new markets",
+        "Transportation",
+        "Quality of life",
+        "Development support"
+    ],
+    "created_at": "2026-06-28T23:42:28.488206+00:00"
+},
+{
+    "id": 25335,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which of the following layouts, work stations are arranged according to the general function they perform without regard to any particular product?",
+    "op": [
+        "Process",
+        "Fixed-position",
+        "Product",
+        "Storage"
+    ],
+    "created_at": "2026-06-28T23:42:39.116646+00:00"
+},
+{
+    "id": 25336,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The formula for determining the required cycle time is operation time per day divided by:",
+    "op": [
+        "Desired output (in units)",
+        "Sum of task times",
+        "Number of workstation",
+        "Actual output per day (in units)"
+    ],
+    "created_at": "2026-06-28T23:42:46.447768+00:00"
+},
+{
+    "id": 25337,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is the focus of predetermined motion time system?",
+    "op": [
+        "Providing standard times for micro motions such as reach, move and release",
+        "Determining the amount of time a worker spends on various activities",
+        "Individual human motions that are used in a job task",
+        "Determining the length of time it will take to undertake a particular task"
+    ],
+    "created_at": "2026-06-28T23:42:55.452084+00:00"
+},
+{
+    "id": 25338,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ costs are incurred in assessing the level of quality attained by the operating system.",
+    "op": [
+        "Failure",
+        "Appraisal",
+        "Operating",
+        "Prevention"
+    ],
+    "created_at": "2026-06-28T23:43:03.14556+00:00"
+},
+{
+    "id": 25339,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following location alternative is suitable to attract more customers for retail business?",
+    "op": [
+        "To do nothing",
+        "To expand the existing facility",
+        "To shift to a new location while shutting down the previous",
+        "To add new locations while retaining the existing ones"
+    ],
+    "created_at": "2026-06-28T23:43:24.117958+00:00"
+},
+{
+    "id": 25340,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "External failure cost also includes:",
+    "op": [
+        "Process redesigning costs",
+        "Rework costs",
+        "Litigation costs",
+        "Employee training costs"
+    ],
+    "created_at": "2026-06-28T23:43:32.354365+00:00"
+},
+{
+    "id": 25341,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "ISO 9000 actually consists of how many documents?",
+    "op": [
+        "Seven",
+        "Six",
+        "Five",
+        "Four"
+    ],
+    "created_at": "2026-06-28T23:43:40.05758+00:00"
+},
+{
+    "id": 25438,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "\"Plan, Do, Check and Act\" concept was first introduced by:",
+    "op": [
+        "Joseph Juran",
+        "Walter Shewhart",
+        "Philip Crossby",
+        "Edward Deming"
+    ],
+    "created_at": "2026-06-29T00:31:43.963059+00:00"
+},
+{
+    "id": 25439,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "XYZ organization is ISO 9000 certified. It now requires a plan to improve performance in resource use and pollutant output. For this, the organization requires certification of __________.",
+    "op": [
+        "None of the above",
+        "ISO 14000",
+        "ISO 9004",
+        "ISO 9003"
+    ],
+    "created_at": "2026-06-29T00:32:43.963427+00:00"
+},
+{
+    "id": 25440,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What are the chances of the batch containing defect exceeding LTPD will be accepted is known as?",
+    "op": [
+        "Acceptance risk",
+        "Consumer risk",
+        "None of the above mentioned",
+        "Producer risk"
+    ],
+    "created_at": "2026-06-29T00:33:35.827783+00:00"
+},
+{
+    "id": 25442,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is a time ordered diagram that is used to determine whether observed variations are abnormal?",
+    "op": [
+        "Pareto charts",
+        "Control charts",
+        "Histograms",
+        "Scatter diagram"
+    ],
+    "created_at": "2026-06-29T00:34:38.412116+00:00"
+},
+{
+    "id": 25446,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Operations management of XYZ accepts and rejects the batches of items on the basis of predetermined standards. This technique is known as____________",
+    "op": [
+        "Acceptance sampling",
+        "Rejection sampling",
+        "None of the above",
+        "Multiple sampling"
+    ],
+    "created_at": "2026-06-29T00:35:16.036688+00:00"
+},
+{
+    "id": 25562,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following mathematical expressions can be used to compute output capacity?",
+    "op": [
+        "CT/OT",
+        "CT-OT",
+        "OT/CT",
+        "CT+OT"
+    ],
+    "created_at": "2026-06-29T01:56:24.835031+00:00"
+},
+{
+    "id": 25563,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is determined by the Lot Tolerance Percent Defective?",
+    "op": [
+        "The upper limit on the percent of defects that the consumer is willing to accept",
+        "The middle limit on the percent of defects that the consumer is willing to accept",
+        "The lower limit on the percent of defects that the consumer is willing to accept",
+        "The total percent of defects that the consumer is willing to accept"
+    ],
+    "created_at": "2026-06-29T01:56:57.877089+00:00"
+},
+{
+    "id": 25566,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The relationship between quality and probability of acceptance is:",
+    "op": [
+        "Directly proportional",
+        "Not linear",
+        "Inversely proportional",
+        "Linear"
+    ],
+    "created_at": "2026-06-29T01:57:04.851553+00:00"
+},
+{
+    "id": 25567,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Who introduced the use of statistical control charts to Japanese manufacturers?",
+    "op": [
+        "Joseph Juran",
+        "Philip Crosby",
+        "Kaoru Ishikawa",
+        "Edwards Deming"
+    ],
+    "created_at": "2026-06-29T01:57:12.630704+00:00"
+},
+{
+    "id": 25888,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "As preventive measures improve quality, _______ costs decreases.",
+    "op": [
+        "Operating",
+        "Failure",
+        "Opportunity",
+        "Appraisal"
+    ],
+    "created_at": "2026-06-29T03:23:01.872231+00:00"
+},
+{
+    "id": 25890,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is the goal of method analysis?",
+    "op": [
+        "Determining the amount of time a worker spends on various activities",
+        "Check individual human motions used to perform an operation",
+        "Dividing and analyzing a job",
+        "Determining the length of time it will take to undertake a particular task"
+    ],
+    "created_at": "2026-06-29T03:23:22.767693+00:00"
+},
+{
+    "id": 25894,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the costs of inspection are higher than costs of obtaining the sample ____________ sampling should be used?",
+    "op": [
+        "Random",
+        "Double",
+        "Single",
+        "Multiple"
+    ],
+    "created_at": "2026-06-29T03:23:43.699094+00:00"
+},
+{
+    "id": 25897,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is the correct order of layout types from low volume/high variety to high volume/low variety?",
+    "op": [
+        "Fixed position, process, cell, product",
+        "Process, fixed position, cell, product",
+        "Fixed position, process, product, cell",
+        "Fixed position, cell, process, product"
+    ],
+    "created_at": "2026-06-29T03:24:00.267905+00:00"
+},
+{
+    "id": 25898,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one the following is an assumption of center of gravity method?",
+    "op": [
+        "The quantity to be shipped should be extraordinarily high",
+        "The quantity to be shipped is fixed",
+        "The quantity carries no value",
+        "The quantity to be shipped is variable"
+    ],
+    "created_at": "2026-06-29T03:24:16.169627+00:00"
+},
+{
+    "id": 25900,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is an example of site related factors that affect location decision?",
+    "op": [
+        "Quality of life",
+        "Location of new markets",
+        "Location of raw materials",
+        "Transportation"
+    ],
+    "created_at": "2026-06-29T03:24:26.170294+00:00"
+},
+{
+    "id": 25905,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "ABC Company practices Six Sigma approach in its manufacturing. The company might have implemented this approach in how many stages?",
+    "op": [
+        "Five",
+        "Seven",
+        "Ten",
+        "Eleven"
+    ],
+    "created_at": "2026-06-29T03:25:10.26678+00:00"
+},
+{
+    "id": 25976,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Ali dialed Customer Service Representative of WARID who very friendly and sociably responded his queries. Which dimension of service quality is referred to in this example.",
+    "op": [
+        "Convenience",
+        "Responsiveness",
+        "Reliability",
+        "Courtesy"
+    ],
+    "created_at": "2026-06-29T03:45:53.850662+00:00"
+},
+{
+    "id": 25977,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is NOT a characteristic of product layouts?",
+    "op": [
+        "Standardized output",
+        "Continuous production system",
+        "Sequential arrangement of machines",
+        "High material handling costs"
+    ],
+    "created_at": "2026-06-29T03:46:20.417338+00:00"
+},
+{
+    "id": 25978,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In TQM, appearance, style, durability, reliability, craftsmanship and serviceability comes under which determinant of quality?",
+    "op": [
+        "Quality of conformance",
+        "Quality of service after delivery",
+        "Quality of design",
+        "Quality of fitness for use"
+    ],
+    "created_at": "2026-06-29T03:46:32.503935+00:00"
+},
+{
+    "id": 25981,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which chart is used for controlling the proportion of defective products / service generated by the process?",
+    "op": [
+        "X- chart",
+        "R-chart",
+        "p-chart",
+        "c-chart"
+    ],
+    "created_at": "2026-06-29T03:46:45.953412+00:00"
+},
+{
+    "id": 25983,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following department is responsible for measuring costs of poor quality?",
+    "op": [
+        "Finance department",
+        "Operations department",
+        "Accounting department",
+        "Quality control department"
+    ],
+    "created_at": "2026-06-29T03:47:47.89549+00:00"
+},
+{
+    "id": 26039,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "________ method of evaluation of quality allows the inspectors to make decisions about whether a product / service meets the specifications?",
+    "op": [
+        "Measuring variables",
+        "Measuring dimensions",
+        "None of the above",
+        "Measuring attributes"
+    ],
+    "created_at": "2026-06-29T04:07:09.687398+00:00"
+},
+{
+    "id": 26042,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which stage of PDCA cycle, team documents the Revised Process?",
+    "op": [
+        "Do",
+        "Act",
+        "Check",
+        "Plan"
+    ],
+    "created_at": "2026-06-29T04:07:20.802611+00:00"
+},
+{
+    "id": 26043,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Who introduced the use of statistical control charts for monitoring production?",
+    "op": [
+        "W. Shewhart",
+        "G.S. Radford",
+        "K.Ishikawa",
+        "F.W. Taylor"
+    ],
+    "created_at": "2026-06-29T04:07:39.535649+00:00"
+},
+{
+    "id": 26045,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Quality control is concerned with:",
+    "op": [
+        "Quality development",
+        "Quality deployment",
+        "Quality of conformance of the process",
+        "Quality of design of process"
+    ],
+    "created_at": "2026-06-29T04:08:05.783291+00:00"
+},
+{
+    "id": 26099,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "All of the following are dimensions of service quality Except:",
+    "op": [
+        "Responsiveness",
+        "Intangibles",
+        "Assurance",
+        "Reliability"
+    ],
+    "created_at": "2026-06-29T04:21:50.890854+00:00"
+},
+{
+    "id": 26103,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "TQM is being criticized on the basis of factors which show:",
+    "op": [
+        "Strong implementation of TQM practices or weak management perspective",
+        "Weak implementation of TQM practices or strong management perspective",
+        "Weak implementation of TQM practices or weak management perspective",
+        "Strong implementation of TQM practices or strong management perspective"
+    ],
+    "created_at": "2026-06-29T04:22:22.616091+00:00"
+},
+{
+    "id": 26106,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ is central to the philosophy of continuous improvement:",
+    "op": [
+        "Employee involvement",
+        "Organization’s operations",
+        "Problem solving",
+        "Management involvement"
+    ],
+    "created_at": "2026-06-29T04:22:42.953393+00:00"
+},
+{
+    "id": 26156,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A double sampling plan specifies all of the following Except",
+    "op": [
+        "Size of the initial sample",
+        "Lot size",
+        "Size of second sample",
+        "Double acceptance number"
+    ],
+    "created_at": "2026-06-29T04:32:48.295391+00:00"
+},
+{
+    "id": 26158,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "If the products and services match up with the designer’s specifications, then which quality perspective of TQM is met?",
+    "op": [
+        "Quality of service after delivery",
+        "Quality of conformance",
+        "Quality of use",
+        "Quality of design"
+    ],
+    "created_at": "2026-06-29T04:34:23.75078+00:00"
+},
+{
+    "id": 26159,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Often the managers and employees have _________ centered appraoch towards their business",
+    "op": [
+        "Management",
+        "Product / service",
+        "Customer",
+        "Process"
+    ],
+    "created_at": "2026-06-29T04:34:35.908642+00:00"
+},
+{
+    "id": 26160,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following layout type is associated with a restaurant?",
+    "op": [
+        "Hybrid layout",
+        "Process  layout",
+        "Fixed position layout",
+        "Product layout"
+    ],
+    "created_at": "2026-06-29T04:34:58.148316+00:00"
+},
+{
+    "id": 26168,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A machine that fills cereal boxes will not put exactly the same amount of cereal in each box by a small fraction. This is because of which of the following variation?",
+    "op": [
+        "Assignable cause",
+        "None of the above",
+        "Special cause",
+        "Common cause"
+    ],
+    "created_at": "2026-06-29T04:42:15.073446+00:00"
+},
+{
+    "id": 26252,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following is a key benefit of process plant strategy?",
+    "op": [
+        "Diseconomies of scale",
+        "Economies of scale",
+        "Product variety",
+        "Task specialization"
+    ],
+    "created_at": "2026-06-29T05:07:12.743177+00:00"
+},
+{
+    "id": 26254,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The chances of the batch containing acceptable level of quality will be rejected is known as?",
+    "op": [
+        "Rejection risk",
+        "Consumer risk",
+        "Acceptance risk",
+        "Producer’s risk"
+    ],
+    "created_at": "2026-06-29T05:07:37.563321+00:00"
+},
+{
+    "id": 26345,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "According to Total Quality Management approach, ____________ is responsible for process design.",
+    "op": [
+        "Research and Development department",
+        "Design department",
+        "Logistic department",
+        "Operations department"
+    ],
+    "created_at": "2026-06-29T05:40:20.019772+00:00"
+},
+{
+    "id": 26346,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Mismatch between manager’s expectations of service quality and service quality specifications comes in gap ________",
+    "op": [
+        "3",
+        "4",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-29T05:40:39.294093+00:00"
+},
+{
+    "id": 26398,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following statements is NOT correct about cycle time?",
+    "op": [
+        "It represents daily operating time divided by desired production",
+        "It determines the time often items take to roll off in assembly line",
+        "It is the maximum allowable time at each work station",
+        "It is the time required to complete a product from start to finish"
+    ],
+    "created_at": "2026-06-29T05:51:11.173147+00:00"
+},
+{
+    "id": 26409,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Improper quality inspection process is doomed of failure because of:",
+    "op": [
+        "Quality costs",
+        "Prevention costs",
+        "Appraisal costs",
+        "Internal and external failure costs"
+    ],
+    "created_at": "2026-06-29T05:54:59.127365+00:00"
+},
+{
+    "id": 26411,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is NOT an emerging trend in the workplace?",
+    "op": [
+        "Increasing use of temporary labor",
+        "Increasing number of part time jobs",
+        "Decreasing work schedule flexibility",
+        "Increasing workplace diversity"
+    ],
+    "created_at": "2026-06-29T05:55:55.471062+00:00"
+},
+{
+    "id": 26435,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Management of ABC service providing organization wants to improve the gap between manager’s expectations of service quality and its specifications. For removing this difference; what the managers are supposed to do first?",
+    "op": [
+        "Customer’s perception of service should be determined",
+        "Customer’s needs and wants should be determined",
+        "Marketability of service should be determined",
+        "Quality of service should be determined"
+    ],
+    "created_at": "2026-06-29T06:02:08.385884+00:00"
+},
+{
+    "id": 26437,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "__________ is a set of standards governing documentation of a quality program",
+    "op": [
+        "ISO 9000",
+        "ISO 9004",
+        "ISO 14000",
+        "ISO 9002"
+    ],
+    "created_at": "2026-06-29T06:02:11.035646+00:00"
+},
+{
+    "id": 26440,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "ABC organization, actively engaged in continuous improvements, trains its work teams to use the PDCA for problem solving. The documentation of process by analyzing data, setting of qualitative goals comes in which of the following stage of PDCA?",
+    "op": [
+        "Act",
+        "Check",
+        "Plan",
+        "Do"
+    ],
+    "created_at": "2026-06-29T06:02:32.812562+00:00"
+},
+{
+    "id": 26443,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In SERVQUAL model, all of the following makes sure that no gap exists between the service provided and service demanded Except:",
+    "op": [
+        "Well trained workforce",
+        "Service quality",
+        "Communication with customers",
+        "System design"
+    ],
+    "created_at": "2026-06-29T06:03:10.771862+00:00"
+},
+{
+    "id": 26446,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following refers to a team having representatives from different functional areas of the organization?",
+    "op": [
+        "Self-directed team",
+        "Self motivated team",
+        "Cross-functional team",
+        "Traditional work group"
+    ],
+    "created_at": "2026-06-29T06:03:31.974514+00:00"
+},
+{
+    "id": 26447,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Seagate, a disk driver manufacturer advertises that its high performance disk drivers have a mean time failure of 1.2 million hours. If the disk lived upto that claim, it would come under which TQM customer driven dimension of quality?",
+    "op": [
+        "Value",
+        "Conformance to specification",
+        "Quality in design",
+        "Fitness for use"
+    ],
+    "created_at": "2026-06-29T06:03:41.163654+00:00"
+},
+{
+    "id": 26483,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following location strategies follows a decentralized approach?",
+    "op": [
+        "Cost conservation strategy",
+        "Process plant strategy",
+        "Product plant strategy",
+        "Market area plant strategy"
+    ],
+    "created_at": "2026-06-29T06:21:12.422965+00:00"
+},
+{
+    "id": 26493,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "_____ is most limited in scope and address production processes only",
+    "op": [
+        "ISO 9003",
+        "ISO 14000",
+        "ISO 9004",
+        "ISO 9001"
+    ],
+    "created_at": "2026-06-29T06:23:01.655209+00:00"
+},
+{
+    "id": 26502,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The advantages of specialization to management include all of the following EXCEPT:",
+    "op": [
+        "Ease in recruiting new workers",
+        "Less boredom for workers",
+        "Fewer turnovers",
+        "Rapid training of the workforce"
+    ],
+    "created_at": "2026-06-29T06:28:21.707005+00:00"
+},
+{
+    "id": 26505,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "In which of the following approaches location decision is based on personal opinions and quantitative information?",
+    "op": [
+        "Market area plant strategy",
+        "Currency fluctuations",
+        "Factor rating",
+        "Product plant strategy"
+    ],
+    "created_at": "2026-06-29T06:29:15.777238+00:00"
+},
+{
+    "id": 26580,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which one of the following layout type is also called line layout?",
+    "op": [
+        "Fixed Position layout",
+        "Product layout",
+        "Cellular layout",
+        "Process layout"
+    ],
+    "created_at": "2026-06-29T07:04:15.440267+00:00"
+},
+{
+    "id": 26682,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is NOT a mark of a good layout in manufacturing?",
+    "op": [
+        "Open plant floors (high visibility)",
+        "Straight line flow patter (or adaption)",
+        "Bottleneck operations",
+        "Work stations close together"
+    ],
+    "created_at": "2026-06-29T07:48:05.126086+00:00"
+},
+{
+    "id": 26728,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is a difference of service organizations as compared to manufacturing organizations?",
+    "op": [
+        "Service firms are more flexible then manufacturing organizations",
+        "Manufacturing decisions are made by maximizing the profit potential",
+        "Manufacturing organization are more specialized then service organizations",
+        "Manufacturing firms have more variety then service organizations."
+    ],
+    "created_at": "2026-06-29T08:45:14.688967+00:00"
+},
+{
+    "id": 26829,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is NOT a dimension of quality that makes a company competitive?",
+    "op": [
+        "Special features",
+        "Reliability",
+        "Performance",
+        "Leadership"
+    ],
+    "created_at": "2026-06-29T09:44:26.66064+00:00"
+},
+{
+    "id": 27496,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Which one of the following is the goal of work sampling?",
+    "op": [
+        "Specifying the content and methods to perform a job",
+        "Individual human motions that are used in a job task",
+        "Determining the length of time it will take to undertake a particular task",
+        "Determining the amount of time a worker spends on various activities"
+    ],
+    "created_at": "2026-06-29T19:12:34.457529+00:00"
+},
+{
+    "id": 45210,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Ali dialed Customer Service Representative of WARID who very friendly and sociably responded his queries. Which dimension of service quality is referred to in this example.",
+    "op": [
+        "Responsiveness",
+        "Convenience",
+        "Reliability",
+        "Courtesy"
+    ],
+    "created_at": "2026-07-01T12:41:59.979114+00:00"
+},
+{
+    "id": 45211,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is an internal failure cost?",
+    "op": [
+        "Interest cost",
+        "Rework cost",
+        "Loss of future business cost",
+        "Liability cost"
+    ],
+    "created_at": "2026-07-01T12:42:25.045148+00:00"
+},
+{
+    "id": 45212,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A machine that fills cereal boxes put more cereal than planned in cereal boxes by large fraction. This is because of which of the following variation?",
+    "op": [
+        "None of the above",
+        "Random cause",
+        "Common cause",
+        "Special cause"
+    ],
+    "created_at": "2026-07-01T12:42:37.861747+00:00"
+},
+{
+    "id": 45213,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "All of the following are dimensions of service quality Except:",
+    "op": [
+        "Intangibles",
+        "Reliability",
+        "Assurance",
+        "Responsiveness"
+    ],
+    "created_at": "2026-07-01T12:42:47.977326+00:00"
+},
+{
+    "id": 45214,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the focus of predetermined motion time system?",
+    "op": [
+        "Determining the length of time it will take to undertake a particular task",
+        "Individual human motions that are used in a job task",
+        "Determining the amount of time a worker spends on various activities",
+        "Providing standard times for micro motions such as reach, move and release"
+    ],
+    "created_at": "2026-07-01T12:42:56.69449+00:00"
+},
+{
+    "id": 45215,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "An operations manager of milling plant is facing a decline in the number of scrapped units at a milling machine. This change in process can be detected by which of the following?",
+    "op": [
+        "Six sigma",
+        "Inspection process",
+        "None of the above",
+        "Statistical process control"
+    ],
+    "created_at": "2026-07-01T12:43:05.339815+00:00"
+},
+{
+    "id": 45216,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Generally an Operations Manager should NOT inspect the process for defects_________.",
+    "op": [
+        "Before manufacturing high volume products",
+        "Before purchasing raw material",
+        "Before the supply of finished goods",
+        "Before a costly operation"
+    ],
+    "created_at": "2026-07-01T12:43:18.345464+00:00"
+},
+{
+    "id": 45217,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "___________  is a mean of translating customer requirements into the appropriate technical requirements for each stage of service development",
+    "op": [
+        "Quality function development",
+        "Robustness",
+        "Poka-Yoke",
+        "Quality function deployment"
+    ],
+    "created_at": "2026-07-01T12:43:28.433621+00:00"
+},
+{
+    "id": 45218,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following statements is NOT correct about cycle time?",
+    "op": [
+        "It represents daily operating time divided by desired production",
+        "It determines the time often items take to roll off in assembly line",
+        "It is the time required to complete a product from start to finish",
+        "It is the maximum allowable time at each work station"
+    ],
+    "created_at": "2026-07-01T12:43:38.907299+00:00"
+},
+{
+    "id": 45219,
+    "cc": "MGT613",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Who introduced the use of statistical control charts to Japanese manufacturers?",
+    "op": [
+        "Philip Crosby",
+        "Joseph Juran",
+        "Edwards Deming",
+        "Kaoru Ishikawa"
+    ],
+    "created_at": "2026-07-01T12:43:49.753371+00:00"
+},
+{
+    "id": 54808,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Among the following which one is a JIT scheduling tactic?",
+    "op": [
+        "Produce in large batches",
+        "Move goods through the plant in larger batches but produce them in small batches",
+        "Level schedules",
+        "Use the same purchase order form with each order that is placed"
+    ],
+    "created_at": "2026-07-06T19:10:10.313613+00:00"
+},
+{
+    "id": 54813,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Partially completed units within a production system are known as:",
+    "op": [
+        "Economic order quantity",
+        "Work-in-process",
+        "Safety stock",
+        "Units-in-order"
+    ],
+    "created_at": "2026-07-06T19:10:29.554963+00:00"
+},
+{
+    "id": 54816,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Refer to the percentage of items in group 'C' of ABC classification system for inventory management.",
+    "op": [
+        "30%",
+        "20%",
+        "10%",
+        "70%"
+    ],
+    "created_at": "2026-07-06T19:10:47.576233+00:00"
+},
+{
+    "id": 54821,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following refers to the costs of carrying an item in inventory for a specific period of time?",
+    "op": [
+        "Shortage cost",
+        "Ordering cost",
+        "Stock out cost",
+        "Holding cost"
+    ],
+    "created_at": "2026-07-06T19:11:09.522302+00:00"
+},
+{
+    "id": 54835,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is a schedule that specifies the timing and size of production quantities for product in the product families?",
+    "op": [
+        "Master production scheduling",
+        "Aggregate plan",
+        "None of the above",
+        "Inventory management scheduling"
+    ],
+    "created_at": "2026-07-06T19:11:46.504518+00:00"
+},
+{
+    "id": 54856,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is NOT considered while calculating the safety stock level?",
+    "op": [
+        "Holding cost",
+        "Demand variation",
+        "Order level",
+        "Stock-out cost"
+    ],
+    "created_at": "2026-07-06T19:13:52.334571+00:00"
+},
+{
+    "id": 54860,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "MRP system that offers feedback to the capacity plan, master production schedule, and production plans is known as",
+    "op": [
+        "Bills of materials",
+        "Closed-loop MRP",
+        "Load report",
+        "Lot sizing"
+    ],
+    "created_at": "2026-07-06T19:14:15.168096+00:00"
+},
+{
+    "id": 54869,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Record of quantities of ingredients, components, and materials that is required to produce a product is called",
+    "op": [
+        "Purchase order",
+        "Load reports",
+        "Bill of materials",
+        "Master schedule"
+    ],
+    "created_at": "2026-07-06T19:15:07.69779+00:00"
+},
+{
+    "id": 54874,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Demand options are focused on which of the following?",
+    "op": [
+        "Backorders",
+        "Matching demand period by period",
+        "Subcontracting",
+        "Hiring / layoff options"
+    ],
+    "created_at": "2026-07-06T19:15:30.482073+00:00"
+},
+{
+    "id": 55030,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Report that demonstrates the resource requirements of a manufacturing unit for all presently allocated work as well as all planned and expected orders is a",
+    "op": [
+        "ERP",
+        "Closed loop report",
+        "Load report",
+        "MRP II report"
+    ],
+    "created_at": "2026-07-06T19:26:39.507966+00:00"
+},
+{
+    "id": 55035,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Cycle time for the economic run size is a function of which of the following?",
+    "op": [
+        "Run time and usage rate",
+        "Run time and production rate",
+        "Run size and production rate",
+        "Run size and usage rate"
+    ],
+    "created_at": "2026-07-06T19:26:56.345058+00:00"
+},
+{
+    "id": 55039,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is a computerized info system developed specifically to aid in managing dependent demand inventory and scheduling replenishment orders.",
+    "op": [
+        "Material Requirements Planning",
+        "Master Production Schedule",
+        "Inventory Management Schedule",
+        "Material Replenishment Planning"
+    ],
+    "created_at": "2026-07-06T19:27:10.663424+00:00"
+},
+{
+    "id": 55043,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following refers to the costs incurred to get the equipment ready for the next job?",
+    "op": [
+        "Ordering cost",
+        "Holding cost",
+        "Setup cost",
+        "Shortage cost"
+    ],
+    "created_at": "2026-07-06T19:27:24.021059+00:00"
+},
+{
+    "id": 55048,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "To meet JIT objectives, the process relies on ________between different points in the process.",
+    "op": [
+        "JIT planning",
+        "Signals or kanban",
+        "Continuous improvement",
+        "Variability increase"
+    ],
+    "created_at": "2026-07-06T19:27:36.576814+00:00"
+},
+{
+    "id": 55052,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Under which of the following, the lot size order covers the gross requirements of a single week?",
+    "op": [
+        "Economic order quantity model",
+        "Part period model",
+        "Lot for lot ordering",
+        "Fixed period ordering"
+    ],
+    "created_at": "2026-07-06T19:27:49.312241+00:00"
+},
+{
+    "id": 55055,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Planning is much easier and flexible in which of the following?",
+    "op": [
+        "Production",
+        "Research and development",
+        "Manufacturing",
+        "Services"
+    ],
+    "created_at": "2026-07-06T19:28:02.809776+00:00"
+},
+{
+    "id": 55065,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following denotes EOQ?",
+    "op": [
+        "Economic Output Quantity",
+        "Equal Order Quantity",
+        "Economic Order Quantity",
+        "Equal Output Quantity"
+    ],
+    "created_at": "2026-07-06T19:28:32.59232+00:00"
+},
+{
+    "id": 55070,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "“Minimize resources needed for Design and Manufacturing” This statement can be categorized among the goals of:",
+    "op": [
+        "Employee motivation",
+        "Re engineering",
+        "JIT system",
+        "Strategic Manufacturing"
+    ],
+    "created_at": "2026-07-06T19:28:45.91131+00:00"
+},
+{
+    "id": 55450,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Lot sizing technique that produces exactly what was required to meet the plan is",
+    "op": [
+        "Bills of materials",
+        "Lot for lot",
+        "EOQ",
+        "Part period balancing"
+    ],
+    "created_at": "2026-07-07T00:21:50.451123+00:00"
+},
+{
+    "id": 55451,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is the cost of holding inventory for some specific time?",
+    "op": [
+        "Shrinkage cost",
+        "Ordering cost",
+        "Carrying cost",
+        "Inventory cost"
+    ],
+    "created_at": "2026-07-07T00:21:50.55946+00:00"
+},
+{
+    "id": 55452,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is an example of a short range plan?",
+    "op": [
+        "Facilities layout",
+        "Back order",
+        "Product design",
+        "Machine loading"
+    ],
+    "created_at": "2026-07-07T00:22:03.72009+00:00"
+},
+{
+    "id": 55453,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following time fences in a Master Production Schedule (MPS) allows many variations in products with multiple changes?",
+    "op": [
+        "Moderately firm time fence",
+        "Fixed time fence",
+        "Flexible time fence",
+        "Frozen time fence"
+    ],
+    "created_at": "2026-07-07T00:22:25.203867+00:00"
+},
+{
+    "id": 55454,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "JIT is a philosophy of continuous improvement that puts emphasis on prevention rather than:",
+    "op": [
+        "All of the given",
+        "Correction",
+        "Employee motivation",
+        "Manufacturing"
+    ],
+    "created_at": "2026-07-07T00:22:32.491109+00:00"
+},
+{
+    "id": 55455,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following shows the quality and timing of specific end items for a scheduled horizon?",
+    "op": [
+        "Aggregate plan",
+        "Simulation model",
+        "Critical path model",
+        "Master schedule"
+    ],
+    "created_at": "2026-07-07T00:22:43.07499+00:00"
+},
+{
+    "id": 55456,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The main elements of JIT comprises of:",
+    "op": [
+        "Continuous improvement",
+        "Set-up time reduction",
+        "Eliminating waste",
+        "All of the given"
+    ],
+    "created_at": "2026-07-07T00:22:48.444476+00:00"
+},
+{
+    "id": 55457,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Changes made in ____ phase of MPS can be most disruptive",
+    "op": [
+        "3rd",
+        "4th",
+        "2nd",
+        "1st"
+    ],
+    "created_at": "2026-07-07T00:22:58.772814+00:00"
+},
+{
+    "id": 55458,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is a benefit of ERP?",
+    "op": [
+        "ERP is very inexpensive to purchase",
+        "ERP creates commonality of databases",
+        "ERP requires major changes to the company and its processes",
+        "ERP is simple enough that companies have an easy time adjusting to it"
+    ],
+    "created_at": "2026-07-07T00:23:11.523206+00:00"
+},
+{
+    "id": 55459,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is a formula to compute annual carrying cost?",
+    "op": [
+        "(Q+2)H",
+        "(Q-2)H",
+        "(Q/2)H",
+        "(Q×2)/H"
+    ],
+    "created_at": "2026-07-07T00:23:13.752655+00:00"
+},
+{
+    "id": 55460,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is one of the two relevant costs in Economic Order Quantity Model?",
+    "op": [
+        "Annual inventory holding cost",
+        "Opportunity cost",
+        "Shrinkage cost",
+        "Shortage costs"
+    ],
+    "created_at": "2026-07-07T00:23:35.011841+00:00"
+},
+{
+    "id": 55461,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "For production plans, the demand requirement represents the demand for _________________?",
+    "op": [
+        "Inventory",
+        "Finished goods",
+        "Work in process",
+        "Raw material"
+    ],
+    "created_at": "2026-07-07T00:23:35.983202+00:00"
+},
+{
+    "id": 55462,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the followings can be categorized in the properties of single card kanban system?",
+    "op": [
+        "Containers cannot be moved without a kanban and it should contain the same number of parts.",
+        "Assembly always withdraws from fabrication (pull system).",
+        "All of the given",
+        "Each container must have a card."
+    ],
+    "created_at": "2026-07-07T00:23:51.068651+00:00"
+},
+{
+    "id": 55463,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is an example of an intermediate range plan?",
+    "op": [
+        "Machine loading",
+        "Facilities layout",
+        "Product design",
+        "Backorder"
+    ],
+    "created_at": "2026-07-07T00:23:52.76446+00:00"
+},
+{
+    "id": 55464,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The main results that can be achieved from the implementation of JIT system are:",
+    "op": [
+        "Lead time increases and costs reduces",
+        "Shorter lead times and increased costs",
+        "Lead time and costs increases",
+        "Shorter lead times and reduced costs"
+    ],
+    "created_at": "2026-07-07T00:24:01.671508+00:00"
+},
+{
+    "id": 55470,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Run time for the economic run size is a function of which of the following?",
+    "op": [
+        "Cycle time and usage rate",
+        "Run size and production rate",
+        "Cycle time and usage rate",
+        "Run size and usage rate"
+    ],
+    "created_at": "2026-07-07T00:31:56.003376+00:00"
+},
+{
+    "id": 55471,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The cost of a particular plan for a given period can be computed by using which one of the following expressions?",
+    "op": [
+        "Output cost - hire(layoff cost) + inventory cost + backorder cost",
+        "Output cost + hire(layoff cost) + inventory cost – backorder cost",
+        "Output cost + hire(layoff cost) + inventory cost + backorder cost",
+        "Output cost + hire(layoff cost) - inventory cost + backorder cost"
+    ],
+    "created_at": "2026-07-07T00:33:05.039793+00:00"
+},
+{
+    "id": 55472,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What would be the total backorder cost if 100 units of a product ‘A’ are ordered back where the back order cost is Rs. 2 per unit?",
+    "op": [
+        "Rs. 98",
+        "Rs. 200",
+        "Rs. 50",
+        "Rs. 102"
+    ],
+    "created_at": "2026-07-07T00:33:43.226996+00:00"
+},
+{
+    "id": 55473,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Identify the mathematical expression to determine the number of workers in a given period.\nWhere a = Number of workers at the end of previous period, b = Number of new workers at the start of the current period, c = Number of laid-off workers at the start of the current period",
+    "op": [
+        "a + b - c",
+        "a - b + c",
+        "a - b - c",
+        "a + b + c"
+    ],
+    "created_at": "2026-07-07T00:33:55.529768+00:00"
+},
+{
+    "id": 55474,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Reduced space requirements, reduced inventory investment, and reduced lead times, are the benefits of which of the followings?",
+    "op": [
+        "Continuous improvement",
+        "Re engineering",
+        "Kanban",
+        "Lean system"
+    ],
+    "created_at": "2026-07-07T00:34:22.96689+00:00"
+},
+{
+    "id": 55475,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The key benefit of just in time inventory system lies in the",
+    "op": [
+        "Exposure of problems in the production/distribution system",
+        "Increased overall inventory value",
+        "Increased production rates",
+        "Use of a pull rather than a push inventory system"
+    ],
+    "created_at": "2026-07-07T00:34:51.041704+00:00"
+},
+{
+    "id": 55544,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In the manufacturing organizations the prerequisites for the implementation of JIT system are:",
+    "op": [
+        "Executive Commitment",
+        "All of the given",
+        "Strategic Manufacturing Plan",
+        "A Reason for Changing, and Commitment to Action"
+    ],
+    "created_at": "2026-07-07T01:56:23.693386+00:00"
+},
+{
+    "id": 55546,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What would be the total cost of inventory if a firm holds 1000 units of a product ‘A’, where the carrying cost is Rs. 5 per unit?",
+    "op": [
+        "Rs. 995",
+        "Rs. 5000",
+        "Rs. 200",
+        "Rs. 1050"
+    ],
+    "created_at": "2026-07-07T01:56:37.572805+00:00"
+},
+{
+    "id": 55548,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "All of the following are determinants of reorder point EXCEPT:",
+    "op": [
+        "Stock out risk",
+        "Rate of demand",
+        "Lead time",
+        "Setup cost"
+    ],
+    "created_at": "2026-07-07T01:57:03.481898+00:00"
+},
+{
+    "id": 55549,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The concept of breaking up of the order and running part of it ahead of schedule is called",
+    "op": [
+        "Load report",
+        "Overlapping",
+        "Lot splitting",
+        "Operations splitting"
+    ],
+    "created_at": "2026-07-07T01:57:15.659165+00:00"
+},
+{
+    "id": 55550,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following shows the quantity and timing of specific end items for a scheduled horizon?",
+    "op": [
+        "Critical path model",
+        "Master schedule",
+        "Aggregate plan",
+        "Simulation model"
+    ],
+    "created_at": "2026-07-07T01:57:28.052607+00:00"
+},
+{
+    "id": 55551,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What would be the total cost of inventory if a firm holds 200 units of a product ‘A’,where the carrying cost is Rs. 2 per unit?",
+    "op": [
+        "Rs. 400",
+        "Rs. 100",
+        "Rs. 202",
+        "Rs. 198"
+    ],
+    "created_at": "2026-07-07T01:57:40.794503+00:00"
+},
+{
+    "id": 55553,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If the “holding cost” decreases, the EOQ will",
+    "op": [
+        "Remain the same",
+        "Increase",
+        "Decrease",
+        "Change in an irregular pattern"
+    ],
+    "created_at": "2026-07-07T01:58:19.205443+00:00"
+},
+{
+    "id": 55633,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "An effective JIT effort should result in increased",
+    "op": [
+        "Queue time",
+        "Quality",
+        "Costs",
+        "Delay time"
+    ],
+    "created_at": "2026-07-07T03:08:01.053878+00:00"
+},
+{
+    "id": 55634,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following takes information from the Master Production Schedule to evaluate its feasibility?",
+    "op": [
+        "Material requirements plan",
+        "Aggregate plan",
+        "Capacity requirements plan",
+        "Rough-cut capacity plan"
+    ],
+    "created_at": "2026-07-07T03:08:26.773179+00:00"
+},
+{
+    "id": 55635,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The ultimate goal of rough-cut capacity planning is:",
+    "op": [
+        "Achieving efficiency in the processes",
+        "Determining feasibility of a cost volume analysis",
+        "Approximating inventory requirements",
+        "Determining feasibility of a master schedule"
+    ],
+    "created_at": "2026-07-07T03:08:47.458672+00:00"
+},
+{
+    "id": 55637,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following refers to the cost associated with the order of inventory and its receipt?",
+    "op": [
+        "Stock out cost",
+        "Holding cost",
+        "Ordering cost",
+        "Shortage cost"
+    ],
+    "created_at": "2026-07-07T03:09:10.907248+00:00"
+},
+{
+    "id": 55638,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following mathematical expressions can be used to compute total annual cost?",
+    "op": [
+        "(Q/2) H + (D/Q) S",
+        "(Q/2) H - (D/Q) S",
+        "(Q/2)S + (D/Q) H",
+        "(Q/H) 2 + (D/Q) S"
+    ],
+    "created_at": "2026-07-07T03:09:23.068892+00:00"
+},
+{
+    "id": 55653,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The main advantage of holding the inventory mainly in the manufacturing organizations is:",
+    "op": [
+        "Improved quality",
+        "Material handling reduced",
+        "Greater availability",
+        "Reduced obsolescence"
+    ],
+    "created_at": "2026-07-07T03:17:22.754638+00:00"
+},
+{
+    "id": 55654,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Identify the time span covered by aggregate planning.",
+    "op": [
+        "2-12 months",
+        "2-10 months",
+        "3-7 months",
+        "4-8 months"
+    ],
+    "created_at": "2026-07-07T03:19:22.202912+00:00"
+},
+{
+    "id": 55655,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Refer to the percentage of items in group A of ABC classification system for inventory management",
+    "op": [
+        "50%",
+        "10%",
+        "30%",
+        "70%"
+    ],
+    "created_at": "2026-07-07T03:20:03.870338+00:00"
+},
+{
+    "id": 55656,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The foundation of the JIT philosophy lies in:",
+    "op": [
+        "Re-engineering for breakthrough",
+        "Waste reduction",
+        "Push production",
+        "Variability increase"
+    ],
+    "created_at": "2026-07-07T03:21:16.3894+00:00"
+},
+{
+    "id": 55658,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Capacity requirement planning is the process of determining capacity requirements for",
+    "op": [
+        "Suppliers",
+        "Short-range",
+        "Long-range",
+        "Customers"
+    ],
+    "created_at": "2026-07-07T03:21:55.40308+00:00"
+},
+{
+    "id": 55663,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following depicts the overall production rate and size of the workforce required to meet the demand?",
+    "op": [
+        "Master requirements plan",
+        "Master production schedule",
+        "Aggregate plan",
+        "Capacity requirements plan"
+    ],
+    "created_at": "2026-07-07T03:22:39.760839+00:00"
+},
+{
+    "id": 55665,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following costs is born by the firm when demand exceeds the supply?",
+    "op": [
+        "Ordering cost",
+        "Holding cost",
+        "Stock out cost",
+        "Shortage cost"
+    ],
+    "created_at": "2026-07-07T03:23:13.636421+00:00"
+},
+{
+    "id": 55738,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Adjustment of due dates, cancellation of orders and changes in order quantities comes in ___________ of MRP process.",
+    "op": [
+        "Output",
+        "Inventory records",
+        "Master production schedule",
+        "Bills of material"
+    ],
+    "created_at": "2026-07-07T03:53:26.104633+00:00"
+},
+{
+    "id": 55740,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Lot sizing determines the ____ and ____ of order quantity",
+    "op": [
+        "Timing, date",
+        "Size, price",
+        "Timing, size",
+        "Date, size"
+    ],
+    "created_at": "2026-07-07T03:53:44.831229+00:00"
+},
+{
+    "id": 55741,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The basic inputs of capacity planning process are:",
+    "op": [
+        "All of the given",
+        "The current shop load & job times",
+        "Routing information",
+        "Planned order releases for MRP"
+    ],
+    "created_at": "2026-07-07T03:54:15.79354+00:00"
+},
+{
+    "id": 55742,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is an example of a long range plan?",
+    "op": [
+        "Machine loading",
+        "Work schedule",
+        "Backorders",
+        "Facilities layout"
+    ],
+    "created_at": "2026-07-07T03:54:31.990822+00:00"
+},
+{
+    "id": 55743,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following formulae can be used to determine number of orders per year?",
+    "op": [
+        "Q/D",
+        "D+Q",
+        "D/Q",
+        "D-Q"
+    ],
+    "created_at": "2026-07-07T03:54:52.144877+00:00"
+},
+{
+    "id": 55744,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is an example of an output of aggregate planning?",
+    "op": [
+        "Demand forecast",
+        "Projected inventory",
+        "Overtime cost",
+        "Facilities layout"
+    ],
+    "created_at": "2026-07-07T03:55:45.763512+00:00"
+},
+{
+    "id": 55745,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Goals of JIT partnerships include",
+    "op": [
+        "Elimination of all in-plant inventories",
+        "Elimination of all activities",
+        "Elimination of in-transit inventory",
+        "Complete backwards vertical integration"
+    ],
+    "created_at": "2026-07-07T03:56:01.094919+00:00"
+},
+{
+    "id": 55771,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The applications of lean manufacturing include the followings:",
+    "op": [
+        "All of the given",
+        "Lean Systems in Defense Industry",
+        "Lean Software Manufacturing",
+        "Lean Healthcare Systems"
+    ],
+    "created_at": "2026-07-07T04:09:11.459788+00:00"
+},
+{
+    "id": 55778,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "When operations managers use kanbans in the organization then:",
+    "op": [
+        "Each push station can require only one re supply component",
+        "The kanban cards provide a direct control on the amount of work in process between cells",
+        "Each pull station can require only one re supply component",
+        "The producer and user are not in visual contact, a light or empty spot on the floor should be used as a signal"
+    ],
+    "created_at": "2026-07-07T04:10:27.649416+00:00"
+},
+{
+    "id": 55783,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The optimal order quantity shows a trade-off between which one of the following sets of costs?",
+    "op": [
+        "Carrying costs and ordering costs",
+        "Carrying costs and stock out costs",
+        "Carrying costs and setup costs",
+        "Carrying costs and shortage costs"
+    ],
+    "created_at": "2026-07-07T04:11:08.344444+00:00"
+},
+{
+    "id": 55798,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Capacity options are focused on:",
+    "op": [
+        "Promotion",
+        "Matching demand period by period",
+        "New demand",
+        "Backorders"
+    ],
+    "created_at": "2026-07-07T04:20:56.944959+00:00"
+},
+{
+    "id": 55804,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following concepts refers to achieve the lowest average total cost per unit when a large quantity is ordered?",
+    "op": [
+        "Economic order quantity",
+        "Master production schedule",
+        "Material requirements planning",
+        "Economies of scale"
+    ],
+    "created_at": "2026-07-07T04:22:36.133616+00:00"
+},
+{
+    "id": 55806,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is NOT MRP output?",
+    "op": [
+        "Changes in dates and order",
+        "Order releases",
+        "Planned orders",
+        "Scheduled receipts"
+    ],
+    "created_at": "2026-07-07T04:23:57.804852+00:00"
+},
+{
+    "id": 55809,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "How can you compute the cost of subcontracting?",
+    "op": [
+        "Subcontracting cost per unit + subcontracted quantity",
+        "Subcontracting cost per unit /subcontracted quantity",
+        "Subcontracting cost per unit – subcontracted quantity",
+        "Subcontracting cost per unit × subcontracted quantity"
+    ],
+    "created_at": "2026-07-07T04:24:35.037296+00:00"
+},
+{
+    "id": 55812,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following refers to the time interval between order placement and its fulfillment?",
+    "op": [
+        "Stock time",
+        "Cycle time",
+        "Setup time",
+        "Lead time"
+    ],
+    "created_at": "2026-07-07T04:25:39.219104+00:00"
+},
+{
+    "id": 55837,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The central themes that the surrounding Just-In-Time (JIT) system is:",
+    "op": [
+        "Simplicity, quality, elimination of waste",
+        "Simplicity, quality, increase of waste",
+        "Complexity, quality, increase of waste",
+        "All of the given"
+    ],
+    "created_at": "2026-07-07T04:33:00.83566+00:00"
+},
+{
+    "id": 55838,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "_______ is the demand that occurs because the quantity required is a function of the demand for other items held in inventory",
+    "op": [
+        "Scheduled demand",
+        "None of the above",
+        "Dependent demand",
+        "Independent demand"
+    ],
+    "created_at": "2026-07-07T04:33:28.109774+00:00"
+},
+{
+    "id": 55839,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is TRUE about a periodic review?",
+    "op": [
+        "Ordering inventory at a fixed and regular time interval",
+        "Ordering inventory at a predetermined re-order level",
+        "Ordering inventory to supplier as per requirement",
+        "Ordering inventory when it falls below the safety stock level"
+    ],
+    "created_at": "2026-07-07T04:34:05.57469+00:00"
+},
+{
+    "id": 55840,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is NOT an assumption of EOQ model?",
+    "op": [
+        "Annual demand requirements are known",
+        "Multiple products are involved",
+        "Delivery lead time does not vary",
+        "There are no quantity discounts"
+    ],
+    "created_at": "2026-07-07T04:34:11.458543+00:00"
+},
+{
+    "id": 55841,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What would be the total backorder cost if 800 units of a product ‘A’ are ordered back where the back order cost is Rs. 8 per unit?",
+    "op": [
+        "Rs. 792",
+        "Rs. 100",
+        "Rs. 6400",
+        "Rs. 808"
+    ],
+    "created_at": "2026-07-07T04:34:22.597085+00:00"
+},
+{
+    "id": 55872,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is NOT a secondary report of MRP?",
+    "op": [
+        "Exception reports",
+        "Lead reports",
+        "Planning report",
+        "Performance control report"
+    ],
+    "created_at": "2026-07-07T04:49:15.845622+00:00"
+},
+{
+    "id": 55874,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is not among a JIT inventory tactic?",
+    "op": [
+        "Reduction in variability",
+        "Consistently receive and store deliveries at the same point in the warehouse",
+        "Reduction in setup time",
+        "Reduction in lot size"
+    ],
+    "created_at": "2026-07-07T04:49:36.712941+00:00"
+},
+{
+    "id": 55877,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the followings can be considered as true for the JIT philosophy?",
+    "op": [
+        "JIT is also known as lean production",
+        "JIT operates with very little “fat”",
+        "JIT is the true pull (demand) system",
+        "All of the given"
+    ],
+    "created_at": "2026-07-07T04:50:07.263095+00:00"
+},
+{
+    "id": 55892,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is an advantage of perpetual inventory system?",
+    "op": [
+        "Fixed order quantity",
+        "Economies in shipping orders",
+        "Low cost of record keeping",
+        "Periodic review of inventory"
+    ],
+    "created_at": "2026-07-07T04:55:50.275964+00:00"
+},
+{
+    "id": 55897,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following mathematical expressions can be used to compute annual ordering cost?",
+    "op": [
+        "D+Q+S",
+        "(D/S)Q",
+        "(D+Q)S",
+        "(D/Q)S"
+    ],
+    "created_at": "2026-07-07T04:57:30.773776+00:00"
+},
+{
+    "id": 55901,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following factors are important for choosing a strategy for aggregate planning?",
+    "op": [
+        "Company policy and layout decision",
+        "Company policy and capacity options",
+        "Cost and company policy",
+        "Cost and layout decision"
+    ],
+    "created_at": "2026-07-07T04:58:27.637898+00:00"
+},
+{
+    "id": 55904,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is one of the inputs of MRP?",
+    "op": [
+        "Master schedule plan",
+        "Bills of records",
+        "Planned orders",
+        "Inventory schedule plan"
+    ],
+    "created_at": "2026-07-07T04:59:30.104465+00:00"
+},
+{
+    "id": 55906,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Series of time intervals during which order changes are allowed or restricted is known as:",
+    "op": [
+        "Capacity requirements planning",
+        "Closed-loop MRP",
+        "Time fences",
+        "Load reports"
+    ],
+    "created_at": "2026-07-07T05:00:02.884906+00:00"
+},
+{
+    "id": 55915,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is Not a requirement for effective inventory management?",
+    "op": [
+        "Forecast of demand",
+        "Determination of suppliers",
+        "Knowledge of lead time",
+        "Classification system"
+    ],
+    "created_at": "2026-07-07T05:07:11.367199+00:00"
+},
+{
+    "id": 55916,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the followings is not the requirement of MRP?",
+    "op": [
+        "Bills of materials",
+        "Lot sizing",
+        "Master schedules",
+        "Accurate and up-to-date"
+    ],
+    "created_at": "2026-07-07T05:07:16.836929+00:00"
+},
+{
+    "id": 55917,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "When operations manager focuses on their organization’s competitive advantage they aim for consistent quality with reductions in inventory and:",
+    "op": [
+        "Employee motivation",
+        "Flexibility",
+        "Low cost of production",
+        "Decreases in productivity"
+    ],
+    "created_at": "2026-07-07T05:07:22.889617+00:00"
+},
+{
+    "id": 55919,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Key lean manufacturing principles include:",
+    "op": [
+        "Continuous improvement",
+        "Waste minimization",
+        "All of the given",
+        "Pull processing"
+    ],
+    "created_at": "2026-07-07T05:07:42.075012+00:00"
+},
+{
+    "id": 55921,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is a common feature of inventory models?",
+    "op": [
+        "Profit maximization",
+        "Cost minimization",
+        "Minimizing setup times",
+        "Lead time minimization"
+    ],
+    "created_at": "2026-07-07T05:08:08.040185+00:00"
+},
+{
+    "id": 55942,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following refers to inventory turnover?",
+    "op": [
+        "A ratio of work in process to the average inventory investment",
+        "A ratio of cost of carrying cost to the average inventory investment",
+        "A ratio of cost of goods sold to the average inventory investment",
+        "A ratio of cost of assets to the average inventory investment"
+    ],
+    "created_at": "2026-07-07T05:17:54.151053+00:00"
+},
+{
+    "id": 56013,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Organizations following JIT philosophy require encouraging ________ concept between organization’s purchasing department, supplier, management and labor.",
+    "op": [
+        "Flexibility",
+        "Re engineering",
+        "Partnership",
+        "Good housekeeping"
+    ],
+    "created_at": "2026-07-07T05:54:30.482305+00:00"
+},
+{
+    "id": 56018,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Aggregate plans are updated",
+    "op": [
+        "Twice a year",
+        "Periodically",
+        "At project end",
+        "Once a year"
+    ],
+    "created_at": "2026-07-07T05:55:47.786483+00:00"
+},
+{
+    "id": 56021,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If a firm subcontracts 300 units of a product ‘A’, with the subcontracting cost of Rs. 3 per unit. What would be the total subcontracting cost?",
+    "op": [
+        "Rs. 297",
+        "Rs. 900",
+        "Rs. 100",
+        "Rs. 303"
+    ],
+    "created_at": "2026-07-07T05:56:40.753924+00:00"
+},
+{
+    "id": 56026,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Identify the set of factors that affect the choice of a strategy for aggregate planning.",
+    "op": [
+        "Cost and corporate profits",
+        "Cost and location analysis",
+        "Cost and training of employees",
+        "Cost and capacity constraints"
+    ],
+    "created_at": "2026-07-07T05:58:52.004585+00:00"
+},
+{
+    "id": 56088,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is Not an assumption of economic order quantity model?",
+    "op": [
+        "No constraints on size of each lot",
+        "No quantity discounts",
+        "Demand is always variable",
+        "No uncertainty in lead time or supply"
+    ],
+    "created_at": "2026-07-07T06:20:17.066384+00:00"
+},
+{
+    "id": 56166,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "There is no inventory buildup when:",
+    "op": [
+        "Usage and production rates are equal",
+        "Orders are frequently placed",
+        "Production rate exceeds usage rate",
+        "Usage rate exceeds production rate"
+    ],
+    "created_at": "2026-07-07T06:49:05.540357+00:00"
+},
+{
+    "id": 56200,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "MPS stands for which of the following?",
+    "op": [
+        "Master Planning Schedule",
+        "Material Production Schedule",
+        "Material Planning Schedule",
+        "Master Production Schedule"
+    ],
+    "created_at": "2026-07-07T07:23:54.84359+00:00"
+},
+{
+    "id": 56219,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "A rule of lot size that maintains the same order quantity each time an order is issued is known as",
+    "op": [
+        "Economic order quantity model",
+        "Lot for lot ordering",
+        "Part period model",
+        "Fixed period ordering"
+    ],
+    "created_at": "2026-07-07T07:30:16.938894+00:00"
+},
+{
+    "id": 56220,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Capacity options are usually of __________ range in nature",
+    "op": [
+        "Long",
+        "Intermediate",
+        "Periodical",
+        "Short"
+    ],
+    "created_at": "2026-07-07T07:30:33.528398+00:00"
+},
+{
+    "id": 56230,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is not the distinctiveness of just in time suppliers?",
+    "op": [
+        "Short term contract agreements",
+        "The purchaser actually helping the supplier to meet the quality requirements",
+        "Scheduling inbound freight",
+        "Minimal release paperwork"
+    ],
+    "created_at": "2026-07-07T07:44:13.460969+00:00"
+},
+{
+    "id": 56244,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If a firm subcontracts 600 units of a product ‘A’, with the subcontracting cost of Rs. 6 per unit. What would be the total subcontracting cost?",
+    "op": [
+        "Rs. 3600",
+        "Rs. 594",
+        "Rs. 606",
+        "Rs. 100"
+    ],
+    "created_at": "2026-07-07T07:50:28.191072+00:00"
+},
+{
+    "id": 56334,
+    "cc": "MGT613",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following mathematical expressions can be employed to compute backorder cost?",
+    "op": [
+        "Backorder cost per unit × number of backordered units",
+        "Backorder cost per unit + number of backordered units",
+        "Backorder cost per unit - number of backordered units",
+        "Backorder cost per unit /number of backordered units"
+    ],
+    "created_at": "2026-07-07T08:29:15.028765+00:00"
+}
+]

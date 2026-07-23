@@ -1,0 +1,2974 @@
+[
+{
+    "id": 36539,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which type of sequence multiplies by a constant to get the next term?",
+    "op": [
+        "Harmonic",
+        "Geometric",
+        "Fibonacci",
+        "Arithmetic"
+    ],
+    "created_at": "2026-07-01T19:01:10.056597+00:00"
+},
+{
+    "id": 36542,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Determine the slope of the line that passes through (2, 2) and (5, 8).",
+    "op": [
+        "10/7",
+        "1/2",
+        "-2",
+        "2"
+    ],
+    "created_at": "2026-07-01T19:01:21.61898+00:00"
+},
+{
+    "id": 36544,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many distinct permutations are possible with the letters in “LEVEL”?",
+    "op": [
+        "15",
+        "60",
+        "30",
+        "45"
+    ],
+    "created_at": "2026-07-01T19:01:28.177123+00:00"
+},
+{
+    "id": 36547,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The number of ways of arranging r different objects in a circle is r!.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:01:35.099169+00:00"
+},
+{
+    "id": 36551,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the slopes of two lines are 2 and -1/2, the lines are:",
+    "op": [
+        "perpendicular",
+        "parallel",
+        "overlapping",
+        "intersecting but not perpendicular"
+    ],
+    "created_at": "2026-07-01T19:01:41.559087+00:00"
+},
+{
+    "id": 36553,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are r different objects in a set. We can arrange these objects in",
+    "op": [
+        "(r+1)! ways",
+        "(r-1)! ways",
+        "2r! ways",
+        "r! ways"
+    ],
+    "created_at": "2026-07-01T19:01:47.769764+00:00"
+},
+{
+    "id": 36554,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A group of 8 people is to be selected for a project. In how many ways can the group be selected from 12 people?",
+    "op": [
+        "495",
+        "429",
+        "462",
+        "402"
+    ],
+    "created_at": "2026-07-01T19:01:55.604634+00:00"
+},
+{
+    "id": 36557,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In a group of 15 people, how many ways can 4 people be selected to form a team?",
+    "op": [
+        "1365",
+        "720",
+        "650",
+        "455"
+    ],
+    "created_at": "2026-07-01T19:02:02.304118+00:00"
+},
+{
+    "id": 36559,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "17",
+        "20",
+        "18",
+        "19"
+    ],
+    "created_at": "2026-07-01T19:02:09.931167+00:00"
+},
+{
+    "id": 36587,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many permutations of the letters of the word APPLE are there?",
+    "op": [
+        "240",
+        "360",
+        "120",
+        "60"
+    ],
+    "created_at": "2026-07-01T19:03:59.868291+00:00"
+},
+{
+    "id": 36594,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the sigma notation of the series 1+2+3+4 ?",
+    "op": [
+        "$$\\sum\\limits_{n = 1}^4 {{n^2}}$$",
+        "$$\\sum\\limits_{n = 1}^4 n$$",
+        "$$\\sum\\limits_{n = 2}^4 n$$",
+        "$$\\sum\\limits_{n = 1}^5 n$$"
+    ],
+    "created_at": "2026-07-01T19:04:10.784382+00:00"
+},
+{
+    "id": 36601,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is the common difference d  of a arithmetic sequence 1, 4, 7, 10, …?",
+    "op": [
+        "-3",
+        "3",
+        "2",
+        "-2"
+    ],
+    "created_at": "2026-07-01T19:04:22.532207+00:00"
+},
+{
+    "id": 36621,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The conjugate of a complex number $Z = x + iy$ is _______________",
+    "op": [
+        "$\\bar Z = x - y$",
+        "$\\bar Z = x + iy$",
+        "$\\bar Z = x - iy$",
+        "$\\bar Z = - x + iy$"
+    ],
+    "created_at": "2026-07-01T19:04:47.925531+00:00"
+},
+{
+    "id": 36649,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The midpoint of the line segment with the  endpoints \n(−4, 4), (−2, 2) is",
+    "op": [
+        "(-2,-2)",
+        "(-3,3)",
+        "(-6, 6)",
+        "(2,2)"
+    ],
+    "created_at": "2026-07-01T19:05:43.030002+00:00"
+},
+{
+    "id": 36651,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many distinct ways can the letters of the word BANANA be arranged?",
+    "op": [
+        "360",
+        "720",
+        "60",
+        "120"
+    ],
+    "created_at": "2026-07-01T19:05:52.182468+00:00"
+},
+{
+    "id": 36655,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "overlapping",
+        "perpendicular",
+        "parallel",
+        "intersecting but not perpendicular"
+    ],
+    "created_at": "2026-07-01T19:06:09.82879+00:00"
+},
+{
+    "id": 36664,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many combinations can be formed by choosing 2 objects from 5?",
+    "op": [
+        "5",
+        "20",
+        "10",
+        "15"
+    ],
+    "created_at": "2026-07-01T19:06:52.560223+00:00"
+},
+{
+    "id": 36665,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Using the distance formula, find the distance between the two points.A(4, 7), B(3, -2)",
+    "op": [
+        "7",
+        "√20",
+        "√19",
+        "√82"
+    ],
+    "created_at": "2026-07-01T19:07:01.729977+00:00"
+},
+{
+    "id": 36666,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are 3 quadrants.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-01T19:07:12.138685+00:00"
+},
+{
+    "id": 36667,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are 20 students in a class. In how many ways 3 students can be chosen?",
+    "op": [
+        "1140",
+        "1040",
+        "none of the above",
+        "1150"
+    ],
+    "created_at": "2026-07-01T19:07:21.584872+00:00"
+},
+{
+    "id": 36670,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Suppose that 3+8+13+18+… is an arithmetic series. What is the next term of the series?",
+    "op": [
+        "21",
+        "23",
+        "20",
+        "28"
+    ],
+    "created_at": "2026-07-01T19:07:30.873625+00:00"
+},
+{
+    "id": 36671,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the slope of the line that passes through (8, 4) and (6, 7)?",
+    "op": [
+        "3/2",
+        "-2/3",
+        "-3/2",
+        "2/3"
+    ],
+    "created_at": "2026-07-01T19:07:37.841974+00:00"
+},
+{
+    "id": 36673,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many ways can 3 books be selected from a shelf of 10 different books?",
+    "op": [
+        "100",
+        "120",
+        "720",
+        "90"
+    ],
+    "created_at": "2026-07-01T19:07:44.392987+00:00"
+},
+{
+    "id": 36677,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A committee of 5 people is to be selected from a group of 10 people. How many ways can this be done?",
+    "op": [
+        "200",
+        "120",
+        "100",
+        "252"
+    ],
+    "created_at": "2026-07-01T19:08:00.384516+00:00"
+},
+{
+    "id": 36762,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "The series diverges.",
+        "The terms approach zero.",
+        "The ratio exceeds one.",
+        "The sum is always infinite."
+    ],
+    "created_at": "2026-07-01T19:14:36.314071+00:00"
+},
+{
+    "id": 36781,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Using the distance formula, find the distance between the two points.A(1,2), B(4,6)",
+    "op": [
+        "5",
+        "13",
+        "-5",
+        "7"
+    ],
+    "created_at": "2026-07-01T19:15:50.079501+00:00"
+},
+{
+    "id": 36783,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To arrange 7 distinct objects in a row, the number of different arrangements are",
+    "op": [
+        "7!/(7-1)!",
+        "none of the above",
+        "7!",
+        "6!"
+    ],
+    "created_at": "2026-07-01T19:15:54.297862+00:00"
+},
+{
+    "id": 36787,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If a = 4, and d = 5 in an arithmetic sequence, then what is the value of sixth term?",
+    "op": [
+        "25",
+        "29",
+        "24",
+        "23"
+    ],
+    "created_at": "2026-07-01T19:16:12.093763+00:00"
+},
+{
+    "id": 36788,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many permutations can be made using all the letters of the word SUCCESS?",
+    "op": [
+        "840",
+        "420",
+        "2520",
+        "5040"
+    ],
+    "created_at": "2026-07-01T19:16:15.203992+00:00"
+},
+{
+    "id": 36791,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In how many ways can 3 objects be arranged?",
+    "op": [
+        "3",
+        "9",
+        "12",
+        "6"
+    ],
+    "created_at": "2026-07-01T19:16:29.669502+00:00"
+},
+{
+    "id": 36795,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Explain the difference between permutations and combinations.",
+    "op": [
+        "Both consider order.",
+        "Permutations consider order; combinations do not.",
+        "Combinations consider order; permutations do not.",
+        "Neither considers order."
+    ],
+    "created_at": "2026-07-01T19:16:48.738814+00:00"
+},
+{
+    "id": 36798,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many different rearrangements are there of the letters in the word BUBBLE?",
+    "op": [
+        "120",
+        "40",
+        "50",
+        "70"
+    ],
+    "created_at": "2026-07-01T19:17:05.138155+00:00"
+},
+{
+    "id": 36799,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the slope intercept form of a line with slope m = -2 and y-intercept c = 5?",
+    "op": [
+        "y = -5x + 2",
+        "y = 5x – 2",
+        "y = 2x – 5",
+        "y = -2x+5"
+    ],
+    "created_at": "2026-07-01T19:17:59.883126+00:00"
+},
+{
+    "id": 36800,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Why does the sequence 2,4,8,16,… diverge?",
+    "op": [
+        "The terms are constant.",
+        "The ratio exceeds 1.",
+        "The sum is finite.",
+        "The terms approach zero."
+    ],
+    "created_at": "2026-07-01T19:18:17.572916+00:00"
+},
+{
+    "id": 36801,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many distinct arrangements can be made with the letters of the word \"ALABAMA\"?",
+    "op": [
+        "720",
+        "210",
+        "420",
+        "84"
+    ],
+    "created_at": "2026-07-01T19:18:41.002555+00:00"
+},
+{
+    "id": 36803,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The midpoint of the line segment with the  endpoints \n (−1, 1), (7, −5)  is",
+    "op": [
+        "(3,-2)",
+        "(-4,2)",
+        "(4,-2)",
+        "(3,2)"
+    ],
+    "created_at": "2026-07-01T19:18:59.572123+00:00"
+},
+{
+    "id": 36808,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "$${}^6{C_2}\\,\\,is\\,\\,equal\\,\\,to\\,$$",
+    "op": [
+        "14",
+        "15",
+        "17",
+        "16"
+    ],
+    "created_at": "2026-07-01T19:19:49.790126+00:00"
+},
+{
+    "id": 36821,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is the common ratio r of a geometric sequence 1, 3, 9, 27, 81,…?",
+    "op": [
+        "4",
+        "-3",
+        "1/3",
+        "3"
+    ],
+    "created_at": "2026-07-01T19:21:17.260541+00:00"
+},
+{
+    "id": 36826,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In the linear function y = mx + b, what does the b value represent?",
+    "op": [
+        "x - intercept",
+        "slope",
+        "y - intercept",
+        "rate of change"
+    ],
+    "created_at": "2026-07-01T19:22:06.377429+00:00"
+},
+{
+    "id": 36830,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The slope of a line passing through points (1, 2) and (3, 8) is:",
+    "op": [
+        "2/3",
+        "6",
+        "3/2",
+        "3"
+    ],
+    "created_at": "2026-07-01T19:22:19.39689+00:00"
+},
+{
+    "id": 36836,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The point where the x- and y- axis cross. (0,0)",
+    "op": [
+        "Y-intercept",
+        "Slope",
+        "Origin",
+        "X-intercept"
+    ],
+    "created_at": "2026-07-01T19:22:45.497657+00:00"
+},
+{
+    "id": 36841,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The magnitude of two different complex numbers ${Z_1}$ and ${Z_2}$ ____________",
+    "op": [
+        "Maybe the same",
+        "Always different",
+        "zero",
+        "Always the same"
+    ],
+    "created_at": "2026-07-01T19:23:20.69348+00:00"
+},
+{
+    "id": 36867,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "All letters in a word LOVE taken all at a time can be arranged in",
+    "op": [
+        "24 ways",
+        "12 ways",
+        "4 ways",
+        "8 ways"
+    ],
+    "created_at": "2026-07-01T19:27:56.29552+00:00"
+},
+{
+    "id": 36877,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many Permutations of the letters of the word BOOK are there?",
+    "op": [
+        "11",
+        "14",
+        "12",
+        "13"
+    ],
+    "created_at": "2026-07-01T19:31:08.968679+00:00"
+},
+{
+    "id": 36904,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In how many ways can 4 people be arranged in a circle?",
+    "op": [
+        "12",
+        "6",
+        "24",
+        "3"
+    ],
+    "created_at": "2026-07-01T19:46:17.940401+00:00"
+},
+{
+    "id": 36943,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If I subtracted 3 from each coordinate point (-2 3), what would be my new coordinates?",
+    "op": [
+        "(1, 0)",
+        "(5,0)",
+        "(-1,0)",
+        "(-5,0)"
+    ],
+    "created_at": "2026-07-01T20:13:26.634036+00:00"
+},
+{
+    "id": 37028,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "From a deck of 52 cards, in how many ways can 5 cards be selected?",
+    "op": [
+        "1,598,960",
+        "2,598,850",
+        "2,598,960",
+        "2,598,000"
+    ],
+    "created_at": "2026-07-01T20:52:11.992199+00:00"
+},
+{
+    "id": 37030,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the sigma notation of the series 3+5+7+9 ?",
+    "op": [
+        "$$\\sum\\limits_{n = 1}^4 {(n} - 1)$$",
+        "$$\\sum\\limits_{n = 1}^4 {(2n} + 1)$$",
+        "$$\\sum\\limits_{n = 1}^4 {(2n} - 1)$$",
+        "$$\\sum\\limits_{n = 1}^4 {(n} + 1)$$"
+    ],
+    "created_at": "2026-07-01T20:53:24.174665+00:00"
+},
+{
+    "id": 37040,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many different ways can the letters of the word \"TIGER\" be arranged?",
+    "op": [
+        "10",
+        "24",
+        "120",
+        "60"
+    ],
+    "created_at": "2026-07-01T21:03:50.650436+00:00"
+},
+{
+    "id": 37076,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The equation of a line passing through points (1, 4) and (3, 10) is:",
+    "op": [
+        "y+10 = 2(x - 3)",
+        "y - 4 = 3(x - 1)",
+        "y+4 = 2(x - 1)",
+        "y- 10 = 3(x - 2)"
+    ],
+    "created_at": "2026-07-01T21:51:20.508919+00:00"
+},
+{
+    "id": 37090,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The absolute value of the complex number $Z = 4 + 3i$ is __________",
+    "op": [
+        "6",
+        "12",
+        "1",
+        "5"
+    ],
+    "created_at": "2026-07-01T22:01:19.958339+00:00"
+},
+{
+    "id": 37091,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Identify the type of sequence: 1,1/2,1/4,1/8,…",
+    "op": [
+        "Arithmetic",
+        "Convergent geometric",
+        "Harmonic",
+        "Divergent geometric"
+    ],
+    "created_at": "2026-07-01T22:01:56.355822+00:00"
+},
+{
+    "id": 54723,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The range of the cosine function is between ______.",
+    "op": [
+        "0 and 1",
+        "0 and -1",
+        "-1 and 0.5",
+        "-1 and 1"
+    ],
+    "created_at": "2026-07-06T19:03:32.734822+00:00"
+},
+{
+    "id": 54726,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACeSURBVEhL7ZXBCQQhDEUz24HYikfvYg12YAlagR1ZhhVYgT04o2Su65plZGF9EIQv+BBiPOoFLOCF6+NsEZnfE+WcwVoL3ntMJmnt/Y5SSnXOtSfQK4SAO3MMb2SMAa01XEJMaAxFMUaQUgLnHBMaf9x137JFZJaJhpPhJqXUJ4MQApM5hqI2ftrhTXIXY6wqpbr8U/ZXTmaLyCwSAZwIMCqVYBv/4AAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAaCAYAAAAT6cSuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI1SURBVFhH7ZjLjcIwFEWd6QBaoAUqYEMJ1AAl0AFUQAcsWSGxZ8OSBqACevBwMr4jyxMnL2H4DJojWciOY7/7fiAKf8W9KR/h8y35F/dXuUlcv993RVG45XIZVl4MGkoXjsejH4/HNCPTeAadI3c4HNxoNMJq03gGncVtNht3jVyYvShXr7bmcrn4Xq8XZr/HYDDwi8UizG6nk7jtdusnk0mYfXE6nfx8PvfD4fC7zthDbVrgTN7BcWK9Xpdn4EietRXfSRwiuDiGyxGGSNjv96VRjNjgHDSn6XQaZr4UwZncxfsMhLJmFdhJHB6UCMGleD8GY1lHaB1El33xmQjAWTE8Zx+OsNBaHBekl+bA6xjTlJo4wWzwreIQwIVxmojValUa3YSaTlqbKYpGU3RBe6vsquKHOGoJz6gxpPWCsWn6xbCfM0hd1UsdpB97LagOEWkhm5YYyEFp8bKWA+/znGERp+imzakK1aVlr6itOQyMvYrxTWkGGE36YgwZkBPIHkvU5ARrOopacTJQ3iISrFlRQ8l5G2FNbR1hOKitMKgVJ4+pO3GJ9UsZlKZVAhBs+Q5EVF3066gVB7H3cykkEWmhK/JVDQiHNUWD93FAeq4llaFRnNovB+aMkTg8LENYwzDWUnLOiFHWpCmtn2kWTLsQlYsAYAhGEA32MVRPVenEeU1RU9uvGoi2YBKnNtwl71OUCUTv3jz8r73ZbObO57Pb7XZh5Y6UEh9Ero7uxRv/KevcJ8C9MTKwk4cuAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAWCAYAAAClrE55AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGaSURBVEhL7Za9jYNAEIX3rgNE7gSX4NA5dAAtYDqw3IBdgCEkIyG1RE4DNACRQ3rAfqNZbg+z/Bikc3CfhFY7zM6+nR1GfDVPxAfwzeOf8y+ky6pCttutuFwuPJsJilWlLMvG9/3meDyyZRq32w1F39R1TXOMURQ1tm2THc9utyO/PlohWIjN5aLz+cxvpoENcQCJFJAkCc1xQMuyyJbnOdlUWiFYCAcImiukKApag80kiNfNKkTpYr9cDZgrBJnAxmPgoLrYi4u1qioRhqE4nU5s0XO/32ncbDY0qiwWkqapeN692O/3bNETxzH5ep7HFgXOzC9gnnI1qCfDMNqCHAJfEHxRT30sEoLg+BLGkLUxJHiREIgY80MGpmTtbSEIjA1kA+sD79DE1P6i4+1iReGh6EzTZMsrQRDQeL1eaQT4yhzH4ZkCC2qRzQkn0SHvXG1gXXQ+aHJ9PacVAgdsjsXyQeqxqFvpSPVYurFOjaU+ruuy1w+9NTIETohgOPGazP5VPBwOdM9ZlrFlJUjOROY0sLl8yM+zEA/qE71DOaPruAAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAaCAYAAAAaAmTUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJWSURBVFhH7ZhBzmkxFMfr7YAlsAUzJgywA1YgYcxEbABz7ICBxEhIDAxMJCY2wApYw333V+3LzU3bW56X70beL2nu197e9vzPOT39IhOEiC/hl3p+Bf/FpJVUicnlciKTyYjxeKxGXoQCkAYul0tQr9cpRl7NRGoiczqdRLVaxUqvZiI1YtbrtQgjo3pvEqr8JxQKhWA0Gqmem/v9HmSzWdV7H6eY6/UadDqdYDAYqBE/NpuNzGuM9IH5zWZT9Z4sFgs5hkjW8nGOUQxGIIBFaL4e1nCQcYIv7IXxGvZjX8axhYawJFuMYjDmeDzKRV4VQ1XiG6LqC16Pzme/YrGoek94z7rYZiPxzLwqhoi4NoyDkXHDbSSJ+Wg1u91uYjabieFwqEaeMN7tdmWLs9/vRa1WUz07rAH5fF4+TXxUzGq1EmHKiHK5rEaEWC6XUsT5fJZCH4+HevPkcDiIUqmkenZYG3q9nnwaURGywhSfNON8UXmiBzkK46a1PEz4cw5ta2s+JmY+n8uD7IL30TkUmXhJjqOd5FMdP5Zmk8lEtNtt1TPT7/dFeOBl6sF2uxWVSkX+bYKUbDQaotVqiel0qkYdKFFWmJIUGcKP9/CiC+1lXZGoYqSQDaLBnKR1NR8Rg3G+l6S+jHGAKy1JW4TH7yvXN04x+uC57gHynjnxTW3oyw+jbA6wFRP9b5IN4xu8hwA+1E2nRzwtMMg3KhrmsybGmSATontHG3bYSEwzF9rLROcVdMR9z4Ivf/VTE5chN/Nut1MjP4yU9Aa2vP5JvuhHQCF+A4VYWwWttteCAAAAAElFTkSuQmCC."
+    ],
+    "created_at": "2026-07-06T19:03:43.644009+00:00"
+},
+{
+    "id": 54730,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The trigonometric functions with the property that they keep repeating themselves are called _____.",
+    "op": [
+        "cosine functions",
+        "periodic functions",
+        "tangent functions",
+        "sine functions"
+    ],
+    "created_at": "2026-07-06T19:04:48.384122+00:00"
+},
+{
+    "id": 54732,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$\\cos ( - \\pi ) = .....$",
+    "op": [
+        "0.5",
+        "-1",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-06T19:04:58.43724+00:00"
+},
+{
+    "id": 54735,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which branch of mathematics is most closely related to trigonometry?",
+    "op": [
+        "Algebra",
+        "Geometry",
+        "Calculus",
+        "Statistics"
+    ],
+    "created_at": "2026-07-06T19:05:07.867388+00:00"
+},
+{
+    "id": 54736,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "sin⁡(sin⁡-1(x))= ________.",
+    "op": [
+        "-x",
+        "x",
+        "1",
+        "x2"
+    ],
+    "created_at": "2026-07-06T19:05:17.18534+00:00"
+},
+{
+    "id": 54741,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$sin( - \\frac{\\pi }{4}) = .....$",
+    "op": [
+        "$\\sin (\\frac{\\pi }{4})$",
+        "$- \\sin (\\frac{\\pi }{4})$",
+        "$- sec(\\frac{\\pi }{4})$",
+        "$cosec(\\frac{\\pi }{4})$"
+    ],
+    "created_at": "2026-07-06T19:05:27.813975+00:00"
+},
+{
+    "id": 54742,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "All trigonometric functions have positive value in…………..quadrant",
+    "op": [
+        "Ist",
+        "3rd",
+        "4th",
+        "2nd"
+    ],
+    "created_at": "2026-07-06T19:05:31.388626+00:00"
+},
+{
+    "id": 54743,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The smallest interval for which the trigonometric function repeats itself is called its _____.",
+    "op": [
+        "range",
+        "amplitude",
+        "period",
+        "angle"
+    ],
+    "created_at": "2026-07-06T19:05:36.410323+00:00"
+},
+{
+    "id": 54746,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The measuring unit for the angle is",
+    "op": [
+        "meter",
+        "degree",
+        "inch",
+        "pound"
+    ],
+    "created_at": "2026-07-06T19:05:45.747297+00:00"
+},
+{
+    "id": 54747,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In the cosine function, the maximum value of ______ is taken when $\\theta = {0^ \\circ }\\,,\\,\\, \\pm {360^ \\circ }\\,,\\, \\pm {720^ \\circ }$ and so on.",
+    "op": [
+        "0",
+        "1",
+        "-1",
+        "0.5"
+    ],
+    "created_at": "2026-07-06T19:05:47.260295+00:00"
+},
+{
+    "id": 54748,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The center of a circle having equation ${(x + 2)^2} + {(y - 5)^2} - 36 = 0$ is at.........",
+    "op": [
+        "(-2,-5)",
+        "(2,5)",
+        "(-2,5)",
+        "(2,-5)"
+    ],
+    "created_at": "2026-07-06T19:05:53.832639+00:00"
+},
+{
+    "id": 54749,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What is the period of the following tangent function?\nf(x)=3tan(5x)+4",
+    "op": [
+        "3",
+        "3π",
+        "π/5",
+        "π/4"
+    ],
+    "created_at": "2026-07-06T19:05:54.861084+00:00"
+},
+{
+    "id": 54751,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$tan \\theta$ is positive in the _____ and the third quadrant.",
+    "op": [
+        "first",
+        "third",
+        "second",
+        "fourth"
+    ],
+    "created_at": "2026-07-06T19:06:00.250915+00:00"
+},
+{
+    "id": 54753,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The domain of inverse tangent function is ......",
+    "op": [
+        "(-1,1)",
+        "(-infinity,infinity)",
+        "(-infinity,0)",
+        "(0,infinity)"
+    ],
+    "created_at": "2026-07-06T19:06:06.258564+00:00"
+},
+{
+    "id": 54755,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In trigonometry, which function is used to calculate the ratio of the hypotenuse to the adjacent side in a right triangle?",
+    "op": [
+        "Secant",
+        "Sine",
+        "Tangent",
+        "Cosine"
+    ],
+    "created_at": "2026-07-06T19:06:12.074027+00:00"
+},
+{
+    "id": 54756,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which trigonometric function is used to calculate the height of a tree using its shadow?",
+    "op": [
+        "Tangent",
+        "Secant",
+        "Cosine",
+        "Sine"
+    ],
+    "created_at": "2026-07-06T19:06:18.557624+00:00"
+},
+{
+    "id": 54758,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The domain of the function y = cosx is",
+    "op": [
+        "$$(1, + \\infty )$$",
+        "$$( - \\infty , + \\infty )$$",
+        "[-1, 1]",
+        "none"
+    ],
+    "created_at": "2026-07-06T19:06:24.604798+00:00"
+},
+{
+    "id": 54760,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$${\\sin ^2}\\theta + {\\cos ^2}\\theta = \\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "1/2",
+        "0",
+        "1",
+        "-1"
+    ],
+    "created_at": "2026-07-06T19:06:30.40293+00:00"
+},
+{
+    "id": 54781,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Power reducing formula for $cos ^2A$ is _____.",
+    "op": [
+        "$$\\frac{{1 - \\cos 2A}}{2}$$",
+        "$$1 - {\\cos ^2}A$$",
+        "$$\\frac{{\\cos 2A + 1}}{2}$$",
+        "$$\\frac{{2\\tan A}}{{1 + {{\\tan }^2}A}}$$"
+    ],
+    "created_at": "2026-07-06T19:08:01.870592+00:00"
+},
+{
+    "id": 54786,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$cos\\theta$ is negative in the second and the _______ quadrant.",
+    "op": [
+        "second",
+        "third",
+        "fourth",
+        "first"
+    ],
+    "created_at": "2026-07-06T19:08:21.769691+00:00"
+},
+{
+    "id": 54789,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\tan (\\theta + \\pi )$$=",
+    "op": [
+        "$$\\tan \\theta$$",
+        "$$\\sec \\theta$$",
+        "$$- \\tan \\theta$$",
+        "$$\\cot \\theta$$"
+    ],
+    "created_at": "2026-07-06T19:08:39.631814+00:00"
+},
+{
+    "id": 54792,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAYAAAA0u3w+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJfSURBVFhH7ZhBrgFBEIbLuwFH4Ap2bFjgBpxAwpqNuAD2uAELiZWQWFjYSGxcgBNwhnnzt+pk0qZnurxJ3jx5X9IZ3dNTXX9Xdc1ExvOhD+aLrx/Lv8C/TmoE5nI5ymQyNB6PeSQhUGR+m8vl4tXrdRQ7pyYhFRE8nU5UrVbhuVOTkAqB6/Wa/AhyL2H8HUmcQqHgjUYj7kVzv9+9bDbLveSxCrxer16n0/EGgwGPuLHZbNQ5geMuYH6z2eTek8ViocYgHLYkG2byIhCOQRQMo0kNo1hgY1zBWhCkwXpYF+PwBQ1i3/EFvAiEg8fjURmWGkU1xDOIviuITnA+1isWi9x7gvuwC9+kRJ5BqUBETuIEHDfF2HhXYGJV9Ha70Ww2o+FwyCNPMN7tdlUz2e/3VKvVuGcHNkA+n1dXCYkJXK1W5KcblctlHiFaLpdK2Pl8VuIfjwffeXI4HKhUKnHPDmyDXq+nriI4kqHgtkuK4ryi4gWLRRCMh9mKWV6hz7XNdhyJCJzP56pYRIH7wTkoZObrwURvnKQqmySSopPJhNrtNvfC6ff75BcVlbZgu91SpVJRv8NAOjcaDWq1WjSdTnn0DVhoKLgdF0GkDnYZux2FjoauhKieSD8biBrmxNmN48cC4bBrCukPCGxKVEoj5bEZ5vs07hiEYRWoD3fUewrnCHNMR2zoFzYctW2KrWDpT0ApL09glyEKxnTTqWWmFJyUFgDMh004HAYyJrh2sMEPKfItYXQ0EEUJOjN+erZceftvQ7zA8YWx2+14JKUomUJs5ySN/P/x+9f5cIFE31R8cgBXvZgvAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAfCAYAAAC8hnD/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ8SURBVGhD7ZmxjcIwFIbNbQArwAgsAA0TIAagYgAaJCoqmIANoKNCDEBDyQK0VIgVcvlM3smy4ti5+O44yZ9khTiO/d7v956ju1aWoxKaj+KayEliGCQxDJIYBkkMgyhidDod1Wq11GazKXr+KRytTbher9loNOJ4DmrvTOPIuFwuajgc4mVQe2cai3E4HFQeGcVdHHq93t+kXL5b3+bxeGTtdru4e3E+n7PZbJZ1u12dFjznnrEhHI9H/Z45frfbZZPJRM/FM+Zer9fF03g0EgPDMVJACIw1nd9ut7qPuhIC43hfwGneXywWek4aa9IXW5BGYmAguyaIGHYUSJT4oBgz7na7FT0vMfr9fnH3gueMCxU4lEZi4KRpuAucsdOpDCIi1MG3EgMR7B0rQ6KFdKlCdpvxPmSsmU4xqBSDRVmwbFGcI01c8C4hTvT4hAAZG4LUEdaIiVMMagFhyO6zsF0HKGIU0DLEWBrv+8RgbtLIrD8upK6EjK2LN01YlMVx0IQ+HxJZjK0KacQKiQoRLXZ6CEE1A0NNY8lr80j1IdHlCmvmtsW2QQjm+SkhIOgLdD6fq9wRtd/v9f3pdFKDwUD/DmE8Huvr/X7XVxPmfD6fajqdFj3lLJdLfV2tVvr6IxSiVCLhKUcZO0Tu2riKoHwk2XUHmNO326QR69uRFZJadQgSAzg5cIga4jJCCifOieM4Ql/ZySPHbtWpIBthF0z5bI9J8GwYzOII4dpJxiCI1Agav12Vn3l8USEClzVEikktaTEcI1xHah1E3JCPrN+ilhhyxpflfl0QNvbndFPiJl0grjrw16T/qBmkv44bJDEMkhgGSYwvlPoEjyh2sjYAEHQAAAAASUVORK5CYII=.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAdCAYAAADy+d/cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHHSURBVFhH7ZkxjoJAFIZn9wbG3kaPQEkPN4DSVr0B8QJ6AKSk08LWhJ4LeAGtLPUM6P/yZkPcxRl3hwmb4UvIZB4P8v43M4+X8FE9EA7yyaNz9MJdoxfuGr1w1+iFu4YV4ZPJRKzXa551BLSsOpxOp2o2m1VJkrBFj8PhgJa4ul6vNMeYZVkVBAHZcXmeR342UQpHoBArg1ytVnxHDwhEwiRS8Ha7pTkSOh6PyVaWJdlsoBSOQBEQEvCu8OPxSM9AnATve941SMJvkvoXtLc6eDc4rDSEqkBibQtvrbidz2ex2WzEcrlkSzOXy4XG0WhEow1aE77f78Xj7Arf99nSTJ7n5BvHMVsswCuvBdx1tiPqwWAw+Cpgr0CFhy/qgU1aEQ4xqNQq5NnWSZBpWhEO0So/rLDurmgD48IhBIJkw/ITuIempf59t43x4oZChSI1HA7Z8p3FYkFjmqY0AnwFwjDkmQU4AUpkM4KVakKe2XrD8kyTD5oanW++KZTCERDEIlh5YSsjyOdKjK2r2r54rv6u+hVFEXu1z1tn/BVYQQSPFf0PGPuhMJ/P6ZwWRcGWbmOkuN1uN7Hb7cR0OmVL9+l/IbmFEHfndQtAhe3NMQAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAZCAYAAADaILXQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVEhL7ZXBDcAgCABpN3AXdzDO4AaOoBO4nRM4gTvYYugPW9vUH5cQEzQHD4hbO4FF7HQuQeQsImd5lJdSwHsPMUbKvACXiKPW2kIIuGA9Ukp0M8+wc+ccWGvhLEKZD1CRW/DZr53/gchZRM5DIzkk59znXGtNmXmGclx9FKL4CqVUM8b0gjPIB82yUA5wACvfWuXbvwphAAAAAElFTkSuQmCC."
+    ],
+    "created_at": "2026-07-06T19:08:46.628115+00:00"
+},
+{
+    "id": 54794,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The _____ of a trigonometric function is the height from the mean (or the rest) value of the trigonometric function to its maximum or minimum value.",
+    "op": [
+        "amplitude",
+        "period",
+        "range",
+        "angle"
+    ],
+    "created_at": "2026-07-06T19:09:21.060167+00:00"
+},
+{
+    "id": 54814,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The Sine function has “period”",
+    "op": [
+        "$${120^0}$$",
+        "$${1200^0}$$",
+        "$${720^0}$$",
+        "$${360^0}$$"
+    ],
+    "created_at": "2026-07-06T19:10:37.149913+00:00"
+},
+{
+    "id": 54818,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The smallest interval for which the function repeats itself is called its",
+    "op": [
+        "Graph",
+        "Range",
+        "Period",
+        "Slope"
+    ],
+    "created_at": "2026-07-06T19:10:55.255496+00:00"
+},
+{
+    "id": 54824,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "An equation that is not an identity is called a(an) ______ equation.",
+    "op": [
+        "identical",
+        "linear",
+        "transcendental",
+        "conditional"
+    ],
+    "created_at": "2026-07-06T19:11:17.315784+00:00"
+},
+{
+    "id": 54826,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The tangent function has “period”",
+    "op": [
+        "$${90^0}$$",
+        "$${270^0}$$",
+        "$${0^0}$$",
+        "$${180^0}$$"
+    ],
+    "created_at": "2026-07-06T19:11:26.421298+00:00"
+},
+{
+    "id": 54829,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\cos (\\theta - 180) = \\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$- \\sin \\theta$$",
+        "$$- cos(\\theta )$$",
+        "$$\\sin \\theta$$",
+        "$$cos(\\theta )$$"
+    ],
+    "created_at": "2026-07-06T19:11:34.88601+00:00"
+},
+{
+    "id": 54833,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What is the period of the following trigonometric function:\nm(t)=−3cot(−2t)",
+    "op": [
+        "ω=−π",
+        "ω=π",
+        "ω=π/3",
+        "ω=π/2"
+    ],
+    "created_at": "2026-07-06T19:11:45.253111+00:00"
+},
+{
+    "id": 54834,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Equation of a circle centered at origin and radius “11” is …..",
+    "op": [
+        "${x^2} + {y^2} = 121$",
+        "${x^2} - {y^2} = 121$",
+        "$11{x^2} + 11{y^2} = 121$",
+        "${x^2} + {y^2} = 11$"
+    ],
+    "created_at": "2026-07-06T19:11:45.939705+00:00"
+},
+{
+    "id": 54838,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The sine function is periodic, with period 360 degrees, and range between ______.",
+    "op": [
+        "-1 and 0.5",
+        "0 and 1",
+        "0 and -1",
+        "-1 and 1"
+    ],
+    "created_at": "2026-07-06T19:11:54.658634+00:00"
+},
+{
+    "id": 54839,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\cos (180 - \\theta ) = \\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$- cos\\theta$$",
+        "$$\\sin \\theta$$",
+        "$$- \\sin \\theta$$",
+        "$$cos\\theta$$"
+    ],
+    "created_at": "2026-07-06T19:12:04.169319+00:00"
+},
+{
+    "id": 54841,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The tangent function is periodic, but its period is ______ degrees.",
+    "op": [
+        "360",
+        "180",
+        "60",
+        "90"
+    ],
+    "created_at": "2026-07-06T19:12:06.47993+00:00"
+},
+{
+    "id": 54844,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$\\frac{\\pi}{2}$ radians =________ degrees",
+    "op": [
+        "$45$",
+        "$360$",
+        "$90$",
+        "$180$"
+    ],
+    "created_at": "2026-07-06T19:12:23.361197+00:00"
+},
+{
+    "id": 54852,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The amplitude of the function is the height from the rest value to the extreme value",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-06T19:13:30.441496+00:00"
+},
+{
+    "id": 54854,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Two functions $f$ and $g$ are said to be identically equal if ______ for every value of $x$ for which both functions are defined.",
+    "op": [
+        "$g(x)=y$",
+        "$f(x)=g(x)$",
+        "$f(x)=y$",
+        "$f(x)+g(x)$"
+    ],
+    "created_at": "2026-07-06T19:13:49.113016+00:00"
+},
+{
+    "id": 54858,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Equation of a circle centred at (-5,0) and radius $\\sqrt 9$ is .......",
+    "op": [
+        "${x^2} + {(y + 5)^2} = 81$",
+        "${(x+5)^2} + {y^2} = 9$",
+        "${x^2} + {(y - 5)^2} = 81$",
+        "${(x-5)^2} + {(y + 5)^2} = 9$"
+    ],
+    "created_at": "2026-07-06T19:14:01.382867+00:00"
+},
+{
+    "id": 54863,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The range of cosine function is between -1 and 1.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-06T19:14:21.159506+00:00"
+},
+{
+    "id": 54872,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$\\cot \\theta =$",
+    "op": [
+        "$\\frac{{sin\\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cos \\theta }}{{\\sin \\theta }}$",
+        "$\\frac{{\\cos ec\\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\sin \\theta }}{{\\cot \\theta }}$"
+    ],
+    "created_at": "2026-07-06T19:15:21.211321+00:00"
+},
+{
+    "id": 54876,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The domain of the function y =sinx is",
+    "op": [
+        "$$( - \\infty , + \\infty )$$",
+        "none",
+        "[-1, 1]",
+        "$$(1, + \\infty )$$"
+    ],
+    "created_at": "2026-07-06T19:15:38.959661+00:00"
+},
+{
+    "id": 54877,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If tan⁡-1(x)=45o​, what is the value of x?",
+    "op": [
+        "none of these",
+        "1",
+        "0",
+        "0.5"
+    ],
+    "created_at": "2026-07-06T19:15:45.641165+00:00"
+},
+{
+    "id": 54882,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The cosine function has “period”",
+    "op": [
+        "$${180^0}$$",
+        "$${360^0}$$",
+        "$${270^0}$$",
+        "$${90^0}$$"
+    ],
+    "created_at": "2026-07-06T19:16:05.480954+00:00"
+},
+{
+    "id": 54884,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The domain of inverse sine function and inverse cosine function is same.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-06T19:16:13.910503+00:00"
+},
+{
+    "id": 54889,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The value of $\\sin {135^ \\circ }$ is same as the value of ........",
+    "op": [
+        "$- \\sin {45^ \\circ }$",
+        "$- \\sin {90^ \\circ }$",
+        "$- \\sin {135^ \\circ }$",
+        "$\\sin {45^ \\circ }$"
+    ],
+    "created_at": "2026-07-06T19:16:24.299376+00:00"
+},
+{
+    "id": 54894,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The cosine function has “period” ${360^ \\circ }$ as it repeats itself after each revolution of _________.",
+    "op": [
+        "$${360^ \\circ }$$",
+        "$${60^ \\circ }$$",
+        "$${90^ \\circ }$$",
+        "$${180^ \\circ }$$"
+    ],
+    "created_at": "2026-07-06T19:16:38.554683+00:00"
+},
+{
+    "id": 55057,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAbCAYAAADMIInqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJnSURBVFhH7ZgxrgFBGMfHuwGO4Ao6GgqOoFVJ6DWi1OAA3IBCohIShYJConEAnIAz7Nvf+CbZiF2z7w3x4v2SyZrZ2Zlv/t/3zUwkPB/1wXzJ8y1IpVIqkUioXq8nLS+ACHgH9vu9Vy6XiUar4oq3iYDtdquKxSIrsyqueBsBptOp8iNAai/EV/MpZDIZr9vtSi2a8/nsJZNJqb2WSAEwjEWQm3GYzWY6T/neBvpXKhWpXVmv1169XtdCMhYCUbcd05ZQAYbDoZ6UyeMKQH+MtaXVanmj0Uhq18WbeY/Ho27DET+x5RF3BcAgBIBsNhtrUnZzDDWG24CXg/2NALfeNtHgkoejsfg4AuD5OP1ZOCLbwLiuBXB6CpxOJzUYDFS73ZaWK7Q3Gg1dblkul6pUKkktmsPhoPwokJobnAowmUy0gfl8XlqUGo/HeuG73U6Lc7lc5M2V1Wqlcrmc1MLZbDbKjxbV6XSkxRESCaHYpoA5yoKbWRDame72aLQwQY9N/sfZWG1xJgCbJkZGwftgHza72+PvHszPPuH6CARnKdDv91WtVpPafZrNpg5j0gLm87kqFAr6dxikD2mzWCxUOp2WVoeIEKHYRADhTfg/8pBJEzMeXuXYDMOMG9XntzgRgPe2+ckdA91ZXFTKmPsEt8QgzEPquCJSALP5YEiYd82lxfbiQz/6M26UaPdE5Vsi4ukC4B0MwNBgoY13QTDS1vsG+jPerXcNRtSw4jIlHqZAFMabcT1iwvsZu3pcfvWfIDs0tzx26L/Kj49BjiaOs2q1Ki1/k/9/heX5sfwLIM+P5cMFUOobNlY+e/l5H28AAAAASUVORK5CYII=.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAgCAYAAACl36CRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJrSURBVGhD7Zm9jcIwGIbNbQArwAgsAA0TIAagYgAaJCoqmIANoKNCDEBDyQK0VIgVcnmMP8my4thgjrtT8khRiOOf7/X340g0shxVUb7MvZLU4qtKLb6qvEV8q9VSjUZDrVYr0/JP4KhL4Xw+Z4PBgOMy6vpLJHv+dDqpfr+PqqjrL5Esfrfbqdzz5uk9dDqdz6RQ7o2Xud1uWbPZNE8PjsdjNplMsna7rcOc9zzTN4b9fq/H2f03m002Go30XLxj7uVyad6+TpJ4DMUoAeEYZ4tdr9e6jboQA/0YLyCS8bPZTM/JxZq0pW5AkngMwiuCiHe9LFEQguJJv8vlYloe4rvdrnl6wHv6xW6ojyTxiLIN9YHxbnoUgcdjBf2qeES7HilCooHwL0O8Sf8Q0tdOj1coFc8iLFC0CGIIex+MJWSJjpBwkL4xSB1gjRS84sllwgrvspCbxxQdCl4RYhwX40PimZu0sOuHD6kLMX1DBMOeRVgMQTa0hZDIoW9ZiLI5MV6XTUoNdyEq5zHMNo68tI+4EBI9vjBlbndzXRDOPO8SDlFfeNPpVOWGq+12q58Ph4Pq9Xr6dwzD4VDfr9ervtsw5/1+V+Px2LQUM5/P9X2xWOj7WzCbUIqEmxwteIDcc/EVLfkocesGMGfIm6QF67uRE5MqZUSJByo7AqgBvkWl0CFGhGI4bUUngxyDZVVbNt4tcPIZnEL0aAxkMYT7PEUfNkBynIvfvsrMPCGvy4YWXWxKCk9tHYayqO+IewbZzJiPmp/iKfFyxhbl7rOwkamfp6mkJc2L+PL409T/2FSVWnxVqcVXE6W+ASSbd6WlX5eAAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAZCAYAAACo79dmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG+SURBVFhH7Zg7jsIwEIZn9wbADYAjUNJQwQ2gj4SU1FQIKiqg59HRESRapPRcIBeAEwBXyPLPjldZyMPedQokPsmyPBkmv0cej8hHdIdehE+ZX4K32KJ4iy2Kt1hFvV6n2WwmKwvgns3icrlE0+k0arfbYtHjcDjg/ubfK7bbbdTtdqNSqcTParUax9YlU+xqtfoJbCoW/q7ryipiUYgzHA55AxgQDpuu4FSxCAqxoNFoGIkNw5BFnE4nsXyLRZw4eG6SiNxjABDMRCwyqi3AQKz1Ajufz7RcLmk0GoklHfiCarXKcx7Wxe73e7oXDjWbTbGkA18wGAx4zkUynInuMUDRoCBR9Xmoc63jq7CaWWSqXC5Tr9cTSzLX65VarRbdz3aubxyrYufzOfX7fVklA6GdTodFLhYLsephTazv+3S73chxHLEkMx6PeZ5MJjybYE3sZrPhbFUqFbE8s16veVO73e6XH9qyFnJ2U0HRoC3CNd464xyPx6cm8Eha8am2rEOqF4LiBkCg+IDt8YVoAvHWmoRqt0kDm9BBb0sZqJaJ7BbNv//dep7HnSgIArEUCEv+IyZNwAYv9N2A6AsYe6slamudFAAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVDhPY/wPBAxUBkxQmqpg1FDc4O3btwxdXV0MHh4eUBEiASj2sYEZM2b8FxQUBKWM/+7u7lBR4gBWl1ZXV4Ppd+/eMZiYmIDZpACC6RTm9R07doBpYsBokqI+GOGG4sxRIPDmzZv/ysrK4FwFYhMLsBq6fPlycNYEGYaMQWIgOUJgRJf8DAwA8dPys9TfzP8AAAAASUVORK5CYII=."
+    ],
+    "created_at": "2026-07-06T19:28:03.324936+00:00"
+},
+{
+    "id": 55067,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\sin 2A = \\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "$${\\cos ^2}A - {\\sin ^2}A$$",
+        "$${\\cos ^2}A + {\\sin ^2}A$$",
+        "$$1 - 2{\\sin ^2}A$$",
+        "$$2\\sin A\\,\\,\\cos A$$"
+    ],
+    "created_at": "2026-07-06T19:28:35.388479+00:00"
+},
+{
+    "id": 55076,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$sin \\theta$ is negative in the _____ and the fourth quadrant.",
+    "op": [
+        "first",
+        "fourth",
+        "third",
+        "second"
+    ],
+    "created_at": "2026-07-06T19:29:37.361663+00:00"
+},
+{
+    "id": 55078,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\tan 2A = \\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "$$\\frac{{2\\tan A}}{{1 + {{\\tan }^2}A}}$$",
+        "$$\\frac{{{{\\sin }^2}A}}{{{{\\cos }^2}A}}$$",
+        "$$\\frac{{2\\tan A}}{{1 - {{\\tan }^2}A}}$$",
+        "$$\\frac{{\\tan A + \\tan B}}{{1 - \\tan A\\,\\tan B}}$$"
+    ],
+    "created_at": "2026-07-06T19:29:52.007894+00:00"
+},
+{
+    "id": 55081,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$The\\,\\,function\\,\\,y = \\cos 3x\\,\\,has\\,period...$$",
+    "op": [
+        "$$\\pi$$",
+        "$$2\\pi$$",
+        "$$\\frac{{2\\pi }}{3}$$",
+        "$$\\frac{\\pi }{2}$$"
+    ],
+    "created_at": "2026-07-06T19:30:05.627309+00:00"
+},
+{
+    "id": 55091,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$\\tan \\theta =$",
+    "op": [
+        "$\\frac{{\\sin \\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cot \\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cos \\theta }}{{\\sin \\theta }}$",
+        "$\\frac{{\\cot \\theta }}{{\\sin \\theta }}$"
+    ],
+    "created_at": "2026-07-06T19:33:01.449061+00:00"
+},
+{
+    "id": 55092,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$cos\\theta$ is positive in the _______ and the fourth quadrant.",
+    "op": [
+        "fourth",
+        "third",
+        "first",
+        "second"
+    ],
+    "created_at": "2026-07-06T19:33:26.423463+00:00"
+},
+{
+    "id": 55093,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\tan \\theta$$ is negative in the _________ quadrant",
+    "op": [
+        "none",
+        "1st",
+        "2nd",
+        "3rd"
+    ],
+    "created_at": "2026-07-06T19:33:34.569005+00:00"
+},
+{
+    "id": 55095,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$cos\\theta$ is positive in the ___________ quadrant.",
+    "op": [
+        "$III$",
+        "$I$",
+        "$II$",
+        "Both $I$ and $II$"
+    ],
+    "created_at": "2026-07-06T19:33:49.725418+00:00"
+},
+{
+    "id": 55096,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "cos-1 (cos(x)) = ________.",
+    "op": [
+        "none of these",
+        "1",
+        "-x",
+        "x"
+    ],
+    "created_at": "2026-07-06T19:33:51.627549+00:00"
+},
+{
+    "id": 55097,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following trigonometric functions is periodic?",
+    "op": [
+        "Tangent",
+        "Sine",
+        "Cosine",
+        "All of the above"
+    ],
+    "created_at": "2026-07-06T19:34:13.126446+00:00"
+},
+{
+    "id": 55098,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAfCAYAAACs5j4jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJhSURBVFhH7ZhBzjExGMfruwFH4Ap2bFjgBpxAwpqNuAD2uAELiZWQWFjYSGxcgBNwhnnnV22+yZiaFsnLG7+kGW1nnj7/p0+fmUh4PuIP8k9d/xxfYZ/G2whLpVIikUiIfr+vRp6E4vHbHA4Hr1wuU8Ssmg1vsWO73U4Ui0U8tmo2vIWw+Xwu/B1TvRfhR+ClZDIZr9frqV485/PZSyaTqvc6jMKOx6PXaDS8TqejRuJZLBbyDOCsLTxTrVZV78pkMpFjCMaea7DgRhhOIQaDNBeDFACC4QJrIUTDeqzLOL7QEOnqy40wnNtut9KgizEqG/ez0y6wG8FnWC+bzareFeaxjW+23D1jLsLYKZeFAYfDIky4CntJVTydTmI0Golut6tG/sNcs9mULcx6vRalUkn1zGAD0um0vNrwEmGz2Uz4KSXy+bwauTKdTqWg/X4vhV8uFzVzZbPZiFwup3pmsA+tVkterVA7FwnTcanIWaR6BQtAGOaibMUsL9Fn9579KJ4WNh6PZQGIg3uC91GgwmU+jA6aa6WFp1NxMBiIer2uemba7bbwi4VMT1gul6JQKMjfUZC2lUpF1Go1MRwO1agDSmAkTN/bMdKDiBLZOHT0dWWjGpJmJtgl7rGxHcVTwnDSJU30i5+A3Etf0psghN+JNimvMQrTh9b0nuGMMB9e/B76RYuDpoCYipH+XLPl5k6iihiM6KZTKJg6OPbIoeYZbOJoFGRIcO1gww9b7EMQQEeeXXNFZ8KjZ8eWh/5+46XL18BqtVIjb4iU54DpDLwb3z9MP42vsE/jK+yzEOIHLYACdnBGRHQAAAAASUVORK5CYII=.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAXCAYAAACf+8ZRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGoSURBVFhH7ZdBroIwEIb73g2MezZ4BJfu4QZ6BfQGxgvAAYQlOzdsTdhzAS6AK5bcofpPpi8NUdq+10di4peQynRs/05n2vAlH4g345vbt+Ijei7+VfRqtRJZlvGbR1CIJrquk0mSyOPxyBYz1+sVBS6HYWCLpN9FUcgoiqgPz3q9Jl8XJkVjEghVE6Rpyj1mIAwL1VFiL5cLvSMYYRiSrWkastkwKRqTYDCIdxHdti35Q5QOxhvvFhbgGhCr9AAuAyPCEGgDguIq2nsh3m43kee5OJ1ObJmm73tqgyCg1gbvoquqEo88FZvNhi3TlGVJ/rvdji0WcMSNwNW0hcj9xWLxU2gmcJLAHzXgglfREIHTwAaVy7YL1PEqGoJtCgqRddmRMd5EQwCE6JfJM9CPC2V8hrvgrRBRUCim5XLJluccDgdqz+cztQAnThzH/GYBi59EXRaI0DNUfo4vkzGv/HDh2J7rYFI0BoNQTKQepAAm0CseW22z3fifPpb+bLdb9jJjndOvQNQwKaI4F3/+3Nrv95STdV2zZQZI+i9xvUx88fmwnQch7kCgy1OED+yoAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAjCAYAAACq00VWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASpSURBVHhe7ZpLK3ZRFIC3by65jCiJCaWURGGkXAYGZvwFfgK/gIGBgVDKQFEmJkTKxGXgUkRRLkkycvkJ73ee5Sztb3feY78GfLbz1Gmds959WZd9O4eiXITJCIo/scwIiCypAZIlNUCypAZIltQAyZIaIFlSA+THJ7WoqEiuvr6+WPM5np+fzcjIiCkrK5P2kDYTExOiv729jTVfA36pj778+KQ+PT2J7OrqEvkZSCjBe3l5MVdXV2Ztbc3U1dXFv76xvb1tSktLTW1tbaz5GjY2NkxLS4vp7e2NNR7wRek7iYKXGx8fj58K5+bmhi9iuZ2dnVhTOPRPG7T1P1JojL51prKkRYE07e3tsaZwDg4ORDY0NIgsFJbTubk5mQ1fPQt9wD5i1NjYGGs8iJObyujoqIzkyHF5Pjk5yUXLgeiQSSwtLUl5ynANDw/noqVSfkOq3r4YkWlQD1uiZVDK0/fg4OC7XS62DdRxR7vOUPeyscvoaoAd6j/2QLRki/3o8s2qj+yBmZmZ93aQGnuNnQ8fJpVkYAxG0zid0hGdcI/OXfqog9GqR1LOdYLA5EuIC/1Rlkvb1f41sDa0TVC0LMmnrAsDFD0+5sMNLDZQT/XUxRbI14+PPRo3tUVt842R8mFSFU0qximqU0MBg9C5QaKeXRdwAEd80ADiqKKDxe2LwUPb9h5JfXQuOjDS9lNsTAqstolU1E4bH3vsSWODzjdGindS1VjbMIx1HcB5RqSLm1SfGaIwQ5Kc0wFk26RldVUg8WpnUl86O9LAn6TAJvnq+ulrT1Jb+JXP7jS8k0qn7mjN50BSANCz5Cg+M0TR5DGabejHDYSW1QubKWevJjbUt31wyRdY9dWepYBOEwg+9mgfblta1ydGNt6n36OjI9PT0xM/vb3bbW5u/vN+eHFxIbKmpkaksr6+LnJgYEAknJ6eer/33d/fi6yqqhIJ9L+8vCynVhstGwWdAWsODw/N9PS06ezsFL2NnizT3nHzna7V146ODpGgftqneR97Hh8fRVZXV4tUFhYWPvVu7JXU3d1dkbYD6pTP68jU1JQY193dHWveAtra2ho/+VFcXBzfGTM5OWleX19Nc3NzrEmHr0Xu16DLy0uRaT6cnZ2JbGpqEqns7++LbGtrEwnn5+cikwaQS5I9JSUl8Z2RAcuAKjRG4JVUdaC+vl4kPDw8xHfGzM7OihE4Ey1nZmVlRWaSfnpjRi8uLpry8vK4xhvX19dShkGT9plPR/DW1tZ7mzrA+I36Y2Nj8qwJmp+fF0nghoaG5N4d8Xt7eyLT3nGPj4/FJ+1XE8EXJvS2T3d3dyLtsj72VFZWilxdXRVJPBlMJJQydh0vZBH+APYcd+9ineeAwWXvIRyA2Ddomot9NGk/Y7+gbloZG/YhymKH7q3aD3sRe5xit015dz9UqO/65aKnUrtfQOeeHfKV9bEHHb/b8dTDKfEvZF/91f94xkfyKDGyx4XEj/+g/1n0UNPf3y8yJH7lTGXP0z2c02ho/LqZygytqKiQQw5/1gqR7J+5A+TX7qkhkyU1QLKkBkiW1ADJkhogWVIDJEtqgGRJDZAsqcFhzF+uVYN2e3uUxAAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAbCAYAAAB4Kn/lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACSSURBVEhL7dXRCYAgEAbgqw3cxR3EGdzAEXQCt3MCJ3AH6+QyCAsLe7sPJDjjPx88XMoOfrDSdzoObji4eQxOKYG1Frz3VHkBB+Qq51ycczg4dYUQaGdc98TGGNBaw96AKh9Qg1v4y7QTz8DBDQef6Np1xRjrPZZSUmVcNxjHGcMw9FhCiKKUqs1G8GPacDAB2ADf7Ur5VRTQ7QAAAABJRU5ErkJggg==."
+    ],
+    "created_at": "2026-07-06T19:34:23.971192+00:00"
+},
+{
+    "id": 55100,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is a practical use of trigonometry in aviation?",
+    "op": [
+        "Monitoring engine performance",
+        "Calculating flight path angles and distances",
+        "Reducing in-flight noise",
+        "Designing passenger seats"
+    ],
+    "created_at": "2026-07-06T19:34:47.650558+00:00"
+},
+{
+    "id": 55103,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$cos(180-\\theta)=$",
+    "op": [
+        "$sin\\theta$",
+        "$cos\\theta$",
+        "$-cos\\theta$",
+        "$-sin\\theta$"
+    ],
+    "created_at": "2026-07-06T19:34:59.385546+00:00"
+},
+{
+    "id": 55105,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\cos 2A = \\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "$$2{\\cos ^2}A - 1$$",
+        "$$2\\sin A\\,\\,\\cos A$$",
+        "$${\\cos ^2}A + {\\sin ^2}A$$",
+        "$$1 - {\\cos ^2}A$$"
+    ],
+    "created_at": "2026-07-06T19:35:39.553054+00:00"
+},
+{
+    "id": 55106,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The range of $y = \\arccos x$ is........",
+    "op": [
+        "$[0,\\pi ]$",
+        "$[ - 1,1]$",
+        "$[ - 2\\pi ,2\\pi ]$",
+        "$[ - \\pi ,\\pi ]$"
+    ],
+    "created_at": "2026-07-06T19:36:01.389897+00:00"
+},
+{
+    "id": 55128,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The sum formula for $cos (A + B)$ is _____.",
+    "op": [
+        "$$\\sin A\\,\\cos B - \\cos A\\,\\sin B$$",
+        "$$\\sin A\\,\\cos B + \\cos A\\,\\sin B$$",
+        "$$\\cos A\\,\\cos B + \\sin A\\,\\sin B$$",
+        "$$\\cos A\\,\\cos B - \\sin A\\,\\sin B$$"
+    ],
+    "created_at": "2026-07-06T19:41:28.221128+00:00"
+},
+{
+    "id": 55130,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The center of a circle having equation ${(x - 3)^2} + {(y +2)^2} - 49 = 0$ is at.........",
+    "op": [
+        "(-3,2)",
+        "(-2,3)",
+        "(3,-2)",
+        "(-3,-2)"
+    ],
+    "created_at": "2026-07-06T19:41:46.809059+00:00"
+},
+{
+    "id": 55132,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What is the value of cos⁡-1(1)?",
+    "op": [
+        "90o",
+        "60o",
+        "30o",
+        "0o"
+    ],
+    "created_at": "2026-07-06T19:42:31.692639+00:00"
+},
+{
+    "id": 55133,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$The\\,\\,function\\,\\,y = \\sin 3x\\,\\,has\\,period...$$",
+    "op": [
+        "$$\\frac{\\pi }{2}$$",
+        "$$\\pi$$",
+        "$$\\frac{{2\\pi }}{3}$$",
+        "$$2\\pi$$"
+    ],
+    "created_at": "2026-07-06T19:42:54.520988+00:00"
+},
+{
+    "id": 55175,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\sin ( - \\theta ) = \\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$- \\sin \\theta$$",
+        "$$\\sin \\theta$$",
+        "$$\\cos ( - \\theta )$$",
+        "$$\\cos \\theta$$"
+    ],
+    "created_at": "2026-07-06T19:55:01.4705+00:00"
+},
+{
+    "id": 55217,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$sin \\theta$ is positive in the first and the _____ quadrant.",
+    "op": [
+        "first",
+        "second",
+        "third",
+        "fourth"
+    ],
+    "created_at": "2026-07-06T20:05:23.61498+00:00"
+},
+{
+    "id": 55221,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The sum formula for $tan (A + B)$ is _____.",
+    "op": [
+        "$$\\tan A + \\tan B$$",
+        "$$\\frac{{2\\tan A}}{{1 - {{\\tan }^2}A}}$$",
+        "$$\\frac{{\\tan A - \\tan B}}{{1 + \\tan A\\,\\tan B}}$$",
+        "$$\\frac{{\\tan A + \\tan B}}{{1 - \\tan A\\,\\tan B}}$$"
+    ],
+    "created_at": "2026-07-06T20:06:28.201191+00:00"
+},
+{
+    "id": 55248,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$1 + {\\cot ^2}\\theta =$$",
+    "op": [
+        "$${\\sec ^2}\\theta$$",
+        "$${\\csc ^2}\\theta$$",
+        "$${\\sec ^2}\\theta$$",
+        "$${\\tan ^2}\\theta$$"
+    ],
+    "created_at": "2026-07-06T20:13:57.721416+00:00"
+},
+{
+    "id": 55275,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The difference formula for $sin (A - B)$ is _____.",
+    "op": [
+        "$$\\sin A\\,\\cos B + \\cos A\\,\\sin B$$",
+        "$$\\sin A\\,\\cos B - \\cos A\\,\\sin B$$",
+        "$$\\cos A\\,\\cos B - \\sin A\\,\\sin B$$",
+        "$$\\cos A\\,\\cos B + \\sin A\\,\\sin B$$"
+    ],
+    "created_at": "2026-07-06T20:21:22.787956+00:00"
+},
+{
+    "id": 55282,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The radius of the unit circle is",
+    "op": [
+        "$\\pi$",
+        "2",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-06T20:23:12.758775+00:00"
+},
+{
+    "id": 55284,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The function $y = \\sin 4x$ has period......",
+    "op": [
+        "$\\frac{\\pi }{2}$",
+        "$2\\pi$",
+        "$\\frac{\\pi }{4}$",
+        "$\\frac{\\pi }{3}$"
+    ],
+    "created_at": "2026-07-06T20:24:57.248007+00:00"
+},
+{
+    "id": 55296,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "data:image/png;base64,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.",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAZCAYAAABpaJ3KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGISURBVFhH7ZgxroJAEIaHdwCM8QbAEbCTWm4AXsFQU9Bb6AHsrPECCvQ0NMSGUm7AGXjMvsHoUx4ieRuS5Usmm5kl6/zZxZlFKitAQL5oFI5RuGi8FC5J0oPFcUwzw2a32z3kjX4TjTu+XC4B//fQFosFRftzPB5B0zQoioIi3cGNME0TzuczRX5wXfeWcxvcjjomi4JXqxVcr1eYzWY08z55njPBhmFAFEUgyzLNdIeLcNzlIAggSRLwPI+i3UDR6/Ua9vs9nE4nin4OF+G2bcNms2G7PJlMKNoNRVEgDEM29tnpGm5HfWiMwkWjk/D7Gtlmf9XQIdBJeF0j3zGsqUNmPOqiwV14mqZs/N1uItiVzedz8prJsoyN2BR9TPU+PoHhqlcnrz+Xy4WtN51O2dq16bpeVp0cPVXenmkC51VVfVgD/Ve54tx2uyXvGS7C3wV/07Is8vrRJnww7zje1vDi4TgORf6XRuGYRF2TedzHD4cD+L7f6wp8fx9vY/zYKBqjcLEA+AaoQTaaUCH+UgAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAYCAYAAAC1Ft6mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHYSURBVFhH7Zi/jgFRFMbP7ANIhCdAr0FFMRXRC6WEgkTjJSS8g3oKjUb8aRR0FBRKnoB4BDvf2bNZY2d2xmWNiF8yOXPOuTNzv3uvO2doJxN6IT7EvgxvQc/OW9Cz86cgTdMsx3w+l8xj6HQ6lufDdwXbthNIZ7NZ8azs9/tTvV7nNjiKxeJptVpJ9jpmsxk/ZzAYSOQ3eEa73RbPGeUll8vlaLFYkCmMttstH7qu0+FwkBbu7HY7vk8mk6HxeEyBQEAyNyDCbEHaboYMw+Dc+YxgdBHzMorAHAC+N+z3tZgpJ7zeW2mG+v0+BYNBisfjEiHK5/Nse70eWzcikQiNRiO2d5kZQUnQZDKhVCol3g+JRIKWy6V4/qAk6Hg8ypmVUCgkZ/6hvCk8K29BbmCz8BMlQfjx471xCWJ2m8UjURJUKBTYnpdC6/WabblcZusXSoIqlQovrWazyW97VAfVapVnrlQqSauvaiKZTIrnzGazYTscDtnegpIgbM/T6ZRtNBqlcDjMHceL8hKURE5AcCwWo1qtxn6r1WIfcWWkYrAFaafi1Au4FkXrPUBf/rU4dQPLEJtEo9GQyGNwFYROqXwPdbtdMotYSqfTErme8+8hr7zY31hEn/K2notB7AkvAAAAAElFTkSuQmCC.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAVCAYAAADvoQY8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVFhH3ZdPrilBFIfr3bmI2IDEyEiCkQX4swK2YAt2YAesAAswZUAMDISRkcQCCIkF9OuvcupSrVp33/vcvOtLpLpPV506v+quOscfz0f9cj6k/dW8v4jFYqEajYYajUZi+TkGg4Fqt9s6hkjYEy46nY5XqVS8zWYjlhu9Xs/LZDLsJd1nMpnIk2Ts93s9T7fbFYvNfD7X/sOeG5wiCDKfz3vH41EsN3CIAMTxnCAQw4RxYRx+GMeP+cKgL/P1+32xPPIggtXBsWt1zbN7h0yCrV6viyUa+iLajH0mAobDoe7H/C4eRLCyvAUXBI+z4CdGUNgJKilxRABvI+yzetjYbOJarSZ3NrPZTLfFYlG3hnK5rNvdbqfbV0BM4/FY7mwsEdvtVp3PZ5XL5cRic7lc5MomnU7L1esolUrK/5zU6XQSyw1LxPV61W21WtXt/4jrbb9/sktKKpWSq5/FEmGCWC6Xug1iNnAwi06nU90GN/wrKBQKcnXDEkEQ/lGmDoeDWGyazaZugyJXq5Xyj2a5ew3r9Vr5R7/KZrNiuUOO2k+e5QkgJ3BmmwxNf+7vExHnPq6j8gb5hn6UFlE8yxOhGZss6YLATKnBD1HB5GdEuOouIBgCNz74EaTLFyTO2MAkYbVTHBBBUP8CYsDXs6zuFAGsdlgVGwXj4pQSUTD3l6tYA989rzhJqc0YFuC7UKe1Wq1Y1fEb/MdW6i99vlR6ik8JGAAAAABJRU5ErkJggg==.",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAYCAYAAACiNE5vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH+SURBVFhH7ZhBzsFAFMdfv72FuIDEykoiVg5Ab8AVXMENOAEnQKyJ2BJLYWUlcQBi4QDV/+RNv051dGglqF/STOeZvnn/6XTmDctxoRTyx2Xq+AlPG1rhy+WSbNum4XDIlvem3+9Ts9kUcRuBxS1Iq9VyKpWKs9ls2JIMg8HAKRQKzvF4ZMvj7Pd7EV+73WbLP4vFQsQd9luQG+GdTid2cEEQEHxinDVjHQnigSDpA3GGgXbZbNbp9XpsCUeJAqMJp5PJhC3xwVtGwP7An6Fer4sBhJ97wgH6RBvo0aFEgSmEN/MqEOyzwv1ECQd46/emvLK4YSGr1Wpc+2ygYzQace0WT/h2u6Xz+Uz5fJ4tn025XCZ3qtPpdGKLiif8crmIslqtivJb2O12fKdinMBgT7csy+hC23fHWPhsNsOqZHSh7bvjCc9kMqJcrVai/BaKxSLfqXjCS6USuVsAHQ4Htnw26/Wa3K2ZcrkcW1SUqY5cdz6fcy15EAyYTqei9NPtdsX6oFuFJdh9wHg8FqUO6Gg0GlwLwf0mPWTmhswnKZDvI+tCQgHf8grm1DK50Z0P0BbP+H3AJ3wHn3k4cwPoIOlc3QQIh5C4yFw9KrO7EQ5edTq7B/qLCjYKxPv06UyCAwGmUZIHFh3oC4MdB5zG3G9a+DLh92dj2kipcKIrNJd4USFdWmEAAAAASUVORK5CYII=."
+    ],
+    "created_at": "2026-07-06T20:28:40.739839+00:00"
+},
+{
+    "id": 55304,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What does the sine function represent in a right triangle?",
+    "op": [
+        "The ratio of the hypotenuse to the opposite side.",
+        "The ratio of the opposite side to the hypotenuse.",
+        "The ratio of the adjacent side to the hypotenuse.",
+        "The ratio of the opposite side to the adjacent side."
+    ],
+    "created_at": "2026-07-06T20:37:07.830646+00:00"
+},
+{
+    "id": 55355,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$\\cos ( 0 ) = .....$",
+    "op": [
+        "0",
+        "0.5",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-07-06T21:20:22.769295+00:00"
+},
+{
+    "id": 55357,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The domain of $y = \\arcsin x$ is ............",
+    "op": [
+        "$[ - \\infty ,\\infty ]$",
+        "$[ - \\pi ,\\pi ]$",
+        "[-1,1]",
+        "$[ - \\frac{\\pi }{2},\\frac{\\pi }{2}]$"
+    ],
+    "created_at": "2026-07-06T21:26:59.413202+00:00"
+},
+{
+    "id": 55359,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Sinө  is positive in the",
+    "op": [
+        "first and the second quadrant",
+        "third and the fourth quadrant",
+        "second quadrant",
+        "third quadrant"
+    ],
+    "created_at": "2026-07-06T21:29:16.220337+00:00"
+},
+{
+    "id": 55360,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "$$\\sin (\\theta + 2\\pi ) =$$",
+    "op": [
+        "$$- \\sin \\theta$$",
+        "$$\\cos \\theta$$",
+        "$$\\sin \\theta$$",
+        "$$- \\cos \\theta$$"
+    ],
+    "created_at": "2026-07-06T21:29:47.213987+00:00"
+},
+{
+    "id": 55361,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What is the value of sin⁡-1(1)?",
+    "op": [
+        "0o",
+        "30o",
+        "60o",
+        "90o"
+    ],
+    "created_at": "2026-07-06T21:29:49.944961+00:00"
+},
+{
+    "id": 55545,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "In the cosine function, the minimum value of ______ is taken when $\\theta = \\pm {180^ \\circ }\\,,\\, \\pm {540^ \\circ }$ and so on.",
+    "op": [
+        "1",
+        "-1",
+        "0",
+        "-0.5"
+    ],
+    "created_at": "2026-07-07T01:56:33.58822+00:00"
+},
+{
+    "id": 55565,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The term \"amplitude\" in trigonometry refers to:",
+    "op": [
+        "The speed of a wave",
+        "The height of a wave from its mean position",
+        "The distance between two peaks",
+        "The total length of a wave"
+    ],
+    "created_at": "2026-07-07T02:15:32.437236+00:00"
+},
+{
+    "id": 56019,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "[Math Processing Error]$$\\sin (\\theta + 2\\pi ) =$$",
+    "op": [
+        "[Math Processing Error]$$\\sin \\theta$$",
+        "[Math Processing Error]$$- \\cos \\theta$$",
+        "[Math Processing Error]$$\\cos \\theta$$",
+        "[Math Processing Error]$$- \\sin \\theta$$"
+    ],
+    "created_at": "2026-07-07T05:55:56.265548+00:00"
+},
+{
+    "id": 56741,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "The center of a circle having equation [Math Processing Error]${(x + 2)^2} + {(y - 5)^2} - 36 = 0$ is at.........",
+    "op": [
+        "(2,-5)",
+        "(-2,-5)",
+        "(2,5)",
+        "(-2,5)"
+    ],
+    "created_at": "2026-07-07T13:17:55.639989+00:00"
+},
+{
+    "id": 56875,
+    "cc": "MTH100",
+    "qn": "2",
+    "dt": "19 May 2025",
+    "qt": "A simple expression for the sum ${p^4} - {p^3}q + {p^2}{q^2} - p{q^3} + {q^4}$ is _________.",
+    "op": [
+        "$\\frac{{{p^3} + {q^3}}}{{p + q}}$",
+        "$\\frac{{{p^6} + {q^6}}}{{p + q}}$",
+        "$\\frac{{{p^4} + {q^4}}}{{p + q}}$",
+        "$\\frac{{{p^5} + {q^5}}}{{p + q}}$"
+    ],
+    "created_at": "2026-07-07T15:14:45.104941+00:00"
+},
+{
+    "id": 58115,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "[Math Processing Error]cosθ$cos\\theta$ is positive in the _______ and the fourth quadrant.",
+    "op": [
+        "second",
+        "first",
+        "fourth",
+        "third"
+    ],
+    "created_at": "2026-07-08T06:51:31.947213+00:00"
+},
+{
+    "id": 58441,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "[Math Processing Error]sin2θ+cos2θ=______.$${\\sin ^2}\\theta + {\\cos ^2}\\theta = \\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "1/2",
+        "1",
+        "-1",
+        "0"
+    ],
+    "created_at": "2026-07-08T10:30:50.511701+00:00"
+},
+{
+    "id": 58913,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "[Math Processing Error]$\\cos ( - \\pi ) = .....$",
+    "op": [
+        "0.5",
+        "0",
+        "1",
+        "-1"
+    ],
+    "created_at": "2026-07-08T17:34:52.187167+00:00"
+},
+{
+    "id": 72056,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The absolute value of the complex number Z = 4 + 3i is __________ ",
+    "op": [
+        "6",
+        "12",
+        "1",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72064,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The sky blue area in the below Venn diagram shows ________ data:image/png;base64,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",
+    "op": [
+        "A \\cap B",
+        "A - B",
+        "B - A",
+        "A \\cup B"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72065,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The magnitude of two different complex numbers {Z_1} and {Z_2} ____________ ",
+    "op": [
+        "Always different",
+        "Maybe the same",
+        "zero",
+        "Always the same"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72066,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "overlapping",
+        "intersecting but not perpendicular",
+        "parallel",
+        "perpendicular"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72067,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": " {}^6{C_2}\\,\\,is\\,\\,equal\\,\\,to\\,",
+    "op": [
+        "15",
+        "16",
+        "17",
+        "14"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72080,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 ",
+    "op": [
+        "The ratio exceeds one.",
+        "The terms approach zero.",
+        "The sum is always infinite.",
+        "The series diverges."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72086,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 ",
+    "op": [
+        "17",
+        "19",
+        "18",
+        "20"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72098,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": " \\[{}^6{C_2}\\,\\,is\\,\\,equal\\,\\,to\\,\\]",
+    "op": [
+        "14",
+        "15",
+        "17",
+        "16"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72121,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The conjugate of a complex number Z = x + iy is _______________ ",
+    "op": [
+        "\\bar Z = - x + iy",
+        "\\bar Z = x - iy",
+        "\\bar Z = x - y",
+        "\\bar Z = x + iy"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72122,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The red area in the bellow Venn Diagram shows the _________ of two sets A and B data:image/png;base64,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",
+    "op": [
+        "Complement",
+        "Intersection",
+        "Difference",
+        "Union"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72185,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The red area in the bellow Venn Diagram shows the _________ of two sets $A$ and $B$. data:image/png;base64,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",
+    "op": [
+        "Intersection",
+        "Union",
+        "Complement",
+        "Difference"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72805,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Equation of a circle centred at (-5,0) and radius \\sqrt 9 is ....... ",
+    "op": [
+        "{(x+5)^2} + {y^2} = 9",
+        "{(x-5)^2} + {(y + 5)^2} = 9",
+        "{x^2} + {(y - 5)^2} = 81",
+        "{x^2} + {(y + 5)^2} = 81"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72806,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[{\\sin ^2}\\theta + {\\cos ^2}\\theta = \\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "0",
+        "1",
+        "-1",
+        "1/2"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72811,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cos ( 0 ) = ..... ",
+    "op": [
+        "1",
+        "0.5",
+        "-1",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72812,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The function y = \\sin 4x has period......",
+    "op": [
+        "\\frac{\\pi }{2}",
+        "\\frac{\\pi }{3}",
+        "2\\pi",
+        "\\frac{\\pi }{4}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72813,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cos (\\theta - 180) = \\_\\_\\_\\_\\_.",
+    "op": [
+        "\\sin \\theta",
+        "- cos(\\theta )",
+        "- \\sin \\theta",
+        "cos(\\theta )"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72814,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "{\\sin ^2}\\theta + {\\cos ^2}\\theta = \\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "-1",
+        "1/2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72815,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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 ",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAYCAYAAAC1Ft6mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHYSURBVFhH7Zi/jgFRFMbP7ANIhCdAr0FFMRXRC6WEgkTjJSS8g3oKjUb8aRR0FBRKnoB4BDvf2bNZY2d2xmWNiF8yOXPOuTNzv3uvO2doJxN6IT7EvgxvQc/OW9Cz86cgTdMsx3w+l8xj6HQ6lufDdwXbthNIZ7NZ8azs9/tTvV7nNjiKxeJptVpJ9jpmsxk/ZzAYSOQ3eEa73RbPGeUll8vlaLFYkCmMttstH7qu0+FwkBbu7HY7vk8mk6HxeEyBQEAyNyDCbEHaboYMw+Dc+YxgdBHzMorAHAC+N+z3tZgpJ7zeW2mG+v0+BYNBisfjEiHK5/Nse70eWzcikQiNRiO2d5kZQUnQZDKhVCol3g+JRIKWy6V4/qAk6Hg8ypmVUCgkZ/6hvCk8K29BbmCz8BMlQfjx471xCWJ2m8UjURJUKBTYnpdC6/WabblcZusXSoIqlQovrWazyW97VAfVapVnrlQqSauvaiKZTIrnzGazYTscDtnegpIgbM/T6ZRtNBqlcDjMHceL8hKURE5AcCwWo1qtxn6r1WIfcWWkYrAFaafi1Au4FkXrPUBf/rU4dQPLEJtEo9GQyGNwFYROqXwPdbtdMotYSqfTErme8+8hr7zY31hEn/K2notB7AkvAAAAAElFTkSuQmCC",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAVCAYAAADvoQY8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVFhH3ZdPrilBFIfr3bmI2IDEyEiCkQX4swK2YAt2YAesAAswZUAMDISRkcQCCIkF9OuvcupSrVp33/vcvOtLpLpPV506v+quOscfz0f9cj6k/dW8v4jFYqEajYYajUZi+TkGg4Fqt9s6hkjYEy46nY5XqVS8zWYjlhu9Xs/LZDLsJd1nMpnIk2Ts93s9T7fbFYvNfD7X/sOeG5wiCDKfz3vH41EsN3CIAMTxnCAQw4RxYRx+GMeP+cKgL/P1+32xPPIggtXBsWt1zbN7h0yCrV6viyUa+iLajH0mAobDoe7H/C4eRLCyvAUXBI+z4CdGUNgJKilxRABvI+yzetjYbOJarSZ3NrPZTLfFYlG3hnK5rNvdbqfbV0BM4/FY7mwsEdvtVp3PZ5XL5cRic7lc5MomnU7L1esolUrK/5zU6XQSyw1LxPV61W21WtXt/4jrbb9/sktKKpWSq5/FEmGCWC6Xug1iNnAwi06nU90GN/wrKBQKcnXDEkEQ/lGmDoeDWGyazaZugyJXq5Xyj2a5ew3r9Vr5R7/KZrNiuUOO2k+e5QkgJ3BmmwxNf+7vExHnPq6j8gb5hn6UFlE8yxOhGZss6YLATKnBD1HB5GdEuOouIBgCNz74EaTLFyTO2MAkYbVTHBBBUP8CYsDXs6zuFAGsdlgVGwXj4pQSUTD3l6tYA989rzhJqc0YFuC7UKe1Wq1Y1fEb/MdW6i99vlR6ik8JGAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAZCAYAAABpaJ3KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGISURBVFhH7ZgxroJAEIaHdwCM8QbAEbCTWm4AXsFQU9Bb6AHsrPECCvQ0NMSGUm7AGXjMvsHoUx4ieRuS5Usmm5kl6/zZxZlFKitAQL5oFI5RuGi8FC5J0oPFcUwzw2a32z3kjX4TjTu+XC4B//fQFosFRftzPB5B0zQoioIi3cGNME0TzuczRX5wXfeWcxvcjjomi4JXqxVcr1eYzWY08z55njPBhmFAFEUgyzLNdIeLcNzlIAggSRLwPI+i3UDR6/Ua9vs9nE4nin4OF+G2bcNms2G7PJlMKNoNRVEgDEM29tnpGm5HfWiMwkWjk/D7Gtlmf9XQIdBJeF0j3zGsqUNmPOqiwV14mqZs/N1uItiVzedz8prJsoyN2BR9TPU+PoHhqlcnrz+Xy4WtN51O2dq16bpeVp0cPVXenmkC51VVfVgD/Ve54tx2uyXvGS7C3wV/07Is8vrRJnww7zje1vDi4TgORf6XRuGYRF2TedzHD4cD+L7f6wp8fx9vY/zYKBqjcLEA+AaoQTaaUCH+UgAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAYCAYAAACiNE5vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH+SURBVFhH7ZhBzsFAFMdfv72FuIDEykoiVg5Ab8AVXMENOAEnQKyJ2BJLYWUlcQBi4QDV/+RNv051dGglqF/STOeZvnn/6XTmDctxoRTyx2Xq+AlPG1rhy+WSbNum4XDIlvem3+9Ts9kUcRuBxS1Iq9VyKpWKs9ls2JIMg8HAKRQKzvF4ZMvj7Pd7EV+73WbLP4vFQsQd9luQG+GdTid2cEEQEHxinDVjHQnigSDpA3GGgXbZbNbp9XpsCUeJAqMJp5PJhC3xwVtGwP7An6Fer4sBhJ97wgH6RBvo0aFEgSmEN/MqEOyzwv1ECQd46/emvLK4YSGr1Wpc+2ygYzQace0WT/h2u6Xz+Uz5fJ4tn025XCZ3qtPpdGKLiif8crmIslqtivJb2O12fKdinMBgT7csy+hC23fHWPhsNsOqZHSh7bvjCc9kMqJcrVai/BaKxSLfqXjCS6USuVsAHQ4Htnw26/Wa3K2ZcrkcW1SUqY5cdz6fcy15EAyYTqei9NPtdsX6oFuFJdh9wHg8FqUO6Gg0GlwLwf0mPWTmhswnKZDvI+tCQgHf8grm1DK50Z0P0BbP+H3AJ3wHn3k4cwPoIOlc3QQIh5C4yFw9KrO7EQ5edTq7B/qLCjYKxPv06UyCAwGmUZIHFh3oC4MdB5zG3G9a+DLh92dj2kipcKIrNJd4USFdWmEAAAAASUVORK5CYII="
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72816,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Power reducing formula for cos ^2A is _____.",
+    "op": [
+        "\\frac{{2\\tan A}}{{1 + {{\\tan }^2}A}}",
+        "\\frac{{1 - \\cos 2A}}{2}",
+        "\\frac{{\\cos 2A + 1}}{2}",
+        "1 - {\\cos ^2}A"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72817,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The sum formula for cos (A + B) is _____.",
+    "op": [
+        "\\cos A\\,\\cos B - \\sin A\\,\\sin B",
+        "\\sin A\\,\\cos B + \\cos A\\,\\sin B",
+        "\\sin A\\,\\cos B - \\cos A\\,\\sin B",
+        "\\cos A\\,\\cos B + \\sin A\\,\\sin B"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72818,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Two functions f and g are said to be identically equal if ______ for every value of x for which both functions are defined.",
+    "op": [
+        "g(x)=y",
+        "f(x)=g(x)",
+        "f(x)=y",
+        "f(x)+g(x)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72819,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cos ( - \\theta ) = ......",
+    "op": [
+        "- \\cos ( - \\theta )",
+        "sec(\\theta )",
+        "\\cos \\theta",
+        "- \\cos \\theta"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72820,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\tan \\theta =",
+    "op": [
+        "\\frac{{\\cot \\theta }}{{\\cos \\theta }}",
+        "\\frac{{\\sin \\theta }}{{\\cos \\theta }}",
+        "\\frac{{\\cos \\theta }}{{\\sin \\theta }}",
+        "\\frac{{\\cot \\theta }}{{\\sin \\theta }}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72821,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cot \\theta =",
+    "op": [
+        "\\frac{{\\cos \\theta }}{{\\sin \\theta }}",
+        "\\frac{{\\cos ec\\theta }}{{\\cos \\theta }}",
+        "\\frac{{\\sin \\theta }}{{\\cot \\theta }}",
+        "\\frac{{sin\\theta }}{{\\cos \\theta }}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72822,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\sin ( - \\theta ) = \\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[\\sin \\theta \\]",
+        "\\[\\cos ( - \\theta )\\]",
+        "\\[ - \\sin \\theta \\]",
+        "\\[\\cos \\theta \\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72823,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The range of y = \\arccos x is........",
+    "op": [
+        "[0,\\pi ]",
+        "[ - 2\\pi ,2\\pi ]",
+        "[ - 1,1]",
+        "[ - \\pi ,\\pi ]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72824,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\sin 2A = \\_\\_\\_\\_\\_\\,.\\]",
+    "op": [
+        "\\[{\\cos ^2}A - {\\sin ^2}A\\]",
+        "\\[2\\sin A\\,\\,\\cos A\\]",
+        "\\[{\\cos ^2}A + {\\sin ^2}A\\]",
+        "\\[1 - 2{\\sin ^2}A\\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72831,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "tan \\theta is positive in the _____ and the third quadrant.",
+    "op": [
+        "second",
+        "first",
+        "third",
+        "fourth"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72832,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " The\\,\\,function\\,\\,y = \\sin 3x\\,\\,has\\,period...",
+    "op": [
+        "2\\pi",
+        "\\frac{\\pi }{2}",
+        "\\pi",
+        "\\frac{{2\\pi }}{3}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72833,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " \\tan \\theta is negative in the _________ quadrant",
+    "op": [
+        "none",
+        "1st",
+        "2nd",
+        "3rd"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72834,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The difference formula for sin (A - B) is _____.",
+    "op": [
+        "\\sin A\\,\\cos B + \\cos A\\,\\sin B",
+        "\\sin A\\,\\cos B - \\cos A\\,\\sin B",
+        "\\cos A\\,\\cos B + \\sin A\\,\\sin B",
+        "\\cos A\\,\\cos B - \\sin A\\,\\sin B"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72835,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The domain of y = \\arcsin x is ............",
+    "op": [
+        "[ - \\frac{\\pi }{2},\\frac{\\pi }{2}]",
+        "[ - \\pi ,\\pi ]",
+        "[ - \\infty ,\\infty ]",
+        "[-1,1]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72836,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "sin( - \\frac{\\pi }{4}) = .....",
+    "op": [
+        "- \\sin (\\frac{\\pi }{4})",
+        "cosec(\\frac{\\pi }{4})",
+        "- sec(\\frac{\\pi }{4})",
+        "\\sin (\\frac{\\pi }{4})"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72837,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[1 + {\\cot ^2}\\theta = \\]",
+    "op": [
+        "\\[{\\sec ^2}\\theta \\]",
+        "\\[{\\csc ^2}\\theta \\]",
+        "\\[{\\tan ^2}\\theta \\]",
+        "\\[{\\sec ^2}\\theta \\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72838,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The value of \\cos ({120^ \\circ }) is same as the value of ......",
+    "op": [
+        "- \\cos {120^ \\circ }",
+        "\\cos {180^ \\circ }",
+        "\\cos {60^ \\circ }",
+        "- \\cos {60^ \\circ }"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72840,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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 ",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAfCAYAAACs5j4jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJhSURBVFhH7ZhBzjExGMfruwFH4Ap2bFjgBpxAwpqNuAD2uAELiZWQWFjYSGxcgBNwhnnnV22+yZiaFsnLG7+kGW1nnj7/p0+fmUh4PuIP8k9d/xxfYZ/G2whLpVIikUiIfr+vRp6E4vHbHA4Hr1wuU8Ssmg1vsWO73U4Ui0U8tmo2vIWw+Xwu/B1TvRfhR+ClZDIZr9frqV485/PZSyaTqvc6jMKOx6PXaDS8TqejRuJZLBbyDOCsLTxTrVZV78pkMpFjCMaea7DgRhhOIQaDNBeDFACC4QJrIUTDeqzLOL7QEOnqy40wnNtut9KgizEqG/ez0y6wG8FnWC+bzareFeaxjW+23D1jLsLYKZeFAYfDIky4CntJVTydTmI0Golut6tG/sNcs9mULcx6vRalUkn1zGAD0um0vNrwEmGz2Uz4KSXy+bwauTKdTqWg/X4vhV8uFzVzZbPZiFwup3pmsA+tVkterVA7FwnTcanIWaR6BQtAGOaibMUsL9Fn9579KJ4WNh6PZQGIg3uC91GgwmU+jA6aa6WFp1NxMBiIer2uemba7bbwi4VMT1gul6JQKMjfUZC2lUpF1Go1MRwO1agDSmAkTN/bMdKDiBLZOHT0dWWjGpJmJtgl7rGxHcVTwnDSJU30i5+A3Etf0psghN+JNimvMQrTh9b0nuGMMB9e/B76RYuDpoCYipH+XLPl5k6iihiM6KZTKJg6OPbIoeYZbOJoFGRIcO1gww9b7EMQQEeeXXNFZ8KjZ8eWh/5+46XL18BqtVIjb4iU54DpDLwb3z9MP42vsE/jK+yzEOIHLYACdnBGRHQAAAAASUVORK5CYII=",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAbCAYAAAB4Kn/lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACSSURBVEhL7dXRCYAgEAbgqw3cxR3EGdzAEXQCt3MCJ3AH6+QyCAsLe7sPJDjjPx88XMoOfrDSdzoObji4eQxOKYG1Frz3VHkBB+Qq51ycczg4dYUQaGdc98TGGNBaw96AKh9Qg1v4y7QTz8DBDQef6Np1xRjrPZZSUmVcNxjHGcMw9FhCiKKUqs1G8GPacDAB2ADf7Ur5VRTQ7QAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAjCAYAAACq00VWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASpSURBVHhe7ZpLK3ZRFIC3by65jCiJCaWURGGkXAYGZvwFfgK/gIGBgVDKQFEmJkTKxGXgUkRRLkkycvkJ73ee5Sztb3feY78GfLbz1Gmds959WZd9O4eiXITJCIo/scwIiCypAZIlNUCypAZIltQAyZIaIFlSA+THJ7WoqEiuvr6+WPM5np+fzcjIiCkrK5P2kDYTExOiv729jTVfA36pj778+KQ+PT2J7OrqEvkZSCjBe3l5MVdXV2Ztbc3U1dXFv76xvb1tSktLTW1tbaz5GjY2NkxLS4vp7e2NNR7wRek7iYKXGx8fj58K5+bmhi9iuZ2dnVhTOPRPG7T1P1JojL51prKkRYE07e3tsaZwDg4ORDY0NIgsFJbTubk5mQ1fPQt9wD5i1NjYGGs8iJObyujoqIzkyHF5Pjk5yUXLgeiQSSwtLUl5ynANDw/noqVSfkOq3r4YkWlQD1uiZVDK0/fg4OC7XS62DdRxR7vOUPeyscvoaoAd6j/2QLRki/3o8s2qj+yBmZmZ93aQGnuNnQ8fJpVkYAxG0zid0hGdcI/OXfqog9GqR1LOdYLA5EuIC/1Rlkvb1f41sDa0TVC0LMmnrAsDFD0+5sMNLDZQT/XUxRbI14+PPRo3tUVt842R8mFSFU0qximqU0MBg9C5QaKeXRdwAEd80ADiqKKDxe2LwUPb9h5JfXQuOjDS9lNsTAqstolU1E4bH3vsSWODzjdGindS1VjbMIx1HcB5RqSLm1SfGaIwQ5Kc0wFk26RldVUg8WpnUl86O9LAn6TAJvnq+ulrT1Jb+JXP7jS8k0qn7mjN50BSANCz5Cg+M0TR5DGabejHDYSW1QubKWevJjbUt31wyRdY9dWepYBOEwg+9mgfblta1ydGNt6n36OjI9PT0xM/vb3bbW5u/vN+eHFxIbKmpkaksr6+LnJgYEAknJ6eer/33d/fi6yqqhIJ9L+8vCynVhstGwWdAWsODw/N9PS06ezsFL2NnizT3nHzna7V146ODpGgftqneR97Hh8fRVZXV4tUFhYWPvVu7JXU3d1dkbYD6pTP68jU1JQY193dHWveAtra2ho/+VFcXBzfGTM5OWleX19Nc3NzrEmHr0Xu16DLy0uRaT6cnZ2JbGpqEqns7++LbGtrEwnn5+cikwaQS5I9JSUl8Z2RAcuAKjRG4JVUdaC+vl4kPDw8xHfGzM7OihE4Ey1nZmVlRWaSfnpjRi8uLpry8vK4xhvX19dShkGT9plPR/DW1tZ7mzrA+I36Y2Nj8qwJmp+fF0nghoaG5N4d8Xt7eyLT3nGPj4/FJ+1XE8EXJvS2T3d3dyLtsj72VFZWilxdXRVJPBlMJJQydh0vZBH+APYcd+9ineeAwWXvIRyA2Ddomot9NGk/Y7+gbloZG/YhymKH7q3aD3sRe5xit015dz9UqO/65aKnUrtfQOeeHfKV9bEHHb/b8dTDKfEvZF/91f94xkfyKDGyx4XEj/+g/1n0UNPf3y8yJH7lTGXP0z2c02ho/LqZygytqKiQQw5/1gqR7J+5A+TX7qkhkyU1QLKkBkiW1ADJkhogWVIDJEtqgGRJDZAsqcFhzF+uVYN2e3uUxAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAXCAYAAACf+8ZRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGoSURBVFhH7ZdBroIwEIb73g2MezZ4BJfu4QZ6BfQGxgvAAYQlOzdsTdhzAS6AK5bcofpPpi8NUdq+10di4peQynRs/05n2vAlH4g345vbt+Ijei7+VfRqtRJZlvGbR1CIJrquk0mSyOPxyBYz1+sVBS6HYWCLpN9FUcgoiqgPz3q9Jl8XJkVjEghVE6Rpyj1mIAwL1VFiL5cLvSMYYRiSrWkastkwKRqTYDCIdxHdti35Q5QOxhvvFhbgGhCr9AAuAyPCEGgDguIq2nsh3m43kee5OJ1ObJmm73tqgyCg1gbvoquqEo88FZvNhi3TlGVJ/rvdji0WcMSNwNW0hcj9xWLxU2gmcJLAHzXgglfREIHTwAaVy7YL1PEqGoJtCgqRddmRMd5EQwCE6JfJM9CPC2V8hrvgrRBRUCim5XLJluccDgdqz+cztQAnThzH/GYBi59EXRaI0DNUfo4vkzGv/HDh2J7rYFI0BoNQTKQepAAm0CseW22z3fifPpb+bLdb9jJjndOvQNQwKaI4F3/+3Nrv95STdV2zZQZI+i9xvUx88fmwnQch7kCgy1OED+yoAAAAAElFTkSuQmCC"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72841,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAWCAYAAAClrE55AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGaSURBVEhL7Za9jYNAEIX3rgNE7gSX4NA5dAAtYDqw3IBdgCEkIyG1RE4DNACRQ3rAfqNZbg+z/Bikc3CfhFY7zM6+nR1GfDVPxAfwzeOf8y+ky6pCttutuFwuPJsJilWlLMvG9/3meDyyZRq32w1F39R1TXOMURQ1tm2THc9utyO/PlohWIjN5aLz+cxvpoENcQCJFJAkCc1xQMuyyJbnOdlUWiFYCAcImiukKApag80kiNfNKkTpYr9cDZgrBJnAxmPgoLrYi4u1qioRhqE4nU5s0XO/32ncbDY0qiwWkqapeN692O/3bNETxzH5ep7HFgXOzC9gnnI1qCfDMNqCHAJfEHxRT30sEoLg+BLGkLUxJHiREIgY80MGpmTtbSEIjA1kA+sD79DE1P6i4+1iReGh6EzTZMsrQRDQeL1eaQT4yhzH4ZkCC2qRzQkn0SHvXG1gXXQ+aHJ9PacVAgdsjsXyQeqxqFvpSPVYurFOjaU+ruuy1w+9NTIETohgOPGazP5VPBwOdM9ZlrFlJUjOROY0sLl8yM+zEA/qE71DOaPruAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAaCAYAAAAT6cSuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI1SURBVFhH7ZjLjcIwFEWd6QBaoAUqYEMJ1AAl0AFUQAcsWSGxZ8OSBqACevBwMr4jyxMnL2H4DJojWciOY7/7fiAKf8W9KR/h8y35F/dXuUlcv993RVG45XIZVl4MGkoXjsejH4/HNCPTeAadI3c4HNxoNMJq03gGncVtNht3jVyYvShXr7bmcrn4Xq8XZr/HYDDwi8UizG6nk7jtdusnk0mYfXE6nfx8PvfD4fC7zthDbVrgTN7BcWK9Xpdn4EietRXfSRwiuDiGyxGGSNjv96VRjNjgHDSn6XQaZr4UwZncxfsMhLJmFdhJHB6UCMGleD8GY1lHaB1El33xmQjAWTE8Zx+OsNBaHBekl+bA6xjTlJo4wWzwreIQwIVxmojValUa3YSaTlqbKYpGU3RBe6vsquKHOGoJz6gxpPWCsWn6xbCfM0hd1UsdpB97LagOEWkhm5YYyEFp8bKWA+/znGERp+imzakK1aVlr6itOQyMvYrxTWkGGE36YgwZkBPIHkvU5ARrOopacTJQ3iISrFlRQ8l5G2FNbR1hOKitMKgVJ4+pO3GJ9UsZlKZVAhBs+Q5EVF3066gVB7H3cykkEWmhK/JVDQiHNUWD93FAeq4llaFRnNovB+aMkTg8LENYwzDWUnLOiFHWpCmtn2kWTLsQlYsAYAhGEA32MVRPVenEeU1RU9uvGoi2YBKnNtwl71OUCUTv3jz8r73ZbObO57Pb7XZh5Y6UEh9Ero7uxRv/KevcJ8C9MTKwk4cuAAAAAElFTkSuQmCC",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACeSURBVEhL7ZXBCQQhDEUz24HYikfvYg12YAlagR1ZhhVYgT04o2Su65plZGF9EIQv+BBiPOoFLOCF6+NsEZnfE+WcwVoL3ntMJmnt/Y5SSnXOtSfQK4SAO3MMb2SMAa01XEJMaAxFMUaQUgLnHBMaf9x137JFZJaJhpPhJqXUJ4MQApM5hqI2ftrhTXIXY6wqpbr8U/ZXTmaLyCwSAZwIMCqVYBv/4AAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAaCAYAAAAaAmTUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJWSURBVFhH7ZhBzmkxFMfr7YAlsAUzJgywA1YgYcxEbABz7ICBxEhIDAxMJCY2wApYw333V+3LzU3bW56X70beL2nu197e9vzPOT39IhOEiC/hl3p+Bf/FpJVUicnlciKTyYjxeKxGXoQCkAYul0tQr9cpRl7NRGoiczqdRLVaxUqvZiI1YtbrtQgjo3pvEqr8JxQKhWA0Gqmem/v9HmSzWdV7H6eY6/UadDqdYDAYqBE/NpuNzGuM9IH5zWZT9Z4sFgs5hkjW8nGOUQxGIIBFaL4e1nCQcYIv7IXxGvZjX8axhYawJFuMYjDmeDzKRV4VQ1XiG6LqC16Pzme/YrGoek94z7rYZiPxzLwqhoi4NoyDkXHDbSSJ+Wg1u91uYjabieFwqEaeMN7tdmWLs9/vRa1WUz07rAH5fF4+TXxUzGq1EmHKiHK5rEaEWC6XUsT5fJZCH4+HevPkcDiIUqmkenZYG3q9nnwaURGywhSfNON8UXmiBzkK46a1PEz4cw5ta2s+JmY+n8uD7IL30TkUmXhJjqOd5FMdP5Zmk8lEtNtt1TPT7/dFeOBl6sF2uxWVSkX+bYKUbDQaotVqiel0qkYdKFFWmJIUGcKP9/CiC+1lXZGoYqSQDaLBnKR1NR8Rg3G+l6S+jHGAKy1JW4TH7yvXN04x+uC57gHynjnxTW3oyw+jbA6wFRP9b5IN4xu8hwA+1E2nRzwtMMg3KhrmsybGmSATontHG3bYSEwzF9rLROcVdMR9z4Ivf/VTE5chN/Nut1MjP4yU9Aa2vP5JvuhHQCF+A4VYWwWttteCAAAAAElFTkSuQmCC"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72848,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\sin (\\theta + 2\\pi ) =",
+    "op": [
+        "\\cos \\theta",
+        "- \\cos \\theta",
+        "\\sin \\theta",
+        "- \\sin \\theta"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72856,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAfCAYAAAC8hnD/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ8SURBVGhD7ZmxjcIwFIbNbQArwAgsAA0TIAagYgAaJCoqmIANoKNCDEBDyQK0VIgVcvlM3smy4ti5+O44yZ9khTiO/d7v956ju1aWoxKaj+KayEliGCQxDJIYBkkMgyhidDod1Wq11GazKXr+KRytTbher9loNOJ4DmrvTOPIuFwuajgc4mVQe2cai3E4HFQeGcVdHHq93t+kXL5b3+bxeGTtdru4e3E+n7PZbJZ1u12dFjznnrEhHI9H/Z45frfbZZPJRM/FM+Zer9fF03g0EgPDMVJACIw1nd9ut7qPuhIC43hfwGneXywWek4aa9IXW5BGYmAguyaIGHYUSJT4oBgz7na7FT0vMfr9fnH3gueMCxU4lEZi4KRpuAucsdOpDCIi1MG3EgMR7B0rQ6KFdKlCdpvxPmSsmU4xqBSDRVmwbFGcI01c8C4hTvT4hAAZG4LUEdaIiVMMagFhyO6zsF0HKGIU0DLEWBrv+8RgbtLIrD8upK6EjK2LN01YlMVx0IQ+HxJZjK0KacQKiQoRLXZ6CEE1A0NNY8lr80j1IdHlCmvmtsW2QQjm+SkhIOgLdD6fq9wRtd/v9f3pdFKDwUD/DmE8Huvr/X7XVxPmfD6fajqdFj3lLJdLfV2tVvr6IxSiVCLhKUcZO0Tu2riKoHwk2XUHmNO326QR69uRFZJadQgSAzg5cIga4jJCCifOieM4Ql/ZySPHbtWpIBthF0z5bI9J8GwYzOII4dpJxiCI1Agav12Vn3l8USEClzVEikktaTEcI1xHah1E3JCPrN+ilhhyxpflfl0QNvbndFPiJl0grjrw16T/qBmkv44bJDEMkhgGSYwvlPoEjyh2sjYAEHQAAAAASUVORK5CYII=",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAYAAAA0u3w+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJfSURBVFhH7ZhBrgFBEIbLuwFH4Ap2bFjgBpxAwpqNuAD2uAELiZWQWFjYSGxcgBNwhnnzt+pk0qZnurxJ3jx5X9IZ3dNTXX9Xdc1ExvOhD+aLrx/Lv8C/TmoE5nI5ymQyNB6PeSQhUGR+m8vl4tXrdRQ7pyYhFRE8nU5UrVbhuVOTkAqB6/Wa/AhyL2H8HUmcQqHgjUYj7kVzv9+9bDbLveSxCrxer16n0/EGgwGPuLHZbNQ5geMuYH6z2eTek8ViocYgHLYkG2byIhCOQRQMo0kNo1hgY1zBWhCkwXpYF+PwBQ1i3/EFvAiEg8fjURmWGkU1xDOIviuITnA+1isWi9x7gvuwC9+kRJ5BqUBETuIEHDfF2HhXYGJV9Ha70Ww2o+FwyCNPMN7tdlUz2e/3VKvVuGcHNkA+n1dXCYkJXK1W5KcblctlHiFaLpdK2Pl8VuIfjwffeXI4HKhUKnHPDmyDXq+nriI4kqHgtkuK4ryi4gWLRRCMh9mKWV6hz7XNdhyJCJzP56pYRIH7wTkoZObrwURvnKQqmySSopPJhNrtNvfC6ff75BcVlbZgu91SpVJRv8NAOjcaDWq1WjSdTnn0DVhoKLgdF0GkDnYZux2FjoauhKieSD8biBrmxNmN48cC4bBrCukPCGxKVEoj5bEZ5vs07hiEYRWoD3fUewrnCHNMR2zoFzYctW2KrWDpT0ApL09glyEKxnTTqWWmFJyUFgDMh004HAYyJrh2sMEPKfItYXQ0EEUJOjN+erZceftvQ7zA8YWx2+14JKUomUJs5ySN/P/x+9f5cIFE31R8cgBXvZgvAAAAAElFTkSuQmCC",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAdCAYAAADy+d/cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHHSURBVFhH7ZkxjoJAFIZn9wbG3kaPQEkPN4DSVr0B8QJ6AKSk08LWhJ4LeAGtLPUM6P/yZkPcxRl3hwmb4UvIZB4P8v43M4+X8FE9EA7yyaNz9MJdoxfuGr1w1+iFu4YV4ZPJRKzXa551BLSsOpxOp2o2m1VJkrBFj8PhgJa4ul6vNMeYZVkVBAHZcXmeR342UQpHoBArg1ytVnxHDwhEwiRS8Ha7pTkSOh6PyVaWJdlsoBSOQBEQEvCu8OPxSM9AnATve941SMJvkvoXtLc6eDc4rDSEqkBibQtvrbidz2ex2WzEcrlkSzOXy4XG0WhEow1aE77f78Xj7Arf99nSTJ7n5BvHMVsswCuvBdx1tiPqwWAw+Cpgr0CFhy/qgU1aEQ4xqNQq5NnWSZBpWhEO0So/rLDurmgD48IhBIJkw/ITuIempf59t43x4oZChSI1HA7Z8p3FYkFjmqY0AnwFwjDkmQU4AUpkM4KVakKe2XrD8kyTD5oanW++KZTCERDEIlh5YSsjyOdKjK2r2r54rv6u+hVFEXu1z1tn/BVYQQSPFf0PGPuhMJ/P6ZwWRcGWbmOkuN1uN7Hb7cR0OmVL9+l/IbmFEHfndQtAhe3NMQAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAZCAYAAADaILXQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACRSURBVEhL7ZXBDcAgCABpN3AXdzDO4AaOoBO4nRM4gTvYYugPW9vUH5cQEzQHD4hbO4FF7HQuQeQsImd5lJdSwHsPMUbKvACXiKPW2kIIuGA9Ukp0M8+wc+ccWGvhLEKZD1CRW/DZr53/gchZRM5DIzkk59znXGtNmXmGclx9FKL4CqVUM8b0gjPIB82yUA5wACvfWuXbvwphAAAAAElFTkSuQmCC"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72858,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The center of a circle having equation {(x - 3)^2} + {(y +2)^2} - 49 = 0 is at......... ",
+    "op": [
+        "(-3,2)",
+        "(3,-2)",
+        "(-3,-2)",
+        "(-2,3)"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72859,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The sum formula for tan (A + B) is _____.",
+    "op": [
+        "\\tan A + \\tan B",
+        "\\frac{{\\tan A + \\tan B}}{{1 - \\tan A\\,\\tan B}}",
+        "\\frac{{\\tan A - \\tan B}}{{1 + \\tan A\\,\\tan B}}",
+        "\\frac{{2\\tan A}}{{1 - {{\\tan }^2}A}}"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72860,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In the cosine function, the maximum value of ______ is taken when \\theta = {0^ \\circ }\\,,\\,\\, \\pm {360^ \\circ }\\,,\\, \\pm {720^ \\circ } and so on.",
+    "op": [
+        "0.5",
+        "-1",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72861,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "sin \\theta is positive in the first and the _____ quadrant.",
+    "op": [
+        "third",
+        "first",
+        "second",
+        "fourth"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72862,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "cos(180-\\theta)= ",
+    "op": [
+        "cos\\theta",
+        "-cos\\theta",
+        "-sin\\theta",
+        "sin\\theta"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72863,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Equation of a circle centered at (0,-5) and radius $\\sqrt 8 $ is .......",
+    "op": [
+        "${x^2} + {(y + 5)^2} = 64$",
+        "${x^2} + {(y - 5)^2} = 64$",
+        "${x^2} - {(y + 5)^2} = 8$",
+        "${x^2} + {(y + 5)^2} = 8$"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72864,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Equation of a circle centered at (0,-5) and radius \\sqrt 8 is .......",
+    "op": [
+        "{x^2} + {(y + 5)^2} = 8",
+        "{x^2} + {(y - 5)^2} = 64",
+        "{x^2} - {(y + 5)^2} = 8",
+        "{x^2} + {(y + 5)^2} = 64"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72865,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "data:image/png;base64,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",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAZCAYAAACo79dmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG+SURBVFhH7Zg7jsIwEIZn9wbADYAjUNJQwQ2gj4SU1FQIKiqg59HRESRapPRcIBeAEwBXyPLPjldZyMPedQokPsmyPBkmv0cej8hHdIdehE+ZX4K32KJ4iy2Kt1hFvV6n2WwmKwvgns3icrlE0+k0arfbYtHjcDjg/ubfK7bbbdTtdqNSqcTParUax9YlU+xqtfoJbCoW/q7ryipiUYgzHA55AxgQDpuu4FSxCAqxoNFoGIkNw5BFnE4nsXyLRZw4eG6SiNxjABDMRCwyqi3AQKz1Ajufz7RcLmk0GoklHfiCarXKcx7Wxe73e7oXDjWbTbGkA18wGAx4zkUynInuMUDRoCBR9Xmoc63jq7CaWWSqXC5Tr9cTSzLX65VarRbdz3aubxyrYufzOfX7fVklA6GdTodFLhYLsephTazv+3S73chxHLEkMx6PeZ5MJjybYE3sZrPhbFUqFbE8s16veVO73e6XH9qyFnJ2U0HRoC3CNd464xyPx6cm8Eha8am2rEOqF4LiBkCg+IDt8YVoAvHWmoRqt0kDm9BBb0sZqJaJ7BbNv//dep7HnSgIArEUCEv+IyZNwAYv9N2A6AsYe6slamudFAAAAABJRU5ErkJggg==",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVDhPY/wPBAxUBkxQmqpg1FDc4O3btwxdXV0MHh4eUBEiASj2sYEZM2b8FxQUBKWM/+7u7lBR4gBWl1ZXV4Ppd+/eMZiYmIDZpACC6RTm9R07doBpYsBokqI+GOGG4sxRIPDmzZv/ysrK4FwFYhMLsBq6fPlycNYEGYaMQWIgOUJgRJf8DAwA8dPys9TfzP8AAAAASUVORK5CYII=",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAgCAYAAACl36CRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJrSURBVGhD7Zm9jcIwGIbNbQArwAgsAA0TIAagYgAaJCoqmIANoKNCDEBDyQK0VIgVcnmMP8my4thgjrtT8khRiOOf7/X340g0shxVUb7MvZLU4qtKLb6qvEV8q9VSjUZDrVYr0/JP4KhL4Xw+Z4PBgOMy6vpLJHv+dDqpfr+PqqjrL5Esfrfbqdzz5uk9dDqdz6RQ7o2Xud1uWbPZNE8PjsdjNplMsna7rcOc9zzTN4b9fq/H2f03m002Go30XLxj7uVyad6+TpJ4DMUoAeEYZ4tdr9e6jboQA/0YLyCS8bPZTM/JxZq0pW5AkngMwiuCiHe9LFEQguJJv8vlYloe4rvdrnl6wHv6xW6ojyTxiLIN9YHxbnoUgcdjBf2qeES7HilCooHwL0O8Sf8Q0tdOj1coFc8iLFC0CGIIex+MJWSJjpBwkL4xSB1gjRS84sllwgrvspCbxxQdCl4RYhwX40PimZu0sOuHD6kLMX1DBMOeRVgMQTa0hZDIoW9ZiLI5MV6XTUoNdyEq5zHMNo68tI+4EBI9vjBlbndzXRDOPO8SDlFfeNPpVOWGq+12q58Ph4Pq9Xr6dwzD4VDfr9ervtsw5/1+V+Px2LQUM5/P9X2xWOj7WzCbUIqEmxwteIDcc/EVLfkocesGMGfIm6QF67uRE5MqZUSJByo7AqgBvkWl0CFGhGI4bUUngxyDZVVbNt4tcPIZnEL0aAxkMYT7PEUfNkBynIvfvsrMPCGvy4YWXWxKCk9tHYayqO+IewbZzJiPmp/iKfFyxhbl7rOwkamfp6mkJc2L+PL409T/2FSVWnxVqcVXE6W+ASSbd6WlX5eAAAAAAElFTkSuQmCC",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAbCAYAAADMIInqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJnSURBVFhH7ZgxrgFBGMfHuwGO4Ao6GgqOoFVJ6DWi1OAA3IBCohIShYJConEAnIAz7Nvf+CbZiF2z7w3x4v2SyZrZ2Zlv/t/3zUwkPB/1wXzJ8y1IpVIqkUioXq8nLS+ACHgH9vu9Vy6XiUar4oq3iYDtdquKxSIrsyqueBsBptOp8iNAai/EV/MpZDIZr9vtSi2a8/nsJZNJqb2WSAEwjEWQm3GYzWY6T/neBvpXKhWpXVmv1169XtdCMhYCUbcd05ZQAYbDoZ6UyeMKQH+MtaXVanmj0Uhq18WbeY/Ho27DET+x5RF3BcAgBIBsNhtrUnZzDDWG24CXg/2NALfeNtHgkoejsfg4AuD5OP1ZOCLbwLiuBXB6CpxOJzUYDFS73ZaWK7Q3Gg1dblkul6pUKkktmsPhoPwokJobnAowmUy0gfl8XlqUGo/HeuG73U6Lc7lc5M2V1Wqlcrmc1MLZbDbKjxbV6XSkxRESCaHYpoA5yoKbWRDame72aLQwQY9N/sfZWG1xJgCbJkZGwftgHza72+PvHszPPuH6CARnKdDv91WtVpPafZrNpg5j0gLm87kqFAr6dxikD2mzWCxUOp2WVoeIEKHYRADhTfg/8pBJEzMeXuXYDMOMG9XntzgRgPe2+ckdA91ZXFTKmPsEt8QgzEPquCJSALP5YEiYd82lxfbiQz/6M26UaPdE5Vsi4ukC4B0MwNBgoY13QTDS1vsG+jPerXcNRtSw4jIlHqZAFMabcT1iwvsZu3pcfvWfIDs0tzx26L/Kj49BjiaOs2q1Ki1/k/9/heX5sfwLIM+P5cMFUOobNlY+e/l5H28AAAAASUVORK5CYII="
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72866,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\tan 2A = \\_\\_\\_\\_\\_\\,.",
+    "op": [
+        "\\frac{{2\\tan A}}{{1 + {{\\tan }^2}A}}",
+        "\\frac{{2\\tan A}}{{1 - {{\\tan }^2}A}}",
+        "\\frac{{\\tan A + \\tan B}}{{1 - \\tan A\\,\\tan B}}",
+        "\\frac{{{{\\sin }^2}A}}{{{{\\cos }^2}A}}"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72867,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\frac{\\pi}{2} radians =________ degrees ",
+    "op": [
+        "90",
+        "180",
+        "45",
+        "360"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72868,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The cosine function has “period” {360^ \\circ } as it repeats itself after each revolution of _________.",
+    "op": [
+        "{90^ \\circ }",
+        "{180^ \\circ }",
+        "{360^ \\circ }",
+        "{60^ \\circ }"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72869,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cos ( - \\pi ) = .....",
+    "op": [
+        "-1",
+        "0",
+        "1",
+        "0.5"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72878,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " \\[\\tan \\theta \\] is negative in the _________ quadrant",
+    "op": [
+        "none",
+        "3rd",
+        "2nd",
+        "1st"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72886,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The value of \\sin {135^ \\circ } is same as the value of ........",
+    "op": [
+        "- \\sin {135^ \\circ }",
+        "\\sin {45^ \\circ }",
+        "- \\sin {45^ \\circ }",
+        "- \\sin {90^ \\circ }"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72889,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\tan 2A = \\_\\_\\_\\_\\_\\,.\\]",
+    "op": [
+        "\\[\\frac{{\\tan A + \\tan B}}{{1 - \\tan A\\,\\tan B}}\\]",
+        "\\[\\frac{{2\\tan A}}{{1 + {{\\tan }^2}A}}\\]",
+        "\\[\\frac{{{{\\sin }^2}A}}{{{{\\cos }^2}A}}\\]",
+        "\\[\\frac{{2\\tan A}}{{1 - {{\\tan }^2}A}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72904,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\cos (\\theta - 180) = \\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[\\sin \\theta \\]",
+        "\\[ - \\sin \\theta \\]",
+        "\\[ - cos(\\theta )\\]",
+        "\\[cos(\\theta )\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72918,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\cos (180 - \\theta ) = \\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[\\sin \\theta \\]",
+        "\\[ - cos\\theta \\]",
+        "\\[ - \\sin \\theta \\]",
+        "\\[cos\\theta \\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72920,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "cos\\theta is negative in the second and the _______ quadrant.",
+    "op": [
+        "first",
+        "second",
+        "fourth",
+        "third"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72921,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\cos 2A = \\_\\_\\_\\_\\_\\,.",
+    "op": [
+        "{\\cos ^2}A + {\\sin ^2}A",
+        "2\\sin A\\,\\,\\cos A",
+        "2{\\cos ^2}A - 1",
+        "1 - {\\cos ^2}A"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72922,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The domain of y = \\arccos x is........",
+    "op": [
+        "\\left[ {0,\\infty } \\right]",
+        "\\left[ { - 1,1} \\right]",
+        "\\left[ {0,1} \\right]",
+        "\\left[ { - \\infty ,0} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72931,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\sin ( - \\theta ) = \\_\\_\\_\\_\\_.",
+    "op": [
+        "- \\sin \\theta",
+        "\\cos ( - \\theta )",
+        "\\cos \\theta",
+        "\\sin \\theta"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72932,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " \\[The\\,\\,function\\,\\,y = \\cos 3x\\,\\,has\\,period...\\]",
+    "op": [
+        "\\[\\frac{\\pi }{2}\\]",
+        "\\[2\\pi \\]",
+        "\\[\\pi \\]",
+        "\\[\\frac{{2\\pi }}{3}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72933,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "sin \\theta is negative in the _____ and the fourth quadrant.",
+    "op": [
+        "second",
+        "first",
+        "third",
+        "fourth"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72935,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": " \\[The\\,\\,function\\,\\,y = \\sin 3x\\,\\,has\\,period...\\]",
+    "op": [
+        "\\[\\pi \\]",
+        "\\[2\\pi \\]",
+        "\\[\\frac{\\pi }{2}\\]",
+        "\\[\\frac{{2\\pi }}{3}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72937,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\sin 2A = \\_\\_\\_\\_\\_\\,.",
+    "op": [
+        "{\\cos ^2}A + {\\sin ^2}A",
+        "{\\cos ^2}A - {\\sin ^2}A",
+        "1 - 2{\\sin ^2}A",
+        "2\\sin A\\,\\,\\cos A"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72949,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "The center of a circle having equation {(x + 2)^2} + {(y - 5)^2} - 36 = 0 is at.........",
+    "op": [
+        "(2,-5)",
+        "(-2,5)",
+        "(-2,-5)",
+        "(2,5)"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72950,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "cos\\theta is positive in the ___________ quadrant. ",
+    "op": [
+        "I",
+        "II",
+        "III",
+        "Both I and II"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72977,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\tan (\\theta + \\pi )\\]=",
+    "op": [
+        "\\[\\sec \\theta \\]",
+        "\\[\\tan \\theta \\]",
+        "\\[ - \\tan \\theta \\]",
+        "\\[\\cot \\theta \\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73017,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "$\\cot \\theta = $",
+    "op": [
+        "$\\frac{{sin\\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\sin \\theta }}{{\\cot \\theta }}$",
+        "$\\frac{{\\cos ec\\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cos \\theta }}{{\\sin \\theta }}$"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73036,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Equation of a circle centred at (-5,0) and radius $\\sqrt 9 $ is ....... ",
+    "op": [
+        "${(x+5)^2} + {y^2} = 9$",
+        "${(x-5)^2} + {(y + 5)^2} = 9$",
+        "${x^2} + {(y + 5)^2} = 81$",
+        "${x^2} + {(y - 5)^2} = 81$"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73037,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\sin (\\theta + 2\\pi ) = \\]",
+    "op": [
+        "\\[ - \\sin \\theta \\]",
+        "\\[\\cos \\theta \\]",
+        "\\[\\sin \\theta \\]",
+        "\\[ - \\cos \\theta \\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73127,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "$\\tan \\theta = $",
+    "op": [
+        "$\\frac{{\\sin \\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cot \\theta }}{{\\sin \\theta }}$",
+        "$\\frac{{\\cot \\theta }}{{\\cos \\theta }}$",
+        "$\\frac{{\\cos \\theta }}{{\\sin \\theta }}$"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73660,
+    "cc": "MTH100",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The midpoint of the line segment with the endpoints (−4, 4), (−2, 2) is",
+    "op": [
+        "(-3,3)",
+        "(2,2)",
+        "(-2,-2)",
+        "(-6, 6)"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73695,
+    "cc": "MTH100",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "What is the period of the following trigonometric function: m(t)=−3cot(−2t)",
+    "op": [
+        "ω=π/2",
+        "ω=π",
+        "ω=−π",
+        "ω=π/3"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

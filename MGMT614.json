@@ -1,0 +1,586 @@
+[
+    {
+        "id": 52748,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Ropeways in supply chain and logistics are primarily used for:",
+        "op": [
+            "Shipping large containers over long distances by sea",
+            "Transporting goods over rough terrain or hilly areas",
+            "Fast air delivery of perishable goods",
+            "Transporting liquids through pipelines"
+        ],
+        "created_at": "2026-07-06T05:21:23.529175+00:00"
+    },
+    {
+        "id": 52749,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Improved forecasts in a supply chain primarily help to:",
+        "op": [
+            "Reduce inventory costs and stockouts",
+            "Increase supplier uncertainty",
+            "Increase lead times",
+            "Eliminate the need for safety stock"
+        ],
+        "created_at": "2026-07-06T05:21:29.204905+00:00"
+    },
+    {
+        "id": 52750,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Managers can leverage supply chain profitability by all of the following, except:",
+        "op": [
+            "Increased stockout",
+            "Postponement",
+            "Improved forecasting",
+            "Tailored sourcing"
+        ],
+        "created_at": "2026-07-06T05:21:33.516783+00:00"
+    },
+    {
+        "id": 52751,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In Product-Based Tailored Sourcing, high-volume products with less demand uncertainty are obtained from:",
+        "op": [
+            "An efficient source",
+            "Multiple sources",
+            "A flexible source",
+            "An uncertain source"
+        ],
+        "created_at": "2026-07-06T05:21:38.986653+00:00"
+    },
+    {
+        "id": 52752,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Tailored postponement in supply chain management refers to:",
+        "op": [
+            "Increasing inventory of finished goods to meet uncertain demand",
+            "Customizing sourcing strategies based on product demand",
+            "Delaying final product customization or assembly until customer demand is known",
+            "Producing all products in advance regardless of demand"
+        ],
+        "created_at": "2026-07-06T05:21:44.532224+00:00"
+    },
+    {
+        "id": 52757,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Road transport is most suitable for:",
+        "op": [
+            "Bulk goods over very long distances",
+            "Fast international shipping",
+            "Flexible, door-to-door delivery over short to medium distances",
+            "Liquids and gases in pipelines"
+        ],
+        "created_at": "2026-07-06T05:21:51.021784+00:00"
+    },
+    {
+        "id": 52760,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A quick response strategy in supply chain management primarily aims to:",
+        "op": [
+            "Increase lead times for production",
+            "Reduce inventory holding and improve responsiveness to customer demand",
+            "Eliminate the need for forecasting",
+            "Maximize overstock to avoid stockouts"
+        ],
+        "created_at": "2026-07-06T05:21:57.25744+00:00"
+    },
+    {
+        "id": 52761,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The primary role of transportation in a supply chain is to:",
+        "op": [
+            "Move the products from one location to another",
+            "Increase production costs intentionally",
+            "Eliminate the need for inventory",
+            "Reduce product quality"
+        ],
+        "created_at": "2026-07-06T05:22:03.619909+00:00"
+    },
+    {
+        "id": 52763,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "If cost of a product is Rs.100, price is Rs.250 and salvage value is Rs.80, then what is the cost of understocking?",
+        "op": [
+            "Rs.100",
+            "Rs.150"
+        ],
+        "created_at": "2026-07-06T05:22:10.016777+00:00"
+    },
+    {
+        "id": 52867,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not a mode of transportation?",
+        "op": [
+            "None of the given options",
+            "Rail",
+            "Truck",
+            "Pipeline"
+        ],
+        "created_at": "2026-07-06T05:35:31.749007+00:00"
+    },
+    {
+        "id": 52872,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following does not contribute to increasing supply chain profitability?",
+        "op": [
+            "Increasing Salvage Value",
+            "Decreasing the Salvage Value",
+            "Reducing demand uncertainty",
+            "Decreasing Margin Lost from Stock out"
+        ],
+        "created_at": "2026-07-06T05:35:47.255562+00:00"
+    },
+    {
+        "id": 52875,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Tailored sourcing in supply chain management refers to:",
+        "op": [
+            "Delaying product customization until customer demand is known",
+            "Customizing sourcing strategies based on the product’s demand characteristics"
+        ],
+        "created_at": "2026-07-06T05:36:23.332423+00:00"
+    },
+    {
+        "id": 53079,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Increasing the salvage value of a seasonal product increases the:",
+        "op": [
+            "Visibility",
+            "Profitability",
+            "Ordering Cost",
+            "Uncertainty"
+        ],
+        "created_at": "2026-07-06T06:09:33.526899+00:00"
+    },
+    {
+        "id": 65667,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "As the lead time decreases, the implied demand uncertainty:",
+        "op": [
+            "No relationship exists",
+            "Decreases",
+            "Remains same",
+            "Increases"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65668,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The inventory that is kept to meet the unexpected increase in demand is called:",
+        "op": [
+            "Cycle Inventory",
+            "Safety Inventory",
+            "Surplus Inventory",
+            "Seasonal Inventory"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65669,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is NOT a feature of Responsive Supply Chains?",
+        "op": [
+            "Supply demand at the lowest cost",
+            "Higher margins as price is not a prime customer driver",
+            "Creating Modularity in products",
+            "Selecting Supplier on the basis of speed, reliability, flexibility and quality"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65670,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "_______ refers to ‘what the customer has paid’ minus ‘total cost expended by supply chain’ in filling order.",
+        "op": [
+            "Organizational profit",
+            "Supply chain surplus",
+            "Sales revenue",
+            "Operational profit"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65671,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following scopes of strategic fit results in the maximization of supply chain surplus?",
+        "op": [
+            "Inter-company inter-functional scope",
+            "Intra-company inter-functional scope",
+            "Intra-company intra-operation scope",
+            "Intra-company intra-functional scope"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65672,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following refers to Supply chain management strategy?",
+        "op": [
+            "Positioning of Product",
+            "Storage and delivery of product",
+            "Pricing of Product",
+            "Promotion of Product"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65673,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Supply Chain Management is to manage supply chain flows and assets, in order to _____________ the supply chain surplus.",
+        "op": [
+            "Minimize",
+            "Maximize",
+            "Neutralize",
+            "Abolish"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65674,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Inventory built up to counter predictable variability in demand is called:",
+        "op": [
+            "Surplus inventory",
+            "Safety inventory",
+            "Seasonal inventory",
+            "Cycle inventory"
+        ],
+        "created_at": "2026-07-15T13:27:19.021626+00:00"
+    },
+    {
+        "id": 65772,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "A plan for achieving organizational goals is referred to as",
+        "op": [
+            "Strategy",
+            "Operational Decisions",
+            "Mission",
+            "Tactics"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65773,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is not a cross functional driver of Supply Chain Performance?",
+        "op": [
+            "Pricing",
+            "Information",
+            "Sourcing",
+            "Inventory"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65774,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "When demand is uncertain, the average forecast error is:",
+        "op": [
+            "10 – 20 %",
+            "20 – 30 %",
+            "40 – 100 %",
+            "30 – 40 %"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65776,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following is not a logistical driver of Supply Chain Performance?",
+        "op": [
+            "Transportation",
+            "Facilities",
+            "Inventory",
+            "Sourcing"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65777,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following refers to Marketing and Sales Strategy?",
+        "op": [
+            "Procurement",
+            "Storage",
+            "Delivery",
+            "Positioning of Product"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65778,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Return on Assets (ROA) can be written as the product of:",
+        "op": [
+            "Accounts payable turnover and profit margin",
+            "Assets turnover and cash to cash cycle",
+            "Profit margin and asset turnover",
+            "Profit margin and Cash to cash cycle"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65875,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Average amount of inventory used to satisfy demand between shipments is called:",
+        "op": [
+            "Safety inventory",
+            "Surplus inventory",
+            "Cycle inventory",
+            "Seasonal inventory"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65876,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In which of the following drivers of supply chain performance the overall trade-off is between “Make or Buy”?",
+        "op": [
+            "Sourcing",
+            "Inventory",
+            "Facilities",
+            "Pricing"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65963,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "What is the relationship between Flow Time (T), Inventory (I) and Throughput (D)?",
+        "op": [
+            "T = ID",
+            "D = IT",
+            "There is no relationship between them",
+            "I = DT"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65964,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The time duration of Operational decisions is:",
+        "op": [
+            "1 week or less",
+            "All of these",
+            "2 to 5 years",
+            "3 months to a year"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 65965,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The increase in all of the following will cause the implied demand uncertainty to increase EXCEPT:",
+        "op": [
+            "Rate of innovation",
+            "Range of quantity",
+            "Variety of products required",
+            "Lead time"
+        ],
+        "created_at": "2026-07-15T13:27:19.879618+00:00"
+    },
+    {
+        "id": 66646,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Increasing the number of distribution centers in a supply chain results in the decrease of:",
+        "op": [
+            "Responsiveness",
+            "All of these",
+            "Inventory",
+            "Transportation costs"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 67448,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "For a new and innovative communication device, ______.",
+        "op": [
+            "both demand and supply are uncertain",
+            "supply is predictable but demand is uncertain",
+            "both demand and supply are predictable",
+            "demand is predictable but supply is uncertain"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67450,
+        "cc": "MGMT614",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "When individual operations in each stage of supply chain try to minimize their own costs without giving due attention to other operations, the situation is referred to as",
+        "op": [
+            "Inter-company inter-functional scope",
+            "Flexible inter-functional scope",
+            "Intra-company inter-functional scope",
+            "Intra-company intra-operation scope"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 70946,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is true if there is a reduction in supply uncertainty?",
+        "op": [
+            "Product availability hurts",
+            "Cost increases",
+            "Lead time increases",
+            "Safety inventory reduces"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70947,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Discount which is based on total quantity purchased over a given period is called:",
+        "op": [
+            "Lot size- based discounts",
+            "Variety based discounts",
+            "All of these",
+            "Volume based discounts"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70948,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "The phenomenon in which the differentiation of products is delayed is called:",
+        "op": [
+            "Postponement",
+            "Bullwhip effect",
+            "Mass production",
+            "Make to stock"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70949,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Fraction of replenishment cycles that ends with all customer demand met is called:",
+        "op": [
+            "Product availability",
+            "Order fill rate",
+            "Cycle service level",
+            "Product fill rate"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70950,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Replenishment orders in multi echelon supply chains should be synchronized in an attempt to:",
+        "op": [
+            "Increase the cycle inventory and order costs",
+            "Decrease the cycle inventory and order costs",
+            "Increase the cycle inventory cost and decrease ordering cost",
+            "Increase the ordering cost and decrease the cycle inventory cost"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70952,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "The inventory carried for the purpose of satisfying demand that exceeds the amount forecasted in a given period is called:",
+        "op": [
+            "Safety inventory",
+            "Cycle inventory",
+            "Seasonal inventory",
+            "Surplus inventory"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70953,
+        "cc": "MGMT614",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Lot size based discounts tend to _____ the cycle inventory in the supply chain.",
+        "op": [
+            "Decrease",
+            "Maintain",
+            "Increase",
+            "Eliminate"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    }
+]

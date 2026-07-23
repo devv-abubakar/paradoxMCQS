@@ -1,0 +1,1444 @@
+[
+    {
+        "id": 17350,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "A function f is continuous at $x=c$, if",
+        "op": [
+            "$​\\lim _{x \\to c }f(x)$ does not exist.",
+            "$​\\lim _{x \\to c }f(x)$ exists but does not equal $f(c).$",
+            "$f(x)$ is not defined at $x=c.$",
+            "$​\\lim _{x \\to c }f(x)$ exists and equals $f(c).$"
+        ],
+        "created_at": "2026-06-23T01:03:01.251561+00:00"
+    },
+    {
+        "id": 17352,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "$Consider\\,\\,the\\,\\,function\\,\\,f(x) = \\,e^x ;\\,\\,Find\\,\\,the\\,\\,range\\,\\,of\\,\\,f\\,\\,is\\,\\, - - - - - .$",
+        "op": [
+            "$[0,\\infty )\\,$",
+            "$(0,\\infty )\\,$",
+            "$none\\,\\,of\\,\\,these$",
+            "$[ - 1,1]$"
+        ],
+        "created_at": "2026-06-23T01:04:00.875068+00:00"
+    },
+    {
+        "id": 17354,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If a function $f$ is differentiable at $x=c,$ then $f$ is",
+        "op": [
+            "Never continuous at $x=c.$",
+            "Always continuous at $x=c.$",
+            "Sometimes continuous at $x=c.$",
+            "Differentiability at $x=c$ does not imply continuity at $x=c.$"
+        ],
+        "created_at": "2026-06-23T01:04:28.718448+00:00"
+    },
+    {
+        "id": 17355,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "Which of the following best describes a removable discontinuity?",
+        "op": [
+            "A point where the limit does not exist due to infinity.",
+            "A point where the function has a jump.",
+            "A point where the limit exists but is not equal to the function’s value.",
+            "A point where the function is continuous."
+        ],
+        "created_at": "2026-06-23T01:05:00.468056+00:00"
+    },
+    {
+        "id": 17356,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function $$f(x)=x\\sin \\frac{1}{ x},\\quad x\\ne0,$$ which statement is true",
+        "op": [
+            "$\\lim_{x\\rightarrow 0} f(x) = 1$.",
+            "The function is not defined at $x=0$.",
+            "$\\lim_{x\\rightarrow 1/\\pi} f(x) = 0$.",
+            "$\\lim_{x\\rightarrow 0} f(x) = 0$."
+        ],
+        "created_at": "2026-06-23T01:05:32.957826+00:00"
+    },
+    {
+        "id": 17357,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "On the graph of a function, a removable discontinuity appears as:",
+        "op": [
+            "A continuous curve.",
+            "A vertical asymptote.",
+            "A hole in the graph.",
+            "A jump discontinuity."
+        ],
+        "created_at": "2026-06-23T01:06:12.000276+00:00"
+    },
+    {
+        "id": 17360,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function $f(x)=x\\sin \\frac{1}{x},\\ \\ \\ x\\neq 0,$\\ which statement is true",
+        "op": [
+            "$\\lim_{x\\rightarrow 0}f(x)=0\\$",
+            "$\\lim_{x\\rightarrow \\frac{1}{x}}f(x)=0\\$",
+            "The function is not defined at $x=0$",
+            "$\\lim_{x\\rightarrow 0}f(x)=1\\$"
+        ],
+        "created_at": "2026-06-23T01:07:16.08955+00:00"
+    },
+    {
+        "id": 17380,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "Which of the following functions is always continuous on its domain?",
+        "op": [
+            "Piecewise functions.",
+            "Polynomial functions.",
+            "Step functions.",
+            "Rational functions."
+        ],
+        "created_at": "2026-06-23T01:20:11.432256+00:00"
+    },
+    {
+        "id": 17382,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If $f(x)=3-\\frac{1}{x^{2}},\\ \\$then \\ $\\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ----$",
+        "op": [
+            "1",
+            "3",
+            "0",
+            "2"
+        ],
+        "created_at": "2026-06-23T01:21:18.526556+00:00"
+    },
+    {
+        "id": 17383,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function defined as $$f\\left( x \\right){\\text{ }} = {\\text{ }}cx,$$ for every $\\epsilon > 0$ the formal definition ensures",
+        "op": [
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,\\,\\,\\,{\\text{where}}\\,\\,\\,0 < \\delta < \\epsilon.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $0 < \\delta < \\epsilon/|c|.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $-\\epsilon < \\delta < \\epsilon.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $0 < \\delta < \\epsilon.$"
+        ],
+        "created_at": "2026-06-23T01:21:36.274122+00:00"
+    },
+    {
+        "id": 17384,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The value $1+$ $\\lim_{x\\rightarrow 0^{-}}\\frac{\\left\\vert x\\right\\vert }{x}$",
+        "op": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "created_at": "2026-06-23T01:22:08.404464+00:00"
+    },
+    {
+        "id": 17386,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If $f(x)=2-\\frac{1}{x^{2}},\\ \\$then \\ $\\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ----$",
+        "op": [
+            "0",
+            "3",
+            "1",
+            "2"
+        ],
+        "created_at": "2026-06-23T01:26:11.707761+00:00"
+    },
+    {
+        "id": 17428,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If $\\lim_{x\\rightarrow 0}f(x)=20\\$and $\\lim_{x\\rightarrow 0}g(x)=-5,$ then $\\lim_{x\\rightarrow 0}\\frac{f(x)}{g(x)}$ is",
+        "op": [
+            "-4",
+            "0",
+            "-5",
+            "20"
+        ],
+        "created_at": "2026-06-23T02:08:16.882173+00:00"
+    },
+    {
+        "id": 32865,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "For two functions f(x) and g(x), the composit function fog(x) is defined as -------",
+        "op": [
+            "f(g(x))",
+            "g(f(x))",
+            "None of these",
+            "(f-g)(x)"
+        ],
+        "created_at": "2026-07-01T00:00:51.722639+00:00"
+    },
+    {
+        "id": 32866,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Rolle's Theorem says, suppose that $f$ is continuous on the closed interval $[a,b]$ and differentiable on the open interval $(a,b)$ and $f(a) = f(b).$",
+        "op": [
+            "Then $f'(c)$ exists for some $c$ in the open interval $(a,b).$",
+            "Then $f'(c) = 0$ for some $c$ in the open interval $(a,b).$",
+            "Then $f'(c) = 0$ for some $c$ in the open interval $(a,\\infty).$",
+            "Then $f'(c) \\neq 0$ for some $c$ in the open interval $(a,b).$"
+        ],
+        "created_at": "2026-07-01T00:00:58.494445+00:00"
+    },
+    {
+        "id": 32867,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The function $h(x) = - {x^3}$ is",
+        "op": [
+            "increasing on $( - \\infty ,\\infty ).$",
+            "decreasing on $( - \\infty ,\\infty ).$",
+            "positive on $( - \\infty ,\\infty ).$",
+            "is undefined on $( - \\infty ,\\infty ).$"
+        ],
+        "created_at": "2026-07-01T00:01:09.427768+00:00"
+    },
+    {
+        "id": 32868,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The Mean Value Theorem says, suppose that $f$ is differentiable on $[a,b],$ $f'(a)\\ne f'(b),$ and $\\mu$ is between $f'(a)$ and $f'(b).$",
+        "op": [
+            "Then $f'(c)=\\mu$ for some $c$ in $(a,b).$",
+            "Then $f'(c)\\neq\\mu$ for some $c$ in $(a,b).$",
+            "Then $f'(c)$ may be 0 or $\\mu$ for some $c$ in $(a,b).$",
+            "Then $f'(c)=0$ for some $c$ in $(a,b).$"
+        ],
+        "created_at": "2026-07-01T00:01:19.746221+00:00"
+    },
+    {
+        "id": 32869,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Identify an unbounded function on $[0,1]$",
+        "op": [
+            "$f(x) =x^2+1$",
+            "$h(x) = x^3$.",
+            "$g(x) = \\ln x$.",
+            "$v(x) = \\sin x$."
+        ],
+        "created_at": "2026-07-01T00:01:28.436287+00:00"
+    },
+    {
+        "id": 32870,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ - } \\,\\,\\left( {\\frac{{\\left| x \\right|}}{x} + x} \\right) = - - - - .$",
+        "op": [
+            "$0$",
+            "$1$",
+            "$none\\,\\,of\\,\\,these$",
+            "$- 1$"
+        ],
+        "created_at": "2026-07-01T00:01:39.287278+00:00"
+    },
+    {
+        "id": 32871,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The function $f(x) = \\left\\{ {\\begin{array}{*{20}{l}} {x,}&{0 \\leqslant x < 1,} \\\\\\ {2,}&{1 \\leqslant x \\leqslant 2,} \\end{array}} \\right.$ is",
+        "op": [
+            "is nonincreasing on $$I = \\left[ {0,2} \\right].$$",
+            "is undefined on $$I = \\left[ {0,2} \\right].$$",
+            "is having negative values on $$I = \\left[ {0,2} \\right].$$",
+            "is nondecreasing on $$I = \\left[ {0,2} \\right].$$"
+        ],
+        "created_at": "2026-07-01T00:01:46.556592+00:00"
+    },
+    {
+        "id": 32872,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, \\ge \\,k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = - - - - - ,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n |\\,\\, \\le \\,\\,M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array}$",
+        "op": [
+            "$0\\,$",
+            "$None\\,of\\,these$",
+            "$1$",
+            "$- 1$"
+        ],
+        "created_at": "2026-07-01T00:01:56.831714+00:00"
+    },
+    {
+        "id": 32874,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,x\\sin \\frac{{1\\,\\,}}{x} = - - - - .$",
+        "op": [
+            "$1$",
+            "$x$",
+            "$none\\,\\,of\\,\\,these$",
+            "$0$"
+        ],
+        "created_at": "2026-07-01T00:02:08.986038+00:00"
+    },
+    {
+        "id": 32875,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The inverse of the given function $f(x) = 2x + 4,\\quad 0 \\leqslant x \\leqslant 2,$ is",
+        "op": [
+            "${f^{ - 1}}(y) = \\frac{{y - 4}}{4}$",
+            "${f^{ - 1}}(y) = \\frac{{y - 2}}{4}.$",
+            "${f^{ - 1}}(y) = \\frac{{x - 2}}{4}.$",
+            "${f^{ - 1}}(y) = \\frac{{y - 4}}{2}.$"
+        ],
+        "created_at": "2026-07-01T00:02:15.154999+00:00"
+    },
+    {
+        "id": 32981,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\frac{{\\sin x\\,\\,}}{x} = - - - - .$",
+        "op": [
+            "$x\\,$",
+            "$0$",
+            "$1\\,$",
+            "$none\\,\\,of\\,\\,these$"
+        ],
+        "created_at": "2026-07-01T00:33:21.875631+00:00"
+    },
+    {
+        "id": 32982,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "If a function $f$ is continuous on the closed interval then $f$ attains its",
+        "op": [
+            "extreme values in the closed interval.",
+            "may or may not attain extreme values in the closed interval.",
+            "derivative in the closed interval.",
+            "extreme values at one point in the closed interval."
+        ],
+        "created_at": "2026-07-01T00:34:22.289323+00:00"
+    },
+    {
+        "id": 32984,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$The\\,series\\,\\sum\\limits_{}^{} {( - 1)^n a_n } \\,\\,\\,converges\\,\\,\\,\\,if\\,\\,0 \\le a_{n + 1} \\le \\,a_{n\\,} \\,and\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = \\, - - - - - .$",
+        "op": [
+            "$- 1$",
+            "$0\\,\\,$",
+            "$None\\,\\,of\\,\\,these\\,\\,$",
+            "$1$"
+        ],
+        "created_at": "2026-07-01T00:34:56.278613+00:00"
+    },
+    {
+        "id": 32996,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "If $f$ is differentiable at a local extreme point $x_0\\in D_{f}^{0},$ then",
+        "op": [
+            "$f'(x_0)=~0.$",
+            "$f'(x_0) \\neq~0.$",
+            "$x_0=~0.$",
+            "$|f'(x_0)|<~0.$"
+        ],
+        "created_at": "2026-07-01T00:37:43.224278+00:00"
+    },
+    {
+        "id": 32999,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ - } \\,\\frac{1}{x} = - - - - .$",
+        "op": [
+            "$0$",
+            "$\\infty \\,$",
+            "$none\\,\\,of\\,\\,these$",
+            "$- \\infty$"
+        ],
+        "created_at": "2026-07-01T00:39:05.115894+00:00"
+    },
+    {
+        "id": 33386,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,2x\\sin \\sqrt x = - - - - .$",
+        "op": [
+            "$x$",
+            "$0$",
+            "$1\\,$",
+            "$none\\,\\,of\\,\\,these$"
+        ],
+        "created_at": "2026-07-01T02:01:51.577768+00:00"
+    },
+    {
+        "id": 33387,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$$The\\,\\,\\,function\\,\\,g\\left( x \\right) = - x^3 \\,\\,is\\,\\,decrea\\sin g\\,\\,on\\,\\, - - - - - .\\,$$",
+        "op": [
+            "$$\\left( { - \\infty \\,,0} \\right)$$",
+            "$$none\\,\\,of\\,\\,these\\,$$",
+            "$$\\left( { - \\infty ,\\infty } \\right)$$",
+            "$$[0,\\infty )\\,$$"
+        ],
+        "created_at": "2026-07-01T02:02:09.145952+00:00"
+    },
+    {
+        "id": 33390,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ + } \\,\\,\\left( {\\frac{{\\left| x \\right|}}{x} + x} \\right) = - - - - .$",
+        "op": [
+            "$none\\,\\,of\\,\\,these$",
+            "$- 1$",
+            "$1\\,$",
+            "$0$"
+        ],
+        "created_at": "2026-07-01T02:02:48.0595+00:00"
+    },
+    {
+        "id": 33844,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "lf $f:I \\to \\mathbb{R}$ has a derivative at $c \\in \\,I$ , then $f$ is",
+        "op": [
+            "having one sided limit.",
+            "discontinuous at c.",
+            "undefined at c.",
+            "continuous at c."
+        ],
+        "created_at": "2026-07-01T03:32:11.505611+00:00"
+    },
+    {
+        "id": 33846,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Let f: A → B and g : B → C be one - one functions. Then, gof: A → C is",
+        "op": [
+            "onto",
+            "one-one",
+            "not onto",
+            "does not exist"
+        ],
+        "created_at": "2026-07-01T03:32:42.27892+00:00"
+    },
+    {
+        "id": 33847,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Which function has $0/0$ form",
+        "op": [
+            "$f(x) = \\frac{e^{-x}}{x}$ at $x=2$",
+            "$f(x) = 2\\ln x$ at $x=2$.",
+            "$f(x) = \\frac{\\sin \\pi x}{x-1}$ at $x=1$.",
+            "$f(x) = \\cos x + x$ at $x =0$."
+        ],
+        "created_at": "2026-07-01T03:33:43.18782+00:00"
+    },
+    {
+        "id": 33858,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The inverse of the function $f(x) = {x^2},$ is",
+        "op": [
+            "${f^{ - 1}}(y) = \\sqrt y .$",
+            "${f^{ - 1}}(y) = {y^2}$",
+            "${f^{ - 1}}(y) = \\frac{1}{{{y^2}}}$",
+            "${f^{ - 1}}(y) = \\frac{1}{{{x^2}}}$"
+        ],
+        "created_at": "2026-07-01T03:35:01.165445+00:00"
+    },
+    {
+        "id": 33864,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$The\\,series\\,\\sum\\limits_{}^{} {( - 1)^n a_n } \\,\\,\\, - - - - - - \\,\\,\\,if\\,\\,0 \\le a_{n + 1} \\le \\,a_{n\\,} \\,and\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0$",
+        "op": [
+            "$converges$",
+            "$diverges$"
+        ],
+        "created_at": "2026-07-01T03:35:33.774418+00:00"
+    },
+    {
+        "id": 33868,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$\\begin{array}{l} The\\,\\,radius\\,\\,\\,of\\,\\,\\,convergence\\,\\,\\,of\\,\\,\\,\\,\\sum\\limits_{}^{} {a_n \\,(x - x_n )^n \\,\\,\\,is\\,\\,\\,given\\,\\,\\,by\\,\\, - - - - = \\mathop {\\lim }\\limits_{n \\to \\infty } } |\\frac{{a_{n + 1} }}{{a_n }}|\\, \\\\\\ if\\,the\\,limit\\,exists\\,in\\,the\\,extended\\,real\\,system. \\\\\\ \\end{array}$",
+        "op": [
+            "$R$",
+            "$\\frac{1}{R}$",
+            "$n$",
+            "$none\\,of\\,these$"
+        ],
+        "created_at": "2026-07-01T03:36:40.533474+00:00"
+    },
+    {
+        "id": 33918,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, - - - k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n | \\le M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array}$",
+        "op": [
+            "$\\ge \\,$",
+            "$\\, \\le$",
+            "$>$",
+            "$<$"
+        ],
+        "created_at": "2026-07-01T03:41:15.849976+00:00"
+    },
+    {
+        "id": 33933,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$$The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\,\\,inrea\\sin g\\,\\,on\\,\\, - - - - - .\\,$$",
+        "op": [
+            "$$none\\,\\,of\\,\\,these\\,\\,\\,$$",
+            "$$[0,\\infty )$$",
+            "$$\\left( { - \\infty , - 1} \\right)\\,$$",
+            "$$\\left( { - \\infty \\,,0} \\right)$$"
+        ],
+        "created_at": "2026-07-01T03:43:38.451088+00:00"
+    },
+    {
+        "id": 34071,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, \\ge \\,k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n | - - - - M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array}$",
+        "op": [
+            "$\\ge \\,$",
+            "$None\\,of\\,these$",
+            "$\\, \\le$",
+            "$<$"
+        ],
+        "created_at": "2026-07-01T04:07:30.842493+00:00"
+    },
+    {
+        "id": 34074,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "Generalized Mean Value Theorem says, If $f$ and $g$ are continuous on the closed interval $[a,b]$ and differentiable on the open interval $(a,b),$ then",
+        "op": [
+            "$$[g(b)-g(a)]=[f(b)-f(a)]g'(c)$$ for some $c$ in $(a,b).$",
+            "$$[g(b)-g(a)]f'(c)=[f(b)-f(a)]g'(c)$$ for some $c$ in $(a,b).$",
+            "$g'(x)=0$ for all $x$ in $(a,b)$.",
+            "$g'(x)=f'(x)$ for all $x$ in $(a,b)$."
+        ],
+        "created_at": "2026-07-01T04:08:00.526082+00:00"
+    },
+    {
+        "id": 34085,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$$The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\, - - - - - \\,on\\,\\,[0,\\infty )\\,.\\,$$",
+        "op": [
+            "$$inrea\\sin g$$",
+            "$$decrea\\sin g\\,\\,$$"
+        ],
+        "created_at": "2026-07-01T04:11:05.084269+00:00"
+    },
+    {
+        "id": 34087,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "If f(x) = |x| and g(x) = |5x – 2|. Then, fog =​",
+        "op": [
+            "|f(x)|",
+            "f(x)",
+            "f^2(x)",
+            "|g(x)|"
+        ],
+        "created_at": "2026-07-01T04:11:29.833768+00:00"
+    },
+    {
+        "id": 34613,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "$\\begin{array}{l} If\\,\\,\\,\\sum\\limits_{n = 1}^\\infty {b_n } \\,\\,\\,is\\,\\,rearrangement\\,\\,of\\,\\,an\\,absolutely\\,convergernt\\,series \\\\\\ \\sum\\limits_{n = 1}^\\infty {a_n } ,\\,\\,then\\,\\,\\sum\\limits_{n = 1}^\\infty {b_n } \\,\\,also\\,\\, - - - - - - \\,\\,absolutely,\\,and\\,\\,to\\,the\\,\\,same\\,sum. \\\\\\ \\end{array}$",
+        "op": [
+            "$diverges$",
+            "$converges$"
+        ],
+        "created_at": "2026-07-01T05:16:32.454568+00:00"
+    },
+    {
+        "id": 35180,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The derivative of the function ${x^n}$ is",
+        "op": [
+            "$n{x^n}.$",
+            "$n{x^{n - 1}}.$",
+            "$\\frac{n}{{{x^{n - 1}}}}.$",
+            "${x^{n - 1}}.$"
+        ],
+        "created_at": "2026-07-01T07:04:09.84544+00:00"
+    },
+    {
+        "id": 35182,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "01 July 2026",
+        "qt": "The function $g(x) = {x^2}$ is",
+        "op": [
+            "having negative values on $[0,\\infty ).$",
+            "decreasing on $[0,\\infty ).$",
+            "increasing on $[0,\\infty ).$",
+            "undefined on $[0,\\infty ).$"
+        ],
+        "created_at": "2026-07-01T07:04:30.437197+00:00"
+    },
+    {
+        "id": 45756,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "The value $1+$ $\\lim_{x\\rightarrow 0^{-}}\\frac{\\left\\vert x\\right\\vert }{x}$",
+        "op": [
+            "1",
+            "3",
+            "0",
+            "2"
+        ],
+        "created_at": "2026-06-23T17:15:48.192918+00:00"
+    },
+    {
+        "id": 45757,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If $\\lim_{x\\rightarrow 0}f(x)=20\\ $and $\\lim_{x\\rightarrow 0}g(x)=-5,$ then $\\lim_{x\\rightarrow 0}\\frac{f(x)}{g(x)}$ is",
+        "op": [
+            "-4",
+            "0",
+            "-5",
+            "20"
+        ],
+        "created_at": "2026-06-23T17:16:14.86325+00:00"
+    },
+    {
+        "id": 45758,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function defined as \\[f\\left( x \\right){\\text{ }} = {\\text{ }}cx,\\] for every $\\epsilon > 0$ the formal definition ensures",
+        "op": [
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,\\,\\,\\,{\\text{where}}\\,\\,\\,0 < \\delta < \\epsilon.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $ -\\epsilon < \\delta < \\epsilon.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $0 < \\delta < \\epsilon/|c|.$",
+            "$|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,$ where $0 < \\delta < \\epsilon.$"
+        ],
+        "created_at": "2026-06-23T17:16:44.185385+00:00"
+    },
+    {
+        "id": 45759,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function $$f(x)=x\\sin \\frac{1}{ x},\\quad x\\ne0,$$ which statement is true",
+        "op": [
+            "$\\lim_{x\\rightarrow 0} f(x) = 0$.",
+            "The function is not defined at $x=0$.",
+            "$\\lim_{x\\rightarrow 0} f(x) = 1$.",
+            "$\\lim_{x\\rightarrow 1/\\pi} f(x) = 0$."
+        ],
+        "created_at": "2026-06-23T17:17:20.17768+00:00"
+    },
+    {
+        "id": 45760,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "Which of the following functions is always continuous on its domain?",
+        "op": [
+            "Piecewise functions.",
+            "Polynomial functions.",
+            "Rational functions.",
+            "Step functions."
+        ],
+        "created_at": "2026-06-23T17:17:42.455634+00:00"
+    },
+    {
+        "id": 45761,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "If $f(x)=2-\\frac{1}{x^{2}}, $then $\\lim_{x\\rightarrow \\infty }f(x)= ----$",
+        "op": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "created_at": "2026-06-23T17:18:05.027286+00:00"
+    },
+    {
+        "id": 45762,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "A function f is continuous at \\(x=c\\), if",
+        "op": [
+            "\\(​\\lim _{x \\to c }f(x)\\) exists but does not equal \\(f(c).\\)",
+            "\\(f(x)\\) is not defined at \\(x=c.\\)",
+            "\\(​\\lim _{x \\to c }f(x)\\) exists and equals \\(f(c).\\)",
+            "\\(​\\lim _{x \\to c }f(x)\\) does not exist."
+        ],
+        "created_at": "2026-06-23T17:18:31.097212+00:00"
+    },
+    {
+        "id": 45763,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "For the function $f(x)=x\\sin \\frac{1}{x},\\ \\ \\ x\\neq 0,$\\ which statement is true",
+        "op": [
+            "$\\lim_{x\\rightarrow 0}f(x)=0\\ $",
+            "$\\lim_{x\\rightarrow \\frac{1}{x}}f(x)=0\\ $",
+            "The function is not defined at $x=0$",
+            "$\\lim_{x\\rightarrow 0}f(x)=1\\ $"
+        ],
+        "created_at": "2026-06-23T17:19:02.733226+00:00"
+    },
+    {
+        "id": 45764,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "Which of the following best describes a removable discontinuity?",
+        "op": [
+            "A point where the limit exists but is not equal to the function’s value.",
+            "A point where the function has a jump.",
+            "A point where the limit does not exist due to infinity.",
+            "A point where the function is continuous."
+        ],
+        "created_at": "2026-06-23T17:20:28.147864+00:00"
+    },
+    {
+        "id": 45765,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "23 June 2026",
+        "qt": "$Consider\\,\\,the\\,\\,function\\,\\,f(x) = \\,e^x ;\\,\\,Find\\,\\,the\\,\\,range\\,\\,of\\,\\,f\\,\\,is\\,\\, - - - - - .$",
+        "op": [
+            "$none\\,\\,of\\,\\,these$",
+            "$[0,\\infty )\\,$",
+            "$(0,\\infty )\\,$",
+            "$[ - 1,1]$"
+        ],
+        "created_at": "2026-06-23T17:27:22.275815+00:00"
+    },
+    {
+        "id": 71740,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If $f(x)=3-\\frac{1}{x^{2}},\\ \\ $then \\ $\\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ----$ ",
+        "op": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71741,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "For the function f(x)=x\\sin \\frac{1}{x},\\ \\ \\ x\\neq 0,\\ which statement is true ",
+        "op": [
+            "\\lim_{x\\rightarrow 0}f(x)=0\\",
+            "\\lim_{x\\rightarrow 0}f(x)=1\\",
+            "\\lim_{x\\rightarrow \\frac{1}{x}}f(x)=0\\",
+            "The function is not defined at x=0"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71742,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "For the function f(x)=x\\sin \\frac{1}{ x},\\quad x\\ne0, which statement is true",
+        "op": [
+            "The function is not defined at x=0",
+            "\\lim_{x\\rightarrow 0} f(x) = 0",
+            "\\lim_{x\\rightarrow 1/\\pi} f(x) = 0",
+            "\\lim_{x\\rightarrow 0} f(x) = 1"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71743,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If $f(x)=2-\\frac{1}{x^{2}},\\ \\ $then \\ $\\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ----$ ",
+        "op": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71759,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If f(x)=2-\\frac{1}{x^{2}},then \\lim_{x\\rightarrow \\infty }f(x)= ---- ",
+        "op": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71760,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "For the function defined as f\\left( x \\right){\\text{ }} = {\\text{ }}cx, for every \\epsilon > 0 the formal definition ensures",
+        "op": [
+            "|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta , where -\\epsilon < \\delta < \\epsilon.",
+            "|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta , where 0 < \\delta < \\epsilon/|c|.",
+            "|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta ,\\,\\,\\,{\\text{where}}\\,\\,\\,0 < \\delta < \\epsilon.",
+            "|f(x) - c{x_0}| < ,\\qquad |x - {x_0}| < \\delta , where 0 < \\delta < \\epsilon."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71761,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The value 1+ \\lim_{x\\rightarrow 0^{-}}\\frac{\\left\\vert x\\right\\vert }{x} ",
+        "op": [
+            "1",
+            "3",
+            "2",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71762,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If f(x)=2-\\frac{1}{x^{2}},\\ \\then \\ \\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ---- ",
+        "op": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71763,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "A function f is continuous at x=c, if ",
+        "op": [
+            "​\\lim _{x \\to c }f(x) exists but does not equal f(c).",
+            "f(x) is not defined at x=c.",
+            "​\\lim _{x \\to c }f(x) exists and equals f(c).",
+            "​\\lim _{x \\to c }f(x) does not exist."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71764,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If f(x)=3-\\frac{1}{x^{2}},\\ \\then \\ \\lim_{x\\rightarrow \\infty }f(x)=\\ \\ ---- ",
+        "op": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71767,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Consider\\,\\,the\\,\\,function\\,\\,f(x) = \\,e^x ;\\,\\,Find\\,\\,the\\,\\,range\\,\\,of\\,\\,f\\,\\,is\\,\\, - - - - - . ",
+        "op": [
+            "[ - 1,1]",
+            "[0,\\infty )\\,",
+            "none\\,\\,of\\,\\,these",
+            "(0,\\infty )\\,"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71768,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If a function f is differentiable at x=c, then f is ",
+        "op": [
+            "Sometimes continuous at x=c.",
+            "Never continuous at x=c.",
+            "Differentiability at x=c does not imply continuity at x=c.",
+            "Always continuous at x=c."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71783,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If a function \\(f\\) is differentiable at \\(x=c,\\) then \\(f\\) is ",
+        "op": [
+            "Always continuous at \\(x=c.\\)",
+            "Differentiability at \\(x=c\\) does not imply continuity at \\(x=c.\\)",
+            "Sometimes continuous at \\(x=c.\\)",
+            "Never continuous at \\(x=c.\\)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71784,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "If \\lim_{x\\rightarrow 0}f(x)=20\\and \\lim_{x\\rightarrow 0}g(x)=-5, then \\lim_{x\\rightarrow 0}\\frac{f(x)}{g(x)} is  ",
+        "op": [
+            "-4",
+            "20",
+            "-5",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71787,
+        "cc": "MTH621",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "For the function $$ f(x)=x\\sin \\frac{1}{ x},\\quad x\\ne0, $$ which statement is true",
+        "op": [
+            "$\\lim_{x\\rightarrow 1/\\pi} f(x) = 0$.",
+            "$\\lim_{x\\rightarrow 0} f(x) = 0$.",
+            "$\\lim_{x\\rightarrow 0} f(x) = 1$.",
+            "The function is not defined at $x=0$."
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 72617,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,\\frac{{\\sin x\\,\\,}}{x} = - - - - . ",
+        "op": [
+            "1\\,",
+            "x\\,",
+            "none\\,\\,of\\,\\,these",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72618,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The function h(x) = - {x^3} is ",
+        "op": [
+            "decreasing on ( - \\infty ,\\infty ).",
+            "increasing on ( - \\infty ,\\infty ).",
+            "positive on ( - \\infty ,\\infty ).",
+            "is undefined on ( - \\infty ,\\infty )."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72619,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ - } \\,\\frac{1}{x} = - - - - . ",
+        "op": [
+            "\\infty \\,",
+            "none\\,\\,of\\,\\,these",
+            "- \\infty",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72620,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Rolle's Theorem says, suppose that f is continuous on the closed interval [a,b] and differentiable on the open interval (a,b) and f(a) = f(b).",
+        "op": [
+            "Then f'(c) = 0 for some c in the open interval (a,\\infty).",
+            "Then f'(c) exists for some c in the open interval (a,b).",
+            "Then f'(c) = 0 for some c in the open interval (a,b).",
+            "Then f'(c) \\neq 0 for some c in the open interval (a,b)."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72621,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "If f is differentiable at a local extreme point x_0\\in D_{f}^{0}, then ",
+        "op": [
+            "x_0=~0.",
+            "|f'(x_0)|<~0.",
+            "f'(x_0)=~0.",
+            "f'(x_0) \\neq~0."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72622,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{array}{l} The\\,\\,radius\\,\\,\\,of\\,\\,\\,convergence\\,\\,\\,of\\,\\,\\,\\,\\sum\\limits_{}^{} {a_n \\,(x - x_n )^n \\,\\,\\,is\\,\\,\\,given\\,\\,\\,by\\,\\, - - - - = \\mathop {\\lim }\\limits_{n \\to \\infty } } |\\frac{{a_{n + 1} }}{{a_n }}|\\, \\\\\\ if\\,the\\,limit\\,exists\\,in\\,the\\,extended\\,real\\,system. \\\\\\ \\end{array} ",
+        "op": [
+            "\\frac{1}{R}",
+            "R",
+            "none\\,of\\,these",
+            "n"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72623,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The\\,series\\,\\sum\\limits_{}^{} {( - 1)^n a_n } \\,\\,\\, - - - - - - \\,\\,\\,if\\,\\,0 \\le a_{n + 1} \\le \\,a_{n\\,} \\,and\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0 ",
+        "op": [
+            "converges",
+            "diverges"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72624,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Which function has 0/0 form",
+        "op": [
+            "f(x) = \\frac{\\sin \\pi x}{x-1} at x=1",
+            "f(x) = 2\\ln x at x=2",
+            "f(x) = \\cos x + x at x =0",
+            "f(x) = \\frac{e^{-x}}{x} at x=2"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72625,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{array}{l} If\\,\\,\\,\\sum\\limits_{n = 1}^\\infty {b_n } \\,\\,\\,is\\,\\,rearrangement\\,\\,of\\,\\,an\\,absolutely\\,convergernt\\,series \\\\\\ \\sum\\limits_{n = 1}^\\infty {a_n } ,\\,\\,then\\,\\,\\sum\\limits_{n = 1}^\\infty {b_n } \\,\\,also\\,\\, - - - - - - \\,\\,absolutely,\\,and\\,\\,to\\,the\\,\\,same\\,sum. \\\\\\ \\end{array} ",
+        "op": [
+            "diverges",
+            "converges"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72627,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The inverse of the function f(x) = {x^2}, is",
+        "op": [
+            "{f^{ - 1}}(y) = \\frac{1}{{{x^2}}}",
+            "{f^{ - 1}}(y) = \\sqrt y .",
+            "{f^{ - 1}}(y) = \\frac{1}{{{y^2}}}",
+            "{f^{ - 1}}(y) = {y^2}"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72629,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The function f(x) = \\left\\{ {\\begin{array}{*{20}{l}} {x,}&{0 \\leqslant x < 1,} \\\\\\ {2,}&{1 \\leqslant x \\leqslant 2,} \\end{array}} \\right. is",
+        "op": [
+            "is nondecreasing on I = \\left[ {0,2} \\right].",
+            "is having negative values on I = \\left[ {0,2} \\right].",
+            "is nonincreasing on I = \\left[ {0,2} \\right].",
+            "is undefined on I = \\left[ {0,2} \\right]."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72686,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, \\ge \\,k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n | - - - - M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array} ",
+        "op": [
+            "\\, \\le",
+            "None\\,of\\,these",
+            "\\ge \\,",
+            "<"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72688,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Generalized Mean Value Theorem says, If f and g are continuous on the closed interval [a,b] and differentiable on the open interval (a,b), then",
+        "op": [
+            "[g(b)-g(a)]=[f(b)-f(a)]g'(c) for some c in (a,b).",
+            "g'(x)=f'(x) for all x in (a,b)",
+            "[g(b)-g(a)]f'(c)=[f(b)-f(a)]g'(c) for some c in (a,b).",
+            "g'(x)=0 for all x in (a,b)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72689,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[ The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\,\\,inrea\\sin g\\,\\,on\\,\\, - - - - - .\\, \\] ",
+        "op": [
+            "\\[ \\left( { - \\infty , - 1} \\right)\\, \\]",
+            "\\[ [0,\\infty ) \\]",
+            "\\[ \\left( { - \\infty \\,,0} \\right) \\]",
+            "\\[ none\\,\\,of\\,\\,these\\,\\,\\, \\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72690,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\,\\,inrea\\sin g\\,\\,on\\,\\, - - - - - .\\, ",
+        "op": [
+            "none\\,\\,of\\,\\,these\\,\\,\\,",
+            "\\left( { - \\infty \\,,0} \\right)",
+            "\\left( { - \\infty , - 1} \\right)\\,",
+            "[0,\\infty )"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72691,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[ The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\, - - - - - \\,on\\,\\,[0,\\infty )\\,.\\, \\] ",
+        "op": [
+            "\\[ inrea\\sin g \\]",
+            "\\[ decrea\\sin g\\,\\, \\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72692,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Identify an unbounded function on [0,1]",
+        "op": [
+            "g(x) = \\ln x",
+            "h(x) = x^3",
+            "f(x) =x^2+1",
+            "v(x) = \\sin x"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72693,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "If a function f is continuous on the closed interval then f attains its ",
+        "op": [
+            "extreme values in the closed interval.",
+            "derivative in the closed interval.",
+            "extreme values at one point in the closed interval.",
+            "may or may not attain extreme values in the closed interval."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72711,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The\\,series\\,\\sum\\limits_{}^{} {( - 1)^n a_n } \\,\\,\\,converges\\,\\,\\,\\,if\\,\\,0 \\le a_{n + 1} \\le \\,a_{n\\,} \\,and\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = \\, - - - - - . ",
+        "op": [
+            "None\\,\\,of\\,\\,these\\,\\,",
+            "- 1",
+            "1",
+            "0\\,\\,"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72712,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, - - - k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = 0,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n | \\le M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array} ",
+        "op": [
+            "\\, \\le",
+            "<",
+            ">",
+            "\\ge \\,"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72717,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,x\\sin \\frac{{1\\,\\,}}{x} = - - - - . ",
+        "op": [
+            "x",
+            "none\\,\\,of\\,\\,these",
+            "0",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72719,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "lf f:I \\to \\mathbb{R} has a derivative at c \\in \\,I , then f is ",
+        "op": [
+            "having one sided limit.",
+            "continuous at c.",
+            "undefined at c.",
+            "discontinuous at c."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72720,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The\\,\\,\\,function\\,\\,g\\left( x \\right) = - x^3 \\,\\,is\\,\\,decrea\\sin g\\,\\,on\\,\\, - - - - - .\\, ",
+        "op": [
+            "[0,\\infty )\\,",
+            "none\\,\\,of\\,\\,these\\,",
+            "\\left( { - \\infty \\,,0} \\right)",
+            "\\left( { - \\infty ,\\infty } \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72721,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The inverse of the given function f(x) = 2x + 4,\\quad 0 \\leqslant x \\leqslant 2, is",
+        "op": [
+            "{f^{ - 1}}(y) = \\frac{{y - 2}}{4}.",
+            "{f^{ - 1}}(y) = \\frac{{x - 2}}{4}.",
+            "{f^{ - 1}}(y) = \\frac{{y - 4}}{2}.",
+            "{f^{ - 1}}(y) = \\frac{{y - 4}}{4}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72722,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The Mean Value Theorem says, suppose that f is differentiable on [a,b], f'(a)\\ne f'(b), and \\mu is between f'(a) and f'(b). ",
+        "op": [
+            "Then f'(c)=0 for some c in (a,b).",
+            "Then f'(c)=\\mu for some c in (a,b).",
+            "Then f'(c) may be 0 or \\mu for some c in (a,b).",
+            "Then f'(c)\\neq\\mu for some c in (a,b)."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72723,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ + } \\,\\,\\left( {\\frac{{\\left| x \\right|}}{x} + x} \\right) = - - - - . ",
+        "op": [
+            "none\\,\\,of\\,\\,these",
+            "1\\,",
+            "0",
+            "- 1"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72724,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0} \\,\\,2x\\sin \\sqrt x = - - - - . ",
+        "op": [
+            "none\\,\\,of\\,\\,these",
+            "0",
+            "1\\,",
+            "x"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72739,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{array}{l} The\\,series\\,\\sum\\limits_{}^{} {a_n b_n } \\,\\,\\,converges\\,\\,if\\,\\,a_{n + 1} \\le \\,a_{n\\,} \\,for\\,\\,n\\, \\ge \\,k,\\,\\,\\mathop {\\lim }\\limits_{x \\to \\infty } \\,\\,a_n = - - - - - ,\\,\\,and\\, \\\\\\ |b_k + \\,b_{k + 1} + ... + b_n |\\,\\, \\le \\,\\,M,\\,\\,for\\,\\,some\\,\\,constant\\,M. \\\\\\ \\end{array} ",
+        "op": [
+            "1",
+            "- 1",
+            "None\\,of\\,these",
+            "0\\,"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72740,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The derivative of the function {x^n} is",
+        "op": [
+            "{x^{n - 1}}.",
+            "n{x^{n - 1}}.",
+            "\\frac{n}{{{x^{n - 1}}}}.",
+            "n{x^n}."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72741,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The\\,\\,\\,function\\,\\,g\\left( x \\right) = x^2 \\,\\,is\\, - - - - - \\,on\\,\\,[0,\\infty )\\,.\\, ",
+        "op": [
+            "inrea\\sin g",
+            "decrea\\sin g\\,\\,"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72750,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Investigate\\,\\,the\\,\\,\\lim it\\,\\,of\\,\\,\\,\\mathop {\\lim }\\limits_{x \\to 0^ - } \\,\\,\\left( {\\frac{{\\left| x \\right|}}{x} + x} \\right) = - - - - . ",
+        "op": [
+            "0",
+            "none\\,\\,of\\,\\,these",
+            "1",
+            "- 1"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72751,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The function g(x) = {x^2} is",
+        "op": [
+            "undefined on [0,\\infty ).",
+            "having negative values on [0,\\infty ).",
+            "increasing on [0,\\infty ).",
+            "decreasing on [0,\\infty )."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72779,
+        "cc": "MTH621",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[ The\\,\\,\\,function\\,\\,g\\left( x \\right) = - x^3 \\,\\,is\\,\\,decrea\\sin g\\,\\,on\\,\\, - - - - - .\\, \\] ",
+        "op": [
+            "\\[ \\left( { - \\infty ,\\infty } \\right) \\]",
+            "\\[ \\left( { - \\infty \\,,0} \\right) \\]",
+            "\\[ [0,\\infty )\\, \\]",
+            "\\[ none\\,\\,of\\,\\,these\\, \\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    }
+]

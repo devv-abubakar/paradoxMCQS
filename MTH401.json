@@ -1,0 +1,3054 @@
+[
+{
+    "id": 9396,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,1 + x + \\frac{x}{{2!}} + \\frac{{{x^3}}}{{3!}} + ...\\, = \\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$\\cos x$$",
+        "$${e^x}$$",
+        "$$\\sin x$$",
+        "$$\\ln (1 + x)$$"
+    ],
+    "created_at": "2026-06-21T19:03:34.938285+00:00"
+},
+{
+    "id": 9404,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{In}}\\,\\,{\\text{the}}\\,\\,{\\text{study}}\\,\\,{\\text{of}}\\,\\,{\\text{mechanics,}}\\,\\,{\\text{cosider}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,\\,{\\text{acting}}\\,\\,{\\text{on}}\\,\\,{\\text{a}}\\,\\,{\\text{body}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,\\, - \\beta \\,{\\left( {\\frac{{dx}}{{dt}}} \\right)^2},\\,{\\text{where}}\\,\\,\\beta \\,\\,{\\text{is}}\\,\\,{\\text{a}}\\,\\, \\hfill \\\\ {\\text{damping}}\\,\\,{\\text{constant}}\\,\\,{\\text{and}}\\,\\,{\\text{negative}}\\,\\,{\\text{sign}}\\,\\,{\\text{indicates}}\\,\\,{\\text{that}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,{\\text{acts}}\\,\\,{\\text{in}}\\,\\,{\\text{a}}\\,{\\text{direction}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\, \\hfill \\\\ {\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{direction}}\\,\\,{\\text{of}}\\,{\\text{motion}}{\\text{.}}\\,\\,\\,\\, \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{opposite}}$$",
+        "$${\\text{same}}$$"
+    ],
+    "created_at": "2026-06-21T19:03:51.614331+00:00"
+},
+{
+    "id": 9413,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If E(t)=0, R=0 (E(t) is the source voltage & R is the resistance) then the electric vibration can be called free ____________.",
+    "op": [
+        "damped oscillation",
+        "un-damped oscillation"
+    ],
+    "created_at": "2026-06-21T19:04:17.050149+00:00"
+},
+{
+    "id": 9423,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Ordinary differential equation $\\left( {\\frac{{dy}} {{dx}}} \\right)^3 + \\frac{{d^2 y}} {{dx^2 }} + y = 9$ , is of order ------.",
+    "op": [
+        "0",
+        "1",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-06-21T19:04:33.019547+00:00"
+},
+{
+    "id": 9430,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A / An _______ is a passive electronic component that stores energy in the form of magnetic\nfield.",
+    "op": [
+        "inductor",
+        "voltage",
+        "capacitor",
+        "resister"
+    ],
+    "created_at": "2026-06-21T19:04:44.620738+00:00"
+},
+{
+    "id": 9446,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The harmonic series of constant $$\\sum\\limits_{n = 1}^\\infty {\\frac{1}{n}}$$ always _______.",
+    "op": [
+        "convergent",
+        "divergent"
+    ],
+    "created_at": "2026-06-21T19:05:04.413554+00:00"
+},
+{
+    "id": 9453,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "To reduce any Cauchy –Euler differential equation into a differential equation with ________ coefficients we often use substitution $$x = {e^t}$$.",
+    "op": [
+        "constant",
+        "variable"
+    ],
+    "created_at": "2026-06-21T19:05:19.87356+00:00"
+},
+{
+    "id": 9462,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}\\,\\,{\\text{of}}\\,{\\text{the}}\\,\\,{\\text{free}}\\,\\,{\\text{damped}}\\,\\,{\\text{motion,}}\\,\\,\\frac{{{d^2}x}}{{d{t^2}}} + 2\\lambda \\frac{{dx}}{{dt}} + {\\omega ^2}x = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{auxiliary}}\\,\\, \\hfill \\\\ {\\text{equations}},\\,\\,m = - \\lambda \\pm \\sqrt {{\\lambda ^2} - {\\omega ^2}} .\\,\\,{\\text{If}}\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{are}}\\,\\,{\\text{complex}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\lambda ^2} - {\\omega ^2} < 0,\\,\\,\\,{\\text{then}}\\,\\,\\beta < k\\,\\,{\\text{and}}\\,\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{is}}\\,\\, \\hfill \\\\ {\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\,damped.\\,\\, \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{non - critically}}$$",
+        "$${\\text{under}}$$",
+        "$${\\text{critically}}$$",
+        "$${\\text{over}}$$"
+    ],
+    "created_at": "2026-06-21T19:05:40.187599+00:00"
+},
+{
+    "id": 9476,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a mathematical statement, V = IR, where V be the constant of proportionality and it represents the voltage. The equation is called _________.",
+    "op": [
+        "Ohm’s law",
+        "Hooke’s law",
+        "Newtown’s law",
+        "Coulomb’s law"
+    ],
+    "created_at": "2026-06-21T19:06:04.801616+00:00"
+},
+{
+    "id": 9593,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a power series $$\\sum\\limits_{n = 1}^\\infty {\\frac{{{{( - 1)}^{n + 1}}}}{{{n^2}}}} {x^n} = x - \\frac{{{x^2}}}{{{2^2}}} + \\frac{{{x^3}}}{{{3^2}}} + ....$$ , then the center of series is _______.",
+    "op": [
+        "$${x^2}$$",
+        "x",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-06-21T19:11:45.579092+00:00"
+},
+{
+    "id": 9607,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The damping force is __________to the instantaneous velocity $$\\frac{{dx}}{{dt}}$$.",
+    "op": [
+        "Proportional",
+        "Constant",
+        "Inverse proportional",
+        "None of these"
+    ],
+    "created_at": "2026-06-21T19:12:13.261846+00:00"
+},
+{
+    "id": 9620,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If $${\\lambda ^2} - {\\omega ^2} = 0$$ and $$\\beta = k$$ then the system is said to be _______ damped.",
+    "op": [
+        "over",
+        "under",
+        "critically",
+        "none of these"
+    ],
+    "created_at": "2026-06-21T19:12:54.461313+00:00"
+},
+{
+    "id": 9621,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{quantity}}\\,\\,Z = \\sqrt {{X^2} + {R^2}} \\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}$$",
+    "op": [
+        "$${\\text{impedance}}$$",
+        "$${\\text{reactance}}$$"
+    ],
+    "created_at": "2026-06-21T19:13:01.168276+00:00"
+},
+{
+    "id": 9624,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "For $$\\frac{{dy}} {{dx}} - \\frac{y} {x} = - \\frac{{\\ln x}} {x}$$ the integrating factor is",
+    "op": [
+        "-1/x",
+        "-x",
+        "-y",
+        "-1/y"
+    ],
+    "created_at": "2026-06-21T19:13:12.022653+00:00"
+},
+{
+    "id": 9626,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "For solving non homogeneous differential equation, we use either the method of ___________.",
+    "op": [
+        "Variation of parameter",
+        "None of them",
+        "Undetermined coefficient",
+        "a&b both"
+    ],
+    "created_at": "2026-06-21T19:13:26.522985+00:00"
+},
+{
+    "id": 9630,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a power series $$1 - \\frac{{{x^2}}}{2} + \\frac{{{x^4}}}{{24}} - ....$$ represents _______.",
+    "op": [
+        "sin x",
+        "e",
+        "cos x",
+        "ln x"
+    ],
+    "created_at": "2026-06-21T19:13:38.056199+00:00"
+},
+{
+    "id": 9633,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The ________ force is proportional to the instantaneous velocity $$\\frac{{dx}}{{dt}}$$ .",
+    "op": [
+        "retarding",
+        "umdamped",
+        "damped",
+        "restoring"
+    ],
+    "created_at": "2026-06-21T19:13:48.533467+00:00"
+},
+{
+    "id": 9805,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If the system is impressed upon by a _________ force and there is no damping force then there is no transient term in the solution.",
+    "op": [
+        "periodic",
+        "applied",
+        "friction",
+        "gravitational"
+    ],
+    "created_at": "2026-06-21T19:23:56.464575+00:00"
+},
+{
+    "id": 9807,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The standard unit for measurement of reactance and the impedance is __________.",
+    "op": [
+        "Ohms",
+        "Volt",
+        "Coulombs",
+        "Henry"
+    ],
+    "created_at": "2026-06-21T19:24:16.021933+00:00"
+},
+{
+    "id": 9825,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A power series in (x-2) is an infinite series of the form $$\\sum\\limits_{n = 0}^\\infty {{c_n}} {(x - 2)^n} = {c_0} + {c_1}(x - 2) + {c_2}{(x - 2)^2} + ....$$ the number 2 is called _______.",
+    "op": [
+        "Radius of power series",
+        "Center of power series",
+        "none of these",
+        "Base of power series"
+    ],
+    "created_at": "2026-06-21T19:24:57.512769+00:00"
+},
+{
+    "id": 9843,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Any linear differential equation of the form $${a_{n - 1}}{x^{n - 1}}\\frac{{{d^{n - 1}}y}}{{d{x^{n - 1}}}} + .... + \\frac{{dy}}{{dx}} + {a_0}y = g(x)$$ where $${a_n},{a_{n - 1}},...,{a_0}$$ are constants, is said to be a ____________ equation.",
+    "op": [
+        "Homogeneous",
+        "Cauchy-Euler",
+        "Non homogeneous",
+        "Cauchy-Euler"
+    ],
+    "created_at": "2026-06-21T19:25:35.899544+00:00"
+},
+{
+    "id": 9858,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Auxiliary equation of the differential equation $$f{x^2}\\frac{{{d^2}y}}{{d{x^2}}} + gx\\frac{{dy}}{{dx}} + hy\\, = \\,k(x)$$ is",
+    "op": [
+        "$$fm + (g - f){m^2} + h\\, = 0$$",
+        "$$f{m^2} - (g - f)m + h\\, = 0$$",
+        "$$f{m^2} + (g - f)m + h\\, = 0$$",
+        "none of them"
+    ],
+    "created_at": "2026-06-21T19:26:27.130295+00:00"
+},
+{
+    "id": 10133,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The D.E $$r\\frac{{{d^2}u}}{{d{r^2}}} + 2\\frac{{du}}{{dr}} = 0$$ where the variable $$r > 0$$ represents the radial distance measured ________ from the center of the sphere.",
+    "op": [
+        "outward",
+        "inward",
+        "center",
+        "origin"
+    ],
+    "created_at": "2026-06-21T19:47:31.720951+00:00"
+},
+{
+    "id": 10143,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Solution of the D.Equation $$4y^{//} + y = 0.$$ is",
+    "op": [
+        "$$y(x) = c_1 \\cos \\frac{x} {2}$$",
+        "$$y(x) = c_1 \\cos \\frac{x} {2} + c_2 Sin\\frac{x} {2}$$",
+        "$$y(x) = c_1 Sin\\frac{x} {2}$$",
+        "None of them."
+    ],
+    "created_at": "2026-06-21T19:48:07.338766+00:00"
+},
+{
+    "id": 10150,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A _________ is a passive electronic component of an electronic circuit that has the ability\nto store charge and opposes any change of voltage in the circuit.",
+    "op": [
+        "voltage",
+        "resister",
+        "inductor",
+        "capacitor"
+    ],
+    "created_at": "2026-06-21T19:48:26.601309+00:00"
+},
+{
+    "id": 10152,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The nature of the roots of the differential equation $${x^2}\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} - 4y = 0$$ is __________.",
+    "op": [
+        "Real and distinct",
+        "none of these",
+        "Conjugate complex",
+        "Real and repeated"
+    ],
+    "created_at": "2026-06-21T19:48:35.826933+00:00"
+},
+{
+    "id": 10458,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A __________is an electrical component that limits or regulates the flow of electrical current\nin an electrical circuit.",
+    "op": [
+        "voltage",
+        "capacitor",
+        "resistor",
+        "Inductor"
+    ],
+    "created_at": "2026-06-21T20:19:32.533676+00:00"
+},
+{
+    "id": 10475,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The flow of current is ___________ proportional to the resistance.",
+    "op": [
+        "inversely",
+        "directly"
+    ],
+    "created_at": "2026-06-21T20:21:05.333495+00:00"
+},
+{
+    "id": 10498,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Which number is known as quasi frequency?",
+    "op": [
+        "$$\\frac{{\\sqrt {{\\omega ^2} + {\\lambda ^2}} }}{{2\\pi }}$$",
+        "$$\\frac{{\\sqrt {{\\omega ^2} - {\\lambda ^2}} }}{{2\\pi }}$$",
+        "$$\\frac{{2\\pi }}{{\\sqrt {{\\omega ^2} + {\\lambda ^2}} }}$$",
+        "$$\\frac{{2\\pi }}{{\\sqrt {{\\omega ^2} - {\\lambda ^2}} }}$$"
+    ],
+    "created_at": "2026-06-21T20:22:35.240501+00:00"
+},
+{
+    "id": 10649,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The coefficient $$A{e^{ - \\lambda t}}$$ is called the damped ________ of vibration.",
+    "op": [
+        "period",
+        "frequency",
+        "amplitude",
+        "All of these"
+    ],
+    "created_at": "2026-06-21T20:42:35.016588+00:00"
+},
+{
+    "id": 10658,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a power series $$x - \\frac{{{x^2}}}{2} + \\frac{{{x^3}}}{3} - ....$$ represents _______.",
+    "op": [
+        "sin x",
+        "cos x",
+        "ln (1+x)",
+        "e"
+    ],
+    "created_at": "2026-06-21T20:43:20.593663+00:00"
+},
+{
+    "id": 10699,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The time interval between two successive maxima of x(t)  is called ________.",
+    "op": [
+        "quasi frequency",
+        "quasi period"
+    ],
+    "created_at": "2026-06-21T20:49:06.394027+00:00"
+},
+{
+    "id": 10700,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The total forces acting on mass m are_______.",
+    "op": [
+        "2",
+        "4",
+        "3",
+        "5"
+    ],
+    "created_at": "2026-06-21T20:49:12.938298+00:00"
+},
+{
+    "id": 11147,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The solution of $$x\\frac{{dy}}{{dx}} = 0$$ is ________.",
+    "op": [
+        "$$y = {c_1} + {c_2}{x^2}$$",
+        "none of them",
+        "$$y = {c_1} + {c_2}x$$",
+        "$$y = {c_1}$$"
+    ],
+    "created_at": "2026-06-21T23:17:35.649049+00:00"
+},
+{
+    "id": 11210,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,\\sum\\limits_{n = 0}^\\infty {\\frac{{{x^n}}}{{n!}},\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,\\,x = 1\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{number}}\\,\\,e.\\,}$$",
+    "op": [
+        "$${\\text{converges}}$$",
+        "$${\\text{diverges}}$$"
+    ],
+    "created_at": "2026-06-21T23:52:51.724799+00:00"
+},
+{
+    "id": 11244,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The infinite series $\\sum\\limits_{n = 1}^\\infty {\\frac{{( - 1)^{n + 2} }} {{n^3 }}(x + 3)^n } .$ is a power series in x centered at",
+    "op": [
+        "2",
+        "-3",
+        "3",
+        "-2"
+    ],
+    "created_at": "2026-06-22T00:10:38.309313+00:00"
+},
+{
+    "id": 11715,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{quantity}}\\,\\,X = L\\gamma - \\frac{1}{{C\\gamma }}\\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}$$",
+    "op": [
+        "$${\\text{impedance}}$$",
+        "$${\\text{reactance}}$$"
+    ],
+    "created_at": "2026-06-22T02:25:20.220294+00:00"
+},
+{
+    "id": 15188,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "\\[\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}\\,\\,{\\text{of}}\\,{\\text{the}}\\,\\,{\\text{free}}\\,\\,{\\text{damped}}\\,\\,{\\text{motion,}}\\,\\,\\frac{{{d^2}x}}{{d{t^2}}} + 2\\lambda \\frac{{dx}}{{dt}} + {\\omega ^2}x = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{auxiliary}}\\,\\, \\hfill \\\\ {\\text{equations}},\\,\\,m = - \\lambda \\pm \\sqrt {{\\lambda ^2} - {\\omega ^2}} .\\,\\,{\\text{If}}\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{are}}\\,\\,{\\text{complex}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\lambda ^2} - {\\omega ^2} < 0,\\,\\,\\,{\\text{then}}\\,\\,\\beta < k\\,\\,{\\text{and}}\\,\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{is}}\\,\\, \\hfill \\\\ {\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\,damped.\\,\\, \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[{\\text{non - critically}}\\]",
+        "\\[{\\text{over}}\\]",
+        "\\[{\\text{under}}\\]",
+        "\\[{\\text{critically}}\\]"
+    ],
+    "created_at": "2026-06-22T08:52:23.526355+00:00"
+},
+{
+    "id": 27459,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The linear normal form of $$2\\frac{{{d^2}y}}{{d{x^2}}} + 4\\frac{{dy}}{{dx}} - 5y = 0$$ ,by using $$y = {x_1},y' = {x_1}^\\prime {\\text{and }}y'' = {x_2}^\\prime$$ , is__________.",
+    "op": [
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} - \\frac{5}{2}{x_1}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} + \\frac{5}{2}{x_1}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} + \\frac{5}{2}{x_1}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} - \\frac{5}{2}{x_1}$$"
+    ],
+    "created_at": "2026-06-29T19:09:08.588217+00:00"
+},
+{
+    "id": 27462,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The differential equation $$y'' + (\\cos x)y = 0$$ has ordinary point at ______.",
+    "op": [
+        "x=1",
+        "x=0",
+        "x=-1",
+        "none of them"
+    ],
+    "created_at": "2026-06-29T19:09:21.972427+00:00"
+},
+{
+    "id": 27464,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Recurrence relation for polynomials relates",
+    "op": [
+        "Equal polynomials.",
+        "Polynomials of same degrees.",
+        "Polynomials of different degrees.",
+        "All options are true."
+    ],
+    "created_at": "2026-06-29T19:09:30.142388+00:00"
+},
+{
+    "id": 27467,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The second order linear differential equation $$x^2 \\frac{{d^2 y}} {{dx^2 }} + x\\frac{{dy}} {{dx}} + (x^2 - 49) = 0$$ is a Bessel equation of degree",
+    "op": [
+        "1",
+        "3",
+        "none of these.",
+        "2"
+    ],
+    "created_at": "2026-06-29T19:09:35.933232+00:00"
+},
+{
+    "id": 27468,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The singular points need not to be _________ number.",
+    "op": [
+        "real",
+        "whole",
+        "complex",
+        "natural"
+    ],
+    "created_at": "2026-06-29T19:09:43.1975+00:00"
+},
+{
+    "id": 27470,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Operator method or systematic elimination method of solution of a system of linear homogeneous or linear non-homogeneous differential equations provides us _________ differential equation in one of the dependent variables that has not been eliminated.",
+    "op": [
+        "single",
+        "many"
+    ],
+    "created_at": "2026-06-29T19:09:48.62379+00:00"
+},
+{
+    "id": 27471,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{Legendre}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{can}}\\,\\,{\\text{also}}\\,\\,{\\text{be}}\\,{\\text{generated}}\\,\\,{\\text{by}}\\,\\,{\\text{Rodrigues}}\\,\\,{\\text{formula}},\\,\\,{P_n}(x) = \\frac{1}{{{2^n}\\,n!}}\\frac{{{d^n}}}{{d{x^n}}}{({x^2} - 1)^n}.$$",
+    "op": [
+        "$${\\text{True}}$$",
+        "$${\\text{False}}$$"
+    ],
+    "created_at": "2026-06-29T19:09:54.893504+00:00"
+},
+{
+    "id": 27472,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{equation}},\\,\\,(1 - {x^2})\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} + 30y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1$$",
+        "$$(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i$$",
+        "$$(II)\\,\\,\\,\\,\\,\\,\\,\\,i$$",
+        "$$(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.$$"
+    ],
+    "created_at": "2026-06-29T19:10:02.119295+00:00"
+},
+{
+    "id": 27474,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Operator method is based  on process of",
+    "op": [
+        "None of these.",
+        "Obtaining new dependent variables.",
+        "Elimination of dependent variables.",
+        "Addition of dependent variables."
+    ],
+    "created_at": "2026-06-29T19:10:15.577539+00:00"
+},
+{
+    "id": 27476,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Operator method or systematic elimination method of solution of a system of linear homogeneous or linear non-homogeneous differential equations is based on the process of systematic elimination of the _________ variables.",
+    "op": [
+        "dependent",
+        "independent"
+    ],
+    "created_at": "2026-06-29T19:10:27.505538+00:00"
+},
+{
+    "id": 27558,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "To solve a differential equation $${a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0$$ about a regular singular point we employ the __________ theorem.",
+    "op": [
+        "none of them",
+        "Bessel",
+        "Frobenius",
+        "Legendre"
+    ],
+    "created_at": "2026-06-29T19:16:21.319497+00:00"
+},
+{
+    "id": 27561,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The differential equation $$(x^2 - 4)y^{//} + 2xy + y = 0$$ has singular point at",
+    "op": [
+        "x=0",
+        "x=2 and x = -2",
+        "x=1",
+        "x=2"
+    ],
+    "created_at": "2026-06-29T19:16:43.827934+00:00"
+},
+{
+    "id": 27563,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A singular point $$x = {x_0}$$ of the differential equation $${a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0$$ is said to be a __________ point if both $$(x - {x_0})P(x)$$ and $${(x - {x_0})^2}Q(x)$$ are analytical at $${x_0}$$ .",
+    "op": [
+        "none of them",
+        "ordinary",
+        "regular singular",
+        "irregular singular"
+    ],
+    "created_at": "2026-06-29T19:16:54.603536+00:00"
+},
+{
+    "id": 27565,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The simultaneous ordinary differential equations involve two or more equations that contain derivatives of two or more unknown functions of ____________ independent variable.",
+    "op": [
+        "1",
+        "2",
+        "2",
+        "infinite"
+    ],
+    "created_at": "2026-06-29T19:17:13.446041+00:00"
+},
+{
+    "id": 27570,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Bessel equation occurs frequently in advances studies in ___________.",
+    "op": [
+        "applied mathematics",
+        "engineering",
+        "physics",
+        "All of these"
+    ],
+    "created_at": "2026-06-29T19:17:42.1026+00:00"
+},
+{
+    "id": 27572,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The linear normal form of $$4\\frac{{{d^3}y}}{{d{t^3}}} + y = {e^t}$$ ,by using $$y = {x_1},y' = {x_1}^\\prime {\\text{, }}y'' = {x_2}^\\prime {\\text{and }}y''' = {x_3}^\\prime$$ , is__________.",
+    "op": [
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} + \\frac{1}{4}{e^t}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = - \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}$$",
+        "$${x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{{ - 1}}{4}{x_1} + \\frac{1}{4}{e^t}$$"
+    ],
+    "created_at": "2026-06-29T19:17:59.663032+00:00"
+},
+{
+    "id": 27644,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A function f is said to be analytic at a point ‘a’ if it can be represented by a power series in (x-a) with a _________ radius of convergence.",
+    "op": [
+        "positive",
+        "negative"
+    ],
+    "created_at": "2026-06-29T19:30:02.808463+00:00"
+},
+{
+    "id": 27646,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "x=0 is a(an) -------- point of the differential equation:$y'' + xy' + 2y = 0.$",
+    "op": [
+        "Irregular singular",
+        "Regular singular",
+        "Singular",
+        "Ordinary"
+    ],
+    "created_at": "2026-06-29T19:30:10.421295+00:00"
+},
+{
+    "id": 27650,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The solution of Legendre differential equation is denoted by ___________.",
+    "op": [
+        "$${L_v}(x)$$",
+        "$${J_v}(x)$$",
+        "$${P_v}(x)$$",
+        "$${B_v}(x)$$"
+    ],
+    "created_at": "2026-06-29T19:30:19.658818+00:00"
+},
+{
+    "id": 27657,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Spherical Bessel functions are used in many physical problems.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-29T19:31:00.013613+00:00"
+},
+{
+    "id": 27660,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A function f is said to be _______ at a point a if it can be represented by a power series in (x-a) with a positive radius of convergence.",
+    "op": [
+        "complex",
+        "singular",
+        "constant",
+        "analytic"
+    ],
+    "created_at": "2026-06-29T19:31:08.968279+00:00"
+},
+{
+    "id": 27687,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Bessel functions of index half an _________ integer are called Spherical Bessel functions.",
+    "op": [
+        "even",
+        "odd"
+    ],
+    "created_at": "2026-06-29T19:33:43.820843+00:00"
+},
+{
+    "id": 27689,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{Every}}\\,\\,{n^{th}}\\,\\,{\\text{order}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}},\\,\\,{y^{(n)}} = F\\left( {t,\\,y,\\,y',\\,...,\\,{y^{(n - 1)}}} \\right),\\,\\,{\\text{as}}\\,\\,{\\text{well}}\\,\\,{\\text{as}}\\,\\,{\\text{most}}\\,\\,\\,{\\text{systems}}\\,\\,{\\text{of}}\\,\\, \\hfill \\\\ {\\text{differential}}\\,\\,{\\text{equations,}}\\,\\,{\\text{could}}\\,\\,{\\text{be}}\\,\\,{\\text{reduced}}\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{order}}\\,\\,{\\text{system}}{\\text{.}}\\,\\, \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{infinite}}$$",
+        "$$n - 1$$",
+        "$${n^{th}}$$",
+        "$$n + 1$$"
+    ],
+    "created_at": "2026-06-29T19:34:08.734664+00:00"
+},
+{
+    "id": 27696,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Solution of Legendre’s differential equation is called",
+    "op": [
+        "Legendre function.",
+        "Legendre differential.",
+        "Legendre polynomial.",
+        "Recurrence relation."
+    ],
+    "created_at": "2026-06-29T19:34:54.130238+00:00"
+},
+{
+    "id": 27705,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{equation}},\\,\\,({x^2} + 1)\\frac{{{d^2}y}}{{d{x^2}}} + 2x\\frac{{dy}}{{dx}} + 6y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i$$",
+        "$$(II)\\,\\,\\,\\,\\,\\,\\,\\,i$$",
+        "$$(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.$$",
+        "$$(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1$$"
+    ],
+    "created_at": "2026-06-29T19:35:32.501877+00:00"
+},
+{
+    "id": 27718,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A function f is said to be analytic at a point a if it can be represented by a power series in (x-a) with a positive radius of________.",
+    "op": [
+        "divergence",
+        "convergence"
+    ],
+    "created_at": "2026-06-29T19:36:33.876525+00:00"
+},
+{
+    "id": 27720,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "If determinant $$\\left| {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} {D + 1} \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ {D - 1} \\end{array}} \\end{array}} \\right| = 0$$ then __________.",
+    "op": [
+        "$${D^2} - 1$$",
+        "$$(D + 1)(D - 1) + 2$$",
+        "$${D^2} + 1$$",
+        "$$(D + 1)(D - 1) - 2$$"
+    ],
+    "created_at": "2026-06-29T19:36:40.461482+00:00"
+},
+{
+    "id": 27778,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "By converting the equation $$(x^2 + 4x + 4)y^{//} + (x - 2)y^/ + y = 0$$ into general form $$y^{//} + P(x)y^/ + Q(x)y = 0$$ ; Q(x) is",
+    "op": [
+        "None of these.",
+        "$$\\frac{1} {{(x - 2)(x + 2)}}$$",
+        "$$\\frac{1} {{(x - 2)(x + 2)^3 }}$$",
+        "$$\\frac{1} {{(x + 2)^2 }}$$"
+    ],
+    "created_at": "2026-06-29T19:47:58.405882+00:00"
+},
+{
+    "id": 27802,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{A}}\\,\\,{\\text{solution}}\\,\\,{\\text{of}}\\,{\\text{a}}\\,\\,{\\text{system}}\\,\\,{\\text{of}}\\,{\\text{differential}}\\,\\,{\\text{equations}}\\,\\,{\\text{is}}\\,{\\text{a}}\\,\\,{\\text{set}}\\,\\,{\\text{of}}\\,\\,{\\text{differentiable}}\\,\\,{\\text{functions}},\\,\\, \\hfill \\\\ x = f(t),\\,\\,y = g(t),\\,\\,x = h(t),...,\\,\\,{\\text{those}}\\,\\,{\\text{satisfy}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{equation(s)}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{on}}\\,\\,{\\text{some}}\\,\\,{\\text{interval}}\\,\\,I. \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{one}}$$",
+        "$${\\text{each}}$$",
+        "$${\\text{at}}\\,\\,{\\text{least}}\\,\\,{\\text{one}}$$",
+        "$${\\text{two}}$$"
+    ],
+    "created_at": "2026-06-29T19:51:00.661475+00:00"
+},
+{
+    "id": 27999,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The irregular singular point of the differential equation $${({x^2} - 4)^2}y + (x - 2)y' + y = 0$$ is _______.",
+    "op": [
+        "1",
+        "-2",
+        "2",
+        "-1"
+    ],
+    "created_at": "2026-06-29T20:38:40.147635+00:00"
+},
+{
+    "id": 28005,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{Legendres}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{are}}\\,\\,{\\text{specific}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{degree}}\\,\\,{\\text{polynomials}}.$$",
+    "op": [
+        "$$n + 1$$",
+        "$$n - 1$$",
+        "$$n$$",
+        "$${n^2}$$"
+    ],
+    "created_at": "2026-06-29T20:40:37.853242+00:00"
+},
+{
+    "id": 28009,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The solution of Bessel equation is denoted by ___________.",
+    "op": [
+        "$${L_v}(x)$$",
+        "$${P_v}(x)$$",
+        "$${B_v}(x)$$",
+        "$${J_v}(x)$$"
+    ],
+    "created_at": "2026-06-29T20:42:02.657439+00:00"
+},
+{
+    "id": 28011,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A point that is not an ordinary point is said to be singular point of the equation.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-29T20:42:53.607426+00:00"
+},
+{
+    "id": 28013,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "It is NOT always possible to solve the given system for the highest-order derivative of each dependent variable.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-29T20:43:29.914027+00:00"
+},
+{
+    "id": 28014,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A second order differential equation of the form $${x^2}\\frac{{{d^2}y}}{{d{x^2}}} + x\\frac{{dy}}{{dx}} + ({x^2} - {v^2})y = 0$$ is called ________ differential equation.",
+    "op": [
+        "Legendre",
+        "Picard",
+        "Bessel",
+        "Bernoulli"
+    ],
+    "created_at": "2026-06-29T20:43:43.270871+00:00"
+},
+{
+    "id": 28017,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{equation}},\\,\\,{({x^2} - 4)^2}\\frac{{{d^2}y}}{{d{x^2}}} + (x - 2)\\frac{{dy}}{{dx}} + y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$\\pm \\,\\,i$$",
+        "$$\\pm \\,1$$",
+        "$$\\pm \\,2$$",
+        "$$0$$"
+    ],
+    "created_at": "2026-06-29T20:44:11.10137+00:00"
+},
+{
+    "id": 28019,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "If n is positive integer, then the solution of Legendre’s differential equation is called a Legendre’s __________ of degree n.",
+    "op": [
+        "function",
+        "polynomial"
+    ],
+    "created_at": "2026-06-29T20:44:46.57436+00:00"
+},
+{
+    "id": 28032,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The Differential Equation $$(x^2 - 16)y'' + 2xy' + 16y = 0$$ has singularity at",
+    "op": [
+        "$$x = - 16$$",
+        "$$x = \\pm 4$$",
+        "None of these.",
+        "$$x = 16$$"
+    ],
+    "created_at": "2026-06-29T20:47:23.934924+00:00"
+},
+{
+    "id": 28156,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The regular singular point of the differential equation $${({x^2} - 4)^2}y + (x - 2)y' + y = 0$$ is ________.",
+    "op": [
+        "1",
+        "-2",
+        "-1",
+        "2"
+    ],
+    "created_at": "2026-06-29T21:50:43.517605+00:00"
+},
+{
+    "id": 28159,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A point $${x_0}$$ is said to be a _______point of a differential equation $${a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0$$ if both P(x) and Q(x) are analytic at $${x_0}$$ .",
+    "op": [
+        "singular",
+        "ordinary"
+    ],
+    "created_at": "2026-06-29T21:52:03.509531+00:00"
+},
+{
+    "id": 28177,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "Legendre polynomials are normal with respect to the weight function",
+    "op": [
+        "$$w(x) = \\frac{{2n + 1}} {{n^2 }}$$",
+        "$$w(x) = \\frac{{n + 1}} {{2n}}$$",
+        "$$w(x) = \\frac{{2n^2 + 1}} {n}$$",
+        "$$w(x) = \\frac{{2n + 1}} {n}\\,$$"
+    ],
+    "created_at": "2026-06-29T22:26:08.655908+00:00"
+},
+{
+    "id": 28237,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The method of Frobenius always provide two solutions.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-29T23:48:28.221422+00:00"
+},
+{
+    "id": 28238,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "A second order linear differential equation of the form $$(1 - {x^2})y - 2xy' + n(n + 1)y = 0$$ is called ______________ differential equation.",
+    "op": [
+        "Picard",
+        "Bernoulli",
+        "Bessel",
+        "Legendre"
+    ],
+    "created_at": "2026-06-29T23:52:18.291604+00:00"
+},
+{
+    "id": 28394,
+    "cc": "MTH401",
+    "qn": "04",
+    "dt": "30 June 2026",
+    "qt": "The differential equation $$5\\frac{{dx}}{{dt}} + 5x - \\frac{{dy}}{{dt}} = {e^{2t}}$$ in terms of differential operator is __________.",
+    "op": [
+        "$$(D + 1)5x + Dy = {e^{2t}}$$",
+        "$$(D - 1)5x - Dy = {e^{2t}}$$",
+        "$$(D + 1)5x - Dy = {e^t}$$",
+        "$$(D + 1)5x - Dy = {e^{2t}}$$"
+    ],
+    "created_at": "2026-06-30T00:47:08.039399+00:00"
+},
+{
+    "id": 45688,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "A _________ is a passive electronic component of an electronic circuit that has the ability\nto store charge and opposes any change of voltage in the circuit.",
+    "op": [
+        "voltage",
+        "inductor",
+        "capacitor",
+        "resister"
+    ],
+    "created_at": "2026-06-23T18:26:29.124047+00:00"
+},
+{
+    "id": 45689,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "If \\[{\\lambda ^2} - {\\omega ^2} = 0\\] and \\[\\beta = k\\] then the system is said to be _______ damped.",
+    "op": [
+        "critically",
+        "over",
+        "under",
+        "none of these"
+    ],
+    "created_at": "2026-06-23T18:26:36.108627+00:00"
+},
+{
+    "id": 45690,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The D.E \\[r\\frac{{{d^2}u}}{{d{r^2}}} + 2\\frac{{du}}{{dr}} = 0\\] where the variable \\[r > 0\\] represents the radial distance measured ________ from the center of the sphere.",
+    "op": [
+        "center",
+        "outward",
+        "inward",
+        "origin"
+    ],
+    "created_at": "2026-06-23T18:26:48.089673+00:00"
+},
+{
+    "id": 45691,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{quantity}}\\,\\,Z = \\sqrt {{X^2} + {R^2}} \\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}\\]",
+    "op": [
+        "\\[{\\text{reactance}}\\]",
+        "\\[{\\text{impedance}}\\]"
+    ],
+    "created_at": "2026-06-24T11:00:16.884773+00:00"
+},
+{
+    "id": 45692,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "A power series in (x-2) is an infinite series of the form $$\\sum\\limits_{n = 0}^\\infty {{c_n}} {(x - 2)^n} = {c_0} + {c_1}(x - 2) + {c_2}{(x - 2)^2} + ....$$ the number 2 is called _______.",
+    "op": [
+        "none of these",
+        "Base of power series",
+        "Radius of power series",
+        "Center of power series"
+    ],
+    "created_at": "2026-06-24T07:47:13.486107+00:00"
+},
+{
+    "id": 45693,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Consider a power series $$\\sum\\limits_{n = 1}^\\infty {\\frac{{{{( - 1)}^{n + 1}}}}{{{n^2}}}} {x^n} = x - \\frac{{{x^2}}}{{{2^2}}} + \\frac{{{x^3}}}{{{3^2}}} + ....$$ , then the center of series is _______.",
+    "op": [
+        "$${x^2}$$",
+        "x",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-06-24T07:47:43.822173+00:00"
+},
+{
+    "id": 45694,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Ordinary differential equation $\\left( {\\frac{{dy}} {{dx}}} \\right)^3 + \\frac{{d^2 y}} {{dx^2 }} + y = 9$ , is of order ------.",
+    "op": [
+        "2",
+        "3",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-06-24T07:48:33.601712+00:00"
+},
+{
+    "id": 45695,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "The solution of \\[x\\frac{{dy}}{{dx}} = 0\\] is ________.",
+    "op": [
+        "\\[y = {c_1} + {c_2}{x^2}\\]",
+        "none of them",
+        "\\[y = {c_1}\\]",
+        "\\[y = {c_1} + {c_2}x\\]"
+    ],
+    "created_at": "2026-06-24T07:50:35.716163+00:00"
+},
+{
+    "id": 45696,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "The flow of current is ___________ proportional to the resistance.",
+    "op": [
+        "directly",
+        "inversely"
+    ],
+    "created_at": "2026-06-24T11:01:56.314578+00:00"
+},
+{
+    "id": 45697,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "For $$ \\frac{{dy}} {{dx}} - \\frac{y} {x} = - \\frac{{\\ln x}} {x} $$ the integrating factor is",
+    "op": [
+        "-1/x",
+        "-1/y",
+        "-x",
+        "-y"
+    ],
+    "created_at": "2026-06-24T15:49:10.921338+00:00"
+},
+{
+    "id": 45698,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Any linear differential equation of the form $${a_{n - 1}}{x^{n - 1}}\\frac{{{d^{n - 1}}y}}{{d{x^{n - 1}}}} + .... + \\frac{{dy}}{{dx}} + {a_0}y = g(x)$$ where $${a_n},{a_{n - 1}},...,{a_0}$$ are constants, is said to be a ____________ equation.",
+    "op": [
+        "Cauchy-Euler",
+        "Homogeneous",
+        "Non homogeneous",
+        "Cauchy-Euler"
+    ],
+    "created_at": "2026-06-24T15:49:37.055094+00:00"
+},
+{
+    "id": 45699,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Which number is known as quasi frequency?",
+    "op": [
+        "$$\\frac{{2\\pi }}{{\\sqrt {{\\omega ^2} - {\\lambda ^2}} }}$$",
+        "$$\\frac{{2\\pi }}{{\\sqrt {{\\omega ^2} + {\\lambda ^2}} }}$$",
+        "$$\\frac{{\\sqrt {{\\omega ^2} + {\\lambda ^2}} }}{{2\\pi }}$$",
+        "$$\\frac{{\\sqrt {{\\omega ^2} - {\\lambda ^2}} }}{{2\\pi }}$$"
+    ],
+    "created_at": "2026-06-24T07:52:17.089388+00:00"
+},
+{
+    "id": 45700,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Solution of the D.Equation $$4y^{//} + y = 0.$$ is",
+    "op": [
+        "None of them.",
+        "$$y(x) = c_1 \\cos \\frac{x} {2}$$",
+        "$$y(x) = c_1 Sin\\frac{x} {2}$$",
+        "$$y(x) = c_1 \\cos \\frac{x} {2} + c_2 Sin\\frac{x} {2}$$"
+    ],
+    "created_at": "2026-06-24T11:04:15.336819+00:00"
+},
+{
+    "id": 45701,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "\\[\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}\\,\\,{\\text{of}}\\,{\\text{the}}\\,\\,{\\text{free}}\\,\\,{\\text{damped}}\\,\\,{\\text{motion,}}\\,\\,\\frac{{{d^2}x}}{{d{t^2}}} + 2\\lambda \\frac{{dx}}{{dt}} + {\\omega ^2}x = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{auxiliary}}\\,\\, \\hfill \\\\ {\\text{equations}},\\,\\,m = - \\lambda \\pm \\sqrt {{\\lambda ^2} - {\\omega ^2}} .\\,\\,{\\text{If}}\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{are}}\\,\\,{\\text{complex}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\lambda ^2} - {\\omega ^2} < 0,\\,\\,\\,{\\text{then}}\\,\\,\\beta < k\\,\\,{\\text{and}}\\,\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{is}}\\,\\, \\hfill \\\\ {\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\,damped.\\,\\, \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[{\\text{under}}\\]",
+        "\\[{\\text{critically}}\\]",
+        "\\[{\\text{over}}\\]",
+        "\\[{\\text{non - critically}}\\]"
+    ],
+    "created_at": "2026-06-24T11:04:36.994389+00:00"
+},
+{
+    "id": 45702,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "For solving non homogeneous differential equation, we use either the method of ___________.",
+    "op": [
+        "Undetermined coefficient",
+        "Variation of parameter",
+        "a&b both",
+        "None of them"
+    ],
+    "created_at": "2026-06-24T15:51:00.10664+00:00"
+},
+{
+    "id": 45703,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "Consider a power series $$1 - \\frac{{{x^2}}}{2} + \\frac{{{x^4}}}{{24}} - ....$$ represents _______.",
+    "op": [
+        "cos x",
+        "ln x",
+        "sin x",
+        "e"
+    ],
+    "created_at": "2026-06-24T15:53:16.002629+00:00"
+},
+{
+    "id": 45704,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{quantity}}\\,\\,X = L\\gamma - \\frac{1}{{C\\gamma }}\\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}$$",
+    "op": [
+        "$${\\text{impedance}}$$",
+        "$${\\text{reactance}}$$"
+    ],
+    "created_at": "2026-06-23T17:06:38.27048+00:00"
+},
+{
+    "id": 45705,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The harmonic series of constant $$\\sum\\limits_{n = 1}^\\infty {\\frac{1}{n}}$$ always _______.",
+    "op": [
+        "convergent",
+        "divergent"
+    ],
+    "created_at": "2026-06-23T17:06:50.873491+00:00"
+},
+{
+    "id": 45706,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "A __________is an electrical component that limits or regulates the flow of electrical current\nin an electrical circuit.",
+    "op": [
+        "resistor",
+        "voltage",
+        "capacitor",
+        "Inductor"
+    ],
+    "created_at": "2026-06-23T17:07:04.017279+00:00"
+},
+{
+    "id": 45707,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "For $$\\frac{{dy}} {{dx}} - \\frac{y} {x} = - \\frac{{\\ln x}} {x}$$ the integrating factor is",
+    "op": [
+        "-x",
+        "-1/x",
+        "-1/y",
+        "-y"
+    ],
+    "created_at": "2026-06-23T17:07:18.729404+00:00"
+},
+{
+    "id": 45708,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,\\sum\\limits_{n = 0}^\\infty {\\frac{{{x^n}}}{{n!}},\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,\\,x = 1\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{number}}\\,\\,e.\\,}$$",
+    "op": [
+        "$${\\text{converges}}$$",
+        "$${\\text{diverges}}$$"
+    ],
+    "created_at": "2026-06-23T17:07:33.620555+00:00"
+},
+{
+    "id": 45709,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "$${\\text{The}}\\,\\,{\\text{quantity}}\\,\\,Z = \\sqrt {{X^2} + {R^2}} \\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}$$",
+    "op": [
+        "$${\\text{reactance}}$$",
+        "$${\\text{impedance}}$$"
+    ],
+    "created_at": "2026-06-23T17:07:51.564299+00:00"
+},
+{
+    "id": 45710,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The ________ force is proportional to the instantaneous velocity $$\\frac{{dx}}{{dt}}$$ .",
+    "op": [
+        "restoring",
+        "damped",
+        "umdamped",
+        "retarding"
+    ],
+    "created_at": "2026-06-23T17:08:09.422751+00:00"
+},
+{
+    "id": 45711,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Auxiliary equation of the differential equation $$f{x^2}\\frac{{{d^2}y}}{{d{x^2}}} + gx\\frac{{dy}}{{dx}} + hy\\, = \\,k(x)$$ is",
+    "op": [
+        "$$fm + (g - f){m^2} + h\\, = 0$$",
+        "none of them",
+        "$$f{m^2} - (g - f)m + h\\, = 0$$",
+        "$$f{m^2} + (g - f)m + h\\, = 0$$"
+    ],
+    "created_at": "2026-06-23T17:08:31.957046+00:00"
+},
+{
+    "id": 45712,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "24 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}\\,\\,{\\text{of}}\\,{\\text{the}}\\,\\,{\\text{free}}\\,\\,{\\text{damped}}\\,\\,{\\text{motion,}}\\,\\,\\frac{{{d^2}x}}{{d{t^2}}} + 2\\lambda \\frac{{dx}}{{dt}} + {\\omega ^2}x = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{auxiliary}}\\,\\, \\hfill \\\\ {\\text{equations}},\\,\\,m = - \\lambda \\pm \\sqrt {{\\lambda ^2} - {\\omega ^2}} .\\,\\,{\\text{If}}\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{are}}\\,\\,{\\text{complex}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\lambda ^2} - {\\omega ^2} < 0,\\,\\,\\,{\\text{then}}\\,\\,\\beta < k\\,\\,{\\text{and}}\\,\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{is}}\\,\\, \\hfill \\\\ {\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\,damped.\\,\\, \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{critically}}$$",
+        "$${\\text{non - critically}}$$",
+        "$${\\text{over}}$$",
+        "$${\\text{under}}$$"
+    ],
+    "created_at": "2026-06-24T17:50:45.417335+00:00"
+},
+{
+    "id": 45713,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The infinite series $\\sum\\limits_{n = 1}^\\infty {\\frac{{( - 1)^{n + 2} }} {{n^3 }}(x + 3)^n } .$ is a power series in x centered at",
+    "op": [
+        "-2",
+        "3",
+        "2",
+        "-3"
+    ],
+    "created_at": "2026-06-22T10:57:14.547817+00:00"
+},
+{
+    "id": 45714,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The nature of the roots of the differential equation $${x^2}\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} - 4y = 0$$ is __________.",
+    "op": [
+        "none of these",
+        "Conjugate complex",
+        "Real and distinct",
+        "Real and repeated"
+    ],
+    "created_at": "2026-06-22T10:57:41.252755+00:00"
+},
+{
+    "id": 45715,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The total forces acting on mass m are_______.",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "5"
+    ],
+    "created_at": "2026-06-22T10:58:00.027137+00:00"
+},
+{
+    "id": 45716,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The damping force is __________to the instantaneous velocity $$\\frac{{dx}}{{dt}}$$.",
+    "op": [
+        "None of these",
+        "Inverse proportional",
+        "Proportional",
+        "Constant"
+    ],
+    "created_at": "2026-06-22T10:58:21.239853+00:00"
+},
+{
+    "id": 45717,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Auxiliary equation of the differential equation \\[f{x^2}\\frac{{{d^2}y}}{{d{x^2}}} + gx\\frac{{dy}}{{dx}} + hy\\, = \\,k(x)\\] is",
+    "op": [
+        "\\[fm + (g - f){m^2} + h\\, = 0\\]",
+        "none of them",
+        "\\[f{m^2} + (g - f)m + h\\, = 0\\]",
+        "\\[f{m^2} - (g - f)m + h\\, = 0\\]"
+    ],
+    "created_at": "2026-06-22T10:58:47.10947+00:00"
+},
+{
+    "id": 45718,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a power series \\[1 - \\frac{{{x^2}}}{2} + \\frac{{{x^4}}}{{24}} - ....\\] represents _______.",
+    "op": [
+        "cos x",
+        "e",
+        "sin x",
+        "ln x"
+    ],
+    "created_at": "2026-06-22T10:59:13.004891+00:00"
+},
+{
+    "id": 45719,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If E(t)=0, R=0 (E(t) is the source voltage & R is the resistance) then the electric vibration can be called free ____________.",
+    "op": [
+        "damped oscillation",
+        "un-damped oscillation"
+    ],
+    "created_at": "2026-06-22T10:59:58.095569+00:00"
+},
+{
+    "id": 45720,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,1 + x + \\frac{x}{{2!}} + \\frac{{{x^3}}}{{3!}} + ...\\, = \\_\\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[{e^x}\\]",
+        "\\[\\cos x\\]",
+        "\\[\\ln (1 + x)\\]",
+        "\\[\\sin x\\]"
+    ],
+    "created_at": "2026-06-22T11:00:23.951022+00:00"
+},
+{
+    "id": 45721,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,\\sum\\limits_{n = 0}^\\infty {\\frac{{{x^n}}}{{n!}},\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,\\,x = 1\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{number}}\\,\\,e.\\,} \\]",
+    "op": [
+        "\\[{\\text{converges}}\\]",
+        "\\[{\\text{diverges}}\\]"
+    ],
+    "created_at": "2026-06-22T11:00:43.546334+00:00"
+},
+{
+    "id": 45722,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The standard unit for measurement of reactance and the impedance is __________.",
+    "op": [
+        "Henry",
+        "Ohms",
+        "Coulombs",
+        "Volt"
+    ],
+    "created_at": "2026-06-22T11:01:20.327851+00:00"
+},
+{
+    "id": 45723,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The harmonic series of constant \\[\\sum\\limits_{n = 1}^\\infty {\\frac{1}{n}} \\] always _______.",
+    "op": [
+        "divergent",
+        "convergent"
+    ],
+    "created_at": "2026-06-22T12:39:08.951312+00:00"
+},
+{
+    "id": 45724,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "If the system is impressed upon by a _________ force and there is no damping force then there is no transient term in the solution.",
+    "op": [
+        "gravitational",
+        "applied",
+        "periodic",
+        "friction"
+    ],
+    "created_at": "2026-06-22T12:39:17.448952+00:00"
+},
+{
+    "id": 45725,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Solution of the D.Equation $$ 4y^{//} + y = 0. $$ is",
+    "op": [
+        "$$ y(x) = c_1 \\cos \\frac{x} {2} $$",
+        "$$ y(x) = c_1 Sin\\frac{x} {2} $$",
+        "$$ y(x) = c_1 \\cos \\frac{x} {2} + c_2 Sin\\frac{x} {2} $$",
+        "None of them."
+    ],
+    "created_at": "2026-06-22T12:39:26.836101+00:00"
+},
+{
+    "id": 45726,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a mathematical statement, V = IR, where V be the constant of proportionality and it represents the voltage. The equation is called _________.",
+    "op": [
+        "Ohm’s law",
+        "Coulomb’s law",
+        "Newtown’s law",
+        "Hooke’s law"
+    ],
+    "created_at": "2026-06-22T12:39:40.596674+00:00"
+},
+{
+    "id": 45727,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "Consider a power series \\[x - \\frac{{{x^2}}}{2} + \\frac{{{x^3}}}{3} - ....\\] represents _______.",
+    "op": [
+        "e",
+        "ln (1+x)",
+        "sin x",
+        "cos x"
+    ],
+    "created_at": "2026-06-22T12:40:56.073472+00:00"
+},
+{
+    "id": 45728,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The damping force is __________to the instantaneous velocity \\[\\frac{{dx}}{{dt}}\\].",
+    "op": [
+        "None of these",
+        "Constant",
+        "Inverse proportional",
+        "Proportional"
+    ],
+    "created_at": "2026-06-22T12:41:04.481705+00:00"
+},
+{
+    "id": 45729,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "The conversion of Cauchy Euler equation $${x^2}\\frac{{{d^2}y}}{{d{x^2}}} - x\\frac{{dy}}{{dx}} + y = \\ln x$$ after putting $$x = {e^t}$$ becomes",
+    "op": [
+        "$$({\\Delta ^2} - \\Delta + 1)y$$",
+        "$$({\\Delta ^2} - 2\\Delta - 1)y$$",
+        "$$({\\Delta ^2} - 2\\Delta + 1)y$$",
+        "$$(2{\\Delta ^2} - \\Delta - 1)y$$"
+    ],
+    "created_at": "2026-06-22T12:41:14.596836+00:00"
+},
+{
+    "id": 45730,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "A power series in (x-2) is an infinite series of the form \\[\\sum\\limits_{n = 0}^\\infty {{c_n}} {(x - 2)^n} = {c_0} + {c_1}(x - 2) + {c_2}{(x - 2)^2} + ....\\] the number 2 is called _______.",
+    "op": [
+        "Center of power series",
+        "Radius of power series",
+        "none of these",
+        "Base of power series"
+    ],
+    "created_at": "2026-06-23T07:34:31.378511+00:00"
+},
+{
+    "id": 45731,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "$$\\begin{gathered} {\\text{In}}\\,\\,{\\text{the}}\\,\\,{\\text{study}}\\,\\,{\\text{of}}\\,\\,{\\text{mechanics,}}\\,\\,{\\text{cosider}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,\\,{\\text{acting}}\\,\\,{\\text{on}}\\,\\,{\\text{a}}\\,\\,{\\text{body}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,\\, - \\beta \\,{\\left( {\\frac{{dx}}{{dt}}} \\right)^2},\\,{\\text{where}}\\,\\,\\beta \\,\\,{\\text{is}}\\,\\,{\\text{a}}\\,\\, \\hfill \\\\ {\\text{damping}}\\,\\,{\\text{constant}}\\,\\,{\\text{and}}\\,\\,{\\text{negative}}\\,\\,{\\text{sign}}\\,\\,{\\text{indicates}}\\,\\,{\\text{that}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,{\\text{acts}}\\,\\,{\\text{in}}\\,\\,{\\text{a}}\\,{\\text{direction}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\, \\hfill \\\\ {\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{direction}}\\,\\,{\\text{of}}\\,{\\text{motion}}{\\text{.}}\\,\\,\\,\\, \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$${\\text{opposite}}$$",
+        "$${\\text{same}}$$"
+    ],
+    "created_at": "2026-06-23T07:34:45.806831+00:00"
+},
+{
+    "id": 45732,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The time interval between two successive maxima of x(t)  is called ________.",
+    "op": [
+        "quasi period",
+        "quasi frequency"
+    ],
+    "created_at": "2026-06-23T07:35:20.370577+00:00"
+},
+{
+    "id": 45733,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The nature of the roots of the differential equation \\[{x^2}\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} - 4y = 0\\] is __________.",
+    "op": [
+        "Real and distinct",
+        "Conjugate complex",
+        "none of these",
+        "Real and repeated"
+    ],
+    "created_at": "2026-06-23T07:35:31.653079+00:00"
+},
+{
+    "id": 45734,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "Consider a power series \\[\\sum\\limits_{n = 1}^\\infty {\\frac{{{{( - 1)}^{n + 1}}}}{{{n^2}}}} {x^n} = x - \\frac{{{x^2}}}{{{2^2}}} + \\frac{{{x^3}}}{{{3^2}}} + ....\\] , then the center of series is _______.",
+    "op": [
+        "\\[{x^2}\\]",
+        "x",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-06-23T07:38:32.236484+00:00"
+},
+{
+    "id": 45735,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "If $${\\lambda ^2} - {\\omega ^2} = 0$$ and $$\\beta = k$$ then the system is said to be _______ damped.",
+    "op": [
+        "under",
+        "none of these",
+        "over",
+        "critically"
+    ],
+    "created_at": "2026-06-23T07:39:56.536511+00:00"
+},
+{
+    "id": 45736,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{quantity}}\\,\\,X = L\\gamma - \\frac{1}{{C\\gamma }}\\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}\\]",
+    "op": [
+        "\\[{\\text{impedance}}\\]",
+        "\\[{\\text{reactance}}\\]"
+    ],
+    "created_at": "2026-06-23T07:40:17.760866+00:00"
+},
+{
+    "id": 45737,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "The D.E $$r\\frac{{{d^2}u}}{{d{r^2}}} + 2\\frac{{du}}{{dr}} = 0$$ where the variable $$r > 0$$ represents the radial distance measured ________ from the center of the sphere.",
+    "op": [
+        "inward",
+        "outward",
+        "origin",
+        "center"
+    ],
+    "created_at": "2026-06-23T07:40:50.609969+00:00"
+},
+{
+    "id": 72584,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The ________ force is proportional to the instantaneous velocity \\[\\frac{{dx}}{{dt}}\\] .",
+    "op": [
+        "retarding",
+        "restoring",
+        "umdamped",
+        "damped"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72585,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The infinite series \\sum\\limits_{n = 1}^\\infty {\\frac{{( - 1)^{n + 2} }} {{n^3 }}(x + 3)^n } . is a power series in x centered at",
+    "op": [
+        "2",
+        "-2",
+        "3",
+        "-3"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72586,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The periodic time is given by ",
+    "op": [
+        "\\frac{\\omega }{{2\\pi }}",
+        "\\frac{\\pi }{\\omega }",
+        "2\\pi * \\omega",
+        "\\frac{{2\\pi }}{\\omega }"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72587,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The hook’s law states that the force F is proportional to the __________.",
+    "op": [
+        "Length",
+        "None of these",
+        "Weight",
+        "Elongation"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72596,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Consider a power series \\sum\\limits_{n = 1}^\\infty {\\frac{{{{( - 1)}^{n + 1}}}}{{{n^2}}}} {x^n} = x - \\frac{{{x^2}}}{{{2^2}}} + \\frac{{{x^3}}}{{{3^2}}} + .... , then the center of series is _______.",
+    "op": [
+        "{x^2}",
+        "1",
+        "x",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72597,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "\\begin{gathered} {\\text{In}}\\,\\,{\\text{the}}\\,\\,{\\text{study}}\\,\\,{\\text{of}}\\,\\,{\\text{mechanics,}}\\,\\,{\\text{cosider}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,\\,{\\text{acting}}\\,\\,{\\text{on}}\\,\\,{\\text{a}}\\,\\,{\\text{body}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,\\, - \\beta \\,{\\left( {\\frac{{dx}}{{dt}}} \\right)^2},\\,{\\text{where}}\\,\\,\\beta \\,\\,{\\text{is}}\\,\\,{\\text{a}}\\,\\, \\hfill \\\\ {\\text{damping}}\\,\\,{\\text{constant}}\\,\\,{\\text{and}}\\,\\,{\\text{negative}}\\,\\,{\\text{sign}}\\,\\,{\\text{indicates}}\\,\\,{\\text{that}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,{\\text{acts}}\\,\\,{\\text{in}}\\,\\,{\\text{a}}\\,{\\text{direction}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\, \\hfill \\\\ {\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{direction}}\\,\\,{\\text{of}}\\,{\\text{motion}}{\\text{.}}\\,\\,\\,\\, \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "{\\text{opposite}}",
+        "{\\text{same}}"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72598,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "If {\\lambda ^2} - {\\omega ^2} = 0 and \\beta = k then the system is said to be _______ damped.",
+    "op": [
+        "over",
+        "under",
+        "critically",
+        "none of these"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72599,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The velocity of a particle moving with simple harmonic motion is -------------  at the mean position.",
+    "op": [
+        "Maximum",
+        "Zero",
+        "None of these",
+        "Minimum"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72600,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{quantity}}\\,\\,Z = \\sqrt {{X^2} + {R^2}} \\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}",
+    "op": [
+        "{\\text{reactance}}",
+        "{\\text{impedance}}"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72601,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Ordinary differential equation \\left( {\\frac{{dy}} {{dx}}} \\right)^3 + \\frac{{d^2 y}} {{dx^2 }} + y = 9 , is of order ------.",
+    "op": [
+        "3",
+        "2",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72635,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The equation of free un-damped motion is ________.",
+    "op": [
+        "$\\frac{{{d^2}x}}{{d{t^2}}} +\\frac{k}{m}x = 0$",
+        "$\\frac{{{d^2}x}}{{d{t^2}}} - \\frac{k}{m}x = 0$"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72636,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The combination of the Newton’s second law and the Hook’s law could lead to a differential equation governing to the motion of a mass attached to spring i.e. _________ motion.",
+    "op": [
+        "translational",
+        "linear",
+        "simple harmonic",
+        "rotational"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72638,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "If a force acts upon a body, the acceleration is produced in the direction of the force whose magnitude is proportional to the magnitude of force, is known as the ________.",
+    "op": [
+        "Hook’s law",
+        "Newton’s third law",
+        "Newton’s first law",
+        "Newton’s second law"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72639,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "To reduce any Cauchy –Euler differential equation into a differential equation with ________ coefficients we often use substitution x = {e^t}",
+    "op": [
+        "variable",
+        "constant"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72640,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "How are frequency and period related in simple harmonic motion?",
+    "op": [
+        "Their sum is constant",
+        "None of the above",
+        "They are directly related",
+        "They are inversely related"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72641,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Vibration of an object on equilibrium point is called simple harmonic motion when the restoring force is proportional to _________.",
+    "op": [
+        "A spring constant",
+        "Mass",
+        "Displacement",
+        "Time"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72645,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Solution of the D.Equation 4y^{//} + y = 0. is",
+    "op": [
+        "None of them.",
+        "y(x) = c_1 \\cos \\frac{x} {2}",
+        "y(x) = c_1 \\cos \\frac{x} {2} + c_2 Sin\\frac{x} {2}",
+        "y(x) = c_1 Sin\\frac{x} {2}"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72646,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The damping force is __________to the instantaneous velocity \\frac{{dx}}{{dt}}",
+    "op": [
+        "None of these",
+        "Constant",
+        "Inverse proportional",
+        "Proportional"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72647,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The harmonic series of constant \\sum\\limits_{n = 1}^\\infty {\\frac{1}{n}} always _______.",
+    "op": [
+        "convergent",
+        "divergent"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72658,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The D.E r\\frac{{{d^2}u}}{{d{r^2}}} + 2\\frac{{du}}{{dr}} = 0 where the variable r > 0 represents the radial distance measured ________ from the center of the sphere. ",
+    "op": [
+        "origin",
+        "outward",
+        "center",
+        "inward"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72659,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "A power series in (x-2) is an infinite series of the form \\sum\\limits_{n = 0}^\\infty {{c_n}} {(x - 2)^n} = {c_0} + {c_1}(x - 2) + {c_2}{(x - 2)^2} + .... the number 2 is called _______.",
+    "op": [
+        "Radius of power series",
+        "Center of power series",
+        "none of these",
+        "Base of power series"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72660,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The ________ force is proportional to the instantaneous velocity \\frac{{dx}}{{dt}} .",
+    "op": [
+        "damped",
+        "retarding",
+        "umdamped",
+        "restoring"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72666,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "We can derive a differential equation governing the motion of a mass attached to spring when the Newton’s second law combined with ________.",
+    "op": [
+        "Newton’s 3rd law",
+        "Hook’s law"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72667,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "To reduce any Cauchy –Euler differential equation into a differential equation with ________ coefficients we often use substitution \\[x = {e^t}\\].",
+    "op": [
+        "variable",
+        "constant"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72668,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The conversion of Cauchy Euler equation {x^2}\\frac{{{d^2}y}}{{d{x^2}}} - x\\frac{{dy}}{{dx}} + y = \\ln x after putting x = {e^t} becomes",
+    "op": [
+        "({\\Delta ^2} - 2\\Delta + 1)y",
+        "({\\Delta ^2} - \\Delta + 1)y",
+        "(2{\\Delta ^2} - \\Delta - 1)y",
+        "({\\Delta ^2} - 2\\Delta - 1)y"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72675,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,1 + x + \\frac{x}{{2!}} + \\frac{{{x^3}}}{{3!}} + ...\\, = \\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "{e^x}",
+        "\\cos x",
+        "\\sin x",
+        "\\ln (1 + x)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72676,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The conversion of Cauchy Euler equation \\[{x^2}\\frac{{{d^2}y}}{{d{x^2}}} - x\\frac{{dy}}{{dx}} + y = \\ln x\\] after putting \\[x = {e^t}\\] becomes",
+    "op": [
+        "\\[({\\Delta ^2} - 2\\Delta + 1)y\\]",
+        "\\[(2{\\Delta ^2} - \\Delta - 1)y\\]",
+        "\\[({\\Delta ^2} - 2\\Delta - 1)y\\]",
+        "\\[({\\Delta ^2} - \\Delta + 1)y\\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72678,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{power}}\\,\\,{\\text{series}},\\,\\,\\sum\\limits_{n = 0}^\\infty {\\frac{{{x^n}}}{{n!}},\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,\\,x = 1\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{number}}\\,\\,e.\\,}",
+    "op": [
+        "{\\text{diverges}}",
+        "{\\text{converges}}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72679,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The gravitational force exerted by the earth on a body of mass m is called ---------- of the body.",
+    "op": [
+        "Force",
+        "weight"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72680,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The solution of x\\frac{{dy}}{{dx}} = 0 is ________.",
+    "op": [
+        "y = {c_1}",
+        "none of them",
+        "y = {c_1} + {c_2}{x^2}",
+        "y = {c_1} + {c_2}x"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72681,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The displacement measured below the equilibrium position are ________.",
+    "op": [
+        "negative",
+        "positive"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72683,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": " The coefficient A{e^{ - \\lambda t}} is called the damped ________ of vibration.",
+    "op": [
+        "period",
+        "frequency",
+        "amplitude",
+        "All of these"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72684,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "\\[\\begin{gathered} {\\text{In}}\\,\\,{\\text{the}}\\,\\,{\\text{study}}\\,\\,{\\text{of}}\\,\\,{\\text{mechanics,}}\\,\\,{\\text{cosider}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,\\,{\\text{acting}}\\,\\,{\\text{on}}\\,\\,{\\text{a}}\\,\\,{\\text{body}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,\\, - \\beta \\,{\\left( {\\frac{{dx}}{{dt}}} \\right)^2},\\,{\\text{where}}\\,\\,\\beta \\,\\,{\\text{is}}\\,\\,{\\text{a}}\\,\\, \\hfill \\\\ {\\text{damping}}\\,\\,{\\text{constant}}\\,\\,{\\text{and}}\\,\\,{\\text{negative}}\\,\\,{\\text{sign}}\\,\\,{\\text{indicates}}\\,\\,{\\text{that}}\\,\\,{\\text{the}}\\,\\,{\\text{damping}}\\,\\,{\\text{force}}\\,{\\text{acts}}\\,\\,{\\text{in}}\\,\\,{\\text{a}}\\,{\\text{direction}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\, \\hfill \\\\ {\\text{to}}\\,\\,{\\text{the}}\\,\\,{\\text{direction}}\\,\\,{\\text{of}}\\,{\\text{motion}}{\\text{.}}\\,\\,\\,\\, \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[{\\text{opposite}}\\]",
+        "\\[{\\text{same}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72685,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Any linear differential equation of the form {a_{n - 1}}{x^{n - 1}}\\frac{{{d^{n - 1}}y}}{{d{x^{n - 1}}}} + .... + \\frac{{dy}}{{dx}} + {a_0}y = g(x) where {a_n},{a_{n - 1}},...,{a_0} are constants, is said to be a ____________ equation.",
+    "op": [
+        "Homogeneous",
+        "Cauchy-Euler",
+        "Non homogeneous",
+        "Cauchy-Euler"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72687,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Consider a power series 1 - \\frac{{{x^2}}}{2} + \\frac{{{x^4}}}{{24}} - .... represents _______.",
+    "op": [
+        "sin x",
+        "cos x",
+        "e",
+        "ln x"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72698,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}\\,\\,{\\text{of}}\\,{\\text{the}}\\,\\,{\\text{free}}\\,\\,{\\text{damped}}\\,\\,{\\text{motion,}}\\,\\,\\frac{{{d^2}x}}{{d{t^2}}} + 2\\lambda \\frac{{dx}}{{dt}} + {\\omega ^2}x = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{auxiliary}}\\,\\, \\hfill \\\\ {\\text{equations}},\\,\\,m = - \\lambda \\pm \\sqrt {{\\lambda ^2} - {\\omega ^2}} .\\,\\,{\\text{If}}\\,{\\text{the}}\\,\\,{\\text{roots}}\\,\\,{\\text{are}}\\,\\,{\\text{complex}}\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\lambda ^2} - {\\omega ^2} < 0,\\,\\,\\,{\\text{then}}\\,\\,\\beta < k\\,\\,{\\text{and}}\\,\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{is}}\\,\\, \\hfill \\\\ {\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\,\\,damped.\\,\\, \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "{\\text{under}}",
+        "{\\text{non - critically}}",
+        "{\\text{critically}}",
+        "{\\text{over}}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72701,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The nature of the roots of the differential equation {x^2}\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} - 4y = 0 is __________.",
+    "op": [
+        "none of these",
+        "Real and repeated",
+        "Conjugate complex",
+        "Real and distinct"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72710,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Consider a power series x - \\frac{{{x^2}}}{2} + \\frac{{{x^3}}}{3} - .... represents _______.",
+    "op": [
+        "sin x",
+        "cos x",
+        "e",
+        "ln (1+x)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72714,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "For a system in simple harmonic motion which of the following is the time required to complete a cycle of motion?",
+    "op": [
+        "Period",
+        "Amplitude",
+        "Frequency",
+        "Revolution"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72725,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Auxiliary equation of the differential equation f{x^2}\\frac{{{d^2}y}}{{d{x^2}}} + gx\\frac{{dy}}{{dx}} + hy\\, = \\,k(x) is",
+    "op": [
+        "fm + (g - f){m^2} + h\\, = 0",
+        "f{m^2} - (g - f)m + h\\, = 0",
+        "f{m^2} + (g - f)m + h\\, = 0",
+        "none of them"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72726,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{quantity}}\\,\\,X = L\\gamma - \\frac{1}{{C\\gamma }}\\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{circuit}}{\\text{.}}",
+    "op": [
+        "{\\text{impedance}}",
+        "{\\text{reactance}}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72730,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "For \\frac{{dy}} {{dx}} - \\frac{y} {x} = - \\frac{{\\ln x}} {x} the integrating factor is",
+    "op": [
+        "-1/y",
+        "-1/x",
+        "-y",
+        "-x"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72731,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Any linear differential equation of the form \\[{a_{n - 1}}{x^{n - 1}}\\frac{{{d^{n - 1}}y}}{{d{x^{n - 1}}}} + .... + \\frac{{dy}}{{dx}} + {a_0}y = g(x)\\] where \\[{a_n},{a_{n - 1}},...,{a_0}\\] are constants, is said to be a ____________ equation.",
+    "op": [
+        "Homogeneous",
+        "Cauchy-Euler",
+        "Non homogeneous",
+        "Cauchy-Euler"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72745,
+    "cc": "MTH401",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": " The coefficient \\[A{e^{ - \\lambda t}}\\] is called the damped ________ of vibration.",
+    "op": [
+        "amplitude",
+        "All of these",
+        "period",
+        "frequency"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 73360,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "To solve a differential equation {a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0 about a regular singular point we employ the __________ theorem.",
+    "op": [
+        "Legendre",
+        "Bessel",
+        "none of them",
+        "Frobenius"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73361,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "If determinant \\[\\left| {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} {D + 1} \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ {D - 1} \\end{array}} \\end{array}} \\right| = 0\\] then __________.",
+    "op": [
+        "\\[{D^2} + 1\\]",
+        "\\[(D + 1)(D - 1) - 2\\]",
+        "\\[{D^2} - 1\\]",
+        "\\[(D + 1)(D - 1) + 2\\]"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73362,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The regular singular point of the differential equation {({x^2} - 4)^2}y + (x - 2)y' + y = 0 is ________.",
+    "op": [
+        "1",
+        "-2",
+        "2",
+        "-1"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73433,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The differential equation \\[5\\frac{{dx}}{{dt}} + 5x - \\frac{{dy}}{{dt}} = {e^{2t}}\\] in terms of differential operator is __________.",
+    "op": [
+        "\\[(D + 1)5x - Dy = {e^t}\\]",
+        "\\[(D - 1)5x - Dy = {e^{2t}}\\]",
+        "\\[(D + 1)5x + Dy = {e^{2t}}\\]",
+        "\\[(D + 1)5x - Dy = {e^{2t}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73441,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{Legendre}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{can}}\\,\\,{\\text{also}}\\,\\,{\\text{be}}\\,{\\text{generated}}\\,\\,{\\text{by}}\\,\\,{\\text{Rodrigues}}\\,\\,{\\text{formula}},\\,\\,{P_n}(x) = \\frac{1}{{{2^n}\\,n!}}\\frac{{{d^n}}}{{d{x^n}}}{({x^2} - 1)^n}.",
+    "op": [
+        "{\\text{False}}",
+        "{\\text{True}}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73442,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{equation}},\\,\\,(1 - {x^2})\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} + 30y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.",
+        "(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1",
+        "(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i",
+        "(II)\\,\\,\\,\\,\\,\\,\\,\\,i"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73444,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The Differential Equation (x^2 - 16)y'' + 2xy' + 16y = 0 has singularity at ",
+    "op": [
+        "x = - 16",
+        "x = 16",
+        "x = \\pm 4",
+        "None of these."
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73446,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A second order differential equation of the form {x^2}\\frac{{{d^2}y}}{{d{x^2}}} + x\\frac{{dy}}{{dx}} + ({x^2} - {v^2})y = 0 is called ________ differential equation.",
+    "op": [
+        "Bessel",
+        "Bernoulli",
+        "Legendre",
+        "Picard"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73447,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "By converting the equation (x^2 + 4x + 4)y^{//} + (x - 2)y^/ + y = 0 into general form y^{//} + P(x)y^/ + Q(x)y = 0 ; Q(x) is ",
+    "op": [
+        "\\frac{1} {{(x + 2)^2 }}",
+        "None of these.",
+        "\\frac{1} {{(x - 2)(x + 2)^3 }}",
+        "\\frac{1} {{(x - 2)(x + 2)}}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73448,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The second order linear differential equation x^2 \\frac{{d^2 y}} {{dx^2 }} + x\\frac{{dy}} {{dx}} + (x^2 - 49) = 0 is a Bessel equation of degree ",
+    "op": [
+        "3",
+        "none of these.",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73449,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\begin{gathered} {\\text{Every}}\\,\\,{n^{th}}\\,\\,{\\text{order}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}},\\,\\,{y^{(n)}} = F\\left( {t,\\,y,\\,y',\\,...,\\,{y^{(n - 1)}}} \\right),\\,\\,{\\text{as}}\\,\\,{\\text{well}}\\,\\,{\\text{as}}\\,\\,{\\text{most}}\\,\\,\\,{\\text{systems}}\\,\\,{\\text{of}}\\,\\, \\hfill \\\\ {\\text{differential}}\\,\\,{\\text{equations,}}\\,\\,{\\text{could}}\\,\\,{\\text{be}}\\,\\,{\\text{reduced}}\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{order}}\\,\\,{\\text{system}}{\\text{.}}\\,\\, \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "{\\text{infinite}}",
+        "{n^{th}}",
+        "n + 1",
+        "n - 1"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73451,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The differential equation (x^2 - 4)y^{//} + 2xy + y = 0 has singular point at",
+    "op": [
+        "x=2",
+        "x=0",
+        "x=2 and x = -2",
+        "x=1"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73452,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A point {x_0} is said to be a _______point of a differential equation {a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0 if both P(x) and Q(x) are analytic at {x_0} .",
+    "op": [
+        "ordinary",
+        "singular"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73455,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A point \\[{x_0}\\] is said to be a _______point of a differential equation \\[{a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0\\] if both P(x) and Q(x) are analytic at \\[{x_0}\\] .",
+    "op": [
+        "singular",
+        "ordinary"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73456,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A second order linear differential equation of the form \\[(1 - {x^2})y - 2xy' + n(n + 1)y = 0\\] is called ______________ differential equation.",
+    "op": [
+        "Legendre",
+        "Bessel",
+        "Bernoulli",
+        "Picard"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73457,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{equation}},\\,\\,({x^2} + 1)\\frac{{{d^2}y}}{{d{x^2}}} + 2x\\frac{{dy}}{{dx}} + 6y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.\\]",
+        "\\[(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1\\]",
+        "\\[(II)\\,\\,\\,\\,\\,\\,\\,\\,i\\]",
+        "\\[(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73459,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The linear normal form of 2\\frac{{{d^2}y}}{{d{x^2}}} + 4\\frac{{dy}}{{dx}} - 5y = 0 ,by using y = {x_1},y' = {x_1}^\\prime {\\text{and }}y'' = {x_2}^\\prime , is__________. ",
+    "op": [
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} - \\frac{5}{2}{x_1}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} + \\frac{5}{2}{x_1}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} + \\frac{5}{2}{x_1}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} - \\frac{5}{2}{x_1}"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73461,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": " The differential equation y'' + (\\cos x)y = 0 has ordinary point at ______.",
+    "op": [
+        "x=-1",
+        "x=1",
+        "x=0",
+        "none of them"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73474,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\begin{gathered} {\\text{A}}\\,\\,{\\text{solution}}\\,\\,{\\text{of}}\\,{\\text{a}}\\,\\,{\\text{system}}\\,\\,{\\text{of}}\\,{\\text{differential}}\\,\\,{\\text{equations}}\\,\\,{\\text{is}}\\,{\\text{a}}\\,\\,{\\text{set}}\\,\\,{\\text{of}}\\,\\,{\\text{differentiable}}\\,\\,{\\text{functions}},\\,\\, \\hfill \\\\ x = f(t),\\,\\,y = g(t),\\,\\,x = h(t),...,\\,\\,{\\text{those}}\\,\\,{\\text{satisfy}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{equation(s)}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{on}}\\,\\,{\\text{some}}\\,\\,{\\text{interval}}\\,\\,I. \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "{\\text{two}}",
+        "{\\text{each}}",
+        "{\\text{one}}",
+        "{\\text{at}}\\,\\,{\\text{least}}\\,\\,{\\text{one}}"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73475,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The differential equation $$ (x^2 - 4)y^{//} + 2xy + y = 0 $$ has singular point at",
+    "op": [
+        "x=1",
+        "x=0",
+        "x=2 and x = -2",
+        "x=2"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73476,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The linear normal form of 4\\frac{{{d^3}y}}{{d{t^3}}} + y = {e^t} ,by using y = {x_1},y' = {x_1}^\\prime {\\text{, }}y'' = {x_2}^\\prime {\\text{and }}y''' = {x_3}^\\prime , is__________. ",
+    "op": [
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = - \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} + \\frac{1}{4}{e^t}",
+        "{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{{ - 1}}{4}{x_1} + \\frac{1}{4}{e^t}"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73477,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": " x=0 is a(an) -------- point of the differential equation:y'' + xy' + 2y = 0. ",
+    "op": [
+        "Singular",
+        "Irregular singular",
+        "Ordinary",
+        "Regular singular"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73478,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{equation}},\\,\\,{({x^2} - 4)^2}\\frac{{{d^2}y}}{{d{x^2}}} + (x - 2)\\frac{{dy}}{{dx}} + y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[ \\pm \\,\\,i\\]",
+        "\\[ \\pm \\,2\\]",
+        "\\[ \\pm \\,1\\]",
+        "\\[0\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73485,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "If determinant \\left| {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} {D + 1} \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ {D - 1} \\end{array}} \\end{array}} \\right| = 0 then __________.",
+    "op": [
+        "(D + 1)(D - 1) - 2",
+        "(D + 1)(D - 1) + 2",
+        "{D^2} + 1",
+        "{D^2} - 1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73487,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{equation}},\\,\\,{({x^2} - 4)^2}\\frac{{{d^2}y}}{{d{x^2}}} + (x - 2)\\frac{{dy}}{{dx}} + y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "\\pm \\,\\,i",
+        "\\pm \\,2",
+        "\\pm \\,1",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73488,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A second order linear differential equation of the form (1 - {x^2})y - 2xy' + n(n + 1)y = 0 is called ______________ differential equation.",
+    "op": [
+        "Bessel",
+        "Bernoulli",
+        "Legendre",
+        "Picard"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73489,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The second order linear differential equation $$ x^2 \\frac{{d^2 y}} {{dx^2 }} + x\\frac{{dy}} {{dx}} + (x^2 - 49) = 0 $$ is a Bessel equation of degree ",
+    "op": [
+        "3",
+        "2",
+        "1",
+        "none of these."
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73498,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A singular point x = {x_0} of the differential equation {a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0 is said to be a __________ point if both (x - {x_0})P(x) and {(x - {x_0})^2}Q(x) are analytical at {x_0} .",
+    "op": [
+        "ordinary",
+        "none of them",
+        "irregular singular",
+        "regular singular"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73499,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{Legendres}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{are}}\\,\\,{\\text{specific}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{degree}}\\,\\,{\\text{polynomials}}.\\]",
+    "op": [
+        "\\[n\\]",
+        "\\[n + 1\\]",
+        "\\[n - 1\\]",
+        "\\[{n^2}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73500,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The differential equation 5\\frac{{dx}}{{dt}} + 5x - \\frac{{dy}}{{dt}} = {e^{2t}} in terms of differential operator is __________.",
+    "op": [
+        "(D + 1)5x + Dy = {e^{2t}}",
+        "(D + 1)5x - Dy = {e^t}",
+        "(D - 1)5x - Dy = {e^{2t}}",
+        "(D + 1)5x - Dy = {e^{2t}}"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73501,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The}}\\,\\,{\\text{equation}},\\,\\,({x^2} + 1)\\frac{{{d^2}y}}{{d{x^2}}} + 2x\\frac{{dy}}{{dx}} + 6y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "(II)\\,\\,\\,\\,\\,\\,\\,\\,i",
+        "(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1",
+        "(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.",
+        "(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73503,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The regular singular point of the differential equation \\[{({x^2} - 4)^2}y + (x - 2)y' + y = 0\\] is ________.",
+    "op": [
+        "1",
+        "-2",
+        "2",
+        "-1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73504,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{equation}},\\,\\,(1 - {x^2})\\frac{{{d^2}y}}{{d{x^2}}} - 2x\\frac{{dy}}{{dx}} + 30y = 0,\\,\\,{\\text{has}}\\,\\,{\\text{the}}\\,\\,{\\text{singular}}\\,\\,{\\text{point(s)}}\\,\\,{\\text{at}}\\,\\,x = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[(II)\\,\\,\\,\\,\\,\\,\\,\\,i\\]",
+        "\\[(III)\\,\\,\\,\\,\\,\\,\\, - \\,\\,i\\]",
+        "\\[(I)\\,\\,\\,\\,\\,\\,\\, \\pm \\,1\\]",
+        "\\[(IV)\\,\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(II)}}\\,\\,{\\text{and}}\\,\\,{\\text{(III)}}.\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73505,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The irregular singular point of the differential equation {({x^2} - 4)^2}y + (x - 2)y' + y = 0 is _______.",
+    "op": [
+        "2",
+        "-2",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73507,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The linear normal form of \\[2\\frac{{{d^2}y}}{{d{x^2}}} + 4\\frac{{dy}}{{dx}} - 5y = 0\\] ,by using \\[y = {x_1},y' = {x_1}^\\prime {\\text{and }}y'' = {x_2}^\\prime \\] , is__________. ",
+    "op": [
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} + \\frac{5}{2}{x_1}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} - \\frac{5}{2}{x_1}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = 2{x_2} - \\frac{5}{2}{x_1}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = - 2{x_2} + \\frac{5}{2}{x_1}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73508,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "By converting the equation $$ (x^2 + 4x + 4)y^{//} + (x - 2)y^/ + y = 0 $$ into general form $$ y^{//} + P(x)y^/ + Q(x)y = 0 $$ ; Q(x) is ",
+    "op": [
+        "$$ \\frac{1} {{(x - 2)(x + 2)}} $$",
+        "$$ \\frac{1} {{(x - 2)(x + 2)^3 }} $$",
+        "$$ \\frac{1} {{(x + 2)^2 }} $$",
+        "None of these."
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73510,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The linear normal form of \\[4\\frac{{{d^3}y}}{{d{t^3}}} + y = {e^t}\\] ,by using \\[y = {x_1},y' = {x_1}^\\prime {\\text{, }}y'' = {x_2}^\\prime {\\text{and }}y''' = {x_3}^\\prime \\] , is__________. ",
+    "op": [
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{{ - 1}}{4}{x_1} + \\frac{1}{4}{e^t}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = \\frac{1}{4}{x_1} + \\frac{1}{4}{e^t}\\]",
+        "\\[{x_1}^\\prime = {x_2},{x_2}^\\prime = {x_3},{x_3}^\\prime = - \\frac{1}{4}{x_1} - \\frac{1}{4}{e^t}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73511,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A singular point \\[x = {x_0}\\] of the differential equation \\[{a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0\\] is said to be a __________ point if both \\[(x - {x_0})P(x)\\] and \\[{(x - {x_0})^2}Q(x)\\] are analytical at \\[{x_0}\\] .",
+    "op": [
+        "regular singular",
+        "irregular singular",
+        "ordinary",
+        "none of them"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73512,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "To solve a differential equation \\[{a_2}(x){y^{''}} + {a_1}(x)y' + {a_0}(x)y = 0\\] about a regular singular point we employ the __________ theorem.",
+    "op": [
+        "Bessel",
+        "Legendre",
+        "Frobenius",
+        "none of them"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73513,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The irregular singular point of the differential equation \\[{({x^2} - 4)^2}y + (x - 2)y' + y = 0\\] is _______.",
+    "op": [
+        "1",
+        "-2",
+        "-1",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73523,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[\\begin{gathered} {\\text{Every}}\\,\\,{n^{th}}\\,\\,{\\text{order}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}},\\,\\,{y^{(n)}} = F\\left( {t,\\,y,\\,y',\\,...,\\,{y^{(n - 1)}}} \\right),\\,\\,{\\text{as}}\\,\\,{\\text{well}}\\,\\,{\\text{as}}\\,\\,{\\text{most}}\\,\\,\\,{\\text{systems}}\\,\\,{\\text{of}}\\,\\, \\hfill \\\\ {\\text{differential}}\\,\\,{\\text{equations,}}\\,\\,{\\text{could}}\\,\\,{\\text{be}}\\,\\,{\\text{reduced}}\\,\\,{\\text{to}}\\,\\,{\\text{the}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{order}}\\,\\,{\\text{system}}{\\text{.}}\\,\\, \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[{n^{th}}\\]",
+        "\\[{\\text{infinite}}\\]",
+        "\\[n + 1\\]",
+        "\\[n - 1\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73524,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "The Differential Equation $$ (x^2 - 16)y'' + 2xy' + 16y = 0 $$ has singularity at ",
+    "op": [
+        "$$ x = \\pm 4 $$",
+        "$$ x = - 16 $$",
+        "None of these.",
+        "$$ x = 16 $$"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73525,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[\\begin{gathered} {\\text{A}}\\,\\,{\\text{solution}}\\,\\,{\\text{of}}\\,{\\text{a}}\\,\\,{\\text{system}}\\,\\,{\\text{of}}\\,{\\text{differential}}\\,\\,{\\text{equations}}\\,\\,{\\text{is}}\\,{\\text{a}}\\,\\,{\\text{set}}\\,\\,{\\text{of}}\\,\\,{\\text{differentiable}}\\,\\,{\\text{functions}},\\,\\, \\hfill \\\\ x = f(t),\\,\\,y = g(t),\\,\\,x = h(t),...,\\,\\,{\\text{those}}\\,\\,{\\text{satisfy}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{equation(s)}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{system}}\\,\\,{\\text{on}}\\,\\,{\\text{some}}\\,\\,{\\text{interval}}\\,\\,I. \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[{\\text{at}}\\,\\,{\\text{least}}\\,\\,{\\text{one}}\\]",
+        "\\[{\\text{two}}\\]",
+        "\\[{\\text{one}}\\]",
+        "\\[{\\text{each}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73526,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "A second order differential equation of the form \\[{x^2}\\frac{{{d^2}y}}{{d{x^2}}} + x\\frac{{dy}}{{dx}} + ({x^2} - {v^2})y = 0\\] is called ________ differential equation.",
+    "op": [
+        "Picard",
+        "Bessel",
+        "Bernoulli",
+        "Legendre"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73527,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "{\\text{Legendres}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{are}}\\,\\,{\\text{specific}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,{\\text{degree}}\\,\\,{\\text{polynomials}}.",
+    "op": [
+        "n",
+        "{n^2}",
+        "n - 1",
+        "n + 1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73528,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": " The differential equation \\[y'' + (\\cos x)y = 0\\] has ordinary point at ______.",
+    "op": [
+        "none of them",
+        "x=0",
+        "x=1",
+        "x=-1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73529,
+    "cc": "MTH401",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{The}}\\,\\,{\\text{Legendre}}\\,\\,{\\text{polynomials}}\\,\\,{\\text{can}}\\,\\,{\\text{also}}\\,\\,{\\text{be}}\\,{\\text{generated}}\\,\\,{\\text{by}}\\,\\,{\\text{Rodrigues}}\\,\\,{\\text{formula}},\\,\\,{P_n}(x) = \\frac{1}{{{2^n}\\,n!}}\\frac{{{d^n}}}{{d{x^n}}}{({x^2} - 1)^n}.\\]",
+    "op": [
+        "\\[{\\text{True}}\\]",
+        "\\[{\\text{False}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+},
+{
+    "id": 73619,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "22 June 2026",
+    "qt": "A _________ is a passive electronic component of an electronic circuit that has the ability to store charge and opposes any change of voltage in the circuit.",
+    "op": [
+        "capacitor",
+        "voltage",
+        "resister",
+        "inductor"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73622,
+    "cc": "MTH401",
+    "qn": "03",
+    "dt": "23 June 2026",
+    "qt": "A / An _______ is a passive electronic component that stores energy in the form of magnetic field.",
+    "op": [
+        "capacitor",
+        "voltage",
+        "resister",
+        "inductor"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

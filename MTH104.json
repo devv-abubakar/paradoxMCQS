@@ -1,0 +1,832 @@
+[
+{
+    "id": 40501,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Which of the following sets is uncountable?",
+    "op": [
+        "Set of even integers",
+        "Set of prime numbers",
+        "Set of real numbers",
+        "Set of odd integers"
+    ],
+    "created_at": "2026-07-03T19:16:23.200389+00:00"
+},
+{
+    "id": 40502,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "What is recursion in mathematics?",
+    "op": [
+        "None of these",
+        "Solving equations using matrices",
+        "Finding derivatives of functions",
+        "A function that calls itself"
+    ],
+    "created_at": "2026-07-03T19:16:31.594699+00:00"
+},
+{
+    "id": 40504,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "The Cartesian product of two denumerable sets is:",
+    "op": [
+        "Always finite",
+        "Sometimes denumerable",
+        "Always denumerable",
+        "Some times finite"
+    ],
+    "created_at": "2026-07-03T19:16:42.947488+00:00"
+},
+{
+    "id": 40505,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "The set of all possible ordered pairs of natural numbers is:",
+    "op": [
+        "Countable",
+        "Uncountable",
+        "non-denumerable",
+        "Finite"
+    ],
+    "created_at": "2026-07-03T19:16:52.450332+00:00"
+},
+{
+    "id": 40506,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Which set is NOT an example of a countable set?",
+    "op": [
+        "Set of natural numbers",
+        "Set of integers",
+        "Set of rational numbers",
+        "Set of real numbers"
+    ],
+    "created_at": "2026-07-03T19:17:01.984403+00:00"
+},
+{
+    "id": 40507,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "In a recursive sequence, each term is defined as a function of ___________.",
+    "op": [
+        "None of these",
+        "Only the preceding term",
+        "Both the preceding term and the first term",
+        "Only the first term"
+    ],
+    "created_at": "2026-07-03T19:17:12.814195+00:00"
+},
+{
+    "id": 40508,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Countable sets include:",
+    "op": [
+        "Infinite set only",
+        "Both finite and denumerable sets",
+        "Denumerable sets only",
+        "Finite sets only"
+    ],
+    "created_at": "2026-07-03T19:17:25.278258+00:00"
+},
+{
+    "id": 40510,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Which of the following statements about countable sets is FALSE?",
+    "op": [
+        "Countable sets can be infinite.",
+        "Every subset of a countable set is countable.",
+        "Countable sets have a cardinality equal to that of the natural numbers.",
+        "Countable sets are always finite."
+    ],
+    "created_at": "2026-07-03T19:17:36.149957+00:00"
+},
+{
+    "id": 40512,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Which of the following sets is countable?",
+    "op": [
+        "Set of complex numbers",
+        "Set of real numbers",
+        "Set of rational numbers",
+        "Set of irrational numbers"
+    ],
+    "created_at": "2026-07-03T19:17:46.561858+00:00"
+},
+{
+    "id": 40529,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Two sets A = {pencil, copy} and B = {history, maths}are ________ sets.",
+    "op": [
+        "infinite",
+        "equipotent",
+        "None of these",
+        "equal"
+    ],
+    "created_at": "2026-07-03T19:42:22.791847+00:00"
+},
+{
+    "id": 40543,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "If one set in a Cartesian product is uncountable, then the Cartesian product is:",
+    "op": [
+        "Sometimes denumerable",
+        "Always denumerable",
+        "Always uncountable",
+        "Sometimes uncountable"
+    ],
+    "created_at": "2026-07-03T20:01:16.023912+00:00"
+},
+{
+    "id": 40545,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "04 July 2026",
+    "qt": "Which of the following statement holds for a set of rational numbers?",
+    "op": [
+        "It is uncountable.",
+        "It is non-denumerable.",
+        "It is denumerable.",
+        "It does not contain any denumerable subset."
+    ],
+    "created_at": "2026-07-03T20:02:22.104258+00:00"
+},
+{
+    "id": 57126,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If a lower bound of A precdes every other lower bound of A, then it is called the infimum of A",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T19:00:28.091388+00:00"
+},
+{
+    "id": 57127,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A be an ordered set. Then A is said to be well-ordered if every subset of A contains a first element.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T19:01:02.544812+00:00"
+},
+{
+    "id": 57129,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The ordinal number of the set P of counting numbers is denoted by ω.",
+    "op": [
+        "false",
+        "true"
+    ],
+    "created_at": "2026-07-07T19:01:28.892115+00:00"
+},
+{
+    "id": 57137,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Any well-ordered set A is not linearly ordered.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:02:29.833758+00:00"
+},
+{
+    "id": 57143,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A be a well-ordered set. The initial segment s(a) of an element a ϵ A consists of all elements in A which strictly precedes a.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:02:45.859057+00:00"
+},
+{
+    "id": 57148,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S be a partially ordered set, and let A be a subset of S. If A has an upper bound ,we say A is bounded above.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:03:02.378658+00:00"
+},
+{
+    "id": 57155,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The ordinal number of set {a,{b,c}} is __________________.",
+    "op": [
+        "3",
+        "0",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:03:31.091003+00:00"
+},
+{
+    "id": 57160,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A be a well-ordered set. Then If B is similar to A, then B is well-ordered.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T19:03:53.366229+00:00"
+},
+{
+    "id": 57165,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S(A) denote the collection of all initial segments of elements in a well-ordered set A, and let S(A) be ordered by set inclusion. Then A is similar to S(A) and, in particular, the function f : A →S(A) defined by f(x) = s(x) is a similarity mapping between A and S(A).",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:04:11.531017+00:00"
+},
+{
+    "id": 57171,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Consider the usual ordering ≤ of the positive integers P = {1, 2, 3,…} and the negative integers A = {-1, -2, -3, …}. Then P is not order-isomorphic to A.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:04:44.771604+00:00"
+},
+{
+    "id": 57398,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Consider a collection C of well-ordered sets. Each well-ordered set A in C is assigned a symbol in such a way that any two well-ordered sets A and B are assigned the same symbol if and only if A and B are similar. This symbol is called the ordinal number of A.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:16:54.88926+00:00"
+},
+{
+    "id": 57402,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The ordinal number of set {1,2,3} is _____________.",
+    "op": [
+        "3",
+        "1",
+        "None of these.",
+        "2"
+    ],
+    "created_at": "2026-07-07T19:17:05.223714+00:00"
+},
+{
+    "id": 57406,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Suppose A and B are well-ordered sets, and suppose A is similar to an initial segment of B. Then A is said to be _________ than B.",
+    "op": [
+        "longer",
+        "shorter"
+    ],
+    "created_at": "2026-07-07T19:17:16.07575+00:00"
+},
+{
+    "id": 57408,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The set of positive integers P = {1, 2, 3, …} is not order-isomorphic to the set of even positive integers E = {2, 4, 6, …}.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:17:27.346788+00:00"
+},
+{
+    "id": 57417,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Two ordered sets X and Y are said to be order-isomorphic or isomorphic or similar if there exists a one-to-one correspondence f : X → Y which preserves the order relations. Such a function f is then called an order-isomorphism or isomorphism from X onto Y.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:18:15.372092+00:00"
+},
+{
+    "id": 57420,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "An element 'a' in a well-ordered set A is called a limit element if ______________________.",
+    "op": [
+        "it has an immediate predecessor.",
+        "it is the first element.",
+        "it has an immediate predecessor and if it is the first element.",
+        "it does not has an immediate predecessor and if it is not the first element."
+    ],
+    "created_at": "2026-07-07T19:18:23.571743+00:00"
+},
+{
+    "id": 57421,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S be a partially ordered set, and let A be a subset of S. If A has a lower bound we say A is bounded below.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T19:18:27.568069+00:00"
+},
+{
+    "id": 57422,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let C be a non-empty set of non-empty sets. A function f : C → ∪C is called a choice function for C if f(A) ϵ A for all A ϵ C.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:18:39.634651+00:00"
+},
+{
+    "id": 57425,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The ordinal number of empty set is __________.",
+    "op": [
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-07T19:18:43.855232+00:00"
+},
+{
+    "id": 57430,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let C be the set of countries on earth, thinking of each country as a collection of cities. Then ∪C is the set of all cities on earth, and the function f that assigns to each country its capital city is a choice function for C.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:19:41.884756+00:00"
+},
+{
+    "id": 57433,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Suppose A and B are well-ordered sets, and suppose A is similar to an initial segment of B. Then B is said to be ________than A.",
+    "op": [
+        "longer",
+        "shorter"
+    ],
+    "created_at": "2026-07-07T19:20:33.547148+00:00"
+},
+{
+    "id": 57437,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let C be the collection of all pairs of shoes in the world. Then the function that picks the left shoe out of each pair is a choice function for C.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:21:09.562654+00:00"
+},
+{
+    "id": 57474,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A is bounded if ____________________.",
+    "op": [
+        "A has only an upper bound.",
+        "None of these.",
+        "A has only a lower bound.",
+        "A has an upper and lower bound."
+    ],
+    "created_at": "2026-07-07T19:26:56.406958+00:00"
+},
+{
+    "id": 57483,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If an upper bound of A succeeds every other upper bound of A, then it is called the supremum of A",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:28:59.699032+00:00"
+},
+{
+    "id": 57489,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The ordinal number of {1,2,3,4} is _________.",
+    "op": [
+        "4",
+        "3",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:30:34.418623+00:00"
+},
+{
+    "id": 57496,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let λ and μ be ordinal numbers and let A and B be two well-ordered sets such that λ = ord(A) and μ = ord(B). Then λ < μ if A is similar to an initial segment of B.",
+    "op": [
+        "false",
+        "true"
+    ],
+    "created_at": "2026-07-07T19:31:20.984113+00:00"
+},
+{
+    "id": 57498,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A be a well-ordered set. Then every subset of A is well-ordered.",
+    "op": [
+        "Given statement is false.",
+        "Given statement is true."
+    ],
+    "created_at": "2026-07-07T19:31:41.793011+00:00"
+},
+{
+    "id": 57537,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Suppose X and Y are partially ordered sets. A one-to-one(injective) function f :X → Y is called a similar mapping from X into Y if f preserves the order relation, that is, if the following conditions holds for any pair a, b ϵ X: a ≤ b in X if and only if f(a) ≤ f(b) in Y.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T19:41:37.216373+00:00"
+},
+{
+    "id": 57592,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S be a partially ordered set, and let A be a subset of S. An element n in S is called a lower bound of A if n precedes every element of A, that is, for every y ϵ A, we have y ≥ n.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T20:15:58.727443+00:00"
+},
+{
+    "id": 57622,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S be a partially ordered set, and let A be a subset of S. An element m in S is called an upper bound of A if m succeeds every element of A, that is, for every x ϵ A, we have x ≤ m.",
+    "op": [
+        "Given statement is true.",
+        "Given statement is false."
+    ],
+    "created_at": "2026-07-07T21:51:37.466339+00:00"
+},
+{
+    "id": 72041,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "What is the defining property of an equivalence relation R on a set S? ",
+    "op": [
+        "Symmetry",
+        "All of the other.",
+        "Reflexivity",
+        "Transitivity"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72042,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If f(x) = x and g(x) = |x| then (fog)(- 6.5) is ",
+    "op": [
+        "-6.5",
+        "6.5",
+        "None of these",
+        "fog does not exist"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72043,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 . ",
+    "op": [
+        "None of these",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAAbCAIAAADqNtYpAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANZSURBVGhD7Zk/UiJBFIfHzQnUG4ghkaVEJERSxQHgACQaW2pJaKIegDIkoSAwxQtgZqIH0PIAWh6B/Wp+j67ehhmZ3cGSrfmCsV//71+/9wZwYzqdRgVL88v+FixHoVc2Cr2yUeiVjUS9ut3uRszDw4NVrZ7n52dWvLm5MXvG/f39wcGB9kOBbtaQN6PRqN1ub21tsdDu7u78TiLej0lcXFzQYTKZmL169vf3WfH6+trsmOFwSOXt7S3l9/f3o6Ojzc3Np6cnteYI67IQp2YVaLVa85tJ00vjv00vlkOL+S2iDls3I5aMPvQ0Oz9YlwszYzp9eXlhocPDQ7Njfkr+IsSurq4uLy/NnkE2+Pz83NvbMzuKtre3OQOBY3Z+nJ6ePj4+mhFFOzs7VvLIphenIrxdHiGtWEMM0U7Mq9WxZPrrdDq9Xg8tzP4KRLTSynh9feUZqJZBL8Sq1+vkQoU3ejWbTScZYp2dnfX7fZyWECaI5Mm1Wk0dUmAsSnETHx8fVjWjVCrxfHt7k/md3N3d8Tw5OZFpxFG5mCB/KbmglExAlHK5rDLqSCChd4UZqZAmmIcnZdZiVJC/mJbK8XhMmW7aFag1QDOks0xG5n1CT141Zs/I4F+kDNKhHzLValVJ8V84Pj4+Pz8P3J5YaDQaKg8GA/I9vkx007lSqbAN7kmtAbiznSyZL10eNyeS8A9c3qocNsciAv+i7HsQ6OZVVmddCJeDy/ivMOcUDvVMcYdgLQcOTusq3o+C+bmPpPmz6eW/bsHXC2hFJmoklh+5TKWAAgWgygGSj85mL0Ifx5JiKuUCHEljBTvnIP7mfTLopc9vSjSCoHAK0jnlzv1RdEtS5Eu9OAZakxzNzhs+FTN/cEYrxaTppZzt/EKHwafYNHBsX03qU/RyMJAd8DT7T1iLORfKwRA8i7HLrPJ3sARi+Tle+zEjJlEvuT0whfvywXgcSvUUfMd2/R10mP/Wgu8keYeynsbq249Dbysc3F3eKlA8BbAla45J86/l4WZQxz+kagJn1gX63r525KMXSnEVZszAj4LLSc9xa0E+eim1oYXzHcITsfzM/R84F+SjF5BZ9PFCEIx+4gR80P+ZYU0p/j+UjZ/ye866UOiVjUKvbBR6ZSGKfgOXe6+pOl3ifwAAAABJRU5ErkJggg== .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAdCAIAAADXWI43AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANNSURBVGhD7ZlPTiJBFIdxLmDUG4g7l6gHcIPhApJ4Ag07oia4dKNs2JgoBzBwAYzGxI2sCe7VE2iMXAC/6d+jU/QfQme6g5P0t2Dq1avqqvr1e68rztJ4PC7kJOGP/ZszN7lkicklS0wuWWJyyRKTS5aYaMnOzs6WPPr9vnUtiGazqZ0EyGJjPPPo6GhjY4Pnr66u0v78/DSfC/eySBqNBt7n52ezF8Tl5eX+/r4ZHuVyuVgsmpEenJTz8vC3tzdM1pUpr0tsYi4vL1tr0dRqNWsVCi8vLw8PD8fHx2anze3t7fr6Oo2TkxNeDGupfwqTLoRkXniUBTg8PFxZWfn4+DA7SwixSH0SlH/ecLVaVSnZ3t6+u7szhwdFR1XAJd2KQ2XpdrvsYW1tzbqy5PX1lUAzw8WkCxGIsuFwyOvlJfOGgQbeXq8nrzuYX0ZGVoF/5ObmhlXYidlZotLW6XTMdphXMmnkZgS6+GUYgVyN9OkwIz1Ybmtry4wYWHc2nMuGxsMxWYsjmz3NvIlJRrBdNyN2dnb4uJiRPeQ4y9XrdbNjsGPFQ123ofEcHBwQEOfn52ZPM69kX19fMyrI7u4uHxdkpU3Ju76+VlQG0CXLDK82cffhBkTn3t4eE80RxdXVFcegkJmdGbqO3d/fx57XxA8RSEzagaQgE93peDkSPfyq5JljgqqhO4UnMEsjmeKneRiFM/ludjwMm83sxKR4scnZ5XJeybhPYuqaJ9zKwuC4zPdBINVvs73j+QdAOHe5ANqMu3oWoBSr+N804FDhLcUm5vf3N7+j0Uim7pMKWiUUB2i1WvI+PT2pEUe73S6VSpubm2Z7IPpgMOBptB8fH9UZycXFBYrrkpkdp6enaFSpVGS+v7+r1AQx6aYhPuV1oxT5CSv103Dl98f7MMCfiLhKQKbgUicwANXo4VdRHBllmhX5vU8RrRImnKSxiTk/aIEiJJ3Zkx6/NhEg0kLbwkuPXD68D7nM/sWkIFmgQglKNRFKI/LthSWjJ9z5O0lBMolCFfDLs7474W+TRpoxgVlkJeOzru5pkYJkQFoRI14A/YWsDJcekk4Fy40mIhSxkPu/SEmR/z9mYhL8JSNH5JIlJpcsMblkCSkUfgBCt/UuAATKmQAAAABJRU5ErkJggg== .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAZCAIAAACq4AdlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJHSURBVFhH7ZhBkilBEIZxAxwBCysrroATYCHsOYITOIAIN+ACIuxZscAeJ+AM5tOZ09GjdXXxYvQbUd9iJjOruqf6r8ysiklfr9eUw4KM/nbE4ZSyxSlli1PKlteVms1mpVJJHY/9fj8YDPL5fCaTaTabp9NJ4pfLpdPpEIRarbZarST+x+Dse5blctloNKrVajp9Ozp9CE4mE4zdbpfL5fr9vh9vt9tnDwyGJP63eEUphOCb0etOqSCijthMG41GYpuf+p95XH3UjhRLEMqKOmK0Uqlgy8yHMG29Xne7XXHr9fp2u5Vnp9Npq9WSeCJQ+7QI+oZ8EbYsLB5V7Cd+HQlkULCaBEN2MDM4mceLxSKTAeN4POrA25E183WyBjJdXBk1E6mUWh6oxhspOvU9opS6kwkoQyK3LnU+YyA6ho69F1lz8K/LFqpjxKpP8bqw8A+V8lT6IRMwjcliy1O+mzh8l6VS8bcECptc7fV66n+zWCz4yc1AXODesNlsxuMxttwMJJ7NZmlPfp/CLZfLMpQ4h8OhUCioY0YViyZ8rkt5B5E409T38NOQspUrhQTvqjhBJMHZPPWNxChFNvGu4XCo/hsJ70cYnfoSdCu6SrhXRBGjlCw3wdPq9yC7yXT7syVGKQrKv0B+EqTSUzKBSSkKmISaz+fqv5ffqz6+iwx4tl2alCI/qWR1PgUEQuLg9pNfNreWSKXkjWys+p8C2x/s4rRg8uuflPrIXi7XgjA2lXgrdb1ZOYy4/3na4pSyxSllRyr1BRvj+l350pyQAAAAAElFTkSuQmCC ."
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72044,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "What does [a] ≠ [b] imply in the context of an equivalence relation R on set S? ",
+    "op": [
+        "a and b are not elements of set S.",
+        "a≠ b but [a] = [b].",
+        "[a] and [b] have no relation.",
+        "a and b are distinct equivalence classes under R."
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72045,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "What does [a] = [b] signify in the context of an equivalence relation R on set S? ",
+    "op": [
+        "a and c are equivalent under R",
+        "a⋅b=0",
+        "a and b are equivalent under R",
+        "a+b=0"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72049,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 . ",
+    "op": [
+        "None of these",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAXCAIAAADx8kRXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKVSURBVFhH7Zi9rjFRFIaHO0A0Sj+FUoLKBbgESi3RIogo0QuiVFBokSgRhRC0gkSj8Ze4gM/3mr3OxDFjGN/PkOMp5ux37Tkna7+z91o7R3M6nbgfj5Z+/mwUu9Dr9fx+v8Fg0Gq1brcbkibeGcUu9Pt9vV4/m802mw28CAQCNPHO/FFdSCaT7XZ7MBiQflvu7IVSqYSdL972u92uVquNRqNyuUwhlWg2mziYSBLYbLZcLkcTFyyXy1AohG9GWgz2wi0WiwU2v0aj6Xa7FOKBRBAEg0G8Q1E1qFarSKNYLG63W0gMIBOJBJsFiEPyyWqy2SxFRci54PV6sU78/pULDKzf5XJZrVbSaoCPhBxI8Ph8PgRJ8EtA8vBC3oWbJwJnAU+0AyYFptMpjgMGZrM5nU7DCxZXhcPhgApNgsfhcCBIguNarZbH47l6R4y0CzhI8Xg8n8+TviAWi6VSKQzgRaVSsVgsLK4KOp1uPp+T4BmPx06nk8TDSLuAWhKNRvG1j8cjhb4Ih8P7/R6lyGg0QtbrdRZXBXwnbEaUPbY9sX/Rs54p2HQyLmg0GsJpx1m6VReUci5QssicWxlYRRRAvaSJ72BKQXVEIUF1EZYtuIC//lyW/xRkhWxhBJPiHiGgzAW2bEle0AVYgKZAggcSqYr7t3z+13UhEon8uiCTySDY6XQwxhR75znYxUYGyQuPDLjLoR2gKZDmYXK9XjP5IHfujn8RZqsMSl222+14XpXn1WqFp8lkYvJB7rjAeoS4U7wCuAWgnQ+HQ7QGoUcUCgUE0d3YOwzccfCUa2d0MqRg91PGZDKh6IuB047rI0sSg6segUopzALUEdwmxWv5/K/pzP+rC6/Mx4UzHxfOfFzgOI77De58BgWnRqkWAAAAAElFTkSuQmCC .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAVCAIAAACi89XvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ/SURBVFhH7ZgxrylBFMfX/QbolEShlKASpdAp+QAKVBoFKlEgUQpKFRI1iRKlBD0SjYpIfADuP3vO27f2jeXmvV2S51fMnf85szszx8w5m2u5Xq/SB5kv/vvBiFj0er1oNPolk0gkttstO96efx+LTqcTi8Uul8t6vR6Px/V6nR1vj7H5IhAIhMPhcrnM+r0Rn4vhcIht0Dl3u921Wo0dKnD4M5lMsVhkfQu8eMrlcmWzWTaZzmq1wvqFixeDc6Gh2+1aLJZWq3U4HCDRgSwUCuQFsEPCCKrVKltVwAiXzWZDh17yEvx+/70VChHEAnvAW1jIxONxGFlcr5FIZDqdYpP6M2EMnkqn06zNBQvD1D+KheCOnE4nu93OQsbr9cLIQpJGo1EwGNSMUZjNZtTBmFQq9ZI6gtuBEJRKJdbPIYiF1WpFCWAhs1gsfD4fi0eEQiGUVXQQhX6/73Q6yW4myWSy0Wjc+7XuwudDBeULZAQlX+CoL5dL8qoRnkCMp4tKF8T8fIEl4Raj8/AWaxDEAlC+VEB02HELXM/PpA/eQ3PpwEN12Ww2+A3Qoo+Ehaf+KhbYOV6HcJD8s44o/Ggmc8CJUJakxAKhoZOij7iOoHCwkIHESynYat4tFrR5Ic/EQps7UQVQMlA4WMuQ3O/3JI0AX0T0aacDD70PKhe+/RUmkwmMlUoFfdQ+GqODdgKPx4N2MBiQJHa7HVqHw0HSCHK5HG1ABx5qGNpYoA7l8/n5fN5ut4/HIyzoNJtNGDXVETUcrSZqb8X5fFbap+C7cguyANVFgI6mjiCPKl6A/ILbKCy6LwTrwcJohUod0Ofzf63fPE5I/w+fWPxCkr4B6AvxWwxs8eAAAAAASUVORK5CYII= .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAdCAIAAAC/qwwPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJYSURBVFhH7ZhBjgFREIZxBHbWLMRKhANY4QTOwF4krCXsJcQBWNiSsOUAHIDExoq4AfOlq6bT03p6TM9kmJn3LVr/9dD1/n6vughfr9fQ/yair/8YY4GxwFgAwS3odruRyF9wMOATYbPZFAqF8/l8uVw09GsJeBsbjUa73Vbxy/Gw4HQ6DQaDUqnEOod8Pj+bzXTMgtFsNptOp1U/FHIjQ0k1mUyyPXXAwW63q9VqrVZLtQs2gotisRiNRpfLJefb7TaXy4XDYZF25Hg8EiEuwUcxGo3Iod/vkw+SE2Sz2ZRRII4kCJ1OR6Nv8bbA+S1yGfvzjIodYgHXICJDPw+3ivuhwqJSqRBU8ZotSX7OAhfT6ZTPYzDnMm0XD7Tg9urMk6AKBwSDW8A1EomErDQnz7ARuOHkpsKCVeBaF4KPBX5PBCoNRZGT+Xwei8UkKFAye70eJ/KGR0EO1CbqHPkgqdOLxWI4HMrovagVN2AbYHO1Wl2v1xr9AvKFPrx3l/yREmhD5dKBtzAUcCNQCHABvsWFb4cJk5vUKbh9ItgEtwCkHLIWVD8TzJ/Nr8ICSbbsDtWv+FjwcXdYLpc50l2IDIx0Lz54djU+rFYrOvRMJqPaQuThcBB5Dx4WkM14PFZh/RzgSDsoMjD8mvCnXq/rW+8jlUpxnEwmIoX9fs8xHo+LvAtdDQ5YMyww6X+kF0TeLq1nQDo/SsB73aFAISPu+bAEDwvY/NJjiRdUgeecv8AOZ26kKpN0PRGwwx4FpkOb4yrt5u9T86+RsQCMBcYCYwEYC4wFodALJERMQXDu700AAAAASUVORK5CYII= ."
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72050,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let A = {a, b, c}, B = {1, 2, 3, 4} and f: A → B such that f= {(a, 1), (b, 2), (c, 2)} be a function. What is the domain of the given function? ",
+    "op": [
+        "{1,2,3}",
+        "{a,b,c}",
+        "{1,2}",
+        "{a,b}"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72051,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let A = {a, b, c}, B = {1, 2, 3, 4} and f: A → B such that f= {(a, 1), (b, 2), (c, 3)} be a function. what is the pre-image of 3 under this function? ",
+    "op": [
+        "c",
+        "b",
+        "No pre-image for 3",
+        "a"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72052,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 . ",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAbCAIAAAAfyF2ZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOOSURBVGhD7Zk9TypBFIbx/gGjtoZCaImNHw0NFkgsaLG0IEH9ARZiY/xItCZ+dHZAYqvRWkNFIbWhs7yo/8D73D2HyVxkd2Vd7oXcfYr1nJnZmTPvzpwZ4sTHx0csYnB+6N+IAYmEC0gkXEAi4QISCReQSLiA/CFcuVyecHh8fNSiEYBgtre3p6eneWpRqHQ6ncvLy1wuJ3NfXFy8vb3VOg+4x9ns7u5S+PDwoP6/hnimpqaq1Wq73daisFldXWXKDIHNKIlE4isK9G7VyclJtUYAlli9Xn9+fl5fX5+bm9PSIcDnYQgMRjk8PMRoNBpOjSujm+Nqtdr5+fnV1dXMzIwWDYe7u7ujoyN1YrHZ2Vm1PPEXrtVq8TXc9v/p6WkymZRaQygpcm9vj02UTqfV/1u8vLzwjMfj4rqiW7bLyckJhWaHPz09kWK2trZ+OmBQe3NzI7V2Y560ZKpS9U0Yl57pHyTp8JQ0NGyYAmOp446PcKIUkokLqGP6ZQxbKTlY1PkeEgYDyUcigEKhYAfWg7T3Rpt6cnFxwQT5bOq747NVSTQLCwt2lllaWuLoUWfIkODW1tYwCOD4+BijUqk4Nb3s7OzohNzRpu6QYTY3N8/Ozubn57XIHR/h3t7ePHLzysrK/f094mKTCsnlskIF4iA5cv8i65EcexIftyeujdyeyJJa5Imcqu/v7+KGDvHn83mygRyvvvgfDsxQrU/wnVmPXBqQJpPJMOTBwYHWOSc6qnGZYKOh/sbGhlY4US4vL6dSKU40OtHSb4D6zrHkhTbtB3MsFovE/0XVfqPruEtPjpPMYl8+yTuIJTaNWWJie0P6M2+ho9xpxe2LHA68pX6/khBhmiY8YL527u5Lr3CS4M25iYK49MJsQXaikZVyX+F4C41oaTIuCRj1CQ4D7K9iw2TQV8aiDRPDpTepDRGZox0GIgwmHDOkC7BPFkQkaCnHMKqBaW+ggX0kSUyAviYyUYTIWLA8sftqh0ZMgFpe52n3EC7EIEHaEKRWuxD89sDEkIklo3635PMlSNaLfYmx1ymioKA640Pwn1zX19fNZrNUKqnvXBqy2ezr66u4nABysHAg7u/vI5+Ug2kDCKrWeKECDo5sQ3sHsXPt5WNWFiuRlW9WnDSTHS2d2Nt/XAguHJD+7ATBfkQUrXNq0UuqMOzch7iSvFDTfmWMiP6vGpDgOe4/JxIuELHYL4W5ECRIYAbIAAAAAElFTkSuQmCC .",
+        "None of these",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAAaCAIAAAAln9WxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM3SURBVGhD7Zk9TmpBFMfx7QDcgbIDoLPRBgM1gdIWFqCJlFayAD4KEgoS2YAQaLUhocBeXYGKO+D9wjlO5nHhMpd3IY+X+yuuc2bGOWf+c+bDeDSfz2MRAfmlPyOCEKm2DZFq2xCptg2rVatWq0cLnp+ftWqP4LRSqSQSCb5aFSqfn5+tVuvy8lLmmMlk+v2+tv3J2ki4Q1dye3tL69PTk9r7Ar/xePzh4eHt7U2rwiabzeJCpoaXdDq9cqY+kaxV7f7+fv+qlcvl09PTj48PtXcDqqGIGvM5ujBT5qv2Av9I/iHVJPr9Z/fj4yN+m82m2g6RBFBtOp0Wi0UqgazGmTYsoD+LI62GQBLw62SBGnsEp0tptTES1zv05eXl/Pycc5HRgRM0n8+bQ7RWq93c3HQ6HUZEKY4D8Xp2diYdNsL4HB8XFxcMlUwmOaT59no9bd4NxM+dQGE0Gh0fH0ulUyQL7VawlGvsc0x7QZCGNZEyGtmLIzeJGm6IOwaUFMaR5PW6bJX+/mjXNUgfZsHU2EZa6xaJq2qMzq6UsoBMdDDlUFSzI2PBqSFitXcD0jA1MMK5ROK6Q2ezmclhL+TzcDiUNCbDG42G5KbA+4gHoMl2xzfgyckJ3+/vbzF3RC6X63a7zI4XnFZ58EYS4G8DJq8lD9fX12QiT0F04fgrlUp3d3faFou1223CGo/HZDurenV1pQ1/AYcOvvzRrptAOL7v7+9iuuCqGvk5mUzsoV9fX+V9CMyB++Hr64vs5Vuv1+3ERFOpgUKhQAdtsJD9PhgMxARylm8qlRJzCcaUzeKDdvWAoPbpvuTIKRL14EHOJvO8YJ9jMiL5ArIBzeannhop+0NP+4Vpw8KQiTImRwlLgokvaQ0RIvc6oiCtsDGS1arJM09GN8ckCprkomAkA9PfQAf7YhLoRv06IahHUDzy63xZBnsmIcJERJd1jjZGEuymWwk+0MJ+W0uNeZcI/pIdFiGohl6siRo/yFqp8X9JBiGoxlZFNTuN0QjJePiIyVYl70wrR5sUDpcQVANOCrl6BNIK4bRtcbhqww/acLBE/6PahgCv3AhDpJoTS39pRKoFJxb7DcS5Y3r0RlNKAAAAAElFTkSuQmCC .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAbCAIAAAAF9L0XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVGhD7Zk9Ly1RFIbn3B/gu1IJehI0QqFxJEoFEr1QKEW0KkoREbX4SEg0BAXFEZ2EWvgFx9cvOPdx3pWdMXNmzDDujZinOPbaa8/+ePdaayZRqFQqXk4y/tjfnATkYqUgFysFuVgpyMVKQS5WCiLFmp2dLRQKIyMjZufEiLW+vl4sFs34Ti4vLycmJpqamribzs7O3d1dc/h4eHjg8vAy0royIrD68fGxOWrxn9OQvQ4ODrLXp6encrnc29s7OTl5e3tr7irIR39bW9vZ2VlNKT+NW/3u7o7VGxsbR0dHuRhzh+ELPgoiC8z4HkqlEls0o2qyJX7NrlSOjo4YcHNzY3amaHVkkslagdUDpIgsLpyIJVyhr6/Pf/+0qW5yOcwXy8DAADFlhuddXV2x+9bWVrM9b2pqamFhoaury+xM0erNzc0y6+rq1IgiqViPj49DQ0NELPcA9GC6iB0bG2tvb6f//v6+o6NjfHyce5ArIci9srJyfn5+cXHBVOok6Z6fn+vr67kb1Gd1xsgVRjcUBRln46LZ3t4m31HQ7DAKsJr403BjY4PByCGTvMCkk3Ygd5aXl+OnDcMqPAKo7M+4xcVFOplQ62oPOzs78mZLknxPGlmvr68cyUWs8oJOmV/k5OSErbBRArO7u9sF7PX1Nb/z8/Nad3p6mps/PDysOrOEuJ6bmyOo4/M9g7chccudrK2tkaqcc3Nzc2ZmxnxV6Cd9qHfx7zI2ure3R2N/f189DQ0NajhQ7eXlxYz3WL5FEJOGKEUZOTg4+LAyJhWLwnF6esqxZery6ZS5tbXFe72lpYWbHx4eXlpaUj/wCLW/v78fpcJfSZyBrxszfBMKyiK//nc5s/X09JjxHmVKFFGViAlRanV1VUqxn5iy+EHNolqrTYIQPoTMW3kvlyku7qUrl9pheISiY0YI1TsNYAYGMxUTyquZWUuTq2Y5byYwuX97VMmY3UaKpZ0BB1APNYXAUae/EnMS1y8wnReTHby9KYrFcG3mWTZXc1rhX5QZAt4voqsK8BmxksOSnMdFFg1OxbFpczaWR3fGfEdc/GMyEAtpArehUKIhsdQJtN0Xxk8kA7HIU0qbU0EfLMSRTFxqK+Z/e2SRd9ILLYCU9NcmgksuftHRen8m+b/CUpDBR+nvIRcrBblYifG8v3ORSBw1xy8UAAAAAElFTkSuQmCC ."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72062,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If f represents the identity function on set A, what is the image of element 3 under this function? ",
+    "op": [
+        "3",
+        "5",
+        "2",
+        "4"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72063,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "If f(x) = x and g(x) = |x| then (fog)(- 4.5) is ________________. ",
+    "op": [
+        "4.5",
+        "fog does not exist.",
+        "-4.5",
+        "None of these"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72100,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "What is the role of (a, b) in the equivalence relation R? ",
+    "op": [
+        "It establishes the equivalence relation between a and b.",
+        "It represents an equivalence class.",
+        "It indicates an ordered pair in the Cartesian plane.",
+        "It signifies a subset of set S."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72101,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let A = {1, 2, 3, 4, 5} and f:A→A is defined by f(x)=x, what is the range of the function? ",
+    "op": [
+        "{1}",
+        "{1,2,3}",
+        "{1,2,3,4,5}",
+        "{5}"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72102,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Let A = {a, b, c}, B = {1, 2, 3, 4} and f: A → B such that f= {(a, 1), (b, 2), (c, 3)} be a function. What is f(b)? ",
+    "op": [
+        "2",
+        "3",
+        "4",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72104,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "In an equivalence relation, if (a, b) is in R, what can be said about (b, a)? ",
+    "op": [
+        "It is not related to (a, b).",
+        "It implies asymmetry.",
+        "It is in R due to symmetry.",
+        "It violates the transitivity property."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72105,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "Which property ensures that for any element a in set S, [a]=[a]? ",
+    "op": [
+        "Transitivity",
+        "Reflexivity",
+        "Equivalence",
+        "Symmetry"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72123,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For f(x) = 2x +1 and g(x) = 4x,  the composite function (fog)(x) is __________. ",
+    "op": [
+        "8x-1",
+        "2x+1",
+        "8x+1",
+        "2x-1"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72124,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For f(x) = 2x - 3 and g(x) = x^2 - 1, the composite function (fog)(x) is __________. ",
+    "op": [
+        "2x^2 -1",
+        "2x^2 +1",
+        "2x^2 - 5",
+        "(i) 2x^2 +5"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72175,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "data:image/png;base64,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 . ",
+    "op": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAZCAIAAADVMRWUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIhSURBVFhH7ZhBlsFAEIbFDYy9DRYOwBWwt+AKHMEJ2NpwAifg2bOycgB2llxhMt90laRfQsKY9xLv9bfIpLrSneq/qnoy4/m+X3AYivrT4bSwcVqEOC1C3tJit9sVLVqtljo+k3frot1uf9/Y7/c6+pm4HglJ0eJ6vS4Wi263G3TBer1WX85IDZWOHo1G9Xodb7lc5p4p6hP41kqg0+l4nrdcLrk/nU61Wg1zu92Kl5svA4O4VquVjGcCoRKJxEaozWYzEiomz+DCnEwmYopXSNdiPB6r4fuIwhIspLZ5K9fL5TIcDnGJmQnJoYoWxCkmSF7VMKRoEUFWtLUIEFeQh8yhSIlnPp+rHQPtIlq8dnaez2eulUpFzOl0OhgMpOs2m02pVGo0GuLKnNlsVq1We72e2jGOxyMPqCGoJs+BlpSWGkZ7aUvAdTgc1JEpREUwkNCwUsVyDga8oAX1xuH0LxsW+RK424bPINOJk/PrUaicGmSUB9S+8awWd4XMLZTG76+3B5mjZChn+xwVntKCFVn3U4QQ5OyMJ5+Ru0JAuhZMY3J80XcwhZzEn3vEhnUoATUMpPNRsUC6Fv1+Hy3UMB8UkRfkBHZuVy4bZsT+4pAR6kVtUyP2R0CKFnJM2Acyq+dWC3IueyNg8odpR07YdnXjCp4XUrRgPu+IQKWoO0+QcAJje0TIlW3bQkhS49j94v73G+L+Zg9xWoQ4LW4UCj83UTpA8BPR0AAAAABJRU5ErkJggg== .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAXCAIAAAAeMC9pAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIISURBVFhH7Zg/kgFBFIeZGyCX4AicgRsQCiROoMqffJ1AIhJwASeglJBUlUyGcgT71by3U71t2u7sBmbKfMHo97prvPfr190zk73f75n3xtPfNyaVILoE6/W61WoVCgXP82q1Gqb4r9frYDCoVCr4uQb++BNZgs1mk8/nD4fD+XxGiHa7Lf7pdHq73bbbLf5cLhf4EwDb4Y98+Khh0O/3q9WqGgYMRiY1Yk+IBKvVKvsATu32uVwu8/m8Xq/vdjt1GeBHHTVeAeFNJhPCkOCZp+VyqX0POCWwcjYJNOp2u8fjUb1fIA1/SRBqvwJJnkhoE2G5XMZ0ZfQXCQRuTarcXW2fOOQPVhkSFRmFrmWILAGVH2RIdTFS2hCT/B+RjFwSRD4Rer3eaDSiwSk4m81KpZL49/v9cDhcLBYcE5iNRkP8ceB0OnEtFoti2qgUBqJZs9lkV6dh7SW06cIvY4LtMHAGiD8OsC6sBWsSIoEsclkI0iYf17r4P6LXE1wF/Es4GpjL0JNLCJHAAhWIg0lWO1FIRcvR4OJnCYC7UEtqJAdmnvl/nj+8/jWJd4rnjMdjHRoFdutOp0PxgrpcqBQGVuXIQuApSO2EQObsYmr4WbgKOVwC6sfcDjFpSG8ikC3AjJknpQgSUAJIKCci19Cn4JhDtgRvQVLa/Z30w1n61SiVAN5egkzmExQdGx852pjQAAAAAElFTkSuQmCC .",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAXCAIAAAAaxf9UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHTSURBVFhH7ZjBsYJADIaVDrQGLMEeKMGrV1vQBl4HXjxTARXowaMNWAEwluD7xmQg7AKiM++Bg99BScKu+Uk2zDi93++TsRLo9yj5iu9Anue73W6xWARBwOfpdNLAJ9NV/OFwuN1u5/M5TdPZbLZerzXw0TDwmvh5oIYB53w+V+OTKcUfj8epB04NG6Io2m63avRBlmX7/Z40JMnlcpkkicYekPZmswnDkCh14polGjO44mvVWuI45sdq9/o3kI0kSfV6vZKPzVyEcA8hTPpUTIlaXhM/BOXgtB5ZkXlxQkWITVJaQA3DC+IHotyHnidzDoLaHnJA1DB0FX+5XHh+0khQ20V9QTLk1lIVoqCGwRW/Wq04Tlw4UwQ/TosGeoUMUQ5FVXxEF22rtqEUL5NDKu9Pkbd5PKg2at+mXZDlMsxpTPVWoR2oOTeoXaUU74B+tqbgag8Vio9+qNVPU7TMqUbxgHgWqzFgZOD55cXTPqH/XDybtPN221vYx0mVQ97UDgWleNbbqSBt33Ra+sVJFYV47JtfPHZgI8SfXxXxPCo78DC5kOigeJoqXWDLRqi431KK51kW7zk+WTxM5UBJW1JFJH4f/wh8/8YaK1/x42Qy+QVFnBlwlrZfRwAAAABJRU5ErkJggg== .",
+        "None of these"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72176,
+    "cc": "MTH104",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For f(x) = 4x^2file:///C:/Users/jamshed/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png and g(x) = 3x - 1, the composite function (fog)(x) is __________. ",
+    "op": [
+        "36x^2 + 4 + 4x",
+        "- 36x^2 + 4 + 24x",
+        "36x^2 - 4 + 4x",
+        "36x^2 + 4 - 24x"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72616,
+    "cc": "MTH104",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Let λ and μ be ordinal numbers and let A and B be two well-ordered sets such that λ = ord(A) and μ = ord(B). Then  λ < μ if A is similar to an initial segment of B. ",
+    "op": [
+        "true",
+        "false"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+}
+]

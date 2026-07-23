@@ -1,0 +1,128 @@
+[
+    {
+        "id": 66459,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": ".............-camera productions are generally edited together during postproduction.",
+        "op": [
+            "Single",
+            "Multiple",
+            "All of the above",
+            "Double"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66460,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "............... may convey a character’s thoughts or memories.",
+        "op": [
+            "None of the above",
+            "Subimposition",
+            "Imposition",
+            "Superimposition"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66461,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "......................... were the first light sources used in film projection.",
+        "op": [
+            "None",
+            "Incandescent lighting",
+            "Both",
+            "limelight"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66462,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "..............is the stage in which the film is assembled by the editor",
+        "op": [
+            "Post Production",
+            "None of the above",
+            "Pre-Production",
+            "Production"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66463,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "A ....... is a specialized, wide-angle lens",
+        "op": [
+            "Macro Lens",
+            "Telephoto lens",
+            "Zoom angle lens",
+            "Fisheye lens"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66464,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": ".............. was once a very common default setting in cameras because it coped well with a bright sky above a darker landscape.",
+        "op": [
+            "Center metering",
+            "Spot Metering",
+            "Center-weighted metering",
+            "weighted metering"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66466,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "There are ......types of shooting conditions.",
+        "op": [
+            "Five",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66467,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "SLRs measure the light (called metering) through the",
+        "op": [
+            "Both",
+            "Aperture",
+            "Lens",
+            "None of above"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66468,
+        "cc": "MCD401",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "These differences, or ‘intervals,’ would be the basis of the film’s effect on the ..................",
+        "op": [
+            "Producers",
+            "camera man",
+            "Directors",
+            "Audience"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    }
+]

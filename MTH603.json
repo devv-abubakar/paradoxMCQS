@@ -1,0 +1,2214 @@
+[
+{
+    "id": 48105,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Global Error for Simpson’s 3/8 Rule while integrating \n‘f(x) = Cosx’ in the interval of [0,pi] of equally spaced subinterval of width ‘h =pi/6’ and intermediate point x = pi/2?",
+    "op": [
+        "-pi/80",
+        "1",
+        "pi/80",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:10:31.415656+00:00"
+},
+{
+    "id": 48110,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,1.3),\\,(8,1.5),\\,and\\,(12,1.9)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as$$",
+    "op": [
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.0062}&{} \\\\\\ 8&{1.5}&{0.1}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.05}&{} \\\\\\ 8&{1.5}&{0.1}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.35}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.0062}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}$$"
+    ],
+    "created_at": "2026-07-05T19:10:41.667685+00:00"
+},
+{
+    "id": 48129,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 1&{2.2}&{0.4333}&{} \\\\\\ 4&{3.5}&{0.2}&{ - 0.0389} \\\\\\ 7&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$$y = f(x) = - 0.0389 + (x - 1)(0.4333) + (x - 1)((x - 4)(2.2)$$",
+        "$$y = f(x) = 2.2 + (x - 1)(0.4333) + (x - 1)((x - 4)( - 0.0389)$$",
+        "$$y = f(x) = - 0.0389 + (x - 1)(2.2) + (x - 1)((x - 4)(0.4333)$$",
+        "$$y = f(x) = 2.2 + (x - 1)( - 0.0389) + (x - 1)((x - 4)(0.4333)$$"
+    ],
+    "created_at": "2026-07-05T19:10:58.928594+00:00"
+},
+{
+    "id": 48143,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Simpson’s 3/8 rule, we divide the interval of integration into n sub-intervals.\nWhere n is divisible by.....",
+    "op": [
+        "3",
+        "None of the given choices",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-07-05T19:11:11.777714+00:00"
+},
+{
+    "id": 48152,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\Delta = - - -$$",
+    "op": [
+        "None",
+        "$$\\frac{{E - 1}}{2}$$",
+        "$E\\,\\, - \\,\\,1$",
+        "$1 - E$"
+    ],
+    "created_at": "2026-07-05T19:11:19.025265+00:00"
+},
+{
+    "id": 48166,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Given the following data x:1 2 7 11 y:6 10 13 37 Which formula is useful in finding the interpolating polynomial?",
+    "op": [
+        "None",
+        "Newton’s backward difference interpolation formula",
+        "Lagrange’s interpolation formula",
+        "Newton’s forward difference interpolation formula"
+    ],
+    "created_at": "2026-07-05T19:11:30.421467+00:00"
+},
+{
+    "id": 48175,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If the area under ‘f(x) = x’ in interval [0,2] is subdivided into two equal sub-intervals of width ‘1’ with right end points, then which of the following will be the Truncation Error provided that I(definite integral) = 2 and approximate sum = 3 ?",
+    "op": [
+        "0",
+        "2",
+        "1",
+        "-1"
+    ],
+    "created_at": "2026-07-05T19:11:36.567681+00:00"
+},
+{
+    "id": 48186,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Simpson’s 1/3 rule, the global error is of ………………",
+    "op": [
+        "O(h2)",
+        "None of the given choices",
+        "O(h4)",
+        "O(h3)"
+    ],
+    "created_at": "2026-07-05T19:11:43.32513+00:00"
+},
+{
+    "id": 48198,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Simpson’s 3/8 rule represents the area between the curve y = f(x) in the interval say [a,b] above x-axis by approximating the given curve by the ----------.",
+    "op": [
+        "Cubic curve through one point",
+        "Cubic curve through four points",
+        "Cubic curve through three points",
+        "Cubic curve through two points"
+    ],
+    "created_at": "2026-07-05T19:11:52.461517+00:00"
+},
+{
+    "id": 48972,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Richardson extrapolation method is used to improve the rate of convergence of a …………",
+    "op": [
+        "Series",
+        "Sequence"
+    ],
+    "created_at": "2026-07-05T19:26:28.002687+00:00"
+},
+{
+    "id": 48991,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Richardson extrapolation is method also known as …………",
+    "op": [
+        "Series acceleration method",
+        "Sequence acceleration method"
+    ],
+    "created_at": "2026-07-05T19:27:00.652773+00:00"
+},
+{
+    "id": 49014,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$\\delta \\,\\, = \\,\\, - - - -$",
+    "op": [
+        "${E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}$",
+        "$${E^{\\frac{1}{2}}}\\,\\, - \\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}$$",
+        "$\\frac{{{E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}}}{2}$",
+        "None"
+    ],
+    "created_at": "2026-07-05T19:27:31.997815+00:00"
+},
+{
+    "id": 49032,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Zero-th order divided difference is defined as",
+    "op": [
+        "y[x0]=x0",
+        "y[x0]=y1",
+        "y[x0]=y0",
+        "None of the given choices"
+    ],
+    "created_at": "2026-07-05T19:27:48.272688+00:00"
+},
+{
+    "id": 49049,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Composite Trapezoidal formula for integrating a Tabular function, we can approximate it with a polynomial whose ---------- order derivative vanishes.",
+    "op": [
+        "First",
+        "Third",
+        "Fourth",
+        "Second"
+    ],
+    "created_at": "2026-07-05T19:28:08.582496+00:00"
+},
+{
+    "id": 49083,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The step size “h” in numerical integration over the interval [a,b] is defined as",
+    "op": [
+        "h=(b/a)/n",
+        "h=(a-b)/n",
+        "h=(b+a)/n",
+        "h=(b-a)/n"
+    ],
+    "created_at": "2026-07-05T19:29:02.158062+00:00"
+},
+{
+    "id": 49087,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Geometrically the definite integral of any continuous function f(x) in the interval [a,b] gives ----------.",
+    "op": [
+        "Volume with dimensions f(x), ‘a’ and ‘b’",
+        "Length of segment AB on real line",
+        "Area of Trapezoid with dimension of ‘a’ and ‘b’",
+        "Area under f(x) on [a,b]"
+    ],
+    "created_at": "2026-07-05T19:29:10.113009+00:00"
+},
+{
+    "id": 49426,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": ": What will be the value of first order divided difference f[1,5]for the following data x:0 1 5 y:2 1 5",
+    "op": [
+        "3",
+        "1",
+        "0",
+        "2"
+    ],
+    "created_at": "2026-07-05T19:40:59.187597+00:00"
+},
+{
+    "id": 49455,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following method is simplest one to integrate numerically a given tabular function but give more error?",
+    "op": [
+        "Trapezoidal method",
+        "Simpson’s 3/8 Rule",
+        "Simpson’s 1/3 Rule",
+        "Rectangular method"
+    ],
+    "created_at": "2026-07-05T19:41:55.653176+00:00"
+},
+{
+    "id": 49485,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The double definite integral of a function is called…………",
+    "op": [
+        "None of the given choices",
+        "Length of the curve",
+        "Area under the curve",
+        "Volume under the curve"
+    ],
+    "created_at": "2026-07-05T19:42:53.485001+00:00"
+},
+{
+    "id": 49529,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,2.2),\\,(8,3.5),\\,and\\,(12,4.1)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as$$",
+    "op": [
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0108} \\\\\\ {12}&{4.1}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {12}&{4.1}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.098} \\\\\\ {12}&{4.1}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.065} \\\\\\ {12}&{4.1}&{}&{} \\end{array}$$"
+    ],
+    "created_at": "2026-07-05T19:44:43.561584+00:00"
+},
+{
+    "id": 49560,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\\\ 2&{0.5}&{0.3}&a&{} \\\\\\\\ 4&{1.1}&{0.3}&{ - 0.0125}&{ - 0.0021} \\\\\\\\ 6&{1.7}&{0.25}&{}&{} \\\\\\\\ 8&{2..2}&{}&{}&{} \\end{array} \\hfill \\\\\\\\ \\end{gathered}$$",
+    "op": [
+        "0.0893",
+        "0",
+        "0.0612",
+        "0.0115"
+    ],
+    "created_at": "2026-07-05T19:45:44.094407+00:00"
+},
+{
+    "id": 49622,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.4}&{0.25}&{0.0375}&{ - 0.0104} \\\\\\ 3&{0.9}&{0.4}&a&{} \\\\\\ 5&{1.7}&{0.3}&{}&{} \\\\\\ 7&{2.3}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "-0.0012",
+        "-0.025",
+        "-0.0343",
+        "-0.0109"
+    ],
+    "created_at": "2026-07-05T19:48:43.225532+00:00"
+},
+{
+    "id": 49647,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "----------- difference is a symmetric function of its arguments.",
+    "op": [
+        "Backward",
+        "None",
+        "Forward",
+        "Divided"
+    ],
+    "created_at": "2026-07-05T19:49:49.957188+00:00"
+},
+{
+    "id": 49837,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,0.3),\\,(4,1),\\,and\\,(6,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as$$",
+    "op": [
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.1}&{} \\\\\\ 4&1&{ - 0.0625}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.1}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.35}&{0.1} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$"
+    ],
+    "created_at": "2026-07-05T19:58:28.674741+00:00"
+},
+{
+    "id": 49851,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "At which of the following point the derivatives or slopes the functions f(x) = x – 2 and g(x) = x + 2 may differ?",
+    "op": [
+        "does not differ for any value of  ‘x’",
+        "x = -2",
+        "x = 2",
+        "differ for every value of ‘x’"
+    ],
+    "created_at": "2026-07-05T19:59:30.525503+00:00"
+},
+{
+    "id": 49854,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The percentage error in numerical integration is defined as",
+    "op": [
+        "= (Theoretical Value-Experiment Value)/ Experiment Value*100",
+        "= (Theoretical Value-Experiment Value)* Experiment Value*100",
+        "= (Theoretical Value +Experiment Value)/ Experiment Value*100",
+        "= (Theoretical Value-Experiment Value)/ Theoretical Value *100"
+    ],
+    "created_at": "2026-07-05T19:59:48.955498+00:00"
+},
+{
+    "id": 49856,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "We prefer ………over the Lagrange’s interpolating method for economy of computation.",
+    "op": [
+        "Newton’s forward difference method",
+        "Newton’s backward difference method",
+        "Newton’s divided difference method",
+        "None of the given choices"
+    ],
+    "created_at": "2026-07-05T20:00:05.685417+00:00"
+},
+{
+    "id": 49860,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following reason(s) lead towards the numerical integration methods?",
+    "op": [
+        "All above choices are true",
+        "Analytical evaluation of integral is very complicated",
+        "Analytical evaluation of integral is impossible",
+        "Integrand is given in tabular form"
+    ],
+    "created_at": "2026-07-05T20:00:16.442677+00:00"
+},
+{
+    "id": 49863,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Richardson’s Extrapolation limit: F3(h/8) provided that F2(h/8) = F2(h/4) = 1 ?",
+    "op": [
+        "63",
+        "-1",
+        "64",
+        "1"
+    ],
+    "created_at": "2026-07-05T20:00:25.084774+00:00"
+},
+{
+    "id": 49865,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The idea of Richardson’s extrapolation is to combine two computed values of derivative of y using the same method but with ……… different step sizes.",
+    "op": [
+        "Three",
+        "None of the given choices",
+        "Two",
+        "Four"
+    ],
+    "created_at": "2026-07-05T20:00:34.851846+00:00"
+},
+{
+    "id": 49867,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The single definite integral of a function is called ………",
+    "op": [
+        "Area under the curve",
+        "Length of the curve",
+        "None of the given choices",
+        "Volume of the curve"
+    ],
+    "created_at": "2026-07-05T20:00:45.676095+00:00"
+},
+{
+    "id": 49868,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$For\\,the\\,given\\,data\\,{\\text{points}}\\,(1,0.3),\\,(3,1),\\,and\\,(5,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as$$",
+    "op": [
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.225} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.125} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$",
+        "$$\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.525} \\\\\\ 6&{1.2}&{}&{} \\end{array}$$"
+    ],
+    "created_at": "2026-07-05T20:00:48.982596+00:00"
+},
+{
+    "id": 49871,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Simpson’s 3/8 rule is based on fitting ……………… points by a cubic.",
+    "op": [
+        "Three",
+        "Four",
+        "None of the given choices",
+        "Two"
+    ],
+    "created_at": "2026-07-05T20:01:00.665232+00:00"
+},
+{
+    "id": 50028,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,diffidence\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.7}&{0.25}&{0.025}&{} \\\\\\ 3&{1.2}&{0.35}&{ - 0.0625}&a \\\\\\ 5&{1.9}&{0.1}&{}&{} \\\\\\ 7&{2.1}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "-0.0146",
+        "-0.0245",
+        "-0.0021",
+        "-0.0387"
+    ],
+    "created_at": "2026-07-05T20:14:38.099564+00:00"
+},
+{
+    "id": 50037,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Richardson’s Extrapolation limit: F2(h/4) provided that F1(h/4) = F1(h/2) = 1 ?",
+    "op": [
+        "1",
+        "16",
+        "15",
+        "-1"
+    ],
+    "created_at": "2026-07-05T20:15:36.963685+00:00"
+},
+{
+    "id": 50038,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$The\\,first\\,divide\\,difference\\,y[{x_0},{x_1}]\\,can\\,be\\,given\\,as\\,$$",
+    "op": [
+        "All",
+        "$$\\frac{{\\Delta {y_0}}}{h}$$",
+        "$$\\frac{{{y_1} - {y_0}}}{{{x_1} - {x_0}}}$$",
+        "$$\\frac{{\\nabla {y_1}}}{h}$$"
+    ],
+    "created_at": "2026-07-05T20:15:44.627262+00:00"
+},
+{
+    "id": 50056,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Newton-Cotes formula for finding the definite integral of a tabular function, which of the following is taken as an approximate function then find the desired integral?",
+    "op": [
+        "Exponential Function",
+        "Logarithmic Function",
+        "Polynomial Function",
+        "Trigonometric Function"
+    ],
+    "created_at": "2026-07-05T20:16:31.10613+00:00"
+},
+{
+    "id": 50058,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Given the following data x:1 3 8 y:2 4 9 f(3) can be found by using",
+    "op": [
+        "Newton’s backward difference interpolation formula",
+        "None",
+        "Lagrange’s interpolation formula",
+        "Newton’s forward difference interpolation formula"
+    ],
+    "created_at": "2026-07-05T20:16:34.000416+00:00"
+},
+{
+    "id": 50064,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If the area under ‘f(x) = x’ in interval [0,2] is subdivided into two equal sub-intervals of width ‘1’ with left end points, then which of the following will be the Truncation Error provided that I(definite integral) = 2 and approximate sum = 3 ?",
+    "op": [
+        "1",
+        "3",
+        "0",
+        "-1"
+    ],
+    "created_at": "2026-07-05T20:17:03.228927+00:00"
+},
+{
+    "id": 50067,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Two-point formula for the first derivative is defined as",
+    "op": [
+        "y(xi+h)+y(xi-h)/h^2",
+        "y(xi+h)-y(xi-h)/h^2",
+        "y(xi+h)+y(xi-h)/2h",
+        "y(xi+h)-y(xi-h)/2h"
+    ],
+    "created_at": "2026-07-05T20:17:10.749428+00:00"
+},
+{
+    "id": 50070,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Trapezoidal rule, we assume that f(x) is continuous on [a, b] and we divide [a, b] into n subintervals of equal length using the ………points.",
+    "op": [
+        "None of the given choices",
+        "n",
+        "n-1",
+        "n+1"
+    ],
+    "created_at": "2026-07-05T20:17:28.647296+00:00"
+},
+{
+    "id": 50080,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Three-point formula for the second derivative is defined as",
+    "op": [
+        "y(xi+h)-2y(xi)+y(xi-h)/h^2",
+        "y(xi+h)+2y(xi)+y(xi-h)/h^2",
+        "y(xi+h)-2y(xi)+y(xi-h)/2h",
+        "y(xi+h)-2y(xi)-y(xi-h)/h^2"
+    ],
+    "created_at": "2026-07-05T20:18:28.972899+00:00"
+},
+{
+    "id": 50096,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If the given tabular function f(x) is approximated by the polynomial ‘P1(x) = x+1’ then which of the following polynomial will approximate the derivative of  f(x) ?",
+    "op": [
+        "x-1",
+        "1",
+        "2x",
+        "x"
+    ],
+    "created_at": "2026-07-05T20:19:36.173255+00:00"
+},
+{
+    "id": 50100,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Richardson’s Extrapolation limit: F1(h/2) provided that F(h/2) = F(h) = 1 ?",
+    "op": [
+        "3",
+        "1",
+        "4",
+        "0"
+    ],
+    "created_at": "2026-07-05T20:20:02.267807+00:00"
+},
+{
+    "id": 50107,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The area of a trapezoid is obtained by adding the area of a …………and a triangle.",
+    "op": [
+        "Circle",
+        "None of the given choices",
+        "Rectangle",
+        "Square"
+    ],
+    "created_at": "2026-07-05T20:21:26.979131+00:00"
+},
+{
+    "id": 50579,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "For a function ‘f(x) = x’, with a step size of ‘h=0.01’, which of the following gives the 1st derivative at x =1 by using two point formula?",
+    "op": [
+        "y’(x) = 1+Some Truncation Error",
+        "y’(x) = 1.01 + Some Truncation Error",
+        "y’(x) = -0.1 + Some Truncation Error",
+        "y’(x) = 0.1 +  Some Truncation Error"
+    ],
+    "created_at": "2026-07-05T21:37:27.661065+00:00"
+},
+{
+    "id": 50580,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Differential operator in terms of forward difference operator is given by",
+    "op": [
+        "$$D = \\frac{1}{h}(\\Delta - \\frac{{{\\Delta ^2}}}{{2!}} + \\frac{{{\\Delta ^3}}}{{3!}} - \\frac{{{\\Delta ^4}}}{{4!}} + \\frac{{{\\Delta ^5}}}{{5!}} - ...)$$",
+        "$$D = \\frac{1}{h}(\\Delta + \\frac{{{\\Delta ^2}}}{2} + \\frac{{{\\Delta ^3}}}{3} + \\frac{{{\\Delta ^4}}}{4} + \\frac{{{\\Delta ^5}}}{5} + ...)$$",
+        "$$D = \\frac{1}{h}(\\Delta - \\frac{{{\\Delta ^2}}}{2} + \\frac{{{\\Delta ^3}}}{3} - \\frac{{{\\Delta ^4}}}{4} + \\frac{{{\\Delta ^5}}}{5} - ...)$$",
+        "$$D = \\frac{1}{h}(\\Delta + \\frac{{{\\Delta ^2}}}{{2!}} + \\frac{{{\\Delta ^3}}}{{3!}} + \\frac{{{\\Delta ^4}}}{{4!}} + \\frac{{{\\Delta ^5}}}{{5!}} + ...)$$"
+    ],
+    "created_at": "2026-07-05T21:37:35.957629+00:00"
+},
+{
+    "id": 50582,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Richardson’s extrapolation method, we usually use two different step sizes ………and …… to yield a higher order method.",
+    "op": [
+        "h/2,h/4",
+        "h,h/2",
+        "h/2,h/3",
+        "None of the given choices"
+    ],
+    "created_at": "2026-07-05T21:37:45.760295+00:00"
+},
+{
+    "id": 50585,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Given the following data x:0 1 4 y:2 1 4 Value of first order divided difference y[0,1]is",
+    "op": [
+        "2",
+        "-1",
+        "1",
+        "-2"
+    ],
+    "created_at": "2026-07-05T21:37:55.936488+00:00"
+},
+{
+    "id": 50614,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "While using the Composite Trapezoidal form for integrating y = f(x) in [0,10] which is subdivided in equally spaced interval of width ‘h =2’, then which of the following is the area of associated trapezoidal strip over subinterval:[2,4] ?",
+    "op": [
+        "(y2 – y4)/2",
+        "(y2 – y4)",
+        "(y2 + y4)",
+        "(y2 + y4)/2"
+    ],
+    "created_at": "2026-07-05T21:41:39.427924+00:00"
+},
+{
+    "id": 50623,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "To improve the accuracy of the derivative of the function, which of the following method is more helpful?",
+    "op": [
+        "Divided Difference",
+        "Interpolation",
+        "Central Difference",
+        "Extrapolation"
+    ],
+    "created_at": "2026-07-05T21:44:29.981857+00:00"
+},
+{
+    "id": 50624,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{2.2}&{0.325}&{} \\\\\\ 6&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {10}&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "$$y = f(x) = 2.2 + (x - 2)((x - 6)(0.325) + (x - 2)( - 0.0219)$$",
+        "$$y = f(x) = 2.2 + (x - 6)(0.325) + (x - 12)((x - 6)( - 0.0219)$$",
+        "$$y = f(x) = 2.2 + (x - 2)(0.325) + (x - 2)((x - 6)( - 0.0219)$$",
+        "$$y = f(x) = 2.2 + (x - 12)(0.325) + (x - 6)((x - 2)( - 0.0219)$$"
+    ],
+    "created_at": "2026-07-05T21:46:42.692024+00:00"
+},
+{
+    "id": 50626,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "At which of the following points the Maximum value of 2nd derivative of function \nf(x) = -(2/x) in the interval:[1,4] exits?",
+    "op": [
+        "At x=4",
+        "At x=1",
+        "At x=2",
+        "At x=3"
+    ],
+    "created_at": "2026-07-05T21:47:18.327075+00:00"
+},
+{
+    "id": 50785,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "1st ordered divided difference formula is defined as",
+    "op": [
+        "y[x0,x1]=(y1+y0)/(x1-x0)",
+        "None of the given choices",
+        "y[x0,x1]=(y1-y0)/(x1+x0)",
+        "y[x0,x1]=(y1-y0)/(x1-x0)"
+    ],
+    "created_at": "2026-07-05T22:56:38.42877+00:00"
+},
+{
+    "id": 50791,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "To take the derivative of f(x) = 2x in the interval [-3,3], which of the following partition of subintervals will be suitable?",
+    "op": [
+        "Unequally spaced",
+        "Equally spaced",
+        "Any arbitrary partition will work",
+        "Union of equally spaced and unequally spaced intervals."
+    ],
+    "created_at": "2026-07-05T22:57:26.235877+00:00"
+},
+{
+    "id": 50850,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $f(x) = 2{x^3} - 5{x^2} + 9x - 6$ , then its------derivative is zero for all x.",
+    "op": [
+        "4th",
+        "5th",
+        "2nd",
+        "3rd"
+    ],
+    "created_at": "2026-07-05T23:19:37.300354+00:00"
+},
+{
+    "id": 50853,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 3&{0.4}&{}&{} \\\\\\ 6&{0.9}&{0.1667}&{} \\\\\\ 9&{1.7}&{0.2667}&a \\end{array} \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "0.0254",
+        "0.0349",
+        "0.0211",
+        "0.0167"
+    ],
+    "created_at": "2026-07-05T23:20:04.45269+00:00"
+},
+{
+    "id": 50856,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Integration is a ………………process.",
+    "op": [
+        "None of the given choices",
+        "Subtracting",
+        "Summing",
+        "Dividing"
+    ],
+    "created_at": "2026-07-05T23:20:40.470914+00:00"
+},
+{
+    "id": 50928,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Geometrically, in Simpson’s 1/3 Rule, we find the area of -------- strip/strips at time under a curve of given function.",
+    "op": [
+        "one",
+        "two",
+        "five",
+        "three"
+    ],
+    "created_at": "2026-07-05T23:45:50.352322+00:00"
+},
+{
+    "id": 51064,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In the process of Numerical Differentiation, we differentiate an interpolating polynomial in place of ------------.",
+    "op": [
+        "actual function",
+        "Lagrange’s polynomial",
+        "Newton’s Divided Difference Interpolating polynomial",
+        "extrapolating polynomial"
+    ],
+    "created_at": "2026-07-06T00:16:12.150572+00:00"
+},
+{
+    "id": 51207,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let $$f(x,y) = 2{x^3} + 6{y^3} + 9xy$$ For x=0, 1,2,3,4, and y=0, 1,2,3,4 Then computing the value of f(2.5,3.5) is an example of .......",
+    "op": [
+        "Interpolation in one dimension",
+        "Interpolation in four dimensions",
+        "Interpolation in two dimensions",
+        "Interpolation in three dimensions"
+    ],
+    "created_at": "2026-07-06T00:48:59.077432+00:00"
+},
+{
+    "id": 51209,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Simpson’s rule, we assume that f(x) is continuous on [a, b] and we divide [a, b] into an ………… number n of subintervals of equal length.",
+    "op": [
+        "None of the given choices",
+        "Prime",
+        "Odd",
+        "Even"
+    ],
+    "created_at": "2026-07-06T00:49:34.391363+00:00"
+},
+{
+    "id": 51255,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Simpson’s 3/8 rule, the global error is of ………………",
+    "op": [
+        "O(h4)",
+        "None of the given choices",
+        "O(h3)",
+        "O(h2)"
+    ],
+    "created_at": "2026-07-06T00:55:23.896269+00:00"
+},
+{
+    "id": 51273,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Simpson’s 1/3 rule is based on fitting three points with a ………………",
+    "op": [
+        "Quadratic",
+        "Cubic"
+    ],
+    "created_at": "2026-07-06T01:01:04.395048+00:00"
+},
+{
+    "id": 51281,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Cote’s number (weighting coefficient) for the function: \nf(x) = x+1 in the interval [0,1]?",
+    "op": [
+        "-1/2",
+        "-3/2",
+        "3/2",
+        "1/2"
+    ],
+    "created_at": "2026-07-06T01:03:01.763054+00:00"
+},
+{
+    "id": 51288,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "In Simpson’s rule, we can estimate the integral by …………the areas under the parabolic arcs through three successive points.",
+    "op": [
+        "Subtracting",
+        "None of the given choices",
+        "Adding",
+        "Multiplying"
+    ],
+    "created_at": "2026-07-06T01:07:42.903202+00:00"
+},
+{
+    "id": 51794,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the Global Error for Trapezoidal’s Rule while integrating \nf(x) = x^2 in the interval of [0,2] of equally spaced subinterval of width h =1 and intermediate point x=1?",
+    "op": [
+        "-1/2",
+        "1/3",
+        "1/2",
+        "-1/3"
+    ],
+    "created_at": "2026-07-06T02:32:14.80753+00:00"
+},
+{
+    "id": 52157,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If f(x) = 2x, then which of the following is will be derivative of f(x) at x = 0.2?",
+    "op": [
+        "2",
+        "0.4",
+        "0.2",
+        "-2"
+    ],
+    "created_at": "2026-07-06T03:42:05.061935+00:00"
+},
+{
+    "id": 52175,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If y(x) is approximated by a polynomial ${P_n}(x)$ of degree n then the error is given by",
+    "op": [
+        "$$\\varepsilon (x) = y(x) - {P_n}(x)$$",
+        "$$\\varepsilon (x) = y(x)\\,\\, \\times \\,\\,{P_n}(x)$$",
+        "$$\\varepsilon (x) = y(x)\\,\\, \\div \\,\\,\\,{P_n}(x)$$",
+        "$$\\varepsilon (x) = y(x) + {P_n}(x)$$"
+    ],
+    "created_at": "2026-07-06T03:48:58.758256+00:00"
+},
+{
+    "id": 52177,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "At which of the following points the Minimum value of 2nd derivative of function \nf(x) = -(2/x) in the interval:[1,4] exits?",
+    "op": [
+        "At x=2",
+        "At x=3",
+        "At x=4",
+        "At x=1"
+    ],
+    "created_at": "2026-07-06T03:49:15.807553+00:00"
+},
+{
+    "id": 52182,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Simpson’s rule is a numerical method that approximates the value of a definite integral by using …………polynomials.",
+    "op": [
+        "Quadratic",
+        "None of the given choices",
+        "Linear",
+        "Cubic"
+    ],
+    "created_at": "2026-07-06T03:51:52.102459+00:00"
+},
+{
+    "id": 56542,
+    "cc": "MTH603",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "If [Math Processing Error]$f(x) = 2{x^3} - 5{x^2} + 9x - 6$ , then its------derivative is zero for all x.",
+    "op": [
+        "2nd",
+        "5th",
+        "4th",
+        "3rd"
+    ],
+    "created_at": "2026-07-07T10:26:02.821297+00:00"
+},
+{
+    "id": 72799,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\\\ 2&{0.5}&{0.3}&a&{} \\\\\\\\ 4&{1.1}&{0.3}&{ - 0.0125}&{ - 0.0021} \\\\\\\\ 6&{1.7}&{0.25}&{}&{} \\\\\\\\ 8&{2..2}&{}&{}&{} \\end{array} \\hfill \\\\\\\\ \\end{gathered}",
+    "op": [
+        "0.0612",
+        "0",
+        "0.0115",
+        "0.0893"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72800,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "To evaluate a definite integral of tabular function f(x), piecewise linear approximation led to ---------.",
+    "op": [
+        "Simpson’s 3/8 Rule",
+        "Trapezoidal Method",
+        "Romberg’s Method",
+        "Simpson’s 1/3 Rule"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72801,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{2.2}&{0.325}&{} \\\\\\ 6&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {10}&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "y = f(x) = 2.2 + (x - 2)(0.325) + (x - 2)((x - 6)( - 0.0219)",
+        "y = f(x) = 2.2 + (x - 6)(0.325) + (x - 12)((x - 6)( - 0.0219)",
+        "y = f(x) = 2.2 + (x - 12)(0.325) + (x - 6)((x - 2)( - 0.0219)",
+        "y = f(x) = 2.2 + (x - 2)((x - 6)(0.325) + (x - 2)( - 0.0219)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72802,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "While employing Trapezoidal and Simpson Rules to evaluate the double integral numerically, by using Trapezoidal and Simpson rule with respect to -------- variable/variables at time",
+    "op": [
+        "both",
+        "single"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72803,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,5),\\,(4,7),\\,and\\,(6,9),\\,the\\,{\\text{first}} - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "2",
+        "1",
+        "5",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72804,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Given the following data x:4 5 7 10 y:46 102 294 346 Value of 1st order divided difference f[5 , 7] is ",
+    "op": [
+        "94",
+        "96",
+        "91",
+        "92"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72807,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,giev\\,two\\,data\\,{\\text{point}}s\\,,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{} \\\\\\ y&{0.067}&{0.248}&{} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "one",
+        "two",
+        "four",
+        "three"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72808,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,following\\,data \\hfill \\\\ \\begin{array}{*{20}{c}} x&1&2&5&7&8 \\\\\\ y&{ - 5}&{10}&{20}&{22}&{24} \\end{array} \\hfill \\\\ the\\,polynomial\\,of\\,the\\,Lagrangens\\,interpolation\\,could\\,be \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "$ - \\frac{{1121}}{{80}}{x^5} + \\frac{{41}}{7}{x^3} - \\frac{{163}}{{40}}{x^2} + \\frac{{19}}{{81}}x - \\frac{3}{{10}}$",
+        "$\\frac{4}{{41}}{x^7} - \\frac{{43}}{7}{x^2} + \\frac{{65}}{{28}}x - \\frac{{186}}{5}$",
+        "$ - \\frac{{11}}{{280}}{x^4} + \\frac{{419}}{{420}}{x^3} - \\frac{{7603}}{{840}}{x^2} + \\frac{{15019}}{{420}}x - \\frac{{98}}{3}$",
+        "${x^6} - \\frac{1}{{56}}{x^5} + \\frac{{47}}{5}{x^4} - \\frac{{67}}{{90}}x + \\frac{2}{5}$"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72809,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "To evaluate numerically a double integral over a rectangular region bounded by the lines x = a, x =b, y = c, y = d we shall employ either trapezoidal rule or Simpson’s rule, repeatedly with respect to ………variable at a time.",
+    "op": [
+        "Three",
+        "One",
+        "None of the given choices",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72810,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,given\\,four\\,data\\,{\\text{point}}s,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9}&{1.0} \\\\\\ y&{0.067}&{0.248}&{0.518}&{0.6812} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "four",
+        "three",
+        "five",
+        "six"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72825,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,5),\\,(4,7),\\,and\\,(6,9),\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "5",
+        "2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72826,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,giev\\,three\\,data\\,{\\text{point}}s,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9} \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "y = f(x) = \\frac{{(x - 0.7)(x - 0.9)}}{{(0.3 - 0.7)(0.3 - 0.9)}}(0.067) + \\frac{{(x - 0.3)(x - 0.9)}}{{(0.7 - 0.3)(0.7 - 0.9)}}(0.248) + \\frac{{(x - 0.3)(x - 0.7)}}{{(0.9 - 0.3)(0.9 - 0.7)}}(0.518)",
+        "y = f(x) = \\frac{{(x - 0.7)(x - 0.9)}}{{(0.3 - 0.7)(0.3 - 0.9)}}(0.518) + \\frac{{(x - 0.3)(x - 0.9)}}{{(0.7 - 0.3)(0.7 - 0.9)}}(0.248) + \\frac{{(x - 0.3)(x - 0.7)}}{{(0.9 - 0.3)(0.9 - 0.7)}}(0.067)",
+        "y = f(x) = \\frac{{(x - 0.7)(x - 0.9)}}{{(0.3 - 0.7)(0.3 - 0.9)}}(0.067) + \\frac{{(x - 0.3)(x - 0.9)}}{{(0.7 - 0.3)(0.7 - 0.9)}}(0.518) + \\frac{{(x - 0.3)(x - 0.7)}}{{(0.9 - 0.3)(0.9 - 0.7)}}(0.248)",
+        "y = f(x) = \\frac{{(x - 0.7)(x - 0.9)}}{{(0.3 - 0.7)(0.3 - 0.9)}}(0.248) + \\frac{{(x - 0.3)(x - 0.9)}}{{(0.7 - 0.3)(0.7 - 0.9)}}(0.067) + \\frac{{(x - 0.3)(x - 0.7)}}{{(0.9 - 0.3)(0.9 - 0.7)}}(0.518)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72827,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,first - order\\,divide\\,difference\\,will\\,be\\,given\\,as",
+    "op": [
+        "y[{x_0},{x_1}]",
+        "y[{y_0},{y_1},{y_2}]",
+        "y[{x_0},{x_1},{x_2}]",
+        "y[{x_0}]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72828,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,45),\\,(5,104),\\,and\\,(6,190),\\,the\\,{\\text{zero}} - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "35",
+        "42",
+        "none",
+        "46"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72829,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": " x: 1 3 7 f(x): 1 4 9 f(3) Can be found using ",
+    "op": [
+        "Newton’s forward difference formula",
+        "Lagrange’s interpolation formula",
+        "None of the given choices",
+        "Newton’s backward difference formula"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72830,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,following\\,data \\hfill \\\\ \\begin{array}{*{20}{c}} x&1&2&5&7&8 \\\\\\ y&{ - 5}&{10}&{20}&{22}&{24} \\end{array} \\hfill \\\\ the\\,polynomial\\,of\\,the\\,Lagrangens\\,interpolation\\,could\\,be \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "{x^6} - \\frac{1}{{56}}{x^5} + \\frac{{47}}{5}{x^4} - \\frac{{67}}{{90}}x + \\frac{2}{5}",
+        "\\frac{4}{{41}}{x^7} - \\frac{{43}}{7}{x^2} + \\frac{{65}}{{28}}x - \\frac{{186}}{5}",
+        "- \\frac{{11}}{{280}}{x^4} + \\frac{{419}}{{420}}{x^3} - \\frac{{7603}}{{840}}{x^2} + \\frac{{15019}}{{420}}x - \\frac{{98}}{3}",
+        "- \\frac{{1121}}{{80}}{x^5} + \\frac{{41}}{7}{x^3} - \\frac{{163}}{{40}}{x^2} + \\frac{{19}}{{81}}x - \\frac{3}{{10}}"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72844,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Given the following data x:0 1 4 8 y:1 1 8 16 Value of 1st order divided difference f[4,8] is ",
+    "op": [
+        "2",
+        "8",
+        "4",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72845,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} Which\\,of\\,the\\,following\\,method\\,can\\,be\\,used\\,for\\,{\\text{interpolation}}\\,for\\,the\\,given\\,values\\,of\\,x\\,and\\,y? \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9} \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "Newton’s backward difference formula",
+        "Newton’s forward difference formula",
+        "Newton’s interpolation formula",
+        "Lagrange’s interpolation formula"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72846,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Trapezoidal rule of integration of a definite integral is of…………",
+    "op": [
+        "O(h3)",
+        "None of the given choices",
+        "O(h2)",
+        "O(h4)"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72847,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[The\\,first\\,divide\\,difference\\,y[{x_0},{x_1}]\\,can\\,be\\,given\\,as\\,\\]",
+    "op": [
+        "\\[\\frac{{{y_1} - {y_0}}}{{{x_1} - {x_0}}}\\]",
+        "All",
+        "\\[\\frac{{\\nabla {y_1}}}{h}\\]",
+        "\\[\\frac{{\\Delta {y_0}}}{h}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72849,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "What will be the value of first order divided difference f[1,5]for the following data x:0 1 5 y:2 1 5 ",
+    "op": [
+        "2",
+        "0",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72850,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Let f(x,y) = 2{x^3} + 6{y^3} + 9xy For x=0, 1,2,3,4, and y=0, 1,2,3,4 Then computing the value of f(2.5,3.5) is an example of ....... ",
+    "op": [
+        "Interpolation in three dimensions",
+        "Interpolation in two dimensions",
+        "Interpolation in four dimensions",
+        "Interpolation in one dimension"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72851,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "We can improve the accuracy of trapezoidal and Simpson’s rules using ……",
+    "op": [
+        "Simpson’s 1/3 rule",
+        "None of the given choices",
+        "Simpson’s 3/8 rule",
+        "Richardson’s extrapolation method"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72852,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "In Lagrange’s interpolation, for n values of y corresponding to n values of x, we can represent the function f (x) by a polynomial of degree",
+    "op": [
+        "n+1",
+        "n-1",
+        "n",
+        "n+2"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72853,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,0.3),\\,(4,1),\\,and\\,(6,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as",
+    "op": [
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.1}&{} \\\\\\ 4&1&{ - 0.0625}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.1}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.35}&{0.1} \\\\\\ 6&{1.2}&{}&{} \\end{array}"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72854,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Newton’s divided difference interpolation formula is used when the values of the independent variable are",
+    "op": [
+        "None",
+        "Equally spaced",
+        "Not equally spaced",
+        "Constant"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72855,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "In double integration, we keep one variable say x fixed and ……………",
+    "op": [
+        "Varying the other variable y",
+        "Reliable the other variable y"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72896,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Given the following data x:1 2 5 y:1 4 10 Value of 1st order divided difference f[2 , 5] is ",
+    "op": [
+        "2",
+        "1",
+        "0",
+        "-2"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72897,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": " Given the following data x: 1 3 -7 f(x): 3 -6 -2 Which formula is useful in finding the interpolating polynomial? ",
+    "op": [
+        "Newton’s backward difference formula",
+        "None of the given choices",
+        "Newton’s forward difference formula",
+        "Lagrange’s interpolation formula"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72899,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": " x: 1 3 7 10 f(x): -3 10 3 13 Which formula is useful in finding the interpolating polynomial? ",
+    "op": [
+        "Lagrange’s interpolation formula",
+        "(viii) None of the given choices",
+        "Newton’s backward difference formula",
+        "Newton’s forward difference formula"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72900,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Trapezoidal and Simpson’s integrations are just a linear combination of values of the\ngiven function at different values of the …………variable.",
+    "op": [
+        "Dependent",
+        "Independent",
+        "Arbitrary",
+        "None of the given choices"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72923,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If f(x) = 2{x^3} - 5{x^2} + 9x - 6 , then its------derivative is zero for all x.",
+    "op": [
+        "2nd",
+        "4th",
+        "5th",
+        "3rd"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72925,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} Which\\,of\\,the\\,following\\,method\\,can\\,be\\,used\\,for\\,{\\text{interpolation}}\\,for\\,the\\,given\\,values\\,of\\,x\\,and\\,y? \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9} \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "Newton’s interpolation formula",
+        "Newton’s forward difference formula",
+        "Lagrange’s interpolation formula",
+        "Newton’s backward difference formula"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72926,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,1.3),\\,(8,1.5),\\,and\\,(12,1.9)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as",
+    "op": [
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.05}&{} \\\\\\ 8&{1.5}&{0.1}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.0062}&{} \\\\\\ 8&{1.5}&{0.1}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.35}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.0062}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72960,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,first - order\\,divide\\,difference\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[y[{y_0},{y_1},{y_2}]\\]",
+        "\\[y[{x_0},{x_1}]\\]",
+        "\\[y[{x_0}]\\]",
+        "\\[y[{x_0},{x_1},{x_2}]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72961,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Given the following data x: 0 1 2 4 y: 1 1 2 6 Value of 1st order divided difference f[2,4] is ",
+    "op": [
+        "2",
+        "0",
+        "1",
+        "-2"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72963,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(1, - 3),\\,(2,0),\\,and\\,(3,15),\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "0",
+        "-1",
+        "-3",
+        "-2"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72967,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,45),\\,(5,104),\\,and\\,(6,190),\\,the\\,{\\text{first}} - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "82",
+        "59",
+        "76",
+        "none"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72994,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "In Lagrange’s interpolation, for the given five points we can represent the function f (x) by a polynomial of degree",
+    "op": [
+        "4",
+        "3",
+        "5",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72996,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "The\\,first\\,divide\\,difference\\,y[{x_0},{x_1}]\\,can\\,be\\,given\\,as\\,",
+    "op": [
+        "\\frac{{\\nabla {y_1}}}{h}",
+        "\\frac{{{y_1} - {y_0}}}{{{x_1} - {x_0}}}",
+        "\\frac{{\\Delta {y_0}}}{h}",
+        "All"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72998,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Let \\[f(x,y) = 2{x^3} + 6{y^3} + 9xy\\] For x=0, 1,2,3,4, and y=0, 1,2,3,4 Then computing the value of f(2.5,3.5) is an example of ....... ",
+    "op": [
+        "Interpolation in three dimensions",
+        "Interpolation in two dimensions",
+        "Interpolation in one dimension",
+        "Interpolation in four dimensions"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73000,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 1&{2.2}&{0.4333}&{} \\\\\\ 4&{3.5}&{0.2}&{ - 0.0389} \\\\\\ 7&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[y = f(x) = 2.2 + (x - 1)( - 0.0389) + (x - 1)((x - 4)(0.4333)\\]",
+        "\\[y = f(x) = - 0.0389 + (x - 1)(0.4333) + (x - 1)((x - 4)(2.2)\\]",
+        "\\[y = f(x) = 2.2 + (x - 1)(0.4333) + (x - 1)((x - 4)( - 0.0389)\\]",
+        "\\[y = f(x) = - 0.0389 + (x - 1)(2.2) + (x - 1)((x - 4)(0.4333)\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73001,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(1, - 3),\\,(2,0),\\,and\\,(3,15),\\,the\\,first - order\\,divide\\,difference\\,will\\,be\\,",
+    "op": [
+        "-2",
+        "3",
+        "2",
+        "-3"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73003,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,2.2),\\,(8,3.5),\\,and\\,(12,4.1)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.065} \\\\\\ {12}&{4.1}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0108} \\\\\\ {12}&{4.1}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.098} \\\\\\ {12}&{4.1}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {12}&{4.1}&{}&{} \\end{array}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73004,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "Lagrange’s interpolation formula is used when the values of the independent variable are",
+    "op": [
+        "Equally spaced",
+        "None",
+        "Constant",
+        "Not equally spaced"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73005,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "To evaluate a definite integral of tabular function f(x), piecewise quardratic approximation led to ---------",
+    "op": [
+        "Trapezoidal Method",
+        "Simpson’s Rule"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73006,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,5),\\,(4,7),\\,and\\,(6,9),\\,the\\,{\\text{first}} - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "1",
+        "0",
+        "5",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73007,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[y[{x_0}]\\]",
+        "\\[y[{y_0}]\\]",
+        "\\[y[{y_0},{y_1}]\\]",
+        "\\[y[{x_0},{x_1}]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73016,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,diffidence\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.7}&{0.25}&{0.025}&{} \\\\\\ 3&{1.2}&{0.35}&{ - 0.0625}&a \\\\\\ 5&{1.9}&{0.1}&{}&{} \\\\\\ 7&{2.1}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "-0.0146",
+        "-0.0387",
+        "-0.0021",
+        "-0.0245"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73018,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If y(x) is approximated by a polynomial {P_n}(x) of degree n then the error is given by ",
+    "op": [
+        "\\varepsilon (x) = y(x)\\,\\, \\div \\,\\,\\,{P_n}(x)",
+        "\\varepsilon (x) = y(x) - {P_n}(x)",
+        "\\varepsilon (x) = y(x) + {P_n}(x)",
+        "\\varepsilon (x) = y(x)\\,\\, \\times \\,\\,{P_n}(x)"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73019,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(1, - 3),\\,(2,0),\\,and\\,(3,15),\\,the\\,first - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "3",
+        "-2",
+        "-3",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73022,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If there are (n+2) values of y corresponding to (n+2) values of x, then we can represent the function f(x) by a polynomial of degree",
+    "op": [
+        "n+1",
+        "n+2",
+        "n-1",
+        "n"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73023,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "In Romberg’s method, accuracy of Simpson and Trapezoidal rules is improved by ---------.",
+    "op": [
+        "extrapolation",
+        "interpolation"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73025,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\delta \\,\\, = \\,\\, - - - -",
+    "op": [
+        "{E^{\\frac{1}{2}}}\\,\\, - \\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}",
+        "None",
+        "\\frac{{{E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}}}{2}",
+        "{E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73033,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\Delta = - - -",
+    "op": [
+        "\\frac{{E - 1}}{2}",
+        "1 - E",
+        "None",
+        "E\\,\\, - \\,\\,1"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73039,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,given\\,four\\,data\\,{\\text{point}}s,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9}&{1.0} \\\\\\ y&{0.067}&{0.248}&{0.518}&{0.6812} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "three",
+        "five",
+        "six",
+        "four"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73040,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,1.3),\\,(8,1.5),\\,and\\,(12,1.9)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.0062}&{} \\\\\\ 8&{1.5}&{0.1}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.05}&{} \\\\\\ 8&{1.5}&{0.1}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.0062}&{0.05} \\\\\\ {12}&{1.9}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{1.3}&{0.1}&{} \\\\\\ 8&{1.5}&{0.35}&{0.0062} \\\\\\ {12}&{1.9}&{}&{} \\end{array}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73043,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,diffidence\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.7}&{0.25}&{0.025}&{} \\\\\\ 3&{1.2}&{0.35}&{ - 0.0625}&a \\\\\\ 5&{1.9}&{0.1}&{}&{} \\\\\\ 7&{2.1}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "-0.0146",
+        "-0.0245",
+        "-0.0387",
+        "-0.0021"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73044,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "$\\delta \\,\\, = \\,\\, - - - - $",
+    "op": [
+        "$\\frac{{{E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}}}{2}$",
+        "None",
+        "\\[{E^{\\frac{1}{2}}}\\,\\, - \\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}\\]",
+        "${E^{\\frac{1}{2}}}\\,\\, + \\,\\,\\,{E^{ - \\,\\,\\,\\,\\frac{1}{2}}}$"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73048,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[If\\,only\\,two\\,data\\,{\\text{point}}s\\,are\\,given,\\,the\\,formula\\,for\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,will\\,be\\]",
+    "op": [
+        "\\[y = f(x) = \\frac{{(x - {x_1})}}{{({x_0} - {x_1})}}{y_0} + \\frac{{(x - {x_0})}}{{({x_1} - {x_0})}}{y_1}\\]",
+        "\\[y = f(x) = \\frac{{(x - {x_0})}}{{({x_1} - {x_0})}}{y_0} + \\frac{{(x - {x_1})}}{{({x_0} - {x_1})}}{y_1}\\]",
+        "\\[y = f(x) = \\frac{{({x_1} - {x_0})}}{{(x - {x_0})}}{y_0} + \\frac{{({x_0} - {x_1})}}{{(x - {x_1})}}{y_1}\\]",
+        "\\[y = f(x) = \\frac{{(x - {x_0})}}{{({x_0} - {x_1})}}{y_0} + \\frac{{(x - {x_1})}}{{({x_1} - {x_0})}}{y_1}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73052,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,{\\text{second}} - order\\,divide\\,difference\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[y[{x_0},{x_1},{x_2},{x_3}]\\]",
+        "\\[y[{x_0},{x_1}]\\]",
+        "\\[y[{x_0},{x_1},{x_2}]\\]",
+        "\\[y[{x_0}]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73057,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,giev\\,two\\,data\\,{\\text{point}}s\\,,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{} \\\\\\ y&{0.067}&{0.248}&{} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "three",
+        "two",
+        "one",
+        "four"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73075,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,{\\text{second}} - order\\,divide\\,difference\\,will\\,be\\,given\\,as",
+    "op": [
+        "y[{x_0},{x_1}]",
+        "y[{x_0}]",
+        "y[{x_0},{x_1},{x_2},{x_3}]",
+        "y[{x_0},{x_1},{x_2}]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73077,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 3&{0.4}&{}&{} \\\\\\ 6&{0.9}&{0.1667}&{} \\\\\\ 9&{1.7}&{0.2667}&a \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "0.0211",
+        "0.0254",
+        "0.0167",
+        "0.0349"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73078,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(1,0.3),\\,(3,1),\\,and\\,(5,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as",
+    "op": [
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.525} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.125} \\\\\\ 6&{1.2}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.225} \\\\\\ 6&{1.2}&{}&{} \\end{array}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73098,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[If\\,any\\,three\\,data\\,{\\text{point}}s\\,are\\,given,\\,the\\,formula\\,for\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,will\\,be\\]",
+    "op": [
+        "\\[y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_0} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_2}\\]",
+        "\\[y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_0} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_2}\\]",
+        "\\[y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_2} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_0}\\]",
+        "\\[y = f(x) = \\frac{{({x_0} - {x_1})({x_0} - {x_2})}}{{(x - {x_1})(x - {x_2})}}{y_0} + \\frac{{({x_1} - {x_0})({x_1} - {x_2})}}{{(x - {x_0})(x - {x_2})}}{y_1} + \\frac{{({x_2} - {x_0})({x_2} - {x_1})}}{{(x - {x_0})(x - {x_1})}}{y_2}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73100,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,45),\\,(5,104),\\,and\\,(6,190),\\,the\\,{\\text{zero}} - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "42",
+        "none",
+        "35",
+        "46"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73107,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(1, - 3),\\,(2,0),\\,and\\,(3,15),\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "0",
+        "-2",
+        "-3",
+        "-1"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73108,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If\\,any\\,three\\,data\\,{\\text{point}}s\\,are\\,given,\\,the\\,formula\\,for\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,will\\,be",
+    "op": [
+        "y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_2} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_0}",
+        "y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_0} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_2}",
+        "y = f(x) = \\frac{{({x_0} - {x_1})({x_0} - {x_2})}}{{(x - {x_1})(x - {x_2})}}{y_0} + \\frac{{({x_1} - {x_0})({x_1} - {x_2})}}{{(x - {x_0})(x - {x_2})}}{y_1} + \\frac{{({x_2} - {x_0})({x_2} - {x_1})}}{{(x - {x_0})(x - {x_1})}}{y_2}",
+        "y = f(x) = \\frac{{(x - {x_1})(x - {x_2})}}{{({x_0} - {x_1})({x_0} - {x_2})}}{y_0} + \\frac{{(x - {x_0})(x - {x_2})}}{{({x_1} - {x_0})({x_1} - {x_2})}}{y_1} + \\frac{{(x - {x_0})(x - {x_1})}}{{({x_2} - {x_0})({x_2} - {x_1})}}{y_2}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73109,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.4}&{0.25}&{0.0375}&{ - 0.0104} \\\\\\ 3&{0.9}&{0.4}&a&{} \\\\\\ 5&{1.7}&{0.3}&{}&{} \\\\\\ 7&{2.3}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "-0.0109",
+        "-0.025",
+        "-0.0012",
+        "-0.0343"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73111,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,45),\\,(5,104),\\,and\\,(6,190),\\,the\\,{\\text{first}} - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "none",
+        "59",
+        "82",
+        "76"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73112,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,giev\\,three\\,data\\,{\\text{point}}s,\\,the\\,{\\text{degree}}\\,of\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,could\\,be \\hfill \\\\ \\begin{array}{*{20}{c}} x&{0.3}&{0.7}&{0.9} \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "Four",
+        "Three",
+        "Five",
+        "Two"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73113,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\ 1&{0.4}&{0.25}&{0.0375}&{ - 0.0104} \\\\\\ 3&{0.9}&{0.4}&a&{} \\\\\\ 5&{1.7}&{0.3}&{}&{} \\\\\\ 7&{2.3}&{}&{}&{} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "-0.0109",
+        "-0.0012",
+        "-0.0343",
+        "-0.025"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73114,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If\\,only\\,two\\,data\\,{\\text{point}}s\\,are\\,given,\\,the\\,formula\\,for\\,Lagrange's\\,{\\text{interpolation}}\\,polynomial\\,will\\,be",
+    "op": [
+        "y = f(x) = \\frac{{(x - {x_0})}}{{({x_1} - {x_0})}}{y_0} + \\frac{{(x - {x_1})}}{{({x_0} - {x_1})}}{y_1}",
+        "y = f(x) = \\frac{{(x - {x_1})}}{{({x_0} - {x_1})}}{y_0} + \\frac{{(x - {x_0})}}{{({x_1} - {x_0})}}{y_1}",
+        "y = f(x) = \\frac{{(x - {x_0})}}{{({x_0} - {x_1})}}{y_0} + \\frac{{(x - {x_1})}}{{({x_1} - {x_0})}}{y_1}",
+        "y = f(x) = \\frac{{({x_1} - {x_0})}}{{(x - {x_0})}}{y_0} + \\frac{{({x_0} - {x_1})}}{{(x - {x_1})}}{y_1}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73120,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 1&{2.2}&{0.4333}&{} \\\\\\ 4&{3.5}&{0.2}&{ - 0.0389} \\\\\\ 7&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "y = f(x) = - 0.0389 + (x - 1)(2.2) + (x - 1)((x - 4)(0.4333)",
+        "y = f(x) = - 0.0389 + (x - 1)(0.4333) + (x - 1)((x - 4)(2.2)",
+        "y = f(x) = 2.2 + (x - 1)(0.4333) + (x - 1)((x - 4)( - 0.0389)",
+        "y = f(x) = 2.2 + (x - 1)( - 0.0389) + (x - 1)((x - 4)(0.4333)"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73121,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,({x_{0,}}{y_0}),\\,({x_1}{y_1}),\\,({x_2}{y_2}),\\,and\\,({x_{3,}}{y_3})\\,\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,given\\,as",
+    "op": [
+        "y[{y_0}]",
+        "y[{x_0},{x_1}]",
+        "y[{y_0},{y_1}]",
+        "y[{x_0}]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73122,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(1,0.3),\\,(3,1),\\,and\\,(5,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.125} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.225} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.525} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73130,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D}&{3rdD.D} \\\\\\\\ 2&{0.5}&{0.3}&a&{} \\\\\\\\ 4&{1.1}&{0.3}&{ - 0.0125}&{ - 0.0021} \\\\\\\\ 6&{1.7}&{0.25}&{}&{} \\\\\\\\ 8&{2..2}&{}&{}&{} \\end{array} \\hfill \\\\\\\\ \\end{gathered} \\]",
+    "op": [
+        "0.0893",
+        "0.0612",
+        "0.0115",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73131,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "If any ten data points are given,the degree of Lagrange's interpolation polynomial could be",
+    "op": [
+        "eleven",
+        "twelve",
+        "nine",
+        "ten"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73155,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\Delta = - - - \\]",
+    "op": [
+        "$E\\,\\, - \\,\\,1$",
+        "$1 - E$",
+        "\\[\\frac{{E - 1}}{2}\\]",
+        "None"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73156,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\begin{gathered} Which\\,of\\,the\\,following\\,method\\,can\\,be\\,used\\,for\\,{\\text{interpolation}}\\,for\\,the\\,given\\,values\\,of\\,x\\,and\\,y? \\hfill \\\\ \\begin{array}{*{20}{c}} x&3&4&6 \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "Lagrange’s interpolation formula",
+        "Newton’s backward difference formula",
+        "Newton’s forward difference formula",
+        "Newton’s interpolation formula"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73167,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} What\\,will\\,be\\,the\\,value\\,of\\,'a'\\,in\\,the\\,given\\,divide\\,difference\\,table? \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 3&{0.4}&{}&{} \\\\\\ 6&{0.9}&{0.1667}&{} \\\\\\ 9&{1.7}&{0.2667}&a \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "0.0349",
+        "0.0254",
+        "0.0167",
+        "0.0211"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73168,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,0.3),\\,(4,1),\\,and\\,(6,1.2)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as\\]",
+    "op": [
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.1}&{} \\\\\\ 4&1&{ - 0.0625}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{0.35}&{} \\\\\\ 4&1&{0.1}&{ - 0.0625} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.1}&{0.35} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]",
+        "\\[\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{0.3}&{ - 0.0625}&{} \\\\\\ 4&1&{0.35}&{0.1} \\\\\\ 6&{1.2}&{}&{} \\end{array}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73172,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[For\\,the\\,given\\,data\\,{\\text{points}}\\,(2,5),\\,(4,7),\\,and\\,(6,9),\\,the\\,zero - order\\,divide\\,difference\\,will\\,be\\,\\]",
+    "op": [
+        "2",
+        "5",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73175,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} Which\\,of\\,the\\,following\\,method\\,can\\,be\\,used\\,for\\,{\\text{interpolation}}\\,for\\,the\\,given\\,values\\,of\\,x\\,and\\,y? \\hfill \\\\ \\begin{array}{*{20}{c}} x&3&4&6 \\\\\\ y&{0.067}&{0.248}&{0.518} \\end{array} \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "Newton’s forward difference formula",
+        "Lagrange’s interpolation formula",
+        "Newton’s interpolation formula",
+        "Newton’s backward difference formula"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73191,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "06 January 2026",
+    "qt": "\\[\\begin{gathered} For\\,the\\,given\\,divide\\,difference\\,table \\hfill \\\\ \\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 2&{2.2}&{0.325}&{} \\\\\\ 6&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {10}&{4.1}&{}&{} \\end{array} \\hfill \\\\ the\\,Newton's\\,divide\\,difference\\,\\,{\\text{interpolation}}\\,formula\\,will\\,be \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "\\[y = f(x) = 2.2 + (x - 6)(0.325) + (x - 12)((x - 6)( - 0.0219)\\]",
+        "\\[y = f(x) = 2.2 + (x - 2)(0.325) + (x - 2)((x - 6)( - 0.0219)\\]",
+        "\\[y = f(x) = 2.2 + (x - 2)((x - 6)(0.325) + (x - 2)( - 0.0219)\\]",
+        "\\[y = f(x) = 2.2 + (x - 12)(0.325) + (x - 6)((x - 2)( - 0.0219)\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73276,
+    "cc": "MTH603",
+    "qn": "03",
+    "dt": "07 January 2026",
+    "qt": "For\\,the\\,given\\,data\\,{\\text{points}}\\,(4,2.2),\\,(8,3.5),\\,and\\,(12,4.1)\\,\\,the\\,divide\\,difference\\,table\\,will\\,be\\,given\\,as",
+    "op": [
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.098} \\\\\\ {12}&{4.1}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0108} \\\\\\ {12}&{4.1}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.0219} \\\\\\ {12}&{4.1}&{}&{} \\end{array}",
+        "\\begin{array}{*{20}{c}} x&y&{1stD.D}&{2ndD.D} \\\\\\ 4&{2.2}&{0.325}&{} \\\\\\ 8&{3.5}&{0.15}&{ - 0.065} \\\\\\ {12}&{4.1}&{}&{} \\end{array}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+}
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "id": 39532,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The domain of $y = \\arccos x$ is........",
+        "op": [
+            "$\\left[ {0,\\infty } \\right]$",
+            "$\\left[ { - 1,1} \\right]$",
+            "$\\left[ { - \\infty ,0} \\right]$",
+            "$\\left[ {0,1} \\right]$"
+        ],
+        "created_at": "2026-07-03T06:51:31.107075+00:00"
+    },
+    {
+        "id": 39535,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Equation of a circle centered at (0,-5) and radius $\\sqrt 8$ is .......",
+        "op": [
+            "${x^2} + {(y + 5)^2} = 8$",
+            "${x^2} + {(y - 5)^2} = 64$",
+            "${x^2} - {(y + 5)^2} = 8$",
+            "${x^2} + {(y + 5)^2} = 64$"
+        ],
+        "created_at": "2026-07-03T06:53:11.692663+00:00"
+    },
+    {
+        "id": 39536,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$\\cos ( - \\theta ) = ......$",
+        "op": [
+            "$- \\cos \\theta$",
+            "$sec(\\theta )$",
+            "$\\cos \\theta$",
+            "$- \\cos ( - \\theta )$"
+        ],
+        "created_at": "2026-07-03T06:53:46.311461+00:00"
+    },
+    {
+        "id": 39537,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The amplitude of the function y=9cosx is…………",
+        "op": [
+            "9",
+            "-9",
+            "-3",
+            "3"
+        ],
+        "created_at": "2026-07-03T06:54:06.387769+00:00"
+    },
+    {
+        "id": 39538,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The value of $\\cos ({120^ \\circ })$ is same as the value of ......",
+        "op": [
+            "$\\cos {180^ \\circ }$",
+            "$- \\cos {60^ \\circ }$",
+            "$- \\cos {120^ \\circ }$",
+            "$\\cos {60^ \\circ }$"
+        ],
+        "created_at": "2026-07-03T06:54:20.857712+00:00"
+    },
+    {
+        "id": 39539,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$tan \\theta$ negative in the second and the ______ quadrant.",
+        "op": [
+            "Fourth",
+            "Third",
+            "Second",
+            "First"
+        ],
+        "created_at": "2026-07-03T06:54:55.97759+00:00"
+    },
+    {
+        "id": 39541,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Which of the following equations represents a tangent function with a period that is 0.25π radians?",
+        "op": [
+            "f(x)=4tan(x)−15",
+            "f(x)=tan(0.25x)",
+            "f(x)=3tan(4x)−15",
+            "f(x)=0.25tan(x)"
+        ],
+        "created_at": "2026-07-03T06:55:52.088693+00:00"
+    },
+    {
+        "id": 58812,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A Bar chart which represents continuous data is called",
+        "op": [
+            "a pie chart",
+            "a discrete chart",
+            "None of these",
+            "a histogram"
+        ],
+        "created_at": "2026-07-08T16:36:42.391124+00:00"
+    },
+    {
+        "id": 58813,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Write the standard form of the equation of the circle with radius 6 and centre (-3, 0).",
+        "op": [
+            "$${(x + 3)^2} + {y^2} = 36$$",
+            "$${(x - 3)^2} + {y^2} = 36$$",
+            "$${x^2} + {(y + 3)^2} = 6$$",
+            "$${x^2} + {(y - 3)^2} = 6$$"
+        ],
+        "created_at": "2026-07-08T16:36:51.694775+00:00"
+    },
+    {
+        "id": 58815,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The equation ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0 represents a circle, the condition will be",
+        "op": [
+            "a = b and h = 0",
+            "a = b and c = 0",
+            "f = g and h = 0",
+            "f = g and c = 0"
+        ],
+        "created_at": "2026-07-08T16:37:19.786672+00:00"
+    },
+    {
+        "id": 58816,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In descriptive statistics, we study",
+        "op": [
+            "The methods for organizing, displaying and describing data",
+            "The description of the decision-making process.",
+            "none of the above",
+            "How to describe the probability distribution"
+        ],
+        "created_at": "2026-07-08T16:37:27.584527+00:00"
+    },
+    {
+        "id": 58817,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The variables whose calculation is done according to the height, length, and weight are categorized as",
+        "op": [
+            "Discrete Variables",
+            "Measuring Variables",
+            "Continuous Variables",
+            "Flowchart Variables"
+        ],
+        "created_at": "2026-07-08T16:37:36.114693+00:00"
+    },
+    {
+        "id": 58818,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If a variable cannot take a numerical value then the variable is called",
+        "op": [
+            "constant variable",
+            "discrete variable",
+            "continuous variable",
+            "qualitative variable"
+        ],
+        "created_at": "2026-07-08T16:37:43.816743+00:00"
+    },
+    {
+        "id": 58820,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The equation  of a vertical line passing through the point (1,2) is",
+        "op": [
+            "y = 2",
+            "y = 1",
+            "x = 2",
+            "x = 1"
+        ],
+        "created_at": "2026-07-08T16:37:51.483362+00:00"
+    },
+    {
+        "id": 58822,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which branch of statistics deals with the techniques that are used to organize, summarize, and present the data:",
+        "op": [
+            "Probability statistics",
+            "Advanced statistics",
+            "Bayesian statistics",
+            "Descriptive statistics"
+        ],
+        "created_at": "2026-07-08T16:38:23.836147+00:00"
+    },
+    {
+        "id": 58823,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The centre of a circle lies in_____________ of the circle.",
+        "op": [
+            "none of these",
+            "exterior",
+            "interior",
+            "boundary"
+        ],
+        "created_at": "2026-07-08T16:38:36.028102+00:00"
+    },
+    {
+        "id": 58824,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Graphical and numerical methods are specialized process utilized in",
+        "op": [
+            "Social Statistics",
+            "Business Statistics",
+            "Descriptive Statistics",
+            "Education Statistics"
+        ],
+        "created_at": "2026-07-08T16:38:43.176003+00:00"
+    },
+    {
+        "id": 72331,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\tan (\\theta + \\pi )=",
+        "op": [
+            "- \\tan \\theta",
+            "\\cot \\theta",
+            "\\tan \\theta",
+            "\\sec \\theta"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72332,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "In the cosine function, the minimum value of ______ is taken when \\theta = \\pm {180^ \\circ }\\,,\\, \\pm {540^ \\circ } and so on.",
+        "op": [
+            "1",
+            "0",
+            "-0.5",
+            "-1"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72333,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "tan \\theta negative in the second and the ______ quadrant.",
+        "op": [
+            "Second",
+            "Fourth",
+            "Third",
+            "First"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72334,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "1 + {\\cot ^2}\\theta =",
+        "op": [
+            "{\\sec ^2}\\theta",
+            "{\\csc ^2}\\theta",
+            "{\\sec ^2}\\theta",
+            "{\\tan ^2}\\theta"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72335,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[\\cos 2A = \\_\\_\\_\\_\\_\\,.\\]",
+        "op": [
+            "\\[2{\\cos ^2}A - 1\\]",
+            "\\[2\\sin A\\,\\,\\cos A\\]",
+            "\\[{\\cos ^2}A + {\\sin ^2}A\\]",
+            "\\[1 - {\\cos ^2}A\\]"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72336,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "cos\\theta is positive in the _______ and the fourth quadrant.",
+        "op": [
+            "Third",
+            "Second",
+            "First",
+            "fourth"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72337,
+        "cc": "MTH102",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\cos (180 - \\theta ) = \\_\\_\\_\\_\\_.",
+        "op": [
+            "\\sin \\theta",
+            "cos\\theta",
+            "- \\sin \\theta",
+            "- cos\\theta"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72626,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Find the center (h, k) and radius r of the circle with the given equation. \\[{x^2} - 16x + 64 + {(y + 3)^2} = 49\\]",
+        "op": [
+            "(h, k) = (8, -3); r = 7",
+            "(h, k) = (-3, 8); r = 7",
+            "(h, k) = (-8, 3); r = 49",
+            "(h, k) = (3, -8); r = 49"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72628,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The equation  of a horizontal line passing through the point (0,0) is",
+        "op": [
+            "x-1 = 0",
+            "y = 0",
+            "none of the above",
+            "x = 0"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72630,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Write the standard form of the equation of the circle with radius 11 and centre (0, 6).",
+        "op": [
+            "\\[{(x + 6)^2} + {y^2} = 121\\]",
+            "\\[{x^2} + {(y - 6)^2} = 121\\]",
+            "\\[{x^2} + {(y + 6)^2} = 11\\]",
+            "\\[{(x - 6)^2} + {y^2} = 121\\]"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72631,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The first hand and unorganized form of data is called",
+        "op": [
+            "None of these",
+            "Organized data",
+            "Secondary data",
+            "Primary data"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72632,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The equation of a vertical line passing through the point (0, 0) is",
+        "op": [
+            "none of the above",
+            "x = 0",
+            "y = 0",
+            "x-1=0"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72633,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "In inferential statistics, we study",
+        "op": [
+            "The methods to make decisions about the population based on sample results",
+            "none of the above",
+            "How to make decisions about mean, median, or mode",
+            "How a sample is obtained from a population"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72634,
+        "cc": "MTH102",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The number of accidents in a city during 2020 is",
+        "op": [
+            "constant",
+            "Qualitative variable",
+            "Continuous variable",
+            "Discrete variable"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    }
+]

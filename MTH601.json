@@ -1,0 +1,3608 @@
+[
+{
+    "id": 23263,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a LP by Simplex method, which of the following corresponds to corner points of the feasible region in Graphical method?",
+    "op": [
+        "basic feasible solution",
+        "non-negative solutions",
+        "non-basic feasible solution",
+        "non-feasible solution"
+    ],
+    "created_at": "2026-06-28T19:03:13.30498+00:00"
+},
+{
+    "id": 23267,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving an LP problem by the Simplex method, in the standard table, the element at the intersection of key column and key row is called ------------- element.",
+    "op": [
+        "Slack",
+        "Entering",
+        "Leaving",
+        "Pivot"
+    ],
+    "created_at": "2026-06-28T19:03:20.015682+00:00"
+},
+{
+    "id": 23276,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The variants of the simplex method cannot be identified through numerical examples.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:03:31.029254+00:00"
+},
+{
+    "id": 23284,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables, then in a given iteration, how many Basic feasible VARIABLES are possible to exists?",
+    "op": [
+        "2",
+        "4",
+        "10",
+        "6"
+    ],
+    "created_at": "2026-06-28T19:03:38.715145+00:00"
+},
+{
+    "id": 23290,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which method is also known as the Charnes method of penalty in the artificial variable technique?",
+    "op": [
+        "Penalty Method",
+        "Big Method",
+        "Two Phase Method",
+        "Slack Variable Method"
+    ],
+    "created_at": "2026-06-28T19:03:48.038864+00:00"
+},
+{
+    "id": 23295,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a Linear Programming problem by Simplex Method, an inequality says:‘2x-3y>5’ is transformed into strict equality of the form---------, where ‘s>=0’",
+    "op": [
+        "2x-3y +s + A=5",
+        "2x-3y –s +A =5",
+        "2x-3y –s =5",
+        "2x-3y +s =5"
+    ],
+    "created_at": "2026-06-28T19:03:56.681606+00:00"
+},
+{
+    "id": 23303,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The straight line associated with the constraint:2x+3y <12, will meet y-axis at a distance of-------- units from origin.",
+    "op": [
+        "4",
+        "6",
+        "3",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:04:11.895894+00:00"
+},
+{
+    "id": 23323,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "How can a minimization problem can be converted into maximization problem?",
+    "op": [
+        "By multiplying each coefficient in the objective function by-1",
+        "By negating the constraints",
+        "By introducing slack variables",
+        "By including artificial variables"
+    ],
+    "created_at": "2026-06-28T19:04:41.57042+00:00"
+},
+{
+    "id": 23327,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The inequality $3x - 2y \\geq 14$ is equivalent to______.",
+    "op": [
+        "$3x - 2y < - 14$",
+        "$- 3x + 2y > 14$",
+        "$3x - 2y \\leq 14$",
+        "$- 3x + 2y \\leq - 14$"
+    ],
+    "created_at": "2026-06-28T19:04:47.432765+00:00"
+},
+{
+    "id": 24284,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In two phase method if the minimum value of objective function in the first phase is zero, then the solution of original problem _____________.",
+    "op": [
+        "is uncertain",
+        "does not exists",
+        "exists",
+        "non of these"
+    ],
+    "created_at": "2026-06-28T19:32:25.688628+00:00"
+},
+{
+    "id": 24297,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If an artificial variable is not included while converting a constraint of type:’>=’ into equation, then we will have -------- solution.",
+    "op": [
+        "feasible",
+        "non-degenerate",
+        "infeasible",
+        "degenerate"
+    ],
+    "created_at": "2026-06-28T19:32:58.392868+00:00"
+},
+{
+    "id": 24303,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If the point (t,6) lies in the feasible region associated with constraint:2x+3y<=12, then the maximum value of ‘t’ would be----------.",
+    "op": [
+        "-4",
+        "-3",
+        "-1",
+        "0"
+    ],
+    "created_at": "2026-06-28T19:33:24.916867+00:00"
+},
+{
+    "id": 24308,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method to solve an LP problem of minimization, if at the end of iteration, every entry of objective function row is negative then the given problem -------------.",
+    "op": [
+        "has no solution",
+        "has been minimized",
+        "needs further improvement",
+        "can not be optimized"
+    ],
+    "created_at": "2026-06-28T19:33:32.114877+00:00"
+},
+{
+    "id": 24310,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "To remove artificial variable(s) from the objective function, we have  __________ method(s).",
+    "op": [
+        "simplex",
+        "both b and c",
+        "Two Phase",
+        "Big M"
+    ],
+    "created_at": "2026-06-28T19:33:41.073615+00:00"
+},
+{
+    "id": 24316,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method to solve an LP problem of maximization, if at the end of an iteration, there is a negative coefficient in the objective row then the given problem---------.",
+    "op": [
+        "has been maximized",
+        "needs further improvement",
+        "has no solution",
+        "cant be optimized"
+    ],
+    "created_at": "2026-06-28T19:33:48.716224+00:00"
+},
+{
+    "id": 24321,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "$${\\text{Minimizing}}\\,\\,{\\text{any}}\\,\\,{\\text{function}}\\,f({x_1},{x_2},{x_3},......,{x_n})\\,{\\text{subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}\\,\\,{\\text{is}}\\,\\,{\\text{equivalent}}\\,{\\text{to}}\\,{\\text{maximizing _________ subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{same}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}{\\text{.}}$$",
+    "op": [
+        "$$f( - {x_1},{x_2},{x_3},......,{x_n})$$",
+        "$$f({x_1}, - {x_2},{x_3},......,{x_n})$$",
+        "$$- f({x_1},{x_2},{x_3},......,{x_n})$$",
+        "$$f( - {x_1}, - {x_2}, - {x_3},......, - {x_n})$$"
+    ],
+    "created_at": "2026-06-28T19:33:56.925406+00:00"
+},
+{
+    "id": 24327,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While applying Simplex method to a LP of maximization type, we proceed stepwise from one basic feasible solution to another in such a way that the objective function always ---------- its value.",
+    "op": [
+        "increases",
+        "oscillates",
+        "decreases",
+        "does not change"
+    ],
+    "created_at": "2026-06-28T19:34:08.379799+00:00"
+},
+{
+    "id": 24332,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a LP problem by Simplex method in a given iteration, the new basic variable is ---------- and the variable remove from the basis is called ---------.",
+    "op": [
+        "(feasible, infeasible)",
+        "(infeasible, feasible)",
+        "(leaving, entering)",
+        "(entering, leaving)"
+    ],
+    "created_at": "2026-06-28T19:34:17.294928+00:00"
+},
+{
+    "id": 24372,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If initial basic solution is -----------, while solving an LP problem then no further iteration can be performed.",
+    "op": [
+        "feasible",
+        "non-degenerate",
+        "infeasible",
+        "degenerate"
+    ],
+    "created_at": "2026-06-28T19:35:49.291272+00:00"
+},
+{
+    "id": 24376,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In an LP problem, to evaluate the basic variables in Simplex method, which of the following method is used?",
+    "op": [
+        "Gauss Elimination method",
+        "Gauss-Seidel method",
+        "Gauss Least Square method",
+        "Gauss-Jordan method"
+    ],
+    "created_at": "2026-06-28T19:36:02.828184+00:00"
+},
+{
+    "id": 24383,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Shortcoming of Big M method is that the value of M  could be ____________.",
+    "op": [
+        "negative",
+        "very large",
+        "positive",
+        "very small"
+    ],
+    "created_at": "2026-06-28T19:36:19.504973+00:00"
+},
+{
+    "id": 24393,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While applying Simplex method to a LP of minimization type, we proceed stepwise from one -------------solution to another in such a way that the objective function always increases its value.",
+    "op": [
+        "non-basic feasible",
+        "basic feasible",
+        "optimal",
+        "degenerate"
+    ],
+    "created_at": "2026-06-28T19:36:42.076847+00:00"
+},
+{
+    "id": 24401,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For $Z = 4 x_1 + x_2$ subject to $3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_2 \\geq 15$, we have ___________ variables.",
+    "op": [
+        "six",
+        "one slack",
+        "three objective",
+        "two artificial"
+    ],
+    "created_at": "2026-06-28T19:36:52.820402+00:00"
+},
+{
+    "id": 24404,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Big M technique is used if the initial basic solution obtained using slack variables is _______.",
+    "op": [
+        "inconsistent",
+        "feasible",
+        "optimal",
+        "infeasible"
+    ],
+    "created_at": "2026-06-28T19:37:03.404521+00:00"
+},
+{
+    "id": 24408,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables. If the initial basic feasible solution is  say;(2,4,1,2), then it is ----------  solution.",
+    "op": [
+        "degenerate infeasible",
+        "non-degenerate infeasible",
+        "degenerate feasible",
+        "non-degenerate feasible"
+    ],
+    "created_at": "2026-06-28T19:37:14.218769+00:00"
+},
+{
+    "id": 24413,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving an LP problem by Simplex method, the inclusion of slacks in the constraints’ inequalities helps in finding ------------- variables.",
+    "op": [
+        "artificial",
+        "non-basic",
+        "basic",
+        "decision"
+    ],
+    "created_at": "2026-06-28T19:37:30.91748+00:00"
+},
+{
+    "id": 24417,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In a feasible region, if the end points of the line segment are basic solutions, then all the points between these two will ------------.",
+    "op": [
+        "be non basic",
+        "be optimal",
+        "also be the basic",
+        "be infeasible"
+    ],
+    "created_at": "2026-06-28T19:37:39.517912+00:00"
+},
+{
+    "id": 24653,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Convex set is the collection of all -------------.",
+    "op": [
+        "feasible solutions",
+        "optimal solutions",
+        "non-feasible solutions",
+        "negative solutions"
+    ],
+    "created_at": "2026-06-28T19:59:04.263957+00:00"
+},
+{
+    "id": 24654,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a Linear programming problem, we find -------------number of basic feasible solution.",
+    "op": [
+        "odd",
+        "infinite",
+        "only finite",
+        "even"
+    ],
+    "created_at": "2026-06-28T19:59:11.316957+00:00"
+},
+{
+    "id": 24655,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "An optimal solution of a Linear Programming problem is necessarily a Basic feasible solution.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-28T19:59:19.131595+00:00"
+},
+{
+    "id": 24656,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is true about the inclusion of non-negative slack variable into a constraint of type ‘less than or equal’?",
+    "op": [
+        "Inequality is transformed into type: ‘greater than or equal’",
+        "Inequality is transformed into strict equality constraint",
+        "This inclusion doest not affect the inequality",
+        "Inequality become redundant and hence skips from the LP problem."
+    ],
+    "created_at": "2026-06-28T19:59:26.680572+00:00"
+},
+{
+    "id": 24658,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By Simplex method, to minimize ‘Z = 9x–2y’of an LP problem, if ‘z=A>0’ for the initial iteration then for its next improved solution(0<A<100), which of the following would be the next entering variable?",
+    "op": [
+        "y<0",
+        "x<0",
+        "y>0",
+        "x>0"
+    ],
+    "created_at": "2026-06-28T19:59:33.544075+00:00"
+},
+{
+    "id": 24659,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By Simplex method, to minimize ‘Z = 2x+9y’of an LP problem, if ‘z=A>0’ for the initial iteration then for its next improved solution(0<A<100), which of the following would be the next entering variable?",
+    "op": [
+        "x>0",
+        "y<0",
+        "y>0",
+        "x<0"
+    ],
+    "created_at": "2026-06-28T19:59:41.911563+00:00"
+},
+{
+    "id": 24664,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables. Then how many Combinations of Basic feasible Solutions may possible?",
+    "op": [
+        "10",
+        "15",
+        "24",
+        "2"
+    ],
+    "created_at": "2026-06-28T20:00:05.666548+00:00"
+},
+{
+    "id": 24716,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "A Linear Programming problem may not have any feasible solution.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T20:06:51.306538+00:00"
+},
+{
+    "id": 24718,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Which of the following order pair would minimize the objective function of the linear programming problem; $z = x + 5 y$ subject to $x \\geq 2 , y \\geq 0$ ?",
+    "op": [
+        "(2,0)",
+        "(2,3)",
+        "(0,0)",
+        "(0,3)"
+    ],
+    "created_at": "2026-06-28T20:06:57.520741+00:00"
+},
+{
+    "id": 24720,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If the optimum solution of a Linear Programming problem is finitely unique and then its corresponding objective function must have------------ maximum or minimum.",
+    "op": [
+        "NO",
+        "infinite",
+        "finite",
+        "arbitrary"
+    ],
+    "created_at": "2026-06-28T20:07:06.424297+00:00"
+},
+{
+    "id": 24721,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If any or all of the artificial variables do not leave the basis in the final solution, then this indicates that the problem _________ .",
+    "op": [
+        "may have a solution",
+        "non of these",
+        "does not have a solution",
+        "must have a solution"
+    ],
+    "created_at": "2026-06-28T20:07:12.679179+00:00"
+},
+{
+    "id": 24722,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method to solve an LP problem of maximization, if at the end of iteration, every entry of objective function row is positive then the given problem------------.",
+    "op": [
+        "has no solution",
+        "can not be optimized",
+        "needs further improvement",
+        "has been maximized"
+    ],
+    "created_at": "2026-06-28T20:07:21.930771+00:00"
+},
+{
+    "id": 24724,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables. If the initial basic feasible solution is say;(2,4,1,2), then its corresponding non-basic solution is---------.",
+    "op": [
+        "(2,2)",
+        "(0,0)",
+        "(-4,-2)",
+        "(1,2)"
+    ],
+    "created_at": "2026-06-28T20:07:31.053304+00:00"
+},
+{
+    "id": 24777,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In two phase method process, first phase ____________ the sum of artificial variables.",
+    "op": [
+        "non of these",
+        "maximize",
+        "minimize",
+        "maximize or minimize depending on the situation"
+    ],
+    "created_at": "2026-06-28T20:14:18.326065+00:00"
+},
+{
+    "id": 24781,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Simplex method can only be applied to problems with two decision variables.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T20:14:29.355049+00:00"
+},
+{
+    "id": 24782,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Simplex standard table to solve an LP problem of Maximization, we choose the candidate for entering variable in-------.",
+    "op": [
+        "Constraint with most negative coefficient",
+        "Objective function with most positive coefficient",
+        "Objective function with most negative coefficient",
+        "Constraint with most positive coefficient"
+    ],
+    "created_at": "2026-06-28T20:14:37.004301+00:00"
+},
+{
+    "id": 24785,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method, if all the elements in columns of the ratio by taking the RHS of each row and dividing by the corresponding element of the key column, are equal, the situation is known as ----------",
+    "op": [
+        "Non-degeneracy",
+        "Tie",
+        "Degeneracy",
+        "Unboundedness"
+    ],
+    "created_at": "2026-06-28T20:14:45.471815+00:00"
+},
+{
+    "id": 24788,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Simplex Standard table to solve an LP problem, if the ratio by taking the RHS of each row and dividing by the corresponding element of the key column is {2/3,5,1/3, -1/2}, then which of the following variable will be leaving?",
+    "op": [
+        "Variable corresponding to ‘1/3'",
+        "Variable corresponding to ‘2/3’",
+        "Variable corresponding to ‘5’",
+        "Variable corresponding to ‘-1/2’"
+    ],
+    "created_at": "2026-06-28T20:14:54.0583+00:00"
+},
+{
+    "id": 24791,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If the point (6,t) lies in the feasible region associated with constraint:2x+3y>=12, then minimum value of ‘t’ would be----------.",
+    "op": [
+        "0",
+        "4",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-06-28T20:15:06.066608+00:00"
+},
+{
+    "id": 24794,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For a LP problem say;Max:z=x+y,under the constraints x,y>=0, the feasible region would be--------.",
+    "op": [
+        "all the first quadrant",
+        "point(0,0)",
+        "all xy-plane",
+        "empty"
+    ],
+    "created_at": "2026-06-28T20:15:14.84911+00:00"
+},
+{
+    "id": 24942,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The role of artificial variables in the 'Big M' technique is to _______________.",
+    "op": [
+        "optimize resource allocation",
+        "maximize the objective function",
+        "ensure feasibility of the initial basic solution",
+        "minimize the objective function"
+    ],
+    "created_at": "2026-06-28T20:41:10.344122+00:00"
+},
+{
+    "id": 24943,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In two phase method if the minimum value of objective function in the first phase is greater than zero, then the solution of original problem _____________.",
+    "op": [
+        "non of these",
+        "exists",
+        "is uncertain",
+        "does not exists"
+    ],
+    "created_at": "2026-06-28T20:41:48.981382+00:00"
+},
+{
+    "id": 24947,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While applying Simplex method to a LP of minimization type, we proceed stepwise from one basic feasible solution to another in such a way that the objective function always ---------- its value.",
+    "op": [
+        "increases",
+        "oscillate",
+        "does not change",
+        "decreases"
+    ],
+    "created_at": "2026-06-28T20:42:26.733938+00:00"
+},
+{
+    "id": 24952,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By which of the following method, any complex linear programming problem can be handled?",
+    "op": [
+        "Dual method",
+        "Degenerate method",
+        "Simplex method",
+        "Graphical method"
+    ],
+    "created_at": "2026-06-28T20:43:55.024771+00:00"
+},
+{
+    "id": 25118,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The solution set of the constraint: 2x+3y>12, will lie in --------- bisected by the line:2x+3y=12.",
+    "op": [
+        "both half planes",
+        "opposite to the origin side in half plane",
+        "first quadrant only",
+        "origin side of half plane"
+    ],
+    "created_at": "2026-06-28T21:41:45.017445+00:00"
+},
+{
+    "id": 25119,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a Linear Programming problem by Simplex Method, an inequality constraint is transformed into strict equality by the inclusion of ---------- variable.",
+    "op": [
+        "basic",
+        "decision",
+        "slack",
+        "artificial"
+    ],
+    "created_at": "2026-06-28T21:41:51.681918+00:00"
+},
+{
+    "id": 25123,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The Simplex method is a-------------- for solving Linear Programming problem.",
+    "op": [
+        "computational procedure(Algorithm)",
+        "graphical procedure",
+        "probabilistic procedure",
+        "analytical procedure"
+    ],
+    "created_at": "2026-06-28T21:42:09.763691+00:00"
+},
+{
+    "id": 25124,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a Linear Programming problem by Simplex method, we convert all the constraints'inequalities into------------.",
+    "op": [
+        "nothing but keep those strictly the same",
+        "Equations with positive RHS",
+        "opposite inequalities",
+        "Equations with negative RHS"
+    ],
+    "created_at": "2026-06-28T21:42:20.628036+00:00"
+},
+{
+    "id": 25524,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In linear programming, cycling occurs when the algorithm repeatedly follows the same sequence of iterations without converging to an optimal solution.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-29T01:22:48.438076+00:00"
+},
+{
+    "id": 25548,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Simplex method to solve an LP problem, Gauss Jordan Elimination method demands that all the key column entries should be zero except-----.",
+    "op": [
+        "1st row entry",
+        "last row entry",
+        "row with maximum ratio on RHS column",
+        "key row(pivot)entry"
+    ],
+    "created_at": "2026-06-29T01:53:15.815529+00:00"
+},
+{
+    "id": 25549,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By Simplex method, to maximize ‘Z = 2x +9y’of an LP problem, if ‘z=0’ for the initial iteration then for its next improved solution, which of the following would be the next entering variable?",
+    "op": [
+        "x>0",
+        "x<0",
+        "y<0",
+        "y>0"
+    ],
+    "created_at": "2026-06-29T01:53:38.504767+00:00"
+},
+{
+    "id": 25552,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "By Simplex method, to maximize ‘Z = 2x–9y’of an LP problem, if ‘z=0’ for the initial iteration then for its next improved solution, which of the following would be the next entering variable?",
+    "op": [
+        "x<0",
+        "y<0",
+        "x>0",
+        "y>0"
+    ],
+    "created_at": "2026-06-29T01:53:50.919129+00:00"
+},
+{
+    "id": 25555,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Solution region of the constraints: ‘2x+3y>12’ and ‘2x+3y<12’ will be the---------.",
+    "op": [
+        "straight line:2x+3y=12",
+        "empty set",
+        "point(6,4)",
+        "all first quadrant"
+    ],
+    "created_at": "2026-06-29T01:54:23.186143+00:00"
+},
+{
+    "id": 25557,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The solution set of the constraint: 2x+3y<12, will lie in --------- bisected by the line:2x+3y=12.",
+    "op": [
+        "first quadrant only",
+        "opposite to the origin side in half plane",
+        "origin side of half plane",
+        "both half planes"
+    ],
+    "created_at": "2026-06-29T01:54:50.737713+00:00"
+},
+{
+    "id": 25559,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When we have $\\geq$ type constraints, then we convert it to equality constraints by introducing _______ variable(s) and solve it by __________ method.",
+    "op": [
+        "slack, Big M",
+        "artificial and slack, Big M or Two phase",
+        "artificial, Big M",
+        "artificial, Two phase"
+    ],
+    "created_at": "2026-06-29T01:55:03.221557+00:00"
+},
+{
+    "id": 25748,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "$$Minimizing\\,\\,\\,Z = 4{x_1} + 2{x_2} + {x_3}\\,\\,is\\,\\,equivalent\\,\\,to\\,\\,\\max imizing\\,\\,Z = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$- 4{x_1} - 2{x_2} - {x_3}$$",
+        "$$- 4{x_1} + 2{x_2} + {x_3}$$",
+        "$$- 4{x_1} - 2{x_2} + {x_3}$$",
+        "$$- 4{x_1} + 2{x_2} - {x_3}$$"
+    ],
+    "created_at": "2026-06-29T02:45:12.158563+00:00"
+},
+{
+    "id": 25750,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables, then in a given iteration, how many Infeasible VARIABLES are possible to exists?",
+    "op": [
+        "6",
+        "4",
+        "10",
+        "2"
+    ],
+    "created_at": "2026-06-29T02:45:36.456246+00:00"
+},
+{
+    "id": 25779,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When ___________ fail to provide an initial basic feasible solution in the simplex method, we use the Big M Method.",
+    "op": [
+        "objective function",
+        "artificial variables",
+        "slack variables",
+        "pivot variable"
+    ],
+    "created_at": "2026-06-29T02:57:07.075906+00:00"
+},
+{
+    "id": 25780,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In Simplex standard table to solve an LP problem of Minimization, we choose the candidate for entering variable in-----------.",
+    "op": [
+        "Objective function with most negative coefficient",
+        "Objective function with most positive coefficient",
+        "Constraint with most positive coefficient",
+        "Constraint with most negative coefficient"
+    ],
+    "created_at": "2026-06-29T02:57:44.485632+00:00"
+},
+{
+    "id": 25782,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Once an LP problem is converted to a table, then calculation steps would be same for _____________ method(s).",
+    "op": [
+        "Big M",
+        "Two phase",
+        "simplex",
+        "all of above"
+    ],
+    "created_at": "2026-06-29T02:58:47.438879+00:00"
+},
+{
+    "id": 25909,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving a Linear Programming problem by Simplex Method, an inequality says:‘2x-3y<5’ is transformed into strict equality of the form---------, where ‘s>=0’.",
+    "op": [
+        "2x-3y –s +A =5",
+        "2x-3y –s =5",
+        "2x-3y +s =5",
+        "2x-3y +s + A=5"
+    ],
+    "created_at": "2026-06-29T03:26:03.386636+00:00"
+},
+{
+    "id": 25910,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The cost coefficient of artificial variable in Objective function is -------------.",
+    "op": [
+        "0",
+        "1",
+        "M",
+        "> than 1"
+    ],
+    "created_at": "2026-06-29T03:26:20.852111+00:00"
+},
+{
+    "id": 25912,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For $Z = 4 x_1 + x_2$ subject to $3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_ 2 \\geq 15$, we have ___________ variables.",
+    "op": [
+        "six",
+        "three objective",
+        "one artificial",
+        "two slack"
+    ],
+    "created_at": "2026-06-29T03:26:36.440287+00:00"
+},
+{
+    "id": 25913,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "After converting constraints into the respective Standard equalities, we have an LP problem of ‘4’ equations in ‘6’ variables, if the initial basic feasible solution is say;(2,4,0,2), then it is ----------  solution.",
+    "op": [
+        "non-degenerate infeasible",
+        "degenerate feasible",
+        "non-degenerate feasible",
+        "degenerate infeasible"
+    ],
+    "created_at": "2026-06-29T03:26:45.001016+00:00"
+},
+{
+    "id": 25915,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In an LP problem, to evaluate the basic variables in Simplex method in any iteration, we would have to express Objective function in terms of ------------- variables.",
+    "op": [
+        "Artificial",
+        "Basic",
+        "Non-basic",
+        "Slack"
+    ],
+    "created_at": "2026-06-29T03:28:45.294843+00:00"
+},
+{
+    "id": 25929,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The purpose of phase 1 in the two phase method is to ________ .",
+    "op": [
+        "to maximize the objective function",
+        "to introduce slack variables",
+        "to minimize the sum of artificial variables",
+        "to minimize the objective function"
+    ],
+    "created_at": "2026-06-29T03:35:39.962105+00:00"
+},
+{
+    "id": 25946,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "While solving an LP problem by Simplex method, if we have ‘3’ constraint equations in ‘5’ variables then to find basic variables we have to put any ------- variables equal to zero.",
+    "op": [
+        "2",
+        "4",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-06-29T03:38:30.712654+00:00"
+},
+{
+    "id": 25979,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In graphical solution of solving Linear Programming problem to convert inequalities into\nequations, we ----------------.",
+    "op": [
+        "use Artificial surplus variables",
+        "use Slack variables",
+        "use Surplus variables",
+        "simply assume them to be equations"
+    ],
+    "created_at": "2026-06-29T03:46:35.428168+00:00"
+},
+{
+    "id": 26014,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The straight line associated with the constraint;2x+3y<12,will meet x-axis at a distance of-------- units from origin.",
+    "op": [
+        "3",
+        "6",
+        "2",
+        "4"
+    ],
+    "created_at": "2026-06-29T03:55:31.952228+00:00"
+},
+{
+    "id": 26040,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "Solution region of the constraints: 2x+3y>12 or 6x+9y=36, will be the half plane bisected by ‘2x+3y=12’, ----------- all the points on ‘2x+3y=12’.",
+    "op": [
+        "excluding",
+        "including"
+    ],
+    "created_at": "2026-06-29T04:07:11.90479+00:00"
+},
+{
+    "id": 26123,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The positive slack variables indicate -----------------.",
+    "op": [
+        "excess resource available",
+        "nil resources",
+        "shortage of resources",
+        "idle(waste) resource"
+    ],
+    "created_at": "2026-06-29T04:25:38.459698+00:00"
+},
+{
+    "id": 26145,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "If in a LP problem, the objective is to maximize: z = 2x+3y, with all associated constraints of ‘=<’ type, then in the 1st iteration, z = ---------.",
+    "op": [
+        "6",
+        "0",
+        "5",
+        "1"
+    ],
+    "created_at": "2026-06-29T04:29:16.138295+00:00"
+},
+{
+    "id": 26147,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "For a LP say;‘Min:z = x+y’ under the constraints x,y>=0, the optimal solution would be--------.",
+    "op": [
+        "point(0,0)",
+        "all xy-plane",
+        "empty set",
+        "all the first quadrant"
+    ],
+    "created_at": "2026-06-29T04:29:34.115348+00:00"
+},
+{
+    "id": 26174,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Two Phase Method the objective of Phase 2 is to _____________.",
+    "op": [
+        "maximize the original objective function",
+        "maximize the artificial variables",
+        "find the optimum basic solution for the original problem",
+        "minimize the original objective function"
+    ],
+    "created_at": "2026-06-29T04:44:35.746919+00:00"
+},
+{
+    "id": 26175,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method to solve an LP problem of minimization, if at the end of iteration, there is a positive coefficient in the objective row then the given problem -------------.",
+    "op": [
+        "has been maximized",
+        "needs further improvement",
+        "can not be optimized",
+        "has no solution"
+    ],
+    "created_at": "2026-06-29T04:45:07.746957+00:00"
+},
+{
+    "id": 26185,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "The first step in the 'Big M' technique is ________________.",
+    "op": [
+        "identifying the objective function coefficients",
+        "introducing artificial variables for constraints involving “≥”",
+        "None of these",
+        "expressing the linear programming problem in equation form"
+    ],
+    "created_at": "2026-06-29T04:49:08.646864+00:00"
+},
+{
+    "id": 26218,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When using Big M method, the objective function should not contain __________ variable(s).",
+    "op": [
+        "slack",
+        "$x_1$",
+        "artificial and slack",
+        "artificial"
+    ],
+    "created_at": "2026-06-29T04:59:12.119095+00:00"
+},
+{
+    "id": 26309,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "In the Simplex method to solve an LP problem, Gauss Jordan Elimination method demands that all the key column's entries should be --------- except key row(pivot) entry.",
+    "op": [
+        "zero",
+        "strictly positive",
+        "maximum or minimum",
+        "strictly negative"
+    ],
+    "created_at": "2026-06-29T05:27:26.276887+00:00"
+},
+{
+    "id": 26407,
+    "cc": "MTH601",
+    "qn": "03",
+    "dt": "29 June 2026",
+    "qt": "When constraints are of greater than or equal to type, then we ______________.",
+    "op": [
+        "non of these",
+        "both of these",
+        "subtract slack variable and add artificial variable",
+        "add slack variable and subtract artificial varialbe"
+    ],
+    "created_at": "2026-06-29T05:51:52.296874+00:00"
+},
+{
+    "id": 30665,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the following will be annual optimum cost of a product if the number of annual orders WITHOUT any shortage is 25 and the total cost of one cycle is 10,000?",
+    "op": [
+        "Rs. 10025",
+        "Rs.400",
+        "Rs. 250000",
+        "Rs.9975"
+    ],
+    "created_at": "2026-06-30T17:43:44.558656+00:00"
+},
+{
+    "id": 30666,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "When we have to manage a project with available resources, we have the option of resource leveling. Here the resources availability is less than the maximum resources required for an activity, then it is feasible to divert the resources to -------------.",
+    "op": [
+        "head or tail activities",
+        "critical activities",
+        "dummy activities",
+        "non-critical activities"
+    ],
+    "created_at": "2026-06-30T17:43:59.120551+00:00"
+},
+{
+    "id": 30667,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the fiollowing is an intermediate step to model a linear programming problem?",
+    "op": [
+        "Identify the non-negative restrictions and constraints",
+        "None of these",
+        "Identify the objective function",
+        "Identify the unknown decision variables"
+    ],
+    "created_at": "2026-06-30T17:44:08.29448+00:00"
+},
+{
+    "id": 30668,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "In the ABC analysis, the items are classified into three categories with respect their--------------.",
+    "op": [
+        "mark up value",
+        "cost value",
+        "demand value",
+        "turn over value"
+    ],
+    "created_at": "2026-06-30T17:44:21.728285+00:00"
+},
+{
+    "id": 30669,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "In Wilson’s model, Total cost = ------------",
+    "op": [
+        "Item cost + holding cost + shortage cost + set up cost",
+        "Item cost + holding cost + shortage cost",
+        "Item cost + set up cost + holding cost",
+        "Holding cost + shortage cost + set up cost"
+    ],
+    "created_at": "2026-06-30T17:44:34.260432+00:00"
+},
+{
+    "id": 30670,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the following would be the objective of the yield per minute in a chemical process which depends upon the temperature ‘x’ and pressure ‘y’?",
+    "op": [
+        "Inflection",
+        "Average",
+        "Maximization",
+        "Minimization"
+    ],
+    "created_at": "2026-06-30T17:44:42.46783+00:00"
+},
+{
+    "id": 30671,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the following can NOT be considered to include in shortage cost?",
+    "op": [
+        "Cost of lost sales",
+        "Cost of expediting",
+        "Loss of goodwill of customers due to delay",
+        "Overtime expenses"
+    ],
+    "created_at": "2026-06-30T17:44:52.081987+00:00"
+},
+{
+    "id": 30672,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "If the economic order quantity and the annual demand of a product are 2500 and 5000 units respectively, then WITHOUT any shortage the number of orders are ----------.",
+    "op": [
+        "02",
+        "30",
+        "125",
+        "500"
+    ],
+    "created_at": "2026-06-30T17:45:01.371219+00:00"
+},
+{
+    "id": 30673,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the following technique to solve the network flow diagrams, is event oriented?",
+    "op": [
+        "Programme Evaluation and Review Technique",
+        "Critical Path Method"
+    ],
+    "created_at": "2026-06-30T17:45:10.660379+00:00"
+},
+{
+    "id": 30674,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "30 June 2026",
+    "qt": "Which of the following cost for an item is independent of the quantity ordered or produced?",
+    "op": [
+        "Item cost",
+        "Shortage Cost",
+        "Inventory holding cost",
+        "Set-up cost"
+    ],
+    "created_at": "2026-06-30T17:45:18.793572+00:00"
+},
+{
+    "id": 36536,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If the decision variables in primal problem are nonnegative then decision variables in dual are negative.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:00:30.482551+00:00"
+},
+{
+    "id": 36537,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In the NWC method, which cell is chosen for allocation initially?",
+    "op": [
+        "Bottom right corner",
+        "Top right corner",
+        "Top left corner (Northwest Corner)",
+        "Bottom left corner"
+    ],
+    "created_at": "2026-07-01T19:00:51.166041+00:00"
+},
+{
+    "id": 36540,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which method is expected to give a better initial solution among NWC, LCM, and VAM?",
+    "op": [
+        "NWC",
+        "All methods provide similar initial solutions",
+        "VAM",
+        "LCM"
+    ],
+    "created_at": "2026-07-01T19:01:13.685511+00:00"
+},
+{
+    "id": 36549,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In the LCM, what is done if the minimum cost is not unique?",
+    "op": [
+        "Increase the cost arbitrarily",
+        "Choose the next least cost",
+        "Break the tie arbitrarily",
+        "Repeat the process with a new table"
+    ],
+    "created_at": "2026-07-01T19:01:37.278007+00:00"
+},
+{
+    "id": 36555,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "A balanced transportation model with ‘5’number of  sources and ‘7’ destinations has -------- number of constraint equations.",
+    "op": [
+        "12",
+        "10",
+        "2",
+        "35"
+    ],
+    "created_at": "2026-07-01T19:01:58.893376+00:00"
+},
+{
+    "id": 36561,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If a variable in the Primal is unrestricted in sign, then the corresponding constraint in the dual will be of -------- type and vice versa.",
+    "op": [
+        "=",
+        "<=",
+        ">=",
+        "none of these"
+    ],
+    "created_at": "2026-07-01T19:02:19.79688+00:00"
+},
+{
+    "id": 36564,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Due to which of the following reason, Simplex method is not preferred to solve a Transportation problem?",
+    "op": [
+        "Since Transportation problem does not contain positive slacks",
+        "Since it contains large number of decision variables ‘xij’s’ so that it becomes complicated",
+        "Since Transportation problem contains constraints of ‘=’ type",
+        "Since Transportation problem does not contain negative slacks"
+    ],
+    "created_at": "2026-07-01T19:02:38.830768+00:00"
+},
+{
+    "id": 36595,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In North West Corner method, the first step after choosing the appropriate cell in 1st row, we allocate -------------so that the capacity of first row or first column is exhausted.",
+    "op": [
+        "any arbitrary quantity",
+        "as much as possible",
+        "non- negative quantity",
+        "as least as possible"
+    ],
+    "created_at": "2026-07-01T19:04:10.86679+00:00"
+},
+{
+    "id": 36613,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The number of variables in the Primal will be the number of -------- in Dual and vice versa.",
+    "op": [
+        "constraints",
+        "slacks",
+        "variables also",
+        "artificial variables"
+    ],
+    "created_at": "2026-07-01T19:04:37.51276+00:00"
+},
+{
+    "id": 36628,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The Transportation and Transshipment Models are types of ---------------- models.",
+    "op": [
+        "Variation",
+        "Allocation",
+        "Inventory",
+        "Network"
+    ],
+    "created_at": "2026-07-01T19:04:57.087773+00:00"
+},
+{
+    "id": 36872,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is Vogel's Approximation Method (VAM) based on?",
+    "op": [
+        "Greedy strategy",
+        "Calculating penalties for wrong allocations",
+        "Considering only the maximum feasible amount",
+        "Random allocation of resources"
+    ],
+    "created_at": "2026-07-01T19:30:40.001086+00:00"
+},
+{
+    "id": 36874,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The objective of a transportation problem is to develop an ----------- transportation schedule that meets all demand from given stock at a ------- total shipping cost.",
+    "op": [
+        "(integral, minimum)",
+        "(fractional, maximum)",
+        "(fractional, minimum)",
+        "(integral, maximum)"
+    ],
+    "created_at": "2026-07-01T19:30:50.395624+00:00"
+},
+{
+    "id": 36876,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In the Vogel’s approximation Method for solving a Transportation problem, Penalty measure for any row or column, is given by which of the following?",
+    "op": [
+        "Difference between the smallest unit cost to the next smallest cost in the same row(column)",
+        "Difference between the largest unit cost to the next largest cost in the same row(column)",
+        "Difference between the Largest unit cost to the smallest unit cost in the came row(column)",
+        "Difference between any two arbitrary costs in the came row(column)"
+    ],
+    "created_at": "2026-07-01T19:30:58.793267+00:00"
+},
+{
+    "id": 36878,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In North West Corner method, in the first row and first column, available resource and sink contain ‘5’  and ‘7’ units respectively; then which of the following amount ‘x11’ will be allocated in the cell (1,1)?",
+    "op": [
+        "Average(5,7) = 6",
+        "Min(5,7-5)  = 2",
+        "Min(5,7) = 5",
+        "Max(5,7) = 7"
+    ],
+    "created_at": "2026-07-01T19:31:20.762908+00:00"
+},
+{
+    "id": 36879,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If an LP problem contains large number of constraints and a smaller number of variables then which of the following will reduce the computational burden in finding its solution?",
+    "op": [
+        "Duality principle",
+        "Two phase method",
+        "Graphical method",
+        "M-method"
+    ],
+    "created_at": "2026-07-01T19:31:32.365274+00:00"
+},
+{
+    "id": 36880,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Under which of the following condition in the North West Corner Method, after first allocation in cell (1,1), next allocation along the diagonal in cell (2,2) can be made?",
+    "op": [
+        "If in the first row and first column, each resource and sink contain equal units",
+        "Total Supply = Total Demand",
+        "No such condition exist",
+        "If Total Supply is not equal to Total Demand"
+    ],
+    "created_at": "2026-07-01T19:32:11.845065+00:00"
+},
+{
+    "id": 36925,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The amounts shipped from a dummy source represent shortages at the receiving destinations",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T20:04:36.125385+00:00"
+},
+{
+    "id": 36926,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Primal of a dual is-----.",
+    "op": [
+        "Primal",
+        "Prime primal",
+        "Dual",
+        "Prime dual"
+    ],
+    "created_at": "2026-07-01T20:04:50.434264+00:00"
+},
+{
+    "id": 36927,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Primal of a Primal is-------.",
+    "op": [
+        "Prima primal",
+        "dual primal",
+        "Primal",
+        "Dual"
+    ],
+    "created_at": "2026-07-01T20:05:11.604123+00:00"
+},
+{
+    "id": 36928,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is the significance of selecting the row or column with the largest penalty in VAM?",
+    "op": [
+        "It prioritizes the allocation to minimize penalties",
+        "It denotes the final allocation step",
+        "It represents the maximum supply or demand",
+        "It indicates the highest transportation cost"
+    ],
+    "created_at": "2026-07-01T20:05:30.677016+00:00"
+},
+{
+    "id": 36929,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The Transportation Problem is one of the sub-class of -------------.",
+    "op": [
+        "Network Flow Problem",
+        "Linear Programming Problem",
+        "Stochastic Problem",
+        "Inventory Control Problem"
+    ],
+    "created_at": "2026-07-01T20:05:54.589766+00:00"
+},
+{
+    "id": 36930,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In a Transportation problem, which of the following are taken as the coefficients of unknown “$x_{ij}$'s” ?",
+    "op": [
+        "Ones",
+        "Any arbitrary non-negative integer",
+        "Zeros",
+        "Zeros or ones"
+    ],
+    "created_at": "2026-07-01T20:06:33.536481+00:00"
+},
+{
+    "id": 36931,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Dual of a Dual of Dual is------.",
+    "op": [
+        "Primal",
+        "Single dual",
+        "Dual",
+        "Double dual"
+    ],
+    "created_at": "2026-07-01T20:07:00.351996+00:00"
+},
+{
+    "id": 36932,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is done with the row/column after an allocation is made in the LCM?",
+    "op": [
+        "Adjust the demand at the destination",
+        "Increase the cost of transportation",
+        "Retain the row/column for future allocations",
+        "Eliminate the row/column"
+    ],
+    "created_at": "2026-07-01T20:07:09.632557+00:00"
+},
+{
+    "id": 36933,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In transportation models, what does the decision variable xij typically represent?",
+    "op": [
+        "The total demand at warehouse j.",
+        "The cost of transporting one unit from factory i to warehouse j.",
+        "The quantity of goods transported from factory i to warehouse j.",
+        "The total production capacity at factory i."
+    ],
+    "created_at": "2026-07-01T20:07:19.275738+00:00"
+},
+{
+    "id": 36973,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For an unbalanced Transportation problem, if the total demand is LESS than total supply then which of the following is true in order to balance the problem?",
+    "op": [
+        "A dummy source would have to include with supply equal to shortage",
+        "A dummy sink would have to include with demand equal to the surplus",
+        "One constraint will have to add",
+        "One constraint will have evacuate"
+    ],
+    "created_at": "2026-07-01T20:34:09.569203+00:00"
+},
+{
+    "id": 36975,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For North West Corner method, in the first row and first column, each source and sink contain ‘5’ units ; then after allocating the appropriate amount ‘x11’ in the cell (1,1), we will move towards which of the following cell?",
+    "op": [
+        "Arbitrarily either towards (1,2) or (2,1)",
+        "Towards (1,2) if 1st row contains more occupied cells than 2nd row",
+        "Neither towards (1,2) nor (2,1) but move diagonally towards (2,2)",
+        "Towards (2,1) if 2nd row contains more occupied cells than 1st row"
+    ],
+    "created_at": "2026-07-01T20:34:25.282098+00:00"
+},
+{
+    "id": 36977,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which of the following Method is comparatively little complex to solve a Transportation problem?",
+    "op": [
+        "Hungarian’s Method",
+        "North West Corner Method",
+        "Least Cost Method",
+        "Vogel’s approximation Method"
+    ],
+    "created_at": "2026-07-01T20:34:35.068651+00:00"
+},
+{
+    "id": 36980,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is the purpose of Vogel's Approximation Method (VAM) in solving transportation problems?",
+    "op": [
+        "To maximize total demand",
+        "To ignore unit costs of transportation",
+        "To find a promising initial basic feasible solution",
+        "To minimize total supply"
+    ],
+    "created_at": "2026-07-01T20:34:47.927235+00:00"
+},
+{
+    "id": 36981,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For North West Corner method, in the first row and first column, resource and sink contain ‘5’ and ‘7’ units respectively; then after allocating the appropriate amount ‘x11’ in the cell (1,1), we will move towards which of the following cell?",
+    "op": [
+        "(2,1)",
+        "(2,2)",
+        "(5,2)",
+        "(1,2)"
+    ],
+    "created_at": "2026-07-01T20:34:53.910782+00:00"
+},
+{
+    "id": 36982,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For an unbalanced Transportation problem, if the total demand is MORE than total supply then which of the following is true in order to balance the problem?",
+    "op": [
+        "A dummy sink would have to include with demand equal to the surplus",
+        "One constraint will have evacuate",
+        "One constraint will have to add",
+        "A dummy source would have to include with supply equal to shortage"
+    ],
+    "created_at": "2026-07-01T20:35:00.947809+00:00"
+},
+{
+    "id": 36986,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Why do we use specialized algorithms for transportation problems instead of the simplex method?",
+    "op": [
+        "Transportation models are too complex.",
+        "Specialized algorithms are more efficient.",
+        "The simplex method cannot handle equality constraints.",
+        "The simplex method is used for maximization only."
+    ],
+    "created_at": "2026-07-01T20:35:18.126942+00:00"
+},
+{
+    "id": 36991,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In the Least Cost Method, for any cell both demand and supply are satisfied then which of the following will be crossed out?",
+    "op": [
+        "Either of row or column",
+        "Only column",
+        "Both row and column",
+        "Only row"
+    ],
+    "created_at": "2026-07-01T20:35:29.398945+00:00"
+},
+{
+    "id": 37013,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which of the following method to find the solution of a Transportation Problem can be observed as improved version of Least Cost Method?",
+    "op": [
+        "North West Corner Method",
+        "Vogal’s approximation Method"
+    ],
+    "created_at": "2026-07-01T20:45:55.987611+00:00"
+},
+{
+    "id": 37014,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If Primal Problem is a maximization problem, then the dual will be -------",
+    "op": [
+        "mixed Problem",
+        "none of the above",
+        "minimization Problem",
+        "maximization Problem"
+    ],
+    "created_at": "2026-07-01T20:46:04.046564+00:00"
+},
+{
+    "id": 37015,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If the primal has an unbounded solution, then the dual has------",
+    "op": [
+        "infeasible solution",
+        "bounded solution",
+        "optimal solution",
+        "no solution"
+    ],
+    "created_at": "2026-07-01T20:46:12.18085+00:00"
+},
+{
+    "id": 37016,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For a Transportation problem, after finding the initial basic feasible solution, which of the following method is used to find the optimum solution?",
+    "op": [
+        "None of these",
+        "Least Cost Method",
+        "North West Corner Method",
+        "Vogel’s approximation Method"
+    ],
+    "created_at": "2026-07-01T20:46:20.693656+00:00"
+},
+{
+    "id": 37017,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If the total demand is equal to total supply as per requirement of a balanced transportation problem i-e “$a_1+a_2+ \\cdots +a_n = b_1+b_2+\\cdots+b_n$” then which of the following is true?",
+    "op": [
+        "“$a_1=b_1, a_2=b_2,\\cdots, a_n=b_n$” is necessarily implied",
+        "“$a_1=b_1, a_2 =b_2,\\cdots, a_n=b_n$” is NOT necessarily implied"
+    ],
+    "created_at": "2026-07-01T20:46:30.430258+00:00"
+},
+{
+    "id": 37070,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In the Least Cost Method, allocations are made in a cell by assigning -----------to cell with smallest unit cost.",
+    "op": [
+        "minimum",
+        "maximum",
+        "any arbitrary amount",
+        "average of maximum and minimum"
+    ],
+    "created_at": "2026-07-01T21:43:46.462915+00:00"
+},
+{
+    "id": 37072,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which of the following method is used to find the initial basic feasible solution of a transportation problem?",
+    "op": [
+        "Least Cost’s Method",
+        "North West Corner Method",
+        "Vogel’s approximation Method",
+        "All above methods are applicable"
+    ],
+    "created_at": "2026-07-01T21:44:49.619199+00:00"
+},
+{
+    "id": 37150,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which of the following reason to prefer Vogel’s approximation method over other two methods?",
+    "op": [
+        "Vogel’s method gives the feasible solution near to the optimal",
+        "Vogel’s method gives optimal time plan of transportation",
+        "Vogel’s method gives the shortest transportation rout",
+        "Vogel’s method allocate minimum amount to the variable with least unit cost"
+    ],
+    "created_at": "2026-07-01T23:38:03.951527+00:00"
+},
+{
+    "id": 37151,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "How is the least cost method (LCM) different from the Northwest Corner rule (NWC)?",
+    "op": [
+        "LCM starts from the bottom right corner",
+        "LCM allocates the maximum feasible amount",
+        "LCM follows a random allocation strategy",
+        "LCM considers unit costs of transportation"
+    ],
+    "created_at": "2026-07-01T23:38:22.244077+00:00"
+},
+{
+    "id": 37152,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "How is Vogel's Approximation Method (VAM) different from the least cost method (LCM)?",
+    "op": [
+        "VAM considers penalties for wrong allocations",
+        "VAM starts from the bottom right corner",
+        "VAM does not consider penalties",
+        "VAM does not consider unit costs"
+    ],
+    "created_at": "2026-07-01T23:38:41.050663+00:00"
+},
+{
+    "id": 37161,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What is the penalty in Vogel's Approximation Method (VAM)?",
+    "op": [
+        "The number of iterations required to find the optimal solution",
+        "The difference between the smallest and next to the smallest element in a row or column",
+        "The total transportation cost",
+        "The amount allocated to each cell in the transportation table"
+    ],
+    "created_at": "2026-07-02T00:02:42.641735+00:00"
+},
+{
+    "id": 37162,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For a Transportation Problem, if it’s initial feasible solution is evaluated by Least Cost Method, then quality of this initial solution is better than ----------.",
+    "op": [
+        "North West Corner Method",
+        "Vogal’s approximation Method"
+    ],
+    "created_at": "2026-07-02T00:02:49.897371+00:00"
+},
+{
+    "id": 37171,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "After identifying the row with the least cost, what action is taken in the LCM?",
+    "op": [
+        "Determine the next least cost",
+        "Allocate the maximum feasible quantity",
+        "Eliminate the row",
+        "Repeat the process for all columns"
+    ],
+    "created_at": "2026-07-02T00:13:06.577118+00:00"
+},
+{
+    "id": 37176,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What action is taken if a row or column is empty in the LCM?",
+    "op": [
+        "Allocate the remaining quantities",
+        "Increase the transportation cost",
+        "Repeat the allocation process",
+        "Eliminate the row or column"
+    ],
+    "created_at": "2026-07-02T00:13:30.0233+00:00"
+},
+{
+    "id": 37181,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In North West Corner Rule, we start initially from which of the following cell in the standard transportation table?",
+    "op": [
+        "Upper middle",
+        "Upper right",
+        "Upper left",
+        "From any arbitrary cell in first row"
+    ],
+    "created_at": "2026-07-02T00:14:06.594089+00:00"
+},
+{
+    "id": 37183,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "If Dual has a finite optimal solution, then the primal will------.",
+    "op": [
+        "none of the above",
+        "have only basic feasible solution",
+        "have also finite optimal solution",
+        "not have a solution"
+    ],
+    "created_at": "2026-07-02T00:14:21.509699+00:00"
+},
+{
+    "id": 37204,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which of the following can be said the main objective of the Least Cost Method to solve a transportation problem?",
+    "op": [
+        "Concentrating on the routes with maximum available transportation time",
+        "Concentrating on the routes with cheapest cost of transportation",
+        "Concentrating on the routes with least transportation time",
+        "Concentrating on the routes with expensive cost of transportation"
+    ],
+    "created_at": "2026-07-02T01:03:41.657502+00:00"
+},
+{
+    "id": 37205,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which step involves eliminating fully allocated rows or columns in the least cost method (LCM)?",
+    "op": [
+        "Step 3",
+        "Step 2",
+        "Step 1",
+        "Step 4"
+    ],
+    "created_at": "2026-07-02T01:03:52.064983+00:00"
+},
+{
+    "id": 37206,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The transportation problem can be represented mathematically as a linear programming model with the objective function of __________.",
+    "op": [
+        "Maximizing the total transportation cost",
+        "Maximizing the total production cost",
+        "Minimizing the total transportation cost",
+        "Minimizing the total profit"
+    ],
+    "created_at": "2026-07-02T01:04:14.999543+00:00"
+},
+{
+    "id": 37208,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "In a Transportation Problem, the objective function ’Z’ gives ----------.",
+    "op": [
+        "Total inventory be supplied in transportation",
+        "Total Cost of transportation",
+        "Total Profit of transportation",
+        "Total Time of transportation"
+    ],
+    "created_at": "2026-07-02T01:04:27.442711+00:00"
+},
+{
+    "id": 37209,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "You realize that a row's total supply cannot fully satisfy the demand in any column. This means that_________.",
+    "op": [
+        "You can ignore this row and continue.",
+        "The original transportation problem has no feasible solution.",
+        "You must add transportation costs to increase supply.",
+        "You have made an error in earlier allocations."
+    ],
+    "created_at": "2026-07-02T01:04:51.524628+00:00"
+},
+{
+    "id": 37256,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The North – West Corner Rule",
+    "op": [
+        "Is based on the concept of minimizing opportunity cost.",
+        "Is used to find an initial feasible solution",
+        "None of above",
+        "Is used to find optimal solution"
+    ],
+    "created_at": "2026-07-02T02:20:16.618535+00:00"
+},
+{
+    "id": 37258,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "What does the difference between the smallest and next to the smallest element in a row or column represent in VAM?",
+    "op": [
+        "Unit cost of transportation",
+        "Penalty for wrong allocation",
+        "Maximum feasible amount",
+        "Total cost of transportation"
+    ],
+    "created_at": "2026-07-02T02:21:17.706669+00:00"
+},
+{
+    "id": 37262,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "For North West Corner method, in the first row and first column, each resource and sink contain ‘5’ units; then after allocating the appropriate amount ‘x11’ in the cell (1,1), in which of the following cell the next allocation will be zero?",
+    "op": [
+        "In cell (2,1) only",
+        "In cell (1,2) only",
+        "Neither in (1,2) nor in (2,1) but in along the diagonal in (2,2)",
+        "Arbitrarily chosen either in (1,2) or in (2,1)"
+    ],
+    "created_at": "2026-07-02T02:26:21.49936+00:00"
+},
+{
+    "id": 37265,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "How is the maximum feasible quantity determined in the LCM?",
+    "op": [
+        "By calculating the transportation cost",
+        "By selecting the next least cost",
+        "By identifying the minimum value",
+        "By multiplying the demand and supply"
+    ],
+    "created_at": "2026-07-02T02:27:07.031991+00:00"
+},
+{
+    "id": 37281,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "The solution of a transportation problem with m rows (supplies) and n (destinations) is feasible if numbers of positive allocations are",
+    "op": [
+        "m+n",
+        "m-n+1",
+        "m+n+1",
+        "m+n-1"
+    ],
+    "created_at": "2026-07-02T02:39:29.304114+00:00"
+},
+{
+    "id": 37383,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Which values of “$a_{ij}$'s” in the standard form of a linear programming problem will transform it in standard Transportation problem?",
+    "op": [
+        "$a_{ij} = 1$ for all $i =1,2,\\cdots,m; j = 1,2,\\cdots,n$",
+        "$a_{ij} = 0$ and 1 for all $i =1,2,\\cdots,m; j = 1,2,\\cdots,n$",
+        "$a_{ij} = 0$ for all $i =1,2,\\cdots,m; j = 1,2,\\cdots,n$",
+        "$a_{ij} = 0$ or 1 for all $i =1,2,\\cdots,m; j = 1,2,\\cdots,n$"
+    ],
+    "created_at": "2026-07-02T03:47:42.206109+00:00"
+},
+{
+    "id": 37474,
+    "cc": "MTH601",
+    "qn": "04",
+    "dt": "02 July 2026",
+    "qt": "Under which of the following condition in the Least Cost Method, after first allocation in cell (1,1), next allocation along the diagonal in cell (2,2) can be made?",
+    "op": [
+        "If after crossed out 1st row or 1st column, cell (2,2) is of minimum cost",
+        "Total Supply = Total Demand",
+        "If in the second row and second column, each resource and sink contain equal units",
+        "If Total Supply is not equal to Total Demand"
+    ],
+    "created_at": "2026-07-02T04:40:43.586777+00:00"
+},
+{
+    "id": 59861,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "The amount of the inventory will always taken to be -----------",
+    "op": [
+        "Negative",
+        "Positive"
+    ],
+    "created_at": "2026-07-09T19:05:34.789143+00:00"
+},
+{
+    "id": 59865,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "In a Linear Programming problem which of following condition is compulsory?",
+    "op": [
+        "Both Objective function and constraints need to be linear",
+        "Neither objective nor constraints to be linear",
+        "Least Objective function needs to be linear",
+        "Least constraints need to be linear"
+    ],
+    "created_at": "2026-07-09T19:06:04.194606+00:00"
+},
+{
+    "id": 59868,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "While estimating the time for a PERT activity, the estimator will give the three times estimates. When these three estimates are plotted on a graph, the probability distribution that we get is closely associated with -----------------Distribution curve.",
+    "op": [
+        "Beta",
+        "Poisson",
+        "Chi",
+        "Binomial"
+    ],
+    "created_at": "2026-07-09T19:06:25.21847+00:00"
+},
+{
+    "id": 59870,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following is NOT an assumption of the basic Wilson's EOQ model?",
+    "op": [
+        "Replenishment occurs instantly.",
+        "Demand is constant and known.",
+        "Ordering costs are fixed per order.",
+        "There is a cost associated with shortages."
+    ],
+    "created_at": "2026-07-09T19:06:48.593735+00:00"
+},
+{
+    "id": 59877,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following times are directly related to the activity cost that is by reducing the activity duration, the direct cost of the corresponding activity is increased?",
+    "op": [
+        "CPM Times",
+        "PERT Times"
+    ],
+    "created_at": "2026-07-09T19:07:37.991516+00:00"
+},
+{
+    "id": 59881,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "If the annul demand of a product is 10000 items, and its set up and inventory costs are 200 and 100 respectively then its economic order quantity is -----------provided that shortage is fulfilled INSTANTANEOUSLY.",
+    "op": [
+        "200 units",
+        "100 units",
+        "40000 units",
+        "20000 units"
+    ],
+    "created_at": "2026-07-09T19:07:59.215234+00:00"
+},
+{
+    "id": 59882,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following correspond to the practical limitations of available resources while modeling a real life situation into a linear program?",
+    "op": [
+        "Objective function",
+        "Constraints",
+        "Linear function",
+        "Decision variables"
+    ],
+    "created_at": "2026-07-09T19:08:42.910413+00:00"
+},
+{
+    "id": 59884,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "In the Purchasing Model with Shortages the Cost Function ‘C(S,Q)’ can also be expressed as function of --------------.",
+    "op": [
+        "(S,D)",
+        "(S,t)",
+        "(Q,D)",
+        "(t,D)"
+    ],
+    "created_at": "2026-07-09T19:09:13.817912+00:00"
+},
+{
+    "id": 59885,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following would be the objective of the cost per unit of producing certain cameras?",
+    "op": [
+        "Minimization",
+        "Average",
+        "Inflection",
+        "Maximization"
+    ],
+    "created_at": "2026-07-09T19:09:36.988337+00:00"
+},
+{
+    "id": 59973,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "The Mean and Variance of probabilistic nature of activity times in PERT are expressed by -------------distribution.",
+    "op": [
+        "Chi",
+        "Beta",
+        "Binomial",
+        "Bernoulli"
+    ],
+    "created_at": "2026-07-09T21:56:51.303063+00:00"
+},
+{
+    "id": 59974,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following Probabilistic time in PERT has the same analogical meaning of Deterministic time (time to complete any activity) in CPM?",
+    "op": [
+        "Optimistic",
+        "Pessimistic",
+        "Expected",
+        "Most Likely"
+    ],
+    "created_at": "2026-07-09T21:57:03.775189+00:00"
+},
+{
+    "id": 59975,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following is an operations research (OR) process?",
+    "op": [
+        "Linear programming",
+        "Simplex method",
+        "Networking",
+        "Observation"
+    ],
+    "created_at": "2026-07-09T21:57:18.428227+00:00"
+},
+{
+    "id": 59976,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a network flow diagram, if two jobs ‘a(i,j)’ and ‘b(i,k)’ of ‘4’ and ‘3’ days duration, finish late simultaneously on 7th day, then on which of the following day the event ‘i’ will finish earlier?",
+    "op": [
+        "4th",
+        "1st",
+        "6th",
+        "3rd"
+    ],
+    "created_at": "2026-07-09T21:58:35.694185+00:00"
+},
+{
+    "id": 59977,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a development project, if an activity (i,j) of six days duration, starts late on 3rd day then which of the following will be its latest finish time?",
+    "op": [
+        "18th day",
+        "2nd day",
+        "3rd day",
+        "9th day"
+    ],
+    "created_at": "2026-07-09T21:58:54.879264+00:00"
+},
+{
+    "id": 59978,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following situations would typically favor using PERT over CPM?",
+    "op": [
+        "Routine factory maintenance",
+        "Optimizing existing production",
+        "Construction project with a fixed budget",
+        "Developing a new software product"
+    ],
+    "created_at": "2026-07-09T22:02:27.02642+00:00"
+},
+{
+    "id": 59980,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Duration of dummy activity is _______.",
+    "op": [
+        "latest start time",
+        "1",
+        "zero",
+        "early start time"
+    ],
+    "created_at": "2026-07-09T22:03:03.210283+00:00"
+},
+{
+    "id": 59981,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "If both jobs ‘a(l,n)’ and ‘b(m,n)’ of ‘7’ and ‘8’ days durations respectively, start earlier simultaneously on 4th day, then ‘n’ can start earlier on -----------day.",
+    "op": [
+        "15th",
+        "11th",
+        "8th",
+        "12th"
+    ],
+    "created_at": "2026-07-09T22:03:16.982023+00:00"
+},
+{
+    "id": 59983,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a network flow diagram, two jobs  (i,j) and (i,k) of ‘9’and ‘6’ days duration leaves the node ‘i’ then which of the following will be Late start time for ‘i’, if it is provided that both (i,j) and (i,k) finish late on 12th and 8th day respectively?",
+    "op": [
+        "3rd day",
+        "1st day",
+        "2nd day",
+        "6th day"
+    ],
+    "created_at": "2026-07-09T22:03:28.804746+00:00"
+},
+{
+    "id": 59984,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In the phase of Early Start and Early Finish, to find the Critical Path in a network flow diagram, the computations are proceeded from --------------- to the final event.",
+    "op": [
+        "bottom to top",
+        "right to left",
+        "top to bottom",
+        "left to right"
+    ],
+    "created_at": "2026-07-09T22:03:40.690257+00:00"
+},
+{
+    "id": 59988,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following would be the objective of the daily loss of heat in a heating system?",
+    "op": [
+        "Average",
+        "Minimization",
+        "Inflection",
+        "Maximization"
+    ],
+    "created_at": "2026-07-09T22:25:22.849156+00:00"
+},
+{
+    "id": 59989,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following is the major objective of the ABC analysis of inventory?",
+    "op": [
+        "To replace the required items in proper time",
+        "To classify the items in different categories",
+        "To control the inventories",
+        "To fulfill the demand of items"
+    ],
+    "created_at": "2026-07-09T22:26:48.458619+00:00"
+},
+{
+    "id": 59990,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "When resource limits conflict with a fixed project deadline, what is the likely outcome?",
+    "op": [
+        "Increased resource costs",
+        "Improved resource efficiency",
+        "Reduced project scope",
+        "Delayed project completion"
+    ],
+    "created_at": "2026-07-09T22:27:20.964822+00:00"
+},
+{
+    "id": 59992,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Under which of the following condition the economic order quantity in case of Purchasing Model with Shortage can be transformed into  Purchasing Model with no Shortage?",
+    "op": [
+        "When Shortag Cost tends to infinity",
+        "When Carrying Cost tends to zero",
+        "When Carrying Cost tends to infinity",
+        "When shortage Cost tends to zero"
+    ],
+    "created_at": "2026-07-09T22:29:09.214703+00:00"
+},
+{
+    "id": 59993,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "In an optimization problem, we seek for maximizing or minimizing a specific quantity, called the ----------.",
+    "op": [
+        "objective function",
+        "feasible solution",
+        "decision variables",
+        "constraints"
+    ],
+    "created_at": "2026-07-09T22:29:35.728813+00:00"
+},
+{
+    "id": 59994,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following cost of an item vary directly with its lack of quantity and delaying time ?",
+    "op": [
+        "Shortage Cost",
+        "Item cost",
+        "Set-up cost",
+        "Inventory holding cost"
+    ],
+    "created_at": "2026-07-09T22:29:58.018002+00:00"
+},
+{
+    "id": 59995,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "In Wilson's model, what is the average inventory level?",
+    "op": [
+        "Half of the maximum order quantity (Q/2)",
+        "Equal to the annual demand (D)",
+        "The maximum order quantity (Q)",
+        "Zero, since there are no shortages"
+    ],
+    "created_at": "2026-07-09T22:30:21.009794+00:00"
+},
+{
+    "id": 59996,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "In the graph of  Purchasing Model with shortages, the area above  the horizontal axis represents -----------.",
+    "op": [
+        "shortage cost of item",
+        "set up cost of item",
+        "purchase cost of item",
+        "carrying cost of item"
+    ],
+    "created_at": "2026-07-09T22:30:49.168144+00:00"
+},
+{
+    "id": 59997,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "For an industrialist, optimization means ------------.",
+    "op": [
+        "both maximizing its profit and minimizing its cost",
+        "change the business strategy and looking forward new customers",
+        "minimizing its cost only",
+        "maximizing its profit only"
+    ],
+    "created_at": "2026-07-09T22:31:24.003184+00:00"
+},
+{
+    "id": 60253,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following violates a fundamental rule of network diagram construction?",
+    "op": [
+        "Multiple arrows for one activity",
+        "Node with multiple incoming activities",
+        "Two activities from one node",
+        "Activities with different durations"
+    ],
+    "created_at": "2026-07-10T07:36:15.905297+00:00"
+},
+{
+    "id": 60254,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "If the variance of the project length = 25, expected and scheduled times are 40 and 36 respectively, then the Standard Normal Variable of the given project is-------------.",
+    "op": [
+        "0.16",
+        "0.80",
+        "-0.80",
+        "-0.16"
+    ],
+    "created_at": "2026-07-10T07:36:51.425957+00:00"
+},
+{
+    "id": 60255,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a network flow diagram, if two jobs ‘a(l,n)’ and ‘b(m,n)’ of ‘7’ and ‘8’ days durations respectively, start earlier simultaneously on 4th day, then the next activity containing ‘n’ as head event can’t start until the entering activity -------------- is completed.",
+    "op": [
+        "(l,n)",
+        "(l,m)",
+        "(m,n)",
+        "(m,l)"
+    ],
+    "created_at": "2026-07-10T07:37:54.865785+00:00"
+},
+{
+    "id": 60256,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "While finding the Critical Path, in the phase of Early Start and Early Finish computations, we start from -------- event and proceed calculations from left to right up to the final event.",
+    "op": [
+        "first",
+        "middle",
+        "last",
+        "arbitrary"
+    ],
+    "created_at": "2026-07-10T07:39:24.36996+00:00"
+},
+{
+    "id": 60258,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "CPM is abbreviation of ______________ .",
+    "op": [
+        "Critical Performance Method",
+        "Constant Process Method",
+        "Continuous Path Membership",
+        "Critical Path Method"
+    ],
+    "created_at": "2026-07-10T07:42:00.509528+00:00"
+},
+{
+    "id": 60259,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a development project, if an activity (m,n) of seven days duration, starts late on 3rd day then which of the following will be its latest finish time?",
+    "op": [
+        "4nd day",
+        "21th day",
+        "3rd day",
+        "10th day"
+    ],
+    "created_at": "2026-07-10T07:42:34.722518+00:00"
+},
+{
+    "id": 60261,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "PERT is an acronym for ___________ .",
+    "op": [
+        "Program Evaluation and Review Teacher",
+        "Program Execution and Revenue Technique",
+        "Performance Evaluation and Review Technique Observation",
+        "Program Evaluation and Review Technique"
+    ],
+    "created_at": "2026-07-10T07:44:25.484088+00:00"
+},
+{
+    "id": 60412,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "By putting the replacement rate ‘R?infinity’ in the Economic Order Quantity(EOQ) of Manufacturing Model with allowed Shortage, then the result is -----------.",
+    "op": [
+        "EOQ of Manufacturing Model without Shortage",
+        "invariant",
+        "EOQ of Purchasing Model with allowed Shortage",
+        "EOQ of Purchasing Model without Shortage"
+    ],
+    "created_at": "2026-07-10T13:25:04.247275+00:00"
+},
+{
+    "id": 60413,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "What is a common constraint in projects that require resource allocation?",
+    "op": [
+        "Abundant funding",
+        "Unpredictable activity times",
+        "Limited resources",
+        "Flexible deadlines"
+    ],
+    "created_at": "2026-07-10T13:27:05.202784+00:00"
+},
+{
+    "id": 60414,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "A shortage of 20 units incurs a cost of Rs. 100/unit/day. If the shortage lasts for 5 days, what is the total shortage cost?",
+    "op": [
+        "1000",
+        "500",
+        "10000",
+        "5000"
+    ],
+    "created_at": "2026-07-10T13:27:33.856617+00:00"
+},
+{
+    "id": 60415,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "If the cost function in terms of economic order quantity is C = Q^2-400Q, then the minimum cost of inventory per unit of time is ---------- units.",
+    "op": [
+        "398",
+        "200",
+        "400",
+        "800"
+    ],
+    "created_at": "2026-07-10T13:28:05.705203+00:00"
+},
+{
+    "id": 60416,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which is the following reason is essential for an enterprise to have an inventory?",
+    "op": [
+        "It provides adequate service to the customers.",
+        "All above reasons are equivalent",
+        "It reduces the possibility of duplication of orders.",
+        "It helps in smooth and efficient running of the business."
+    ],
+    "created_at": "2026-07-10T13:28:45.569301+00:00"
+},
+{
+    "id": 60417,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "The objective function and ----------- together form a Linear Programming problem.",
+    "op": [
+        "a set of constraints",
+        "feasible region",
+        "optimal solution",
+        "unrestricted variables"
+    ],
+    "created_at": "2026-07-10T13:29:32.070902+00:00"
+},
+{
+    "id": 60423,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following is uncertain in PERT?",
+    "op": [
+        "Activity Cost",
+        "Activities’ completion times",
+        "Resources associated with each activity",
+        "Activities’ precedence relation"
+    ],
+    "created_at": "2026-07-10T14:13:06.060958+00:00"
+},
+{
+    "id": 60424,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a development project, if an activity (m,n) of seven days duration, starts late on 5rd day then which of the following will be its latest finish time?",
+    "op": [
+        "5th day",
+        "12th day",
+        "5th or 7th day",
+        "7th day"
+    ],
+    "created_at": "2026-07-10T14:13:18.169601+00:00"
+},
+{
+    "id": 60425,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a network flow diagram, which of the following method through computations provides, i) start and completion times for each activity, ii) critical and non critical activities and iii) total and free slacks?",
+    "op": [
+        "CPM",
+        "PERT",
+        "Resource Scheduling",
+        "Resource Allocation"
+    ],
+    "created_at": "2026-07-10T14:13:38.404102+00:00"
+},
+{
+    "id": 60426,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In Project Management, Program Evaluation and Review Technique (PERT) is based on ------------- times.",
+    "op": [
+        "stochastic",
+        "serial",
+        "probabilistic",
+        "deterministic"
+    ],
+    "created_at": "2026-07-10T14:13:48.02064+00:00"
+},
+{
+    "id": 60428,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In the phase of Late Start and Late Finish, to find the Critical Path in a network flow diagram, which of the following will be taken as latest finish time of the final event?",
+    "op": [
+        "Expected Time of final event",
+        "Late Start of the final event",
+        "Early Start of the final event",
+        "Early Finish of final event"
+    ],
+    "created_at": "2026-07-10T14:13:57.949136+00:00"
+},
+{
+    "id": 60429,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "Which of the following value is correct for the Variance of an activity times having optimistic, pessimistic and most likely values as 4, 8 and 6 days respectively?",
+    "op": [
+        "0.444",
+        "0.147",
+        "01",
+        "2.666"
+    ],
+    "created_at": "2026-07-10T14:14:18.582184+00:00"
+},
+{
+    "id": 60476,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following is true about the Manufacturing model without Shortage?",
+    "op": [
+        "None of the above choices",
+        "Demand rate < Replacement rate",
+        "Demand rate = Replacement rate",
+        "Demand rate > Replacement rate"
+    ],
+    "created_at": "2026-07-10T16:56:44.143164+00:00"
+},
+{
+    "id": 60477,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Linear Programming is the backbone of Operations Research models due to---------.",
+    "op": [
+        "linearity of objective function and constraints",
+        "its fantastic computational efficiency",
+        "unrestricted signs of decision variables",
+        "non-negativity of decision variables"
+    ],
+    "created_at": "2026-07-10T16:57:30.657933+00:00"
+},
+{
+    "id": 60478,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Excess of inventories are undesirable due to the following reasons;",
+    "op": [
+        "It may not lead to high volume of output instead it might hamper the production.",
+        "It includes the expenses of stores, equipment, personnel, insurance etc..",
+        "It locks up the capital of the enterprise.",
+        "All above reasons are equivalent"
+    ],
+    "created_at": "2026-07-10T16:59:14.974997+00:00"
+},
+{
+    "id": 60479,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which factor is often used to prioritize jobs when allocating resources?",
+    "op": [
+        "Resource availability",
+        "Activity slack",
+        "Activity duration",
+        "Project budget"
+    ],
+    "created_at": "2026-07-10T16:59:32.101893+00:00"
+},
+{
+    "id": 60480,
+    "cc": "MTH601",
+    "qn": "02",
+    "dt": "10 July 2026",
+    "qt": "Which of the following times are not directly related to the activity cost as there is no certainty of time in such activities so their duration cannot be reduced, hence the cost cannot be expressed correctly?",
+    "op": [
+        "CPM Times",
+        "PERT Times"
+    ],
+    "created_at": "2026-07-10T16:59:58.878512+00:00"
+},
+{
+    "id": 60516,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "While finding the Critical Path, in the phase of Early Start and Early Finish computations, we start from first event and proceed calculations from left to right up to the ---------- event.",
+    "op": [
+        "arbitrary",
+        "starting",
+        "last",
+        "middle"
+    ],
+    "created_at": "2026-07-10T17:55:32.076344+00:00"
+},
+{
+    "id": 60517,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In a network flow diagram, if two jobs ‘a(l,n)’ and ‘b(m,n)’ of ‘8’ and ‘9’ days durations respectively, start earlier simultaneously on 2nd day, then the next activity containing ‘n’ as head event can’t start until the entering activity_______________is completed.",
+    "op": [
+        "(m,l)",
+        "(m,n)",
+        "(l,m)",
+        "(l,n)"
+    ],
+    "created_at": "2026-07-10T17:57:02.069385+00:00"
+},
+{
+    "id": 60518,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "About which of the following it is true that, “they only signify with the passage of time, the beginning and ending of some activities under no consumption of resources” ?",
+    "op": [
+        "dummy",
+        "branch",
+        "nodes",
+        "project"
+    ],
+    "created_at": "2026-07-10T17:57:18.054117+00:00"
+},
+{
+    "id": 60519,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "In the phase of Early Start and Early Finish, to find the Critical Path in a network flow diagram, for the first node(event), we start with time -------------.",
+    "op": [
+        "with strict positive value",
+        "t = 0",
+        "t = infinity",
+        "t = a (arbitrary)"
+    ],
+    "created_at": "2026-07-10T17:57:49.477687+00:00"
+},
+{
+    "id": 60520,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "10 July 2026",
+    "qt": "A network flow diagram can have ___________ Critical Path(s).",
+    "op": [
+        "at most two",
+        "depends on number of dummies",
+        "multiple",
+        "unique"
+    ],
+    "created_at": "2026-07-10T17:58:53.950769+00:00"
+},
+{
+    "id": 60526,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a network flow diagram, for an activity (i,j) of six days duration, if its Late Finish time is of nine days, then which of the following will be its Late Start time?",
+    "op": [
+        "Twelve days",
+        "Fifteen days",
+        "Six days",
+        "Three days"
+    ],
+    "created_at": "2026-07-10T19:01:09.849374+00:00"
+},
+{
+    "id": 60527,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a development project, if an activity (q,r) of five days duration, starts late on 2nd day then which of the following will be its latest finish time?",
+    "op": [
+        "4th day",
+        "7th day",
+        "3rd day",
+        "10th day"
+    ],
+    "created_at": "2026-07-10T19:01:44.630339+00:00"
+},
+{
+    "id": 60528,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Choose the correct one for the project times that are used in project management.",
+    "op": [
+        "Latest start time, Latest finish time, Earliest start time, CPM",
+        "Latest start time, Latest finish time, PERT, Earliest finish time",
+        "Latest start time, Latest finish time, Earliest start time, Earliest finish time",
+        "PERT, CPM"
+    ],
+    "created_at": "2026-07-10T19:01:57.565169+00:00"
+},
+{
+    "id": 60530,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "The first step in the application of ____________  is to develop a network representation of the project plan.",
+    "op": [
+        "linear programming",
+        "probability",
+        "none of these",
+        "CPM"
+    ],
+    "created_at": "2026-07-10T19:02:35.76423+00:00"
+},
+{
+    "id": 60531,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "While identifying the Critical Path of a network flow diagram, the Late Start and Late Finish phase confirms that project start time is -----------.",
+    "op": [
+        "arbitrary",
+        "infinity",
+        "zero",
+        "serial"
+    ],
+    "created_at": "2026-07-10T19:02:55.625973+00:00"
+},
+{
+    "id": 61040,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "If weights are 2, 9 and 20 or optimistic, most likely and pessimistic time estimates, respectively, then select the most suitable answer.",
+    "op": [
+        "$V_t = 9$",
+        "$t_e = 9$",
+        "$t_e = \\frac{{{t_o} + 4{t_m} + {t_p}}}{6}$",
+        "$S_t = 4$"
+    ],
+    "created_at": "2026-07-11T16:29:37.954609+00:00"
+},
+{
+    "id": 61041,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a project, a network diagram shows the precedence relations of inter related activities along with their corresponding activity ----------.",
+    "op": [
+        "cost",
+        "times",
+        "profit",
+        "quantity"
+    ],
+    "created_at": "2026-07-11T16:29:51.080899+00:00"
+},
+{
+    "id": 61042,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a network flow diagram, a/an ----------- is shown by dotted arrows and these consume no time or resources.",
+    "op": [
+        "activity",
+        "nodes",
+        "dummy",
+        "branch"
+    ],
+    "created_at": "2026-07-11T16:30:00.813418+00:00"
+},
+{
+    "id": 61043,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "For a development project, if its Standard Normal variable = 1.38, expected and the scheduled durations of the project are 100 and 110 days respectively, then Variance in the project length is ---------------.",
+    "op": [
+        "52.50",
+        "7.246",
+        "-7.246",
+        "-52.50"
+    ],
+    "created_at": "2026-07-11T16:30:12.625772+00:00"
+},
+{
+    "id": 61044,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In Project Management, Critical Path method is based on ------------- times.",
+    "op": [
+        "stochastic",
+        "deterministic",
+        "serial",
+        "probabilistic"
+    ],
+    "created_at": "2026-07-11T16:30:31.224952+00:00"
+},
+{
+    "id": 61045,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "For a development project, if its Standard Normal variable = 1.38, expected and the scheduled durations of the project are 100 and 110 days respectively, then the Standard Deviation in the project length is ---------------.",
+    "op": [
+        "7.246",
+        "-7.246",
+        "52.50",
+        "-52.50"
+    ],
+    "created_at": "2026-07-11T16:30:50.877688+00:00"
+},
+{
+    "id": 61046,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "For critical path of a network, which of the followings is the best suitable answer.",
+    "op": [
+        "Its free float is zero",
+        "Its total float is zero",
+        "All of the above",
+        "Its independent float is zero"
+    ],
+    "created_at": "2026-07-11T16:31:07.781014+00:00"
+},
+{
+    "id": 61047,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In PERT, the possible variation in activity times can be measured from --------------- of  the corresponding Beta Distribution.",
+    "op": [
+        "Mean",
+        "Standard Deviation",
+        "Variance",
+        "Expected Time"
+    ],
+    "created_at": "2026-07-11T16:31:18.881659+00:00"
+},
+{
+    "id": 61049,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "For any activity (i,j), if ,  a) Earliest start time of ‘i’ = Latest finish time of ‘i’,  b) Earliest start time of ‘j’ = Latest finish time of ‘j’,  c) difference of Earliest start times of events ‘i’ and ‘’j  = difference of Latest finish times of events ‘i’and ‘j’ = time to complete the job, then the activity (i,j) is said to be -------.",
+    "op": [
+        "dummy",
+        "non of the above",
+        "critical",
+        "non-Critical"
+    ],
+    "created_at": "2026-07-11T16:31:44.609517+00:00"
+},
+{
+    "id": 61080,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Which of the following elements in a project network diagram signifies the direction of progress?",
+    "op": [
+        "The length of the arrows",
+        "The position of the nodes",
+        "The thickness of the lines",
+        "The arrowheads"
+    ],
+    "created_at": "2026-07-11T17:18:14.360025+00:00"
+},
+{
+    "id": 61081,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "A set of nodes connected by lines which begin at the initial node of a network and end at the terminal node is called _________.",
+    "op": [
+        "Node",
+        "Network",
+        "Path",
+        "Critical path"
+    ],
+    "created_at": "2026-07-11T17:18:43.275487+00:00"
+},
+{
+    "id": 61082,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a network flow diagram, two jobs ‘a(i,k)’ and ‘b(j,k)’ of durations ‘4’ and ‘5’ days respectively, enter an event ‘k’ then which of the following will be earliest start day of ‘k’ provided that (i,k) and (j,k) have started earlier at 3rd and 4th day respectively?",
+    "op": [
+        "7th",
+        "6th",
+        "8th",
+        "9th"
+    ],
+    "created_at": "2026-07-11T17:18:55.38677+00:00"
+},
+{
+    "id": 61083,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Dummy activity is represented by _______ .",
+    "op": [
+        "doted line",
+        "left to right arrow",
+        "doted line with left to right arrow",
+        "doted line with right to left arrow"
+    ],
+    "created_at": "2026-07-11T17:19:08.611701+00:00"
+},
+{
+    "id": 61084,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "While finding the critical path in a network flow diagram, if an activity (i,j) starts and finish late on 3rd and 9th day respectively, then it will be completed in -----------days.",
+    "op": [
+        "Three days",
+        "Fifteen days",
+        "Six days",
+        "Twelve days"
+    ],
+    "created_at": "2026-07-11T17:19:22.766917+00:00"
+},
+{
+    "id": 61085,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Which of the following phases are performed to find the critical path in CPM?",
+    "op": [
+        "Precedence and succession",
+        "Program Evaluation and Review",
+        "Resource Scheduling and Allocation",
+        "Forward and Backward(Early and Late finish program)"
+    ],
+    "created_at": "2026-07-11T17:37:59.933449+00:00"
+},
+{
+    "id": 61086,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Delay in critical activities for a project management lead to ________________.",
+    "op": [
+        "project finish time will have to extend",
+        "project cost will increase",
+        "more resources have to employed",
+        "All above choices are equivalent"
+    ],
+    "created_at": "2026-07-11T17:38:41.884222+00:00"
+},
+{
+    "id": 61087,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In the PERT, the expected time is classified as a----------- variable.",
+    "op": [
+        "fix valued (constant)",
+        "random",
+        "continuous",
+        "complex valued"
+    ],
+    "created_at": "2026-07-11T17:39:00.863289+00:00"
+},
+{
+    "id": 61088,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Which of the following value is correct for the expected time of an activity having optimistic, pessimistic and most likely times as 4, 8 and 6 days respectively?",
+    "op": [
+        "9.33 days",
+        "4.66 days",
+        "6 days",
+        "6.66 days"
+    ],
+    "created_at": "2026-07-11T17:39:58.76435+00:00"
+},
+{
+    "id": 61089,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Duration of the project is described by the __________  to complete the project.",
+    "op": [
+        "quick time",
+        "shortest time",
+        "latest start time",
+        "longest time"
+    ],
+    "created_at": "2026-07-11T17:40:26.948603+00:00"
+},
+{
+    "id": 61090,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "In a network flow diagram, if an event is the predecessor of three other events then how many dummies are inevitable to include in the network?",
+    "op": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+    ],
+    "created_at": "2026-07-11T17:41:31.200391+00:00"
+},
+{
+    "id": 61108,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "While identifying the Critical Path of a network flow diagram, the Late Start and Late Finish phase confirms that project start time is____________.",
+    "op": [
+        "zero",
+        "infinity",
+        "5th  day",
+        "arbitrary"
+    ],
+    "created_at": "2026-07-11T18:28:30.692784+00:00"
+},
+{
+    "id": 61109,
+    "cc": "MTH601",
+    "qn": "01",
+    "dt": "11 July 2026",
+    "qt": "Which of the following relation is true among the probabilistic times in PERT?",
+    "op": [
+        "Most Likely < Optimistic < Pessimistic",
+        "Pessimistic < Most Likely < Optimistic",
+        "Most Likely < Pessimistic < Optimistic",
+        "Optimistic < Most Likely < Pessimistic"
+    ],
+    "created_at": "2026-07-11T18:29:51.460445+00:00"
+},
+{
+    "id": 71825,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{\\text{Minimizing}}\\,\\,{\\text{any}}\\,\\,{\\text{function}}\\,f({x_1},{x_2},{x_3},......,{x_n})\\,{\\text{subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}\\,\\,{\\text{is}}\\,\\,{\\text{equivalent}}\\,{\\text{to}}\\,{\\text{maximizing _________ subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{same}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}{\\text{.}} ",
+    "op": [
+        "- f({x_1},{x_2},{x_3},......,{x_n})",
+        "f({x_1}, - {x_2},{x_3},......,{x_n})",
+        "f( - {x_1}, - {x_2}, - {x_3},......, - {x_n})",
+        "f( - {x_1},{x_2},{x_3},......,{x_n})"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71826,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "For Z = 4 x_1 + x_2 subject to 3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_ 2 \\geq 15, we have ___________ variables. ",
+    "op": [
+        "three objective",
+        "six",
+        "two slack",
+        "one artificial"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71827,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following order pair would minimize the objective function of the linear programming problem; z = x + 5 y subject to x \\geq 2 , y \\geq 0 ?",
+    "op": [
+        "(0,0)",
+        "(0,3)",
+        "(2,0)",
+        "(2,3)"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71828,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "When we have \\geq type constraints, then we convert it to equality constraints by introducing _______ variable(s) and solve it by __________ method.",
+    "op": [
+        "artificial and slack, Big M or Two phase",
+        "artificial, Two phase",
+        "artificial, Big M",
+        "slack, Big M"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71829,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "For Z = 4 x_1 + x_2 subject to 3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_2 \\geq 15, we have ___________ variables. ",
+    "op": [
+        "two slack",
+        "two artificial",
+        "three objective",
+        "both a and b"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71891,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Minimizing\\,\\,\\,Z = 4{x_1} + 2{x_2} + {x_3}\\,\\,is\\,\\,equivalent\\,\\,to\\,\\,\\max imizing\\,\\,Z = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "- 4{x_1} - 2{x_2} - {x_3}",
+        "- 4{x_1} - 2{x_2} + {x_3}",
+        "- 4{x_1} + 2{x_2} + {x_3}",
+        "- 4{x_1} + 2{x_2} - {x_3}"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71913,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following order pair would minimize the objective function of the linear programming problem; \\(z = x + 5 y \\) subject to \\(x \\geq 2 , y \\geq 0\\) ?",
+    "op": [
+        "(2,3)",
+        "(0,0)",
+        "(2,0)",
+        "(0,3)"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71915,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "For \\( Z = 4 x_1 + x_2 \\) subject to \\( 3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_2 \\geq 15 \\), we have ___________ variables. ",
+    "op": [
+        "both a and b",
+        "two slack",
+        "three objective",
+        "two artificial"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71925,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{\\text{Minimizing}}\\,\\,{\\text{any}}\\,\\,{\\text{function}}\\,f({x_1},{x_2},{x_3},......,{x_n})\\,{\\text{subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}\\,\\,{\\text{is}}\\,\\,{\\text{equivalent}}\\,{\\text{to}}\\,{\\text{maximizing _________ subject}}\\,{\\text{to}}\\,{\\text{the}}\\,{\\text{same}}\\,{\\text{set}}\\,{\\text{of}}\\,{\\text{constraints}}{\\text{.}}\\] ",
+    "op": [
+        "\\[f( - {x_1},{x_2},{x_3},......,{x_n})\\]",
+        "\\[f( - {x_1}, - {x_2}, - {x_3},......, - {x_n})\\]",
+        "\\[ - f({x_1},{x_2},{x_3},......,{x_n})\\]",
+        "\\[f({x_1}, - {x_2},{x_3},......,{x_n})\\]"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71960,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[Minimizing\\,\\,\\,Z = 4{x_1} + 2{x_2} + {x_3}\\,\\,is\\,\\,equivalent\\,\\,to\\,\\,\\max imizing\\,\\,Z = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\] ",
+    "op": [
+        "\\[ - 4{x_1} - 2{x_2} + {x_3}\\]",
+        "\\[ - 4{x_1} + 2{x_2} - {x_3}\\]",
+        "\\[ - 4{x_1} + 2{x_2} + {x_3}\\]",
+        "\\[ - 4{x_1} - 2{x_2} - {x_3}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71966,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The inequality \\(3x - 2y \\geq 14\\) is equivalent to______.",
+    "op": [
+        "\\(3x - 2y < - 14\\)",
+        "\\(3x - 2y \\leq 14\\)",
+        "\\( - 3x + 2y \\leq - 14\\)",
+        "\\( - 3x + 2y > 14\\)"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71982,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The inequality 3x - 2y \\geq 14 is equivalent to______.",
+    "op": [
+        "3x - 2y \\leq 14",
+        "3x - 2y < - 14",
+        "- 3x + 2y > 14",
+        "- 3x + 2y \\leq - 14"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72023,
+    "cc": "MTH601",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "For \\( Z = 4 x_1 + x_2\\) subject to \\( 3 x_1 + 4 x_2 \\geq 20, x_1 + 5 x_ 2 \\geq 15 \\), we have ___________ variables. ",
+    "op": [
+        "two slack",
+        "one artificial",
+        "three objective",
+        "six"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72919,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If the total demand is equal to total supply as per requirement of a balanced transportation problem i-e “a_1+a_2+ \\cdots +a_n = b_1+b_2+\\cdots+b_n” then which of the following is true? ",
+    "op": [
+        "“a_1=b_1, a_2=b_2,\\cdots, a_n=b_n” is necessarily implied",
+        "“a_1=b_1, a_2 =b_2,\\cdots, a_n=b_n” is NOT necessarily implied"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72924,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In a Transportation problem, which of the following are taken as the coefficients of unknown “\\(x_{ij}\\)'s” ?",
+    "op": [
+        "Ones",
+        "Zeros",
+        "Zeros or ones",
+        "Any arbitrary non-negative integer"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72959,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "In a Transportation problem, which of the following are taken as the coefficients of unknown “x_{ij}'s” ?",
+    "op": [
+        "Zeros or ones",
+        "Ones",
+        "Any arbitrary non-negative integer",
+        "Zeros"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 72993,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which values of “\\(a_{ij}\\)'s” in the standard form of a linear programming problem will transform it in standard Transportation problem?",
+    "op": [
+        "\\(a_{ij} = 0\\) and 1 for all \\(i =1,2,\\cdots,m; j = 1,2,\\cdots,n\\)",
+        "\\(a_{ij} = 0\\) for all \\(i =1,2,\\cdots,m; j = 1,2,\\cdots,n\\)",
+        "\\(a_{ij} = 1\\) for all \\(i =1,2,\\cdots,m; j = 1,2,\\cdots,n\\)",
+        "\\(a_{ij} = 0\\) or 1 for all \\(i =1,2,\\cdots,m; j = 1,2,\\cdots,n\\)"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73008,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If the total demand is equal to total supply as per requirement of a balanced transportation problem i-e “\\(a_1+a_2+ \\cdots +a_n = b_1+b_2+\\cdots+b_n\\)” then which of the following is true? ",
+    "op": [
+        "“\\(a_1=b_1, a_2=b_2,\\cdots, a_n=b_n\\)” is necessarily implied",
+        "“\\(a_1=b_1, a_2 =b_2,\\cdots, a_n=b_n\\)” is NOT necessarily implied"
+    ],
+    "created_at": "2026-07-15T13:35:26.137422+00:00"
+},
+{
+    "id": 73063,
+    "cc": "MTH601",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which values of “a_{ij}'s” in the standard form of a linear programming problem will transform it in standard Transportation problem?",
+    "op": [
+        "a_{ij} = 0 or 1 for all i =1,2,\\cdots,m; j = 1,2,\\cdots,n",
+        "a_{ij} = 0 and 1 for all i =1,2,\\cdots,m; j = 1,2,\\cdots,n",
+        "a_{ij} = 1 for all i =1,2,\\cdots,m; j = 1,2,\\cdots,n",
+        "a_{ij} = 0 for all i =1,2,\\cdots,m; j = 1,2,\\cdots,n"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+}
+]

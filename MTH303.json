@@ -1,0 +1,2136 @@
+[
+    {
+        "id": 26267,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "An n×n real matrix is invertible if and only if the span of the rows of A is ${R^n}$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-29T05:11:10.159047+00:00"
+    },
+    {
+        "id": 26269,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Which of the following will be the Matrix Product corresponding to Linear Combination $$\\begin{gathered} \\left( {\\begin{array}{*{20}{c}} { - 2} \\\\ 5 \\end{array}} \\right)x + \\left( {\\begin{array}{*{20}{c}} 3 \\\\ 1 \\end{array}} \\right)y? \\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&{ - 3} \\\\ { - 5}&{ - 2} \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 3&{ - 2} \\\\ 1&5 \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} { - 2}&5 \\\\ 3&1 \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} { - 2}&3 \\\\ 5&1 \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-06-29T05:11:21.575886+00:00"
+    },
+    {
+        "id": 26270,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{Which of the following is an example of Matrix in reduced Echelon form?}}$$",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&0 \\\\ 1&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&1 \\\\ 0&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&1 \\\\ 1&0 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&0 \\\\ 0&1 \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-06-29T05:11:30.94912+00:00"
+    },
+    {
+        "id": 26271,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "A set of linear equations is represented by matrix equation $Ax=b$. The necessary condition for the existence of a solution for this system is ------",
+        "op": [
+            "A must be invertible,",
+            "b must be linearly dependent on the column of A,",
+            "b must be linearly independent on the columns of A,",
+            "none of the above."
+        ],
+        "created_at": "2026-06-29T05:11:40.700411+00:00"
+    },
+    {
+        "id": 26272,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{If}} ~~{A^t} = {A^{ - 1}},then~~ \\left| A \\right| = - - - - .$$",
+        "op": [
+            "1",
+            "-1",
+            "$$\\pm 1$$",
+            "0"
+        ],
+        "created_at": "2026-06-29T05:11:49.765457+00:00"
+    },
+    {
+        "id": 26273,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "In ____ equation, all variables occur only to the first power and do not appear, as arguments of trigonometric, logarithmic, or exponential functions.",
+        "op": [
+            "linear",
+            "nonlinear"
+        ],
+        "created_at": "2026-06-29T05:12:00.715669+00:00"
+    },
+    {
+        "id": 26274,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\left( {\\begin{array}{*{20}{c}} {\\cos\\theta }&{\\sin\\theta } \\\\ { - \\sin\\theta }&{\\cos\\theta } \\end{array}} \\right)^{ - 1}}$$=_______",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\cos\\theta }&{\\sin\\theta } \\\\ {\\sin\\theta }&{ - \\cos\\theta } \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\cos\\theta }&{ - \\sin\\theta } \\\\ {\\sin\\theta }&{\\cos\\theta } \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\cos\\theta }&{\\sin\\theta } \\\\ { - \\sin\\theta }&{\\cos\\theta } \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} { - \\cos\\theta }&{\\sin\\theta } \\\\ {\\sin\\theta }&{\\cos\\theta } \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-06-29T05:12:08.409297+00:00"
+    },
+    {
+        "id": 26815,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Which of the following is true about the existence of free variables (parameter) in a system of Linear Equations?",
+        "op": [
+            "They do not guarantee the Consistency.",
+            "They guarantee the Consistency.",
+            "None of above all",
+            "They guarantee the Inconsistency."
+        ],
+        "created_at": "2026-06-29T09:39:09.274373+00:00"
+    },
+    {
+        "id": 26816,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$$Siny + Sinx = 1,{\\text{ is an example of - - - Equation}}{\\text{.}}$$",
+        "op": [
+            "$${\\text{Linear}}$$",
+            "$${\\text{Non - Linear}}$$*",
+            "$${\\text{Homogeneous}}$$",
+            "$${\\text{Quadratic}}$$"
+        ],
+        "created_at": "2026-06-29T09:40:53.821262+00:00"
+    },
+    {
+        "id": 26817,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Every system of linear equations has _____ solutions; there are no other possibilities.",
+        "op": [
+            "(c) infinitely many",
+            "(d) all (a) to (c).",
+            "(a) zero",
+            "(b) one"
+        ],
+        "created_at": "2026-06-29T09:41:44.025363+00:00"
+    },
+    {
+        "id": 26820,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Under which of the following condition, a system of Linear Equations whose Row - Reduce form is $$\\begin{gathered} \\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 1 \\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} { - 1} \\\\ {h - 3k} \\end{array}} \\end{array}} \\right) \\end{gathered}$$ has NO solution?",
+        "op": [
+            "$$h \\ne 3k$$",
+            "$$\\left( {h,k} \\right) \\ne \\left( {0,0} \\right)$$",
+            "$$h = 3k$$",
+            "$$\\left( {h,k} \\right) = \\left( {0,0} \\right)$$"
+        ],
+        "created_at": "2026-06-29T09:42:36.159511+00:00"
+    },
+    {
+        "id": 26824,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{Under which of the following condition, a system of Linear Equations whose }} \\ {\\text{Row - Reduce form is }}\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} { - 1} \\\\\\ {h - 3k} \\end{array}} \\end{array}} \\right){\\text{ has }}~Infinite ~{\\text{many}} ~{\\text{solutions?}} \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$h \\ne 3k$$",
+            "$$h = 3k$$",
+            "$$\\left( {h,k} \\right) \\ne \\left( {0,0} \\right)$$",
+            "$$\\left( {h,k} \\right) = \\left( {0,0} \\right)$$"
+        ],
+        "created_at": "2026-06-29T09:43:48.796078+00:00"
+    },
+    {
+        "id": 26830,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Whenever a solution set is described explicitly with vectors, we say that the solution is in parametric vector form.The equation x=su+tv (s, t in R) is called a",
+        "op": [
+            "parametric vector equation of the line",
+            "parametric vector equation of the plane*"
+        ],
+        "created_at": "2026-06-29T09:44:57.222737+00:00"
+    },
+    {
+        "id": 26832,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "The Equation $$2x - 3y + kz = 4$$ is linear in _________.",
+        "op": [
+            "$$x,y ~{\\text{and}}~ z$$",
+            "$${\\text{any one variable}}$$",
+            "$$x, y, z ~{\\text{and}}~ k$$",
+            "$$x ~{\\text{and}}~ y ~{\\text{only}}$$"
+        ],
+        "created_at": "2026-06-29T09:45:53.057307+00:00"
+    },
+    {
+        "id": 26836,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Which of the following would be the Augmented Matrix associated with the system $$\\begin{gathered} \\begin{array}{*{20}{c}} {2x = 1} \\\\ { - 2y = x ?} \\end{array} \\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 2 \\\\ { - 1} \\end{array}}&{\\begin{array}{*{20}{c}} 0 \\\\ { - 2} \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} 1 \\\\ 1 \\end{array}} \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 2 \\\\ { - 1} \\end{array}}&{\\begin{array}{*{20}{c}} 0 \\\\ { - 2} \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} 1 \\\\ 0 \\end{array}} \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 2&1 \\\\ { - 2}&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 2 \\\\ 1 \\end{array}}&{\\begin{array}{*{20}{c}} 0 \\\\ { - 2} \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} 1 \\\\ 0 \\end{array}} \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-06-29T09:47:02.03402+00:00"
+    },
+    {
+        "id": 26839,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{Which of the following system will have the non - trivial solution?}}$$",
+        "op": [
+            "$$x = y = 0$$",
+            "$$x = y = 1$$"
+        ],
+        "created_at": "2026-06-29T09:48:29.249621+00:00"
+    },
+    {
+        "id": 27282,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "The equation $Ax=b$ has a solution if and only if",
+        "op": [
+            "b is the linear combination of the columns of A",
+            "b is a non-linear combination of the columns of A"
+        ],
+        "created_at": "2026-06-29T17:20:07.961357+00:00"
+    },
+    {
+        "id": 27284,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{Slope and }}y{\\text{ - intercept of }}y{\\text{ - axis are - - - - respectively}}{\\text{.}}$$",
+        "op": [
+            "$${\\text{both undefined}}$$*",
+            "$${\\text{undefined and zero}}$$",
+            "$${\\text{both zeros}}$$",
+            "$${\\text{zero and undefined}}$$"
+        ],
+        "created_at": "2026-06-29T17:20:21.620117+00:00"
+    },
+    {
+        "id": 27288,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{Under which of the following condition, a system of Linear Equations whose }} \\ {\\text{Row - Reduce form is }}\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} { - 1} \\\\\\ {h - 3k} \\end{array}} \\end{array}} \\right){\\text{ has NO solution?}} \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$h \\ne 3k$$*",
+            "$$h = 3k$$",
+            "$$\\left( {h,k} \\right) \\ne \\left( {0,0} \\right)$$",
+            "$$\\left( {h,k} \\right) = \\left( {0,0} \\right)$$"
+        ],
+        "created_at": "2026-06-29T17:21:32.479572+00:00"
+    },
+    {
+        "id": 27289,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$$\\sin y + \\sin x = 1,$$ is an example of __________ Equation.",
+        "op": [
+            "Linear",
+            "Non - Linear",
+            "Quadratic",
+            "Homogeneous"
+        ],
+        "created_at": "2026-06-29T17:21:51.759553+00:00"
+    },
+    {
+        "id": 27290,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "For the matrix $$A = \\left( {\\begin{array}{*{20}{c}} 4&{x + 2} \\\\ {2x - 3}&{1} \\end{array}} \\right),$$ if $$A = {A^t},$$ then x =__________.",
+        "op": [
+            "-5",
+            "5/2",
+            "5",
+            "Undefined."
+        ],
+        "created_at": "2026-06-29T17:22:14.913765+00:00"
+    },
+    {
+        "id": 27291,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "A linear system is said to be _____ if it has no solutions.",
+        "op": [
+            "inconsistent",
+            "consistent"
+        ],
+        "created_at": "2026-06-29T17:22:29.462029+00:00"
+    },
+    {
+        "id": 27292,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "A linear system is said to be ______ if it has at least one solution.",
+        "op": [
+            "consistent",
+            "inconsistent"
+        ],
+        "created_at": "2026-06-29T17:22:40.350598+00:00"
+    },
+    {
+        "id": 27302,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "The variables in a linear system are called the _____.",
+        "op": [
+            "unknowns",
+            "knowns"
+        ],
+        "created_at": "2026-06-29T17:42:01.951609+00:00"
+    },
+    {
+        "id": 27304,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "The homogeneous equation Ax = 0 has a nontrivial solution if and only if the equation has ___________",
+        "op": [
+            "at least one free variable",
+            "at least two or more free variable"
+        ],
+        "created_at": "2026-06-29T17:42:22.633226+00:00"
+    },
+    {
+        "id": 27305,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "If $$\\alpha = \\beta ,$$ then $$\\left| {\\begin{array}{*{20}{c}} {\\cos\\alpha }&{ - \\sin\\alpha } \\\\ {\\sin\\beta }&{\\cos\\beta } \\end{array}} \\right|$$ =________.",
+        "op": [
+            "$$\\cos 2 \\alpha$$",
+            "$$\\infty$$",
+            "$$\\sin 2 \\alpha$$",
+            "1"
+        ],
+        "created_at": "2026-06-29T17:42:47.592587+00:00"
+    },
+    {
+        "id": 27308,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Basis is a spanning set that is as small as possible",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-29T17:43:08.716396+00:00"
+    },
+    {
+        "id": 27309,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "How many Pivot positions the matrix $$\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 2&3&1 \\end{array}} \\\\ {\\begin{array}{*{20}{c}} 4&6&2 \\end{array}} \\end{array}} \\right)$$ will have?",
+        "op": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-06-29T17:43:31.896863+00:00"
+    },
+    {
+        "id": 27311,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{Which of the following system will have the trivial solution?}}$$",
+        "op": [
+            "$$x = y = 1$$",
+            "$$x = 1, y = 0$$",
+            "$$x = 0, y = 1$$",
+            "$$x = y = 0$$"
+        ],
+        "created_at": "2026-06-29T17:43:49.355609+00:00"
+    },
+    {
+        "id": 30577,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "30 June 2026",
+        "qt": "A finite set of linear equations is called a ____ system.",
+        "op": [
+            "linear",
+            "nonlinear"
+        ],
+        "created_at": "2026-06-30T16:27:00.900824+00:00"
+    },
+    {
+        "id": 30578,
+        "cc": "MTH303",
+        "qn": "2",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is an example of Matrix in Echelon form?",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&1 \\\\ 0&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&1 \\\\ 1&0 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&0 \\\\ 1&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&1 \\\\ 0&1 \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-06-30T16:28:52.108372+00:00"
+    },
+    {
+        "id": 39149,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Two vectors are linearly dependent if and only if they lie________",
+        "op": [
+            "on the same line through origin",
+            "on a line parallel to x-axis"
+        ],
+        "created_at": "2026-07-03T03:59:24.237573+00:00"
+    },
+    {
+        "id": 39150,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$$\\begin{gathered} {x_1} + 2{x_2} + 3{x_3} = 7 \\hfill \\\\\\\\ 4{x_1} + {x_2} + 2{x_3} = 2 \\hfill \\\\\\\\ - 4{x_1} + 3{x_2} + 9{x_3} = 4 \\hfill \\\\\\\\\\\\ \\end{gathered}$$ The augmented matrix for the system is -----------",
+        "op": [
+            "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}} \\right]$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}} \\right)$$",
+            "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]$",
+            "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]$"
+        ],
+        "created_at": "2026-07-03T03:59:53.437943+00:00"
+    },
+    {
+        "id": 39151,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Let A be the matrix of order 2}} \\times {\\text{3 and B be the matrix of order 3}} \\times {\\text{5,then which of the following is the order of the matrix AB?}}$$",
+        "op": [
+            "$$2 \\times 5$$",
+            "$$2 \\times 3$$",
+            "$$3 \\times 5$$",
+            "$$3 \\times 3$$"
+        ],
+        "created_at": "2026-07-03T04:00:48.574207+00:00"
+    },
+    {
+        "id": 39154,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$Let{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} T:{R^2} \\to {R^2}{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} be{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} {\\kern 1pt} transformation{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} T({x_1},{x_2}) = (x,0).{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} The{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} null{\\kern 1pt} {\\kern 1pt} {\\kern 1pt} space{\\kern 1pt} {\\kern 1pt} (or{\\kern 1pt} {\\kern 1pt} \\ker nel)\\,N(T)\\,\\,of\\,T\\,\\,is$",
+        "op": [
+            "$(0,1)$",
+            "$(0, x_2)$",
+            "$(1, 0)$",
+            "$(x_1,0)$"
+        ],
+        "created_at": "2026-07-03T04:01:54.182456+00:00"
+    },
+    {
+        "id": 39156,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Which one of the following is a diagonal matrix?",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} 2&2&0 \\\\\\\\\\\\ 0&2&0 \\\\\\\\\\\\ 0&0&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 2&0&0 \\\\\\\\\\\\ 0&1&0 \\\\\\\\\\\\ 0&0&1 \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-07-03T04:02:29.659224+00:00"
+    },
+    {
+        "id": 39158,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "We can add the matrices of ______________.",
+        "op": [
+            "different order",
+            "same number of columns",
+            "same number of rows.",
+            "same order"
+        ],
+        "created_at": "2026-07-03T04:03:50.332042+00:00"
+    },
+    {
+        "id": 39159,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^2},{\\text{Linearly dependent vectors lie on the same}} - - - - - .$$",
+        "op": [
+            "Line",
+            "Plane"
+        ],
+        "created_at": "2026-07-03T04:04:26.249045+00:00"
+    },
+    {
+        "id": 39160,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The determinant of a triangular matrix is the sum of the entries of the main diagonal.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-03T04:05:03.336479+00:00"
+    },
+    {
+        "id": 39161,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "A transformation $T:{R^n} \\to {R^m}$ Is a rule that assigns to each vector x in ${R^n}$ , an image vector T(x) in ${R^m}$. The set ${R^n}$ is called the__________ , and ${R^m}$ is called the _______.",
+        "op": [
+            "domain of T, co-domain of T",
+            "co-domain of T, domain of T"
+        ],
+        "created_at": "2026-07-03T04:05:29.877452+00:00"
+    },
+    {
+        "id": 39163,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Which one of the following is a null matrix?",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} 0&0&0 \\\\\\\\\\\\\\\\\\ 0&0&0 \\\\\\\\\\\\\\\\\\ 0&0&0 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&0&0 \\\\\\\\\\\\\\\\\\ 2&0&0 \\\\\\\\\\\\\\\\\\ 0&0&1 \\end{array}} \\right)$$"
+        ],
+        "created_at": "2026-07-03T04:06:14.100413+00:00"
+    },
+    {
+        "id": 39894,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "A null space is a vector space.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-03T13:14:51.381009+00:00"
+    },
+    {
+        "id": 39895,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Vectors}} \\left( {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 3 \\end{array}} \\right){\\text{ and}} \\left( {\\begin{array}{*{20}{c}} { - 66} \\\\\\ {99} \\end{array}} \\right){\\text{ are linearly }} - - - - - .$$",
+        "op": [
+            "Dependent",
+            "Independent"
+        ],
+        "created_at": "2026-07-03T13:15:01.393949+00:00"
+    },
+    {
+        "id": 39896,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{If }}A = \\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 3&6 \\end{array}} \\right)\\mathop \\sim \\limits^{{\\text{Row Equivalent}}} \\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 0&0 \\end{array}} \\right), {\\text{then the Columns of}} ~{\\text{A}} ~{\\text{are}} ~{\\text{Linearly}} {\\text{ - - - - - - - }}$$",
+        "op": [
+            "Independent",
+            "Dependent"
+        ],
+        "created_at": "2026-07-03T13:15:18.142329+00:00"
+    },
+    {
+        "id": 39897,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Vector}} \\left( {\\begin{array}{*{20}{c}} { - 1} \\\\\\ 0 \\end{array}} \\right) {\\text{is Linearly}} - - - - - - .$$",
+        "op": [
+            "Dependent",
+            "Independent"
+        ],
+        "created_at": "2026-07-03T13:15:39.273178+00:00"
+    },
+    {
+        "id": 39898,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The two vectors $(-2,1)$ and $(1,2)$ are",
+        "op": [
+            "Perpendicular to each other",
+            "Pointing in the opposite direction of each other",
+            "Linearly dependent of each other",
+            "None of the above"
+        ],
+        "created_at": "2026-07-03T13:15:52.458332+00:00"
+    },
+    {
+        "id": 39899,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "What is the maximum possible number of  pivots in a 4x6 matrix ?",
+        "op": [
+            "6",
+            "8",
+            "4",
+            "10"
+        ],
+        "created_at": "2026-07-03T13:16:06.984068+00:00"
+    },
+    {
+        "id": 39904,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "If A= transpose of A( where A is a square matrix ), then which of the following is the most appropriate option for A?",
+        "op": [
+            "A is invertible matrix.",
+            "A is a scalar matrix.",
+            "A is symmetric matrix.",
+            "A is singular matrix."
+        ],
+        "created_at": "2026-07-03T13:17:12.943582+00:00"
+    },
+    {
+        "id": 39906,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "A system of linear equations is said to be homogeneous if it can be written in the form ______________.",
+        "op": [
+            "AX = 0",
+            "AX = B"
+        ],
+        "created_at": "2026-07-03T13:17:28.412355+00:00"
+    },
+    {
+        "id": 39963,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Vectors}} \\left( {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}} \\right) {\\text{and}} \\left( {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\end{array}} \\right) {\\text{are linearly}} - - - - - .$$",
+        "op": [
+            "Dependent",
+            "Independent"
+        ],
+        "created_at": "2026-07-03T13:56:18.257433+00:00"
+    },
+    {
+        "id": 39965,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Let A be the matrix of order 2X3 and B be the matrix of order 3X5,then which of the following is the order of the matrix AB?",
+        "op": [
+            "2x5",
+            "3X5",
+            "3X3",
+            "2X3"
+        ],
+        "created_at": "2026-07-03T13:56:52.909943+00:00"
+    },
+    {
+        "id": 39967,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Since vector}}\\left( {\\begin{array}{*{20}{c}} 2 \\\\\\ 3 \\end{array}} \\right) {\\text{lies in the span}} \\left\\{ {\\left( {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}} \\right),\\left( {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\end{array}} \\right)} \\right\\} {\\text{then the vectors }}\\left( {\\begin{array}{*{20}{c}} 2 \\\\\\ 3 \\end{array}} \\right),\\left( {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}} \\right) {\\text{and}} \\left( {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\end{array}} \\right) {\\text{are Linearly }} - - - -$$",
+        "op": [
+            "Dependent",
+            "Independent"
+        ],
+        "created_at": "2026-07-03T13:57:16.657916+00:00"
+    },
+    {
+        "id": 39977,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Any set $$\\{ {v_1},{v_2},...,{v_p}\\} \\in {R^n}$$ is linearly dependent if",
+        "op": [
+            "p<n",
+            "p>n"
+        ],
+        "created_at": "2026-07-03T14:00:39.874697+00:00"
+    },
+    {
+        "id": 40133,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Set}} \\left\\{ {\\left( {\\begin{array}{*{20}{c}} 1 \\\\\\ 2 \\end{array}} \\right),\\left( {\\begin{array}{*{20}{c}} 0 \\\\\\ 0 \\end{array}} \\right)} \\right\\} {\\text{is Linearly - - - - - in}}~ {\\mathbb{R}^2}.$$",
+        "op": [
+            "Independent",
+            "Dependent"
+        ],
+        "created_at": "2026-07-03T15:44:37.486023+00:00"
+    },
+    {
+        "id": 41108,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "$$\\eqalign{ & If A = {A^t} ( Where A is a square matrix), then which of the following \\cr & is the most appropriate option for A \\cr}$$",
+        "op": [
+            "A is a scalar matrix.",
+            "A is invertible matrix.",
+            "A is singular matrix.",
+            "A is symetric matrix."
+        ],
+        "created_at": "2026-07-04T11:59:27.944193+00:00"
+    },
+    {
+        "id": 41109,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "A set of two vectors $$\\{ {v_1},{v_2}\\}$$ is linearly dependent if and only if one of the vector is",
+        "op": [
+            "Additive inverse of the other",
+            "Multiple of the other"
+        ],
+        "created_at": "2026-07-04T11:59:49.363387+00:00"
+    },
+    {
+        "id": 41395,
+        "cc": "MTH303",
+        "qn": "3",
+        "dt": "04 July 2026",
+        "qt": "The columns of a matrix A are ------------------- if and only if the equation $Ax=0$ has only the trivial solution.",
+        "op": [
+            "linearly independent",
+            "linearly dependent"
+        ],
+        "created_at": "2026-07-04T17:45:52.029428+00:00"
+    },
+    {
+        "id": 58242,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is true for the partitioned matrices $Y = [\\,Q\\,\\,\\,\\,\\,\\,\\,\\,R\\,]\\,\\,\\,{\\rm{and}}\\,\\,\\,Z = [\\,U\\,\\,\\,\\,\\,\\,\\,\\,V\\,]\\,,$ where sub-matrices $Q$ and $R$ have the same sizes as $U$ and $V$ respectively?",
+        "op": [
+            "$$Y + Z = [\\,Q + U\\,\\,\\,\\,\\,\\,\\,R + V\\,]\\,$$",
+            "$$Y + Z = [\\,QU\\,\\,\\,\\,\\,\\,\\,RV\\,]\\,$$",
+            "$$Y + Z = \\left[ \\begin{array}{l} \\,QU\\\\\\RV \\end{array} \\right]$$",
+            "$$Y + Z = \\left[ \\begin{array}{l} \\,Q + U\\\\\\R + V\\, \\end{array} \\right]$$"
+        ],
+        "created_at": "2026-07-08T09:16:10.646583+00:00"
+    },
+    {
+        "id": 58244,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is true for the speed of convergence of both the Jacobi and Gauss-Seidel sequences?",
+        "op": [
+            "It depends on how much the diagonal entries dominate the corresponding row sums.",
+            "It depends on how much the diagonal entries dominate the corresponding column sums.",
+            "It depends on how much the diagonal entries dominate the preceding column sums.",
+            "It depends on how much the diagonal entries dominate the preceding row sums."
+        ],
+        "created_at": "2026-07-08T09:17:26.880961+00:00"
+    },
+    {
+        "id": 58245,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The Jacobi’s iteration converges if a square matrix A is diagonally dominant.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-08T09:18:36.324123+00:00"
+    },
+    {
+        "id": 58247,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If $X = \\left[ \\begin{array}{l} \\,M\\\\\\N\\, \\end{array} \\right]\\,\\,{\\rm{and}}\\,\\,Y = \\left[ {\\,Q\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,P\\,} \\right]$ ( where $M$ , $N$ , $Q$ and $P$ are square sub-matrices of same size ) , then which of the following is possible ?",
+        "op": [
+            "The product $XY$ and $YX$ both are defined.",
+            "The product $XY$ and $YX$ both are not defined.",
+            "The product $XY$ is not defined but $YX$ is defined.",
+            "The product $XY$ is defined but $YX$ is not defined."
+        ],
+        "created_at": "2026-07-08T09:19:21.949403+00:00"
+    },
+    {
+        "id": 58250,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "As soon as an approximate solution of a linear system is sufficiently accurate for practical work then which of the following is true for an iterative process?",
+        "op": [
+            "The process may be stopped.",
+            "The reduced row-echelon method may be used.",
+            "The row-echelon method may be used.",
+            "The process may be carried on."
+        ],
+        "created_at": "2026-07-08T09:20:37.708997+00:00"
+    },
+    {
+        "id": 58254,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In LU-decomposition, if A is the square matrix of order m, then the order of both lower and upper triangular matrices will be ______.",
+        "op": [
+            "$m+1$",
+            "$m$",
+            "$2m$",
+            "$m^2$"
+        ],
+        "created_at": "2026-07-08T09:21:31.831517+00:00"
+    },
+    {
+        "id": 58256,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If a system of equations is solved using the Gauss-Seidel method, then which of the following is the most appropriate answer about the matrix M that is derived from the coefficient matrix ?",
+        "op": [
+            "All of its entries below and above the diagonal must be zero.",
+            "All of its entries above the diagonal must be zero.",
+            "All of its entries below the diagonal must be zero.",
+            "All of its entries on the diagonal must be zero."
+        ],
+        "created_at": "2026-07-08T09:22:32.43843+00:00"
+    },
+    {
+        "id": 58260,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The Gauss-Seidel method is applicable to strictly  _________ dominant matrix.",
+        "op": [
+            "column wise",
+            "row wise",
+            "diagonally",
+            "both row and column wise"
+        ],
+        "created_at": "2026-07-08T09:23:41.238531+00:00"
+    },
+    {
+        "id": 58261,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A matrix in which each descending diagonal from left to right is constant is called a _____ matrix.",
+        "op": [
+            "diagonal",
+            "diagonal-constant",
+            "block upper triangular",
+            "block lower triangular"
+        ],
+        "created_at": "2026-07-08T09:24:36.608873+00:00"
+    },
+    {
+        "id": 58876,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The Jacobi’s method is a method of solving a matrix equation on a matrix that has _______ zeros along its main diagonal.",
+        "op": [
+            "No",
+            "Two",
+            "more than two",
+            "more than two"
+        ],
+        "created_at": "2026-07-08T17:18:38.682258+00:00"
+    },
+    {
+        "id": 58878,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In Jacobi’s method, the rate of convergence is quite ---------- compared with other methods.",
+        "op": [
+            "None of these",
+            "Slow",
+            "Fast",
+            "Speedy"
+        ],
+        "created_at": "2026-07-08T17:19:31.255296+00:00"
+    },
+    {
+        "id": 58881,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The Jacobi’s method is a method of solving a matrix equation on a matrix that has two zeros along its main diagonal.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-08T17:20:17.169258+00:00"
+    },
+    {
+        "id": 58883,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A partitioned matrix ‘A’ is said to be block diagonal if the matrices on the main diagonal are square and all other position matrices are ______.",
+        "op": [
+            "Unit",
+            "Nonzero skew symmetric",
+            "Nonzero symmetric",
+            "Zero"
+        ],
+        "created_at": "2026-07-08T17:20:45.782046+00:00"
+    },
+    {
+        "id": 58884,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "LU-decomposition converts the problem of solving the single system A x = b into the problem of solving the two systems, L y = b and U x = y, these systems are easy to solve because their co-efficient matrices are_______.",
+        "op": [
+            "Identity",
+            "Diagonal",
+            "Identity",
+            "Triangular"
+        ],
+        "created_at": "2026-07-08T17:21:01.349386+00:00"
+    },
+    {
+        "id": 58886,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If a square matrix A can be reduced to row echelon form with _____ interchanges, then A has an LU-decomposition.",
+        "op": [
+            "No row",
+            "Row",
+            "Column",
+            "No column"
+        ],
+        "created_at": "2026-07-08T17:21:38.90917+00:00"
+    },
+    {
+        "id": 58898,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If A is strictly diagonally dominant matrix, then which of the following is true for A?",
+        "op": [
+            "It is a singular matrix.",
+            "It is a rectangular matrix.",
+            "It is an invertible matrix.",
+            "It is a null matrix."
+        ],
+        "created_at": "2026-07-08T17:24:50.444477+00:00"
+    },
+    {
+        "id": 58899,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A decomposition of a matrix as a product of two or more matrices is called the matrix _____.",
+        "op": [
+            "Transformation",
+            "Factorization",
+            "Multiplication",
+            "Composition"
+        ],
+        "created_at": "2026-07-08T17:25:08.558585+00:00"
+    },
+    {
+        "id": 58902,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "At what condition when both the Jacobi and Gauss-Seidel sequences converge to the unique solution of  Ax = b, for any initial ?",
+        "op": [
+            "When A is symmetric",
+            "When A is scalar",
+            "When A is invertible",
+            "When A is singular"
+        ],
+        "created_at": "2026-07-08T17:26:21.777459+00:00"
+    },
+    {
+        "id": 58943,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If the absolute value of each diagonal entry in a square matrix exceeds the sum of the absolute values of the other entries in the same row, then which of the following is true for the matrix?",
+        "op": [
+            "It is a strictly diagonally dominant matrix.",
+            "It is a null matrix.",
+            "It is a singular matrix.",
+            "It is a diagonally dominant matrix."
+        ],
+        "created_at": "2026-07-08T18:36:31.64407+00:00"
+    },
+    {
+        "id": 58946,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "For which of the matrix, the Gauss-Seidel method is applicable?",
+        "op": [
+            "Null matrix",
+            "Diagonally dominant matrix",
+            "Strictly diagonally dominant matrix",
+            "Rectangular matrix"
+        ],
+        "created_at": "2026-07-08T18:37:49.266712+00:00"
+    },
+    {
+        "id": 58947,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If A is strictly diagonally dominant, then A is _________.",
+        "op": [
+            "invertible",
+            "scalar",
+            "singular",
+            "symmetric"
+        ],
+        "created_at": "2026-07-08T18:38:52.674628+00:00"
+    },
+    {
+        "id": 58948,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How many assumptions are there in Jacobi’s method?",
+        "op": [
+            "5",
+            "4",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-07-08T18:39:21.578876+00:00"
+    },
+    {
+        "id": 58949,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Direct methods can be more rapid than iterative algorithms.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-08T18:40:13.192858+00:00"
+    },
+    {
+        "id": 59698,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "If a system of equations is solved using the Jacobi’s method , then which of  the following is the most appropriate answer about the matrix M that is derived from the coefficient matrix ?",
+        "op": [
+            "diagonal must be zero.",
+            "All of its entries below the diagonal must be zero.",
+            "All of its entries on the diagonal must be zero.",
+            "All of its entries above the diagonal must be zero."
+        ],
+        "created_at": "2026-07-09T15:10:24.477904+00:00"
+    },
+    {
+        "id": 59699,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "A partitioned matrix is a partition of a matrix into rectangular smaller matrices called _____.",
+        "op": [
+            "Column",
+            "Element",
+            "Row",
+            "Blocks"
+        ],
+        "created_at": "2026-07-09T15:11:05.674907+00:00"
+    },
+    {
+        "id": 59700,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "A sufficient condition for the Jacobi’s method to converge for the linear system Ax=b",
+        "op": [
+            "None of the above.",
+            "A is non-singular",
+            "A is diagonally dominant",
+            "A-I is diagonally dominant"
+        ],
+        "created_at": "2026-07-09T15:11:15.185167+00:00"
+    },
+    {
+        "id": 59701,
+        "cc": "MTH303",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What is the maximum possible number of  pivots in a 6x6 matrix ?",
+        "op": [
+            "0",
+            "4",
+            "2",
+            "6"
+        ],
+        "created_at": "2026-07-09T15:11:47.445456+00:00"
+    },
+    {
+        "id": 71689,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "{\\text{If }}A = \\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 3&4 \\end{array}} \\right)\\mathop \\sim \\limits^{{\\text{Row Equivalent}}} \\left( {\\begin{array}{*{20}{c}} 1&0 \\\\\\ 0&1 \\end{array}} \\right), {\\text{then the Columns of}} ~{\\text{A}}~ {\\text{are}}~ {\\text{Linearly}} {\\text{ - - - - - - - }}",
+        "op": [
+            "Dependent",
+            "Independent"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71690,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "{\\text{Set}} \\left\\{ {\\left( {\\begin{array}{*{20}{c}} 1 \\\\\\ 2 \\end{array}} \\right),\\left( {\\begin{array}{*{20}{c}} 0 \\\\\\ 0 \\end{array}} \\right)} \\right\\} {\\text{is Linearly - - - - - in}}~ {\\mathbb{R}^2}.",
+        "op": [
+            "Independent",
+            "Dependent"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71691,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "\\begin{gathered} {\\text{What will be the order of matrix:}} A - B{\\text{, if the orders of both}} ~ \\ A ~{\\text{and}} ~B ~{\\text{is}}~ 2 \\times 3? \\\\\\ \\end{gathered} ",
+        "op": [
+            "3 \\times 3",
+            "2 \\times 3",
+            "0 \\times 0",
+            "2 \\times 2"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71692,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "\\begin{gathered} {\\text{Under which of the following condition, a system of Linear Equations whose }} \\ {\\text{Row - Reduce form is }}\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} | \\\\\\ | \\end{array}}&{\\begin{array}{*{20}{c}} { - 1} \\\\\\ {h - 3k} \\end{array}} \\end{array}} \\right){\\text{ has }}~Infinite ~{\\text{many}} ~{\\text{solutions?}} \\\\\\ \\end{gathered} ",
+        "op": [
+            "h = 3k",
+            "\\left( {h,k} \\right) \\ne \\left( {0,0} \\right)",
+            "\\left( {h,k} \\right) = \\left( {0,0} \\right)",
+            "h \\ne 3k"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71693,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "$\\left[ {\\begin{array}{*{20}{c}} 3 \\\\\\\\ 2 \\\\\\\\ { - 1} \\end{array}} \\right] \\times \\left[ {\\begin{array}{*{20}{c}} 8&{ - 4}&5 \\end{array}} \\right] = $ ",
+        "op": [
+            "11",
+            "$\\left[ {\\begin{array}{*{20}{c}} {24}&{ - 8}&{ - 5} \\end{array}} \\right]$",
+            "$\\left( {\\begin{array}{*{20}{c}} {24}&{ - 12}&{15} \\\\\\\\ {16}&{ - 8}&{10} \\\\\\\\ { - 8}&4&{ - 5} \\end{array}} \\right)$",
+            "$\\left[ {\\begin{array}{*{20}{c}} {24} \\\\\\\\ { - 8} \\\\\\\\ { - 5} \\end{array}} \\right]$"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71694,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "{\\text{Which of the following is Row - Equivalent of}} \\left( {\\begin{array}{*{20}{c}} 3&2 \\\\\\ 1&2 \\end{array}} \\right)? ",
+        "op": [
+            "\\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 0&{ - 4} \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 2&3 \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ 0&4 \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2 \\\\\\ { - 4}&0 \\end{array}} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71695,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "{\\text{For the matrix:}}~ A = \\left( {\\begin{array}{*{20}{c}} 4&{x + 2} \\\\\\ {2x - 3}&{1} \\end{array}} \\right), {\\text{if}} ~A = {A^t}, {\\text{then}} ~x = - - - . ",
+        "op": [
+            "-5",
+            "Undefined",
+            "5",
+            "5/2"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71696,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "26 December 2025",
+        "qt": "{\\left( {\\begin{array}{*{20}{c}} {Cos\\theta }&{Sin\\theta } \\\\\\ { - Sin\\theta }&{Cos\\theta } \\end{array}} \\right)^{ - 1}} = ",
+        "op": [
+            "b) \\left( {\\begin{array}{*{20}{c}} { - Cos\\theta }&{Sin\\theta } \\\\\\ {Sin\\theta }&{Cos\\theta } \\end{array}} \\right)",
+            "c) \\left( {\\begin{array}{*{20}{c}} {Cos\\theta }&{Sin\\theta } \\\\\\ {Sin\\theta }&{ - Cos\\theta } \\end{array}} \\right)",
+            "d) \\left( {\\begin{array}{*{20}{c}} {Cos\\theta }&{ - Sin\\theta } \\\\\\ {Sin\\theta }&{Cos\\theta } \\end{array}} \\right)",
+            "a) \\left( {\\begin{array}{*{20}{c}} {Cos\\theta }&{Sin\\theta } \\\\\\ { - Sin\\theta }&{Cos\\theta } \\end{array}} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71700,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "27 December 2025",
+        "qt": "The horizontal lines in a matrix are called the ____ of the matrix.",
+        "op": [
+            "columns",
+            "rows"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71701,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "27 December 2025",
+        "qt": "Let A, B and C matrices are of same order and (A+B)+C=A+(B+C), this law is known as",
+        "op": [
+            "Associative law",
+            "Distributive law",
+            "Commutative law",
+            "Cranmer's rule"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71702,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "27 December 2025",
+        "qt": "\\begin{gathered} {\\text{The}} {\\text{Elementary Row operations:}}R_2^/ \\to {R_2} + 4{R_1} ~{\\text{and}}~ R_3^/ \\to {R_3} - 6{R_1} ~{\\text{are }} \\ {\\text{performed on}}~ {\\text{to}} ~{\\text{get}} \\left( {\\begin{array}{*{20}{c}} 1&2&{ - 5} \\\\\\ { - 4}&1&{ - 6} \\\\\\ 6&3&{ - 4} \\end{array}} \\right) \\sim - - - - - - ? \\\\\\ \\end{gathered} ",
+        "op": [
+            "\\left( {\\begin{array}{*{20}{c}} 1&2&{ - 5} \\\\\\ 0&9&{ - 26} \\\\\\ 0&{ - 9}&{26} \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2&{ - 5} \\\\\\ 0&{ - 9}&{ - 26} \\\\\\ 0&{ - 9}&{26} \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2&{ - 5} \\\\\\ 0&9&{26} \\\\\\ 0&{ - 9}&{ - 26} \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} 1&2&{ - 5} \\\\\\ 0&{ - 9}&{26} \\\\\\ 0&9&{ - 26} \\end{array}} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71703,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "27 December 2025",
+        "qt": "If the augmented matrices of two linear systems are row equivalent, then the two systems have the same _______.",
+        "op": [
+            "columns",
+            "rows",
+            "solution set",
+            "elements"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71704,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "The transpose of the product of two matrices is equal to",
+        "op": [
+            "$(AB)^{T}=A^{T}B^{T}$",
+            "$(AB)^{T}=B^{T}A^{T}$"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71705,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "\\begin{gathered} {\\text{If the equation:}}\\left( {\\begin{array}{*{20}{c}} { - 2}&3 \\\\ 5&1 \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} {{b_1}} \\\\ {{b_2}} \\end{array}} \\right){\\text{has the solution for all }} {b_1},{b_2} \\in \\mathbb{R}, \\ {\\text{then}} \\left( {\\begin{array}{*{20}{c}} { - 2} \\\\ 5 \\end{array}} \\right) {\\text{and}} \\left( {\\begin{array}{*{20}{c}} 3 \\\\ 1 \\end{array}} \\right) {\\text{will span}} - - - - - . \\\\ \\end{gathered} ",
+        "op": [
+            "{\\mathbb{R}^3}space",
+            "\\mathbb{R}~space",
+            "{\\text{Nothing}}",
+            "{\\mathbb{R}^2}space"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71706,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "A set of two vectors \\{ {v_1},{v_2}\\} is linearly dependent if and only if one of the vector is",
+        "op": [
+            "Additive inverse of the other",
+            "Multiple of the other"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71707,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "\\left( {\\begin{array}{*{20}{c}} { - 1}&0 \\\\\\ 0&{ - 1} \\end{array}} \\right) ",
+        "op": [
+            "\\frac{{ - 2}}{3} {\\text{and }} \\frac{1}{3}",
+            "\\frac{2}{3} {\\text{and }} \\frac{1}{3}",
+            "\\frac{{ - 2}}{3} {\\text{and }} \\frac{{ - 1}}{3}",
+            "\\frac{{ - 2}}{3} {\\text{and }} \\frac{{ - 1}}{3}"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71708,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "The vertical lines in a matrix are called the _____ of the matrix.",
+        "op": [
+            "columns",
+            "rows"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71709,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "{\\text{If}} ~\\alpha = \\beta , {\\text{then}}~ \\left| {\\begin{array}{*{20}{c}} {Cos\\alpha }&{ - Sin\\alpha } \\\\\\ {Cos\\beta }&{Sin\\beta } \\end{array}} \\right| = ",
+        "op": [
+            "Cos2\\alpha",
+            "Undefined(\\infty )",
+            "1",
+            "Sin2\\alpha"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71710,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "\\begin{gathered} The ~values~ of~ x~ and~ y~ which~ satisfy~ the ~matrix~ equation: \\ \\left( {\\begin{array}{*{20}{c}} 4 \\\\\\ y \\end{array}} \\right) = x\\left( {\\begin{array}{*{20}{c}} 2 \\\\\\ 3 \\end{array}} \\right) are - - - - . \\\\\\ \\end{gathered} ",
+        "op": [
+            "\\left( {\\begin{array}{*{20}{c}} x \\\\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} 2 \\\\\\ 6 \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} x \\\\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} 3 \\\\\\ 2 \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} x \\\\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} 2 \\\\\\ 3 \\end{array}} \\right)",
+            "\\left( {\\begin{array}{*{20}{c}} x \\\\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} 6 \\\\\\ 2 \\end{array}} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71711,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "A matrix with equal number of rows and columns is called _____ matrix.",
+        "op": [
+            "rectangular",
+            "row",
+            "column",
+            "square"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71712,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "$${\\text{If}} ~~i= \\sqrt { - 1} \\in \\mathbb{C}, {\\text{and}}~~ n \\in {\\mathbb{Z}^ + }, {\\text{then}} ~~{\\left( {\\begin{array}{*{20}{c}} i&0 \\\\\\ 0&i \\end{array}} \\right)^{4n}} = - - - - - - .$$ ",
+        "op": [
+            "$$\\left( {\\begin{array}{*{20}{c}} { - 1}&0 \\\\\\ 0&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&0 \\\\\\ 0&1 \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} 1&0 \\\\\\ 0&{ - 1} \\end{array}} \\right)$$",
+            "$$\\left( {\\begin{array}{*{20}{c}} { - 1}&0 \\\\\\ 0&{ - 1} \\end{array}} \\right)$"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71713,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "28 December 2025",
+        "qt": "If \\[A = \\left[ {\\begin{array}{*{20}{c}} 2&{ - 7} \\\\\\\\\\\\ 4&3 \\end{array}} \\right]\\], then adjoint of A is ",
+        "op": [
+            "\\[A = \\left[ {\\begin{array}{*{20}{c}} 2& 7 \\\\\\\\\\\\ {-4}&3 \\end{array}} \\right]\\]",
+            "\\[A = \\left[ {\\begin{array}{*{20}{c}} 3& 7 \\\\\\\\\\\\ {-4}&2 \\end{array}} \\right]\\]"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71997,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "If an augmented matrix $[A \\,\\ b]$ has a pivot position in every row then",
+        "op": [
+            "The equation$Ax=b$ may or may not be consistent",
+            "The equation$Ax=b$ may or may not be inconsistent"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71998,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "\\left( {\\begin{array}{*{20}{c}} {\\begin{array}{*{20}{c}} 0 \\\\\\ 0 \\\\\\ 0 \\end{array}}&{\\begin{array}{*{20}{c}} 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\end{array}} \\right) {\\text{is an example of - - - - - - - matrix}}{\\text{.}} ",
+        "op": [
+            "Zero",
+            "Non-Singular",
+            "Singular",
+            "Column"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71999,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "The equation 0x - 0y = 0 has __________ solution(s).",
+        "op": [
+            "Infinite many",
+            "No",
+            "multiple finite",
+            "Unique"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72000,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "\\[\\begin{array}{*{20}{c}} {{\\text{For the following system of Equations:}}} \\\\\\ {x + 2y = 0,{\\text{ }}2x - y = 0{\\text{;}}} \\\\\\ {{\\text{the solution set is - - - - - }}{\\text{.}}} \\end{array}\\]",
+        "op": [
+            "$${\\text{Line through origin in}} ~{\\mathbb{R}^3}$$",
+            "$${\\text{Any arbitrary line in}} ~{\\mathbb{R}^2}$$",
+            "$${\\text{Line through origin in}} ~{\\mathbb{R}^2}$$",
+            "$${\\text{Real line}}~ \\mathbb{R}$$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72001,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "The determinant of the matrix A is denoted by",
+        "op": [
+            "$\\bar{A}$",
+            "$A^T$",
+            "$|A|$",
+            "$A’$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72002,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "Order of matrix is based on the numbers of _______.",
+        "op": [
+            "(b) elements",
+            "(d) both (a) and (c)",
+            "(c) columns",
+            "(a) rows"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72003,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "$$\\begin{gathered} {\\text{If the equation:}}\\left( {\\begin{array}{*{20}{c}} { - 2}&3 \\\\ 5&1 \\end{array}} \\right)\\left( {\\begin{array}{*{20}{c}} x \\\\ y \\end{array}} \\right) = \\left( {\\begin{array}{*{20}{c}} {{b_1}} \\\\ {{b_2}} \\end{array}} \\right){\\text{has the solution for all }} {b_1},{b_2} \\in \\mathbb{R}, \\ {\\text{then}} \\left( {\\begin{array}{*{20}{c}} { - 2} \\\\ 5 \\end{array}} \\right) {\\text{and}} \\left( {\\begin{array}{*{20}{c}} 3 \\\\ 1 \\end{array}} \\right) {\\text{will span}} - - - - - . \\\\ \\end{gathered} $$ ",
+        "op": [
+            "$$\\mathbb{R}~space$$",
+            "$${\\text{Nothing}}$$",
+            "$${\\mathbb{R}^3}space$$",
+            "$${\\mathbb{R}^2}space $$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72004,
+        "cc": "MTH303",
+        "qn": "02",
+        "dt": "31 December 2025",
+        "qt": "If the order of matrices A, B and C are 2*3, 3*15 and 15*100 respectively, then the order of Product ABC= -------.",
+        "op": [
+            "2*100",
+            "200",
+            "405000",
+            "100*2"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72429,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "\\eqalign{ & If A = {A^t} ( Where A is a square matrix), then which of the following \\cr & is the most appropriate option for A \\cr}",
+        "op": [
+            "A is singular matrix.",
+            "A is a scalar matrix.",
+            "A is symetric matrix.",
+            "A is invertible matrix."
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72432,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "The matrix M = \\left[ {\\,\\begin{array}{*{20}{c}} a&4&5&6\\\\\\7&a&4&5\\\\\\8&7&a&4\\\\\\9&8&7&a \\end{array}\\,} \\right] is a ______ matrix. ",
+        "op": [
+            "Diagonal",
+            "Toeplitz",
+            "Identity",
+            "Rectangular"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72433,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "If X = \\left[ \\begin{array}{l} \\,M\\\\\\N\\, \\end{array} \\right]\\,\\,{\\rm{and}}\\,\\,Y = \\left[ {\\,Q\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,P\\,} \\right] ( where M , N , Q and P are square sub-matrices of same size ) , then which of the following is possible ? ",
+        "op": [
+            "The product XY and YX both are not defined.",
+            "The product XY is not defined but YX is defined.",
+            "The product XY and YX both are defined.",
+            "The product XY is defined but YX is not defined."
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72442,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "Consider an LU-factorization, the matrix L is _____ and is called a unit lower triangular matrix.",
+        "op": [
+            "Singular",
+            "Invertible",
+            "zero",
+            "Identity"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72443,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "Which of the following is true for the partitioned matrices Y = [\\,Q\\,\\,\\,\\,\\,\\,\\,\\,R\\,]\\,\\,\\,{\\rm{and}}\\,\\,\\,Z = [\\,U\\,\\,\\,\\,\\,\\,\\,\\,V\\,]\\,, where sub-matrices Q and R have the same sizes as U and V respectively?",
+        "op": [
+            "Y + Z = \\left[ \\begin{array}{l} \\,QU\\\\\\RV \\end{array} \\right]",
+            "Y + Z = [\\,QU\\,\\,\\,\\,\\,\\,\\,RV\\,]\\,",
+            "Y + Z = [\\,Q + U\\,\\,\\,\\,\\,\\,\\,R + V\\,]\\,",
+            "Y + Z = \\left[ \\begin{array}{l} \\,Q + U\\\\\\R + V\\, \\end{array} \\right]"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72444,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "02 January 2026",
+        "qt": "{\\text{Let A be the matrix of order 2}} \\times {\\text{3 and B be the matrix of order 3}} \\times {\\text{5,then which of the following is the order of the matrix AB?}}",
+        "op": [
+            "2 \\times 3",
+            "3 \\times 3",
+            "2 \\times 5",
+            "3 \\times 5"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72474,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "03 January 2026",
+        "qt": "An m x m ______  matrix is only square matrix that is both unit lower triangular and upper triangular.",
+        "op": [
+            "Scalar",
+            "Diagonal",
+            "Null",
+            "Identity"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72475,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "03 January 2026",
+        "qt": "Which of the following is the most suitable option while doing LU-factorization?",
+        "op": [
+            "Entries cannot be interchanged.",
+            "Columns can be interchanged.",
+            "Rows can be interchanged.",
+            "Rows cannot be interchanged."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72578,
+        "cc": "MTH303",
+        "qn": "03",
+        "dt": "04 January 2026",
+        "qt": "The matrix $ M = \\left[ {\\,\\begin{array}{*{20}{c}} a&4&5&6\\\\\\7&a&4&5\\\\\\8&7&a&4\\\\\\9&8&7&a \\end{array}\\,} \\right]$ is a ______ matrix. ",
+        "op": [
+            "Toeplitz",
+            "Rectangular",
+            "Diagonal",
+            "Identity"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72702,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If M=[3] then which of the following is the determinant of the matrix M?",
+        "op": [
+            "[3]",
+            "1",
+            "3",
+            "[1]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72703,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If |D|=ad-bc is a determinant of an n x n matrix D then at what condition matrix D is invertible?",
+        "op": [
+            "When |D|=ad-bc=0",
+            "When |D|=ad-bc is not equal to zero",
+            "When |D|=ad-bc=|2|",
+            "When |D|=ad-bc= [0    2]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72704,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If a multiple of one row of a square matrix A is added to another row to produce a matrix B, then which of the following condition is true?",
+        "op": [
+            "det(B). det(A) = det(A)",
+            "det(A). det(B) = 0",
+            "det(B) = k det(A)",
+            "det(B) = det(A)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72705,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If a matrix A is invertible than adj(A) is also invertible.",
+        "op": [
+            "FALSE",
+            "TRUE"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72706,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If the absolute value of each diagonal entry exceeds the sum of the absolute values of the other entries in the same row then a matrix A is called:",
+        "op": [
+            "diagonally",
+            "scalar",
+            "invertible",
+            "strictly diagonally dominant"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72707,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "According to determinant properties, the determinants of resulting matrix equal to k delta if elements of rows are-------",
+        "op": [
+            "Subtracting to constant k",
+            "Multiplied to constant k",
+            "Divided to constant k",
+            "Added to constant k"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72708,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "At what condition the Cramer’s formula is valid for linear systems?",
+        "op": [
+            "When det(A) is equal to zero",
+            "When matrix is m x n",
+            "When matrix is n x n",
+            "When det(A) in not equal to zero"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72709,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If all the elements of one row is ‘0’ in a matrix A then which of the following about the determinant of the matrix is true?",
+        "op": [
+            "det (A)is not equal to'1'",
+            "det (A)is not equal to '0'",
+            "det (A)=1",
+            "det (A)=0"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72764,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "Why inverse of the matrix A= [1    2] is NOT possible?",
+        "op": [
+            "Because it is an identity matrix.",
+            "Because it is a square matrix.",
+            "Because it is a rectangular matrix",
+            "Because it is a zero matrix."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72765,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "LU-factorization is used to solve systems of linear equations or calculate the ______.",
+        "op": [
+            "Column",
+            "Determinant",
+            "Diagonal",
+            "Row"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72766,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If two rows of a square matrix A are interchanged to produce B, then ",
+        "op": [
+            "none of the above",
+            "debt=-detA",
+            "detB=detA",
+            "detB=detA"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72767,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If all the entries of a row or a column of a square matrix are zero, then det (A) will be _____________.",
+        "op": [
+            "Infinity",
+            "Non zero",
+            "One",
+            "Zero"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72768,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If A is not invertible matrix, then",
+        "op": [
+            "Det(A)=1",
+            "Det(A)=0",
+            "\\det \\left( A \\right) \\ne 0",
+            "Det(A)=-1"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72769,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If A is an n×n matrix, then",
+        "op": [
+            "\\det {A^T} = -detA",
+            "\\det {A^T} = detA"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72784,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If a matrix equation is solved using the Jacobi’s method, then which of the following is true about its main diagonal?",
+        "op": [
+            "It has at least one zero along its main diagonal.",
+            "It has no zeros along its main diagonal.",
+            "It has more than two zeros along its main diagonal.",
+            "It has two zeros along its main diagonal."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72785,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If the coefficient matrix is large and with a high proportion of zero entries, then which of the following works quickly in favor of solving a linear systems for saving less computer memory?",
+        "op": [
+            "Row-echelon method",
+            "Direct method",
+            "Reduced row-echelon method",
+            "Iterative method"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72786,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "The determinant of a square matrix A = \\left[ {\\begin{array}{*{20}{c}} 3&2\\\\4&5 \\end{array}} \\right] is ",
+        "op": [
+            "7",
+            "0",
+            "8",
+            "15"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72787,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "At what condition the Cramer’s rule fails?",
+        "op": [
+            "The coefficient matrix A is not invertible.",
+            "When the determinant of the coefficient matrix is not zero.",
+            "When the determinant of the coefficient matrix is zero.",
+            "When matrix is n x n."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72790,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If M is a square matrix having two rows equal then which of the following about the determinant of the matrix is true?",
+        "op": [
+            "det(M)=1",
+            "det(M) is not equal to '0'",
+            "det(M) is not equal to '1'",
+            "det(M)=0"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72791,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "05 January 2026",
+        "qt": "If A is an n \\times n matrix, then ",
+        "op": [
+            "\\det {A^T} = detA",
+            "\\det {A^T} = -detA"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72951,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "If A and B are n\\times n matrices, then ",
+        "op": [
+            "det(AB)=detA.detB",
+            "none of the above.",
+            "det(AB)=detA+detB",
+            "det(AB)=detA-detB"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72952,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "If det(A) = 187 then the Cramer’s rule can be applicable because:",
+        "op": [
+            "The coefficient matrix A is scalar.",
+            "The coefficient matrix A is invertible.",
+            "The coefficient matrix A is m x n.",
+            "The coefficient matrix A is not invertible."
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72954,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "For any 3x3 matrix A where det (A) = 3, then det (2A) = ________.",
+        "op": [
+            "24",
+            "20",
+            "15",
+            "6"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72955,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "At what condition det(AB)=(detA)(detB) is possible?",
+        "op": [
+            "When A is a row matrix",
+            "When A and B are m x n matrices",
+            "When A and B are n x n matrices",
+            "When B is a column matrix"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72957,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "The determinant of the identity matrix is ______",
+        "op": [
+            "0",
+            "-1",
+            "1",
+            "n x (number of rows or coulms)"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72958,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "Any matrix A and its transpose have the same determinant.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73145,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "Jacobi’s method assumes that the diagonal entries of an invertible matrix A are all ",
+        "op": [
+            "non-zero",
+            "zero"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73146,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "If A is a triangular matrix, then det(A) is the product of the entries on the ________.",
+        "op": [
+            "First two rows of A",
+            "Main diagonal of A",
+            "Diagonal of A",
+            "First two columns of A"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73147,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "If both the Jacobi and Gauss-Seidel sequences converge for the solution of Ax=b, for any initial x(0), then which of the following is true about both the solutions?",
+        "op": [
+            "Different solutions",
+            "Unique solution",
+            "No solution",
+            "Infinitely many solutions"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73149,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "The determinant of a square matrix $A = \\left[ {\\begin{array}{*{20}{c}} 3&2\\\\\\4&5 \\end{array}} \\right]$ is ",
+        "op": [
+            "15",
+            "7",
+            "8",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73150,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "A determinant does not change if we add a multiple of a row to another row.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73151,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is the area of the parallelogram determined by the columns of A where A is a 2 x 2 matrix?",
+        "op": [
+            "A^(-1)  ,that is inverse of A",
+            "det A",
+            "[A]",
+            "|det A|"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73194,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "The determinant of a square matrix A = \\left[ {\\begin{array}{*{20}{c}} 3&2\\\\\\4&5 \\end{array}} \\right] is ",
+        "op": [
+            "7",
+            "15",
+            "0",
+            "8"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73195,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is the volume of the parallelepiped determined by the columns of A where A is",
+        "op": [
+            "det A",
+            "|det A|",
+            "A^(-1)  ,that is inverse of A",
+            "[A]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73196,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "If A is a square matrix, then the Minor of entry ith row and jth column is to be the determinant of the sub matrix that remains when the ith row and jth column of A are:",
+        "op": [
+            "Multiplied",
+            "Added",
+            "Divided",
+            "Deleted"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73197,
+        "cc": "MTH303",
+        "qn": "04",
+        "dt": "06 January 2026",
+        "qt": "In general,",
+        "op": [
+            "det(A+B)≠ detA+detB",
+            "det(A+B)=det(A)+det(B)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    }
+]

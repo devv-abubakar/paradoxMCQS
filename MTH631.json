@@ -1,0 +1,2270 @@
+[
+    {
+        "id": 21366,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "Let $f\\left( {x,y} \\right) = \\frac{{xy}}{{{x^2} + {y^2}}}$ then the limit of $f$ along the line $y=-x$ as $(x,y)$ approach $(0,0)$ is ______.",
+        "op": [
+            "$-1/2$",
+            "$1/2$",
+            "$0$",
+            "undefined"
+        ],
+        "created_at": "2026-06-24T21:21:33.71221+00:00"
+    },
+    {
+        "id": 21367,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "${\\text{An open disc: }}\\left\\{ {\\left( {x,y} \\right):{x^2} + {y^2} < 1} \\right\\}{\\text{ in }}{\\mathbb{R}^2}{\\text{ is - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{none of these}}{\\text{.}}$",
+            "${\\text{connected polygonally}}$",
+            "${\\text{disconnected polygonally}}$",
+            "${\\text{diconnected}}$"
+        ],
+        "created_at": "2026-06-24T21:21:56.440371+00:00"
+    },
+    {
+        "id": 21368,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^n},{\\text{which of the following is true about }}\\phi = \\left\\{ {} \\right\\}{\\text{ and }}A = \\left\\{ {\\left( {{a_1},{a_2}, \\ldots ,{a_n}} \\right),{a_i} \\in \\mathbb{R},1 \\leqslant i \\leqslant n,i \\in \\mathbb{N}} \\right\\}?$$",
+        "op": [
+            "$${\\text{Both are Disconnected}}$$",
+            "$${\\text{Both are Connected}}$$",
+            "$$\\phi {\\text{ is Connected and }}A{\\text{ is Disconnected}}$$",
+            "$$\\phi {\\text{ is Disconnected and }}A{\\text{ is Connected}}$$"
+        ],
+        "created_at": "2026-06-24T21:22:26.920991+00:00"
+    },
+    {
+        "id": 21370,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "If $\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right)$ exists, then it is _____.",
+        "op": [
+            "0",
+            "1",
+            "none of these",
+            "unique"
+        ],
+        "created_at": "2026-06-24T21:22:42.783038+00:00"
+    },
+    {
+        "id": 21371,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "${\\text{A compact set in }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{closed and bounded}}$",
+            "${\\text{open and bounded}}$",
+            "${\\text{closed and unbounded}}$",
+            "${\\text{open and unbounded}}$"
+        ],
+        "created_at": "2026-06-24T21:22:54.979537+00:00"
+    },
+    {
+        "id": 21372,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{Intervals }}\\left( {{\\text{0,1}}} \\right){\\text{ and }}\\left( {{\\text{1,2}}} \\right){\\text{ are example of disconnected sets in }}\\mathbb{R}{\\text{ because - - - - - - - }}{\\text{.}}$$",
+        "op": [
+            "$$\\left( {{\\text{0,1}}} \\right) \\cap \\left( {{\\text{1,2}}} \\right) = \\phi$$",
+            "$$\\left\\{ {{\\text{closure of}}\\left( {{\\text{0,1}}} \\right)} \\right\\} \\cap \\left( {{\\text{1,2}}} \\right) = \\phi {\\text{ and}}\\left\\{ {{\\text{closure of}}\\left( {{\\text{1,2}}} \\right)} \\right\\} \\cap \\left( {{\\text{0,1}}} \\right) = \\phi$$"
+        ],
+        "created_at": "2026-06-24T21:23:14.359705+00:00"
+    },
+    {
+        "id": 21373,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$\\begin{gathered} {\\text{For a non empty closed and bounded subset }}S{\\text{ in }}{\\mathbb{R}^n},{\\text{ if }}{\\rm H}{\\text{ is the collection open sets such that }} \\hfill \\\\ S \\subset \\cup \\left\\{ {H:H \\in {\\rm H}} \\right\\},{\\text{then by Heine - Borel theorem,}} \\hfill \\\\\\ \\end{gathered}$",
+        "op": [
+            "$S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^n \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}$",
+            "$S \\subset \\mathop \\cup \\limits_{\\lambda \\in \\Lambda } \\left\\{ {{H_\\lambda }:{H_\\lambda } \\in {\\rm H}} \\right\\}$",
+            "$S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^\\infty \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}$",
+            "${\\text{All above are equally valid}}$"
+        ],
+        "created_at": "2026-06-24T21:23:35.609435+00:00"
+    },
+    {
+        "id": 21374,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{Set of isolated point(s) of the complement of set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ in }}{\\mathbb{R}^{\\text{2}}},{\\text{is}} - - - - .$$",
+        "op": [
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cap \\left\\{ {\\left( {0,0} \\right)} \\right\\}$$",
+            "$$\\left\\{ {\\left( {0,0} \\right)} \\right\\}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cup \\left\\{ {\\left( {0,0} \\right)} \\right\\}$$"
+        ],
+        "created_at": "2026-06-24T21:24:35.394524+00:00"
+    },
+    {
+        "id": 21375,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "${\\text{The set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ is - - - - - - in }}{\\mathbb{R}^{\\text{2}}}.$",
+        "op": [
+            "neither open nor closed",
+            "open",
+            "closed",
+            "both open or closed"
+        ],
+        "created_at": "2026-06-24T21:24:51.398152+00:00"
+    },
+    {
+        "id": 21377,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^2},{\\text{ the set }}\\left\\{ {\\left( {x,y} \\right):\\left( {{x^2} + {y^2} \\leqslant a} \\right)\\,\\, \\vee \\,\\left( {{x^2} + {y^2} \\geqslant b} \\right),a < b} \\right\\}\\,{\\text{is a region}}{\\text{.}}$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-24T21:36:51.110981+00:00"
+    },
+    {
+        "id": 21378,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "The limit of the function $f(x) = \\frac{{xy}}{{{x^2} + {y^2}}}$ by letting $\\left( {x,{\\rm{ }}y} \\right)$approach $\\left( {0,{\\rm{ }}0} \\right)$along the line $y{\\rm{ }} = {\\rm{ }}x$ is ________.",
+        "op": [
+            "Undefined",
+            "$$- \\frac{1}{2}$$",
+            "Finite",
+            "$$\\frac{1}{2}$$"
+        ],
+        "created_at": "2026-06-24T21:37:09.954153+00:00"
+    },
+    {
+        "id": 21379,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{If }}{\\mathbb{R}^n}{\\text{ is connected, such that }}{\\mathbb{R}^n} = A \\cup B{\\text{ with }}\\bar A \\cap B = A \\cap \\bar B = \\phi ,{\\text{then - - - - - }}{\\text{.}}$$",
+        "op": [
+            "$${\\text{All above can be concluded}}$$",
+            "$${\\text{Either }}A = {\\mathbb{R}^n},B = \\phi {\\text{ or }}B = {\\mathbb{R}^n},A = \\phi$$",
+            "$$A{\\text{ and }}B{\\text{ are both open and closed}}$$",
+            "$${\\text{ }}\\bar A \\subset A,\\bar B \\subset B$$"
+        ],
+        "created_at": "2026-06-24T21:37:21.486663+00:00"
+    },
+    {
+        "id": 21380,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "A set “ S ” is polygonally connected if, ------- pair of points in S can be connected by a polygonal path lying -------- in “ S ”.",
+        "op": [
+            "every, partially",
+            "some,  entirely",
+            "every , entirely",
+            "some, partially"
+        ],
+        "created_at": "2026-06-24T21:37:40.758661+00:00"
+    },
+    {
+        "id": 21381,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "${\\text{If }}\\phi \\ne S \\subseteq {\\mathbb{R}^n},{\\text{ then the set }}S{\\text{ is bounded if - - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty \\,$",
+            "$\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty$",
+            "$\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty$",
+            "${\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty$"
+        ],
+        "created_at": "2026-06-24T21:38:13.310149+00:00"
+    },
+    {
+        "id": 21382,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$\\begin{gathered} {\\text{In }}{\\mathbb{R}^3},{\\text{ the lines }}{{\\text{L}}_{\\text{1}}}:X = \\left( {2, - 1,5} \\right) + \\alpha \\left( {2, - 1,3} \\right){\\text{ and }}{{\\text{L}}_2}:X = \\left( {2, - 1,5} \\right) + \\beta \\left( { - 5,\\frac{5}{2}, - \\frac{{15}}{2}} \\right){\\text{ are traversed}} \\hfill \\\\ {\\text{in - - - - - - - - - directions, where }} - \\infty < \\alpha ,\\beta < \\infty . \\hfill \\\\\\ \\end{gathered}$",
+        "op": [
+            "${\\text{opposite}}$",
+            "${\\text{perpendicular}}$",
+            "${\\text{oblique}}$",
+            "${\\text{same}}$"
+        ],
+        "created_at": "2026-06-24T21:38:21.510839+00:00"
+    },
+    {
+        "id": 21418,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "$${\\text{Which of the following non - empty subset on Real line }}\\mathbb{R}{\\text{ is taken as }}region\\,?$$",
+        "op": [
+            "$${\\text{Range of pointwise or uniform real valued convergent sequences}}$$",
+            "$${\\text{Natural numbers }}\\mathbb{N}$$",
+            "$${\\text{Rationals }}\\mathbb{Q}{\\text{ or Irrationals }}{\\mathbb{Q}^c}$$",
+            "$${\\text{Intervals (open, closed, semi open or closed)}}$$"
+        ],
+        "created_at": "2026-06-25T00:14:11.080513+00:00"
+    },
+    {
+        "id": 21423,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "25 June 2026",
+        "qt": "${\\text{In }}{\\mathbb{R}^n},\\,{\\text{the interior }}{S^0}{\\text{ of a non - empty set S is - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{open - connected (region)}}$",
+            "${\\text{open - disconnected}}$"
+        ],
+        "created_at": "2026-06-25T03:25:09.119144+00:00"
+    },
+    {
+        "id": 45776,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "$${\\text{Which of the following non - empty subset on Real line }}\\mathbb{R}{\\text{ is taken as }}region\\,?$$",
+        "op": [
+            "$${\\text{Rationals }}\\mathbb{Q}{\\text{ or Irrationals }}{\\mathbb{Q}^c}$$",
+            "$${\\text{Range of pointwise or uniform real valued convergent sequences}}$$",
+            "$${\\text{Natural numbers }}\\mathbb{N}$$",
+            "$${\\text{Intervals (open, closed, semi open or closed)}}$$"
+        ],
+        "created_at": "2026-06-26T17:14:22.369682+00:00"
+    },
+    {
+        "id": 45777,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "$${\\text{Set of isolated point(s) of the complement of set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ in }}{\\mathbb{R}^{\\text{2}}},{\\text{is}} - - - - .$$",
+        "op": [
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cup \\left\\{ {\\left( {0,0} \\right)} \\right\\}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cap \\left\\{ {\\left( {0,0} \\right)} \\right\\}$$",
+            "$$\\left\\{ {\\left( {0,0} \\right)} \\right\\}$$"
+        ],
+        "created_at": "2026-06-26T17:15:14.079902+00:00"
+    },
+    {
+        "id": 45778,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^2},{\\text{ the set }}\\left\\{ {\\left( {x,y} \\right):\\left( {{x^2} + {y^2} \\leqslant a} \\right)\\,\\, \\vee \\,\\left( {{x^2} + {y^2} \\geqslant b} \\right),a < b} \\right\\}\\,{\\text{is a region}}{\\text{.}}\\]",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-26T17:15:58.319795+00:00"
+    },
+    {
+        "id": 45779,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "The limit of the function $f(x) = \\frac{{xy}}{{{x^2} + {y^2}}}$ by letting $\\left( {x,{\\rm{ }}y} \\right)$approach $\\left( {0,{\\rm{ }}0} \\right)$along the line $y{\\rm{ }} = {\\rm{ }}x$ is ________.",
+        "op": [
+            "$$- \\frac{1}{2}$$",
+            "$$\\frac{1}{2}$$",
+            "Finite",
+            "Undefined"
+        ],
+        "created_at": "2026-06-26T17:16:11.6297+00:00"
+    },
+    {
+        "id": 45780,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "${\\text{If }}\\phi \\ne S \\subseteq {\\mathbb{R}^n},{\\text{ then the set }}S{\\text{ is bounded if - - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty $",
+            "${\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty \\,$",
+            "$\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty $",
+            "$\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty $"
+        ],
+        "created_at": "2026-06-26T17:16:35.413484+00:00"
+    },
+    {
+        "id": 45781,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "${\\text{A compact set in }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{closed and bounded}}$",
+            "${\\text{closed and unbounded}}$",
+            "${\\text{open and unbounded}}$",
+            "${\\text{open and bounded}}$"
+        ],
+        "created_at": "2026-06-26T17:16:50.398934+00:00"
+    },
+    {
+        "id": 45782,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "${\\text{An open disc: }}\\left\\{ {\\left( {x,y} \\right):{x^2} + {y^2} < 1} \\right\\}{\\text{ in }}{\\mathbb{R}^2}{\\text{ is - - - - - - }}{\\text{.}}$",
+        "op": [
+            "${\\text{connected polygonally}}$",
+            "${\\text{diconnected}}$",
+            "${\\text{disconnected polygonally}}$",
+            "${\\text{none of these}}{\\text{.}}$"
+        ],
+        "created_at": "2026-06-26T17:17:01.979043+00:00"
+    },
+    {
+        "id": 45783,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{In }}{\\mathbb{R}^n}{\\text{, if }}{S_1},{S_2},{S_3} \\ldots \\,\\,{\\text{are non - empty closed subsets such that }}{S_1} \\supset {S_2} \\supset \\cdots \\; \\supset {S_r} \\supset \\cdots {\\text{ and }} \\hfill \\\\ {\\text{sup}}\\left\\{ {\\left| {{X_r} - {Y_r}} \\right|:{X_r},{Y_r} \\in {S_r},r \\geqslant 1} \\right\\} \\to 0{\\text{ as }}r \\to \\infty {\\text{,then the order of set }}\\mathop \\cap \\limits_{r = 1}^\\infty {S_r} = - - - . \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\operatorname{infinite}$$",
+            "$${\\text{one}}$$",
+            "$${\\text{finite but more than one}}$$",
+            "$${\\text{zero}}$$"
+        ],
+        "created_at": "2026-06-26T17:17:14.674257+00:00"
+    },
+    {
+        "id": 45784,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "$\\begin{gathered} {\\text{In }}{\\mathbb{R}^3},{\\text{ the lines }}{{\\text{L}}_{\\text{1}}}:X = \\left( {2, - 1,5} \\right) + \\alpha \\left( {2, - 1,3} \\right){\\text{ and }}{{\\text{L}}_2}:X = \\left( {2, - 1,5} \\right) + \\beta \\left( { - 5,\\frac{5}{2}, - \\frac{{15}}{2}} \\right){\\text{ are traversed}} \\hfill \\\\ {\\text{in - - - - - - - - - directions, where }} - \\infty < \\alpha ,\\beta < \\infty . \\hfill \\\\\\ \\end{gathered}$",
+        "op": [
+            "${\\text{perpendicular}}$",
+            "${\\text{same}}$",
+            "${\\text{opposite}}$",
+            "${\\text{oblique}}$"
+        ],
+        "created_at": "2026-06-26T17:17:31.14995+00:00"
+    },
+    {
+        "id": 45785,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "26 June 2026",
+        "qt": "${\\text{The set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ is - - - - - - in }}{\\mathbb{R}^{\\text{2}}}.$",
+        "op": [
+            "open",
+            "neither open nor closed",
+            "closed",
+            "both open or closed"
+        ],
+        "created_at": "2026-06-26T17:18:00.896101+00:00"
+    },
+    {
+        "id": 57652,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A set A ⊂ R of real numbers is ------------------if there exists a real number m ∈ R, such that \nx ≥ m for every x ∈ A.",
+        "op": [
+            "None of these",
+            "bounded above",
+            "uniformly continuous",
+            "bounded below"
+        ],
+        "created_at": "2026-07-08T01:08:19.69737+00:00"
+    },
+    {
+        "id": 57653,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If a function }}f{\\text{ is }}continuous{\\text{ on a }}compact{\\text{ set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, and }}\\alpha = \\mathop {\\inf }\\limits_{X \\in S} f\\left( X \\right),\\,\\beta = \\mathop {\\sup }\\limits_{X \\in S} f\\left( X \\right)\\,, \\hfill \\\\ {\\text{then }}f\\left( {{X_1}} \\right){\\text{ = }}\\alpha {\\text{ and }}f\\left( {{X_2}} \\right){\\text{ = }}\\beta \\, - - - - - {X_1}{\\text{ and }}{X_2}{\\text{ in }}S. \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "for all",
+            "for some"
+        ],
+        "created_at": "2026-07-08T01:08:43.452566+00:00"
+    },
+    {
+        "id": 57654,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{If }}f\\left( t \\right) = \\sqrt t {\\text{, }}g\\left( {x,y} \\right) = 1 - {x^2} - 2{y^2}{\\text{, then the domain of }}f \\circ g = {\\text{ - - - - - - }}{\\text{.}}$$",
+        "op": [
+            "$$\\mathbb{R}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}$$",
+            "$${\\mathbb{R}^2}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}$$"
+        ],
+        "created_at": "2026-07-08T01:09:15.492417+00:00"
+    },
+    {
+        "id": 57655,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Identify the true statement(s)",
+        "op": [
+            "For a functions of $n$ variables $$f({\\mathbf{X}})$$ the partial derivative with respect to variable $${x_2}$$ is $$\\frac{{\\partial f({\\mathbf{X}})}}{{\\partial {{\\mathbf{E}}_2}}}$$",
+            "A function of several variables is continuous then it is differentiable.",
+            "A function of several variables is differentiable if all of its partial derivatives exists.",
+            "$$L(x) = 2x - 3{x^2}$$ is a linear function."
+        ],
+        "created_at": "2026-07-08T01:09:26.942089+00:00"
+    },
+    {
+        "id": 57656,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which statement(s) is(are) true about the function $$f(x,y) = \\frac{{{x^2} + {y^2}}}{{x - y}}$$,",
+        "op": [
+            "$$f$$ is differentiable every where except at the points where $$y = x$$",
+            "$${f_y}(x,y),{\\text{ }}{f_x}(x,y)$$ are continuous everywhere.",
+            "$${f_y}(x,y) = \\frac{y}{{x - y}} + \\frac{{{x^2} + {y^2}}}{{{{(x - y)}^2}}}.$$",
+            "$${f_x}(x,y) = \\frac{{2x}}{{x - y}} - \\frac{{{x^2} + {y^2}}}{{{{(x + y)}^2}}}$$"
+        ],
+        "created_at": "2026-07-08T01:09:43.141777+00:00"
+    },
+    {
+        "id": 57658,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If f is continuous on a compact set S in ${\\mathbb{R}^n}$, then f is __________ on S.",
+        "op": [
+            "Bounded",
+            "All of these",
+            "Superemum",
+            "Differentiable"
+        ],
+        "created_at": "2026-07-08T01:09:56.769371+00:00"
+    },
+    {
+        "id": 57660,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If }}g\\left( {x,y} \\right) = \\sqrt {1 - {x^2} - 2{y^2}} ,{\\text{ }}\\,f\\left( t \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin t}}{t},\\,t \\ne 0\\,\\, \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,t = 0 \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ {\\text{then domain of }}f \\circ g = - - - - - . \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\mathbb{R}^2}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}$$",
+            "$$\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}$$",
+            "$$\\mathbb{R}$$"
+        ],
+        "created_at": "2026-07-08T01:10:13.796289+00:00"
+    },
+    {
+        "id": 57661,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{The domain of the real valued function }}f:{\\mathbb{R}^2} \\to \\mathbb{R}{\\text{ defined and given by;}} \\hfill \\\\\\ f\\left( X \\right){\\text{ = }}\\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }}{\\text{ is - - - - - of the region}}\\,\\,{\\text{by the ellipse }}{x^2} + 2{y^2} = 1{\\text{ }}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{exterior}}$$",
+            "$${\\text{interior and boundary}}$$",
+            "$${\\text{exterior}}\\,\\,{\\text{and}}\\,\\,{\\text{boundary}}$$",
+            "$${\\text{interior}}$$"
+        ],
+        "created_at": "2026-07-08T01:10:51.695573+00:00"
+    },
+    {
+        "id": 57662,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {a,b} \\right)} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }} = 1,{\\text{ if - - - - - - }}{\\text{.}}$$",
+        "op": [
+            "$$\\left( {{a^2} + 2{b^2}} \\right)\\mathop > \\limits_ < 1$$",
+            "$$\\left( {{a^2} + 2{b^2}} \\right) > 1$$",
+            "$$\\left( {{a^2} + 2{b^2}} \\right) < 1$$",
+            "$$\\left( {{a^2} + 2{b^2}} \\right) = 1$$"
+        ],
+        "created_at": "2026-07-08T01:11:05.55194+00:00"
+    },
+    {
+        "id": 57663,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}g\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{xy}}{{{x^2} + {y^2}}},\\,\\,\\,\\,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right) \\hfill \\\\ 0,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {x,y} \\right) = \\left( {0,0} \\right) \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ \\frac{{\\partial g}}{{\\partial x}}\\left( {0,0} \\right) = \\frac{{\\partial g}}{{\\partial y}}\\left( {0,0} \\right),\\,{\\text{and }}g\\left( {x,y} \\right){\\text{ is - - - - - - - at }}\\left( {0,0} \\right). \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "Continuous",
+            "Discontinuous"
+        ],
+        "created_at": "2026-07-08T01:11:22.184105+00:00"
+    },
+    {
+        "id": 57664,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}f\\left( {x,y} \\right) = {x^2} + 2xy,\\,\\,{\\text{the }}\\left( {{d_{\\left( {2,1} \\right)}}f} \\right)\\left( {X - \\left( {2,1} \\right)} \\right) = - - - - .$$",
+        "op": [
+            "$$2\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)$$",
+            "$$6\\left( {x - 2} \\right) + 4\\left( {y - 1} \\right)\\,$$",
+            "$$4\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)$$",
+            "$$6\\left( {x - 2} \\right) + 2\\left( {y - 1} \\right)$$"
+        ],
+        "created_at": "2026-07-08T01:11:33.105419+00:00"
+    },
+    {
+        "id": 57665,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Identify the false statement(s)",
+        "op": [
+            "None of these",
+            "The partial derivative is a special case of directional derivative.",
+            "For a functions of n variables $$f({\\mathbf{X}})$$ the partial derivative with respect to variable $${x_2}$$ is $$\\frac{{\\partial f({\\mathbf{X}})}}{{\\partial {{\\mathbf{E}}_2}}}$$.",
+            "The partial derivative of the function $$f(x,y,z) = 3xyz + 2{x^2} + {z^2}$$ with respect to third variable is $${f_z} = 2z$$"
+        ],
+        "created_at": "2026-07-08T01:11:54.720069+00:00"
+    },
+    {
+        "id": 57667,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "For the function $$f(x,y) = \\frac{{xy}}{{{x^2} + {y^2}}},$$ the limit of $$f(x,y)$$ as $$(x,y) \\to (0,0)$$ along the line $$y = - x$$ is",
+        "op": [
+            "0",
+            "1",
+            "$$- \\frac{1}{2}$$",
+            "$$\\frac{1}{2}$$"
+        ],
+        "created_at": "2026-07-08T01:12:11.101981+00:00"
+    },
+    {
+        "id": 57669,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Suppose in }}{\\mathbb{R}^2}{\\text{, }}f,{\\text{ }}{f_x},{\\text{ }}{f_y}{\\text{ and }}{f_{xy}}{\\text{ exist on neighborhood }}N{\\text{ of }}\\left( {{x_0},{y_0}} \\right){\\text{. Then }}{f_{yx}}\\left( {{x_0},{y_0}} \\right){\\text{ exists, and}} \\hfill \\\\\\ {f_{yx}}\\left( {{x_0},{y_0}} \\right) = {f_{xy}}\\left( {{x_0},{y_0}} \\right){\\text{ because if }}{f_{xy}}{\\text{ is - - - - }}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            "continuous",
+            "differntiable",
+            "bounded",
+            "partially differentiable"
+        ],
+        "created_at": "2026-07-08T01:13:00.014549+00:00"
+    },
+    {
+        "id": 57670,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{If }}f{\\text{ is continuous on a compact set }}S{\\text{ in }}{\\mathbb{R}^n},\\,\\,{\\text{then }}f - - - - {\\text{ on }}S.$$",
+        "op": [
+            "is also uniformly continuous",
+            "All above are equally valid",
+            "attains all its bounds",
+            "is also defined on all the limit points of “S”"
+        ],
+        "created_at": "2026-07-08T01:13:26.760243+00:00"
+    },
+    {
+        "id": 57672,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{u_{xx}} - {u_{yy}} - - - - . \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "=0",
+            "=1",
+            "none of these.",
+            ">0"
+        ],
+        "created_at": "2026-07-08T01:13:36.259765+00:00"
+    },
+    {
+        "id": 57680,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let f be continuous on a region S in ${\\mathbb{R}^n}$. Suppose that A and B are in S and _____________. Then $f\\left( C \\right) = u$ for some C in S.",
+        "op": [
+            "$$f(A){\\rm{ }} < {\\rm{ }}u{\\rm{ }} < {\\rm{ }}f(B)$$",
+            "$$f(A){\\rm{ }} \\le {\\rm{ }}u{\\rm{ }} \\le {\\rm{ }}f(B)$$",
+            "$$f(A){\\rm{ }} > {\\rm{ }}u{\\rm{ }} > f(B)$$",
+            "$$f(A){\\rm{ }} \\ge {\\rm{ }}u{\\rm{ }} \\ge f(B)$$"
+        ],
+        "created_at": "2026-07-08T01:21:07.858762+00:00"
+    },
+    {
+        "id": 57681,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If $$f(x,y)$$ is continuous at $$({x_0},{y_0})$$ and $${f_{yx}}({x_0},{y_0})$$ exists. Then,",
+        "op": [
+            "$${f_x}({x_0},{y_0}) = {f_y}({x_0},{y_0})$$",
+            "$${f_{xx}}({x_0},{y_0}) = {f_{yy}}({x_0},{y_0})$$",
+            "None of these",
+            "$${f_{yx}}({x_0},{y_0}) = {f_{xy}}({x_0},{y_0})$$"
+        ],
+        "created_at": "2026-07-08T01:21:22.868353+00:00"
+    },
+    {
+        "id": 57682,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^n},{\\text{ }}f\\left( X \\right) = \\frac{1}{{\\left| {X - {X_{_0}}} \\right|}},and\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = \\infty ,{\\text{ then }}\\,f\\left( X \\right) > M > 0\\,\\, \\Rightarrow {\\text{ }}0 < \\left| {X - {X_{_0}}} \\right| < \\delta = - - - - .$$",
+        "op": [
+            "$$\\frac{1}{{\\sqrt M }}$$",
+            "$$\\sqrt M$$",
+            "$$M$$",
+            "$$\\frac{1}{M}\\,$$"
+        ],
+        "created_at": "2026-07-08T01:21:54.517746+00:00"
+    },
+    {
+        "id": 57683,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^n}{\\text{, }}\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = - \\infty ,\\,\\,{\\text{if}}$$",
+        "op": [
+            "$$\\mathop {\\lim }\\limits_{ - X \\to {X_0}} f\\left( X \\right) = \\infty$$",
+            "$$\\mathop {\\lim }\\limits_{X \\to - {X_0}} f\\left( X \\right) = \\infty$$",
+            "$$\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( { - X} \\right) = \\infty$$",
+            "$$\\mathop {\\lim }\\limits_{X \\to {X_0}} \\left( { - f} \\right)\\left( X \\right) = \\infty$$"
+        ],
+        "created_at": "2026-07-08T01:22:19.79279+00:00"
+    },
+    {
+        "id": 57684,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If $f\\left( {x,y,z} \\right) = \\cos \\left( {\\frac{1}{{{x^2} + 2{y^2} + {z^2}}}} \\right)$ then $\\mathop {\\lim }\\limits_{\\left| X \\right| \\to \\infty } f\\left( X \\right) = \\_\\_\\_\\_\\_$.",
+        "op": [
+            "infinite",
+            "$1$",
+            "$0$",
+            "$-1$"
+        ],
+        "created_at": "2026-07-08T01:22:42.025955+00:00"
+    },
+    {
+        "id": 57685,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ monotonicity, limits inferior and superior of sequences, and }} \\hfill \\\\ {\\text{divergence to }} \\pm \\infty \\,\\,{\\text{are undefined for }}n{\\text{ }} > {\\text{ }}1\\,\\,{\\text{because }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{complete}}$$",
+            "$${\\text{a Field}}$$",
+            "$${\\text{not compact for }}n > 1$$",
+            "$${\\text{not ordered for }}n > 1$$"
+        ],
+        "created_at": "2026-07-08T01:23:15.015078+00:00"
+    },
+    {
+        "id": 57686,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{array}{*{20}{l}} {{\\text{Let }}f{\\text{ be defined on an interval }}I{\\text{ in }}{\\mathbb{R}^2}.\\,{\\text{Suppose that }}{x_1}{\\text{ and }}{x_{\\text{2}}}{\\text{ are in }}I{\\text{ and}}\\,f\\left( {{x_1}} \\right){\\text{ }} < {\\text{ }}y{\\text{ }} < {\\text{ }}f\\left( {{x_2}} \\right){\\text{. }}} \\\\\\ {{\\text{Then }}f\\left( x \\right) = y{\\text{ for some }}x{\\text{ in }}I.} \\\\\\ {} \\end{array}$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-08T01:24:25.83882+00:00"
+    },
+    {
+        "id": 57810,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let the function $f(s) = \\left\\{ \\begin{array}{l}\\frac{{\\sin s}}{s},s \\ne 0\\\\1,s = 0\\end{array} \\right.$ is continuous over domain _____________.",
+        "op": [
+            "(c) $$(0,\\infty )$$",
+            "(b) $$( - \\infty ,\\infty )$$",
+            "Both a & b",
+            "(a) $$\\mathbb{R}$$"
+        ],
+        "created_at": "2026-07-08T03:27:28.802707+00:00"
+    },
+    {
+        "id": 57817,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If $f(s) = \\sqrt s$ and $g(x,y) = 1 - {x^2} - {y^2}$ then domain of f and g are ______________________________.",
+        "op": [
+            "$${D_f} = [0,\\infty ],{D_g} = {\\mathbb{R}^2}$$",
+            "$${D_f} = [0,\\infty ),{D_g} = {\\mathbb{R}^2}$$",
+            "$${D_g} = ( - \\infty ,\\infty ),{D_f} = {\\mathbb{R}^2}$$",
+            "$${D_f} = [0,\\infty ],{D_g} = \\mathbb{R}$$"
+        ],
+        "created_at": "2026-07-08T03:30:51.688342+00:00"
+    },
+    {
+        "id": 57818,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{If a function }}f{\\text{ is continuous on a Compact set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, then f is - - - - - - - - on }}S{\\text{.}}$$",
+        "op": [
+            "bounded above",
+            "unbounded",
+            "bounded",
+            "bounded below"
+        ],
+        "created_at": "2026-07-08T03:31:46.820899+00:00"
+    },
+    {
+        "id": 57822,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{v_{xx}} + {v_{yy}} - - - - . \\hfill \\\\ \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "=1",
+            ">0",
+            ">0 but <1",
+            "=0"
+        ],
+        "created_at": "2026-07-08T03:33:12.426039+00:00"
+    },
+    {
+        "id": 57854,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ if the first order partial derivative of a function }}f\\left( X \\right){\\text{ exits at }}{X_0}{\\text{, }} \\hfill \\\\ {\\text{then it is essentially continuous at }}{X_0}. \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-08T03:56:49.882043+00:00"
+    },
+    {
+        "id": 57865,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{The function }}d{x_i}{\\text{ gives the value at a point in }}{\\mathbb{R}^n}{\\text{as;}}$$",
+        "op": [
+            "$$d{x_i}\\left( X \\right) = {x_{i - 1}} + {x_{i + 1}}$$",
+            "$$d{x_i}\\left( X \\right) = {x_i}$$",
+            "$$d{x_i}\\left( X \\right) = {x_{i - 1}}$$",
+            "$$d{x_i}\\left( X \\right) = {x_{i + 1}}$$"
+        ],
+        "created_at": "2026-07-08T04:05:45.169862+00:00"
+    },
+    {
+        "id": 57866,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In}}\\,{\\mathbb{R}^2}{\\text{, }}f\\left( X \\right) = {\\left| X \\right|^2}{\\text{ and }}\\Phi {\\text{ = }}\\left( {\\frac{1}{{\\sqrt 2 }},\\frac{1}{{\\sqrt 2 }}} \\right),{\\text{ then }}\\frac{{\\partial f\\left( X \\right)}}{{\\partial \\Phi }} =$$",
+        "op": [
+            "$$\\sqrt 2 \\left( {{x_1} + {x_2}} \\right)$$",
+            "$$\\frac{{{x_1} + {x_2}}}{2}$$",
+            "$$\\frac{{{x_1} + {x_2}}}{{\\sqrt 2 }}$$",
+            "$${x_1} + {x_2}$$"
+        ],
+        "created_at": "2026-07-08T04:06:47.398774+00:00"
+    },
+    {
+        "id": 57882,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{How many }}third{\\text{ order partial derivatives of }}g\\left( {x,y} \\right) = xy + {x^2}{y^3}{\\text{ exist in }}{\\mathbb{R}^3}?$$",
+        "op": [
+            "3",
+            "8",
+            "6",
+            "9"
+        ],
+        "created_at": "2026-07-08T04:18:08.339359+00:00"
+    },
+    {
+        "id": 57885,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A function f is ______________ on a subset S of its domain in ${\\mathbb{R}^n}$ if for every $\\varepsilon > 0$ there is a $\\delta > 0$ such that $\\left| {f(X) - f(X')} \\right| < \\varepsilon$ whenever $\\left| {X - X'} \\right| < \\delta$ and $X,X' \\in S$.",
+        "op": [
+            "Compact",
+            "All of these",
+            "Uniformly continuous",
+            "Differentiable"
+        ],
+        "created_at": "2026-07-08T04:19:03.449592+00:00"
+    },
+    {
+        "id": 57887,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^n},{\\text{ the function }}f\\left( X \\right){\\text{ is continuous at }}{X_0}{\\text{, if }}\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = f\\left( {{X_0}} \\right),{\\text{ then - - - - - - }}{\\text{.}}$$",
+        "op": [
+            "$${X_0}\\,{\\text{is in the domian }}{D_f}{\\text{ and limit point of }}{D_f}$$",
+            "$${\\text{neither}}\\,{X_0}\\,{\\text{is in the domian }}{D_f}\\,{\\text{nor the limit point of }}{D_f}$$",
+            "$${X_0}\\,{\\text{is in the domian }}{D_f}{\\text{ but not a limit point of }}{D_f}$$",
+            "$${X_0}\\,{\\text{is not in the domian }}{D_f}{\\text{ but a limit point of }}{D_f}$$"
+        ],
+        "created_at": "2026-07-08T04:20:52.570261+00:00"
+    },
+    {
+        "id": 57888,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{u_{xx}} + {u_{yy}} - - - - . \\hfill \\\\\\ \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            ">0",
+            "=0",
+            "=1",
+            ">0 but <1"
+        ],
+        "created_at": "2026-07-08T04:21:21.661632+00:00"
+    },
+    {
+        "id": 57916,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a - - - - - - - - - - through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\ {\\text{determined by the unit vectors }}\\hat \\Phi {\\text{ and }}\\hat k{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "Sub-Surface",
+            "Straight line",
+            "Curve",
+            "Pair of lines"
+        ],
+        "created_at": "2026-07-08T04:43:43.87732+00:00"
+    },
+    {
+        "id": 57960,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},f\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }},\\,\\,{x^2} + 2{y^2} < 1 \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{x^2} + 2{y^2} = 1 \\hfill \\\\\\ \\end{gathered} \\right. \\hfill \\\\ {\\text{is - - - - - - - - - - on }}{x^2} + 2{y^2} = 1{\\text{ }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "continuous",
+            "discontinuous"
+        ],
+        "created_at": "2026-07-08T05:01:14.625838+00:00"
+    },
+    {
+        "id": 57962,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a curve through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\\\ {\\text{determined by the unit vectors }} - - - - {\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\hat \\Phi {\\text{ and reciprocal vector of }}\\hat k$$",
+            "$$\\hat \\Phi {\\text{ and }}\\hat j$$",
+            "$$\\hat \\Phi {\\text{ and }}\\hat k$$",
+            "$$\\hat \\Phi {\\text{ and }}\\hat i$$"
+        ],
+        "created_at": "2026-07-08T05:02:33.824478+00:00"
+    },
+    {
+        "id": 58006,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{In }}{\\mathbb{R}^2},{\\text{ }}\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {2,2} \\right)} \\frac{{\\sin \\left( {x - y} \\right)}}{{\\sqrt {x - y} }} = - - - - .$$",
+        "op": [
+            "$$1$$",
+            "$$\\sqrt 2$$",
+            "$$\\infty$$",
+            "$$0\\,$$"
+        ],
+        "created_at": "2026-07-08T05:20:53.658678+00:00"
+    },
+    {
+        "id": 58009,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{The domain of the real valued function }}f:{\\mathbb{R}^n} \\to \\mathbb{R}{\\text{ defined and given by;}} \\hfill \\\\ f\\left( X \\right){\\text{ = }}{\\left( {1 - x_1^2 - x_2^2 - \\cdots - x_2^n} \\right)^{ - 1}}{\\text{ is - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\left\\{ {X|\\left| X \\right| \\ne 1} \\right\\}$$",
+            "$$\\left\\{ {X|\\left| X \\right| = 1} \\right\\}$$"
+        ],
+        "created_at": "2026-07-08T05:25:10.178763+00:00"
+    },
+    {
+        "id": 58039,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "For the functions $f(x) = 3{x^2} + 5{x^3},$ the differential at x = - 1 exists because",
+        "op": [
+            "$$\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 1.$$",
+            "$$\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x)}}{{x + 1}} = \\infty .$$",
+            "$$\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 0.$$",
+            "$$\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{9(x + 1)}}{{x + 1}} = 0.$$"
+        ],
+        "created_at": "2026-07-08T05:55:47.222446+00:00"
+    },
+    {
+        "id": 58052,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Analogous to the derivative of a function of one variable in }}{\\mathbb{R}^2}{\\text{, the directional derivative of a function}} \\hfill \\\\ f{\\text{ at }}{X_0}{\\text{ in }}{\\mathbb{R}^n}{\\text{ has - - - - - - value(s)}}{\\text{. }} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "integral",
+            "multiple",
+            "unique",
+            "infinite many"
+        ],
+        "created_at": "2026-07-08T05:59:49.803885+00:00"
+    },
+    {
+        "id": 58198,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$$\\begin{array}{*{20}{l}} {{\\text{Let }}f{\\text{ be defined and continuous on a region }}S{\\text{ in }}{\\mathbb{R}^{\\text{n}}}.\\,{\\text{Suppose that }}{X_1}{\\text{ and }}{X_{\\text{2}}}{\\text{ are in }}S{\\text{ and}}\\,f\\left( {{X_1}} \\right){\\text{ }} < {\\text{ Y }} < {\\text{ }}f\\left( {{X_2}} \\right){\\text{. }}} \\\\\\\\ {{\\text{Then }}f\\left( X \\right) = Y{\\text{ - - - - - - - }}X{\\text{ in }}S.} \\\\\\\\ {} \\end{array}$$",
+        "op": [
+            "for some",
+            "for all"
+        ],
+        "created_at": "2026-07-08T08:42:41.654238+00:00"
+    },
+    {
+        "id": 58857,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A sufficient condition for a function of several variables to be differentiable at point is",
+        "op": [
+            "only the partial derivative should exists at that point.",
+            "only limit at that point should exists.",
+            "All partial derivatives exists and are continuous at that point",
+            "None of these"
+        ],
+        "created_at": "2026-07-08T16:58:16.348953+00:00"
+    },
+    {
+        "id": 72125,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^n},{\\text{which of the following is true about }}\\phi = \\left\\{ {} \\right\\}{\\text{ and }}A = \\left\\{ {\\left( {{a_1},{a_2}, \\ldots ,{a_n}} \\right),{a_i} \\in \\mathbb{R},1 \\leqslant i \\leqslant n,i \\in \\mathbb{N}} \\right\\}?",
+        "op": [
+            "\\phi {\\text{ is Connected and }}A{\\text{ is Disconnected}}",
+            "\\phi {\\text{ is Disconnected and }}A{\\text{ is Connected}}",
+            "{\\text{Both are Disconnected}}",
+            "{\\text{Both are Connected}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72126,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^n},\\,{\\text{the interior }}{S^0}{\\text{ of a non - empty set S is - - - - - - }}{\\text{.}}",
+        "op": [
+            "{\\text{open - disconnected}}",
+            "{\\text{open - connected (region)}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72127,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{Intervals }}\\left( {{\\text{0,1}}} \\right){\\text{ and }}\\left( {{\\text{1,2}}} \\right){\\text{ are example of disconnected sets in }}\\mathbb{R}{\\text{ because - - - - - - - }}{\\text{.}}",
+        "op": [
+            "\\left( {{\\text{0,1}}} \\right) \\cap \\left( {{\\text{1,2}}} \\right) = \\phi",
+            "\\left\\{ {{\\text{closure of}}\\left( {{\\text{0,1}}} \\right)} \\right\\} \\cap \\left( {{\\text{1,2}}} \\right) = \\phi {\\text{ and}}\\left\\{ {{\\text{closure of}}\\left( {{\\text{1,2}}} \\right)} \\right\\} \\cap \\left( {{\\text{0,1}}} \\right) = \\phi"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72128,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The limit of the function f(x) = \\frac{{xy}}{{{x^2} + {y^2}}} by letting \\left( {x,{\\rm{ }}y} \\right)approach \\left( {0,{\\rm{ }}0} \\right)along the line y{\\rm{ }} = {\\rm{ }}x is ________. ",
+        "op": [
+            "- \\frac{1}{2}",
+            "Finite",
+            "\\frac{1}{2}",
+            "Undefined"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72129,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{Set of isolated point(s) of the complement of set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ in }}{\\mathbb{R}^{\\text{2}}},{\\text{is}} - - - - .",
+        "op": [
+            "\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cap \\left\\{ {\\left( {0,0} \\right)} \\right\\}",
+            "\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cup \\left\\{ {\\left( {0,0} \\right)} \\right\\}",
+            "\\left\\{ {\\left( {0,0} \\right)} \\right\\}",
+            "\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72130,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let f\\left( {x,y} \\right) = \\frac{{xy}}{{{x^2} + {y^2}}} then the limit of f along the line y=-x as (x,y) approach (0,0) is ______.",
+        "op": [
+            "undefined",
+            "0",
+            "-1/2",
+            "1/2"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72131,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{The set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ is - - - - - - in }}{\\mathbb{R}^{\\text{2}}}.",
+        "op": [
+            "neither open nor closed",
+            "open",
+            "closed",
+            "both open or closed"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72132,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{Which of the following non - empty subset on Real line }}\\mathbb{R}{\\text{ is taken as }}region\\,?",
+        "op": [
+            "{\\text{Natural numbers }}\\mathbb{N}",
+            "{\\text{Range of pointwise or uniform real valued convergent sequences}}",
+            "{\\text{Rationals }}\\mathbb{Q}{\\text{ or Irrationals }}{\\mathbb{Q}^c}",
+            "{\\text{Intervals (open, closed, semi open or closed)}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72133,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{A compact set in }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - - - }}{\\text{.}}",
+        "op": [
+            "{\\text{closed and unbounded}}",
+            "{\\text{open and unbounded}}",
+            "{\\text{closed and bounded}}",
+            "{\\text{open and bounded}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72139,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If \\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) exists, then it is _____.",
+        "op": [
+            "none of these",
+            "1",
+            "0",
+            "unique"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72141,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{An open disc: }}\\left\\{ {\\left( {x,y} \\right):{x^2} + {y^2} < 1} \\right\\}{\\text{ in }}{\\mathbb{R}^2}{\\text{ is - - - - - - }}{\\text{.}}",
+        "op": [
+            "{\\text{diconnected}}",
+            "{\\text{disconnected polygonally}}",
+            "{\\text{none of these}}{\\text{.}}",
+            "{\\text{connected polygonally}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72142,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^n}{\\text{, if }}{S_1},{S_2},{S_3} \\ldots \\,\\,{\\text{are non - empty closed subsets such that }}{S_1} \\supset {S_2} \\supset \\cdots \\; \\supset {S_r} \\supset \\cdots {\\text{ and }} \\hfill \\\\ {\\text{sup}}\\left\\{ {\\left| {{X_r} - {Y_r}} \\right|:{X_r},{Y_r} \\in {S_r},r \\geqslant 1} \\right\\} \\to 0{\\text{ as }}r \\to \\infty {\\text{,then the order of set }}\\mathop \\cap \\limits_{r = 1}^\\infty {S_r} = - - - . \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{finite but more than one}}",
+            "\\operatorname{infinite}",
+            "{\\text{zero}}",
+            "{\\text{one}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72143,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^3},{\\text{ the lines }}{{\\text{L}}_{\\text{1}}}:X = \\left( {2, - 1,5} \\right) + \\alpha \\left( {2, - 1,3} \\right){\\text{ and }}{{\\text{L}}_2}:X = \\left( {2, - 1,5} \\right) + \\beta \\left( { - 5,\\frac{5}{2}, - \\frac{{15}}{2}} \\right){\\text{ are traversed}} \\hfill \\\\ {\\text{in - - - - - - - - - directions, where }} - \\infty < \\alpha ,\\beta < \\infty . \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{same}}",
+            "{\\text{oblique}}",
+            "{\\text{opposite}}",
+            "{\\text{perpendicular}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72147,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{For a non empty closed and bounded subset }}S{\\text{ in }}{\\mathbb{R}^n},{\\text{ if }}{\\rm H}{\\text{ is the collection open sets such that }} \\hfill \\\\ S \\subset \\cup \\left\\{ {H:H \\in {\\rm H}} \\right\\},{\\text{then by Heine - Borel theorem,}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{All above are equally valid}}",
+            "S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^\\infty \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}",
+            "S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^n \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}",
+            "S \\subset \\mathop \\cup \\limits_{\\lambda \\in \\Lambda } \\left\\{ {{H_\\lambda }:{H_\\lambda } \\in {\\rm H}} \\right\\}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72151,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{If }}\\phi \\ne S \\subseteq {\\mathbb{R}^n},{\\text{ then the set }}S{\\text{ is bounded if - - - - - - - }}{\\text{.}}",
+        "op": [
+            "{\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty \\,",
+            "\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} < \\infty",
+            "\\inf \\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty",
+            "{\\text{sup}}\\left\\{ {\\left| {X - Y} \\right|:X,Y \\in S} \\right\\} = \\infty"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72212,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{If }}{\\mathbb{R}^n}{\\text{ is connected, such that }}{\\mathbb{R}^n} = A \\cup B{\\text{ with }}\\bar A \\cap B = A \\cap \\bar B = \\phi ,{\\text{then - - - - - }}{\\text{.}}",
+        "op": [
+            "A{\\text{ and }}B{\\text{ are both open and closed}}",
+            "{\\text{All above can be concluded}}",
+            "{\\text{ }}\\bar A \\subset A,\\bar B \\subset B",
+            "{\\text{Either }}A = {\\mathbb{R}^n},B = \\phi {\\text{ or }}B = {\\mathbb{R}^n},A = \\phi"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72216,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{If }}{\\mathbb{R}^n}{\\text{ is connected, such that }}{\\mathbb{R}^n} = A \\cup B{\\text{ with }}\\bar A \\cap B = A \\cap \\bar B = \\phi ,{\\text{then - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[A{\\text{ and }}B{\\text{ are both open and closed}}\\]",
+            "\\[{\\text{All above can be concluded}}\\]",
+            "\\[{\\text{ }}\\bar A \\subset A,\\bar B \\subset B\\]",
+            "\\[{\\text{Either }}A = {\\mathbb{R}^n},B = \\phi {\\text{ or }}B = {\\mathbb{R}^n},A = \\phi \\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72217,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{Intervals }}\\left( {{\\text{0,1}}} \\right){\\text{ and }}\\left( {{\\text{1,2}}} \\right){\\text{ are example of disconnected sets in }}\\mathbb{R}{\\text{ because - - - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[\\left( {{\\text{0,1}}} \\right) \\cap \\left( {{\\text{1,2}}} \\right) = \\phi \\]",
+            "\\[\\left\\{ {{\\text{closure of}}\\left( {{\\text{0,1}}} \\right)} \\right\\} \\cap \\left( {{\\text{1,2}}} \\right) = \\phi {\\text{ and}}\\left\\{ {{\\text{closure of}}\\left( {{\\text{1,2}}} \\right)} \\right\\} \\cap \\left( {{\\text{0,1}}} \\right) = \\phi \\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72218,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "$\\begin{gathered} {\\text{For a non empty closed and bounded subset }}S{\\text{ in }}{\\mathbb{R}^n},{\\text{ if }}{\\rm H}{\\text{ is the collection open sets such that }} \\hfill \\\\ S \\subset \\cup \\left\\{ {H:H \\in {\\rm H}} \\right\\},{\\text{then by Heine - Borel theorem,}} \\hfill \\\\\\ \\end{gathered} $",
+        "op": [
+            "$S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^\\infty \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}$",
+            "${\\text{All above are equally valid}}$",
+            "$S \\subset \\mathop \\cup \\limits_{\\alpha = 1}^n \\left\\{ {{H_\\alpha }:{H_\\alpha } \\in {\\rm H}} \\right\\}$",
+            "$S \\subset \\mathop \\cup \\limits_{\\lambda \\in \\Lambda } \\left\\{ {{H_\\lambda }:{H_\\lambda } \\in {\\rm H}} \\right\\}$"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72219,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If \\(\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right)\\) exists, then it is _____.",
+        "op": [
+            "unique",
+            "none of these",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72220,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^n},{\\text{which of the following is true about }}\\phi = \\left\\{ {} \\right\\}{\\text{ and }}A = \\left\\{ {\\left( {{a_1},{a_2}, \\ldots ,{a_n}} \\right),{a_i} \\in \\mathbb{R},1 \\leqslant i \\leqslant n,i \\in \\mathbb{N}} \\right\\}?\\]",
+        "op": [
+            "\\[{\\text{Both are Connected}}\\]",
+            "\\[{\\text{Both are Disconnected}}\\]",
+            "\\[\\phi {\\text{ is Disconnected and }}A{\\text{ is Connected}}\\]",
+            "\\[\\phi {\\text{ is Connected and }}A{\\text{ is Disconnected}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72221,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{In }}{\\mathbb{R}^n}{\\text{, if }}{S_1},{S_2},{S_3} \\ldots \\,\\,{\\text{are non - empty closed subsets such that }}{S_1} \\supset {S_2} \\supset \\cdots \\; \\supset {S_r} \\supset \\cdots {\\text{ and }} \\hfill \\\\ {\\text{sup}}\\left\\{ {\\left| {{X_r} - {Y_r}} \\right|:{X_r},{Y_r} \\in {S_r},r \\geqslant 1} \\right\\} \\to 0{\\text{ as }}r \\to \\infty {\\text{,then the order of set }}\\mathop \\cap \\limits_{r = 1}^\\infty {S_r} = - - - . \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[{\\text{one}}\\]",
+            "\\[{\\text{finite but more than one}}\\]",
+            "\\[\\operatorname{infinite} \\]",
+            "\\[{\\text{zero}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72310,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{Set of isolated point(s) of the complement of set }}\\left\\{ {\\left( {x,y} \\right): - n < x,y < n,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right),n \\in \\mathbb{N}} \\right\\}{\\text{ in }}{\\mathbb{R}^{\\text{2}}},{\\text{is}} - - - - .\\]",
+        "op": [
+            "\\[\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cup \\left\\{ {\\left( {0,0} \\right)} \\right\\}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\}\\]",
+            "\\[\\left\\{ {\\left( {0,0} \\right)} \\right\\}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right) \\in {\\mathbb{R}^2}:x = y = \\left| n \\right|,n \\in \\mathbb{N}} \\right\\} \\cap \\left\\{ {\\left( {0,0} \\right)} \\right\\}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72322,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^2},{\\text{ the set }}\\left\\{ {\\left( {x,y} \\right):\\left( {{x^2} + {y^2} \\leqslant a} \\right)\\,\\, \\vee \\,\\left( {{x^2} + {y^2} \\geqslant b} \\right),a < b} \\right\\}\\,{\\text{is a region}}{\\text{.}}",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72330,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{Which of the following non - empty subset on Real line }}\\mathbb{R}{\\text{ is taken as }}region\\,?\\]",
+        "op": [
+            "\\[{\\text{Range of pointwise or uniform real valued convergent sequences}}\\]",
+            "\\[{\\text{Intervals (open, closed, semi open or closed)}}\\]",
+            "\\[{\\text{Natural numbers }}\\mathbb{N}\\]",
+            "\\[{\\text{Rationals }}\\mathbb{Q}{\\text{ or Irrationals }}{\\mathbb{Q}^c}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72354,
+        "cc": "MTH631",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "$\\begin{gathered} {\\text{In }}{\\mathbb{R}^3},{\\text{ the lines }}{{\\text{L}}_{\\text{1}}}:X = \\left( {2, - 1,5} \\right) + \\alpha \\left( {2, - 1,3} \\right){\\text{ and }}{{\\text{L}}_2}:X = \\left( {2, - 1,5} \\right) + \\beta \\left( { - 5,\\frac{5}{2}, - \\frac{{15}}{2}} \\right){\\text{ are traversed}} \\hfill \\\\ {\\text{in - - - - - - - - - directions, where }} - \\infty < \\alpha ,\\beta < \\infty . \\hfill \\\\\\ \\end{gathered} $",
+        "op": [
+            "${\\text{opposite}}$",
+            "${\\text{same}}$",
+            "${\\text{perpendicular}}$",
+            "${\\text{oblique}}$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 73224,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Which statement(s) is(are) true about the function f(x,y) = \\frac{{{x^2} + {y^2}}}{{x - y}},",
+        "op": [
+            "f is differentiable every where except at the points where y = x",
+            "{f_y}(x,y) = \\frac{y}{{x - y}} + \\frac{{{x^2} + {y^2}}}{{{{(x - y)}^2}}}.",
+            "{f_y}(x,y),{\\text{ }}{f_x}(x,y) are continuous everywhere.",
+            "{f_x}(x,y) = \\frac{{2x}}{{x - y}} - \\frac{{{x^2} + {y^2}}}{{{{(x + y)}^2}}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73225,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{How many }}third{\\text{ order partial derivatives of }}g\\left( {x,y} \\right) = xy + {x^2}{y^3}{\\text{ exist in }}{\\mathbb{R}^3}?",
+        "op": [
+            "3",
+            "9",
+            "6",
+            "8"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73226,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "If f\\left( {x,y,z} \\right) = \\cos \\left( {\\frac{1}{{{x^2} + 2{y^2} + {z^2}}}} \\right) then \\mathop {\\lim }\\limits_{\\left| X \\right| \\to \\infty } f\\left( X \\right) = \\_\\_\\_\\_\\_",
+        "op": [
+            "0",
+            "infinite",
+            "1",
+            "-1"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73227,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{array}{*{20}{l}} {{\\text{Let }}f{\\text{ be defined and continuous on a region }}S{\\text{ in }}{\\mathbb{R}^{\\text{n}}}.\\,{\\text{Suppose that }}{X_1}{\\text{ and }}{X_{\\text{2}}}{\\text{ are in }}S{\\text{ and}}\\,f\\left( {{X_1}} \\right){\\text{ }} < {\\text{ Y }} < {\\text{ }}f\\left( {{X_2}} \\right){\\text{. }}} \\\\\\\\ {{\\text{Then }}f\\left( X \\right) = Y{\\text{ - - - - - - - }}X{\\text{ in }}S.} \\\\\\\\ {} \\end{array}",
+        "op": [
+            "for all",
+            "for some"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73228,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{u_{xx}} + {u_{yy}} - - - - . \\hfill \\\\\\ \\hfill \\\\\\\\ \\end{gathered}",
+        "op": [
+            "=0",
+            ">0 but <1",
+            "=1",
+            ">0"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73229,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "If f(s) = \\sqrt s and g(x,y) = 1 - {x^2} - {y^2} then domain of f and g are ______________________________. ",
+        "op": [
+            "{D_g} = ( - \\infty ,\\infty ),{D_f} = {\\mathbb{R}^2}",
+            "{D_f} = [0,\\infty ],{D_g} = {\\mathbb{R}^2}",
+            "{D_f} = [0,\\infty ),{D_g} = {\\mathbb{R}^2}",
+            "{D_f} = [0,\\infty ],{D_g} = \\mathbb{R}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73230,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In}}\\,{\\mathbb{R}^2}{\\text{, }}f\\left( X \\right) = {\\left| X \\right|^2}{\\text{ and }}\\Phi {\\text{ = }}\\left( {\\frac{1}{{\\sqrt 2 }},\\frac{1}{{\\sqrt 2 }}} \\right),{\\text{ then }}\\frac{{\\partial f\\left( X \\right)}}{{\\partial \\Phi }} =",
+        "op": [
+            "\\frac{{{x_1} + {x_2}}}{2}",
+            "{x_1} + {x_2}",
+            "\\sqrt 2 \\left( {{x_1} + {x_2}} \\right)",
+            "\\frac{{{x_1} + {x_2}}}{{\\sqrt 2 }}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73233,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ monotonicity, limits inferior and superior of sequences, and }} \\hfill \\\\ {\\text{divergence to }} \\pm \\infty \\,\\,{\\text{are undefined for }}n{\\text{ }} > {\\text{ }}1\\,\\,{\\text{because }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{a Field}}",
+            "{\\text{not compact for }}n > 1",
+            "{\\text{not ordered for }}n > 1",
+            "{\\text{complete}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73245,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{The domain of the real valued function }}f:{\\mathbb{R}^n} \\to \\mathbb{R}{\\text{ defined and given by;}} \\hfill \\\\ f\\left( X \\right){\\text{ = }}{\\left( {1 - x_1^2 - x_2^2 - \\cdots - x_2^n} \\right)^{ - 1}}{\\text{ is - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "\\left\\{ {X|\\left| X \\right| = 1} \\right\\}",
+            "\\left\\{ {X|\\left| X \\right| \\ne 1} \\right\\}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73246,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{If }}f{\\text{ is continuous on a compact set }}S{\\text{ in }}{\\mathbb{R}^n},\\,\\,{\\text{then }}f - - - - {\\text{ on }}S.",
+        "op": [
+            "is also uniformly continuous",
+            "attains all its bounds",
+            "is also defined on all the limit points of “S”",
+            "All above are equally valid"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73247,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},f\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }},\\,\\,{x^2} + 2{y^2} < 1 \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{x^2} + 2{y^2} = 1 \\hfill \\\\\\ \\end{gathered} \\right. \\hfill \\\\ {\\text{is - - - - - - - - - - on }}{x^2} + 2{y^2} = 1{\\text{ }}{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "continuous",
+            "discontinuous"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73248,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{If a function }}f{\\text{ is }}continuous{\\text{ on a }}compact{\\text{ set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, and }}\\alpha = \\mathop {\\inf }\\limits_{X \\in S} f\\left( X \\right),\\,\\beta = \\mathop {\\sup }\\limits_{X \\in S} f\\left( X \\right)\\,, \\hfill \\\\ {\\text{then }}f\\left( {{X_1}} \\right){\\text{ = }}\\alpha {\\text{ and }}f\\left( {{X_2}} \\right){\\text{ = }}\\beta \\, - - - - - {X_1}{\\text{ and }}{X_2}{\\text{ in }}S. \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "for some",
+            "for all"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73249,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{v_{xx}} + {v_{yy}} - - - - . \\hfill \\\\ \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            ">0 but <1",
+            "=0",
+            "=1",
+            ">0"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73250,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{Suppose in }}{\\mathbb{R}^2}{\\text{, }}f,{\\text{ }}{f_x},{\\text{ }}{f_y}{\\text{ and }}{f_{xy}}{\\text{ exist on neighborhood }}N{\\text{ of }}\\left( {{x_0},{y_0}} \\right){\\text{. Then }}{f_{yx}}\\left( {{x_0},{y_0}} \\right){\\text{ exists, and}} \\hfill \\\\\\ {f_{yx}}\\left( {{x_0},{y_0}} \\right) = {f_{xy}}\\left( {{x_0},{y_0}} \\right){\\text{ because if }}{f_{xy}}{\\text{ is - - - - }}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}",
+        "op": [
+            "differntiable",
+            "partially differentiable",
+            "bounded",
+            "continuous"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73251,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{u_{xx}} - {u_{yy}} - - - - . \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "none of these.",
+            "=0",
+            "=1",
+            ">0"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73252,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {a,b} \\right)} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }} = 1,{\\text{ if - - - - - - }}{\\text{.}}",
+        "op": [
+            "\\left( {{a^2} + 2{b^2}} \\right)\\mathop > \\limits_ < 1",
+            "\\left( {{a^2} + 2{b^2}} \\right) = 1",
+            "\\left( {{a^2} + 2{b^2}} \\right) < 1",
+            "\\left( {{a^2} + 2{b^2}} \\right) > 1"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73282,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let f be continuous on a region S in ${\\mathbb{R}^n}$. Suppose that A and B are in S and _____________. Then $f\\left( C \\right) = u$ for some C in S ",
+        "op": [
+            "\\[f(A){\\rm{ }} < {\\rm{ }}u{\\rm{ }} < {\\rm{ }}f(B)\\]",
+            "\\[f(A){\\rm{ }} \\le {\\rm{ }}u{\\rm{ }} \\le {\\rm{ }}f(B)\\]",
+            "\\[f(A){\\rm{ }} \\ge {\\rm{ }}u{\\rm{ }} \\ge f(B)\\]",
+            "\\[f(A){\\rm{ }} > {\\rm{ }}u{\\rm{ }} > f(B)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73283,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^2},{\\text{ }}\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {2,2} \\right)} \\frac{{\\sin \\left( {x - y} \\right)}}{{\\sqrt {x - y} }} = - - - - .\\]",
+        "op": [
+            "\\[0\\,\\]",
+            "\\[\\infty \\]",
+            "\\[1\\]",
+            "\\[\\sqrt 2 \\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73284,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "A function f is ______________ on a subset S of its domain in ${\\mathbb{R}^n}$ if for every $\\varepsilon > 0$ there is a $\\delta > 0$ such that $\\left| {f(X) - f(X')} \\right| < \\varepsilon $ whenever $\\left| {X - X'} \\right| < \\delta $ and $X,X' \\in S$. ",
+        "op": [
+            "Compact",
+            "All of these",
+            "Differentiable",
+            "Uniformly continuous"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73285,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a curve through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\\\ {\\text{determined by the unit vectors }} - - - - {\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\hat \\Phi {\\text{ and reciprocal vector of }}\\hat k\\]",
+            "\\[\\hat \\Phi {\\text{ and }}\\hat j\\]",
+            "\\[\\hat \\Phi {\\text{ and }}\\hat i\\]",
+            "\\[\\hat \\Phi {\\text{ and }}\\hat k\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73287,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{Suppose in }}{\\mathbb{R}^2}{\\text{, }}f,{\\text{ }}{f_x},{\\text{ }}{f_y}{\\text{ and }}{f_{xy}}{\\text{ exist on neighborhood }}N{\\text{ of }}\\left( {{x_0},{y_0}} \\right){\\text{. Then }}{f_{yx}}\\left( {{x_0},{y_0}} \\right){\\text{ exists, and}} \\hfill \\\\\\ {f_{yx}}\\left( {{x_0},{y_0}} \\right) = {f_{xy}}\\left( {{x_0},{y_0}} \\right){\\text{ because if }}{f_{xy}}{\\text{ is - - - - }}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered} \\]",
+        "op": [
+            "continuous",
+            "partially differentiable",
+            "differntiable",
+            "bounded"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73288,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ monotonicity, limits inferior and superior of sequences, and }} \\hfill \\\\ {\\text{divergence to }} \\pm \\infty \\,\\,{\\text{are undefined for }}n{\\text{ }} > {\\text{ }}1\\,\\,{\\text{because }}{\\mathbb{R}^n}{\\text{ is - - - - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[{\\text{a Field}}\\]",
+            "\\[{\\text{complete}}\\]",
+            "\\[{\\text{not ordered for }}n > 1\\]",
+            "\\[{\\text{not compact for }}n > 1\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73289,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{The function }}d{x_i}{\\text{ gives the value at a point in }}{\\mathbb{R}^n}{\\text{as;}}",
+        "op": [
+            "d{x_i}\\left( X \\right) = {x_{i - 1}}",
+            "d{x_i}\\left( X \\right) = {x_{i + 1}}",
+            "d{x_i}\\left( X \\right) = {x_{i - 1}} + {x_{i + 1}}",
+            "d{x_i}\\left( X \\right) = {x_i}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73302,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If a function }}f{\\text{ is }}continuous{\\text{ on a }}compact{\\text{ set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, and }}\\alpha = \\mathop {\\inf }\\limits_{X \\in S} f\\left( X \\right),\\,\\beta = \\mathop {\\sup }\\limits_{X \\in S} f\\left( X \\right)\\,, \\hfill \\\\ {\\text{then }}f\\left( {{X_1}} \\right){\\text{ = }}\\alpha {\\text{ and }}f\\left( {{X_2}} \\right){\\text{ = }}\\beta \\, - - - - - {X_1}{\\text{ and }}{X_2}{\\text{ in }}S. \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "for all",
+            "for some"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73304,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a curve through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\\\ {\\text{determined by the unit vectors }} - - - - {\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "\\hat \\Phi {\\text{ and reciprocal vector of }}\\hat k",
+            "\\hat \\Phi {\\text{ and }}\\hat j",
+            "\\hat \\Phi {\\text{ and }}\\hat k",
+            "\\hat \\Phi {\\text{ and }}\\hat i"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73305,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{If }}f\\left( t \\right) = \\sqrt t {\\text{, }}g\\left( {x,y} \\right) = 1 - {x^2} - 2{y^2}{\\text{, then the domain of }}f \\circ g = {\\text{ - - - - - - }}{\\text{.}}",
+        "op": [
+            "\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}",
+            "\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}",
+            "\\mathbb{R}",
+            "{\\mathbb{R}^2}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73308,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{u_{xx}} - {u_{yy}} - - - - . \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "=0",
+            "none of these.",
+            ">0",
+            "=1"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73309,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let the function f(s) = \\left\\{ \\begin{array}{l}\\frac{{\\sin s}}{s},s \\ne 0\\\\1,s = 0\\end{array} \\right. is continuous over domain _____________. ",
+        "op": [
+            "(a) \\mathbb{R}",
+            "(c) (0,\\infty )",
+            "(b) ( - \\infty ,\\infty )",
+            "Both a & b"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73311,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Which statement(s) is(are) true about the function \\[f(x,y) = \\frac{{{x^2} + {y^2}}}{{x - y}}\\],",
+        "op": [
+            "\\[{f_y}(x,y) = \\frac{y}{{x - y}} + \\frac{{{x^2} + {y^2}}}{{{{(x - y)}^2}}}.\\]",
+            "\\[{f_y}(x,y),{\\text{ }}{f_x}(x,y)\\] are continuous everywhere.",
+            "\\[{f_x}(x,y) = \\frac{{2x}}{{x - y}} - \\frac{{{x^2} + {y^2}}}{{{{(x + y)}^2}}}\\]",
+            "\\[f\\] is differentiable every where except at the points where \\[y = x\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73312,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^n},{\\text{ }}f\\left( X \\right) = \\frac{1}{{\\left| {X - {X_{_0}}} \\right|}},and\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = \\infty ,{\\text{ then }}\\,f\\left( X \\right) > M > 0\\,\\, \\Rightarrow {\\text{ }}0 < \\left| {X - {X_{_0}}} \\right| < \\delta = - - - - .\\]",
+        "op": [
+            "\\[\\sqrt M \\]",
+            "\\[M\\]",
+            "\\[\\frac{1}{M}\\,\\]",
+            "\\[\\frac{1}{{\\sqrt M }}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73313,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{array}{*{20}{l}} {{\\text{Let }}f{\\text{ be defined and continuous on a region }}S{\\text{ in }}{\\mathbb{R}^{\\text{n}}}.\\,{\\text{Suppose that }}{X_1}{\\text{ and }}{X_{\\text{2}}}{\\text{ are in }}S{\\text{ and}}\\,f\\left( {{X_1}} \\right){\\text{ }} < {\\text{ Y }} < {\\text{ }}f\\left( {{X_2}} \\right){\\text{. }}} \\\\\\\\ {{\\text{Then }}f\\left( X \\right) = Y{\\text{ - - - - - - - }}X{\\text{ in }}S.} \\\\\\\\ {} \\end{array}\\]",
+        "op": [
+            "for all",
+            "for some"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73314,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ if the first order partial derivative of a function }}f\\left( X \\right){\\text{ exits at }}{X_0}{\\text{, }} \\hfill \\\\ {\\text{then it is essentially continuous at }}{X_0}. \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73315,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{Analogous to the derivative of a function of one variable in }}{\\mathbb{R}^2}{\\text{, the directional derivative of a function}} \\hfill \\\\ f{\\text{ at }}{X_0}{\\text{ in }}{\\mathbb{R}^n}{\\text{ has - - - - - - value(s)}}{\\text{. }} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "integral",
+            "infinite many",
+            "unique",
+            "multiple"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73316,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{The function }}d{x_i}{\\text{ gives the value at a point in }}{\\mathbb{R}^n}{\\text{as;}}\\]",
+        "op": [
+            "\\[d{x_i}\\left( X \\right) = {x_{i - 1}}\\]",
+            "\\[d{x_i}\\left( X \\right) = {x_i}\\]",
+            "\\[d{x_i}\\left( X \\right) = {x_{i + 1}}\\]",
+            "\\[d{x_i}\\left( X \\right) = {x_{i - 1}} + {x_{i + 1}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73317,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^n},{\\text{ }}f\\left( X \\right) = \\frac{1}{{\\left| {X - {X_{_0}}} \\right|}},and\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = \\infty ,{\\text{ then }}\\,f\\left( X \\right) > M > 0\\,\\, \\Rightarrow {\\text{ }}0 < \\left| {X - {X_{_0}}} \\right| < \\delta = - - - - .",
+        "op": [
+            "\\frac{1}{M}\\,",
+            "\\frac{1}{{\\sqrt M }}",
+            "\\sqrt M",
+            "M"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73318,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "For the functions f(x) = 3{x^2} + 5{x^3}, the differential at x = - 1 exists because",
+        "op": [
+            "\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{9(x + 1)}}{{x + 1}} = 0.",
+            "\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 0.",
+            "\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x)}}{{x + 1}} = \\infty .",
+            "\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 1."
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73319,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^n},{\\text{ the function }}f\\left( X \\right){\\text{ is continuous at }}{X_0}{\\text{, if }}\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = f\\left( {{X_0}} \\right),{\\text{ then - - - - - - }}{\\text{.}}",
+        "op": [
+            "{X_0}\\,{\\text{is not in the domian }}{D_f}{\\text{ but a limit point of }}{D_f}",
+            "{X_0}\\,{\\text{is in the domian }}{D_f}{\\text{ but not a limit point of }}{D_f}",
+            "{X_0}\\,{\\text{is in the domian }}{D_f}{\\text{ and limit point of }}{D_f}",
+            "{\\text{neither}}\\,{X_0}\\,{\\text{is in the domian }}{D_f}\\,{\\text{nor the limit point of }}{D_f}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73320,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^2},{\\text{ }}\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {2,2} \\right)} \\frac{{\\sin \\left( {x - y} \\right)}}{{\\sqrt {x - y} }} = - - - - .",
+        "op": [
+            "\\infty",
+            "\\sqrt 2",
+            "0\\,",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73321,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}g\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{xy}}{{{x^2} + {y^2}}},\\,\\,\\,\\,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right) \\hfill \\\\ 0,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {x,y} \\right) = \\left( {0,0} \\right) \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ \\frac{{\\partial g}}{{\\partial x}}\\left( {0,0} \\right) = \\frac{{\\partial g}}{{\\partial y}}\\left( {0,0} \\right),\\,{\\text{and }}g\\left( {x,y} \\right){\\text{ is - - - - - - - at }}\\left( {0,0} \\right). \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "Continuous",
+            "Discontinuous"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73322,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "If f is continuous on a compact set S in {\\mathbb{R}^n}, then f is __________ on S. ",
+        "op": [
+            "Superemum",
+            "Bounded",
+            "All of these",
+            "Differentiable"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73323,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let f be continuous on a region S in {\\mathbb{R}^n}. Suppose that A and B are in S and _____________. Then f\\left( C \\right) = u for some C in S ",
+        "op": [
+            "f(A){\\rm{ }} < {\\rm{ }}u{\\rm{ }} < {\\rm{ }}f(B)",
+            "f(A){\\rm{ }} \\ge {\\rm{ }}u{\\rm{ }} \\ge f(B)",
+            "f(A){\\rm{ }} \\le {\\rm{ }}u{\\rm{ }} \\le {\\rm{ }}f(B)",
+            "f(A){\\rm{ }} > {\\rm{ }}u{\\rm{ }} > f(B)"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73324,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{If a function }}f{\\text{ is continuous on a Compact set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, then f is - - - - - - - - on }}S{\\text{.}}",
+        "op": [
+            "unbounded",
+            "bounded below",
+            "bounded",
+            "bounded above"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73325,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{The domain of the real valued function }}f:{\\mathbb{R}^2} \\to \\mathbb{R}{\\text{ defined and given by;}} \\hfill \\\\\\ f\\left( X \\right){\\text{ = }}\\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }}{\\text{ is - - - - - of the region}}\\,\\,{\\text{by the ellipse }}{x^2} + 2{y^2} = 1{\\text{ }}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{interior}}",
+            "{\\text{exterior}}",
+            "{\\text{interior and boundary}}",
+            "{\\text{exterior}}\\,\\,{\\text{and}}\\,\\,{\\text{boundary}}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73326,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\mathop {\\lim }\\limits_{\\left( {x,y} \\right) \\to \\left( {a,b} \\right)} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }} = 1,{\\text{ if - - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[\\left( {{a^2} + 2{b^2}} \\right)\\mathop > \\limits_ < 1\\]",
+            "\\[\\left( {{a^2} + 2{b^2}} \\right) = 1\\]",
+            "\\[\\left( {{a^2} + 2{b^2}} \\right) > 1\\]",
+            "\\[\\left( {{a^2} + 2{b^2}} \\right) < 1\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73327,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If }}g\\left( {x,y} \\right) = \\sqrt {1 - {x^2} - 2{y^2}} ,{\\text{ }}\\,f\\left( t \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin t}}{t},\\,t \\ne 0\\,\\, \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,t = 0 \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ {\\text{then domain of }}f \\circ g = - - - - - . \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\mathbb{R}\\]",
+            "\\[{\\mathbb{R}^2}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73330,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^n}{\\text{, }}\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = - \\infty ,\\,\\,{\\text{if}}\\]",
+        "op": [
+            "\\[\\mathop {\\lim }\\limits_{X \\to {X_0}} \\left( { - f} \\right)\\left( X \\right) = \\infty \\]",
+            "\\[\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( { - X} \\right) = \\infty \\]",
+            "\\[\\mathop {\\lim }\\limits_{X \\to - {X_0}} f\\left( X \\right) = \\infty \\]",
+            "\\[\\mathop {\\lim }\\limits_{ - X \\to {X_0}} f\\left( X \\right) = \\infty \\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73332,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{How many }}third{\\text{ order partial derivatives of }}g\\left( {x,y} \\right) = xy + {x^2}{y^3}{\\text{ exist in }}{\\mathbb{R}^3}?\\]",
+        "op": [
+            "9",
+            "6",
+            "8",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73333,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{If }}g\\left( {x,y} \\right) = \\sqrt {1 - {x^2} - 2{y^2}} ,{\\text{ }}\\,f\\left( t \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin t}}{t},\\,t \\ne 0\\,\\, \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,t = 0 \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ {\\text{then domain of }}f \\circ g = - - - - - . \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}",
+            "{\\mathbb{R}^2}",
+            "\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}",
+            "\\mathbb{R}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73335,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{If a function }}f{\\text{ is continuous on a Compact set }}S{\\text{ in }}{\\mathbb{R}^n}{\\text{, then f is - - - - - - - - on }}S{\\text{.}}\\]",
+        "op": [
+            "unbounded",
+            "bounded above",
+            "bounded below",
+            "bounded"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73336,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "If \\[f(x,y)\\] is continuous at \\[({x_0},{y_0})\\] and \\[{f_{yx}}({x_0},{y_0})\\] exists. Then, ",
+        "op": [
+            "\\[{f_{yx}}({x_0},{y_0}) = {f_{xy}}({x_0},{y_0})\\]",
+            "\\[{f_x}({x_0},{y_0}) = {f_y}({x_0},{y_0})\\]",
+            "\\[{f_{xx}}({x_0},{y_0}) = {f_{yy}}({x_0},{y_0})\\]",
+            "None of these"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73337,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{The domain of the real valued function }}f:{\\mathbb{R}^n} \\to \\mathbb{R}{\\text{ defined and given by;}} \\hfill \\\\ f\\left( X \\right){\\text{ = }}{\\left( {1 - x_1^2 - x_2^2 - \\cdots - x_2^n} \\right)^{ - 1}}{\\text{ is - - - - - }}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\left\\{ {X|\\left| X \\right| \\ne 1} \\right\\}\\]",
+            "\\[\\left\\{ {X|\\left| X \\right| = 1} \\right\\}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73338,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{If }}f\\left( t \\right) = \\sqrt t {\\text{, }}g\\left( {x,y} \\right) = 1 - {x^2} - 2{y^2}{\\text{, then the domain of }}f \\circ g = {\\text{ - - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[{\\mathbb{R}^2}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\geqslant 1} \\right\\}\\]",
+            "\\[\\mathbb{R}\\]",
+            "\\[\\left\\{ {\\left( {x,y} \\right):{x^2} - 2{y^2} \\leqslant 1} \\right\\}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73339,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "For the function f(x,y) = \\frac{{xy}}{{{x^2} + {y^2}}}, the limit of f(x,y) as (x,y) \\to (0,0) along the line y = - x is",
+        "op": [
+            "\\frac{1}{2}",
+            "- \\frac{1}{2}",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73340,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a - - - - - - - - - - through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\ {\\text{determined by the unit vectors }}\\hat \\Phi {\\text{ and }}\\hat k{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "Sub-Surface",
+            "Curve",
+            "Pair of lines",
+            "Straight line"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73341,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}f\\left( {x,y} \\right) = {x^2} + 2xy,\\,\\,{\\text{the }}\\left( {{d_{\\left( {2,1} \\right)}}f} \\right)\\left( {X - \\left( {2,1} \\right)} \\right) = - - - - .\\]",
+        "op": [
+            "\\[6\\left( {x - 2} \\right) + 4\\left( {y - 1} \\right)\\,\\]",
+            "\\[6\\left( {x - 2} \\right) + 2\\left( {y - 1} \\right)\\]",
+            "\\[4\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)\\]",
+            "\\[2\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73342,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}f\\left( {x,y} \\right) = {x^2} + 2xy,\\,\\,{\\text{the }}\\left( {{d_{\\left( {2,1} \\right)}}f} \\right)\\left( {X - \\left( {2,1} \\right)} \\right) = - - - - .",
+        "op": [
+            "4\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)",
+            "6\\left( {x - 2} \\right) + 2\\left( {y - 1} \\right)",
+            "2\\left( {x - 2} \\right) + 6\\left( {y - 1} \\right)",
+            "6\\left( {x - 2} \\right) + 4\\left( {y - 1} \\right)\\,"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73343,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "If f(x,y) is continuous at ({x_0},{y_0}) and {f_{yx}}({x_0},{y_0}) exists. Then, ",
+        "op": [
+            "None of these",
+            "{f_{yx}}({x_0},{y_0}) = {f_{xy}}({x_0},{y_0})",
+            "{f_x}({x_0},{y_0}) = {f_y}({x_0},{y_0})",
+            "{f_{xx}}({x_0},{y_0}) = {f_{yy}}({x_0},{y_0})"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73345,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{If }}{z_0} = f\\left( {{x_0},{y_0}} \\right){\\text{ then }}z\\left( t \\right) = f\\left( {x + \\phi t,y + \\phi t} \\right){\\text{ represents a - - - - - - - - - - through }}\\left( {{x_0},{y_0},{z_0}} \\right){\\text{ in the plane }} \\hfill \\ {\\text{determined by the unit vectors }}\\hat \\Phi {\\text{ and }}\\hat k{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "Straight line",
+            "Pair of lines",
+            "Sub-Surface",
+            "Curve"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73347,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{Analogous to the derivative of a function of one variable in }}{\\mathbb{R}^2}{\\text{, the directional derivative of a function}} \\hfill \\\\ f{\\text{ at }}{X_0}{\\text{ in }}{\\mathbb{R}^n}{\\text{ has - - - - - - value(s)}}{\\text{. }} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "unique",
+            "infinite many",
+            "integral",
+            "multiple"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73348,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "For the functions $ f(x) = 3{x^2} + 5{x^3}, $ the differential at x = - 1 exists because",
+        "op": [
+            "\\[\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x)}}{{x + 1}} = \\infty .\\]",
+            "\\[\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 0.\\]",
+            "\\[\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{f(x) + 2 - 9(x + 1)}}{{x + 1}} = 1.\\]",
+            "\\[\\mathop {\\lim }\\limits_{x \\to - 1} \\frac{{9(x + 1)}}{{x + 1}} = 0.\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73349,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{array}{*{20}{l}} {{\\text{Let }}f{\\text{ be defined on an interval }}I{\\text{ in }}{\\mathbb{R}^2}.\\,{\\text{Suppose that }}{x_1}{\\text{ and }}{x_{\\text{2}}}{\\text{ are in }}I{\\text{ and}}\\,f\\left( {{x_1}} \\right){\\text{ }} < {\\text{ }}y{\\text{ }} < {\\text{ }}f\\left( {{x_2}} \\right){\\text{. }}} \\\\\\ {{\\text{Then }}f\\left( x \\right) = y{\\text{ for some }}x{\\text{ in }}I.} \\\\\\ {} \\end{array}",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73350,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{Let }}u{\\text{ and }}v{\\text{ be functions of two variables with continuous second - order partial derivatives in a region }}S{\\text{. }} \\hfill \\\\ {\\text{Suppose that }}{u_x} = {v_y}{\\text{ and }}{u_y} = - {v_x}{\\text{ in }}S{\\text{. Then, }}{v_{xx}} + {v_{yy}} - - - - . \\hfill \\\\ \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "=1",
+            ">0 but <1",
+            ">0",
+            "=0"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73351,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{In }}{\\mathbb{R}^n},{\\text{ if the first order partial derivative of a function }}f\\left( X \\right){\\text{ exits at }}{X_0}{\\text{, }} \\hfill \\\\ {\\text{then it is essentially continuous at }}{X_0}. \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73352,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},{\\text{ for the function }}g\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{xy}}{{{x^2} + {y^2}}},\\,\\,\\,\\,\\left( {x,y} \\right) \\ne \\left( {0,0} \\right) \\hfill \\\\ 0,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\left( {x,y} \\right) = \\left( {0,0} \\right) \\hfill \\\\\\ \\end{gathered} \\right., \\hfill \\\\ \\frac{{\\partial g}}{{\\partial x}}\\left( {0,0} \\right) = \\frac{{\\partial g}}{{\\partial y}}\\left( {0,0} \\right),\\,{\\text{and }}g\\left( {x,y} \\right){\\text{ is - - - - - - - at }}\\left( {0,0} \\right). \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "Continuous",
+            "Discontinuous"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73353,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{In }}{\\mathbb{R}^n}{\\text{, }}\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( X \\right) = - \\infty ,\\,\\,{\\text{if}}",
+        "op": [
+            "\\mathop {\\lim }\\limits_{X \\to {X_0}} \\left( { - f} \\right)\\left( X \\right) = \\infty",
+            "\\mathop {\\lim }\\limits_{X \\to {X_0}} f\\left( { - X} \\right) = \\infty",
+            "\\mathop {\\lim }\\limits_{X \\to - {X_0}} f\\left( X \\right) = \\infty",
+            "\\mathop {\\lim }\\limits_{ - X \\to {X_0}} f\\left( X \\right) = \\infty"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73354,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{If }}f{\\text{ is continuous on a compact set }}S{\\text{ in }}{\\mathbb{R}^n},\\,\\,{\\text{then }}f - - - - {\\text{ on }}S.\\]",
+        "op": [
+            "is also defined on all the limit points of “S”",
+            "is also uniformly continuous",
+            "All above are equally valid",
+            "attains all its bounds"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73357,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "For the function \\[f(x,y) = \\frac{{xy}}{{{x^2} + {y^2}}},\\] the limit of \\[f(x,y)\\] as \\[(x,y) \\to (0,0)\\] along the line \\[y = - x\\] is",
+        "op": [
+            "\\[ - \\frac{1}{2}\\]",
+            "\\[\\frac{1}{2}\\]",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73358,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{In }}{\\mathbb{R}^2},f\\left( {x,y} \\right){\\text{ = }}\\left\\{ \\begin{gathered} \\frac{{\\sin \\sqrt {1 - {x^2} - 2{y^2}} }}{{\\sqrt {1 - {x^2} - 2{y^2}} }},\\,\\,{x^2} + 2{y^2} < 1 \\hfill \\\\ 1,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{x^2} + 2{y^2} = 1 \\hfill \\\\\\ \\end{gathered} \\right. \\hfill \\\\ {\\text{is - - - - - - - - - - on }}{x^2} + 2{y^2} = 1{\\text{ }}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "continuous",
+            "discontinuous"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73359,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "A function f is ______________ on a subset S of its domain in {\\mathbb{R}^n} if for every \\varepsilon > 0 there is a \\delta > 0 such that \\left| {f(X) - f(X')} \\right| < \\varepsilon whenever \\left| {X - X'} \\right| < \\delta and X,X' \\in S ",
+        "op": [
+            "All of these",
+            "Differentiable",
+            "Uniformly continuous",
+            "Compact"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73534,
+        "cc": "MTH631",
+        "qn": "4",
+        "dt": "09 January 2026",
+        "qt": "\\[{\\text{In}}\\,{\\mathbb{R}^2}{\\text{, }}f\\left( X \\right) = {\\left| X \\right|^2}{\\text{ and }}\\Phi {\\text{ = }}\\left( {\\frac{1}{{\\sqrt 2 }},\\frac{1}{{\\sqrt 2 }}} \\right),{\\text{ then }}\\frac{{\\partial f\\left( X \\right)}}{{\\partial \\Phi }} = \\]",
+        "op": [
+            "\\[\\frac{{{x_1} + {x_2}}}{{\\sqrt 2 }}\\]",
+            "\\[\\sqrt 2 \\left( {{x_1} + {x_2}} \\right)\\]",
+            "\\[{x_1} + {x_2}\\]",
+            "\\[\\frac{{{x_1} + {x_2}}}{2}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:34.968154+00:00"
+    }
+]

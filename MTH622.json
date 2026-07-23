@@ -1,0 +1,798 @@
+[
+    {
+        "id": 47564,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If a particle of mass $2$ units has position vector $\\vec{r}=t^{3}\\hat{i}+8t\\hat{j}-9t\\hat{k}$ then find the force acting on the particle.",
+        "op": [
+            "$12t$",
+            "$12t\\hat{i}$"
+        ],
+        "created_at": "2026-07-05T19:03:30.959709+00:00"
+    },
+    {
+        "id": 47621,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If a force acts on a particle of constant mass $m$ and $\\vec{v}_{1}$, $\\vec{v}_{2}$ are velocities at times $t_{1}$ and $t_{2}$, respectively. Then the work done by the force is obtained as",
+        "op": [
+            "The sum of kinetic energies, i.e., $\\frac{1}{2}m\\vec{v}_{2}^{2}+\\frac{1}{2}m\\vec{v}_{1}^{2}$",
+            "The change in kinetic energies, i.e., $\\frac{1}{2}m\\vec{v}_{2}^{2}-\\frac{1}{2}m\\vec{v}_{1}^{2}$"
+        ],
+        "created_at": "2026-07-05T19:04:18.709872+00:00"
+    },
+    {
+        "id": 47680,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If an object explodes, the center\nof mass will",
+        "op": [
+            "continue its previous motion",
+            "come into rest"
+        ],
+        "created_at": "2026-07-05T19:04:55.125771+00:00"
+    },
+    {
+        "id": 47744,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Let 16kgm2 be the momentum of inertia of a system of particles about AB, and 4kg be the total mass of the system then the radius of gyration of the system AB would be _______m.",
+        "op": [
+            "2",
+            "8",
+            "4",
+            "1"
+        ],
+        "created_at": "2026-07-05T19:05:36.830959+00:00"
+    },
+    {
+        "id": 47781,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If a body rotates about some external fixed\npoint it is called revolution",
+        "op": [
+            "spin",
+            "revolution"
+        ],
+        "created_at": "2026-07-05T19:05:59.785334+00:00"
+    },
+    {
+        "id": 47826,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "According to Newton's second law of motion the net force applied on a body is equal to the rate of change of momentum of body.",
+        "op": [
+            "true",
+            "false"
+        ],
+        "created_at": "2026-07-05T19:06:37.597012+00:00"
+    },
+    {
+        "id": 47866,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following are examples of simple harmonic motion",
+        "op": [
+            "(c) movement on a slide",
+            "(b) object of mass m linked to a spring",
+            "(a) movement of the mass attached to a simple pendulum",
+            "both (a) and (b) options"
+        ],
+        "created_at": "2026-07-05T19:07:06.384786+00:00"
+    },
+    {
+        "id": 47926,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "A particle moves in a plane in such a way that at any time $t$ its distance from the origin is $r=2t+3t^{2}$ and its angle with positive x-axis is $\\theta=\\sqrt{t}$. Find the radial and transverse components of velocity.",
+        "op": [
+            "$2+6t$ and $(\\sqrt{t}+\\frac{3}{2}t^{\\frac{3}{2}})$",
+            "$2+6t$ and $\\frac{1}{2\\sqrt{t}}$"
+        ],
+        "created_at": "2026-07-05T19:07:53.428025+00:00"
+    },
+    {
+        "id": 47961,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following objects has more inertia?",
+        "op": [
+            "an object with mass $40kg$",
+            "an object with mass $30kg$"
+        ],
+        "created_at": "2026-07-05T19:08:28.608676+00:00"
+    },
+    {
+        "id": 51345,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "A car driving along a curved road is an example\nof",
+        "op": [
+            "oscillatory motion",
+            "curvilinear motion",
+            "rectilinear motion",
+            "none of these options"
+        ],
+        "created_at": "2026-07-06T01:16:11.391417+00:00"
+    },
+    {
+        "id": 51347,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If the total external torque on the system is zero, then its angular momentum will be ______.",
+        "op": [
+            "zero",
+            "increasing",
+            "decresing",
+            "constant"
+        ],
+        "created_at": "2026-07-06T01:16:29.229595+00:00"
+    },
+    {
+        "id": 51348,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "The product of force and displacement is called",
+        "op": [
+            "energy",
+            "work done"
+        ],
+        "created_at": "2026-07-06T01:16:53.200246+00:00"
+    },
+    {
+        "id": 51349,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Forces that can be expressed in the term of a potential\nenergy function are called non conservative forces.",
+        "op": [
+            "true",
+            "false"
+        ],
+        "created_at": "2026-07-06T01:17:01.9803+00:00"
+    },
+    {
+        "id": 51352,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If position of a vibrating mass at any time is defined as $y(t)=20cos(\\frac{3}{4}t)$. Then the amplitude is",
+        "op": [
+            "$\\frac{3}{4}$",
+            "20"
+        ],
+        "created_at": "2026-07-06T01:17:37.636178+00:00"
+    },
+    {
+        "id": 52100,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "A rigid body has....... degrees of freedom,",
+        "op": [
+            "three",
+            "infinite many",
+            "four",
+            "six"
+        ],
+        "created_at": "2026-07-06T03:25:30.138166+00:00"
+    },
+    {
+        "id": 52101,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Let 56kgms-1 be the linear momentum of a system of particles and 4ms-1 be the velocity of the center of mass then the total mass of the system would be _____kg.",
+        "op": [
+            "120",
+            "14",
+            "46",
+            "68"
+        ],
+        "created_at": "2026-07-06T03:25:44.072313+00:00"
+    },
+    {
+        "id": 52102,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Elastic spring force is not an example of conservative force.",
+        "op": [
+            "false",
+            "true"
+        ],
+        "created_at": "2026-07-06T03:26:21.22523+00:00"
+    },
+    {
+        "id": 52104,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following force is not conservative",
+        "op": [
+            "gravitational force",
+            "frictional force",
+            "elastic spring force",
+            "electric force"
+        ],
+        "created_at": "2026-07-06T03:26:32.480682+00:00"
+    },
+    {
+        "id": 52704,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "In case of conservative force field, the total energy is........",
+        "op": [
+            "any function of time",
+            "a constant"
+        ],
+        "created_at": "2026-07-06T05:12:24.800028+00:00"
+    },
+    {
+        "id": 52711,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "According to first law of motion if some external force is\nacting on a body then the velocity of object is constant.",
+        "op": [
+            "false",
+            "true"
+        ],
+        "created_at": "2026-07-06T05:12:47.073904+00:00"
+    },
+    {
+        "id": 52714,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "The force field $\\vec{F}=3x\\hat{i}-2y\\hat{\\hat{j}}$ is",
+        "op": [
+            "conservative",
+            "non conservative"
+        ],
+        "created_at": "2026-07-06T05:13:08.887202+00:00"
+    },
+    {
+        "id": 52926,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "The frequency $f$ of an oscillatory system is equal to",
+        "op": [
+            "$f=e^{-T}$",
+            "$f=-\\frac{1}{T}$",
+            "$f=e^{T}$",
+            "$f=\\frac{1}{T}$"
+        ],
+        "created_at": "2026-07-06T05:44:45.529353+00:00"
+    },
+    {
+        "id": 52927,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Find the time period $T$ of the vibrating mass with $m=10$ and $f=30$",
+        "op": [
+            "$T=\\frac{1}{30}$",
+            "$T=\\frac{1}{3}$"
+        ],
+        "created_at": "2026-07-06T05:44:57.900514+00:00"
+    },
+    {
+        "id": 52931,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Newton's first law is also called",
+        "op": [
+            "law of inertia",
+            "law of conservation of momentum"
+        ],
+        "created_at": "2026-07-06T05:45:28.064474+00:00"
+    },
+    {
+        "id": 52934,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "The restoring force of a harmonic oscillator is proportional to ......",
+        "op": [
+            "displacement",
+            "velocity",
+            "acceleration",
+            "time"
+        ],
+        "created_at": "2026-07-06T05:45:38.708927+00:00"
+    },
+    {
+        "id": 52936,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "If position of a vibrating mass at any time is defined as $y(t)=10sin(\\frac{1}{3}t)$. Then the amplitude is",
+        "op": [
+            "$\\frac{1}{3}$",
+            "10"
+        ],
+        "created_at": "2026-07-06T05:45:48.836871+00:00"
+    },
+    {
+        "id": 53080,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Friction is a",
+        "op": [
+            "non conservative force",
+            "conservative force"
+        ],
+        "created_at": "2026-07-06T06:09:38.605898+00:00"
+    },
+    {
+        "id": 53839,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Find the time period $T$ of the vibrating mass with $m=5$ and $f=10$",
+        "op": [
+            "$T=\\frac{1}{10}$",
+            "$T=\\frac{1}{2}$"
+        ],
+        "created_at": "2026-07-06T09:11:49.784122+00:00"
+    },
+    {
+        "id": 53899,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "A person is pushed forward into his seat belt when car stops. Which of Newton's laws explains this motion?",
+        "op": [
+            "Newton's third law of motion",
+            "Newton's second law of motion",
+            "None of these",
+            "Newton's first law of motion"
+        ],
+        "created_at": "2026-07-06T09:41:16.471557+00:00"
+    },
+    {
+        "id": 53955,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "In general when a body rotates about fixed point, the angular velocity and the angular momentum vector about the fixed point are in the same direction.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-06T10:24:35.300623+00:00"
+    },
+    {
+        "id": 59222,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let 64kgms-2 be the rate of linear momentum of a particle moving with the acceleration 16ms-2 then mass of the particle would be _____kg.",
+        "op": [
+            "28",
+            "4",
+            "14",
+            "8"
+        ],
+        "created_at": "2026-07-08T19:25:03.568602+00:00"
+    },
+    {
+        "id": 59223,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "If a system is isolated, then the total external torque (moment of force) remains constant in ______.",
+        "op": [
+            "direction",
+            "number of particles of the system",
+            "magnitude",
+            "both magnitude and direction"
+        ],
+        "created_at": "2026-07-08T19:25:29.113144+00:00"
+    },
+    {
+        "id": 59224,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let P be any point on the ellipsoid of inertia and 0.25kgm2 be the moment of inertia about any line OP of the rigid body. The length of line OP will be _____m.",
+        "op": [
+            "4",
+            "5",
+            "1",
+            "2"
+        ],
+        "created_at": "2026-07-08T19:25:41.434904+00:00"
+    },
+    {
+        "id": 59225,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let 1.2kg be the mass and 3m be the length of a thin solid rod. Its moment of inertia about the axis perpendicular to the rod through the center of mass will be ____kgm2.",
+        "op": [
+            "3.6",
+            "2.7",
+            "5.4",
+            "1.8"
+        ],
+        "created_at": "2026-07-08T19:26:08.025461+00:00"
+    },
+    {
+        "id": 59227,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "If no external force is acting on the system of two colliding bodies, then by the principle of conservation of linear momentum which of the following statement is correct?",
+        "op": [
+            "Total momentum before the collision is less than the total momentum after the collision.",
+            "Total momentum before the collision is greater than the total momentum after the collision.",
+            "Total momentum before the collision is equal to the total momentum after the collision.",
+            "Total momentum before the collision is reciprocal of the total momentum after the collision."
+        ],
+        "created_at": "2026-07-08T19:26:32.097557+00:00"
+    },
+    {
+        "id": 59228,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let 5kg be the mass and 0.1m be the radius of a solid sphere. Its moment of inertia about the diameter will be ____kgm2.",
+        "op": [
+            "0.01",
+            "0.10",
+            "0.05",
+            "0.02"
+        ],
+        "created_at": "2026-07-08T19:26:58.440287+00:00"
+    },
+    {
+        "id": 59229,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "A solid metal sphere having the moment of inertia of 0.44kgm2 is rotating with an angular speed of 2 rad/s.Its rotational kinetic energy would be _____ J.",
+        "op": [
+            "0.66",
+            "0.76",
+            "0.48",
+            "0.88"
+        ],
+        "created_at": "2026-07-08T19:27:13.702772+00:00"
+    },
+    {
+        "id": 59230,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "A solid metal sphere having the moment of inertia of 0.03kgm2 is rotating with an angular speed of 13.8 rad/s. Its angular momentum would be _____kgm2s-1.",
+        "op": [
+            "0.440",
+            "0.414",
+            "0.204",
+            "0.354"
+        ],
+        "created_at": "2026-07-08T19:27:27.315272+00:00"
+    },
+    {
+        "id": 59231,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "$${\\text{Let}}\\,\\vec r = 2\\hat i\\,{\\text{be}}\\,{\\text{the}}\\,{\\text{position vector of a particle and}}\\,\\,\\vec p = 3\\hat i\\,{\\text{be its momentum}}\\,{\\text{then}}\\,{\\text{the magnitude of angular momentum }}\\vec L{\\text{ of the particle will be - - - - - }}{\\text{.}}$$",
+        "op": [
+            "1",
+            "6",
+            "0",
+            "5"
+        ],
+        "created_at": "2026-07-08T19:27:53.793496+00:00"
+    },
+    {
+        "id": 59232,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "The moment of inertia of a ring of mass 1kg and radius 0.9m about an axis passing through its center will be _____kgm2.",
+        "op": [
+            "0.81",
+            "0.18",
+            "1.8",
+            "0.45"
+        ],
+        "created_at": "2026-07-08T19:28:11.968029+00:00"
+    },
+    {
+        "id": 59245,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let 0.01kgm2 be the moment of inertia (about an axis passing through the fixed point) of a rigid body rotating with the angular velocity 20 rad/s. Its kinetic energy will be ____ J.",
+        "op": [
+            "4",
+            "2",
+            "5",
+            "1"
+        ],
+        "created_at": "2026-07-08T19:36:09.492674+00:00"
+    },
+    {
+        "id": 59246,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "What happens to angular velocity when the moment of inertia of an isolated system is doubled to keep the angular momentum constant?",
+        "op": [
+            "It is halved.",
+            "It doubles.",
+            "Remains same.",
+            "It becomes zero."
+        ],
+        "created_at": "2026-07-08T19:36:21.005053+00:00"
+    },
+    {
+        "id": 59331,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "Let 2kg be the mass and 0.5m be the radius of a right circular cone. Its moment of inertia about the axis of symmetry will be ____kgm2.",
+        "op": [
+            "0.50",
+            "0.42",
+            "0.15",
+            "0.35"
+        ],
+        "created_at": "2026-07-09T02:32:29.683131+00:00"
+    },
+    {
+        "id": 59332,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "If the center of mass is at origin then the coordinate axes (xyz axes) and the principal axes of the rigid body are.......",
+        "op": [
+            "coincident",
+            "perpendicular"
+        ],
+        "created_at": "2026-07-09T02:34:02.711252+00:00"
+    },
+    {
+        "id": 72070,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If position of a vibrating mass at any time is defined as y(t)=20cos(\\frac{3}{4}t). Then the amplitude is",
+        "op": [
+            "20",
+            "\\frac{3}{4}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72180,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The force field \\vec{F}=3x\\hat{i}-2y\\hat{\\hat{j}} is",
+        "op": [
+            "conservative",
+            "non conservative"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72186,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The frequency f of an oscillatory system is equal to",
+        "op": [
+            "f=-\\frac{1}{T}",
+            "f=e^{-T}",
+            "f=e^{T}",
+            "f=\\frac{1}{T}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72187,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Find the time period T of the vibrating mass with m=5 and f=10",
+        "op": [
+            "T=\\frac{1}{10}",
+            "T=\\frac{1}{2}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72189,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If a particle of mass 2 units has position vector \\vec{r}=t^{3}\\hat{i}+8t\\hat{j}-9t\\hat{k} then find the force acting on the particle.",
+        "op": [
+            "12t\\hat{i}",
+            "12t"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72202,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Find the time period T of the vibrating mass with m=10 and f=30",
+        "op": [
+            "T=\\frac{1}{30}",
+            "T=\\frac{1}{3}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72203,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "A particle moves in a plane in such a way that at any time t its distance from the origin is r=2t+3t^{2} and its angle with positive x-axis is \\theta=\\sqrt{t}. Find the radial and transverse components of velocity.",
+        "op": [
+            "2+6t and \\frac{1}{2\\sqrt{t}}",
+            "2+6t and (\\sqrt{t}+\\frac{3}{2}t^{\\frac{3}{2}})"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72209,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If a force acts on a particle of constant mass m and \\vec{v}_{1}, \\vec{v}_{2} are velocities at times t_{1} and t_{2}, respectively. Then the work done by the force is obtained as",
+        "op": [
+            "The change in kinetic energies, i.e., \\frac{1}{2}m\\vec{v}_{2}^{2}-\\frac{1}{2}m\\vec{v}_{1}^{2}",
+            "The sum of kinetic energies, i.e., \\frac{1}{2}m\\vec{v}_{2}^{2}+\\frac{1}{2}m\\vec{v}_{1}^{2}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72210,
+        "cc": "MTH622",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If position of a vibrating mass at any time is defined as y(t)=10sin(\\frac{1}{3}t). Then the amplitude is",
+        "op": [
+            "10",
+            "\\frac{1}{3}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 73277,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let 0.01kgm2  be the moment of inertia (about an axis passing through the fixed point) of a rigid body rotating with the angular velocity 20 rad/s. Its kinetic energy will be ____ J. ",
+        "op": [
+            "1",
+            "4",
+            "5",
+            "2"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73278,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let 2kg be the mass and 0.5m be the radius of a right circular cone. Its moment of inertia about the axis of symmetry will be ____kgm2 ",
+        "op": [
+            "0.42",
+            "0.50",
+            "0.35",
+            "0.15"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73279,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let 1.2kg be the mass and 3m be the length of a thin solid rod. Its moment of inertia about the axis perpendicular to the rod through the center of mass will be ____kgm2 ",
+        "op": [
+            "5.4",
+            "2.7",
+            "1.8",
+            "3.6"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73280,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "The moment of inertia of a ring of mass 1kg and radius 0.9m about an axis passing through its center will be _____kgm2 ",
+        "op": [
+            "0.81",
+            "0.18",
+            "1.8",
+            "0.45"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73293,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Let}}\\,\\vec r = 2\\hat i\\,{\\text{be}}\\,{\\text{the}}\\,{\\text{position vector of a particle and}}\\,\\,\\vec p = 3\\hat i\\,{\\text{be its momentum}}\\,{\\text{then}}\\,{\\text{the magnitude of angular momentum }}\\vec L{\\text{ of the particle will be - - - - - }}{\\text{.}}\\] ",
+        "op": [
+            "6",
+            "1",
+            "0",
+            "5"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73294,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "A solid metal sphere having the moment of inertia of 0.03kgm2 is rotating with an angular speed of 13.8 rad/s. Its angular momentum would be _____kgm2s-1 ",
+        "op": [
+            "0.414",
+            "0.204",
+            "0.354",
+            "0.440"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73295,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "Let 5kg be the mass and 0.1m be the radius of a solid sphere. Its moment of inertia about the diameter will be ____kgm2 ",
+        "op": [
+            "0.01",
+            "0.02",
+            "0.10",
+            "0.05"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73296,
+        "cc": "MTH622",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Let}}\\,\\vec r = 2\\hat i\\,{\\text{be}}\\,{\\text{the}}\\,{\\text{position vector of a particle and}}\\,\\,\\vec p = 3\\hat i\\,{\\text{be its momentum}}\\,{\\text{then}}\\,{\\text{the magnitude of angular momentum }}\\vec L{\\text{ of the particle will be - - - - - }}{\\text{.}} ",
+        "op": [
+            "5",
+            "6",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    }
+]

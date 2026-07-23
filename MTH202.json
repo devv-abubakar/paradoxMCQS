@@ -1,0 +1,3184 @@
+[
+{
+    "id": 36570,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In the proof by contradiction, we lead the assumption to --------------",
+    "op": [
+        "contingency",
+        "None of these.",
+        "tautology",
+        "Absurdity"
+    ],
+    "created_at": "2026-07-01T19:03:17.078556+00:00"
+},
+{
+    "id": 36575,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In inductive property the first iteration of the loop is solved for?",
+    "op": [
+        "I(0)",
+        "I(k + 1)",
+        "None",
+        "I(k)"
+    ],
+    "created_at": "2026-07-01T19:03:24.337158+00:00"
+},
+{
+    "id": 36576,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two integers is not an even integer when ………….",
+    "op": [
+        "one is 0 and one is even",
+        "one is even and one is odd",
+        "both are odd",
+        "both are even"
+    ],
+    "created_at": "2026-07-01T19:03:34.653151+00:00"
+},
+{
+    "id": 36579,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by ………..uses the equivalence p →q≡ ~q→~p.",
+    "op": [
+        "mathematical induction",
+        "superposition",
+        "contraposition",
+        "contradiction"
+    ],
+    "created_at": "2026-07-01T19:03:41.763493+00:00"
+},
+{
+    "id": 36583,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "“if n is divisible by 5, then n^2  is divisible by 25” is the contrapositive of ………..",
+    "op": [
+        "n^2 is not divisible by 25, then n is not divisible by 5",
+        "n^2 is not divisible by 25, then n is divisible by 5",
+        "n^2 is divisible by 25, then n is divisible by 5",
+        "n^2 is divisible by 25, then n is not divisible by 5"
+    ],
+    "created_at": "2026-07-01T19:03:43.511903+00:00"
+},
+{
+    "id": 36584,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In how many ways a student can choose a course from 2 science courses,3 literature courses and 5 art courses.",
+    "op": [
+        "10",
+        "240",
+        "1440",
+        "30"
+    ],
+    "created_at": "2026-07-01T19:03:49.997067+00:00"
+},
+{
+    "id": 36586,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If ‘r’ is a perfect square, then which of the following is the correct representation of ‘r’?",
+    "op": [
+        "r = k^2+1 for some integer k",
+        "r = k^2 for some integer k",
+        "r = k^2+2 for some integer k",
+        "r = k^2-1 for some integer k"
+    ],
+    "created_at": "2026-07-01T19:03:56.453867+00:00"
+},
+{
+    "id": 36590,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "An integer ‘n’ is …….. if it can be represented as a multiple of 2.",
+    "op": [
+        "composite",
+        "even",
+        "odd",
+        "prime"
+    ],
+    "created_at": "2026-07-01T19:04:02.761433+00:00"
+},
+{
+    "id": 36591,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In division algorithm ‘r’ stands for _____.",
+    "op": [
+        "Dividend",
+        "Divisor",
+        "Remainder",
+        "Quotient"
+    ],
+    "created_at": "2026-07-01T19:04:06.390473+00:00"
+},
+{
+    "id": 36598,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The value of (-3)!=______.",
+    "op": [
+        "None of the above",
+        "Not defined",
+        "6",
+        "-6"
+    ],
+    "created_at": "2026-07-01T19:04:13.064599+00:00"
+},
+{
+    "id": 36599,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If 'n' is an odd integer then n^3+n is .....",
+    "op": [
+        "even",
+        "odd"
+    ],
+    "created_at": "2026-07-01T19:04:14.143065+00:00"
+},
+{
+    "id": 36600,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "------  is the mathematics of counting and arranging objects?",
+    "op": [
+        "Combinatorics",
+        "Algebra"
+    ],
+    "created_at": "2026-07-01T19:04:17.784158+00:00"
+},
+{
+    "id": 36602,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A predicate becomes ----------- when its variables are given specific values.",
+    "op": [
+        "algorithm",
+        "sentence",
+        "statement",
+        "iteration"
+    ],
+    "created_at": "2026-07-01T19:04:23.018549+00:00"
+},
+{
+    "id": 36604,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is true for n = 2?",
+    "op": [
+        "x^n - y^n is divisible by (x - y)^2.",
+        "x^n - y^n is divisible by x^5 - y^5.",
+        "x^n - y^n is divisible by x - y.",
+        "x^n - y^n is divisible by x^3 - y^3."
+    ],
+    "created_at": "2026-07-01T19:04:23.806584+00:00"
+},
+{
+    "id": 36605,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "For integers a, b, c, if a divides b and a divides c, then a divides (a + b).",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:04:24.495055+00:00"
+},
+{
+    "id": 36609,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The Product of an even and odd integer is .....",
+    "op": [
+        "odd",
+        "even"
+    ],
+    "created_at": "2026-07-01T19:04:31.479967+00:00"
+},
+{
+    "id": 36610,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "${\\text{The}}\\,{\\text{statement}}\\,{4^n} > {3^n} + 4\\,{\\text{is}}\\,{\\text{true}}\\,{\\text{when}}\\,\\_\\_\\_\\_\\_\\_\\,\\,.$",
+    "op": [
+        "${\\text{None of the above}}$",
+        "$n = 1$",
+        "$n \\geqslant 2$",
+        "$n = 0$"
+    ],
+    "created_at": "2026-07-01T19:04:34.198713+00:00"
+},
+{
+    "id": 36611,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The method of loop invariants is used to prove ----------- of a loop with respect to certain pre and post-conditions.",
+    "op": [
+        "falseness",
+        "correctness"
+    ],
+    "created_at": "2026-07-01T19:04:35.739938+00:00"
+},
+{
+    "id": 36618,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A boy can choose from 5 train services and 3 bus services to go to his hometown, How many total options he can choose from?",
+    "op": [
+        "15",
+        "8"
+    ],
+    "created_at": "2026-07-01T19:04:44.606192+00:00"
+},
+{
+    "id": 36619,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is the representation of an odd interger ‘n’?",
+    "op": [
+        "n=2k+1 for some integer ‘k’",
+        "n=3k for some integer ‘k’",
+        "n=2k for some integer ‘k’",
+        "n=3k+1  for some integer ‘k’"
+    ],
+    "created_at": "2026-07-01T19:04:45.084591+00:00"
+},
+{
+    "id": 36620,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Suppose there are 8 different tea flavors and 5 different biscuit brands. A guest wants to take one tea and one brand of biscuit. How many choices are there for this guest?",
+    "op": [
+        "8",
+        "40",
+        "5",
+        "13"
+    ],
+    "created_at": "2026-07-01T19:04:45.891192+00:00"
+},
+{
+    "id": 36622,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is true for n = 1?",
+    "op": [
+        "2^(2n) - 1 by 2",
+        "2^(2n) - 1 by 5",
+        "2^(2n) - 1 by 3",
+        "2^(2n) - 1 by 4"
+    ],
+    "created_at": "2026-07-01T19:04:49.117436+00:00"
+},
+{
+    "id": 36624,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two odd integers is ....",
+    "op": [
+        "odd",
+        "even"
+    ],
+    "created_at": "2026-07-01T19:04:53.03328+00:00"
+},
+{
+    "id": 36626,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the square of an integer is even , then that integer is ……..",
+    "op": [
+        "neither even nor odd",
+        "even",
+        "odd",
+        "either even or odd"
+    ],
+    "created_at": "2026-07-01T19:04:55.859019+00:00"
+},
+{
+    "id": 36630,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is not an irrational number?",
+    "op": [
+        "√4",
+        "√2",
+        "√3",
+        "√5"
+    ],
+    "created_at": "2026-07-01T19:05:00.69275+00:00"
+},
+{
+    "id": 36631,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If 'n' is an odd integer then '3n+2' is ....",
+    "op": [
+        "even",
+        "odd"
+    ],
+    "created_at": "2026-07-01T19:05:01.467204+00:00"
+},
+{
+    "id": 36633,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In inductive step of proof by mathematical induction, the assumption is made for ………..",
+    "op": [
+        "n=k+1",
+        "n=k",
+        "n=0",
+        "n=1"
+    ],
+    "created_at": "2026-07-01T19:05:05.346566+00:00"
+},
+{
+    "id": 36634,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the followings is the factorial form of 5 . 4 ?",
+    "op": [
+        "5/3",
+        "5!/3",
+        "5/3!",
+        "5!/3!"
+    ],
+    "created_at": "2026-07-01T19:05:09.870713+00:00"
+},
+{
+    "id": 36638,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many possible outcomes are there when a fair coin is tossed four times ?",
+    "op": [
+        "8",
+        "16",
+        "32",
+        "4"
+    ],
+    "created_at": "2026-07-01T19:05:18.727511+00:00"
+},
+{
+    "id": 36640,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "(-1)^n = 1 for n=……….\n(^ stands for power)",
+    "op": [
+        "7",
+        "3",
+        "4",
+        "5"
+    ],
+    "created_at": "2026-07-01T19:05:23.768007+00:00"
+},
+{
+    "id": 36641,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by Contradiction is a/an........ method of proof.",
+    "op": [
+        "Direct",
+        "Indirect"
+    ],
+    "created_at": "2026-07-01T19:05:25.004032+00:00"
+},
+{
+    "id": 36642,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To prove by mathematical induction for 1+5+9+----------+(4n-3)=n(2n-1) for all positive integers,the basis step is _________.",
+    "op": [
+        "1=1(2(1)+1)",
+        "1=1(2(1)-1)"
+    ],
+    "created_at": "2026-07-01T19:05:26.444866+00:00"
+},
+{
+    "id": 36644,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A non-zero integer d divides an integer n if and only if there exists an integer k such that ------------",
+    "op": [
+        "n = d + k",
+        "n = d k",
+        "n = d - k",
+        "n = d / k"
+    ],
+    "created_at": "2026-07-01T19:05:32.681735+00:00"
+},
+{
+    "id": 36645,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of a rational and irrational number  ……..",
+    "op": [
+        "is always a rational number",
+        "none of these",
+        "may or may not be rational number",
+        "is always an irrational number"
+    ],
+    "created_at": "2026-07-01T19:05:37.354664+00:00"
+},
+{
+    "id": 36646,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are 5 Chinese books and 6 English books, a Student wants to select one optional book for both subject, total number of choices will be?",
+    "op": [
+        "30",
+        "10",
+        "11",
+        "15"
+    ],
+    "created_at": "2026-07-01T19:05:40.320987+00:00"
+},
+{
+    "id": 36647,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To prove by mathematical induction for \n1+2+3+…….+n=(n)(n+1)/2 for all positive integers, the basis step is __________.",
+    "op": [
+        "1+2+3+……..+k=(k+1)(k+2)/2",
+        "None of the above",
+        "1=(1)(1+1)/2",
+        "1+2+3+……..+k=(k)(k+1)/2"
+    ],
+    "created_at": "2026-07-01T19:05:41.434976+00:00"
+},
+{
+    "id": 36650,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two integers is even when ……….",
+    "op": [
+        "one is zero and one is odd",
+        "one is prime and one is composite",
+        "both are even or both are odd",
+        "one is even and one is odd"
+    ],
+    "created_at": "2026-07-01T19:05:45.494131+00:00"
+},
+{
+    "id": 36653,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The word \"algorithm\" refers to a step-by-step method for performing some action.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-01T19:06:03.113956+00:00"
+},
+{
+    "id": 36658,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The method of loop invariants is based on the principle\nof _____.",
+    "op": [
+        "Division algorithm",
+        "Mathematical induction"
+    ],
+    "created_at": "2026-07-01T19:06:16.469542+00:00"
+},
+{
+    "id": 36660,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "For every prime number n, n + 2 is prime.\nWhich of the following prime number disproves the above statement.",
+    "op": [
+        "n=3",
+        "n=11",
+        "n=5",
+        "n=7"
+    ],
+    "created_at": "2026-07-01T19:06:18.968429+00:00"
+},
+{
+    "id": 36663,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If one event can occur in ${n_1}$ ways, a second event can occur in ${n_2}$ ways, a third event can occur in ${n_3}$ ways, how ways all of the events can occur in the order?",
+    "op": [
+        "${n_1} + {n_2} + {n_3}$",
+        "${n_1}.{n_2}.{n_3}$"
+    ],
+    "created_at": "2026-07-01T19:06:46.191345+00:00"
+},
+{
+    "id": 36675,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "$${\\text{The}}\\,{\\text{sequence}}\\,1 + 2 + 3 + 4 - - - - - - + n\\,{\\text{is}}\\,{\\text{equal}}\\,{\\text{to}}\\,\\_\\_\\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "$$\\frac{{{n^2}}}{2}$$",
+        "$$\\frac{{n\\left( {n + 1} \\right)}}{2}$$",
+        "$$\\frac{{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)}}{6}$$",
+        "$$\\frac{{{n^2}{{\\left( {n + 1} \\right)}^2}}}{4}$$"
+    ],
+    "created_at": "2026-07-01T19:07:54.543276+00:00"
+},
+{
+    "id": 36678,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "GCD of (8, 12) will be _____.",
+    "op": [
+        "3",
+        "4",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-01T19:08:02.192096+00:00"
+},
+{
+    "id": 36681,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The factorial form of  9.8.7.6 is ______.",
+    "op": [
+        "9!/4!",
+        "6!/5!",
+        "9!/5!",
+        "7!/6!"
+    ],
+    "created_at": "2026-07-01T19:08:27.163206+00:00"
+},
+{
+    "id": 36682,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Number of combinations of 3-bit string that contain exactly three “0” is ……………….",
+    "op": [
+        "6",
+        "7",
+        "1",
+        "8"
+    ],
+    "created_at": "2026-07-01T19:08:35.439778+00:00"
+},
+{
+    "id": 36684,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To prove by mathematical induction basis step is _______.",
+    "op": [
+        "The proposition P(1) is true",
+        "The proposition P(1) is false"
+    ],
+    "created_at": "2026-07-01T19:08:41.601573+00:00"
+},
+{
+    "id": 36685,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "P(0, 0)=________ ?",
+    "op": [
+        "0",
+        "1",
+        "2",
+        "Undefined"
+    ],
+    "created_at": "2026-07-01T19:08:43.550555+00:00"
+},
+{
+    "id": 36686,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The predicate which describes the initial state is called the ---------- of the algorithm",
+    "op": [
+        "post-condition",
+        "pre-condition"
+    ],
+    "created_at": "2026-07-01T19:08:51.562102+00:00"
+},
+{
+    "id": 36688,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Number of ways the ‘7’ student can be divided into group of ‘3’ and ‘4’are ……………",
+    "op": [
+        "35",
+        "120",
+        "50",
+        "210"
+    ],
+    "created_at": "2026-07-01T19:09:01.803017+00:00"
+},
+{
+    "id": 36689,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The contrapositive of  “5n + 2 is odd, then n is odd” is ………..",
+    "op": [
+        "“ if n is even then 5n + 2 is not even”",
+        "“ if n is even then 5n + 2 is even”",
+        "“ if n is not even then 5n + 2 is even”",
+        "“ if n is not even then 5n + 2 is not even”"
+    ],
+    "created_at": "2026-07-01T19:09:04.599186+00:00"
+},
+{
+    "id": 36690,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To prove by mathematical induction for 1+3+5+ ...+ (2n-1) = n^2 for all positive integers, the basis step is ------------",
+    "op": [
+        "1+3+5+ ...+ (2k-1) = k^2",
+        "1+3+5+ ...+ (2(k+1)-1) = (k+1)^2",
+        "LHS = p(1) = 2x1-1=1, RHS = 1^2 = 1",
+        "1+3+5+ ...+ (2n-1) = n^2"
+    ],
+    "created_at": "2026-07-01T19:09:05.601185+00:00"
+},
+{
+    "id": 36691,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In how many ways can 6 people be seated on 6 available seats?",
+    "op": [
+        "720",
+        "120",
+        "12",
+        "6"
+    ],
+    "created_at": "2026-07-01T19:09:05.836682+00:00"
+},
+{
+    "id": 36693,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "(-2)! = _________ ?",
+    "op": [
+        "2",
+        "-2",
+        "Undefined",
+        "0"
+    ],
+    "created_at": "2026-07-01T19:09:16.083237+00:00"
+},
+{
+    "id": 36694,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The set of prime numbers is -------------",
+    "op": [
+        "infinite set.",
+        "finite set.",
+        "continuous set.",
+        "None of these."
+    ],
+    "created_at": "2026-07-01T19:09:21.083776+00:00"
+},
+{
+    "id": 36696,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are 4 bus lines between X and Y; and 5 bus lines between Y and Z , the number of ways a person can travel from X to Z?",
+    "op": [
+        "9",
+        "20"
+    ],
+    "created_at": "2026-07-01T19:09:26.973918+00:00"
+},
+{
+    "id": 36697,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two irrational numbers must be an irrational number.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-01T19:09:28.839099+00:00"
+},
+{
+    "id": 36698,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by contraposition is based on the logical equivalence between a statement and its..... .",
+    "op": [
+        "none of these",
+        "Inverse",
+        "Converse",
+        "contrapositive"
+    ],
+    "created_at": "2026-07-01T19:09:29.466176+00:00"
+},
+{
+    "id": 36699,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "P(n, 2)=90, Which of the followings is the value of n ?",
+    "op": [
+        "90",
+        "45",
+        "15",
+        "10"
+    ],
+    "created_at": "2026-07-01T19:09:41.592376+00:00"
+},
+{
+    "id": 36701,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In basis property the first iteration of the loop is solved for?",
+    "op": [
+        "I(k + 1)",
+        "None",
+        "I(k)",
+        "I(0)"
+    ],
+    "created_at": "2026-07-01T19:09:49.522515+00:00"
+},
+{
+    "id": 36702,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If order matters and repetition is not allowed, then which counting method should be used in order to select 'k' elements from a total of 'n' elements?",
+    "op": [
+        "K-Permutation",
+        "K-Sample",
+        "K-Selection",
+        "K-Combination"
+    ],
+    "created_at": "2026-07-01T19:09:54.128356+00:00"
+},
+{
+    "id": 36703,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of any rational number and any irrational number is irrational.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:09:54.381371+00:00"
+},
+{
+    "id": 36704,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The rational number ‘2’ is the product of which of the two irrational numbers.",
+    "op": [
+        "√2, √2",
+        "√2, √3",
+        "√2, √5",
+        "√2, √7"
+    ],
+    "created_at": "2026-07-01T19:10:07.599668+00:00"
+},
+{
+    "id": 36705,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The predicate describing the final state is called ______.",
+    "op": [
+        "None",
+        "post-condition of the algorithm",
+        "pre-condition of the algorithm",
+        "Input variables"
+    ],
+    "created_at": "2026-07-01T19:10:09.460828+00:00"
+},
+{
+    "id": 36706,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A student can choose a computer project from one of the two lists. The two lists contain 12 and 18 possible projects, respectively.\nHow many possible projects are there to choose from ?",
+    "op": [
+        "12",
+        "216",
+        "30",
+        "18"
+    ],
+    "created_at": "2026-07-01T19:10:16.421601+00:00"
+},
+{
+    "id": 36707,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In division algorithm the pre-condition is?",
+    "op": [
+        "a is a nonnegative integer and d is a positive integer",
+        "q and r are nonnegative integers"
+    ],
+    "created_at": "2026-07-01T19:10:19.160303+00:00"
+},
+{
+    "id": 36708,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The last step of  describing algorithms formally is?",
+    "op": [
+        "The output variable names.",
+        "The name of the algorithm.",
+        "An end statement.",
+        "The input variable names."
+    ],
+    "created_at": "2026-07-01T19:10:20.306866+00:00"
+},
+{
+    "id": 36709,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A predicate is a sentence that contains a finite number of ----------------",
+    "op": [
+        "variables",
+        "Constants"
+    ],
+    "created_at": "2026-07-01T19:10:28.995121+00:00"
+},
+{
+    "id": 36712,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "An integer n is prime number, if and only if \n for all positive integers r and s, if n = rs then --------",
+    "op": [
+        "r > 1 or s > 1",
+        "r = 1 or s = 1",
+        "r < 1 or s < 1",
+        "r = s"
+    ],
+    "created_at": "2026-07-01T19:10:40.892795+00:00"
+},
+{
+    "id": 36713,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "To prove by mathematical induction Inductive Step is ________.",
+    "op": [
+        "If P(k) is true then P(k - 1) is true for all integers k ≥ 1",
+        "If P(k) is true then P(k + 1) is true for all integers k ≥ 1"
+    ],
+    "created_at": "2026-07-01T19:10:47.70696+00:00"
+},
+{
+    "id": 36714,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two irrational numbers in general …………..",
+    "op": [
+        "may or may not be an irrational number",
+        "none of these",
+        "is always a rational number",
+        "is always an irrational number"
+    ],
+    "created_at": "2026-07-01T19:10:52.401369+00:00"
+},
+{
+    "id": 36716,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A box contains 5 different colored light bulbs. Which of the followings is the number of ordered samples of size 3 with replacement ?",
+    "op": [
+        "243",
+        "8",
+        "15",
+        "125"
+    ],
+    "created_at": "2026-07-01T19:10:54.763784+00:00"
+},
+{
+    "id": 36718,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The greatest common divisor (gcd) of two integers a and b is the largest integer that divides both a and b. It is called -------",
+    "op": [
+        "the Division Algorithm",
+        "Pre-Condition of Algorithm",
+        "the Euclidean Algorithm",
+        "Post-Condition of Algorithm"
+    ],
+    "created_at": "2026-07-01T19:11:04.91242+00:00"
+},
+{
+    "id": 36719,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "----- is used to determine number of ordered or unordered arrangement of objects.",
+    "op": [
+        "Counting",
+        "Algorithm"
+    ],
+    "created_at": "2026-07-01T19:11:07.068019+00:00"
+},
+{
+    "id": 36725,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "${\\text{The}}\\,{\\text{sequence}}\\,{1^3} + {2^3} + {3^3} + - - - - - - - + {n^3}\\, = \\,\\_\\_\\_\\_\\_\\_\\_\\,.$",
+    "op": [
+        "$\\frac{{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)}}{6}$",
+        "$\\frac{{{n^2}{{\\left( {n + 1} \\right)}^2}}}{4}$",
+        "$\\frac{{{n^2}}}{2}$",
+        "$\\frac{{n\\left( {n + 1} \\right)}}{2}$"
+    ],
+    "created_at": "2026-07-01T19:11:33.242715+00:00"
+},
+{
+    "id": 36728,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The loop is correct if the four properties are true, one of the property is?",
+    "op": [
+        "Associativity",
+        "Commutativity",
+        "Eventual Falsity of Guard",
+        "Transitivity"
+    ],
+    "created_at": "2026-07-01T19:11:39.357786+00:00"
+},
+{
+    "id": 36731,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If one event can occur in ${n_1}$ ways, a second event can occur in ${n_2}$ ways, a third event can occur in ${n_3}$ ways, how ways in which exactly one of the events can occur?",
+    "op": [
+        "${n_1}.{n_2}.{n_3}$",
+        "${n_1} + {n_2} + {n_3}$"
+    ],
+    "created_at": "2026-07-01T19:11:48.600376+00:00"
+},
+{
+    "id": 36733,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following statement is true according to the Division Algorithm?",
+    "op": [
+        "17 = 5 x 4 - 3",
+        "17 = 5 x 1 + 12",
+        "17 = 5 x 3 + 2",
+        "17 = 5 x 5 - 8"
+    ],
+    "created_at": "2026-07-01T19:11:58.96013+00:00"
+},
+{
+    "id": 36737,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is not a rational number?",
+    "op": [
+        "2",
+        "3.14",
+        "√7",
+        "9/4"
+    ],
+    "created_at": "2026-07-01T19:12:08.298999+00:00"
+},
+{
+    "id": 36741,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is not a method to prove the mathematical statements?",
+    "op": [
+        "Permutation",
+        "Mathematical induction",
+        "Proof by contradiction",
+        "Proof by contraposition"
+    ],
+    "created_at": "2026-07-01T19:12:19.853453+00:00"
+},
+{
+    "id": 36744,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Set of prime numbers is finite.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:12:27.962472+00:00"
+},
+{
+    "id": 36745,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the Basis step is true, then there is no need to go further in the proof by Mathematical Induction.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:12:40.431328+00:00"
+},
+{
+    "id": 36746,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "which of the followings is the correct option for  9!/0! ?",
+    "op": [
+        "1",
+        "9!",
+        "9",
+        "0"
+    ],
+    "created_at": "2026-07-01T19:12:47.408898+00:00"
+},
+{
+    "id": 36761,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A student has 3 optional courses in mathematics and 5 optional courses in physics, how many total choices for him to take one course?",
+    "op": [
+        "35",
+        "7",
+        "9",
+        "8"
+    ],
+    "created_at": "2026-07-01T19:14:35.581213+00:00"
+},
+{
+    "id": 36767,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The first step of  describing algorithms formally is ?",
+    "op": [
+        "The output variable names, labeled by data type.",
+        "An end statement.",
+        "The name of the algorithm, together with a list of input and output variables.",
+        "The statements that make the body of the algorithm."
+    ],
+    "created_at": "2026-07-01T19:14:53.980765+00:00"
+},
+{
+    "id": 36771,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "GCD of (9, 27) will be ______.",
+    "op": [
+        "27",
+        "3",
+        "5",
+        "9"
+    ],
+    "created_at": "2026-07-01T19:15:13.250018+00:00"
+},
+{
+    "id": 36776,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "${\\text{The}}\\,{\\text{statement}}\\,{n^2} > n + 3\\,{\\text{is}}\\,{\\text{true}}\\,{\\text{when}}\\,\\_\\_\\_\\_\\_\\,{\\text{.}}$",
+    "op": [
+        "$n \\geqslant 1$",
+        "$n \\geqslant - 1$",
+        "$n \\geqslant 2$",
+        "$n \\geqslant 3$"
+    ],
+    "created_at": "2026-07-01T19:15:31.8413+00:00"
+},
+{
+    "id": 36782,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The product of any two consecutive positive integers is divisible by 2.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T19:15:51.829509+00:00"
+},
+{
+    "id": 36790,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A proof by …………is based on the logical equivalence between a statement and its contrapositive.",
+    "op": [
+        "contraposition",
+        "contradiction",
+        "mathematical induction",
+        "counter example"
+    ],
+    "created_at": "2026-07-01T19:16:25.002425+00:00"
+},
+{
+    "id": 36802,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "'Reductio ad absurdum' is another name of ----------",
+    "op": [
+        "proof by contrapositive",
+        "Direct Method of proof",
+        "proof by contradiction",
+        "None of these."
+    ],
+    "created_at": "2026-07-01T19:18:42.224126+00:00"
+},
+{
+    "id": 36804,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The ---- of a predicate variable is the set of all values that may be substituted in place\nof the variable.",
+    "op": [
+        "Range",
+        "Domain"
+    ],
+    "created_at": "2026-07-01T19:19:18.509235+00:00"
+},
+{
+    "id": 36806,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A proof by …………….. is based on the fact that either a statement is true or it is false but not both.",
+    "op": [
+        "mathematical induction",
+        "superposition",
+        "contraposition",
+        "contradiction"
+    ],
+    "created_at": "2026-07-01T19:19:33.778244+00:00"
+},
+{
+    "id": 36814,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Basis and Inductive steps are part of proof by …………",
+    "op": [
+        "mathematical induction",
+        "contradiction",
+        "superposition",
+        "contraposition"
+    ],
+    "created_at": "2026-07-01T19:20:28.097478+00:00"
+},
+{
+    "id": 36815,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The quantity a - d · q equals the?",
+    "op": [
+        "Remainder",
+        "None",
+        "Quotient",
+        "Divisor"
+    ],
+    "created_at": "2026-07-01T19:20:37.679121+00:00"
+},
+{
+    "id": 36816,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Combination is used when we have to select 'k' elements from a set of 'n' elements with the following properties.",
+    "op": [
+        "Order matters and repetition is allowed",
+        "Order does not matter and repetition is allowed",
+        "Order does not matter and repetition is not allowed",
+        "Order matters and repetition is not allowed."
+    ],
+    "created_at": "2026-07-01T19:20:44.120685+00:00"
+},
+{
+    "id": 36818,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The predicate describing the initial state is\ncalled _____.",
+    "op": [
+        "Out put variables",
+        "pre-condition of the algorithm",
+        "post-condition of the algorithm",
+        "None"
+    ],
+    "created_at": "2026-07-01T19:20:50.609156+00:00"
+},
+{
+    "id": 36820,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "P(2,2)=…………",
+    "op": [
+        "2!",
+        "4!",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-01T19:21:04.795558+00:00"
+},
+{
+    "id": 36822,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by ……..uses the equivalence p →q ≡(p∧~q) →c",
+    "op": [
+        "superposition",
+        "contradiction",
+        "mathematical induction",
+        "contraposition"
+    ],
+    "created_at": "2026-07-01T19:21:18.660099+00:00"
+},
+{
+    "id": 36823,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are three bus lines between A and B, and two bus lines between B and C.\nFind the number of ways a person can travel by bus from A to C by way of B ?",
+    "op": [
+        "13",
+        "6",
+        "11",
+        "5"
+    ],
+    "created_at": "2026-07-01T19:21:43.010476+00:00"
+},
+{
+    "id": 36829,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The chairs of an auditorium are to be labeled with two characters, a letter followed by a digit. Letters are a and b and numbers are 3 and 5.What is the largest number of chairs that can be labeled differently ?",
+    "op": [
+        "4",
+        "8",
+        "10",
+        "15"
+    ],
+    "created_at": "2026-07-01T19:22:18.278586+00:00"
+},
+{
+    "id": 36832,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If order matters and repetition is allowed, then which counting method should be used in order to select 'k' elements from a total of 'n' elements?",
+    "op": [
+        "K-Permuatation",
+        "K-combination",
+        "K-Sample",
+        "K-Selection"
+    ],
+    "created_at": "2026-07-01T19:22:26.169325+00:00"
+},
+{
+    "id": 36842,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the sum of two integers is even then their difference would be ......",
+    "op": [
+        "odd",
+        "even"
+    ],
+    "created_at": "2026-07-01T19:23:28.718248+00:00"
+},
+{
+    "id": 36845,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In how many ways a student can choose one of each of the courses when he is offered 3 mathematics courses, 4 literature courses and 2 history courses.",
+    "op": [
+        "288",
+        "14",
+        "9",
+        "24"
+    ],
+    "created_at": "2026-07-01T19:23:55.701142+00:00"
+},
+{
+    "id": 36847,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "(n-2)!/(n-2)=_________ ?",
+    "op": [
+        "(n-1)!",
+        "(n-2)!",
+        "(n-3)!",
+        "(n-2)(n-3)!"
+    ],
+    "created_at": "2026-07-01T19:24:08.512331+00:00"
+},
+{
+    "id": 36848,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "${\\text{If}}\\,n\\,{\\text{is}}\\,{\\text{any}}\\,{\\text{positive}}\\,{\\text{integer}}\\,{\\text{then}}\\,{2^n} \\geqslant 2\\left( {n + 1} \\right)\\,{\\text{is}}\\,{\\text{true}}\\,{\\text{for}}\\,{\\text{all}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\,.$",
+    "op": [
+        "$n \\geqslant 3$",
+        "$n \\leqslant 3$",
+        "$n > 3$",
+        "$n < 3$"
+    ],
+    "created_at": "2026-07-01T19:24:13.061359+00:00"
+},
+{
+    "id": 36854,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In a city, the bus route numbers consist of a natural number less than 20, followed by one of the letters A,B,C,D,E and F. How many different bus routes are possible?",
+    "op": [
+        "20!",
+        "114",
+        "26",
+        "120"
+    ],
+    "created_at": "2026-07-01T19:24:47.208907+00:00"
+},
+{
+    "id": 36860,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "${\\text{If}}\\,n\\,{\\text{is}}\\,{\\text{any}}\\,{\\text{positive}}\\,{\\text{integer}}\\,{\\text{then}}\\,{\\text{the}}\\,{\\text{sequence}}\\,3 + 6 + 9 + - - - - - - + 3n\\, = \\,\\,\\_\\_\\_\\_\\_\\_\\_\\,.$",
+    "op": [
+        "$\\frac{{{n^2}{{\\left( {n + 1} \\right)}^2}}}{4}$",
+        "$\\frac{{3n\\left( {n + 1} \\right)}}{2}$",
+        "$$3n(n + 1)$$",
+        "$\\frac{{2n\\left( {n + 1} \\right)}}{3}$"
+    ],
+    "created_at": "2026-07-01T19:25:27.69064+00:00"
+},
+{
+    "id": 36861,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In the Direct Proof, we show that if the statement p is true, then the statement q is ----------",
+    "op": [
+        "not necessarily true.",
+        "true",
+        "false",
+        "opposite to p"
+    ],
+    "created_at": "2026-07-01T19:25:32.94197+00:00"
+},
+{
+    "id": 36862,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A proof by contraposition is based on the logical equivalence between a statement and its………..",
+    "op": [
+        "contrapositive",
+        "none of these",
+        "converse",
+        "inverse"
+    ],
+    "created_at": "2026-07-01T19:25:56.78325+00:00"
+},
+{
+    "id": 36864,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "GCD of (330,156) is?",
+    "op": [
+        "6",
+        "12",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-07-01T19:26:20.083099+00:00"
+},
+{
+    "id": 36866,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "For all positive real numbers a and b, if a < b, then -----------",
+    "op": [
+        "a^2 = b^2",
+        "a^2 > b^2",
+        "a^2 < b^2",
+        "None of these."
+    ],
+    "created_at": "2026-07-01T19:27:44.986541+00:00"
+},
+{
+    "id": 36881,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many 4-bit string contain at least one “1”",
+    "op": [
+        "14",
+        "16",
+        "15",
+        "12"
+    ],
+    "created_at": "2026-07-01T19:32:24.878565+00:00"
+},
+{
+    "id": 36884,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "How many multiples of 5 are there from 10 to 75?",
+    "op": [
+        "14",
+        "15",
+        "20",
+        "10"
+    ],
+    "created_at": "2026-07-01T19:36:07.600814+00:00"
+},
+{
+    "id": 36885,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Algorithm is a more general term in that the term ---- refers to a particular programming language.",
+    "op": [
+        "None",
+        "Information",
+        "Task",
+        "Program"
+    ],
+    "created_at": "2026-07-01T19:36:41.550051+00:00"
+},
+{
+    "id": 36886,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A bit string is a sequence of 0’s and 1’s.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-01T19:36:46.128097+00:00"
+},
+{
+    "id": 36887,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "An integer n is a perfect square if and only if ---------- for some integer k.",
+    "op": [
+        "n = k^3",
+        "n = k^2",
+        "n = square-root of k",
+        "n = 2k"
+    ],
+    "created_at": "2026-07-01T19:36:53.093192+00:00"
+},
+{
+    "id": 36888,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Sum rule in terms of sets, involves which set operation?",
+    "op": [
+        "Intersection",
+        "Union"
+    ],
+    "created_at": "2026-07-01T19:38:36.054599+00:00"
+},
+{
+    "id": 36889,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are three bus lines between A and B, and two bus lines between B and C.\nFind the number of ways a person can travel round trip by bus from A to C by way of B ?",
+    "op": [
+        "5",
+        "36",
+        "6",
+        "10"
+    ],
+    "created_at": "2026-07-01T19:38:37.595627+00:00"
+},
+{
+    "id": 36892,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "While proofing by contradiction the equivalence ………..is used.",
+    "op": [
+        "p →q ≡(~p∧~q) →c",
+        "~p →q ≡(p∧~q) →c",
+        "p →~q ≡(p∧~q) →c",
+        "p →q ≡(p∧~q) →c"
+    ],
+    "created_at": "2026-07-01T19:39:45.96493+00:00"
+},
+{
+    "id": 36902,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "$${\\text{The}}\\,{\\text{statement}}\\,{3^n} < n!\\,{\\text{is}}\\,{\\text{true}}\\,{\\text{when}}\\,\\_\\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "$$n > 6$$",
+        "$$n = 6$$",
+        "$$n = 2$$",
+        "$$n = 4$$"
+    ],
+    "created_at": "2026-07-01T19:41:46.586895+00:00"
+},
+{
+    "id": 36907,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "While proofing by contraposition the equivalence ………..is used.",
+    "op": [
+        "~p →~q≡ ~q→~p",
+        "p →~q≡ ~q→~p",
+        "p →q≡ ~q→~p",
+        "~p →q≡ ~q→~p"
+    ],
+    "created_at": "2026-07-01T19:50:02.21361+00:00"
+},
+{
+    "id": 36923,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "[Math Processing Error]$${\\text{The}}\\,{\\text{sequence}}\\,1 + 2 + 3 + 4 - - - - - - + n\\,{\\text{is}}\\,{\\text{equal}}\\,{\\text{to}}\\,\\_\\_\\_\\_\\_\\_\\_\\,.$$",
+    "op": [
+        "[Math Processing Error]$$\\frac{{{n^2}}}{2}$$",
+        "[Math Processing Error]$$\\frac{{n\\left( {n + 1} \\right)}}{2}$$",
+        "[Math Processing Error]$$\\frac{{{n^2}{{\\left( {n + 1} \\right)}^2}}}{4}$$",
+        "[Math Processing Error]$$\\frac{{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)}}{6}$$"
+    ],
+    "created_at": "2026-07-01T19:57:39.315432+00:00"
+},
+{
+    "id": 36924,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If n is an odd integer then ‘3n+2’ is ………",
+    "op": [
+        "even",
+        "either even or odd",
+        "neither even nor odd",
+        "odd"
+    ],
+    "created_at": "2026-07-01T19:58:11.368472+00:00"
+},
+{
+    "id": 36946,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of (6 − 7√2) and (6 + 7√2) is …………..",
+    "op": [
+        "12-14√2)",
+        "12",
+        "2(6-7√2)",
+        "2(6+7√2)"
+    ],
+    "created_at": "2026-07-01T20:17:40.068779+00:00"
+},
+{
+    "id": 36963,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If there are 5 different optional courses in English and 3\ndifferent optional courses in Maths. Choices for a student who wants to take one optional course _____?",
+    "op": [
+        "7",
+        "8",
+        "9",
+        "5"
+    ],
+    "created_at": "2026-07-01T20:31:35.061819+00:00"
+},
+{
+    "id": 37011,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If the guard G and the loop invariant I(k) are both true for an integer k ≥ 0 before an iteration of the loop, then I(k + 1) is?",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-01T20:45:22.887038+00:00"
+},
+{
+    "id": 45575,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two odd integers is ....",
+    "op": [
+        "even",
+        "odd"
+    ],
+    "created_at": "2026-07-02T07:56:56.153698+00:00"
+},
+{
+    "id": 45576,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is not a rational number?",
+    "op": [
+        "9/4",
+        "3.14",
+        "2",
+        "√7"
+    ],
+    "created_at": "2026-07-02T07:55:02.946955+00:00"
+},
+{
+    "id": 45577,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The factorial form of  9.8.7.6 is ______.",
+    "op": [
+        "9!/4!",
+        "7!/6!",
+        "6!/5!",
+        "9!/5!"
+    ],
+    "created_at": "2026-07-02T07:55:38.164611+00:00"
+},
+{
+    "id": 45578,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by Contradiction is a/an........ method of proof.",
+    "op": [
+        "Direct",
+        "Indirect"
+    ],
+    "created_at": "2026-07-02T07:56:24.039525+00:00"
+},
+{
+    "id": 45579,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are 4 bus lines between X and Y; and 5 bus lines between Y and Z , the number of ways a person can travel from X to Z?",
+    "op": [
+        "9",
+        "20"
+    ],
+    "created_at": "2026-07-02T07:57:32.426612+00:00"
+},
+{
+    "id": 45580,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The product of any two consecutive positive integers is divisible by 2.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-02T07:58:22.506563+00:00"
+},
+{
+    "id": 45581,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If one event can occur in ${n_1}$ ways, a second event can occur in ${n_2}$ ways, a third event can occur in ${n_3}$ ways, how ways all of the events can occur in the order?",
+    "op": [
+        "${n_1}.{n_2}.{n_3}$",
+        "${n_1} + {n_2} + {n_3}$"
+    ],
+    "created_at": "2026-07-02T07:58:57.091487+00:00"
+},
+{
+    "id": 45582,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The sum of two integers is even when ……….",
+    "op": [
+        "one is zero and one is odd",
+        "one is prime and one is composite",
+        "one is even and one is odd",
+        "both are even or both are odd"
+    ],
+    "created_at": "2026-07-02T07:59:20.349837+00:00"
+},
+{
+    "id": 45583,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Number of combinations of 3-bit string that contain exactly three “0” is ……………….",
+    "op": [
+        "6",
+        "1",
+        "8",
+        "7"
+    ],
+    "created_at": "2026-07-02T07:59:34.753765+00:00"
+},
+{
+    "id": 45584,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Proof by ……..uses the equivalence p →q ≡(p∧~q) →c",
+    "op": [
+        "contradiction",
+        "superposition",
+        "mathematical induction",
+        "contraposition"
+    ],
+    "created_at": "2026-07-02T07:59:50.208305+00:00"
+},
+{
+    "id": 57147,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If E(5)=5, then find arithmetic mean willl be",
+    "op": [
+        "1",
+        "10",
+        "5",
+        "0"
+    ],
+    "created_at": "2026-07-07T19:03:01.993576+00:00"
+},
+{
+    "id": 57156,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the followings is correct option?",
+    "op": [
+        "C(n, 0) = 1",
+        "C(n, n) = n",
+        "C(n, k) + C(n, k + 1) = C(n, k + 1)",
+        "C(n, k) = C(n + k, n – k)"
+    ],
+    "created_at": "2026-07-07T19:03:39.731157+00:00"
+},
+{
+    "id": 57159,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "$P(A|A) = ....................$",
+    "op": [
+        "2",
+        "1",
+        "0",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:03:49.85611+00:00"
+},
+{
+    "id": 57162,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A be the subset of B, then ------------",
+    "op": [
+        "P( A ) > P ( B )",
+        "P( A ) = P ( B )",
+        "P( A ) < P ( B )",
+        "P( A ) <=  P ( B )"
+    ],
+    "created_at": "2026-07-07T19:03:59.169454+00:00"
+},
+{
+    "id": 57168,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are two independent events then $P(A \\cap B) = ..................$",
+    "op": [
+        "P(B)",
+        "P(A)",
+        "1",
+        "$P(A)P(B)$"
+    ],
+    "created_at": "2026-07-07T19:04:31.327518+00:00"
+},
+{
+    "id": 57173,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "In how many ways can the letters of the word 'LEADER' be arranged?",
+    "op": [
+        "250",
+        "360",
+        "310",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:04:49.3579+00:00"
+},
+{
+    "id": 57174,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B be events with P(A)=1/3, P(B)=1/4 and P(A intersection B)=1/6, then P(B | A)= ________ .",
+    "op": [
+        "1/12",
+        "1/2",
+        "1/24",
+        "2/3"
+    ],
+    "created_at": "2026-07-07T19:04:59.02414+00:00"
+},
+{
+    "id": 57175,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B be events with P(A)=1/3, P(B)=1/4 and P(A intersection B)=1/6, then P(A U B)= ________ .",
+    "op": [
+        "2/3",
+        "5/12",
+        "1/2",
+        "1/24"
+    ],
+    "created_at": "2026-07-07T19:05:00.180761+00:00"
+},
+{
+    "id": 57178,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are disjoint sets then $P(A|B) = .............$",
+    "op": [
+        "0",
+        "P(A)",
+        "P(B)",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:05:07.966771+00:00"
+},
+{
+    "id": 57181,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If k = 10 and n = 2; find the number of ways using k-Selection.",
+    "op": [
+        "1",
+        "10",
+        "11",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:05:19.913068+00:00"
+},
+{
+    "id": 57182,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The number of possible permutations of the letters of the word,\"ADDING\" having two D’s together",
+    "op": [
+        "2!",
+        "3!",
+        "5!",
+        "6!"
+    ],
+    "created_at": "2026-07-07T19:05:22.199285+00:00"
+},
+{
+    "id": 57189,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let n(U)=100 and n(A)=25, then n(A')=…………….",
+    "op": [
+        "75",
+        "55",
+        "65",
+        "100"
+    ],
+    "created_at": "2026-07-07T19:05:34.200778+00:00"
+},
+{
+    "id": 57190,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If X is a discrete random variable and f(x) is the probability of X, then the expected value of this random variable is equal to:",
+    "op": [
+        "$x + \\sum {f(x)}$",
+        "$\\sum {(x + f(x))}$",
+        "$\\sum {f(x)}$",
+        "$\\sum {xf(x)}$"
+    ],
+    "created_at": "2026-07-07T19:05:34.289838+00:00"
+},
+{
+    "id": 57191,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If a die is tossed how many outcomes the sample space  of the experiment will have?",
+    "op": [
+        "6",
+        "36",
+        "5",
+        "12"
+    ],
+    "created_at": "2026-07-07T19:05:35.83469+00:00"
+},
+{
+    "id": 57195,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If the random variable X denotes the number of heads when three distinct coins are tossed, then X assumes the value",
+    "op": [
+        "0,1,2,3",
+        "1,3,3,1",
+        "0,1,2",
+        "1,2,3"
+    ],
+    "created_at": "2026-07-07T19:05:45.533851+00:00"
+},
+{
+    "id": 57196,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A tree diagram is a tool to list all the logical possibilities of a sequence of events where each event can occur in a ____ number of ways.",
+    "op": [
+        "Infinite",
+        "Finite"
+    ],
+    "created_at": "2026-07-07T19:05:46.273761+00:00"
+},
+{
+    "id": 57198,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "$P(A|B) = \\frac{{P(A \\cap B)}}{{P(B)}},\\,\\,\\,\\,\\,where\\,\\,.............$",
+    "op": [
+        "$P(B) = 0$",
+        "$P(B) > 1$",
+        "$P(B) > 0$",
+        "$P(B) < 0$"
+    ],
+    "created_at": "2026-07-07T19:05:48.423049+00:00"
+},
+{
+    "id": 57203,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "How many different signals each consisting of five flags hung in a vertical line, can be formed from three identical red flags and two identical blue flags?",
+    "op": [
+        "10",
+        "120",
+        "40",
+        "20"
+    ],
+    "created_at": "2026-07-07T19:05:57.760119+00:00"
+},
+{
+    "id": 57206,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The sum of probabilities of all outcome is always equal to “0”.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:06:02.917405+00:00"
+},
+{
+    "id": 57211,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are finite sets then the mathematical representation of inclusion-exclusion principle is ……………..",
+    "op": [
+        "Non of these",
+        "$n(A \\cup B) = n(A) + n(B)$",
+        "$$n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$$",
+        "$n(A \\cup B) = n(A) + n(B) - n(A \\cup B)$"
+    ],
+    "created_at": "2026-07-07T19:06:11.974922+00:00"
+},
+{
+    "id": 57214,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A and B be the mutually exclusive events such that P ( A ) = 0.6,  P ( B ) = 0.2, then  P ( A U B ) = ?",
+    "op": [
+        "0.5",
+        "0.7",
+        "0.4",
+        "0.8"
+    ],
+    "created_at": "2026-07-07T19:06:26.242116+00:00"
+},
+{
+    "id": 57216,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are finite sets then $$n(A \\cup \\,B) = \\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$n(A) + n(B) - n(A \\cup \\,B)$$",
+        "$$n(A) + n(B) - n(A \\cap \\,B)$$",
+        "$$n(A) + n(B) + n(A \\cap \\,B)$$",
+        "$$n(A) + n(B)$$"
+    ],
+    "created_at": "2026-07-07T19:06:26.619809+00:00"
+},
+{
+    "id": 57217,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If X and Y are independent random variables, then E(XY) is equal to __________.",
+    "op": [
+        "YE(X)",
+        "E(XY)",
+        "E(X)E(Y)",
+        "XE(Y)"
+    ],
+    "created_at": "2026-07-07T19:06:29.697879+00:00"
+},
+{
+    "id": 57223,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "In which century the theory of probability was first developed?",
+    "op": [
+        "18th century",
+        "17th century",
+        "16th century",
+        "19th century"
+    ],
+    "created_at": "2026-07-07T19:06:41.989714+00:00"
+},
+{
+    "id": 57231,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Find the number of distinct permutations that can be formed using the letters of the word ”BENZENE”",
+    "op": [
+        "320",
+        "120",
+        "220",
+        "420"
+    ],
+    "created_at": "2026-07-07T19:06:58.147335+00:00"
+},
+{
+    "id": 57237,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let S = {1, 2, 3, 4, 5, 6}, A = {1, 3, 5}, B = {2, 4, 6}, then P(A U B) will be --------",
+    "op": [
+        "1/2",
+        "1",
+        "2/3",
+        "0"
+    ],
+    "created_at": "2026-07-07T19:07:10.302405+00:00"
+},
+{
+    "id": 57242,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The addition law of probability for two disjoint events A and B is -------",
+    "op": [
+        "P(A or B) = P (A) + P(B)  - P (A and B)",
+        "P(A or B) = P (A) + P (B)  -  P(A) P(B)",
+        "P(A or B) = P(A) + P(B)  +  P(A) P(B)",
+        "P(A or B) = P(A) + P(B)"
+    ],
+    "created_at": "2026-07-07T19:07:22.526654+00:00"
+},
+{
+    "id": 57243,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are disjoint sets then the mathematical representation of inclusion-exclusion principle is …………….",
+    "op": [
+        "$n(A \\cup B) = n(A) + n(B) - n(A \\cup B)$",
+        "$n(A \\cup B) = n(A) + n(B)$",
+        "$$n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$$",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:07:24.340918+00:00"
+},
+{
+    "id": 57250,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If X and Y are random variables, then E(aX)is equal to",
+    "op": [
+        "aX",
+        "aE(X)",
+        "E(aX)",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:08:10.362702+00:00"
+},
+{
+    "id": 57258,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The expected value E(X) is obtained by multiplying each value of x with its probability and taking the sum.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:08:36.62584+00:00"
+},
+{
+    "id": 57265,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Find the value of C(n , n)",
+    "op": [
+        "0",
+        "1",
+        "None of these",
+        "n"
+    ],
+    "created_at": "2026-07-07T19:08:57.942928+00:00"
+},
+{
+    "id": 57280,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the followings is the number of distinct permutations that can be formed using the letters of the word BUZZ ?",
+    "op": [
+        "8",
+        "4",
+        "12",
+        "24"
+    ],
+    "created_at": "2026-07-07T19:09:34.249556+00:00"
+},
+{
+    "id": 57294,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A and B be the mutually exclusive events, then  P(A and B) = ?",
+    "op": [
+        "1/2",
+        "1",
+        "0",
+        "2/3"
+    ],
+    "created_at": "2026-07-07T19:10:18.234346+00:00"
+},
+{
+    "id": 57301,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "0! = ------",
+    "op": [
+        "1",
+        "-1",
+        "None of these",
+        "0"
+    ],
+    "created_at": "2026-07-07T19:10:35.422098+00:00"
+},
+{
+    "id": 57307,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A boy have 3 red and 4 blue balls, What is the probability that a\nball chosen from the boy is blue?",
+    "op": [
+        "none",
+        "4/7",
+        "1/7",
+        "3/7"
+    ],
+    "created_at": "2026-07-07T19:10:58.423462+00:00"
+},
+{
+    "id": 57333,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "An expected value of a random variable is equal to its mean.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:12:33.275754+00:00"
+},
+{
+    "id": 57342,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If X and Y are random variables, then E(X-Y)is equal to",
+    "op": [
+        "E(X)+E(Y)",
+        "E(X+Y)",
+        "E(X)-E(Y)",
+        "E(X-Y)"
+    ],
+    "created_at": "2026-07-07T19:13:22.820705+00:00"
+},
+{
+    "id": 57347,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the probability of getting a number greater than 3 when a dice is\ntossed?",
+    "op": [
+        "1/4",
+        "1/2",
+        "1/5",
+        "1/3"
+    ],
+    "created_at": "2026-07-07T19:13:38.960667+00:00"
+},
+{
+    "id": 57350,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A is any set and U is the universalset then $$n(\\,A'\\,) = \\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$n(U) - n(U \\cap \\,A)$$",
+        "$$n(U) - n(U \\cup \\,A)$$",
+        "$$n(U) + n(U \\cap \\,A)$$",
+        "$$n(U) + n(U \\cup \\,A)$$"
+    ],
+    "created_at": "2026-07-07T19:13:58.474655+00:00"
+},
+{
+    "id": 57354,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A tree is normally constructed from______.",
+    "op": [
+        "right",
+        "center",
+        "right to left",
+        "left to right"
+    ],
+    "created_at": "2026-07-07T19:14:22.578535+00:00"
+},
+{
+    "id": 57358,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The event A ∪ B may be written as?",
+    "op": [
+        "A ∪ B = (A\\B)",
+        "A ∪ B = (A\\B) ∪ B",
+        "A ∪ B = (A\\B) - B",
+        "A ∪ B = (A\\B) ∩ B"
+    ],
+    "created_at": "2026-07-07T19:14:33.934268+00:00"
+},
+{
+    "id": 57365,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "$P(A \\cap B) = P(A).P(A|B)$",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:15:08.91516+00:00"
+},
+{
+    "id": 57369,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A student is to answer five out of nine questions on exams. Find the number of ways that can choose the five questions.",
+    "op": [
+        "126",
+        "None of these",
+        "316",
+        "216"
+    ],
+    "created_at": "2026-07-07T19:15:19.755986+00:00"
+},
+{
+    "id": 57372,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "How many bit strings of length two do not have two consecutive 1’s ?",
+    "op": [
+        "2",
+        "3",
+        "1",
+        "4"
+    ],
+    "created_at": "2026-07-07T19:15:36.853159+00:00"
+},
+{
+    "id": 57373,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If a box B contains four marbles numbered 1 through 4. Then the number of ways of drawing marbles from B firstly three marbles and then remaining one marble is",
+    "op": [
+        "12",
+        "4",
+        "27",
+        "7"
+    ],
+    "created_at": "2026-07-07T19:15:38.384147+00:00"
+},
+{
+    "id": 57390,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B be events with P(A)=1/3, P(B)=1/4 and P(A intersection B)=1/6, then P(A | B)= ________ .",
+    "op": [
+        "1/24",
+        "2/3",
+        "1/2",
+        "1/12"
+    ],
+    "created_at": "2026-07-07T19:16:27.079132+00:00"
+},
+{
+    "id": 57392,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Number of distinct permutations that can be formed using the letters of the word “Bubble”are ……………….",
+    "op": [
+        "720",
+        "80",
+        "120",
+        "216"
+    ],
+    "created_at": "2026-07-07T19:16:34.996597+00:00"
+},
+{
+    "id": 57397,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the probability of getting a number greater than 5 when a dice is\ntossed?",
+    "op": [
+        "2/6",
+        "1/3",
+        "1/6",
+        "1/5"
+    ],
+    "created_at": "2026-07-07T19:16:54.760438+00:00"
+},
+{
+    "id": 57400,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let $n(A) = 108,\\,\\,\\,n(B) = 72$, and $n(A \\cap B) = 36$ ,then by principle of inclusion and exclusion $n(A \\cup B) = .................$",
+    "op": [
+        "104",
+        "208",
+        "144",
+        "180"
+    ],
+    "created_at": "2026-07-07T19:16:58.798266+00:00"
+},
+{
+    "id": 57414,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Find the number of the word that can be formed of the letters of the word “ELEVEN”.",
+    "op": [
+        "220",
+        "110",
+        "120",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:17:55.664199+00:00"
+},
+{
+    "id": 57415,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "C(n, k)= k! P(n, k) .",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:18:00.408949+00:00"
+},
+{
+    "id": 57416,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the followings is the product set A * B * C ? where A = {a}, B = {b}, and C = {c, d}.",
+    "op": [
+        "{(c, b, a), (d, b, a)}",
+        "{(a, c, b), (a, d, b)}",
+        "{(a, b, c), (a, b, d)}",
+        "{(b, c, a), (b, d, a)}"
+    ],
+    "created_at": "2026-07-07T19:18:08.803342+00:00"
+},
+{
+    "id": 57418,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A Random variable is also called a",
+    "op": [
+        "Chance Variable",
+        "Constant"
+    ],
+    "created_at": "2026-07-07T19:18:15.650957+00:00"
+},
+{
+    "id": 57423,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let $E({X^2}) = 6\\,,\\,\\,{\\mu ^2} = 2,$ then standard deviation is …………..",
+    "op": [
+        "-2",
+        "4",
+        "8",
+        "2"
+    ],
+    "created_at": "2026-07-07T19:18:40.766746+00:00"
+},
+{
+    "id": 57424,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A, B and C are any three events, then P( A U B U C) = ?",
+    "op": [
+        "P(A) + P(B) + P(C) + P(A and B) + P (A and C) + P(B and C) - P(A and B and C)",
+        "P(A) + P(B) + P(C) + P(A and B) + P (A and C) + P(B and C) + P(A and B and C)",
+        "P(A) + P(B) + P(C) - P(A and B) - P (A and C) - P(B and C)",
+        "P(A) + P(B) + P(C) - P(A and B) - P (A and C) - P(B and C) + P(A and B and C)"
+    ],
+    "created_at": "2026-07-07T19:18:41.250638+00:00"
+},
+{
+    "id": 57427,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A boy have 5 red and 7 blue balls, What is the probability that a ball chosen from the boy is red?",
+    "op": [
+        "none",
+        "5/7",
+        "5/12",
+        "7/12"
+    ],
+    "created_at": "2026-07-07T19:19:07.012074+00:00"
+},
+{
+    "id": 57428,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the minimum number of students in a class to be sure that two of them are born in the same month ?",
+    "op": [
+        "14",
+        "12",
+        "11",
+        "13"
+    ],
+    "created_at": "2026-07-07T19:19:11.14716+00:00"
+},
+{
+    "id": 57429,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "How many integers from 1 through 1002 are not multiples of 4 ?",
+    "op": [
+        "250",
+        "334",
+        "501",
+        "752"
+    ],
+    "created_at": "2026-07-07T19:19:39.182188+00:00"
+},
+{
+    "id": 57431,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "P(A′∩B′) = ?",
+    "op": [
+        "P(A∪B)",
+        "P(A\\B)′",
+        "P(A∪B)′",
+        "P(AB)′"
+    ],
+    "created_at": "2026-07-07T19:19:54.986857+00:00"
+},
+{
+    "id": 57434,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "C(n,1)=……………..",
+    "op": [
+        "Cannot be determined",
+        "1",
+        "0",
+        "n"
+    ],
+    "created_at": "2026-07-07T19:20:34.021046+00:00"
+},
+{
+    "id": 57436,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Compute C(8 , 3)",
+    "op": [
+        "65",
+        "46",
+        "56",
+        "36"
+    ],
+    "created_at": "2026-07-07T19:21:08.68446+00:00"
+},
+{
+    "id": 57438,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The probability of a an event lies between 0 and 1.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:21:13.295774+00:00"
+},
+{
+    "id": 57444,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "How many integers from 1 through 1002 are multiples of 4 ?",
+    "op": [
+        "250",
+        "250.5",
+        "249",
+        "251"
+    ],
+    "created_at": "2026-07-07T19:21:47.041955+00:00"
+},
+{
+    "id": 57445,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Conditional probability of A given B is defined as ……………….",
+    "op": [
+        "$P(A \\cap B)$",
+        "$\\frac{{P(A \\cap B)}}{{P(a)}}$",
+        "$\\frac{{P(A \\cap B)}}{{P(B)}}$",
+        "None of these"
+    ],
+    "created_at": "2026-07-07T19:21:51.06126+00:00"
+},
+{
+    "id": 57447,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If two light bulbs are chosen at random from 5 bulbs of which 3 are defective, then which of the following is the probability that none is defective?",
+    "op": [
+        "2/8",
+        "2/10",
+        "2/7",
+        "1/10"
+    ],
+    "created_at": "2026-07-07T19:22:02.078298+00:00"
+},
+{
+    "id": 57451,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "An event is a subset of?",
+    "op": [
+        "sample space",
+        "Experiment"
+    ],
+    "created_at": "2026-07-07T19:22:46.881694+00:00"
+},
+{
+    "id": 57456,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If X and Y are independent random variables and a and b are constants, then Var(aX+bY)is equal to",
+    "op": [
+        "(a+b)[Var(X)+ Var(Y)]",
+        "a^2 Var(X)+ b^2 Var(Y)",
+        "aVar(X)+ bVar(Y)",
+        "Var(aX)+ Var(bY)"
+    ],
+    "created_at": "2026-07-07T19:23:21.194329+00:00"
+},
+{
+    "id": 57460,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "In how many ways can a set of six letters be selected from the English Alphabets?",
+    "op": [
+        "C(14 , 6)",
+        "C(26 , 6)",
+        "None of these",
+        "C(6 , 26)"
+    ],
+    "created_at": "2026-07-07T19:23:45.121541+00:00"
+},
+{
+    "id": 57463,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A and B be subsets of U with n(A) = 12, n(B) = 15, n(A')=17, and n(A intersection B) = 8, then n(U)=______ .",
+    "op": [
+        "35",
+        "29",
+        "20",
+        "27"
+    ],
+    "created_at": "2026-07-07T19:25:02.289815+00:00"
+},
+{
+    "id": 57466,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If the standard deviation of the data set is 4 then the value of the variance is ……………….",
+    "op": [
+        "8",
+        "2",
+        "4",
+        "16"
+    ],
+    "created_at": "2026-07-07T19:25:24.584779+00:00"
+},
+{
+    "id": 57468,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If a pair of dice is tossed how many outcomes the sample space  of the experiment will have?",
+    "op": [
+        "12",
+        "18",
+        "36",
+        "6"
+    ],
+    "created_at": "2026-07-07T19:25:26.561365+00:00"
+},
+{
+    "id": 57470,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let X = {1, 2, a, b}. Then 3-combinations of the 4 elements of the set X are _______ ?",
+    "op": [
+        "{1, 2, a}, {a, 2, 1},{b, 1, a} and {1, 2, b}",
+        "{1, 2, a}, {1, 2, b}, {1, a, b} and {2, a, b}",
+        "{1, 2, a}, {a, 2, 1}, {1, a, b}, and {b, a, 1}",
+        "{1, b, a}, {a, b, 2},{b, 1, a} and {1, 2, b}"
+    ],
+    "created_at": "2026-07-07T19:25:46.809343+00:00"
+},
+{
+    "id": 57472,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "C(n,0)=……………..",
+    "op": [
+        "C(n,n)",
+        "Both b and c",
+        "n",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:26:25.304447+00:00"
+},
+{
+    "id": 57475,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Conditional probability of B given A is defined as ……………….",
+    "op": [
+        "None of these",
+        "$P(A \\cap B)$",
+        "$\\frac{{P(A \\cap B)}}{{P(A)}}$",
+        "$\\frac{{P(A \\cap B)}}{{P(B)}}$"
+    ],
+    "created_at": "2026-07-07T19:27:02.143863+00:00"
+},
+{
+    "id": 57477,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "When a dice and a coin are tossed together, then which of the following is the sample space?",
+    "op": [
+        "{1H, 2H, 3H, 4H, 5H, 6H, 1T, 2T, 3T, 4T, 5T, 6T}",
+        "{H, T}",
+        "{1, 2, 3, 4, 5, 6}",
+        "{1H, 2H, 3H, 4T, 5T, 6T}"
+    ],
+    "created_at": "2026-07-07T19:27:50.752138+00:00"
+},
+{
+    "id": 57478,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A and B are disjoint finite sets then $$n(A \\cup \\,B) = \\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$$n(A) + n(B) - n(A \\cap \\,B)$$",
+        "$$n(A) - n(B)$$",
+        "$$n(A) + n(B)$$",
+        "$$n(A) + n(B) + n(A \\cap \\,B)$$"
+    ],
+    "created_at": "2026-07-07T19:28:16.408016+00:00"
+},
+{
+    "id": 57486,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A random variable is also called a Stochastic variable",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-07T19:29:39.01465+00:00"
+},
+{
+    "id": 57490,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let X = {1, 2, 3}, then 2-combinations of the 3 elements of the set X are _______ ?",
+    "op": [
+        "{1, 2}, {2, 1}, {1, 3}, {3, 1}, {2, 3}, and {3, 2}",
+        "{1, 2}, {2, 1},{1, 3} and {3, 1}",
+        "{1, 2}, {2, 1}, {1, 3} and {2, 3}",
+        "{1, 2}, {1, 3} and {2, 3}"
+    ],
+    "created_at": "2026-07-07T19:30:39.079932+00:00"
+},
+{
+    "id": 57510,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If A is a subset of B then $$P(A|B) = \\frac{{P(A)}}{{P(B)}}$$ .",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:34:44.649237+00:00"
+},
+{
+    "id": 57518,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Which of the followings is the probability of getting a 6 when a dice is tossed ?",
+    "op": [
+        "1/6",
+        "0",
+        "1/3",
+        "1"
+    ],
+    "created_at": "2026-07-07T19:36:20.578935+00:00"
+},
+{
+    "id": 57520,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "-------  is a procedure that yields a given set of possible outcomes?",
+    "op": [
+        "Experiment",
+        "Sample space",
+        "Event",
+        "None"
+    ],
+    "created_at": "2026-07-07T19:36:35.869865+00:00"
+},
+{
+    "id": 57531,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Who gave the first definition of the probability as the number of successful outcomes divided by the number of total outcomes?",
+    "op": [
+        "Blaise Pascal",
+        "none",
+        "Laplace",
+        "Leonhard Euler"
+    ],
+    "created_at": "2026-07-07T19:38:55.688301+00:00"
+},
+{
+    "id": 57545,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "What is the probability of the number of one head when two fair coins are tossed?",
+    "op": [
+        "2/4",
+        "1/4"
+    ],
+    "created_at": "2026-07-07T19:43:18.463864+00:00"
+},
+{
+    "id": 57556,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Let A and B be the mutually exclusive events such that P(A) = 1/5  and P(B) = 3/5, then  P(A U B) = ?",
+    "op": [
+        "1/5",
+        "4/5",
+        "2/5",
+        "3/5"
+    ],
+    "created_at": "2026-07-07T19:47:58.029958+00:00"
+},
+{
+    "id": 57557,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "P(A)= 1/6 and P(B)= 3/6, then the probability of happening of both events A and B will be?",
+    "op": [
+        "4/6",
+        "8/6",
+        "5/6",
+        "7/6"
+    ],
+    "created_at": "2026-07-07T19:48:16.12947+00:00"
+},
+{
+    "id": 57563,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "$P(A'|B) = 1 - P(A|B)$",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-07T19:49:44.734431+00:00"
+},
+{
+    "id": 57586,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If B is a subset of A then $$P(A|B) = 1$$ .",
+    "op": [
+        "Flase",
+        "True"
+    ],
+    "created_at": "2026-07-07T20:10:39.494536+00:00"
+},
+{
+    "id": 57587,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Among 20 people, 15 either swim or jog or both. If 5 swim and 6 swim and jog, how many jog ?",
+    "op": [
+        "46",
+        "16",
+        "24",
+        "6"
+    ],
+    "created_at": "2026-07-07T20:11:09.949899+00:00"
+},
+{
+    "id": 57597,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "An urn contains six red and nine blue balls. What is the probability that a ball chosen from the urn is blue?",
+    "op": [
+        "9/15",
+        "15/9",
+        "15/6",
+        "6/15"
+    ],
+    "created_at": "2026-07-07T20:26:05.845756+00:00"
+},
+{
+    "id": 57611,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "There are 5 girls students and 20 boys students in a class. How many students are there in total ?",
+    "op": [
+        "25",
+        "15",
+        "4",
+        "100"
+    ],
+    "created_at": "2026-07-07T21:06:58.285635+00:00"
+},
+{
+    "id": 57625,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Suppose that A and B are events in a sample space S. If A and B are disjoint, could P(A)=0.6 and P(B)=0.5?",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-07T22:03:14.201806+00:00"
+},
+{
+    "id": 58581,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "[Math Processing Error]$P(A|B) = \\frac{{P(A \\cap B)}}{{P(B)}},\\,\\,\\,\\,\\,where\\,\\,.............$",
+    "op": [
+        "[Math Processing Error]$P(B) > 0$",
+        "[Math Processing Error]$P(B) < 0$",
+        "[Math Processing Error]$P(B) > 1$",
+        "[Math Processing Error]$P(B) = 0$"
+    ],
+    "created_at": "2026-07-08T12:42:56.200422+00:00"
+},
+{
+    "id": 59600,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If A is a subset of B then [Math Processing Error]$$P(A|B) = \\frac{{P(A)}}{{P(B)}}$$ .",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-09T10:26:28.512684+00:00"
+},
+{
+    "id": 72606,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "If one event can occur in {n_1} ways, a second event can occur in {n_2} ways, a third event can occur in {n_3} ways, how ways all of the events can occur in the order? ",
+    "op": [
+        "{n_1} + {n_2} + {n_3}",
+        "{n_1}.{n_2}.{n_3}"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72609,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "If one event can occur in {n_1} ways, a second event can occur in {n_2} ways, a third event can occur in {n_3} ways, how ways in which exactly one of the events can occur?",
+    "op": [
+        "{n_1}.{n_2}.{n_3}",
+        "{n_1} + {n_2} + {n_3}"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 73588,
+    "cc": "MTH202",
+    "qn": "4",
+    "dt": "09 July 2026",
+    "qt": "If A and B are finite sets then \\[n(A \\cup \\,B) = \\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[n(A) + n(B) - n(A \\cap \\,B)\\]",
+        "\\[n(A) + n(B) + n(A \\cap \\,B)\\]",
+        "\\[n(A) + n(B)\\]",
+        "\\[n(A) + n(B) - n(A \\cup \\,B)\\]"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73663,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "There are three bus lines between A and B, and two bus lines between B and C. Find the number of ways a person can travel round trip by bus from A to C by way of B ?",
+    "op": [
+        "36",
+        "6",
+        "5",
+        "10"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73664,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If there are 5 different optional courses in English and 3 different optional courses in Maths. Choices for a student who wants to take one optional course _____?",
+    "op": [
+        "7",
+        "9",
+        "8",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73665,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "A student can choose a computer project from one of the two lists. The two lists contain 12 and 18 possible projects, respectively. How many possible projects are there to choose from ?",
+    "op": [
+        "30",
+        "18",
+        "216",
+        "12"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73672,
+    "cc": "MTH202",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "The last step of describing algorithms formally is?",
+    "op": [
+        "An end statement.",
+        "The output variable names.",
+        "The input variable names.",
+        "The name of the algorithm."
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

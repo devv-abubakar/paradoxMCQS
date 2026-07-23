@@ -1,0 +1,920 @@
+[
+    {
+        "id": 22632,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{If}}\\,\\,\\vec r(t) = x(t)\\hat i + y(t)\\hat j\\,\\,{\\text{is}}\\,\\,{\\text{a}}\\,\\,{\\text{vector - valued}}\\,\\,{\\text{function}}\\,\\,{\\text{in}}\\,\\,{\\text{2 - space,}}\\,\\,{\\text{and}}\\,\\,{\\text{if}}\\,\\,x(t)\\,\\,{\\text{and}}\\,\\,y(t)\\,\\,{\\text{are}}\\,\\,{\\text{differentiable,}}\\,\\, \\hfill \\\\ {\\text{then}}\\,\\,\\,\\frac{d}{{dt}}\\,\\left[ {\\vec r(t)} \\right] = \\_\\_\\_\\_\\_\\_\\_\\_\\_. \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$x'(t)\\hat i + y'(t)\\hat j + z'(t)\\hat k$$",
+            "$$x'(t)\\hat i + y'(t)\\hat j$$",
+            "$$x(t)\\hat i + y'(t)\\hat j$$",
+            "$$x'(t)\\hat i + y(t)\\hat j$$"
+        ],
+        "created_at": "2026-06-28T01:05:31.735505+00:00"
+    },
+    {
+        "id": 22633,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$\\begin{gathered} {\\text{Let G be the rectangular box defined by the inequalities }}a \\leqslant x \\leqslant b,\\,\\,\\,c \\leqslant y \\leqslant d,\\,\\,\\,\\,\\,e \\leqslant z \\leqslant f. \\hfill \\ {\\text{If }}f\\,\\,{\\text{is continuous on G, then}}\\,\\,\\int\\limits_a^b {\\int\\limits_c^d {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dy\\,\\,dx = \\,\\,\\, - - - - - - - - \\hfill \\\\\\ \\end{gathered}$",
+        "op": [
+            "${\\text{All}}\\,{\\text{three}}\\,{\\text{options}}\\,{\\text{are}}\\,{\\text{true}}{\\text{.}}$",
+            "$\\int\\limits_a^b {\\int\\limits_e^f {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dz\\,\\,dx$",
+            "$\\int\\limits_e^f {\\int\\limits_a^b {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dx\\,\\,dz$",
+            "$\\int\\limits_c^d {\\int\\limits_a^b {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dx\\,\\,dy\\,$"
+        ],
+        "created_at": "2026-06-28T01:06:30.853202+00:00"
+    },
+    {
+        "id": 22634,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{In}}\\,\\,{\\text{3 - space,}}\\,\\,\\vec r(t) = x(t)\\hat i + y(t)\\hat j + z(t)\\hat k,\\,\\,{\\text{is}}\\,\\,{\\text{smooth}}\\,\\,{\\text{function}}\\,\\,{\\text{of}}\\,\\,t\\,\\,{\\text{if}}\\,\\,x'(t),\\,\\,\\,y'(t)\\,\\,{\\text{and}}\\,\\,z'(t)\\,\\,{\\text{are}}\\,\\, \\hfill \\\\ {\\text{_________}}\\,\\,{\\text{and}}\\,\\,{\\text{there}}\\,\\,{\\text{is}}\\,\\,{\\text{no}}\\,\\,{\\text{value}}\\,\\,{\\text{of}}\\,\\,{\\text{t}}\\,\\,{\\text{at}}\\,\\,{\\text{which}}\\,\\,{\\text{all}}\\,\\,{\\text{three}}\\,\\,{\\text{derivatives}}\\,\\,{\\text{are}}\\,\\,{\\text{zero}}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{continuous}}$$",
+            "$${\\text{discontinuous}}$$"
+        ],
+        "created_at": "2026-06-28T01:07:05.406193+00:00"
+    },
+    {
+        "id": 22656,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$${\\text{A vector valued function in 2 - D can be expressed as}}$$",
+        "op": [
+            "$$\\vec r(t) = x(t)i + y(t)j$$",
+            "$$\\vec r(t) = x(t)j + y(t)i$$",
+            "$$\\vec r(t) = x(t) - y(t)$$",
+            "$$\\vec r(t) = x(t) + y(t)$$"
+        ],
+        "created_at": "2026-06-28T02:34:18.518552+00:00"
+    },
+    {
+        "id": 22657,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$$\\eqalign{ & {\\text{If }}x'(t){\\text{ and }}y'(t){\\text{ are continuous for }}a \\leqslant t \\leqslant b{\\text{, then the given}} \\cr & {\\text{parametric equations are}} \\cr}$$",
+        "op": [
+            "$$x = x(t) + y(t){\\text{ ;}} \\left( {a \\leqslant t \\leqslant b} \\right)$$",
+            "$$x = x(t),y = y(t){\\text{ ;}} \\left( {a \\leqslant t \\leqslant b} \\right)$$",
+            "$$x = x'(t),y = y'(t){\\text{ ;}} \\left( {a \\leqslant t \\leqslant b} \\right)$$",
+            "$$x = x'(t) + y'(t){\\text{ ;}} \\left( {a \\leqslant t \\leqslant b} \\right)$$"
+        ],
+        "created_at": "2026-06-28T02:37:28.489793+00:00"
+    },
+    {
+        "id": 22658,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$$\\begin{gathered} {\\text{The}}\\,\\,{\\text{lemniscates}}\\,\\,{\\text{are}}\\,\\,{\\text{centered}}\\,\\,{\\text{at}}\\,\\,{\\text{the}}\\,\\,{\\text{origin,}}\\,\\,{\\text{but}}\\,\\,{\\text{the}}\\,\\,{\\text{position}}\\,\\,{\\text{relative}}\\,\\,{\\text{to}}\\,{\\text{the}}\\,\\,{\\text{polar}}\\,\\,{\\text{axis}}\\,\\, \\hfill \\\\ {\\text{depends}}\\,\\,{\\text{on}}\\,\\,{\\text{the}}\\,\\,{\\text{sign}}\\,\\,{\\text{preceding}}\\,\\,{\\text{the}}\\,\\,{a^2}\\,\\,{\\text{and}}\\,\\,{\\text{whether}}\\,\\,{\\text{_________}}\\,\\,{\\text{appears}}\\,\\,{\\text{in}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{(d)}}\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{or}}\\,\\,{\\text{(b)}}{\\text{.}}$$",
+            "$$(b)\\,\\,\\,\\cos 2\\theta$$",
+            "$$(c)\\,\\,\\,\\tan \\theta$$",
+            "$$(a)\\,\\,\\,\\sin 2\\theta$$"
+        ],
+        "created_at": "2026-06-28T02:37:44.254933+00:00"
+    },
+    {
+        "id": 22659,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$${\\text{A vector valued function in 3 - D can be expressed as}}$$",
+        "op": [
+            "$$\\vec r(t) = x(t)i + y(t)j + z(t)k$$",
+            "$$\\vec r(t) = x(t) - y(t) - z(t)$$",
+            "$$\\vec r(t) = x(t)j + y(t)i + z(t)k$$",
+            "$$\\vec r(t) = x(t) + y(t) + z(t)$$"
+        ],
+        "created_at": "2026-06-28T02:38:00.178736+00:00"
+    },
+    {
+        "id": 22725,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$${\\text{If}}\\,\\,P = 1 + 4xy\\,\\,{\\text{and}}\\,\\,Q = 5{x^2}\\,\\,{\\text{then}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+        "op": [
+            "$$\\frac{{\\partial P}}{{\\partial y}} \\ne \\frac{{\\partial Q}}{{\\partial x}}$$",
+            "$$\\frac{{\\partial Q}}{{\\partial x}} = 5{x^2}$$",
+            "$$\\frac{{\\partial P}}{{\\partial y}} = \\frac{{\\partial Q}}{{\\partial x}}$$",
+            "$$\\frac{{\\partial P}}{{\\partial y}} = 1 + 4x$$"
+        ],
+        "created_at": "2026-06-28T06:02:33.723266+00:00"
+    },
+    {
+        "id": 22787,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$${\\text{If}}\\,\\,\\vec r(t) = t\\,\\hat i + 2t\\,\\hat j{\\text{,}}\\,\\,{\\text{then}}\\,\\,\\,\\frac{d}{{dt}}\\,\\left[ {\\vec r(t)} \\right] = \\_\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+        "op": [
+            "$$\\,t\\,\\hat i + 2\\hat j$$",
+            "$$\\,\\hat i + 2t\\,\\hat j$$",
+            "$$\\,\\hat i + 2\\hat j$$",
+            "$$\\,\\hat i + \\hat j$$"
+        ],
+        "created_at": "2026-06-28T07:54:43.367595+00:00"
+    },
+    {
+        "id": 22791,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "$${\\text{The}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation,}}\\,\\,dz{\\kern 1pt} = {\\kern 1pt} 4xy{\\kern 1pt} dx{\\kern 1pt} {\\kern 1pt} + {\\kern 1pt} {\\kern 1pt} \\left( {2{x^2} + 3{y^2}} \\right){\\kern 1pt} dy,\\,\\,{\\text{is}}\\,\\,{\\kern 1pt} {\\text{an exact differential equation}}{\\text{.}}$$",
+        "op": [
+            "$${\\text{True}}$$",
+            "$${\\text{False}}$$"
+        ],
+        "created_at": "2026-06-28T07:57:11.692123+00:00"
+    },
+    {
+        "id": 22884,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "Graph of a vector-valued function can fail to have a tangent vector at a point because  ----------",
+        "op": [
+            "d) Neither a) nor b)",
+            "a)  derivative does not exists at that point.",
+            "b)  derivative is zero at that point.",
+            "c)   Both a) and b)"
+        ],
+        "created_at": "2026-06-28T09:29:58.54831+00:00"
+    },
+    {
+        "id": 22960,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "The differential dz of the function $$z = {x^2} + {y^2}$$ is ------------",
+        "op": [
+            "$$dz = 2xdx + 2ydy$$",
+            "$$dz = 2x + 2y$$",
+            "$$dz = 2dx + 2dy$$",
+            "$$dz = (2x + 2y)dz$$"
+        ],
+        "created_at": "2026-06-28T11:09:39.061219+00:00"
+    },
+    {
+        "id": 23089,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "If $$z = f(x, y)$$ and $$dz = Pdx + Qdy$$ then dz is exact differential when ----------",
+        "op": [
+            "$$\\frac{{\\partial P}}{{\\partial x}} = \\frac{{\\partial Q}}{{\\partial y}}$$",
+            "$$\\frac{{\\partial P}}{{\\partial y}} = \\frac{{\\partial Q}}{{\\partial x}}$$",
+            "$$P = Q$$",
+            "$$\\frac{{{\\partial ^2}P}}{{\\partial x\\partial y}} = \\frac{{{\\partial ^2}Q}}{{\\partial x\\partial y}}$$"
+        ],
+        "created_at": "2026-06-28T14:31:44.377493+00:00"
+    },
+    {
+        "id": 23090,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "Natural domain of a vector valued function is --------",
+        "op": [
+            "union of the natural domains of its components",
+            "intersection of the natural domains of its components",
+            "none of these",
+            "not dependent on domains of its components"
+        ],
+        "created_at": "2026-06-28T14:32:27.495128+00:00"
+    },
+    {
+        "id": 23151,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "28 June 2026",
+        "qt": "A vector-valued function is continuous at some point t0 if    -----------",
+        "op": [
+            "all of its component should be continuous every where in the domain.",
+            "each of its component is continuous at that point.",
+            "some of its component is continuous at that point.",
+            "each of its component is differentiable at that point."
+        ],
+        "created_at": "2026-06-28T17:32:46.470388+00:00"
+    },
+    {
+        "id": 26516,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "${\\text{Let }}\\bar r(t)\\,\\, = \\,\\,2t\\,\\hat i\\,\\, + \\,\\,3t\\,\\,\\hat j,\\,\\,{\\text{then}}\\,\\,\\bar r'(2)\\,\\, = \\,\\,2\\,\\hat i\\,\\, + \\,\\,3\\,\\hat j.$",
+        "op": [
+            "$False$",
+            "$True$"
+        ],
+        "created_at": "2026-06-29T06:33:47.402867+00:00"
+    },
+    {
+        "id": 48965,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{Green's Theorem states that}} \\iint\\limits_R {\\left( {\\frac{{\\partial P}}{{\\partial x}} - \\frac{{\\partial Q}}{{\\partial y}}} \\right)}dxdy$$",
+        "op": [
+            "$$- \\oint {(Pdx + Qdy)}$$",
+            "$$- \\oint {(Pdx - Qdy)}$$",
+            "$$\\oint {(Pdx - Qdy)}$$",
+            "$$\\oint {(Pdx + Qdy)}$$"
+        ],
+        "created_at": "2026-07-05T19:26:11.1965+00:00"
+    },
+    {
+        "id": 48994,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{Path}}\\,\\,{\\text{of}}\\,\\,{\\text{integration}}\\,\\,{\\text{parallel}}\\,\\,{\\text{to}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_,\\,\\,dx = 0.\\,\\,\\,\\,\\,\\therefore \\,\\,{I_C} = \\int\\limits_C {Q\\,dy} .$$",
+        "op": [
+            "$$dz = 0$$",
+            "$$x{\\text{ - axis}}$$",
+            "$$z{\\text{ - axis}}$$",
+            "$$y{\\text{ - axis}}$$"
+        ],
+        "created_at": "2026-07-05T19:27:04.242018+00:00"
+    },
+    {
+        "id": 49006,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\eqalign{ & {\\text{If a scalar field }}V(r){\\text{ exists for all points on the curve, the }}.........{\\text{ with }}dr \\to 0{\\text{,}} \\cr & {\\text{defines the line integral of }}V {\\text{i}}{\\text{.e, line integral = }} \\int\\limits_c {V(r)dr} \\cr}$$",
+        "op": [
+            "$$\\sum\\limits_{\\rho = 1}^\\infty {V(r)d{r_\\rho }}$$",
+            "$$\\sum\\limits_{\\rho = 0}^\\infty {V(r)d{r_\\rho }}$$",
+            "$$\\sum\\limits_{\\rho = 1}^n {V(r)d{r_\\rho }}$$",
+            "$$\\sum\\limits_{\\rho = 0}^n {V(r)d{r_\\rho }}$$"
+        ],
+        "created_at": "2026-07-05T19:27:20.241575+00:00"
+    },
+    {
+        "id": 49021,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{Path}}\\,\\,{\\text{of}}\\,\\,{\\text{integration}}\\,\\,{\\text{parallel}}\\,\\,{\\text{to}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_,\\,\\,dy = 0.\\,\\,\\,\\,\\,\\therefore \\,\\,{I_C} = \\int\\limits_C {P\\,dx} .$$",
+        "op": [
+            "$$x{\\text{ - axis}}$$",
+            "$$dz = 0$$",
+            "$$z{\\text{ - axis}}$$",
+            "$$y{\\text{ - axis}}$$"
+        ],
+        "created_at": "2026-07-05T19:27:39.251116+00:00"
+    },
+    {
+        "id": 49034,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Unless we are directed otherwise, we always proceed round the closed boundary in a (an) _________ manner.",
+        "op": [
+            "clockwise",
+            "anticlockwise"
+        ],
+        "created_at": "2026-07-05T19:27:50.759109+00:00"
+    },
+    {
+        "id": 49053,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The value of the line integral is independent of the path taken and depends only on the ……………. if the integrand is seen to be an exact differential.",
+        "op": [
+            "Coordinates of the y-axis",
+            "Coordinates of the two starting points",
+            "Coordinates of the x-axis",
+            "Coordinates of the two end points"
+        ],
+        "created_at": "2026-07-05T19:28:10.475251+00:00"
+    },
+    {
+        "id": 49085,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\int\\limits_0^{\\frac{\\pi }{2}} {Co{s^2}x} dx = \\frac{1}{2}\\left| {\\frac{\\pi }{2} + \\frac{{\\sin \\pi }}{2}} \\right| =$$",
+        "op": [
+            "$$\\frac{\\pi }{4}$$",
+            "$$\\frac{\\pi }{2}$$",
+            "$$\\frac{\\pi }{3}$$",
+            "$$\\frac{{3\\pi }}{4}$$"
+        ],
+        "created_at": "2026-07-05T19:29:08.248921+00:00"
+    },
+    {
+        "id": 49108,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "If the integrand of the given integral is seen to be a (an) _________ differential, then the value of the line integral is independent of the path taken.",
+        "op": [
+            "total",
+            "partial",
+            "exact",
+            "non-exact"
+        ],
+        "created_at": "2026-07-05T19:30:03.299605+00:00"
+    },
+    {
+        "id": 51247,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The value of the integral is --------- independent of the path of integration taken.",
+        "op": [
+            "may or may not",
+            "always"
+        ],
+        "created_at": "2026-07-06T00:53:42.423785+00:00"
+    },
+    {
+        "id": 51256,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Consider}}\\,\\,{\\text{a}}\\,\\,{\\text{vector}}\\,\\,A\\,\\,\\,{\\text{for}}\\,\\,{\\text{which}}\\,\\,\\nabla .A = 0\\,\\,{\\text{at}}\\,\\,{\\text{all}}\\,\\,{\\text{points,}}\\,\\,{\\text{i,e}}{\\text{.}}\\,\\,{\\text{for}}\\,\\,{\\text{all}}\\,\\,{\\text{values}}\\,\\,{\\text{of}}\\,\\,x,\\,y,\\,z,\\,\\,{\\text{is}}\\,\\,{\\text{called}}\\,\\, \\hfill \\\\ {\\text{a(an)}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,. \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{constant}}$$",
+            "$${\\text{unit}}\\,\\,{\\text{vector}}$$",
+            "$${\\text{solenoid}}\\,\\,{\\text{vector}}$$",
+            "$${\\text{scalar}}$$"
+        ],
+        "created_at": "2026-07-06T00:55:29.99909+00:00"
+    },
+    {
+        "id": 51359,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{If}}\\,\\,\\vec F = {F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k\\,\\,{\\text{and}}\\,\\,d\\vec r = dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k.\\,\\,{\\text{Then,}}\\,\\,\\vec F.d\\vec r = \\_\\_\\_\\_\\_\\_\\_\\_.$$",
+        "op": [
+            "$$(b)\\,\\,\\,\\,\\,\\,\\int\\limits_C {\\left( {{F_1}\\,dx + {F_2}\\,dy + {F_3}\\,dz} \\right)}$$",
+            "$$(c)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right)$$",
+            "$$(d)\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{and}}\\,\\,{\\text{(b)}}{\\text{.}}$$",
+            "$$(a)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right).\\left( {dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k} \\right)$$"
+        ],
+        "created_at": "2026-07-06T01:18:56.336956+00:00"
+    },
+    {
+        "id": 51361,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{If}}\\,\\,Pdx + Qdy + Rdw\\,\\,{\\text{is}}\\,\\,{\\text{an}}\\,\\,{\\text{exact}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}}\\,\\,{\\text{then}}\\,\\,\\oint\\limits_C {\\left( {Pdx + Qdy + Rdw} \\right)} \\,\\,{\\text{is}}\\,\\,{\\text{__________}}{\\text{.}}\\,\\,$$",
+        "op": [
+            "$${\\text{infinite}}$$",
+            "$${\\text{zero}}$$",
+            "$${\\text{finite}}$$",
+            "$$- 1$$"
+        ],
+        "created_at": "2026-07-06T01:19:16.559332+00:00"
+    },
+    {
+        "id": 51363,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{If}} I = \\int\\limits_{AB} {Pdx + Qdy} {\\text{ and }}(Pdx + Qdy){\\text{ is an exact differential}} {\\text{then}}$$",
+        "op": [
+            "$${I_{{c_2}}} = {I_{{c_2}}}$$",
+            "$${I_{{c_1}}} = - {I_{{c_2}}}$$",
+            "$${I_{{c_1}}} = 2{I_{{c_1}}}$$",
+            "$${I_{{c_1}}} = {I_{{c_2}}}$$"
+        ],
+        "created_at": "2026-07-06T01:19:34.769325+00:00"
+    },
+    {
+        "id": 51366,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\int\\limits_0^{\\frac{\\pi }{2}} {{{\\sin }^2}x} dx = \\frac{1}{2}\\left| {\\frac{\\pi }{2} - \\frac{{\\sin \\pi }}{2}} \\right| =$$",
+        "op": [
+            "$$\\frac{\\pi }{4}$$",
+            "$$\\frac{{3\\pi }}{4}$$",
+            "$$\\frac{\\pi }{2}$$",
+            "$$\\frac{\\pi }{3}$$"
+        ],
+        "created_at": "2026-07-06T01:19:44.006455+00:00"
+    },
+    {
+        "id": 53596,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If}}\\,\\,Pdx + Qdy + Rdw\\,\\,{\\text{is}}\\,\\,{\\text{an}}\\,\\,{\\text{exact}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}}\\,\\,{\\text{then}}\\,\\,\\int\\limits_C {\\left( {Pdx + Qdy + Rdw} \\right)\\,\\,{\\text{is}}} {\\text{__________}}\\,\\,{\\text{of}} \\hfill \\\\\\ {\\text{the}}\\,\\,{\\text{path}}\\,\\,{\\text{of}}\\,\\,{\\text{integration}}\\,{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            "$${\\text{independent}}$$",
+            "$${\\text{dependent}}$$"
+        ],
+        "created_at": "2026-07-06T08:03:36.413857+00:00"
+    },
+    {
+        "id": 54305,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{For}}\\,\\,{\\text{line}}\\,\\,{\\text{integral}}\\,\\,{\\text{with}}\\,\\,{\\text{respect}}\\,\\,{\\text{to}}\\,\\,{\\text{arc}}\\,\\,{\\text{length,}}\\,\\,\\,{\\text{when}}\\,\\,x\\,\\,{\\text{and}}\\,\\,y\\,\\,{\\text{are}}\\,\\,{\\text{expressed}}\\,\\,{\\text{in}}\\,\\,{\\text{parametric}}\\,\\,{\\text{form,}}\\,\\, \\hfill \\\\\\ I = \\int\\limits_C {f(x,y)ds = \\int\\limits_{{t_1}}^{{t_2}} {f(x,y)ds} } {\\text{,}}\\,\\,{\\text{where}}\\,\\,ds = {\\text{__________}}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\sqrt {1 + {{\\left( {\\frac{{dy}}{{dx}}} \\right)}^2}}$$",
+            "$$\\sqrt {{{\\left( {\\frac{{dx}}{{dt}}} \\right)}^2} + {{\\left( {\\frac{{dy}}{{dt}}} \\right)}^2}}$$",
+            "$$\\sqrt {{{\\left( {\\frac{{dx}}{{dt}}} \\right)}^2} - {{\\left( {\\frac{{dy}}{{dt}}} \\right)}^2}} \\,\\,dt$$",
+            "$$\\sqrt {{{\\left( {\\frac{{dx}}{{dt}}} \\right)}^2} + {{\\left( {\\frac{{dy}}{{dt}}} \\right)}^2}} \\,\\,dt$$"
+        ],
+        "created_at": "2026-07-06T14:31:00.812356+00:00"
+    },
+    {
+        "id": 71860,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "$$\\eqalign{ & {\\text{Polar co - ordinates of a point are}} \\left( {{\\text{ - 3,}} \\frac{{ - 3\\pi }}{4}} \\right){\\text{. Which of the following is another possible polar }} \\cr & {\\text{co - ordinates representation of this point?}} \\cr} $$",
+        "op": [
+            "$$\\left( {{\\text{ - 3,}} \\frac{\\pi }{3}} \\right)$$",
+            "$$\\left( {{\\text{ - 3,}} \\frac{\\pi }{2}} \\right)$$",
+            "$$\\left( {{\\text{ - 3,}} \\frac{{3\\pi }}{4}} \\right)$$",
+            "$$\\left( {{\\text{ - 3,}} \\frac{\\pi }{4}} \\right)$$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71861,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[\\begin{gathered} {\\text{If}}\\,\\,{\\text{the}}\\,\\,{\\text{region}}\\,\\,{\\text{is}}\\,\\,{\\text{bounded}}\\,\\,{\\text{the}}\\,\\,{\\text{left}}\\,\\,{\\text{and}}\\,\\,{\\text{right}}\\,\\,{\\text{by}}\\,\\,{\\text{vertical}}\\,\\,{\\text{lines}}\\,\\,x = a\\,\\,{\\text{and}}\\,\\,x = b\\,\\,{\\text{and}}\\,\\,{\\text{is}}\\,\\,{\\text{bounded}}\\,{\\text{below}}\\,\\,{\\text{and}}\\,\\, \\hfill \\\\ {\\text{above}}\\,\\,{\\text{by}}\\,\\,{\\text{curves}},\\,\\,y = {g_1}(x)\\,\\,{\\text{and}}\\,\\,y = {g_2}(x),\\,\\,{\\text{where}}\\,\\,{g_1}(x)\\,\\, \\leqslant {g_2}(x)\\,\\,{\\text{for}}\\,\\,a \\leqslant x \\leqslant b.\\,\\,{\\text{Then}}\\,\\,\\iint\\limits_R {f(x,y)\\,dA = }\\,\\,\\_\\_\\_\\_\\_\\_\\_. \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\int\\limits_a^b {\\int\\limits_{{g_1}(x)}^{{g_2}(x)} {f(x,y)\\,dy\\,dx} } \\]",
+            "\\[\\int {f(x,y)\\,dy\\,dx} \\]",
+            "\\[\\int\\limits_{{g_1}(x)}^{{g_2}(x)} {f(x,y)\\,dy\\,dx} \\]",
+            "\\[\\int\\limits_a^b {f(x,y)\\,dx\\,dy} \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71862,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[{\\text{After}}\\,\\,{\\text{reversing}}\\,\\,{\\text{the}}\\,\\,{\\text{order}}\\,{\\text{of}}\\,\\,{\\text{limits}}\\,\\,{\\text{of}}\\,\\,\\int\\limits_0^{\\frac{1}{2}} {\\int\\limits_{2x}^1 {{e^{{y^2}}}dy\\,dx,\\,} } \\,{\\text{we}}\\,\\,{\\text{get}}\\,\\,{\\text{___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\,\\int\\limits_0^1 {\\int\\limits_0^{\\frac{y}{2}} {{e^{{y^2}}}dx\\,dy\\,\\,} } \\]",
+            "\\[\\,\\int\\limits_0^1 {\\int\\limits_{\\frac{y}{2}}^0 {{e^{{y^2}}}dx\\,dy\\,\\,} } \\]",
+            "\\[\\,\\int\\limits_0^1 {\\int\\limits_{\\frac{1}{2}}^{2x} {{e^{{y^2}}}dx\\,dy\\,\\,} } \\]",
+            "\\[\\,\\int\\limits_0^1 {\\int\\limits_{2x}^{\\frac{1}{2}} {{e^{{y^2}}}dx\\,dy\\,\\,} } \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71863,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[{\\text{The graph of the equation }}r\\, = \\,a(1 + \\sin \\,\\theta ){\\text{ is symmetric about - - - - - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[{\\text{y - axis}}\\]",
+            "\\[{\\text{None of these}}{\\text{.}}\\]",
+            "\\[{\\text{initial line}}\\]",
+            "\\[{\\text{pole}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71864,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[ {\\text{After}}\\,{\\text{reversing the order of limits of }}\\,\\int\\limits_0^3 {\\int\\limits_{x^2 }^9 {y\\,\\cos \\,x\\,\\,dy\\,dx} } ,\\,{\\text{we}}\\,{\\text{get}}\\, - - - - - - \\] ",
+        "op": [
+            "\\[ \\int\\limits_0^9 {\\int\\limits_0^{\\sqrt y } {y\\,\\cos \\,x\\,\\,dxdy} } \\]",
+            "\\[ \\int\\limits_0^9 {\\int\\limits_0^{\\sqrt y } {y\\,\\cos \\,x\\,\\,dydx} } \\]",
+            "\\[ \\int\\limits_{x^2 }^6 {\\int\\limits_0^3 {y\\,\\cos \\,x\\,\\,dxdy} } \\]",
+            "\\[ \\int\\limits_0^3 {\\int\\limits_0^{\\sqrt x } {y\\,\\cos \\,x\\,\\,dxdy} } \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71865,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Expression for the double integral for the volume of a solid bounded above by z=8-x-y and below by rectangle R=$0 \\leqslant x \\leqslant 4,\\,5 \\leqslant y \\leqslant 8$ is........",
+        "op": [
+            "$V = \\int_5^8 {\\int_0^4 {(8 - x - y)dx} } $",
+            "$V = \\int_5^8 {\\int_0^4 {(8 - x - y)dxdy} } $",
+            "$V = \\int_0^4 {\\int_5^8 {(8 - x - y)dxdy} } $",
+            "\\[V = \\int_5^8 {\\int_0^4 {(8 - x - y)dydx} } \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71866,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "{\\text{Reversing the order of integration}} \\int\\limits_0^2 {\\int\\limits_{\\frac{y}{2}}^1 {{e^{{x^2}}}dxdy = } }",
+        "op": [
+            "\\int\\limits_0^1 {\\int\\limits_0^x {{e^{{x^2}}}dy} } dx",
+            "\\int\\limits_0^1 {\\int\\limits_{\\frac{y}{2}}^{4x} {{e^{{x^2}}}dydx} }",
+            "\\int\\limits_0^1 {\\int\\limits_0^{2x} {{e^{{x^2}}}dydx} }",
+            "\\int\\limits_0^1 {\\int\\limits_0^{{x^2}} {{e^{{x^2}}}dy} } dx"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71867,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[\\begin{gathered} {\\text{The}}\\,\\,{\\text{equations}}\\,\\,{\\text{of}}\\,\\,{\\text{the}}\\,\\,{\\text{form:}} \\hfill \\\\ \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,r = a\\,\\sin \\,n\\theta ,\\,\\,\\, \\hfill \\\\ \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,r = a\\cos n\\theta , \\hfill \\\\ {\\text{represent}}\\,\\,{\\text{flower - shaped}}\\,\\,{\\text{curves}}\\,\\,{\\text{called}}\\,\\,{\\text{_________}}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[{\\text{spiral}}\\]",
+            "\\[{\\text{roses}}\\]",
+            "\\[{\\text{cardioids}}\\]",
+            "\\[{\\text{limacons}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71868,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[\\begin{gathered} {\\text{The }}\\,\\,{\\text{orientation}}\\,\\,{\\text{ of }}\\,\\,{\\text{the }}\\,\\,{\\text{rose}}\\,\\,{\\text{ relative}}\\,\\,{\\text{ to}}\\,\\,{\\text{ the}}\\,\\,{\\text{ polar }}\\,\\,{\\text{axis }}\\,\\,{\\text{depends}}\\,\\,{\\text{ on}}\\,\\,{\\text{ the }}\\,\\,{\\text{sign}}\\,\\,{\\text{ of }}\\,\\,{\\text{the }}\\,\\, \\hfill \\\\ {\\text{constant }}\\,\\,a{\\text{ }}\\,\\,{\\text{and }}\\,\\,{\\text{whether}}\\,\\,{\\text{ _________ }}\\,\\,{\\text{appears }}\\,\\,{\\text{in }}\\,\\,{\\text{the}}\\,\\,{\\text{ equation}}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[(a)\\,\\,\\,\\sin \\theta \\]",
+            "\\[(c)\\,\\,\\,\\tan \\theta \\]",
+            "\\[{\\text{(d)}}\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{or}}\\,\\,{\\text{(b)}}{\\text{.}}\\]",
+            "\\[(b)\\,\\,\\,\\cos \\theta \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72016,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "{\\text{Area}}\\,\\,{\\text{of}}\\,\\,{\\text{double}}\\,\\,{\\text{integral}}\\,\\,{\\text{can}}\\,\\,{\\text{be}}\\,\\,{\\text{calculated}}\\,\\,{\\text{by}}\\,\\,{\\text{the}}\\,\\,{\\text{formula:}}\\,{\\text{area}}\\,\\,{\\text{of}}\\,\\,R = {\\text{_________}}{\\text{.}}",
+        "op": [
+            "\\iint\\limits_R {dA}",
+            "\\frac{1}{{{\\text{area}}\\,\\,{\\text{of}}\\,\\,R}}\\iint\\limits_R {dA}",
+            "\\iint\\limits_R {f(x,y)\\,dy}",
+            "\\int\\limits_R {f(x,y)\\,dx\\,dy}"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72018,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "$\\begin{gathered} {\\text{Let G be the rectangular box defined by the inequalities }}a \\leqslant x \\leqslant b,\\,\\,\\,c \\leqslant y \\leqslant d,\\,\\,\\,\\,\\,e \\leqslant z \\leqslant f. \\hfill \\ {\\text{If }}f\\,\\,{\\text{is continuous on G, then}}\\,\\,\\int\\limits_a^b {\\int\\limits_c^d {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dy\\,\\,dx = \\,\\,\\, - - - - - - - - \\hfill \\\\\\ \\end{gathered} $",
+        "op": [
+            "$\\int\\limits_c^d {\\int\\limits_a^b {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dx\\,\\,dy\\,$",
+            "$\\int\\limits_e^f {\\int\\limits_a^b {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dx\\,\\,dz$",
+            "${\\text{All}}\\,{\\text{three}}\\,{\\text{options}}\\,{\\text{are}}\\,{\\text{true}}{\\text{.}}$",
+            "$\\int\\limits_a^b {\\int\\limits_e^f {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dz\\,\\,dx$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72019,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The\\,point\\,( - \\,42,\\,\\,{35^0}\\,\\,)\\,\\,{\\text{and the point - - - - - - - - - - - - - - }}\\,{\\text{are the same in polar system}}{\\text{.}}",
+        "op": [
+            "(\\,42,\\,\\,{215^0}\\,)",
+            "(\\,\\,42,\\,\\,{35^0}\\,\\,)",
+            "(\\,122,\\,\\,{215^0}\\,\\,)",
+            "(122,\\,\\,{35^0}\\,\\,)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72024,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[The\\,point\\,(\\,\\,3,\\,\\,{189^0}\\,\\,)\\,\\,{\\text{and the point - - - - - - - - - - - - - - }}\\,{\\text{are the same in polar system}}{\\text{.}}\\]",
+        "op": [
+            "\\[(\\,\\,3,\\,\\,{99^0}\\,)\\]",
+            "\\[( - 3,\\,\\,{279^0}\\,\\,)\\]",
+            "\\[(\\,\\, - 3,\\,\\,{9^0}\\,\\,)\\]",
+            "\\[(\\,\\, - 3,\\,\\,{189^0}\\,\\,)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72025,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\begin{gathered} {\\text{The}}\\,\\,{\\text{lemniscates}}\\,\\,{\\text{are}}\\,\\,{\\text{centered}}\\,\\,{\\text{at}}\\,\\,{\\text{the}}\\,\\,{\\text{origin,}}\\,\\,{\\text{but}}\\,\\,{\\text{the}}\\,\\,{\\text{position}}\\,\\,{\\text{relative}}\\,\\,{\\text{to}}\\,{\\text{the}}\\,\\,{\\text{polar}}\\,\\,{\\text{axis}}\\,\\, \\hfill \\\\ {\\text{depends}}\\,\\,{\\text{on}}\\,\\,{\\text{the}}\\,\\,{\\text{sign}}\\,\\,{\\text{preceding}}\\,\\,{\\text{the}}\\,\\,{a^2}\\,\\,{\\text{and}}\\,\\,{\\text{whether}}\\,\\,{\\text{_________}}\\,\\,{\\text{appears}}\\,\\,{\\text{in}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "(b)\\,\\,\\,\\cos 2\\theta",
+            "{\\text{(d)}}\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{or}}\\,\\,{\\text{(b)}}{\\text{.}}",
+            "(a)\\,\\,\\,\\sin 2\\theta",
+            "(c)\\,\\,\\,\\tan \\theta"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72026,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "$${{\\text{In polar coordinate system, x -  axis is also called}}}$$",
+        "op": [
+            "$${{\\text{None of these}}}$$",
+            "$${{\\text{Polar axis}}}$$",
+            "$${{\\text{Imaginary axis}}}$$",
+            "$${{\\text{Pole}}}$$"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72032,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "{\\text{After}}\\,\\,{\\text{reversing}}\\,\\,{\\text{the}}\\,\\,{\\text{order}}\\,{\\text{of}}\\,\\,{\\text{limits}}\\,\\,{\\text{of}}\\,\\,\\int\\limits_0^{\\frac{1}{2}} {\\int\\limits_{2x}^1 {{e^{{y^2}}}dy\\,dx,\\,} } \\,{\\text{we}}\\,\\,{\\text{get}}\\,\\,{\\text{___________}}{\\text{.}}",
+        "op": [
+            "\\,\\int\\limits_0^1 {\\int\\limits_{\\frac{1}{2}}^{2x} {{e^{{y^2}}}dx\\,dy\\,\\,} }",
+            "\\,\\int\\limits_0^1 {\\int\\limits_{2x}^{\\frac{1}{2}} {{e^{{y^2}}}dx\\,dy\\,\\,} }",
+            "\\,\\int\\limits_0^1 {\\int\\limits_{\\frac{y}{2}}^0 {{e^{{y^2}}}dx\\,dy\\,\\,} }",
+            "\\,\\int\\limits_0^1 {\\int\\limits_0^{\\frac{y}{2}} {{e^{{y^2}}}dx\\,dy\\,\\,} }"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72033,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The\\,point\\,(\\,\\,3,\\,\\,{189^0}\\,\\,)\\,\\,{\\text{and the point - - - - - - - - - - - - - - }}\\,{\\text{are the same in polar system}}{\\text{.}}",
+        "op": [
+            "(\\,\\, - 3,\\,\\,{9^0}\\,\\,)",
+            "(\\,\\,3,\\,\\,{99^0}\\,)",
+            "( - 3,\\,\\,{279^0}\\,\\,)",
+            "(\\,\\, - 3,\\,\\,{189^0}\\,\\,)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72040,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\[\\begin{gathered} {\\text{The}}\\,\\,{\\text{lemniscates}}\\,\\,{\\text{are}}\\,\\,{\\text{centered}}\\,\\,{\\text{at}}\\,\\,{\\text{the}}\\,\\,{\\text{origin,}}\\,\\,{\\text{but}}\\,\\,{\\text{the}}\\,\\,{\\text{position}}\\,\\,{\\text{relative}}\\,\\,{\\text{to}}\\,{\\text{the}}\\,\\,{\\text{polar}}\\,\\,{\\text{axis}}\\,\\, \\hfill \\\\ {\\text{depends}}\\,\\,{\\text{on}}\\,\\,{\\text{the}}\\,\\,{\\text{sign}}\\,\\,{\\text{preceding}}\\,\\,{\\text{the}}\\,\\,{a^2}\\,\\,{\\text{and}}\\,\\,{\\text{whether}}\\,\\,{\\text{_________}}\\,\\,{\\text{appears}}\\,\\,{\\text{in}}\\,\\,{\\text{the}}\\,\\,{\\text{equation}}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[(a)\\,\\,\\,\\sin 2\\theta \\]",
+            "\\[(b)\\,\\,\\,\\cos 2\\theta \\]",
+            "\\[{\\text{(d)}}\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{or}}\\,\\,{\\text{(b)}}{\\text{.}}\\]",
+            "\\[(c)\\,\\,\\,\\tan \\theta \\]"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72166,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{The graph of the equation }}r\\, = \\,a(1 - \\cos \\,\\theta ){\\text{ is symmetric about - - - - - - - - - }}{\\text{.}}\\]",
+        "op": [
+            "\\[{\\text{None of these}}{\\text{.}}\\]",
+            "\\[{\\text{pole}}\\]",
+            "\\[{\\text{initial line}}\\]",
+            "\\[{\\text{y - axis}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72167,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{In polar coordinate system, the equation }}r\\, = \\,a{\\text{ represents a circle with center at}}\\,{\\text{ - - - - - - - }}{\\text{.}}",
+        "op": [
+            "{\\text{None of these}}{\\text{.}}",
+            "{\\text{Origin}}",
+            "x - {\\text{axis}}\\,\\,{\\text{and passes through the origin}}{\\text{.}}",
+            "y - {\\text{axis}}\\,\\,{\\text{and passes through the origin}}{\\text{.}}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72378,
+        "cc": "MTH201",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{Let G be the rectangular box defined by the inequalities }}a \\leqslant x \\leqslant b,\\,\\,\\,c \\leqslant y \\leqslant d,\\,\\,\\,\\,\\,e \\leqslant z \\leqslant f. \\hfill \\ {\\text{If }}f\\,\\,{\\text{is continuous on G, then}}\\,\\,\\int\\limits_a^b {\\int\\limits_c^d {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dy\\,\\,dx = \\,\\,\\, - - - - - - - - \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{All}}\\,{\\text{three}}\\,{\\text{options}}\\,{\\text{are}}\\,{\\text{true}}{\\text{.}}",
+            "\\int\\limits_a^b {\\int\\limits_e^f {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dz\\,\\,dx",
+            "\\int\\limits_e^f {\\int\\limits_a^b {\\int\\limits_c^d {f(x,\\,\\,y,\\,\\,z)} } } \\,dy\\,\\,dx\\,\\,dz",
+            "\\int\\limits_c^d {\\int\\limits_a^b {\\int\\limits_e^f {f(x,\\,\\,y,\\,\\,z)} } } \\,dz\\,\\,dx\\,\\,dy\\,"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 73123,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{If}}\\,\\,Pdx + Qdy + Rdw\\,\\,{\\text{is}}\\,\\,{\\text{an}}\\,\\,{\\text{exact}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}}\\,\\,{\\text{then}}\\,\\,\\oint\\limits_C {\\left( {Pdx + Qdy + Rdw} \\right)} \\,\\,{\\text{is}}\\,\\,{\\text{__________}}{\\text{.}}\\,\\,",
+        "op": [
+            "- 1",
+            "{\\text{infinite}}",
+            "{\\text{finite}}",
+            "{\\text{zero}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73134,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "If a vector field F(r) exist for all points of the curve C, then we can form -----------------F for each element of arc.",
+        "op": [
+            "vector Field",
+            "scalar field"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73135,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\begin{gathered} {\\text{If}}\\,\\,{\\text{a}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_\\,\\,V(r)\\,\\,{\\text{exists}}\\,\\,{\\text{for}}\\,\\,{\\text{all}}\\,\\,{\\text{points}}\\,\\,{\\text{on}}\\,\\,{\\text{the}}\\,{\\text{curve,}}\\,\\,{\\text{then}}\\,\\,\\sum\\limits_{p = 1}^n {V(r)\\,d{r_p}} \\,\\,{\\text{with}}\\,\\,dr \\to 0\\,\\,{\\text{defines}}\\,\\, \\hfill \\\\ {\\text{the}}\\,\\,{\\text{line}}\\,\\,{\\text{integral}}\\,\\,{\\text{of}}\\,\\,V\\,\\,{\\text{i}}{\\text{.e}}{\\text{.}}\\,\\,{\\text{line}}\\,\\,{\\text{integral}} = \\int\\limits_C {V(r)\\,dr.} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{scalar}}\\,\\,{\\text{field}}",
+            "{\\text{vector}}\\,\\,{\\text{quantity}}",
+            "{\\text{vector}}\\,\\,{\\text{field}}",
+            "{\\text{vector}}\\,\\,{\\text{space}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73171,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The differential dz of the function \\[z = {x^2} + {y^2}\\] is ------------",
+        "op": [
+            "\\[dz = (2x + 2y)dz\\]",
+            "\\[dz = 2dx + 2dy\\]",
+            "\\[dz = 2xdx + 2ydy\\]",
+            "\\[dz = 2x + 2y\\]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73192,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\begin{gathered} {\\text{The}} ~ {\\text{graph}}~ {\\text{of}} ~ \\hfill \\ {\\text{r = (1 + t)}} {\\text{i + ( - 2}} {\\text{ + }} {\\text{3t)}} {\\text{j - 4t}} {\\text{k}} ~ \\hfill \\ {\\text{is}} ~{\\text{the}}~ \\hfill \\\\ \\end{gathered} ",
+        "op": [
+            "line that passes through the point (2, 1, -4)",
+            "line that passes through the point (1, 3, -4)",
+            "line that passes through the point (1, -2, 0).",
+            "None of these"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73193,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{The}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation,}}\\,\\,dz{\\kern 1pt} = {\\kern 1pt} 4xy{\\kern 1pt} dx{\\kern 1pt} {\\kern 1pt} + {\\kern 1pt} {\\kern 1pt} \\left( {2{x^2} + 3{y^2}} \\right){\\kern 1pt} dy,\\,\\,{\\text{is}}\\,\\,{\\kern 1pt} {\\text{an exact differential equation}}{\\text{.}}",
+        "op": [
+            "{\\text{False}}",
+            "{\\text{True}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73198,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{To}}\\,\\,{\\text{evaluate}}\\,\\,{\\text{the}}\\,\\,{\\text{line}}\\,\\,{\\text{integral,}}\\,\\,\\int\\limits_C {V(r)\\,dr\\,{\\text{,}}\\,\\,{\\text{the}}\\,\\,{\\text{integrand}}\\,\\,{\\text{is}}\\,\\,{\\text{expressed}}\\,\\,{\\text{in}}\\,\\,{\\text{terms}}\\,\\,{\\text{of}}\\,\\,x,\\,\\,y,\\,\\,z\\,\\,{\\text{with}}\\,\\,d\\vec r = \\_\\_\\_\\_\\_\\_\\_\\_\\_.}",
+        "op": [
+            "dx\\,\\hat i + dy\\,\\hat j",
+            "dx\\,\\hat i",
+            "dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k",
+            "\\sqrt {dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73253,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{The}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation,}}\\,\\,dz{\\kern 1pt} = {\\kern 1pt} 4xy{\\kern 1pt} dx{\\kern 1pt} {\\kern 1pt} + {\\kern 1pt} {\\kern 1pt} \\left( {2{x^2} + 3{y^2}} \\right){\\kern 1pt} dy,\\,\\,{\\text{is}}\\,\\,{\\kern 1pt} {\\text{an exact differential equation}}{\\text{.}}\\]",
+        "op": [
+            "\\[{\\text{False}}\\]",
+            "\\[{\\text{True}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73254,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{If}}\\,\\,\\vec F = {F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k\\,\\,{\\text{and}}\\,\\,d\\vec r = dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k.\\,\\,{\\text{Then,}}\\,\\,\\vec F.d\\vec r = \\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+        "op": [
+            "\\[(b)\\,\\,\\,\\,\\,\\,\\int\\limits_C {\\left( {{F_1}\\,dx + {F_2}\\,dy + {F_3}\\,dz} \\right)} \\]",
+            "\\[(d)\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{and}}\\,\\,{\\text{(b)}}{\\text{.}}\\]",
+            "\\[(a)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right).\\left( {dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k} \\right)\\]",
+            "\\[(c)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73355,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{The}}~ {\\text{graph}}~ {\\text{of}}~ \\hfill \\ {\\text{r = (1 + t)}} {\\text{i + ( - }} {\\text{3t)}} {\\text{j + }} {\\text{(2 + 4t)}} {\\text{k}} \\hfill \\ ~{\\text{is}}~ {\\text{the}} \\hfill \\\\ \\end{gathered} ",
+        "op": [
+            "line parallel to the vector {\\text{ i - 3j + 4k}}",
+            "line parallel to the vector {\\text{ i + 2k}}",
+            "line Perpendicular to the vector {\\text{ i - 3j + 4k}}",
+            "line Perpendicular to the vector {\\text{ i + 2k}}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73356,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "\\begin{gathered} {\\text{If}}\\,\\,Pdx + Qdy + Rdw\\,\\,{\\text{is}}\\,\\,{\\text{an}}\\,\\,{\\text{exact}}\\,\\,{\\text{differential}}\\,\\,{\\text{equation}}\\,\\,{\\text{then}}\\,\\,\\int\\limits_C {\\left( {Pdx + Qdy + Rdw} \\right)\\,\\,{\\text{is}}} {\\text{__________}}\\,\\,{\\text{of}} \\hfill \\\\\\ {\\text{the}}\\,\\,{\\text{path}}\\,\\,{\\text{of}}\\,\\,{\\text{integration}}\\,{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}",
+        "op": [
+            "{\\text{independent}}",
+            "{\\text{dependent}}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73531,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "08 January 2026",
+        "qt": "{\\text{If}}\\,\\,\\vec F = {F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k\\,\\,{\\text{and}}\\,\\,d\\vec r = dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k.\\,\\,{\\text{Then,}}\\,\\,\\vec F.d\\vec r = \\_\\_\\_\\_\\_\\_\\_\\_.",
+        "op": [
+            "(a)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right).\\left( {dx\\,\\hat i + dy\\,\\hat j + dz\\,\\hat k} \\right)",
+            "(b)\\,\\,\\,\\,\\,\\,\\int\\limits_C {\\left( {{F_1}\\,dx + {F_2}\\,dy + {F_3}\\,dz} \\right)}",
+            "(d)\\,\\,\\,\\,\\,\\,{\\text{Both}}\\,\\,{\\text{(a)}}\\,\\,{\\text{and}}\\,\\,{\\text{(b)}}{\\text{.}}",
+            "(c)\\,\\,\\,\\,\\,\\,\\left( {{F_1}\\,\\hat i + {F_2}\\,\\hat j + {F_3}\\,\\hat k} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:34.968154+00:00"
+    },
+    {
+        "id": 73532,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "08 January 2026",
+        "qt": "The line integral \\int\\limits_C {V(r)dr} representing the area of the --------- surface between the end points of the curve.",
+        "op": [
+            "smooth",
+            "curved",
+            "plane",
+            "none of these"
+        ],
+        "created_at": "2026-07-15T13:35:34.968154+00:00"
+    },
+    {
+        "id": 73533,
+        "cc": "MTH201",
+        "qn": "4",
+        "dt": "08 January 2026",
+        "qt": "If z = f(x, y) and dz = Pdx + Qdy then dz is exact differential when ----------",
+        "op": [
+            "P = Q",
+            "\\frac{{\\partial P}}{{\\partial x}} = \\frac{{\\partial Q}}{{\\partial y}}",
+            "\\frac{{{\\partial ^2}P}}{{\\partial x\\partial y}} = \\frac{{{\\partial ^2}Q}}{{\\partial x\\partial y}}",
+            "\\frac{{\\partial P}}{{\\partial y}} = \\frac{{\\partial Q}}{{\\partial x}}"
+        ],
+        "created_at": "2026-07-15T13:35:34.968154+00:00"
+    }
+]

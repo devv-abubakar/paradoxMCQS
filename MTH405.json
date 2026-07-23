@@ -1,0 +1,1802 @@
+[
+{
+    "id": 28931,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If d is a usual(natural) metric on R, then d(1,1)= ----------.",
+    "op": [
+        "2",
+        "1",
+        "0.5",
+        "0"
+    ],
+    "created_at": "2026-06-30T04:50:27.146816+00:00"
+},
+{
+    "id": 28932,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If$${d_0}$$ is a discrete metric on R, then$${d_0}( - 2, - 2) + {d_0}( - 2,2) = - - - - - .$$",
+    "op": [
+        "2",
+        "0",
+        "1",
+        "-1"
+    ],
+    "created_at": "2026-06-30T04:50:38.986446+00:00"
+},
+{
+    "id": 28935,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$$In{\\text{ }}a{\\text{ }}metric{\\text{ }}space{\\text{ }}(X,d),{\\text{ }}the{\\text{ }}triangle{\\text{ }}inequality{\\text{ }}states{\\text{ }}that{\\text{ }}for{\\text{ }}any{\\text{ }}points{\\text{ }}a,b,c \\in X:$$",
+    "op": [
+        "$$d(a,c) \\leqslant d(a,b) + d(b,c)$$",
+        "$$d(a,b) \\geqslant d(b,c)$$",
+        "$$d(a,b) \\leqslant d(b,c)$$",
+        "$$d(a,c) = d(a,b) + d(b,c)$$"
+    ],
+    "created_at": "2026-06-30T04:50:50.765246+00:00"
+},
+{
+    "id": 28936,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If d is a usual metric on R, then d(-1,1)= ----------.",
+    "op": [
+        "-1",
+        "2",
+        "1",
+        "-2"
+    ],
+    "created_at": "2026-06-30T04:50:59.298859+00:00"
+},
+{
+    "id": 28938,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{Determine if }}d\\left( {x,y} \\right) = \\frac{{\\mid x - y\\mid }}{{1 + \\mid x - y\\mid }}{\\text{ is a metric on R?}}$$",
+    "op": [
+        "$${\\text{No}}$$",
+        "$${\\text{Yes}}$$"
+    ],
+    "created_at": "2026-06-30T04:51:09.754491+00:00"
+},
+{
+    "id": 28943,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{If }}d\\left( {a,b} \\right) = \\mid a - b\\mid {\\text{defines a metric on R, which of the following points are at distance 3 from the point 2?}}$$",
+    "op": [
+        "$${\\text{ - 1 and 4}}$$",
+        "$${\\text{1 and - 4}}$$",
+        "$${\\text{2 and 5}}$$",
+        "$${\\text{ - 4 and 4}}$$"
+    ],
+    "created_at": "2026-06-30T04:51:50.286604+00:00"
+},
+{
+    "id": 28952,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{What is the distance between the points }}\\left( {{\\text{1,2}}} \\right){\\text{ and }}\\left( {4,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}}$$",
+    "op": [
+        "6",
+        "7",
+        "8",
+        "5"
+    ],
+    "created_at": "2026-06-30T04:52:37.157663+00:00"
+},
+{
+    "id": 29202,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{What is the distance between the points }}\\left( {{\\text{1,3}}} \\right){\\text{ and }}\\left( {5,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}}$$",
+    "op": [
+        "7",
+        "8",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-06-30T06:02:25.504308+00:00"
+},
+{
+    "id": 29205,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{In }}{{\\text{R}}^5}{\\text{, the taxicab distance between points }}\\left( {1,2,0,3,4} \\right){\\text{ and}}\\left( {0,4,1,5,6} \\right){\\text{ is:}}$$",
+    "op": [
+        "8",
+        "7",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-06-30T06:02:49.746778+00:00"
+},
+{
+    "id": 29208,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If$${d_0}$$ is a discrete metric on R then $${d_0}( - 2,2) = - - - - - .$$",
+    "op": [
+        "1",
+        "2",
+        "0",
+        "-1"
+    ],
+    "created_at": "2026-06-30T06:03:08.503892+00:00"
+},
+{
+    "id": 29211,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Euclidean metric on R is defined by …………",
+    "op": [
+        "$$d(x,y) = \\left| x \\right| - \\left| y \\right|$$",
+        "$$d(x,y) = \\sqrt {\\left| {x - y} \\right|}$$",
+        "$$d(x,y) = \\left| {x - y} \\right|$$",
+        "$$d(x,y) = \\left| x \\right| + \\left| y \\right|$$"
+    ],
+    "created_at": "2026-06-30T06:03:25.610281+00:00"
+},
+{
+    "id": 29218,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Triangular inequality states that length of one side of a triangle is…………… than the sum of the length of other two sides.",
+    "op": [
+        "less",
+        "greater"
+    ],
+    "created_at": "2026-06-30T06:04:09.634955+00:00"
+},
+{
+    "id": 29225,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If d is a metric on R defined by$$d(x,y) = \\left| x \\right| + \\left| y \\right|$$ and d(x,y)=1, then ---------.",
+    "op": [
+        "x=y=1",
+        "No conclusion",
+        "x=0 and y=1",
+        "x=1 and y=0"
+    ],
+    "created_at": "2026-06-30T06:05:08.235111+00:00"
+},
+{
+    "id": 29228,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{For points }}\\left( {{x_1},{y_1}} \\right){\\text{and }}\\left( {{x_2},{y_2}} \\right){\\text{, the taxicab distance on }}{R^2}{\\text{ is given by:}}$$",
+    "op": [
+        "$$\\mid {x_1} - {x_2}\\mid - \\mid {y_1} - {y_2}\\mid$$",
+        "$$\\mid {x_1} + {x_2}\\mid - \\mid {y_1} + {y_2}\\mid$$",
+        "$$\\mid {x_1} + {x_2}\\mid + \\mid {y_1} + {y_2}\\mid$$",
+        "$$\\mid {x_1} - {x_2}\\mid + \\mid {y_1} - {y_2}\\mid$$"
+    ],
+    "created_at": "2026-06-30T06:05:40.575523+00:00"
+},
+{
+    "id": 29231,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$$Which{\\text{ }}of{\\text{ }}the{\\text{ }}following{\\text{ }}is{\\text{ }}an{\\text{ }}example{\\text{ }}of{\\text{ }}a{\\text{ }}metric{\\text{ }}space?$$",
+    "op": [
+        "$$The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}integers{\\text{ }}with{\\text{ }}the{\\text{ }}usual{\\text{ }}addition.$$",
+        "$$The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}real{\\text{ }}numbers{\\text{ }}with{\\text{ }}the{\\text{ }}Euclidean{\\text{ }}distance{\\text{ }}d\\left( {a,b} \\right) = \\mid a - b\\mid .$$",
+        "$$The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}complex{\\text{ }}numbers{\\text{ }}with{\\text{ }}the{\\text{ }}operation{\\text{ }}of{\\text{ }}multiplication.$$",
+        "$$The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}positive{\\text{ }}integers{\\text{ }}with{\\text{ }}the{\\text{ }}function{\\text{ }}d\\left( {a,b} \\right) = a + b.$$"
+    ],
+    "created_at": "2026-06-30T06:06:01.513646+00:00"
+},
+{
+    "id": 29462,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "For the distance function $$d(x,z) = \\left| {x - z} \\right|$$in (R,d), $$d(x,z) \\geqslant 0$$",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-30T06:55:54.19553+00:00"
+},
+{
+    "id": 29463,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Set of real numbers with distance function d(x,y)=|x-y| satisfy the reflexive property.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-30T06:56:01.152618+00:00"
+},
+{
+    "id": 29464,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{Which of the following functions is a metric on R?}}$$",
+    "op": [
+        "$$d\\left( {x,y} \\right) = \\mid x + y{\\mid ^2}$$",
+        "$$d\\left( {x,y} \\right) = \\mid x + y\\mid$$",
+        "$$d\\left( {x,y} \\right) = \\mid x\\left| + \\right|y\\mid$$",
+        "$$d\\left( {x,y} \\right) = \\sqrt {\\mid x - y\\mid }$$"
+    ],
+    "created_at": "2026-06-30T06:56:36.940327+00:00"
+},
+{
+    "id": 29465,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Set of real numbers with distance function d(x,y)=|x-y| satisfy the symmetric property.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-30T06:56:54.743271+00:00"
+},
+{
+    "id": 29786,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "Symmetric property states that for all real numbers x and y --------- .",
+    "op": [
+        "$$d(x,y) \\geqslant d(y,x)$$",
+        "$$d(x,y) \\leqslant d(y,x)$$",
+        "$$d(x,y) = d(y,x)$$",
+        "$$d(x,y) = 0$$"
+    ],
+    "created_at": "2026-06-30T08:23:33.543883+00:00"
+},
+{
+    "id": 29873,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If d is a metric on R defined by$$d(x,y) = \\left| x \\right| + \\left| y \\right|$$ , then d(-2,0)=---------.",
+    "op": [
+        "-2",
+        "0",
+        "-0.50",
+        "2"
+    ],
+    "created_at": "2026-06-30T09:10:24.97439+00:00"
+},
+{
+    "id": 29877,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{Which of the following functions is usual or Eucledian metric on }}{R^2}{\\text{ for points }}{P_1} = \\left( {{x_1},{y_1}} \\right){\\text{ and }}{P_2} = \\left( {{x_2},{y_2}} \\right){\\text{?}}$$",
+    "op": [
+        "$$d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}{\\mid ^2} + \\mid {y_1} - {y_2}{\\mid ^2}}$$",
+        "$$d\\left( {{P_1},{P_2}} \\right) = \\sqrt {{{({x_1} - {x_2})}^2} + {{({y_1} - {y_2})}^2}}$$",
+        "$$d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}{\\mid ^2} - \\mid {y_1} - {y_2}{\\mid ^2}}$$",
+        "$$d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}\\mid + \\mid {y_1} - {y_2}\\mid }$$"
+    ],
+    "created_at": "2026-06-30T09:11:43.894204+00:00"
+},
+{
+    "id": 29878,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "For the distance function $$d(x,y) = \\sqrt {\\left| {x - y} \\right|}$$ in R ,$$d(1,\\frac{1}{2})$$ =-----------.",
+    "op": [
+        "2",
+        "$$\\frac{1}{{\\sqrt 2 }}$$",
+        "1",
+        "$$\\sqrt 2$$"
+    ],
+    "created_at": "2026-06-30T09:12:07.120146+00:00"
+},
+{
+    "id": 29879,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{In }}{{\\text{R}}^4}{\\text{, the taxicab distance between points }}\\left( {1,2,3,4} \\right){\\text{ and}}\\left( {4,1,5,6} \\right){\\text{ is:}}$$",
+    "op": [
+        "7",
+        "5",
+        "8",
+        "6"
+    ],
+    "created_at": "2026-06-30T09:13:04.287746+00:00"
+},
+{
+    "id": 30053,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "$${\\text{Which of the following points is at a taxicab distance of 4 from the point }}\\left( {2,3} \\right) \\in {R^2}{\\text{?}}$$",
+    "op": [
+        "$$\\left( {{\\text{2,7}}} \\right)$$",
+        "$$\\left( {{\\text{0,0}}} \\right)$$",
+        "$$\\left( {{\\text{5,5}}} \\right)$$",
+        "$$\\left( {{\\text{0,2}}} \\right)$$"
+    ],
+    "created_at": "2026-06-30T10:31:35.865289+00:00"
+},
+{
+    "id": 30055,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If d is a usual(natural) metric on R, then  d(1,0.50)= ----------.",
+    "op": [
+        "1",
+        "1.50",
+        "-0.50",
+        "0.50"
+    ],
+    "created_at": "2026-06-30T10:31:59.641159+00:00"
+},
+{
+    "id": 30718,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "30 June 2026",
+    "qt": "If $${d_0}$$ is a discrete metric on R then $${d_0}( - 2, - 2) = - - - - - .$$",
+    "op": [
+        "0",
+        "-2",
+        "-1",
+        "1"
+    ],
+    "created_at": "2026-06-30T18:11:47.387864+00:00"
+},
+{
+    "id": 35988,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "$$\\begin{gathered} {\\text{Given the set }}X = \\{ 1,2,3\\} {\\text{ with the discrete metric defined by }}d(a,b) = 1{\\text{ if }}a \\ne b{\\text{ and }}d(a,a) = 0{\\text{, what is the distance between 1 and 3?}} \\hfill \\\\ \\hfill \\\\ \\end{gathered}$$",
+    "op": [
+        "2",
+        "1",
+        "0",
+        "3"
+    ],
+    "created_at": "2026-07-01T12:31:48.184978+00:00"
+},
+{
+    "id": 36434,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If d is a usual metric on$${\\mathbb{R}^2}$$ , then d((0,0),(-1,-1)) =-----------.",
+    "op": [
+        "0",
+        "2",
+        "1",
+        "$$\\sqrt 2$$"
+    ],
+    "created_at": "2026-07-01T17:24:25.701874+00:00"
+},
+{
+    "id": 52478,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dot product $\\overrightarrow u \\cdot \\overrightarrow v$ of two vectors $\\overrightarrow u$ and $\\overrightarrow v$ is given by----.",
+    "op": [
+        "$\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\csc \\theta$",
+        "$\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\cos \\theta$",
+        "$\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\tan \\theta$",
+        "$\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\sin \\theta$"
+    ],
+    "created_at": "2026-07-06T04:40:42.098227+00:00"
+},
+{
+    "id": 52480,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an example of bounded function?",
+    "op": [
+        "$${x^2}$$",
+        "$${\\log _{10}}x$$",
+        "Sin x",
+        "$${e^x}$$"
+    ],
+    "created_at": "2026-07-06T04:40:52.312753+00:00"
+},
+{
+    "id": 52482,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If$\\forall x \\in \\mathbb{R},$$\\left| x \\right| < - a,$ where $a < 0,$ then ----.",
+    "op": [
+        "$- a > x > a$",
+        "$- a < x < a$",
+        "$a < x < - a$",
+        "$- a > x < a$"
+    ],
+    "created_at": "2026-07-06T04:41:01.968778+00:00"
+},
+{
+    "id": 52486,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\forall x,y \\in \\mathbb{R},if\\,\\,\\min \\{ \\left| x \\right|,\\left| y \\right|\\} = 0,then - - - .$$",
+    "op": [
+        "x=0 and y=0",
+        "x=0",
+        "y=0",
+        "either x=0 or y=0"
+    ],
+    "created_at": "2026-07-06T04:41:35.635607+00:00"
+},
+{
+    "id": 52487,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If $x_1 ,x_2 , \\cdots ,x_n ,y_1 ,y_2 , \\cdots ,y_n \\in R$ , then which of the following is Cauchy-Schwarz inequality?",
+    "op": [
+        "$$\\left( {x_1 y_1 + x_2 y_2 + \\cdots + x_n y_n } \\right)^2 \\le \\left( {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\right)\\left( {y_1^2 + y_2^2 + \\cdots + y_n^2 } \\right)$$",
+        "$$\\sqrt {\\left( {x_1 + y_1 } \\right)^2 + \\left( {x_2 + y_2 } \\right)^2 + \\cdots + \\left( {x_n + y_n } \\right)^2 } \\le \\sqrt {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\sqrt {y_1^2 + y_2^2 + \\cdots + y_n^2 }$$"
+    ],
+    "created_at": "2026-07-06T04:41:50.526154+00:00"
+},
+{
+    "id": 52490,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Open set in R under usual metric space is ------.",
+    "op": [
+        "$\\left[ {0,1} \\right]$",
+        "$\\left\\{ 1 \\right\\}$",
+        "$\\left\\{ 0 \\right\\}$",
+        "$\\left] {0,1} \\right[$"
+    ],
+    "created_at": "2026-07-06T04:42:05.676528+00:00"
+},
+{
+    "id": 52492,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true about the bounded-ness of $f(x) = \\cos x$ ?",
+    "op": [
+        "$- 1 \\leqslant \\cos x \\leqslant 1$",
+        "$- 1 \\leqslant \\cos x \\leqslant 0$",
+        "$0 \\leqslant \\cos x \\leqslant 1$",
+        "$- \\frac{1}{2} \\leqslant \\cos x \\leqslant \\frac{1}{2}$"
+    ],
+    "created_at": "2026-07-06T04:42:21.080242+00:00"
+},
+{
+    "id": 52493,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In$R^2$ space under the usual metric space defined as $d\\left( {P_1 ,P_2 } \\right) = \\sqrt {\\left( {x_1 - x_2 } \\right)^2 + \\left( {y_1 - y_2 } \\right)^2 } ,\\,\\,\\forall P_1 \\left( {x_1 ,y_1 } \\right),P_2 \\left( {x_2 ,y_2 } \\right) \\in R^2 ,$ the open sphere is an open -----.",
+    "op": [
+        "disk",
+        "interval",
+        "circle",
+        "square"
+    ],
+    "created_at": "2026-07-06T04:42:31.806524+00:00"
+},
+{
+    "id": 52496,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\forall {a_k},{b_k} \\in \\mathbb{R},{\\left( {\\sum\\limits_{k = 1}^n {{a_k}{b_k}} } \\right)^2} - - - -$$",
+    "op": [
+        "$$\\leqslant \\left( {\\sum\\limits_{k = 1}^n {a_k^2} } \\right)\\left( {\\sum\\limits_{k = 1}^n {b_k^2} } \\right)$$",
+        "$$= \\left( {\\sum\\limits_{k = 1}^n {a_k^2} } \\right)\\left( {\\sum\\limits_{k = 1}^n {b_k^2} } \\right)$$",
+        "$$\\geqslant \\left( {\\sum\\limits_{k = 1}^n {a_k^2} } \\right)\\left( {\\sum\\limits_{k = 1}^n {b_k^2} } \\right)$$",
+        "$$= \\sum\\limits_{k = 1}^n {a_k^2b_k^2}$$"
+    ],
+    "created_at": "2026-07-06T04:42:42.127038+00:00"
+},
+{
+    "id": 52497,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If$$\\max \\{ \\left| {{x_i} - {y_i}} \\right|\\} = 0\\,\\,\\,$$ where $$1 \\leqslant i \\leqslant n,{x_i},{y_i} \\in \\mathbb{R},then\\,\\,{x_i} - - - {y_i}.$$",
+    "op": [
+        "$$\\leqslant$$",
+        "$$\\geqslant$$",
+        "=",
+        "$$\\ne$$"
+    ],
+    "created_at": "2026-07-06T04:42:58.517828+00:00"
+},
+{
+    "id": 53345,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\forall {a_k},{b_k} \\in \\mathbb{R},\\sqrt {\\sum\\limits_{k = 1}^n {{{\\left( {{a_k} + {b_k}} \\right)}^2}} } - - - -$$",
+    "op": [
+        "$\\geqslant \\sqrt {\\sum\\limits_{k = 1}^n {a_k^2} } + \\sqrt {\\sum\\limits_{k = 1}^n {b_k^2} }$",
+        "$= \\sum\\limits_{k = 1}^n {{a_k}} + \\sum\\limits_{k = 1}^n {{b_k}}$",
+        "$= \\sqrt {\\sum\\limits_{k = 1}^n {a_k^2} } + \\sqrt {\\sum\\limits_{k = 1}^n {b_k^2} }$",
+        "$\\leqslant \\sqrt {\\sum\\limits_{k = 1}^n {a_k^2} } + \\sqrt {\\sum\\limits_{k = 1}^n {b_k^2} }$"
+    ],
+    "created_at": "2026-07-06T06:59:32.407268+00:00"
+},
+{
+    "id": 53347,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If$${k_1},{k_2},...,{k_n} \\geqslant 0$$ , then$$max\\{ {k_i},1 \\leqslant i \\leqslant n,n \\in N\\} - - - 0.$$",
+    "op": [
+        "$$\\leqslant$$",
+        "$$\\ne$$",
+        "$$\\geqslant$$",
+        "="
+    ],
+    "created_at": "2026-07-06T06:59:43.408034+00:00"
+},
+{
+    "id": 53349,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\forall {x_1},{x_2},{x_3} \\in \\mathbb{R},if\\,\\left| {{x_1}} \\right| + \\left| {{x_2}\\,} \\right| + \\left| {{x_3}\\,} \\right| = 0,then - - - .$$",
+    "op": [
+        "$${x_2} = 0$$",
+        "$${x_3} = 0$$",
+        "$${x_1} = {x_2} = {x_3} = 0$$",
+        "$${x_1} = 0$$"
+    ],
+    "created_at": "2026-07-06T06:59:53.74681+00:00"
+},
+{
+    "id": 53351,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$l^1 :$the set of all sequences whose corresponding series: -------- converges.",
+    "op": [
+        "$\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{\\left| {x_i } \\right|}}}$",
+        "$\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{x_i }}}$",
+        "$\\sum\\limits_{i = 1}^\\infty {x_i }$",
+        "$\\sum\\limits_{i = 1}^\\infty {\\left| {x_i } \\right|}$"
+    ],
+    "created_at": "2026-07-06T07:00:06.676326+00:00"
+},
+{
+    "id": 53352,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an example of unbounded function?",
+    "op": [
+        "$f(x) = \\cos x$",
+        "$f(x) = \\sin x^2$",
+        "$f(x) = \\sin x\\cos x$",
+        "$f(x) = e^x$"
+    ],
+    "created_at": "2026-07-06T07:00:17.734972+00:00"
+},
+{
+    "id": 53355,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\forall \\,x,y \\in \\mathbb{R}, - - - - \\sqrt {\\left| x \\right|} + \\sqrt {\\left| y \\right|} \\,\\,.$$",
+    "op": [
+        "$$\\ne$$",
+        "$$\\geqslant$$",
+        "$$\\leqslant$$",
+        "="
+    ],
+    "created_at": "2026-07-06T07:00:45.891652+00:00"
+},
+{
+    "id": 53509,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For the distance function$$d(x,y) = \\sqrt {\\left| {x - y} \\right|}$$ in (R,d), d(x,y)=--------.",
+    "op": [
+        "$$d( - x,y)$$",
+        "$$d(\\frac{1}{x},\\frac{1}{y})$$",
+        "$$d(y,x)$$",
+        "$$d(x, - y)$$"
+    ],
+    "created_at": "2026-07-06T07:31:43.305308+00:00"
+},
+{
+    "id": 53511,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For the distance function$$d(x,y) = \\sqrt {\\left| {x - y} \\right|}$$ in (R,d), d(1,17)=--------.",
+    "op": [
+        "-4",
+        "16",
+        "-16",
+        "4"
+    ],
+    "created_at": "2026-07-06T07:31:57.217368+00:00"
+},
+{
+    "id": 53514,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A metric space$\\left( {X,d} \\right)$ is bounded if $\\exists \\,\\,M > 0,$ such that $d\\left( {x,y} \\right) - - - - M,\\forall x,y \\in X.$",
+    "op": [
+        "$\\ne$",
+        "=",
+        "$\\ge$",
+        "$\\le$"
+    ],
+    "created_at": "2026-07-06T07:32:45.518336+00:00"
+},
+{
+    "id": 53515,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If$\\forall x \\in \\mathbb{R},$$\\left| x \\right| > - a,$ where $a < 0,$ then ----.",
+    "op": [
+        "$x < a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a$",
+        "$x < a\\,\\,\\,\\,{\\text{and}}\\,\\,\\,x > a$",
+        "$x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > a$",
+        "$x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a$"
+    ],
+    "created_at": "2026-07-06T07:32:59.637837+00:00"
+},
+{
+    "id": 53523,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$$\\max \\{ {x_1} + {y_1},{x_2} + {y_2}\\} - - - \\max \\{ {x_1} + {x_2}\\} + \\max \\{ {y_1} + {y_2}\\}$$",
+    "op": [
+        "$$\\leqslant$$",
+        "$$\\ne$$",
+        "=",
+        "$$\\geqslant$$"
+    ],
+    "created_at": "2026-07-06T07:33:26.983969+00:00"
+},
+{
+    "id": 53531,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If $x_1 ,x_2 , \\cdots ,x_n ,y_1 ,y_2 , \\cdots ,y_n \\in R$ , then which of the following is Minkoski’s inequality?",
+    "op": [
+        "$$\\sqrt {\\left( {x_1 + y_1 } \\right)^2 + \\left( {x_2 + y_2 } \\right)^2 + \\cdots + \\left( {x_n + y_n } \\right)^2 } \\le \\sqrt {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\sqrt {y_1^2 + y_2^2 + \\cdots + y_n^2 }$$",
+        "$$\\left( {x_1 y_1 + x_2 y_2 + \\cdots + x_n y_n } \\right)^2 \\le \\left( {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\right)\\left( {y_1^2 + y_2^2 + \\cdots + y_n^2 } \\right)$$"
+    ],
+    "created_at": "2026-07-06T07:34:13.732124+00:00"
+},
+{
+    "id": 54260,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "$\\left] {0,1} \\right[$ in$\\mathbb{R}$ under usual metric space is an example of -------.",
+    "op": [
+        "open interval",
+        "open set",
+        "open sphere",
+        "all choices are equivalent"
+    ],
+    "created_at": "2026-07-06T14:08:17.94123+00:00"
+},
+{
+    "id": 54261,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If$\\forall x \\in \\mathbb{R},$$\\left| x \\right| > - a,$ where $a > 0,$ then ----.",
+    "op": [
+        "$x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > a$",
+        "$x < a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a$",
+        "$- \\infty < x < a$",
+        "$- \\infty < x < \\infty$"
+    ],
+    "created_at": "2026-07-06T14:08:36.935742+00:00"
+},
+{
+    "id": 54262,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If $\\forall x \\in \\mathbb{R},$ $\\left| x \\right| < - a,$where $a > 0,$ then ---.",
+    "op": [
+        "$- a > x < a$",
+        "$- a < x < a$",
+        "$- a > x > a$",
+        "None of these"
+    ],
+    "created_at": "2026-07-06T14:09:03.594863+00:00"
+},
+{
+    "id": 54491,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If f(x)=1 and g(x)=2 , then the distance as defined by $$d(f,g) = \\int\\limits_0^1 {\\left| {f(x) - g(x)} \\right|} dx = - - - - .$$",
+    "op": [
+        "0",
+        "1",
+        "-1",
+        "2"
+    ],
+    "created_at": "2026-07-06T17:45:20.900272+00:00"
+},
+{
+    "id": 56146,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Which of the following is true about an open sphere $S_r \\left( {x_0 } \\right)$ with center at $x_0$ in a metric space$\\left( {X,d} \\right)$ ?",
+    "op": [
+        "$S_r \\left( {x_0 } \\right) \\subset \\varphi$",
+        "$S_r \\left( {x_0 } \\right) \\ne \\varphi$",
+        "$S_r \\left( {x_0 } \\right) = \\varphi$",
+        "$X \\subset S_r \\left( {x_0 } \\right)$"
+    ],
+    "created_at": "2026-07-07T06:41:32.791496+00:00"
+},
+{
+    "id": 56423,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "Supremum of open interval$$(0,1)$$in R is-----.",
+    "op": [
+        "1",
+        "$$+ \\infty$$",
+        "Not defined",
+        "0"
+    ],
+    "created_at": "2026-07-07T09:15:01.326345+00:00"
+},
+{
+    "id": 56667,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If $\\overrightarrow u = \\left( \\begin{array}{l} u_1 \\\\\\\\ u_2 \\\\\\\\ \\end{array} \\right)$ and $\\overrightarrow v = \\left( \\begin{array}{l} v_1 \\\\\\\\ v_2 \\\\\\\\ \\end{array} \\right)$ , then their dot product is given by;",
+    "op": [
+        "$u_1 v_1 + u_2 v_2$",
+        "$\\sqrt {u_1 ^2 + u_2 ^2 } \\sqrt {v_1 ^2 + v_2 ^2 }$",
+        "$u_1 v_2 - u_2 v_1$",
+        "$\\sqrt {u_1 ^2 - u_2 ^2 } \\sqrt {v_1 ^2 - v_2 ^2 }$"
+    ],
+    "created_at": "2026-07-07T12:18:37.535844+00:00"
+},
+{
+    "id": 56688,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "07 July 2026",
+    "qt": "If $$\\left| {{a^2} - {b^2}} \\right| = 0$$ , then b=------.",
+    "op": [
+        "-a",
+        "0",
+        "$$\\pm a$$",
+        "a"
+    ],
+    "created_at": "2026-07-07T12:35:31.115641+00:00"
+},
+{
+    "id": 71983,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{\\text{Which of the following points is at a taxicab distance of 4 from the point }}\\left( {2,3} \\right) \\in {R^2}{\\text{?}} ",
+    "op": [
+        "\\left( {{\\text{0,0}}} \\right)",
+        "\\left( {{\\text{2,7}}} \\right)",
+        "\\left( {{\\text{5,5}}} \\right)",
+        "\\left( {{\\text{0,2}}} \\right)"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71984,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of (4  5)  is  ----------",
+    "op": [
+        "1",
+        "2",
+        "4",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71985,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of (1  2  3) (4  5  6)   is _________.",
+    "op": [
+        "4",
+        "2",
+        "5",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71986,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The product of two even permutations is an even permutation.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71987,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{{\\text{In }}{{\\text{R}}^3}{\\text{, the taxicab distance between points }}\\left( {1,2,3} \\right){\\text{ and}}\\left( {4,1,5} \\right){\\text{ is:}}}\\] ",
+    "op": [
+        "7",
+        "6",
+        "8",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71988,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of (1  4  5) (2  3) is __________.",
+    "op": [
+        "4",
+        "3",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71989,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The permutation (1  3)(1  2)is an even permutation.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71990,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of the cyclic permutation (1 2 3) is ----------",
+    "op": [
+        "3",
+        "1",
+        "4",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71991,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The permutation (1  2)(1  3)(1  4) is an even permutation.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72005,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{{\\text{What is the taxicab distance between the points }}\\left( {{\\text{1,2}}} \\right){\\text{ and }}\\left( {4,6} \\right){\\text{ in }}{R^2}{\\text{?}}}\\] ",
+    "op": [
+        "8",
+        "5",
+        "6",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72006,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{{\\text{For points }}\\left( {{x_1},{x_2}, \\ldots ,{x_n}} \\right){\\text{ and }}\\left( {{y_1},{y_2}, \\ldots ,{y_n}} \\right){\\text{ in }}{R^n}{\\text{, the taxicab distance is given by:}}} ",
+    "op": [
+        "{max_{i = 1}^n\\mid {x_i} - {y_i}}",
+        "\\sum\\limits_{i = 1}^n {{{({x_i} - {y_i})}^2}}",
+        "{\\sum\\limits_{i = 1}^n {({x_i} - {y_i})} }",
+        "{\\sum\\limits_{i = 1}^n {\\mid {x_i} - {y_i}} \\mid }"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72007,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[\\begin{gathered} {\\text{Given the set }}X = \\{ 1,2,3\\} {\\text{ with the discrete metric defined by }}d(a,b) = 1{\\text{ if }}a \\ne b{\\text{ and }}d(a,a) = 0{\\text{, what is the distance between 1 and 3?}} \\hfill \\\\ \\hfill \\\\  \\end{gathered} \\] ",
+    "op": [
+        "3",
+        "1",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72008,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of the cyclic permutation (1  2  3  4  5  6  7)  is   -----------------",
+    "op": [
+        "8",
+        "5",
+        "6",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72009,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{\\text{Which of the following points is at a taxicab distance of 4 from the point }}\\left( {2,3} \\right) \\in {R^2}{\\text{?}}\\] ",
+    "op": [
+        "\\[\\left( {{\\text{5,5}}} \\right)\\]",
+        "\\[\\left( {{\\text{2,7}}} \\right)\\]",
+        "\\[\\left( {{\\text{0,2}}} \\right)\\]",
+        "\\[\\left( {{\\text{0,0}}} \\right)\\]"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72010,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{\\text{If }}d\\left( {a,b} \\right) = \\mid a - b\\mid {\\text{defines a metric on R, which of the following points are at distance 3 from the point 2?}} ",
+    "op": [
+        "{\\text{2 and 5}}",
+        "{\\text{ - 4 and 4}}",
+        "{\\text{1 and - 4}}",
+        "{\\text{ - 1 and 4}}"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72027,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{{\\text{The points }}\\left( {{x_1},{x_2}, \\ldots ,{x_n}} \\right),\\left( {{y_1},{y_2}, \\ldots ,{y_n}} \\right) \\in {R^n}{\\text{ have a taxicab distance of 0 if:}}} ",
+    "op": [
+        "{x_i} = y{_i}{\\text{ }}for{\\text{ }}all{\\text{ }}i",
+        "{{x_i} = y{_i}{\\text{ }}for{\\text{ }}some{\\text{ }}i}"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72028,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{{\\text{What is the taxicab distance between the points }}\\left( {{\\text{1,2}}} \\right){\\text{ and }}\\left( {4,6} \\right){\\text{ in }}{R^2}{\\text{?}}} ",
+    "op": [
+        "6",
+        "7",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72029,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "For the distance function d(x,y) = \\sqrt {\\left| {x - y} \\right|} in R ,d(1,\\frac{1}{2}) =-----------.",
+    "op": [
+        "2",
+        "1",
+        "\\sqrt 2",
+        "\\frac{1}{{\\sqrt 2 }}"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72030,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{\\text{In }}{{\\text{R}}^5}{\\text{, the taxicab distance between points }}\\left( {1,2,0,3,4} \\right){\\text{ and}}\\left( {0,4,1,5,6} \\right){\\text{ is:}} ",
+    "op": [
+        "6",
+        "7",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72031,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\begin{gathered} {\\text{Given the set }}X = \\{ 1,2,3\\} {\\text{ with the discrete metric defined by }}d(a,b) = 1{\\text{ if }}a \\ne b{\\text{ and }}d(a,a) = 0{\\text{, what is the distance between 1 and 3?}} \\hfill \\\\ \\hfill \\\\ \\end{gathered} ",
+    "op": [
+        "2",
+        "3",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72034,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{{\\text{What is the taxicab distance between the points }}\\left( {{\\text{2,3}}} \\right){\\text{ and }}\\left( {{\\text{5,7}}} \\right){\\text{ in }}{R^2}{\\text{?}}} ",
+    "op": [
+        "5",
+        "8",
+        "6",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72035,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{\\text{What is the distance between the points }}\\left( {{\\text{1,3}}} \\right){\\text{ and }}\\left( {5,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}}\\] ",
+    "op": [
+        "8",
+        "7",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72036,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "\\[{\\text{In }}{{\\text{R}}^4}{\\text{, the taxicab distance between points }}\\left( {1,2,3,4} \\right){\\text{ and}}\\left( {4,1,5,6} \\right){\\text{ is:}}\\] ",
+    "op": [
+        "7",
+        "8",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72037,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The order of (a b c) is ----------",
+    "op": [
+        "2",
+        "4",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72038,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "{{\\text{In }}{{\\text{R}}^3}{\\text{, the taxicab distance between points }}\\left( {1,2,3} \\right){\\text{ and}}\\left( {4,1,5} \\right){\\text{ is:}}} ",
+    "op": [
+        "6",
+        "5",
+        "8",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72039,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Let $\\alpha $ be a permutation such that ${\\alpha ^7}\\,\\, = \\,\\,I$ , then order of $\\alpha $ is ------------",
+    "op": [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72224,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[{{\\text{For points }}\\left( {{x_1},{x_2}, \\ldots ,{x_n}} \\right){\\text{ and }}\\left( {{y_1},{y_2}, \\ldots ,{y_n}} \\right){\\text{ in }}{R^n}{\\text{, the taxicab distance is given by:}}}\\] ",
+    "op": [
+        "\\[\\sum\\limits_{i = 1}^n {{{({x_i} - {y_i})}^2}} \\]",
+        "\\[{\\sum\\limits_{i = 1}^n {({x_i} - {y_i})} }\\]",
+        "\\[{\\sum\\limits_{i = 1}^n {\\mid {x_i} - {y_i}} \\mid }\\]",
+        "\\[{max_{i = 1}^n\\mid {x_i} - {y_i}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72227,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The product of  two odd permutations is an even permutation.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72228,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[Which{\\text{ }}of{\\text{ }}the{\\text{ }}following{\\text{ }}is{\\text{ }}an{\\text{ }}example{\\text{ }}of{\\text{ }}a{\\text{ }}metric{\\text{ }}space?\\] ",
+    "op": [
+        "\\[The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}integers{\\text{ }}with{\\text{ }}the{\\text{ }}usual{\\text{ }}addition.\\]",
+        "\\[The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}complex{\\text{ }}numbers{\\text{ }}with{\\text{ }}the{\\text{ }}operation{\\text{ }}of{\\text{ }}multiplication.\\]",
+        "\\[The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}real{\\text{ }}numbers{\\text{ }}with{\\text{ }}the{\\text{ }}Euclidean{\\text{ }}distance{\\text{ }}d\\left( {a,b} \\right) = \\mid a - b\\mid .\\]",
+        "\\[The{\\text{ }}set{\\text{ }}of{\\text{ }}all{\\text{ }}positive{\\text{ }}integers{\\text{ }}with{\\text{ }}the{\\text{ }}function{\\text{ }}d\\left( {a,b} \\right) = a + b.\\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72255,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The order of a transposition is  ----------",
+    "op": [
+        "3",
+        "2",
+        "4",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72257,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "{{\\text{Under the taxicab metric on }}{R^2}{\\text{, when is the distance between two points }}\\left( {{x_1},{y_1}} \\right){\\text{ and }}\\left( {{x_2},{y_2}} \\right){\\text{ equal to zero?}}} ",
+    "op": [
+        "{\\text{When }}{x_1} = y{_1}{\\text{ and }}{x_2} = {y_2}",
+        "{\\text{When }}{x_1} = {y_2}{\\text{ and }}{{\\text{x}}_1} = {y_2}",
+        "{\\text{When }}{x_1} = {x_2}{\\text{ and }}{y_1} = {y_2}",
+        "{\\text{None of these}}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72260,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "{\\text{In }}{{\\text{R}}^4}{\\text{, the taxicab distance between points }}\\left( {1,2,3,4} \\right){\\text{ and}}\\left( {4,1,5,6} \\right){\\text{ is:}} ",
+    "op": [
+        "8",
+        "7",
+        "5",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72285,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The permutation (a  b)(a  c)(a  d) is an even permutation.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72286,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The order of (1 2)(3 4) is   -----------------",
+    "op": [
+        "6",
+        "2",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72287,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "The order of the cyclic permutation (1 2 3 4 5)  is ----------",
+    "op": [
+        "2",
+        "6",
+        "3",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72288,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "{\\text{Which of the following functions is usual or Eucledian metric on }}{R^2}{\\text{ for points }}{P_1} = \\left( {{x_1},{y_1}} \\right){\\text{ and }}{P_2} = \\left( {{x_2},{y_2}} \\right){\\text{?}} ",
+    "op": [
+        "d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}\\mid + \\mid {y_1} - {y_2}\\mid }",
+        "d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}{\\mid ^2} - \\mid {y_1} - {y_2}{\\mid ^2}}",
+        "d\\left( {{P_1},{P_2}} \\right) = \\sqrt {\\mid {x_1} - {x_2}{\\mid ^2} + \\mid {y_1} - {y_2}{\\mid ^2}}",
+        "d\\left( {{P_1},{P_2}} \\right) = \\sqrt {{{({x_1} - {x_2})}^2} + {{({y_1} - {y_2})}^2}}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72328,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "{\\text{What is the distance between the points }}\\left( {{\\text{1,2}}} \\right){\\text{ and }}\\left( {4,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}} ",
+    "op": [
+        "6",
+        "5",
+        "7",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72329,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[{{\\text{The points }}\\left( {{x_1},{x_2}, \\ldots ,{x_n}} \\right),\\left( {{y_1},{y_2}, \\ldots ,{y_n}} \\right) \\in {R^n}{\\text{ have a taxicab distance of 0 if:}}}\\] ",
+    "op": [
+        "\\[{x_i} = y{_i}{\\text{ }}for{\\text{ }}all{\\text{ }}i\\]",
+        "\\[{{x_i} = y{_i}{\\text{ }}for{\\text{ }}some{\\text{ }}i}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72338,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "{\\text{For points }}\\left( {{x_1},{y_1}} \\right){\\text{and }}\\left( {{x_2},{y_2}} \\right){\\text{, the taxicab distance on }}{R^2}{\\text{ is given by:}} ",
+    "op": [
+        "\\mid {x_1} + {x_2}\\mid + \\mid {y_1} + {y_2}\\mid",
+        "\\mid {x_1} + {x_2}\\mid - \\mid {y_1} + {y_2}\\mid",
+        "\\mid {x_1} - {x_2}\\mid - \\mid {y_1} - {y_2}\\mid",
+        "\\mid {x_1} - {x_2}\\mid + \\mid {y_1} - {y_2}\\mid"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72372,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "In{\\text{ }}a{\\text{ }}metric{\\text{ }}space{\\text{ }}(X,d),{\\text{ }}the{\\text{ }}triangle{\\text{ }}inequality{\\text{ }}states{\\text{ }}that{\\text{ }}for{\\text{ }}any{\\text{ }}points{\\text{ }}a,b,c \\in X: ",
+    "op": [
+        "d(a,c) \\leqslant d(a,b) + d(b,c)",
+        "d(a,c) = d(a,b) + d(b,c)",
+        "d(a,b) \\geqslant d(b,c)",
+        "d(a,b) \\leqslant d(b,c)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72373,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "\\[{\\text{What is the distance between the points }}\\left( {{\\text{1,2}}} \\right){\\text{ and }}\\left( {4,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}}\\] ",
+    "op": [
+        "6",
+        "7",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72374,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "For the distance function \\[d(x,y) = \\sqrt {\\left| {x - y} \\right|} \\] in R ,\\[d(1,\\frac{1}{2})\\] =-----------.",
+    "op": [
+        "1",
+        "\\[\\frac{1}{{\\sqrt 2 }}\\]",
+        "2",
+        "\\[\\sqrt 2 \\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72439,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "Let \\alpha be a permutation such that {\\alpha ^7}\\,\\, = \\,\\,I , then order of \\alpha is ------------",
+    "op": [
+        "5",
+        "6",
+        "8",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72440,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "{\\text{What is the distance between the points }}\\left( {{\\text{1,3}}} \\right){\\text{ and }}\\left( {5,6} \\right){\\text{ under usual or Eucledian metric on }}{R^2}{\\text{ ?}} ",
+    "op": [
+        "7",
+        "6",
+        "5",
+        "8"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72441,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "\\[{\\text{In }}{{\\text{R}}^5}{\\text{, the taxicab distance between points }}\\left( {1,2,0,3,4} \\right){\\text{ and}}\\left( {0,4,1,5,6} \\right){\\text{ is:}}\\] ",
+    "op": [
+        "8",
+        "5",
+        "6",
+        "7"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72445,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "For the distance function d(x,z) = \\left| {x - z} \\right|in (R,d), d(x,z) \\geqslant 0",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72451,
+    "cc": "MTH405",
+    "qn": "3",
+    "dt": "02 January 2026",
+    "qt": "\\[{\\text{For points }}\\left( {{x_1},{y_1}} \\right){\\text{and }}\\left( {{x_2},{y_2}} \\right){\\text{, the taxicab distance on }}{R^2}{\\text{ is given by:}}\\] ",
+    "op": [
+        "\\[\\mid {x_1} - {x_2}\\mid - \\mid {y_1} - {y_2}\\mid \\]",
+        "\\[\\mid {x_1} + {x_2}\\mid - \\mid {y_1} + {y_2}\\mid \\]",
+        "\\[\\mid {x_1} + {x_2}\\mid + \\mid {y_1} + {y_2}\\mid \\]",
+        "\\[\\mid {x_1} - {x_2}\\mid + \\mid {y_1} - {y_2}\\mid \\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 73054,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\forall x,y \\in \\mathbb{R},if\\,\\,\\min \\{ \\left| x \\right|,\\left| y \\right|\\} = 0,then - - - .",
+    "op": [
+        "x=0 and y=0",
+        "y=0",
+        "x=0",
+        "either x=0 or y=0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73055,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If \\overrightarrow u = \\left( \\begin{array}{l} u_1 \\\\\\\\ u_2 \\\\\\\\ \\end{array} \\right) and \\overrightarrow v = \\left( \\begin{array}{l} v_1 \\\\\\\\ v_2 \\\\\\\\ \\end{array} \\right) , then their dot product is given by;",
+    "op": [
+        "\\sqrt {u_1 ^2 - u_2 ^2 } \\sqrt {v_1 ^2 - v_2 ^2 }",
+        "u_1 v_1 + u_2 v_2",
+        "\\sqrt {u_1 ^2 + u_2 ^2 } \\sqrt {v_1 ^2 + v_2 ^2 }",
+        "u_1 v_2 - u_2 v_1"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73056,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If x_1 ,x_2 , \\cdots ,x_n ,y_1 ,y_2 , \\cdots ,y_n \\in R , then which of the following is Minkoski’s inequality?",
+    "op": [
+        "\\left( {x_1 y_1 + x_2 y_2 + \\cdots + x_n y_n } \\right)^2 \\le \\left( {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\right)\\left( {y_1^2 + y_2^2 + \\cdots + y_n^2 } \\right)",
+        "\\sqrt {\\left( {x_1 + y_1 } \\right)^2 + \\left( {x_2 + y_2 } \\right)^2 + \\cdots + \\left( {x_n + y_n } \\right)^2 } \\le \\sqrt {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\sqrt {y_1^2 + y_2^2 + \\cdots + y_n^2 }"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73058,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\forall {x_1},{x_2},{x_3} \\in \\mathbb{R},if\\,\\left| {{x_1}} \\right| + \\left| {{x_2}\\,} \\right| + \\left| {{x_3}\\,} \\right| = 0,then - - - .",
+    "op": [
+        "{x_2} = 0",
+        "{x_1} = {x_2} = {x_3} = 0",
+        "{x_3} = 0",
+        "{x_1} = 0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73059,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If f(x)=1 and g(x)=2 , then the distance as defined by d(f,g) = \\int\\limits_0^1 {\\left| {f(x) - g(x)} \\right|} dx = - - - - .",
+    "op": [
+        "-1",
+        "1",
+        "0",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73061,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\forall x \\in \\mathbb{R},\\left| x \\right| > - a, where a > 0, then ----.",
+    "op": [
+        "- \\infty < x < \\infty",
+        "- \\infty < x < a",
+        "x < a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a",
+        "x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > a"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73062,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "l^1 :the set of all sequences whose corresponding series: -------- converges.",
+    "op": [
+        "\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{x_i }}}",
+        "\\sum\\limits_{i = 1}^\\infty {x_i }",
+        "\\sum\\limits_{i = 1}^\\infty {\\left| {x_i } \\right|}",
+        "\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{\\left| {x_i } \\right|}}}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73082,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\max \\{ {x_1} + {y_1},{x_2} + {y_2}\\} - - - \\max \\{ {x_1} + {x_2}\\} + \\max \\{ {y_1} + {y_2}\\}",
+    "op": [
+        "=",
+        "\\leqslant",
+        "\\geqslant",
+        "\\ne"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73083,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If{k_1},{k_2},...,{k_n} \\geqslant 0 , thenmax\\{ {k_i},1 \\leqslant i \\leqslant n,n \\in N\\} - - - 0. ",
+    "op": [
+        "\\ne",
+        "=",
+        "\\leqslant",
+        "\\geqslant"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73084,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If \\forall x \\in \\mathbb{R}, \\left| x \\right| < - a,where a > 0, then ---.",
+    "op": [
+        "- a > x > a",
+        "- a > x < a",
+        "None of these",
+        "- a < x < a"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73085,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Dot product \\overrightarrow u \\cdot \\overrightarrow v of two vectors \\overrightarrow u and \\overrightarrow v is given by----.",
+    "op": [
+        "\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\cos \\theta",
+        "\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\tan \\theta",
+        "\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\sin \\theta",
+        "\\left| {\\overrightarrow u } \\right|\\left| {\\overrightarrow v } \\right|\\csc \\theta"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73144,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\[{k_1},{k_2},...,{k_n} \\geqslant 0\\] , then\\[max\\{ {k_i},1 \\leqslant i \\leqslant n,n \\in N\\} - - - 0.\\] ",
+    "op": [
+        "\\[ \\leqslant \\]",
+        "=",
+        "\\[ \\geqslant \\]",
+        "\\[ \\ne \\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73152,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\forall x \\in \\mathbb{R},\\left| x \\right| < - a, where a < 0, then ----.",
+    "op": [
+        "- a < x < a",
+        "- a > x > a",
+        "a < x < - a",
+        "- a > x < a"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73159,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If x_1 ,x_2 , \\cdots ,x_n ,y_1 ,y_2 , \\cdots ,y_n \\in R , then which of the following is Cauchy-Schwarz inequality?",
+    "op": [
+        "\\left( {x_1 y_1 + x_2 y_2 + \\cdots + x_n y_n } \\right)^2 \\le \\left( {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\right)\\left( {y_1^2 + y_2^2 + \\cdots + y_n^2 } \\right)",
+        "\\sqrt {\\left( {x_1 + y_1 } \\right)^2 + \\left( {x_2 + y_2 } \\right)^2 + \\cdots + \\left( {x_n + y_n } \\right)^2 } \\le \\sqrt {x_1^2 + x_2^2 + \\cdots + x_n^2 } \\sqrt {y_1^2 + y_2^2 + \\cdots + y_n^2 }"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73160,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\forall x \\in \\mathbb{R},\\left| x \\right| > - a, where a < 0, then ----.",
+    "op": [
+        "x < a\\,\\,\\,\\,{\\text{and}}\\,\\,\\,x > a",
+        "x < a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a",
+        "x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > - a",
+        "x < - a\\,\\,\\,{\\text{and}}\\,\\,\\,x > a"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73161,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Which of the following is true about the bounded-ness of f(x) = \\cos x ?",
+    "op": [
+        "- 1 \\leqslant \\cos x \\leqslant 1",
+        "0 \\leqslant \\cos x \\leqslant 1",
+        "- \\frac{1}{2} \\leqslant \\cos x \\leqslant \\frac{1}{2}",
+        "- 1 \\leqslant \\cos x \\leqslant 0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73182,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If \\left| {{a^2} - {b^2}} \\right| = 0 , then b=------.",
+    "op": [
+        "\\pm a",
+        "a",
+        "0",
+        "-a"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73183,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "$l^1 : $the set of all sequences whose corresponding series: -------- converges.",
+    "op": [
+        "$\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{\\left| {x_i } \\right|}}} $",
+        "$\\sum\\limits_{i = 1}^\\infty {x_i } $",
+        "$\\sum\\limits_{i = 1}^\\infty {\\left| {x_i } \\right|} $",
+        "$\\sum\\limits_{i = 1}^\\infty {\\frac{1}{{x_i }}} $"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73184,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\max \\{ \\left| {{x_i} - {y_i}} \\right|\\} = 0\\,\\,\\, where 1 \\leqslant i \\leqslant n,{x_i},{y_i} \\in \\mathbb{R},then\\,\\,{x_i} - - - {y_i}. ",
+    "op": [
+        "\\leqslant",
+        "\\geqslant",
+        "=",
+        "\\ne"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73187,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If f(x)=1 and g(x)=2 , then the distance as defined by \\[d(f,g) = \\int\\limits_0^1 {\\left| {f(x) - g(x)} \\right|} dx = - - - - .\\]",
+    "op": [
+        "-1",
+        "1",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73188,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "Supremum of open interval(0,1)in R is-----.",
+    "op": [
+        "Not defined",
+        "0",
+        "+ \\infty",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73189,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "If\\[\\max \\{ \\left| {{x_i} - {y_i}} \\right|\\} = 0\\,\\,\\,\\] where \\[1 \\leqslant i \\leqslant n,{x_i},{y_i} \\in \\mathbb{R},then\\,\\,{x_i} - - - {y_i}.\\] ",
+    "op": [
+        "\\[ \\ne \\]",
+        "\\[ \\leqslant \\]",
+        "\\[ \\geqslant \\]",
+        "="
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73190,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "06 January 2026",
+    "qt": "\\[\\forall {x_1},{x_2},{x_3} \\in \\mathbb{R},if\\,\\left| {{x_1}} \\right| + \\left| {{x_2}\\,} \\right| + \\left| {{x_3}\\,} \\right| = 0,then - - - .\\]",
+    "op": [
+        "\\[{x_1} = 0\\]",
+        "\\[{x_2} = 0\\]",
+        "\\[{x_3} = 0\\]",
+        "\\[{x_1} = {x_2} = {x_3} = 0\\]"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73346,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "\\[\\forall x,y \\in \\mathbb{R},if\\,\\,\\min \\{ \\left| x \\right|,\\left| y \\right|\\} = 0,then - - - .\\]",
+    "op": [
+        "x=0",
+        "x=0 and y=0",
+        "either x=0 or y=0",
+        "y=0"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73530,
+    "cc": "MTH405",
+    "qn": "4",
+    "dt": "08 January 2026",
+    "qt": "Supremum of open interval\\[(0,1)\\]in R is-----.",
+    "op": [
+        "0",
+        "Not defined",
+        "\\[ + \\infty \\]",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:35:34.968154+00:00"
+}
+]

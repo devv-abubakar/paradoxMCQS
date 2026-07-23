@@ -1,0 +1,646 @@
+[
+    {
+        "id": 37156,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^\\theta } \\in C|\\theta \\in R} \\right\\}.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-01T23:55:40.659736+00:00"
+    },
+    {
+        "id": 37157,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$${\\text{Let H be a subgroup of a group G}},{\\text{ H is said to be a normal subgroup of G if}},{\\text{ gH}} = {\\text{Hg}},{\\text{ }}\\forall {\\text{g }} \\in {\\text{G}}.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-01T23:55:52.873815+00:00"
+    },
+    {
+        "id": 37158,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,a{b^{ - 1}} \\in H.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-01T23:56:00.47134+00:00"
+    },
+    {
+        "id": 37159,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{Let K be a Kernal of the group morphism f:G}} \\to {\\text{H}}.{\\text{ Then}}\\,G/K\\,{\\text{is isomorphism to the image of}}\\,f,{\\text{ and the isomorphism}}{\\text{is defined by}} \\hfill \\\\ \\psi {\\text{: }}G/K \\to \\operatorname{Im} \\,f\\,is\\,defined\\,by\\,\\psi (Kg) = f(g). \\hfill \\\\ \\end{gathered}$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-01T23:56:16.655344+00:00"
+    },
+    {
+        "id": 37191,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^{i\\theta }} \\in C|\\theta \\in R} \\right\\}.$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-02T00:19:56.036013+00:00"
+    },
+    {
+        "id": 37192,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{If }}\\left( {{\\text{G}}, \\bullet } \\right){\\text{ and }}\\left( {H,*} \\right){\\text{ are two groups}},{\\text{ the function f:G}} \\to {\\text{H is called a group homomorphism if }} \\hfill \\\\ {\\text{f}}\\left( {{\\text{a}} \\bullet {\\text{b}}} \\right){\\text{ }} = {\\text{ f}}\\left( {\\text{a}} \\right) * {\\text{f}}\\left( {\\text{b}} \\right),{\\text{ for all a}},{\\text{b }} \\in {\\text{G}}. \\hfill \\\\ \\end{gathered}$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-02T00:20:09.783468+00:00"
+    },
+    {
+        "id": 37317,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}b \\in H.$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-02T03:16:49.776521+00:00"
+    },
+    {
+        "id": 37318,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "$$Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}{b^{ - 1}} \\in H.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-02T03:17:07.097526+00:00"
+    },
+    {
+        "id": 37321,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "A bijective group homomorphism is called a group isomorphism.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-02T03:17:28.100294+00:00"
+    },
+    {
+        "id": 54977,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Every subgroup H of an nonabelian group G is normal.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T19:22:45.034761+00:00"
+    },
+    {
+        "id": 54979,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "The following are three equivalent conditions for a subgroup H of a group G to be a normal subgroup of G: 1. ghg-1∊H for all g∊G and h∊H. 2. gHg-1=H for all g∊G. 3. gH=Hg for all g∊G.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T19:22:57.064926+00:00"
+    },
+    {
+        "id": 54983,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "A factor group of a cyclic group is cyclic.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T19:23:32.182134+00:00"
+    },
+    {
+        "id": 54985,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{A homomorphism }}\\varphi :G \\to G'\\,is{\\text{ injective iff }}\\ker {\\text{(}}\\varphi ) = \\left\\{ e \\right\\}{\\text{.}}$$",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T19:23:40.691605+00:00"
+    },
+    {
+        "id": 54988,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{The}}\\,{\\text{trivial}}\\,{\\text{subgroup}}\\,N = \\{ 0\\} \\,{\\text{of}}\\,Z\\,{\\text{is}}\\,{\\text{not}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,Z.$$",
+        "op": [
+            "$${\\text{True}}$$",
+            "$${\\text{False}}$$"
+        ],
+        "created_at": "2026-07-06T19:23:58.551636+00:00"
+    },
+    {
+        "id": 55759,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{If}}\\,G\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{finite}}\\,{\\text{group}}\\,{\\text{and}}\\,N\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{proper}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G\\,{\\text{then}}\\,G/N\\,{\\text{has}}\\,{\\text{the}}\\,{\\text{same}}\\,{\\text{structure}}\\,{\\text{as}}\\,G.$$",
+        "op": [
+            "$${\\text{false}}$$",
+            "$${\\text{True}}$$"
+        ],
+        "created_at": "2026-07-07T04:05:22.902983+00:00"
+    },
+    {
+        "id": 55764,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{Let}}\\,N\\,{\\text{be}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G.\\,{\\text{In}}\\,{\\text{the}}\\,{\\text{factor}}\\,{\\text{group}}\\,G/N,\\,{\\text{the}}\\,{\\text{subgroup}}\\,N\\,{\\text{acts}}\\,{\\text{as}}\\,{\\text{identity}}\\,{\\text{element}}.$$",
+        "op": [
+            "$${\\text{True}}$$",
+            "$${\\text{False}}$$"
+        ],
+        "created_at": "2026-07-07T04:06:22.131118+00:00"
+    },
+    {
+        "id": 55765,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) = \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-07T04:06:37.042944+00:00"
+    },
+    {
+        "id": 55863,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{Let}}\\,G\\,{\\text{be}}\\,{\\text{a}}\\,{\\text{group}}\\,{\\text{and}}\\,N\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G.\\,{\\text{Which}}\\,{\\text{statement}}\\,{\\text{is}}\\,{\\text{not}}\\,{\\text{true}}?$$",
+        "op": [
+            "$$G/G \\cong \\{ e\\}$$",
+            "$$G/N \\cong G\\,{\\text{if}}\\,N = \\{ e\\}$$",
+            "$$G/\\{ e\\} \\cong G$$",
+            "$$G/\\{ e\\} \\cong \\{ e\\}$$"
+        ],
+        "created_at": "2026-07-07T04:46:31.771295+00:00"
+    },
+    {
+        "id": 55866,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{The}}\\,{\\text{factor}}\\,{\\text{group}}\\,Z/nZ\\,{\\text{is}}\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{Z_n}$$",
+        "op": [
+            "$${\\text{False}}$$",
+            "$${\\text{True}}$$"
+        ],
+        "created_at": "2026-07-07T04:47:41.592823+00:00"
+    },
+    {
+        "id": 56039,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{Let}}\\,{\\text{a}}\\,{\\text{projection}}\\,{\\text{map}}\\,f:{Z_4} \\times {Z_2} \\to {Z_4}\\,{\\text{given}}\\,{\\text{by}}\\,f(x,y) = x\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{homomorphism}}\\,{\\text{where}}\\,\\ker (f)\\,{\\text{is}}\\,\\{ 0\\} \\times {Z_2},\\,{\\text{then}}\\,{\\text{which}}\\,{\\text{of}}\\,{\\text{the}}\\,{\\text{following,}}\\,{\\text{the}}\\,{\\text{factor}}\\,{\\text{group}}\\,{Z_4} \\times {Z_2}/\\{ 0\\} \\times {Z_2}\\,{\\text{is}}\\,{\\text{isomorphic}}\\,{\\text{to}}?$$",
+        "op": [
+            "$${Z_2}$$",
+            "$${Z_4}$$",
+            "$$\\{ 0\\}$$",
+            "$${Z_4} \\times {Z_2}$$"
+        ],
+        "created_at": "2026-07-07T06:07:44.74056+00:00"
+    },
+    {
+        "id": 56297,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{The}}\\,{\\text{trivial}}\\,{\\text{subgroup}}\\,N = \\{ 0\\} \\,{\\text{of}}\\,Z\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,Z.$$",
+        "op": [
+            "$${\\text{False}}$$",
+            "$${\\text{True}}$$"
+        ],
+        "created_at": "2026-07-07T08:14:03.262244+00:00"
+    },
+    {
+        "id": 56359,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "$${\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) \\ne \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}.$$",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-07T08:49:55.669689+00:00"
+    },
+    {
+        "id": 72071,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,a{b^{ - 1}} \\in H. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72073,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}b \\in H. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72074,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^\\theta } \\in C|\\theta \\in R} \\right\\}. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72075,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If }}\\left( {{\\text{G}}, \\bullet } \\right){\\text{ and }}\\left( {H,*} \\right){\\text{ are two groups}},{\\text{ the function f:G}} \\to {\\text{H is called a group homomorphism if }} \\hfill \\\\ {\\text{f}}\\left( {{\\text{a}} \\bullet {\\text{b}}} \\right){\\text{ }} = {\\text{ f}}\\left( {\\text{a}} \\right) * {\\text{f}}\\left( {\\text{b}} \\right),{\\text{ for all a}},{\\text{b }} \\in {\\text{G}}. \\hfill \\\\  \\end{gathered} \\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72077,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{If }}\\left( {{\\text{G}}, \\bullet } \\right){\\text{ and }}\\left( {H,*} \\right){\\text{ are two groups}},{\\text{ the function f:G}} \\to {\\text{H is called a group homomorphism if }} \\hfill \\\\ {\\text{f}}\\left( {{\\text{a}} \\bullet {\\text{b}}} \\right){\\text{ }} \\ne {\\text{ f}}\\left( {\\text{a}} \\right) * {\\text{f}}\\left( {\\text{b}} \\right),{\\text{ for all a}},{\\text{b }} \\in {\\text{G}}. \\hfill \\\\  \\end{gathered} \\] ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72154,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "{\\text{Let H be a subgroup of a group G}},{\\text{ H is said to be a normal subgroup of G if}},{\\text{ gH}} = {\\text{Hg}},{\\text{ }}\\forall {\\text{g }} \\in {\\text{G}}. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72155,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{If }}\\left( {{\\text{G}}, \\bullet } \\right){\\text{ and }}\\left( {H,*} \\right){\\text{ are two groups}},{\\text{ the function f:G}} \\to {\\text{H is called a group homomorphism if }} \\hfill \\\\ {\\text{f}}\\left( {{\\text{a}} \\bullet {\\text{b}}} \\right){\\text{ }} \\ne {\\text{ f}}\\left( {\\text{a}} \\right) * {\\text{f}}\\left( {\\text{b}} \\right),{\\text{ for all a}},{\\text{b }} \\in {\\text{G}}. \\hfill \\\\ \\end{gathered} ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72156,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{Let K be a Kernal of the group morphism f:G}} \\to {\\text{H}}.{\\text{ Then}}\\,G/K\\,{\\text{is isomorphism to the image of}}\\,f,{\\text{ and the isomorphism}}{\\text{is defined by}} \\hfill \\\\ \\psi {\\text{: }}G/K \\to \\operatorname{Im} \\,f\\,is\\,defined\\,by\\,\\psi (Kg) = f(g). \\hfill \\\\ \\end{gathered} ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72158,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^{i\\theta }} \\in C|\\theta \\in R} \\right\\}. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72184,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{Let K be a Kernal of the group morphism f:G}} \\to {\\text{H}}.{\\text{ Then}}\\,G/K\\,{\\text{is isomorphism to the image of}}\\,f,{\\text{ and the isomorphism}}{\\text{is defined by}} \\hfill \\\\ \\psi {\\text{: }}G/K \\to \\operatorname{Im} \\,f\\,is\\,defined\\,by\\,\\psi (Kg) = f(g). \\hfill \\\\  \\end{gathered} \\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72204,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\begin{gathered} {\\text{If }}\\left( {{\\text{G}}, \\bullet } \\right){\\text{ and }}\\left( {H,*} \\right){\\text{ are two groups}},{\\text{ the function f:G}} \\to {\\text{H is called a group homomorphism if }} \\hfill \\\\ {\\text{f}}\\left( {{\\text{a}} \\bullet {\\text{b}}} \\right){\\text{ }} = {\\text{ f}}\\left( {\\text{a}} \\right) * {\\text{f}}\\left( {\\text{b}} \\right),{\\text{ for all a}},{\\text{b }} \\in {\\text{G}}. \\hfill \\\\ \\end{gathered} ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72207,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}{b^{ - 1}} \\in H. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72239,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^{i\\theta }} \\in C|\\theta \\in R} \\right\\}.\\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72240,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}b \\in H.\\] ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72241,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,{a^{ - 1}}{b^{ - 1}} \\in H.\\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72307,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[{\\text{Let H be a subgroup of a group G}},{\\text{ H is said to be a normal subgroup of G if}},{\\text{ gH}} = {\\text{Hg}},{\\text{ }}\\forall {\\text{g }} \\in {\\text{G}}.\\] ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72308,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[The\\,quotient\\,group\\,R/Z\\,is\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{\\text{the circle}}\\,{\\text{group}}\\,{\\text{W = }}\\left\\{ {{{\\text{e}}^\\theta } \\in C|\\theta \\in R} \\right\\}.\\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72325,
+        "cc": "MTH633",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[Let\\,\\left( {G,} \\right)\\,be\\,a\\,group\\,with\\,subgroup\\,H.\\,For\\,a,\\,b \\in G,\\,a\\,is\\,congruent\\,to\\,b\\,\\bmod ulo\\,H,\\,and\\,written\\,a \\equiv b\\bmod H\\,iff\\,a{b^{ - 1}} \\in H.\\] ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72898,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{Let}}\\,{\\text{a}}\\,{\\text{projection}}\\,{\\text{map}}\\,f:{Z_4} \\times {Z_2} \\to {Z_4}\\,{\\text{given}}\\,{\\text{by}}\\,f(x,y) = x\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{homomorphism}}\\,{\\text{where}}\\,\\ker (f)\\,{\\text{is}}\\,\\{ 0\\} \\times {Z_2},\\,{\\text{then}}\\,{\\text{which}}\\,{\\text{of}}\\,{\\text{the}}\\,{\\text{following,}}\\,{\\text{the}}\\,{\\text{factor}}\\,{\\text{group}}\\,{Z_4} \\times {Z_2}/\\{ 0\\} \\times {Z_2}\\,{\\text{is}}\\,{\\text{isomorphic}}\\,{\\text{to}}? ",
+        "op": [
+            "{Z_4}",
+            "{Z_2}",
+            "\\{ 0\\}",
+            "{Z_4} \\times {Z_2}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72901,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{Let}}\\,N\\,{\\text{be}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G.\\,{\\text{In}}\\,{\\text{the}}\\,{\\text{factor}}\\,{\\text{group}}\\,G/N,\\,{\\text{the}}\\,{\\text{subgroup}}\\,N\\,{\\text{acts}}\\,{\\text{as}}\\,{\\text{identity}}\\,{\\text{element}}. ",
+        "op": [
+            "{\\text{False}}",
+            "{\\text{True}}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72902,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) = \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72903,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{Let}}\\,G\\,{\\text{be}}\\,{\\text{a}}\\,{\\text{group}}\\,{\\text{and}}\\,N\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G.\\,{\\text{Which}}\\,{\\text{statement}}\\,{\\text{is}}\\,{\\text{not}}\\,{\\text{true}}? ",
+        "op": [
+            "G/N \\cong G\\,{\\text{if}}\\,N = \\{ e\\}",
+            "G/G \\cong \\{ e\\}",
+            "G/\\{ e\\} \\cong \\{ e\\}",
+            "G/\\{ e\\} \\cong G"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73090,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) = \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}.\\] ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73091,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{A homomorphism }}\\varphi :G \\to G'\\,is{\\text{ injective iff }}\\ker {\\text{(}}\\varphi ) = \\left\\{ e \\right\\}{\\text{.}}\\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73106,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{The}}\\,{\\text{trivial}}\\,{\\text{subgroup}}\\,N = \\{ 0\\} \\,{\\text{of}}\\,Z\\,{\\text{is}}\\,{\\text{not}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,Z. ",
+        "op": [
+            "{\\text{True}}",
+            "{\\text{False}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73128,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) \\ne \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}. ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73129,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{The}}\\,{\\text{factor}}\\,{\\text{group}}\\,Z/nZ\\,{\\text{is}}\\,{\\text{isomorphic}}\\,{\\text{to}}\\,{Z_n} ",
+        "op": [
+            "{\\text{True}}",
+            "{\\text{False}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73132,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{A homomorphism }}\\varphi :G \\to G'\\,is{\\text{ injective iff }}\\ker {\\text{(}}\\varphi ) = \\left\\{ e \\right\\}{\\text{.}} ",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73143,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{If}}\\,G\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{finite}}\\,{\\text{group}}\\,{\\text{and}}\\,N\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{proper}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,G\\,{\\text{then}}\\,G/N\\,{\\text{has}}\\,{\\text{the}}\\,{\\text{same}}\\,{\\text{structure}}\\,{\\text{as}}\\,G. ",
+        "op": [
+            "{\\text{True}}",
+            "{\\text{false}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73170,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{Let G be a group and H be a subgroup of G then H is normal iff }}\\left( {{\\text{aH}}} \\right)\\left( {{\\text{bH}}} \\right) \\ne \\left( {{\\text{ab}}} \\right){\\text{H}},{\\text{ for all a}},{\\text{b}} \\in {\\text{G}}.\\] ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73180,
+        "cc": "MTH633",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "{\\text{The}}\\,{\\text{trivial}}\\,{\\text{subgroup}}\\,N = \\{ 0\\} \\,{\\text{of}}\\,Z\\,{\\text{is}}\\,{\\text{a}}\\,{\\text{normal}}\\,{\\text{subgroup}}\\,{\\text{of}}\\,Z. ",
+        "op": [
+            "{\\text{True}}",
+            "{\\text{False}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    }
+]

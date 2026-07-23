@@ -1,0 +1,4548 @@
+[
+{
+    "id": 620,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Accrued expense at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Income",
+        "Assets",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:06:04.480703+00:00"
+},
+{
+    "id": 622,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent receivable account should be debited due to:",
+    "op": [
+        "Closing balance",
+        "Cash paid",
+        "Opening balance",
+        "Balance sheet"
+    ],
+    "created_at": "2026-06-16T19:06:13.446501+00:00"
+},
+{
+    "id": 624,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is posted in credit side of debtors account.",
+    "op": [
+        "Cash sales",
+        "Balance c/f of debtors",
+        "Balance b/f of debtors",
+        "Credit sales"
+    ],
+    "created_at": "2026-06-16T19:06:21.11007+00:00"
+},
+{
+    "id": 626,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of discount allowed to debtors, _____________ is debited.",
+    "op": [
+        "Trade discount account",
+        "Discount allowed account",
+        "Receivable account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-16T19:06:30.178418+00:00"
+},
+{
+    "id": 628,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on debit side of Trade payable control account EXCEPT:",
+    "op": [
+        "Purchases return",
+        "Credit purchases",
+        "Discount received",
+        "Cash paid to creditors"
+    ],
+    "created_at": "2026-06-16T19:06:38.761352+00:00"
+},
+{
+    "id": 631,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________________ is posted in debit side of debtors account.",
+    "op": [
+        "Credit sales and opening balance of debtors",
+        "Cash and credit purchase",
+        "Opening and closing balance of creditors",
+        "Cash sales and credit sales"
+    ],
+    "created_at": "2026-06-16T19:06:54.496626+00:00"
+},
+{
+    "id": 633,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "____________________ is posted in credit side of debtors account.",
+    "op": [
+        "Credit sales",
+        "None of the given options",
+        "balance b/f of debtors",
+        "Cash sales"
+    ],
+    "created_at": "2026-06-16T19:07:03.321275+00:00"
+},
+{
+    "id": 636,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 120,000, total estimated hours are 15,000 and residual value is Rs. 20,000. Then depreciation rate per hour is ____________.",
+    "op": [
+        "Rs. 8 per hour",
+        "Rs. 6 per hour",
+        "Rs. 1.33 per hour",
+        "Rs. 6.67 per hour"
+    ],
+    "created_at": "2026-06-16T19:07:14.647462+00:00"
+},
+{
+    "id": 638,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If an asset is exchanged with another asset and commercial substance does not exist, the cost of asset taken through exchange is __________ of asset given up.",
+    "op": [
+        "Purchase price",
+        "Fair value",
+        "Market value",
+        "Carrying value"
+    ],
+    "created_at": "2026-06-16T19:07:25.774878+00:00"
+},
+{
+    "id": 639,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. A cheque received from a debtor of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 8,500 debit",
+        "Rs. 8,000 debit",
+        "Rs. 10,000 debit",
+        "Rs. 9,500 debit"
+    ],
+    "created_at": "2026-06-16T19:07:34.308978+00:00"
+},
+{
+    "id": 640,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of writing off debtors as bad debt, ____________ is debited.",
+    "op": [
+        "Provision account",
+        "Payable account",
+        "Receivable account",
+        "Bad debts account"
+    ],
+    "created_at": "2026-06-16T19:07:48.092401+00:00"
+},
+{
+    "id": 641,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of equipment is Rs. 108,000, useful life is 10 years and its residual value is Rs. 8,000. Then Deprecation for the 3rd year using straight line method is ____________.",
+    "op": [
+        "Rs. 9,800",
+        "Rs. 8,820",
+        "Rs. 8,000",
+        "Rs. 10,000"
+    ],
+    "created_at": "2026-06-16T19:08:01.276542+00:00"
+},
+{
+    "id": 647,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Payable account",
+        "Bad debts account",
+        "Provision account",
+        "Receivable account"
+    ],
+    "created_at": "2026-06-16T19:08:21.392047+00:00"
+},
+{
+    "id": 648,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________________is posted in credit side of debtors account.",
+    "op": [
+        "Receipts from debtors",
+        "All of the given options",
+        "Sales return account",
+        "Discount allowed account"
+    ],
+    "created_at": "2026-06-16T19:08:21.760671+00:00"
+},
+{
+    "id": 650,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a new production plant. It will be initially measured at____________.",
+    "op": [
+        "Fair value",
+        "Whichever value is available",
+        "Market value",
+        "Cost"
+    ],
+    "created_at": "2026-06-16T19:08:29.564167+00:00"
+},
+{
+    "id": 654,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Mostly, control accounts are maintained for:",
+    "op": [
+        "Trade payables",
+        "Inventory",
+        "All of the given options",
+        "Trade receivables"
+    ],
+    "created_at": "2026-06-16T19:08:46.817776+00:00"
+},
+{
+    "id": 655,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items may appear in Trade receivable control account EXCEPT:",
+    "op": [
+        "Cash sales",
+        "Discount allowed",
+        "Bad debts",
+        "Cash received from debtors"
+    ],
+    "created_at": "2026-06-16T19:08:47.06989+00:00"
+},
+{
+    "id": 664,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income earned but not received till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Capital",
+        "Asset",
+        "Drawing",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:09:07.026038+00:00"
+},
+{
+    "id": 665,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Property, Plant and Equipment include:",
+    "op": [
+        "All of the given options",
+        "Assets to be used in selling of goods or services",
+        "Assets held for production of goods or services",
+        "Assets used for administrative purposes"
+    ],
+    "created_at": "2026-06-16T19:09:09.839421+00:00"
+},
+{
+    "id": 670,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Property Plant and Equipment include:",
+    "op": [
+        "Assets used for administrative purposes",
+        "Assets which are given on rental to others",
+        "Assets held for production of goods or services",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-16T19:09:24.440817+00:00"
+},
+{
+    "id": 672,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of decrease in provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Payable account",
+        "Doubtful debts account",
+        "Provision for doubtful debts account",
+        "Receivable account"
+    ],
+    "created_at": "2026-06-16T19:09:33.056661+00:00"
+},
+{
+    "id": 679,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on credit side of Trade receivable control account EXCEPT:",
+    "op": [
+        "Cash received from debtors",
+        "Cheques dishonored",
+        "Bad debts",
+        "Discount allowed"
+    ],
+    "created_at": "2026-06-16T19:09:58.437344+00:00"
+},
+{
+    "id": 684,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A credit purchase of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 9,500 credit",
+        "Rs. 10,000 credit",
+        "Rs. 8,000 credit",
+        "Rs. 8,500 credit"
+    ],
+    "created_at": "2026-06-16T19:10:09.673932+00:00"
+},
+{
+    "id": 685,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Debtors Control Account, Credit side posted items cause:",
+    "op": [
+        "Increase in creditors’ balance",
+        "Decrease in debtors’ balance",
+        "Both increase and decrease in debtors’ balance",
+        "Increase in debtors’ balance"
+    ],
+    "created_at": "2026-06-16T19:10:13.040667+00:00"
+},
+{
+    "id": 687,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is debited for closing the commission income for the period.",
+    "op": [
+        "Income statement",
+        "Commission income",
+        "Accrued commission",
+        "Commission expense"
+    ],
+    "created_at": "2026-06-16T19:10:21.207822+00:00"
+},
+{
+    "id": 689,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Matching principle is applied in:",
+    "op": [
+        "Accrual basis",
+        "Both accrual and cash basis",
+        "None of the given options",
+        "Cash basis"
+    ],
+    "created_at": "2026-06-16T19:10:42.999702+00:00"
+},
+{
+    "id": 690,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Creditors Control Account, Debit side shows the items that will cause:",
+    "op": [
+        "Decrease in creditors’ balance",
+        "Increase in debtors’ balance",
+        "Both increase and decrease in creditors’ balance",
+        "Increase in creditors’ balance"
+    ],
+    "created_at": "2026-06-16T19:11:06.627611+00:00"
+},
+{
+    "id": 694,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Prepaid expense at the end of the period is treated as:",
+    "op": [
+        "Asset",
+        "Drawing",
+        "Income",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:11:31.740632+00:00"
+},
+{
+    "id": 708,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following is a Tangible fixed asset?",
+    "op": [
+        "Factory Workshop",
+        "Outlet where products are displayed",
+        "All of the given options",
+        "Car held for rent"
+    ],
+    "created_at": "2026-06-16T19:12:33.245323+00:00"
+},
+{
+    "id": 723,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________ is the systematic allocation of the depreciable amount of an asset over its useful life.",
+    "op": [
+        "Cost",
+        "Market value",
+        "Fair value",
+        "Depreciation"
+    ],
+    "created_at": "2026-06-16T19:13:13.558936+00:00"
+},
+{
+    "id": 725,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Unearned income at the end of the period is treated as:",
+    "op": [
+        "Liability",
+        "Assets",
+        "Expense",
+        "Drawings"
+    ],
+    "created_at": "2026-06-16T19:13:22.111448+00:00"
+},
+{
+    "id": 727,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense payable at the end of the period is treated as:",
+    "op": [
+        "Asset",
+        "Drawings",
+        "Income",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:13:29.12243+00:00"
+},
+{
+    "id": 730,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "___________________ is posted in credit side of debtors account.",
+    "op": [
+        "Sales return and discount allowed",
+        "Cash sales and credit sales",
+        "Purchases return and discount allowed",
+        "Cash purchases and credit purchases"
+    ],
+    "created_at": "2026-06-16T19:13:45.11734+00:00"
+},
+{
+    "id": 785,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of writing off debtors as bad debt, ____________ is credited.",
+    "op": [
+        "Provision account",
+        "Payable account",
+        "Doubtful debts account",
+        "Debtors account"
+    ],
+    "created_at": "2026-06-16T19:19:39.486038+00:00"
+},
+{
+    "id": 788,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent income account should be debited due to:",
+    "op": [
+        "Rent receivable opening",
+        "Rent receivable closing",
+        "Rental income received",
+        "Balance sheet account"
+    ],
+    "created_at": "2026-06-16T19:19:45.657669+00:00"
+},
+{
+    "id": 791,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is credited for closing the commission income for the period.",
+    "op": [
+        "Commission income",
+        "Income statement",
+        "Commission expense",
+        "Accrued commission"
+    ],
+    "created_at": "2026-06-16T19:20:00.184774+00:00"
+},
+{
+    "id": 794,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A creditors’ control account is used to record all the transactions related to:",
+    "op": [
+        "Cash purchases",
+        "Cash sales",
+        "Credit purchases",
+        "Credit sales"
+    ],
+    "created_at": "2026-06-16T19:20:08.183561+00:00"
+},
+{
+    "id": 796,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of goods sold on credit basis, _____________ is credited.",
+    "op": [
+        "Payable account",
+        "Bank account",
+        "Sales account",
+        "Receivable account"
+    ],
+    "created_at": "2026-06-16T19:20:14.271022+00:00"
+},
+{
+    "id": 798,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of goods sold on credit basis, _____________ is debited.",
+    "op": [
+        "Debtors account",
+        "Credit account",
+        "Debit account",
+        "Bank account"
+    ],
+    "created_at": "2026-06-16T19:20:21.332534+00:00"
+},
+{
+    "id": 801,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating the provision for discount on debts, __________________ is debited.",
+    "op": [
+        "Provision account",
+        "Discount allowed account",
+        "Receivable account",
+        "Discount received account"
+    ],
+    "created_at": "2026-06-16T19:20:27.552218+00:00"
+},
+{
+    "id": 803,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If a fixed asset is purchased for Rs. 100,000 and payment is made through cheque; then which of the following account will be debited?",
+    "op": [
+        "Bank account",
+        "Fixed asset account",
+        "Debtor account",
+        "Cash account"
+    ],
+    "created_at": "2026-06-16T19:20:38.276873+00:00"
+},
+{
+    "id": 805,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Provision for doubtful debts account",
+        "Payable account",
+        "Receivable account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-16T19:20:46.981253+00:00"
+},
+{
+    "id": 808,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A cash purchase of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 8,500 credit",
+        "Rs. 10,000 credit",
+        "Rs. 8,000 credit",
+        "Rs. 9,000 credit"
+    ],
+    "created_at": "2026-06-16T19:20:54.730159+00:00"
+},
+{
+    "id": 813,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent receivable account should be credited due to:",
+    "op": [
+        "Opening balance",
+        "Profit and loss",
+        "Closing balance",
+        "Balance sheet"
+    ],
+    "created_at": "2026-06-16T19:21:21.249835+00:00"
+},
+{
+    "id": 820,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid during the period should be mentioned in:",
+    "op": [
+        "Payment side of cash book",
+        "Payment side of balance sheet",
+        "Receipt side of cash book",
+        "Expense side of balance sheet"
+    ],
+    "created_at": "2026-06-16T19:21:51.432105+00:00"
+},
+{
+    "id": 824,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "At the end of the accounting period, income and expense accounts are closed in:",
+    "op": [
+        "Income statement",
+        "Balance sheet",
+        "Asset account",
+        "General Journal"
+    ],
+    "created_at": "2026-06-16T19:22:02.33436+00:00"
+},
+{
+    "id": 826,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of recovery of bad debts, _____________ is credited.",
+    "op": [
+        "Bank account",
+        "Debts account",
+        "Doubtful debts account",
+        "Bad debts recovered account"
+    ],
+    "created_at": "2026-06-16T19:22:12.75775+00:00"
+},
+{
+    "id": 829,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Debtors which might become bad in future is known as____________.",
+    "op": [
+        "Doubtful debt",
+        "Sundry debtors",
+        "Long term debts",
+        "Bad debt"
+    ],
+    "created_at": "2026-06-16T19:22:33.66535+00:00"
+},
+{
+    "id": 833,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of increase in provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Receivable account",
+        "Payable account",
+        "Bad debts account",
+        "Provision account"
+    ],
+    "created_at": "2026-06-16T19:22:40.804353+00:00"
+},
+{
+    "id": 835,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Accrued income at the end of the period is treated as:",
+    "op": [
+        "Expense",
+        "Asset",
+        "Drawings",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:22:54.946472+00:00"
+},
+{
+    "id": 839,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items may appear in Trade payable control account EXCEPT:",
+    "op": [
+        "Cash purchases",
+        "Cash paid to creditors",
+        "Discount received",
+        "Credit purchases"
+    ],
+    "created_at": "2026-06-16T19:23:04.042039+00:00"
+},
+{
+    "id": 841,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A control account is an individual account that appears in the _________________.",
+    "op": [
+        "Journal",
+        "Trial balance",
+        "Invoice",
+        "General ledger"
+    ],
+    "created_at": "2026-06-16T19:23:20.738972+00:00"
+},
+{
+    "id": 845,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Advance receipt at the end of the period is treated as:",
+    "op": [
+        "Expenses",
+        "Liability",
+        "Drawings",
+        "Assets"
+    ],
+    "created_at": "2026-06-16T19:23:35.208653+00:00"
+},
+{
+    "id": 849,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in credit side of debtors account.",
+    "op": [
+        "Credit purchases",
+        "Trade discount",
+        "Discount allowed",
+        "Cash purchases"
+    ],
+    "created_at": "2026-06-16T19:24:18.497047+00:00"
+},
+{
+    "id": 871,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. A dishonored cheque of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 10,000 debit",
+        "Rs. 8,000 debit",
+        "Rs. 9,500 debit",
+        "Rs. 8,500 debit"
+    ],
+    "created_at": "2026-06-16T19:27:28.972145+00:00"
+},
+{
+    "id": 874,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "<p>Under one account method, a separate ledger account of particular income is not maintained.</p>",
+    "op": [
+        "<p><strong>True</strong></p>",
+        "<p>False</p>"
+    ],
+    "created_at": "2026-06-16T19:27:38.537147+00:00"
+},
+{
+    "id": 882,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received in advance at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Liability",
+        "Asset",
+        "Income"
+    ],
+    "created_at": "2026-06-16T19:28:12.907555+00:00"
+},
+{
+    "id": 884,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "The useful life of tangible fixed assets is:",
+    "op": [
+        "More than 6 month",
+        "More than one year",
+        "Less than 6 months",
+        "Less than one year"
+    ],
+    "created_at": "2026-06-16T19:28:21.326409+00:00"
+},
+{
+    "id": 887,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Advance payment at the end of the period is treated as:",
+    "op": [
+        "Assets",
+        "Income",
+        "Drawings",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T19:28:29.813159+00:00"
+},
+{
+    "id": 916,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following is TRUE regarding tangible fixed assets?",
+    "op": [
+        "These are to be used over a period of time (in excess of one year)",
+        "There is probability of inflow of economic benefits in future",
+        "All of the given options",
+        "Their cost can be measured reliably"
+    ],
+    "created_at": "2026-06-16T19:30:41.488119+00:00"
+},
+{
+    "id": 924,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of recovery of bad debts, _____________ is debited.",
+    "op": [
+        "Bad debts recovered account",
+        "Debts account",
+        "Bank account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-16T19:31:19.586902+00:00"
+},
+{
+    "id": 929,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If you are going to calculate the depreciation expense for the year, which of the following information must be gathered?",
+    "op": [
+        "All of the given information",
+        "Deprecation method",
+        "Depreciation rate",
+        "Deprecation basis (time proportionate or full year basis)"
+    ],
+    "created_at": "2026-06-16T19:32:25.993561+00:00"
+},
+{
+    "id": 935,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "True and fair performance of any business entity is measurable under:",
+    "op": [
+        "Accrual basis",
+        "Both accrual and cash basis",
+        "None of the given options",
+        "Cash basis"
+    ],
+    "created_at": "2026-06-16T19:33:05.444431+00:00"
+},
+{
+    "id": 1035,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If a fixed asset is purchased for Rs. 100,000 and payment is made through cheque; then which of the following account will be credited?",
+    "op": [
+        "Cash account",
+        "Fixed asset account",
+        "Bank account",
+        "Debtor account"
+    ],
+    "created_at": "2026-06-16T19:43:31.987369+00:00"
+},
+{
+    "id": 1041,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of increase in provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Payable account",
+        "Provision for doubtful debts account",
+        "Receivable account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-16T19:44:40.198625+00:00"
+},
+{
+    "id": 1043,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income receivable at the end of the period is treated as:",
+    "op": [
+        "Assets",
+        "Liability",
+        "Expense",
+        "Drawings"
+    ],
+    "created_at": "2026-06-16T19:44:54.725764+00:00"
+},
+{
+    "id": 1048,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense account is closed at the end of the accounting period in:",
+    "op": [
+        "Balance sheet",
+        "General Journal",
+        "Income statement",
+        "Income account"
+    ],
+    "created_at": "2026-06-16T19:45:06.475424+00:00"
+},
+{
+    "id": 1085,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is debited for closing the salaries expense for the period.",
+    "op": [
+        "Salaries income",
+        "Accrued Salaries",
+        "Salaries expense",
+        "Income statement"
+    ],
+    "created_at": "2026-06-16T19:49:14.828573+00:00"
+},
+{
+    "id": 1088,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of equipment is Rs. 108,000, useful life is 10 years and its residual value is Rs. 8,000. Then Deprecation for the year using straight line method is ____________.",
+    "op": [
+        "Rs. 100,000",
+        "Rs. 10,800",
+        "Rs. 10,000",
+        "Rs. 800"
+    ],
+    "created_at": "2026-06-16T19:49:31.428538+00:00"
+},
+{
+    "id": 1105,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Control accounts are maintained for all of the following EXCEPT:",
+    "op": [
+        "Inventory",
+        "Trade receivables",
+        "Trade payables",
+        "Depreciation"
+    ],
+    "created_at": "2026-06-16T19:52:09.897832+00:00"
+},
+{
+    "id": 1171,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 90,000, total estimated output is 30,000 units and its residual value is Rs. 10,000. Then Deprecation rate per unit is ____________.",
+    "op": [
+        "Rs. 9 per unit",
+        "Rs. 1.11 per unit",
+        "Rs. 3 per unit",
+        "Rs. 2.67 per unit"
+    ],
+    "created_at": "2026-06-16T19:59:29.165937+00:00"
+},
+{
+    "id": 1173,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received during the period should be mentioned in:",
+    "op": [
+        "Payment side of cash book",
+        "Income side of balance sheet",
+        "Receipt side of balance sheet",
+        "Receipt side of cash book"
+    ],
+    "created_at": "2026-06-16T20:00:07.996944+00:00"
+},
+{
+    "id": 1175,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Control accounts are usually maintained by:",
+    "op": [
+        "Non-profit businesses",
+        "Sole proprietors",
+        "Large organizations",
+        "Partnerships"
+    ],
+    "created_at": "2026-06-16T20:00:36.739968+00:00"
+},
+{
+    "id": 1176,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________________ is posted in credit side of debtors account.",
+    "op": [
+        "Credit purchases",
+        "Cash purchases",
+        "Trade discount",
+        "Receipts from debtors"
+    ],
+    "created_at": "2026-06-16T20:00:46.785144+00:00"
+},
+{
+    "id": 1181,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. Cash sales of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 8,000 debit",
+        "Rs. 8,500 debit",
+        "Rs. 9,500 debit",
+        "Rs. 9,000 debit"
+    ],
+    "created_at": "2026-06-16T20:01:20.411431+00:00"
+},
+{
+    "id": 1183,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "________________ is charged to profit and loss account.",
+    "op": [
+        "Drawings",
+        "Bad debts account",
+        "long term loan",
+        "Capital"
+    ],
+    "created_at": "2026-06-16T20:02:17.796645+00:00"
+},
+{
+    "id": 1193,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A credit sales of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 9,000 credit",
+        "Rs. 8,000 credit",
+        "Rs. 8,500 credit",
+        "Rs. 10,000 credit"
+    ],
+    "created_at": "2026-06-16T20:03:29.681714+00:00"
+},
+{
+    "id": 1197,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income due at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Liability",
+        "Expenses",
+        "Assets"
+    ],
+    "created_at": "2026-06-16T20:03:58.872273+00:00"
+},
+{
+    "id": 1208,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________ is posted in credit side of debtors account.",
+    "op": [
+        "Cash sales",
+        "Total sales",
+        "Return inwards",
+        "Return outwards"
+    ],
+    "created_at": "2026-06-16T20:05:01.301891+00:00"
+},
+{
+    "id": 1226,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is credited for closing the salaries expense for the period.",
+    "op": [
+        "Accrued Salaries",
+        "Salaries income",
+        "Salaries expense",
+        "Income statement"
+    ],
+    "created_at": "2026-06-16T20:07:05.132574+00:00"
+},
+{
+    "id": 1251,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in the debit side of debtors account.",
+    "op": [
+        "Cash sales",
+        "Balance c/f of debtors",
+        "Cash purchase",
+        "Balance b/f of debtors"
+    ],
+    "created_at": "2026-06-16T20:13:01.988368+00:00"
+},
+{
+    "id": 1253,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a new production plant. Its purchase price is Rs. 100,000, import duty Rs. 8,000 and installation cost is Rs. 5,000. It will be initially recognized in books at Rs. ___________.",
+    "op": [
+        "Rs. 105,000",
+        "Rs. 100,000",
+        "Rs. 113,000",
+        "Rs. 108,000"
+    ],
+    "created_at": "2026-06-16T20:13:24.151638+00:00"
+},
+{
+    "id": 1261,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on debit side of Trade receivable control account EXCEPT:",
+    "op": [
+        "Discount allowed",
+        "Credit sales",
+        "Interest charged to debtors",
+        "Cheques dishonored"
+    ],
+    "created_at": "2026-06-16T20:14:41.156466+00:00"
+},
+{
+    "id": 1272,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating the provision for discount on debts, __________________ is credited.",
+    "op": [
+        "Receivable account",
+        "Discount on debts account",
+        "Provision for discount account",
+        "Trade discount account"
+    ],
+    "created_at": "2026-06-16T20:16:15.454445+00:00"
+},
+{
+    "id": 1275,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "________________ is posted in debit side of receivable account.",
+    "op": [
+        "Balance c/f of receivable",
+        "Cash sales",
+        "Cash purchase",
+        "Balance b/f of receivable"
+    ],
+    "created_at": "2026-06-16T20:16:32.573974+00:00"
+},
+{
+    "id": 1289,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense due at the end of the period is treated as:",
+    "op": [
+        "Liability",
+        "Drawings",
+        "Income",
+        "Assets"
+    ],
+    "created_at": "2026-06-16T20:19:29.889392+00:00"
+},
+{
+    "id": 1291,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income account is closed at the end of the accounting period in:",
+    "op": [
+        "Expense account",
+        "Income statement",
+        "General Journal",
+        "Balance sheet"
+    ],
+    "created_at": "2026-06-16T20:19:38.919263+00:00"
+},
+{
+    "id": 1294,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a used production plant. Its purchase price is Rs. 100,000; cost incurred to remove plant from site Rs. 4,000 and installation cost is Rs. 5,000. It will be initially recognized in books at Rs. ___________.",
+    "op": [
+        "Rs. 100,000",
+        "Rs. 105,000",
+        "Rs. 109,000",
+        "Rs. 104,000"
+    ],
+    "created_at": "2026-06-16T20:19:55.380878+00:00"
+},
+{
+    "id": 1303,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid but the benefit is not received till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Asset",
+        "Liability",
+        "Capital",
+        "Drawing"
+    ],
+    "created_at": "2026-06-16T20:20:59.717937+00:00"
+},
+{
+    "id": 1331,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Debtors Control Account, Debit side posted items cause:",
+    "op": [
+        "Increase in creditors’ balance",
+        "Both increase and decrease in debtors’ balance",
+        "Decrease in debtors’ balance",
+        "Increase in debtors’ balance"
+    ],
+    "created_at": "2026-06-16T20:28:37.296597+00:00"
+},
+{
+    "id": 1361,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following can be attributed as ‘Useful life’ a tangible fixed asset?",
+    "op": [
+        "Period over which the asset is expected to be used",
+        "Number of hours expected to put the asset in production",
+        "All of the given options",
+        "Number of production units expected to be obtained from the asset"
+    ],
+    "created_at": "2026-06-16T20:34:00.523555+00:00"
+},
+{
+    "id": 1368,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A debtors’ control account is used to record all the transactions related to:",
+    "op": [
+        "Cash sales",
+        "Credit purchases",
+        "Cash purchases",
+        "Credit sales"
+    ],
+    "created_at": "2026-06-16T20:34:40.581095+00:00"
+},
+{
+    "id": 1370,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses incurred but not yet paid till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Asset",
+        "Drawing",
+        "Liability",
+        "Capital"
+    ],
+    "created_at": "2026-06-16T20:34:48.345609+00:00"
+},
+{
+    "id": 1437,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid in advance at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Assets",
+        "Income",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T20:48:03.758285+00:00"
+},
+{
+    "id": 1438,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. Credit purchases of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 9,500 debit",
+        "Rs. 8,500 debit",
+        "Rs. 9,000 debit",
+        "Rs. 8,000 debit"
+    ],
+    "created_at": "2026-06-16T20:49:25.189325+00:00"
+},
+{
+    "id": 1439,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A discount received of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 8,000 credit",
+        "Rs. 9,500 credit",
+        "Rs. 10,000 credit",
+        "Rs. 8,500 credit"
+    ],
+    "created_at": "2026-06-16T20:49:56.488594+00:00"
+},
+{
+    "id": 1539,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 90,000, total estimated output is 30,000 units and units produced during year 2019 are 7,000. Then calculate deprecation for year 2019 if deprecation rate per unit is Rs. 3.",
+    "op": [
+        "Rs. 270,000",
+        "Rs. 90,000",
+        "Rs. 180,000",
+        "Rs. 21,000"
+    ],
+    "created_at": "2026-06-16T21:57:01.184168+00:00"
+},
+{
+    "id": 1572,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of decrease in provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Provision account",
+        "Receivable account",
+        "Payable account",
+        "Bad debts account"
+    ],
+    "created_at": "2026-06-16T22:09:21.459798+00:00"
+},
+{
+    "id": 1632,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Irrecoverable debts are also known as:",
+    "op": [
+        "Long term debts",
+        "Doubtful debts",
+        "Short term debts",
+        "Bad debts"
+    ],
+    "created_at": "2026-06-16T22:25:37.908353+00:00"
+},
+{
+    "id": 1657,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received but not yet earned till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Drawing",
+        "Asset",
+        "Liability",
+        "Capital"
+    ],
+    "created_at": "2026-06-16T22:49:26.429075+00:00"
+},
+{
+    "id": 1658,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Creditors Control Account, Credit side shows the items that will cause:",
+    "op": [
+        "Both increase and decrease in creditors’ balance",
+        "Increase in debtors’ balance",
+        "Decrease in creditors’ balance",
+        "Increase in creditors’ balance"
+    ],
+    "created_at": "2026-06-16T22:50:08.441658+00:00"
+},
+{
+    "id": 1676,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________________ is posted in credit side of debtors account.",
+    "op": [
+        "Transportation inwards",
+        "Purchase return",
+        "Sales return",
+        "Transportation outwards"
+    ],
+    "created_at": "2026-06-16T23:30:27.836903+00:00"
+},
+{
+    "id": 1815,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of discount allowed to debtors, _____________ is credited.",
+    "op": [
+        "Debtors account",
+        "Creditors account",
+        "Trade discount account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-17T01:20:16.829437+00:00"
+},
+{
+    "id": 2196,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in debit side of debtors account.",
+    "op": [
+        "Cash sales",
+        "Cash purchase",
+        "Credit purchase",
+        "Credit sales"
+    ],
+    "created_at": "2026-06-17T03:44:11.220743+00:00"
+},
+{
+    "id": 44115,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. Credit purchases of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 8,500 debit",
+        "Rs. 9,500 debit",
+        "Rs. 8,000 debit",
+        "Rs. 9,000 debit"
+    ],
+    "created_at": "2026-06-17T05:22:05.155184+00:00"
+},
+{
+    "id": 44116,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of writing off debtors as bad debt, ____________ is credited.",
+    "op": [
+        "Debtors account",
+        "Payable account",
+        "Provision account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-17T05:23:16.841308+00:00"
+},
+{
+    "id": 44117,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "________________ is charged to profit and loss account.",
+    "op": [
+        "long term loan",
+        "Capital",
+        "Drawings",
+        "Bad debts account"
+    ],
+    "created_at": "2026-06-17T05:23:33.263437+00:00"
+},
+{
+    "id": 44118,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 90,000, total estimated hours are 11,000 and number of hours worked during year 2019 are 8,000. Then calculate depreciation for year 2019 if deprecation rate per hour is Rs. 6.",
+    "op": [
+        "Rs. 48,000",
+        "Rs. 66,000",
+        "Rs. 30,000",
+        "Rs. 540,000"
+    ],
+    "created_at": "2026-06-17T05:35:59.440237+00:00"
+},
+{
+    "id": 44119,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent income account should be debited due to:",
+    "op": [
+        "Rent receivable opening",
+        "Rent receivable closing",
+        "Rental income received",
+        "Balance sheet account"
+    ],
+    "created_at": "2026-06-17T05:36:20.383215+00:00"
+},
+{
+    "id": 44120,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating the provision for discount on debts, __________________ is debited.",
+    "op": [
+        "Discount received account",
+        "Discount allowed account",
+        "Receivable account",
+        "Provision account"
+    ],
+    "created_at": "2026-06-17T04:21:34.289668+00:00"
+},
+{
+    "id": 44121,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of discount allowed to debtors, _____________ is debited.",
+    "op": [
+        "Discount allowed account",
+        "Doubtful debts account",
+        "Receivable account",
+        "Trade discount account"
+    ],
+    "created_at": "2026-06-17T04:22:06.876584+00:00"
+},
+{
+    "id": 44122,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income account is closed at the end of the accounting period in:",
+    "op": [
+        "Income statement",
+        "Expense account",
+        "Balance sheet",
+        "General Journal"
+    ],
+    "created_at": "2026-06-17T04:23:15.874859+00:00"
+},
+{
+    "id": 44123,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________________ is posted in credit side of debtors account.",
+    "op": [
+        "Cash purchases",
+        "Credit purchases",
+        "Receipts from debtors",
+        "Trade discount"
+    ],
+    "created_at": "2026-06-17T05:47:12.742111+00:00"
+},
+{
+    "id": 44124,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of goods sold on credit basis, _____________ is debited.",
+    "op": [
+        "Credit account",
+        "Debit account",
+        "Bank account",
+        "Debtors account"
+    ],
+    "created_at": "2026-06-17T04:25:09.237828+00:00"
+},
+{
+    "id": 44125,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A control account is an individual account that appears in the _________________.",
+    "op": [
+        "Invoice",
+        "Trial balance",
+        "Journal",
+        "General ledger"
+    ],
+    "created_at": "2026-06-17T05:58:43.637253+00:00"
+},
+{
+    "id": 44126,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A cash purchase of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 8,500 credit",
+        "Rs. 8,000 credit",
+        "Rs. 9,000 credit",
+        "Rs. 10,000 credit"
+    ],
+    "created_at": "2026-06-17T06:00:15.494269+00:00"
+},
+{
+    "id": 44127,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses incurred but not yet paid till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Liability",
+        "Drawing",
+        "Capital",
+        "Asset"
+    ],
+    "created_at": "2026-06-16T20:39:37.600999+00:00"
+},
+{
+    "id": 44128,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received in advance at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Income",
+        "Asset",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T20:40:30.219689+00:00"
+},
+{
+    "id": 44129,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "18 June 2026",
+    "qt": "In case of creating provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Receivable account",
+        "Provision account",
+        "Bad debts account",
+        "Payable account"
+    ],
+    "created_at": "2026-06-18T07:01:17.984906+00:00"
+},
+{
+    "id": 44130,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of writing off debtors as bad debt, ____________ is debited.",
+    "op": [
+        "Receivable account",
+        "Payable account",
+        "Bad debts account",
+        "Provision account"
+    ],
+    "created_at": "2026-06-16T20:36:57.501418+00:00"
+},
+{
+    "id": 44131,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Creditors Control Account, Debit side shows the items that will cause:",
+    "op": [
+        "Increase in debtors’ balance",
+        "Decrease in creditors’ balance",
+        "Increase in creditors’ balance",
+        "Both increase and decrease in creditors’ balance"
+    ],
+    "created_at": "2026-06-17T06:08:06.449726+00:00"
+},
+{
+    "id": 44132,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid in advance at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Liability",
+        "Assets",
+        "Income"
+    ],
+    "created_at": "2026-06-16T20:38:08.929205+00:00"
+},
+{
+    "id": 44133,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of equipment is Rs. 108,000, useful life is 10 years and its residual value is Rs. 8,000. Then Deprecation for the year using straight line method is ____________.",
+    "op": [
+        "Rs. 800",
+        "Rs. 100,000",
+        "Rs. 10,800",
+        "Rs. 10,000"
+    ],
+    "created_at": "2026-06-16T20:41:14.383413+00:00"
+},
+{
+    "id": 44134,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following is TRUE regarding tangible fixed assets?",
+    "op": [
+        "There is probability of inflow of economic benefits in future",
+        "All of the given options",
+        "These are to be used over a period of time (in excess of one year)",
+        "Their cost can be measured reliably"
+    ],
+    "created_at": "2026-06-16T20:42:37.175167+00:00"
+},
+{
+    "id": 44135,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is debited for closing the commission income for the period.",
+    "op": [
+        "Commission expense",
+        "Income statement",
+        "Commission income",
+        "Accrued commission"
+    ],
+    "created_at": "2026-06-17T04:46:31.120212+00:00"
+},
+{
+    "id": 44136,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on debit side of Trade payable control account EXCEPT:",
+    "op": [
+        "Credit purchases",
+        "Purchases return",
+        "Cash paid to creditors",
+        "Discount received"
+    ],
+    "created_at": "2026-06-17T04:46:41.618713+00:00"
+},
+{
+    "id": 44137,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of decrease in provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Receivable account",
+        "Doubtful debts account",
+        "Payable account",
+        "Provision for doubtful debts account"
+    ],
+    "created_at": "2026-06-17T04:47:18.974171+00:00"
+},
+{
+    "id": 44138,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A creditors’ control account is used to record all the transactions related to:",
+    "op": [
+        "Credit sales",
+        "Cash sales",
+        "Cash purchases",
+        "Credit purchases"
+    ],
+    "created_at": "2026-06-17T04:47:25.0247+00:00"
+},
+{
+    "id": 44139,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________________ is posted in debit side of debtors account.",
+    "op": [
+        "Opening and closing balance of creditors",
+        "Credit sales and opening balance of debtors",
+        "Cash sales and credit sales",
+        "Cash and credit purchase"
+    ],
+    "created_at": "2026-06-16T20:43:14.391866+00:00"
+},
+{
+    "id": 44140,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received during the period should be mentioned in:",
+    "op": [
+        "Receipt side of balance sheet",
+        "Payment side of cash book",
+        "Receipt side of cash book",
+        "Income side of balance sheet"
+    ],
+    "created_at": "2026-06-16T20:45:27.076577+00:00"
+},
+{
+    "id": 44141,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________ is the systematic allocation of the depreciable amount of an asset over its useful life.",
+    "op": [
+        "Depreciation",
+        "Cost",
+        "Fair value",
+        "Market value"
+    ],
+    "created_at": "2026-06-16T20:46:05.740793+00:00"
+},
+{
+    "id": 44142,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of decrease in provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Bad debts account",
+        "Payable account",
+        "Receivable account",
+        "Provision account"
+    ],
+    "created_at": "2026-06-16T20:44:19.229825+00:00"
+},
+{
+    "id": 44143,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of increase in provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Receivable account",
+        "Provision for doubtful debts account",
+        "Doubtful debts account",
+        "Payable account"
+    ],
+    "created_at": "2026-06-17T10:33:02.155951+00:00"
+},
+{
+    "id": 44144,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a new production plant. Its purchase price is Rs. 100,000, import duty Rs. 8,000 and installation cost is Rs. 5,000. It will be initially recognized in books at Rs. ___________.",
+    "op": [
+        "Rs. 113,000",
+        "Rs. 105,000",
+        "Rs. 100,000",
+        "Rs. 108,000"
+    ],
+    "created_at": "2026-06-17T06:31:06.415807+00:00"
+},
+{
+    "id": 44145,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. Cash sales of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 9,500 debit",
+        "Rs. 8,500 debit",
+        "Rs. 9,000 debit",
+        "Rs. 8,000 debit"
+    ],
+    "created_at": "2026-06-17T06:39:58.016321+00:00"
+},
+{
+    "id": 44146,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "<p>Under one account method, a separate ledger account of particular income is not maintained.</p>",
+    "op": [
+        "<p><strong>True</strong></p>",
+        "<p>False</p>"
+    ],
+    "created_at": "2026-06-17T06:41:29.31218+00:00"
+},
+{
+    "id": 44147,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid but the benefit is not received till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Liability",
+        "Capital",
+        "Drawing",
+        "Asset"
+    ],
+    "created_at": "2026-06-17T06:41:49.770629+00:00"
+},
+{
+    "id": 44148,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Creditors Control Account, Credit side shows the items that will cause:",
+    "op": [
+        "Increase in debtors’ balance",
+        "Both increase and decrease in creditors’ balance",
+        "Increase in creditors’ balance",
+        "Decrease in creditors’ balance"
+    ],
+    "created_at": "2026-06-16T21:01:15.55119+00:00"
+},
+{
+    "id": 44149,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If you are going to calculate the depreciation expense for the year, which of the following information must be gathered?",
+    "op": [
+        "Depreciation rate",
+        "Deprecation basis (time proportionate or full year basis)",
+        "Deprecation method",
+        "All of the given information"
+    ],
+    "created_at": "2026-06-16T21:01:42.988028+00:00"
+},
+{
+    "id": 44150,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is credited for closing the commission income for the period.",
+    "op": [
+        "Accrued commission",
+        "Commission income",
+        "Commission expense",
+        "Income statement"
+    ],
+    "created_at": "2026-06-16T21:01:59.139827+00:00"
+},
+{
+    "id": 44151,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A debtors’ control account is used to record all the transactions related to:",
+    "op": [
+        "Credit purchases",
+        "Credit sales",
+        "Cash purchases",
+        "Cash sales"
+    ],
+    "created_at": "2026-06-16T21:02:09.772793+00:00"
+},
+{
+    "id": 44152,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent receivable account should be credited due to:",
+    "op": [
+        "Closing balance",
+        "Balance sheet",
+        "Profit and loss",
+        "Opening balance"
+    ],
+    "created_at": "2026-06-16T21:02:24.935888+00:00"
+},
+{
+    "id": 44153,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Accrued income at the end of the period is treated as:",
+    "op": [
+        "Liability",
+        "Asset",
+        "Drawings",
+        "Expense"
+    ],
+    "created_at": "2026-06-16T21:02:34.947929+00:00"
+},
+{
+    "id": 44154,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of increase in provision for doubtful debt, _____________ is debited.",
+    "op": [
+        "Bad debts account",
+        "Provision account",
+        "Receivable account",
+        "Payable account"
+    ],
+    "created_at": "2026-06-17T06:49:09.972905+00:00"
+},
+{
+    "id": 44155,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A credit purchase of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 9,500 credit",
+        "Rs. 8,500 credit",
+        "Rs. 10,000 credit",
+        "Rs. 8,000 credit"
+    ],
+    "created_at": "2026-06-17T05:08:33.566939+00:00"
+},
+{
+    "id": 44156,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If a fixed asset is purchased for Rs. 100,000 and payment is made through cheque; then which of the following account will be debited?",
+    "op": [
+        "Debtor account",
+        "Cash account",
+        "Fixed asset account",
+        "Bank account"
+    ],
+    "created_at": "2026-06-17T05:08:48.23174+00:00"
+},
+{
+    "id": 44157,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "The useful life of tangible fixed assets is:",
+    "op": [
+        "More than one year",
+        "More than 6 month",
+        "Less than 6 months",
+        "Less than one year"
+    ],
+    "created_at": "2026-06-17T05:09:07.304157+00:00"
+},
+{
+    "id": 44158,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of recovery of bad debts, _____________ is credited.",
+    "op": [
+        "Doubtful debts account",
+        "Bank account",
+        "Bad debts recovered account",
+        "Debts account"
+    ],
+    "created_at": "2026-06-17T05:09:31.508924+00:00"
+},
+{
+    "id": 44159,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "At the end of the accounting period, income and expense accounts are closed in:",
+    "op": [
+        "Balance sheet",
+        "Asset account",
+        "Income statement",
+        "General Journal"
+    ],
+    "created_at": "2026-06-17T05:09:43.131493+00:00"
+},
+{
+    "id": 44160,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "____________________ is posted in credit side of debtors account.",
+    "op": [
+        "Cash sales",
+        "None of the given options",
+        "balance b/f of debtors",
+        "Credit sales"
+    ],
+    "created_at": "2026-06-17T06:52:13.612897+00:00"
+},
+{
+    "id": 44161,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on debit side of Trade receivable control account EXCEPT:",
+    "op": [
+        "Credit sales",
+        "Interest charged to debtors",
+        "Discount allowed",
+        "Cheques dishonored"
+    ],
+    "created_at": "2026-06-17T05:10:17.713267+00:00"
+},
+{
+    "id": 44162,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Control accounts are usually maintained by:",
+    "op": [
+        "Non-profit businesses",
+        "Partnerships",
+        "Large organizations",
+        "Sole proprietors"
+    ],
+    "created_at": "2026-06-17T05:11:28.569621+00:00"
+},
+{
+    "id": 44163,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income receivable at the end of the period is treated as:",
+    "op": [
+        "Liability",
+        "Assets",
+        "Drawings",
+        "Expense"
+    ],
+    "created_at": "2026-06-17T05:11:31.018407+00:00"
+},
+{
+    "id": 44164,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 90,000, total estimated output is 30,000 units and its residual value is Rs. 10,000. Then Deprecation rate per unit is ____________.",
+    "op": [
+        "Rs. 1.11 per unit",
+        "Rs. 9 per unit",
+        "Rs. 2.67 per unit",
+        "Rs. 3 per unit"
+    ],
+    "created_at": "2026-06-17T05:12:44.589777+00:00"
+},
+{
+    "id": 44165,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following can be attributed as ‘Useful life’ a tangible fixed asset?",
+    "op": [
+        "Number of production units expected to be obtained from the asset",
+        "All of the given options",
+        "Number of hours expected to put the asset in production",
+        "Period over which the asset is expected to be used"
+    ],
+    "created_at": "2026-06-17T06:59:29.226564+00:00"
+},
+{
+    "id": 44166,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 90,000, total estimated output is 30,000 units and units produced during year 2019 are 7,000. Then calculate deprecation for year 2019 if deprecation rate per unit is Rs. 3.",
+    "op": [
+        "Rs. 21,000",
+        "Rs. 180,000",
+        "Rs. 90,000",
+        "Rs. 270,000"
+    ],
+    "created_at": "2026-06-17T05:14:54.513568+00:00"
+},
+{
+    "id": 44167,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. A dishonored cheque of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 10,000 debit",
+        "Rs. 9,500 debit",
+        "Rs. 8,000 debit",
+        "Rs. 8,500 debit"
+    ],
+    "created_at": "2026-06-17T05:15:00.987296+00:00"
+},
+{
+    "id": 44168,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If an asset is exchanged with another asset and commercial substance does not exist, the cost of asset taken through exchange is __________ of asset given up.",
+    "op": [
+        "Purchase price",
+        "Market value",
+        "Carrying value",
+        "Fair value"
+    ],
+    "created_at": "2026-06-17T05:15:15.348724+00:00"
+},
+{
+    "id": 44169,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A credit sales of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 10,000 credit",
+        "Rs. 8,000 credit",
+        "Rs. 8,500 credit",
+        "Rs. 9,000 credit"
+    ],
+    "created_at": "2026-06-17T05:15:24.407702+00:00"
+},
+{
+    "id": 44170,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating provision for doubtful debt, _____________ is credited.",
+    "op": [
+        "Receivable account",
+        "Payable account",
+        "Doubtful debts account",
+        "Provision for doubtful debts account"
+    ],
+    "created_at": "2026-06-17T05:15:26.511053+00:00"
+},
+{
+    "id": 44171,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Which of the following is a Tangible fixed asset?",
+    "op": [
+        "All of the given options",
+        "Factory Workshop",
+        "Car held for rent",
+        "Outlet where products are displayed"
+    ],
+    "created_at": "2026-06-17T05:15:36.741109+00:00"
+},
+{
+    "id": 44172,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Control accounts are maintained for all of the following EXCEPT:",
+    "op": [
+        "Inventory",
+        "Depreciation",
+        "Trade receivables",
+        "Trade payables"
+    ],
+    "created_at": "2026-06-17T05:15:58.815231+00:00"
+},
+{
+    "id": 44173,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If a fixed asset is purchased for Rs. 100,000 and payment is made through cheque; then which of the following account will be credited?",
+    "op": [
+        "Cash account",
+        "Bank account",
+        "Debtor account",
+        "Fixed asset account"
+    ],
+    "created_at": "2026-06-17T16:05:52.963204+00:00"
+},
+{
+    "id": 44174,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income received but not yet earned till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Capital",
+        "Asset",
+        "Drawing",
+        "Liability"
+    ],
+    "created_at": "2026-06-16T22:13:20.633916+00:00"
+},
+{
+    "id": 44175,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expenses paid during the period should be mentioned in:",
+    "op": [
+        "Payment side of balance sheet",
+        "Payment side of cash book",
+        "Receipt side of cash book",
+        "Expense side of balance sheet"
+    ],
+    "created_at": "2026-06-17T07:19:42.719033+00:00"
+},
+{
+    "id": 44176,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Advance receipt at the end of the period is treated as:",
+    "op": [
+        "Expenses",
+        "Liability",
+        "Drawings",
+        "Assets"
+    ],
+    "created_at": "2026-06-17T07:24:27.4345+00:00"
+},
+{
+    "id": 44177,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Rent receivable account should be debited due to:",
+    "op": [
+        "Balance sheet",
+        "Closing balance",
+        "Opening balance",
+        "Cash paid"
+    ],
+    "created_at": "2026-06-16T22:13:57.147042+00:00"
+},
+{
+    "id": 44178,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense payable at the end of the period is treated as:",
+    "op": [
+        "Income",
+        "Asset",
+        "Liability",
+        "Drawings"
+    ],
+    "created_at": "2026-06-16T22:14:59.788214+00:00"
+},
+{
+    "id": 44179,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Prepaid expense at the end of the period is treated as:",
+    "op": [
+        "Liability",
+        "Asset",
+        "Income",
+        "Drawing"
+    ],
+    "created_at": "2026-06-16T22:16:22.619595+00:00"
+},
+{
+    "id": 44180,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a new production plant. It will be initially measured at____________.",
+    "op": [
+        "Cost",
+        "Market value",
+        "Fair value",
+        "Whichever value is available"
+    ],
+    "created_at": "2026-06-16T22:18:00.93815+00:00"
+},
+{
+    "id": 44181,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is posted in credit side of debtors account.",
+    "op": [
+        "Credit sales",
+        "Balance b/f of debtors",
+        "Balance c/f of debtors",
+        "Cash sales"
+    ],
+    "created_at": "2026-06-16T22:20:04.727173+00:00"
+},
+{
+    "id": 44182,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "___________________ is posted in credit side of debtors account.",
+    "op": [
+        "Purchases return and discount allowed",
+        "Sales return and discount allowed",
+        "Cash purchases and credit purchases",
+        "Cash sales and credit sales"
+    ],
+    "created_at": "2026-06-16T22:20:18.616957+00:00"
+},
+{
+    "id": 44183,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in credit side of debtors account.",
+    "op": [
+        "Credit purchases",
+        "Discount allowed",
+        "Cash purchases",
+        "Trade discount"
+    ],
+    "created_at": "2026-06-16T22:22:28.165064+00:00"
+},
+{
+    "id": 44184,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________________is posted in credit side of debtors account.",
+    "op": [
+        "Sales return account",
+        "Discount allowed account",
+        "All of the given options",
+        "Receipts from debtors"
+    ],
+    "created_at": "2026-06-17T08:02:03.098657+00:00"
+},
+{
+    "id": 44185,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of equipment is Rs. 108,000, useful life is 10 years and its residual value is Rs. 8,000. Then Deprecation for the 3rd year using straight line method is ____________.",
+    "op": [
+        "Rs. 8,000",
+        "Rs. 10,000",
+        "Rs. 9,800",
+        "Rs. 8,820"
+    ],
+    "created_at": "2026-06-17T08:02:18.746611+00:00"
+},
+{
+    "id": 44186,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "If cost of a plant is Rs. 120,000, total estimated hours are 15,000 and residual value is Rs. 20,000. Then depreciation rate per hour is ____________.",
+    "op": [
+        "Rs. 1.33 per hour",
+        "Rs. 6.67 per hour",
+        "Rs. 6 per hour",
+        "Rs. 8 per hour"
+    ],
+    "created_at": "2026-06-16T19:04:42.647214+00:00"
+},
+{
+    "id": 44187,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items may appear in Trade receivable control account EXCEPT:",
+    "op": [
+        "Bad debts",
+        "Cash sales",
+        "Discount allowed",
+        "Cash received from debtors"
+    ],
+    "created_at": "2026-06-16T19:05:16.722491+00:00"
+},
+{
+    "id": 44188,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense due at the end of the period is treated as:",
+    "op": [
+        "Assets",
+        "Drawings",
+        "Liability",
+        "Income"
+    ],
+    "created_at": "2026-06-16T19:05:52.030463+00:00"
+},
+{
+    "id": 44189,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items may appear in Trade payable control account EXCEPT:",
+    "op": [
+        "Purchases return",
+        "Cheques paid to creditors",
+        "Bad debts",
+        "Discount received"
+    ],
+    "created_at": "2026-06-16T19:06:10.476529+00:00"
+},
+{
+    "id": 44190,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income due at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Assets",
+        "Liability",
+        "Expenses"
+    ],
+    "created_at": "2026-06-16T19:06:25.094072+00:00"
+},
+{
+    "id": 44191,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in the debit side of debtors account.",
+    "op": [
+        "Balance c/f of debtors",
+        "Cash sales",
+        "Cash purchase",
+        "Balance b/f of debtors"
+    ],
+    "created_at": "2026-06-16T19:06:38.782756+00:00"
+},
+{
+    "id": 44192,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following items appear on credit side of Trade receivable control account EXCEPT:",
+    "op": [
+        "Discount allowed",
+        "Cheques dishonored",
+        "Bad debts",
+        "Cash received from debtors"
+    ],
+    "created_at": "2026-06-16T19:06:53.434572+00:00"
+},
+{
+    "id": 44193,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_______________ is posted in credit side of debtors account.",
+    "op": [
+        "Return outwards",
+        "Return inwards",
+        "Cash sales",
+        "Total sales"
+    ],
+    "created_at": "2026-06-16T19:07:17.669942+00:00"
+},
+{
+    "id": 44194,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Debtors Control Account, Credit side posted items cause:",
+    "op": [
+        "Both increase and decrease in debtors’ balance",
+        "Increase in debtors’ balance",
+        "Decrease in debtors’ balance",
+        "Increase in creditors’ balance"
+    ],
+    "created_at": "2026-06-16T19:07:35.127474+00:00"
+},
+{
+    "id": 44195,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "18 June 2026",
+    "qt": "Final balance of depreciation expense a/c is closed into the ___________as an expense.",
+    "op": [
+        "Balance sheet",
+        "Cash flow statement",
+        "Trial balance",
+        "Income statement"
+    ],
+    "created_at": "2026-06-17T19:48:49.527526+00:00"
+},
+{
+    "id": 44196,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of recovery of bad debts, _____________ is debited.",
+    "op": [
+        "Bank account",
+        "Bad debts recovered account",
+        "Debts account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-17T02:17:42.1872+00:00"
+},
+{
+    "id": 44197,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Irrecoverable debts are also known as:",
+    "op": [
+        "Long term debts",
+        "Doubtful debts",
+        "Short term debts",
+        "Bad debts"
+    ],
+    "created_at": "2026-06-17T02:18:07.791459+00:00"
+},
+{
+    "id": 44198,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "All of the following are the deprecation methods for tangible fixed assets EXCEPT:",
+    "op": [
+        "Straight line method",
+        "Sum of years digit method",
+        "Indirect method",
+        "Reducing balance method"
+    ],
+    "created_at": "2026-06-17T02:18:50.819988+00:00"
+},
+{
+    "id": 44199,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "________________ is posted in debit side of receivable account.",
+    "op": [
+        "Cash sales",
+        "Balance b/f of receivable",
+        "Balance c/f of receivable",
+        "Cash purchase"
+    ],
+    "created_at": "2026-06-17T02:19:36.876051+00:00"
+},
+{
+    "id": 44200,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Property, Plant and Equipment include:",
+    "op": [
+        "All of the given options",
+        "Assets used for administrative purposes",
+        "Assets to be used in selling of goods or services",
+        "Assets held for production of goods or services"
+    ],
+    "created_at": "2026-06-17T12:27:32.501015+00:00"
+},
+{
+    "id": 44201,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_____________________ is posted in credit side of debtors account.",
+    "op": [
+        "Sales return",
+        "Purchase return",
+        "Transportation inwards",
+        "Transportation outwards"
+    ],
+    "created_at": "2026-06-17T02:47:53.304866+00:00"
+},
+{
+    "id": 44202,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A receivables ledger control account had a closing balance of Rs.9,000. A cheque received from a debtor of Rs. 500 had been omitted to record in this control account. What should be the correct balance of receivables control account?",
+    "op": [
+        "Rs. 9,500 debit",
+        "Rs. 10,000 debit",
+        "Rs. 8,000 debit",
+        "Rs. 8,500 debit"
+    ],
+    "created_at": "2026-06-17T02:48:16.505321+00:00"
+},
+{
+    "id": 44203,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "While preparing a Debtors Control Account, Debit side posted items cause:",
+    "op": [
+        "Increase in creditors’ balance",
+        "Both increase and decrease in debtors’ balance",
+        "Increase in debtors’ balance",
+        "Decrease in debtors’ balance"
+    ],
+    "created_at": "2026-06-17T02:48:36.504652+00:00"
+},
+{
+    "id": 44204,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of goods sold on credit basis, _____________ is credited.",
+    "op": [
+        "Bank account",
+        "Payable account",
+        "Sales account",
+        "Receivable account"
+    ],
+    "created_at": "2026-06-17T02:49:53.858982+00:00"
+},
+{
+    "id": 44205,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "True and fair performance of any business entity is measurable under:",
+    "op": [
+        "Both accrual and cash basis",
+        "None of the given options",
+        "Accrual basis",
+        "Cash basis"
+    ],
+    "created_at": "2026-06-17T02:50:04.576089+00:00"
+},
+{
+    "id": 44206,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "__________________ is posted in debit side of debtors account.",
+    "op": [
+        "Credit sales",
+        "Cash purchase",
+        "Credit purchase",
+        "Cash sales"
+    ],
+    "created_at": "2026-06-17T02:50:15.598351+00:00"
+},
+{
+    "id": 44207,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Income earned but not received till the end of the accounting period is treated in balance sheet as:",
+    "op": [
+        "Liability",
+        "Asset",
+        "Capital",
+        "Drawing"
+    ],
+    "created_at": "2026-06-17T02:55:48.773111+00:00"
+},
+{
+    "id": 44208,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Advance payment at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Liability",
+        "Assets",
+        "Income"
+    ],
+    "created_at": "2026-06-17T02:59:23.712366+00:00"
+},
+{
+    "id": 44209,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is credited for closing the salaries expense for the period.",
+    "op": [
+        "Salaries income",
+        "Accrued Salaries",
+        "Salaries expense",
+        "Income statement"
+    ],
+    "created_at": "2026-06-17T02:59:38.872981+00:00"
+},
+{
+    "id": 44210,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "_________________ is debited for closing the salaries expense for the period.",
+    "op": [
+        "Accrued Salaries",
+        "Salaries income",
+        "Salaries expense",
+        "Income statement"
+    ],
+    "created_at": "2026-06-17T13:00:22.04676+00:00"
+},
+{
+    "id": 44211,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Property Plant and Equipment include:",
+    "op": [
+        "All of the given options",
+        "Assets used for administrative purposes",
+        "Assets which are given on rental to others",
+        "Assets held for production of goods or services"
+    ],
+    "created_at": "2026-06-17T09:31:38.142924+00:00"
+},
+{
+    "id": 44212,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of discount allowed to debtors, _____________ is credited.",
+    "op": [
+        "Creditors account",
+        "Debtors account",
+        "Trade discount account",
+        "Doubtful debts account"
+    ],
+    "created_at": "2026-06-17T09:33:15.424539+00:00"
+},
+{
+    "id": 44213,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Expense account is closed at the end of the accounting period in:",
+    "op": [
+        "Income statement",
+        "General Journal",
+        "Income account",
+        "Balance sheet"
+    ],
+    "created_at": "2026-06-16T19:58:43.279755+00:00"
+},
+{
+    "id": 44214,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "A payables ledger control account had a closing balance of Rs.9,000. A discount received of Rs. 500 had been omitted to record in this control account. What should be the correct balance of payables control account?",
+    "op": [
+        "Rs. 10,000 credit",
+        "Rs. 9,500 credit",
+        "Rs. 8,000 credit",
+        "Rs. 8,500 credit"
+    ],
+    "created_at": "2026-06-16T19:59:10.790143+00:00"
+},
+{
+    "id": 44215,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Debtors which might become bad in future is known as____________.",
+    "op": [
+        "Long term debts",
+        "Doubtful debt",
+        "Bad debt",
+        "Sundry debtors"
+    ],
+    "created_at": "2026-06-16T20:00:31.089325+00:00"
+},
+{
+    "id": 44216,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Unearned income at the end of the period is treated as:",
+    "op": [
+        "Drawings",
+        "Liability",
+        "Assets",
+        "Expense"
+    ],
+    "created_at": "2026-06-16T19:58:56.950923+00:00"
+},
+{
+    "id": 44217,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Accrued expense at the end of the period is treated as:",
+    "op": [
+        "Assets",
+        "Liability",
+        "Drawings",
+        "Income"
+    ],
+    "created_at": "2026-06-16T19:59:22.156829+00:00"
+},
+{
+    "id": 44218,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Mostly, control accounts are maintained for:",
+    "op": [
+        "Trade payables",
+        "Inventory",
+        "All of the given options",
+        "Trade receivables"
+    ],
+    "created_at": "2026-06-16T19:59:40.281295+00:00"
+},
+{
+    "id": 44219,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "ABC Corporation has recently purchased a used production plant. Its purchase price is Rs. 100,000; cost incurred to remove plant from site Rs. 4,000 and installation cost is Rs. 5,000. It will be initially recognized in books at Rs. ___________.",
+    "op": [
+        "Rs. 105,000",
+        "Rs. 100,000",
+        "Rs. 109,000",
+        "Rs. 104,000"
+    ],
+    "created_at": "2026-06-16T19:59:56.844986+00:00"
+},
+{
+    "id": 44220,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "In case of creating the provision for discount on debts, __________________ is credited.",
+    "op": [
+        "Receivable account",
+        "Trade discount account",
+        "Provision for discount account",
+        "Discount on debts account"
+    ],
+    "created_at": "2026-06-16T20:00:04.382325+00:00"
+},
+{
+    "id": 44221,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "17 June 2026",
+    "qt": "Matching principle is applied in:",
+    "op": [
+        "Both accrual and cash basis",
+        "Cash basis",
+        "Accrual basis",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-16T20:00:23.524802+00:00"
+},
+{
+    "id": 47788,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited on sale of completed goods on cash basis in manufacturing concern?",
+    "op": [
+        "Sales account",
+        "Finished goods account",
+        "Cash account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T19:06:02.889773+00:00"
+},
+{
+    "id": 47797,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following is INCORRECT about closing stock?",
+    "op": [
+        "It becomes opening stock of next year",
+        "It is added into current assets",
+        "It reduces the resources of business",
+        "It is deducted from material available for use"
+    ],
+    "created_at": "2026-07-05T19:06:13.871981+00:00"
+},
+{
+    "id": 47804,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Income = ?",
+    "op": [
+        "Expenses – profit",
+        "Assets + profit",
+        "Profit + expenses",
+        "Profit – expenses"
+    ],
+    "created_at": "2026-07-05T19:06:21.773667+00:00"
+},
+{
+    "id": 47806,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Leather to make jackets in manufacturing concern is:",
+    "op": [
+        "Work in process",
+        "Finished goods",
+        "Stock in trade",
+        "Raw material"
+    ],
+    "created_at": "2026-07-05T19:06:23.700541+00:00"
+},
+{
+    "id": 47813,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following Organization converts raw material into finished goods?",
+    "op": [
+        "Service concern",
+        "Trading concern",
+        "Manufacturing concern",
+        "Merchandising concern"
+    ],
+    "created_at": "2026-07-05T19:06:28.268104+00:00"
+},
+{
+    "id": 47818,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited on return of raw material to supplier in manufacturing concern?",
+    "op": [
+        "Debtors account",
+        "Purchase account",
+        "Voucher payable account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T19:06:33.502771+00:00"
+},
+{
+    "id": 47819,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an error of omission?",
+    "op": [
+        "Purchase of vehicle is recorded in repairs account",
+        "A payment to a debtor Mr. A is recorded in the account of another debtor Mr. B",
+        "Bank charges being deducted by the bank without our knowledge",
+        "A receipt of Rs. 50,000 from a debtor is recorded as Rs. 5,000 in his account"
+    ],
+    "created_at": "2026-07-05T19:06:34.253168+00:00"
+},
+{
+    "id": 47834,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Accumulated depreciation of furniture is a/an _________.",
+    "op": [
+        "Expense account",
+        "Contra asset account",
+        "Asset account",
+        "Liability account"
+    ],
+    "created_at": "2026-07-05T19:06:43.052836+00:00"
+},
+{
+    "id": 47841,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the credit side of trial balance is heavier than the debit side, suspense account will be written on ________________.",
+    "op": [
+        "Credit side",
+        "None of the given options",
+        "Debit side",
+        "Both debit and credit side"
+    ],
+    "created_at": "2026-07-05T19:06:48.298111+00:00"
+},
+{
+    "id": 47847,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under periodic system of recording inventory, purchase of inventory is recognized as _______________.",
+    "op": [
+        "Asset",
+        "Stock",
+        "Income",
+        "Expense"
+    ],
+    "created_at": "2026-07-05T19:06:52.573806+00:00"
+},
+{
+    "id": 47855,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If some financial information is completely forgotten to record in the books of original entry, such error is known as:",
+    "op": [
+        "Error of commission",
+        "Error of principle",
+        "Error of omission",
+        "Error of original entry"
+    ],
+    "created_at": "2026-07-05T19:07:00.012225+00:00"
+},
+{
+    "id": 47862,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Prime cost = Direct material cost +",
+    "op": [
+        "Direct labor cost",
+        "Other indirect cost",
+        "Indirect labor cost",
+        "Indirect material cost"
+    ],
+    "created_at": "2026-07-05T19:07:04.383879+00:00"
+},
+{
+    "id": 47864,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Expenses = ?",
+    "op": [
+        "Profit – capital",
+        "Income – profit",
+        "Assets + profit",
+        "Profit + income"
+    ],
+    "created_at": "2026-07-05T19:07:05.25429+00:00"
+},
+{
+    "id": 47874,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A new accountant of ABC Corporation has prepared the trial balance. But there is difference in total of both sides of trial balance; such difference can be due to:",
+    "op": [
+        "Over casting of a ledger account",
+        "Omission of a particular account’s balance in trial balance",
+        "All of the given options",
+        "Under casting of a ledger account"
+    ],
+    "created_at": "2026-07-05T19:07:12.163615+00:00"
+},
+{
+    "id": 47880,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Expired portion of direct cost is a part of________.",
+    "op": [
+        "Selling expense",
+        "Operating expense",
+        "Financial expense",
+        "Cost of sales"
+    ],
+    "created_at": "2026-07-05T19:07:17.024202+00:00"
+},
+{
+    "id": 47897,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mr. Y has recorded a stationary expense of Rs. 50 as salaries expense. What will be its effect on net profit?",
+    "op": [
+        "No effect",
+        "Understated by Rs.100",
+        "Overstated by Rs.100",
+        "Understated by Rs.50"
+    ],
+    "created_at": "2026-07-05T19:07:29.05077+00:00"
+},
+{
+    "id": 47898,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Consumed direct supplies are considered as:",
+    "op": [
+        "Financial expense",
+        "Admin expense",
+        "Selling expense",
+        "Cost of sales"
+    ],
+    "created_at": "2026-07-05T19:07:29.564105+00:00"
+},
+{
+    "id": 47909,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Shipping supplies consumed is considered as:",
+    "op": [
+        "Selling expense",
+        "Admin expense",
+        "Financial expense",
+        "Cost of sales"
+    ],
+    "created_at": "2026-07-05T19:07:38.767706+00:00"
+},
+{
+    "id": 48134,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A new accountant of ABC Corporation has prepared the trial balance. But there is difference in total of both sides of trial balance, such amount of difference shall be named as:",
+    "op": [
+        "Compensation account",
+        "Balance account",
+        "Suspense account",
+        "Error account"
+    ],
+    "created_at": "2026-07-05T19:11:04.070923+00:00"
+},
+{
+    "id": 48190,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Electricity expense is a___________.",
+    "op": [
+        "Revenue Expenditure",
+        "Capital Receipt",
+        "Revenue Receipt",
+        "Capital Expenditure"
+    ],
+    "created_at": "2026-07-05T19:11:46.559631+00:00"
+},
+{
+    "id": 48202,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an error of principle?",
+    "op": [
+        "A payment to a debtor Mr. A is recorded in the account of another debtor Mr. B",
+        "Bank charges being deducted by the bank without our knowledge",
+        "A receipt of Rs. 50,000 from a debtor is recorded as Rs. 5,000 in his account",
+        "Purchase of vehicle is recorded in repairs account"
+    ],
+    "created_at": "2026-07-05T19:11:54.165817+00:00"
+},
+{
+    "id": 48213,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Work in process closing inventory is a/an:",
+    "op": [
+        "Asset",
+        "Income",
+        "Expense",
+        "Liability"
+    ],
+    "created_at": "2026-07-05T19:12:06.132058+00:00"
+},
+{
+    "id": 48215,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a manufacturing concern, rent of office building is included in _________.",
+    "op": [
+        "Cost of goods sold",
+        "Operating expense",
+        "Cost of sales",
+        "Preliminary expense"
+    ],
+    "created_at": "2026-07-05T19:12:06.234831+00:00"
+},
+{
+    "id": 48225,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A purchase of plant and machinery is a___________.",
+    "op": [
+        "Revenue Expenditure",
+        "Capital Expenditure",
+        "Revenue Receipt",
+        "Capital Receipt"
+    ],
+    "created_at": "2026-07-05T19:12:14.393104+00:00"
+},
+{
+    "id": 48227,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Purchase of building costing Rs. 500,000 is recorded in repairs account. What will be its effect on net profit?",
+    "op": [
+        "Understated by Rs.500,000",
+        "Overstated by Rs. 500,000",
+        "No effect",
+        "Understated by Rs. 1000,000"
+    ],
+    "created_at": "2026-07-05T19:12:16.261575+00:00"
+},
+{
+    "id": 48239,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a Capital receipt?",
+    "op": [
+        "Purchase of a building",
+        "Long term loan from bank",
+        "Sales revenue",
+        "Payment of salaries"
+    ],
+    "created_at": "2026-07-05T19:12:21.936172+00:00"
+},
+{
+    "id": 48249,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A payment of Rs. 1,000 to a creditor Mr. A is recorded in the account of another creditor Mr. B. What will be its effect on net profit?",
+    "op": [
+        "Understated by Rs. 1,000",
+        "No effect",
+        "Overstated by Rs. 1,000",
+        "Understated by Rs. 2,000"
+    ],
+    "created_at": "2026-07-05T19:12:29.628427+00:00"
+},
+{
+    "id": 48258,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is/are the function of financial accounting?",
+    "op": [
+        "Recording",
+        "Posting",
+        "All of the given options",
+        "Reporting"
+    ],
+    "created_at": "2026-07-05T19:12:33.637186+00:00"
+},
+{
+    "id": 48265,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Carriage inward is Debited under main head:",
+    "op": [
+        "Income",
+        "Expenses",
+        "Liabilities",
+        "Assets"
+    ],
+    "created_at": "2026-07-05T19:12:38.795381+00:00"
+},
+{
+    "id": 48282,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mr. X receives a discount of Rs. 50 from a supplier. The discount is debited to discount allowed account. What will be its effect on net profit?",
+    "op": [
+        "Overstated by Rs.100",
+        "Understated by Rs.100",
+        "Understated by Rs.50",
+        "No effect"
+    ],
+    "created_at": "2026-07-05T19:12:45.91456+00:00"
+},
+{
+    "id": 48285,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Purchase return account is a/an __________.",
+    "op": [
+        "Expense item",
+        "Liability item",
+        "Income item",
+        "Contra item"
+    ],
+    "created_at": "2026-07-05T19:12:47.305384+00:00"
+},
+{
+    "id": 48311,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mr. A recorded a cash payment of Rs.300,000 as salaries. Both the salaries and cash account were debited. What would be the debit effect of journal entry to rectify this error, if there is suspense account in trial balance?",
+    "op": [
+        "Bank account",
+        "Cash account",
+        "Suspense account",
+        "Salaries account"
+    ],
+    "created_at": "2026-07-05T19:13:05.06676+00:00"
+},
+{
+    "id": 48315,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Current year’s depreciation of furniture is a/an _________.",
+    "op": [
+        "Contra asset account",
+        "Expense account",
+        "Liability account",
+        "Asset account"
+    ],
+    "created_at": "2026-07-05T19:13:06.388874+00:00"
+},
+{
+    "id": 48337,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Direct cost is also known as:",
+    "op": [
+        "Factory overhead cost",
+        "Prime cost",
+        "Conversion cost",
+        "Cost of sales"
+    ],
+    "created_at": "2026-07-05T19:13:19.837014+00:00"
+},
+{
+    "id": 48349,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited for issue of raw material to production department in manufacturing concern?",
+    "op": [
+        "Finished goods account",
+        "Work in process account",
+        "Material account",
+        "Cash account"
+    ],
+    "created_at": "2026-07-05T19:13:25.729494+00:00"
+},
+{
+    "id": 48356,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under perpetual system of recording inventory, purchase of inventory is debited to _______________.",
+    "op": [
+        "Inventory purchase account",
+        "Purchase account",
+        "Debtors account",
+        "Bank account"
+    ],
+    "created_at": "2026-07-05T19:13:34.678302+00:00"
+},
+{
+    "id": 48391,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a Revenue receipt?",
+    "op": [
+        "Sales revenue",
+        "Long term loan from bank",
+        "Purchase of a building",
+        "Payment of salaries"
+    ],
+    "created_at": "2026-07-05T19:14:06.825274+00:00"
+},
+{
+    "id": 48397,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited on purchase of raw material on credit basis in manufacturing concern?",
+    "op": [
+        "Purchases account",
+        "Voucher payable account",
+        "Debtors account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T19:14:13.879093+00:00"
+},
+{
+    "id": 48528,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Discount allowed to a debtor is Debited under main head:",
+    "op": [
+        "Liabilities",
+        "Assets",
+        "Expenses",
+        "Income"
+    ],
+    "created_at": "2026-07-05T19:16:22.011753+00:00"
+},
+{
+    "id": 48553,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Sole proprietor can prepare following financial statements as final accounts:",
+    "op": [
+        "Balance sheet & statement of changes in equity",
+        "Balance sheet & income statement",
+        "Balance sheet & notes to the financial statements",
+        "Balance sheet & statement of cash flows"
+    ],
+    "created_at": "2026-07-05T19:16:52.778244+00:00"
+},
+{
+    "id": 48557,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited on sale of completed goods on credit basis in manufacturing concern?",
+    "op": [
+        "Cash account",
+        "Debtors account",
+        "Sales account",
+        "Creditors account"
+    ],
+    "created_at": "2026-07-05T19:16:54.422739+00:00"
+},
+{
+    "id": 48576,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Carriage outward is Debited under main head:",
+    "op": [
+        "Expenses",
+        "Income",
+        "Assets",
+        "Libilities"
+    ],
+    "created_at": "2026-07-05T19:17:11.124435+00:00"
+},
+{
+    "id": 48583,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Discount received from a creditor is Debited under main head:",
+    "op": [
+        "Liabilities",
+        "Assets",
+        "Income",
+        "Expenses"
+    ],
+    "created_at": "2026-07-05T19:17:20.720933+00:00"
+},
+{
+    "id": 48593,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When correct accounting effect (Dr/Cr) is given in the wrong accounting head as well as the wrong main head, it is known as:",
+    "op": [
+        "Error of commission",
+        "Error of omission",
+        "Error of principle",
+        "Error of original entry"
+    ],
+    "created_at": "2026-07-05T19:17:32.075979+00:00"
+},
+{
+    "id": 48609,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The unexpired portion of direct cost is treated as:",
+    "op": [
+        "Expense",
+        "Income",
+        "Liability",
+        "Asset"
+    ],
+    "created_at": "2026-07-05T19:17:44.757742+00:00"
+},
+{
+    "id": 48616,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a manufacturing concern, salary of supervisor is included in _________.",
+    "op": [
+        "Operating expense",
+        "Selling expenses",
+        "Administrative expense",
+        "Cost of goods sold"
+    ],
+    "created_at": "2026-07-05T19:17:48.920912+00:00"
+},
+{
+    "id": 48624,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Opening direct material inventory is adjusted with ____________ of direct material, to calculate the cost of sales.",
+    "op": [
+        "Income",
+        "Purchases",
+        "Liabilities",
+        "Sales"
+    ],
+    "created_at": "2026-07-05T19:17:54.594779+00:00"
+},
+{
+    "id": 48634,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Sales return account is a/an __________.",
+    "op": [
+        "Contra item",
+        "Expense item",
+        "Liability item",
+        "Purchase item"
+    ],
+    "created_at": "2026-07-05T19:18:03.90134+00:00"
+},
+{
+    "id": 48678,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The entry of raw material issued to production units is:",
+    "op": [
+        "Debit: Work in process A/c\t\n                    Credit: Material Stock A/c",
+        "Debit: Raw material A/c\t\n                    Credit: Work in process A/c",
+        "Debit: Work in process A/c\n                    Credit: Factory overhead A/c",
+        "Debit: Work in process A/c\n\t            Credit: Finished goods A/c"
+    ],
+    "created_at": "2026-07-05T19:18:57.082633+00:00"
+},
+{
+    "id": 48863,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited when production is completed in manufacturing concern?",
+    "op": [
+        "Finished goods account",
+        "Material account",
+        "FOH account",
+        "Work in process account"
+    ],
+    "created_at": "2026-07-05T19:22:49.972668+00:00"
+},
+{
+    "id": 48880,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "An income statement is prepared for a specific period, which is also known as:",
+    "op": [
+        "Reporting date",
+        "Statement of cash flow",
+        "Reporting period",
+        "Financial health"
+    ],
+    "created_at": "2026-07-05T19:23:22.50161+00:00"
+},
+{
+    "id": 48889,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Factory overhead cost = Power & fuel cost + ___________.",
+    "op": [
+        "Other indirect cost",
+        "Direct labor cost",
+        "Direct material cost",
+        "Other direct cost"
+    ],
+    "created_at": "2026-07-05T19:23:36.938173+00:00"
+},
+{
+    "id": 48907,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a trading concern, salaries of marketing staff is included in _________.",
+    "op": [
+        "Preliminary expense",
+        "Cost of goods sold",
+        "Cost of sales",
+        "Operating expense"
+    ],
+    "created_at": "2026-07-05T19:24:23.770464+00:00"
+},
+{
+    "id": 48925,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited on sale of completed goods on cash basis in manufacturing concern?",
+    "op": [
+        "Sales account",
+        "Cash account",
+        "Finished goods account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T19:24:47.361753+00:00"
+},
+{
+    "id": 48929,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If Work in Process closing inventory is provided as additional information, other than trial balance, then that inventory treated in:",
+    "op": [
+        "Profit and loss account only",
+        "Both profit & loss account and balance sheet",
+        "Balance Sheet only",
+        "Expense only"
+    ],
+    "created_at": "2026-07-05T19:24:56.437457+00:00"
+},
+{
+    "id": 49000,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Net realizable value of inventory =",
+    "op": [
+        "Cost of purchase + conversion cost",
+        "Cost of purchase - conversion cost",
+        "Selling Price + Further Costs to Sell",
+        "Selling Price – Further Costs to Sell"
+    ],
+    "created_at": "2026-07-05T19:27:13.400865+00:00"
+},
+{
+    "id": 49052,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Discount received from a creditor is Credited under main head:",
+    "op": [
+        "Assets",
+        "Liabilities",
+        "Income",
+        "Expenses"
+    ],
+    "created_at": "2026-07-05T19:28:09.557463+00:00"
+},
+{
+    "id": 49066,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited on return of raw material to supplier in manufacturing concern?",
+    "op": [
+        "Voucher payable account",
+        "Debtors account",
+        "Purchase account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T19:28:33.019061+00:00"
+},
+{
+    "id": 49077,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When correct accounting entry is recorded in the books of accounts but the amount in both accounting effect (Dr & Cr) is wrong, it is known as:",
+    "op": [
+        "Error of omission",
+        "Error of original entry",
+        "Error of principle",
+        "Error of commission"
+    ],
+    "created_at": "2026-07-05T19:28:53.029863+00:00"
+},
+{
+    "id": 49079,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Factory overhead is a/an:",
+    "op": [
+        "Liability",
+        "Expense",
+        "Income",
+        "Cost"
+    ],
+    "created_at": "2026-07-05T19:28:56.708259+00:00"
+},
+{
+    "id": 49153,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Sales Rs. 500, Returns inwards Rs. 50, Gross Profit Rs. 100, Net Sales =?",
+    "op": [
+        "Rs. 500",
+        "Rs. 650",
+        "Rs. 450",
+        "Rs. 550"
+    ],
+    "created_at": "2026-07-05T19:31:21.85222+00:00"
+},
+{
+    "id": 49338,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Expired portion of direct cost is treated as:",
+    "op": [
+        "Income",
+        "Expense",
+        "Cost",
+        "Liability"
+    ],
+    "created_at": "2026-07-05T19:37:49.63577+00:00"
+},
+{
+    "id": 49346,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mr. A recorded a cash payment of Rs.300,000 as salaries. Both the salaries and cash account were debited. What would be the credit effect of journal entry to rectify this error, if there is suspense account in trial balance?",
+    "op": [
+        "Cash account",
+        "Suspense account",
+        "Bank account",
+        "Salaries account"
+    ],
+    "created_at": "2026-07-05T19:38:01.465292+00:00"
+},
+{
+    "id": 49357,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited on purchase of raw material on credit basis in manufacturing concern?",
+    "op": [
+        "Purchases account",
+        "Debtors account",
+        "Material account",
+        "Voucher payable account"
+    ],
+    "created_at": "2026-07-05T19:38:26.997299+00:00"
+},
+{
+    "id": 49359,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Expenses are also known as:",
+    "op": [
+        "Cost incurred on asset acquired",
+        "Prepaid expense",
+        "Cost incurred during production",
+        "Expired portion of cost"
+    ],
+    "created_at": "2026-07-05T19:38:32.175654+00:00"
+},
+{
+    "id": 49364,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A minor repair to a photocopy machine was paid in cash. Correct entry was made to cash account but no entry was made to other account. What will be the debit effect of journal entry to rectify this error, if there is suspense account in trial balance?",
+    "op": [
+        "Cash account",
+        "Suspense account",
+        "Photocopy machine account",
+        "Photocopy machine repair account"
+    ],
+    "created_at": "2026-07-05T19:38:42.747599+00:00"
+},
+{
+    "id": 49368,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Unconsumed shipping supplies are considered as:",
+    "op": [
+        "Current asset",
+        "Admin expense",
+        "Selling expense",
+        "Financial expense"
+    ],
+    "created_at": "2026-07-05T19:38:55.226276+00:00"
+},
+{
+    "id": 49566,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Unfinished goods are called:",
+    "op": [
+        "Raw material",
+        "Stock in trade",
+        "None of the given options",
+        "Work in process"
+    ],
+    "created_at": "2026-07-05T19:45:57.076493+00:00"
+},
+{
+    "id": 49571,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Service fee received is a ________________.",
+    "op": [
+        "Capital Receipt",
+        "Revenue Receipt",
+        "Revenue Expenditure",
+        "Capital Expenditure"
+    ],
+    "created_at": "2026-07-05T19:46:14.020516+00:00"
+},
+{
+    "id": 49583,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Office supplies consumed is considered as:",
+    "op": [
+        "Financial expense",
+        "Selling expense",
+        "Admin expense",
+        "Cost of sales"
+    ],
+    "created_at": "2026-07-05T19:46:53.764916+00:00"
+},
+{
+    "id": 49585,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Purchases Rs. 500, Carriage outward Rs. 50, Gross Sales Rs. 700 and Gross Profit Rs. 100, Net Purchases =?",
+    "op": [
+        "Rs. 550",
+        "Rs. 500",
+        "Rs. 650",
+        "Rs. 600"
+    ],
+    "created_at": "2026-07-05T19:47:01.239315+00:00"
+},
+{
+    "id": 49593,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Purchases Rs. 500, Returns inwards Rs. 50, Gross Sales Rs. 700 and Gross Profit Rs. 100, Net Purchases =?",
+    "op": [
+        "Rs. 500",
+        "Rs. 450",
+        "Rs. 550",
+        "Rs. 650"
+    ],
+    "created_at": "2026-07-05T19:47:13.319412+00:00"
+},
+{
+    "id": 49658,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the debit side of trial balance is heavier than the credit side, suspense account will be written on ________________.",
+    "op": [
+        "Credit side",
+        "Debit side",
+        "None of the given options",
+        "Both debit and credit side"
+    ],
+    "created_at": "2026-07-05T19:50:04.751678+00:00"
+},
+{
+    "id": 49670,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Drawings account is a/an __________.",
+    "op": [
+        "Expense item",
+        "Contra item",
+        "Assets item",
+        "Liability item"
+    ],
+    "created_at": "2026-07-05T19:50:40.409209+00:00"
+},
+{
+    "id": 49770,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under IAS 2, Goods available for sale purpose in the ordinary course of business is known as:",
+    "op": [
+        "Expenses",
+        "Equity",
+        "Other payable",
+        "Assets"
+    ],
+    "created_at": "2026-07-05T19:55:36.398998+00:00"
+},
+{
+    "id": 49779,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Purchases Rs. 500, Carriage inward Rs. 50, Gross Sales Rs. 700 and Gross Profit Rs. 100, Net Purchases =?",
+    "op": [
+        "Rs. 550",
+        "Rs. 600",
+        "Rs. 650",
+        "Rs. 500"
+    ],
+    "created_at": "2026-07-05T19:55:54.921305+00:00"
+},
+{
+    "id": 49874,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Capital introduced by the owner is a _________.",
+    "op": [
+        "Capital Expenditure",
+        "Revenue Expenditure",
+        "Revenue Receipt",
+        "Capital Receipt"
+    ],
+    "created_at": "2026-07-05T20:01:07.915225+00:00"
+},
+{
+    "id": 49899,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an error of original entry?",
+    "op": [
+        "A payment to a debtor Mr. A is recorded in the account of another debtor Mr. B",
+        "Bank charges being deducted by the bank without our knowledge",
+        "Purchase of vehicle is recorded in repairs account",
+        "A receipt of Rs. 50,000 from a debtor is recorded as Rs. 5,000 in his account"
+    ],
+    "created_at": "2026-07-05T20:03:22.112627+00:00"
+},
+{
+    "id": 49903,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited on sale of completed goods on credit basis in manufacturing concern?",
+    "op": [
+        "Creditors account",
+        "Cash account",
+        "Sales account",
+        "Debtors account"
+    ],
+    "created_at": "2026-07-05T20:03:34.582164+00:00"
+},
+{
+    "id": 49906,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be considered as ready for sales in manufacturing concern?",
+    "op": [
+        "Raw material",
+        "Finished goods",
+        "Work in process",
+        "Stock in trade"
+    ],
+    "created_at": "2026-07-05T20:03:42.206851+00:00"
+},
+{
+    "id": 49908,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be debited on purchase of raw material on cash basis in manufacturing concern?",
+    "op": [
+        "Material account",
+        "Cash account",
+        "Purchases account",
+        "Finished goods account"
+    ],
+    "created_at": "2026-07-05T20:03:46.207458+00:00"
+},
+{
+    "id": 49910,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Bank charges of RS. 1,000 have been deducted by the bank without our knowledge. What will be its effect on net profit?",
+    "op": [
+        "Understated by Rs. 1,000",
+        "Understated by Rs. 2,000",
+        "Overstated by Rs. 1,000",
+        "No effect"
+    ],
+    "created_at": "2026-07-05T20:03:59.533127+00:00"
+},
+{
+    "id": 49912,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Carriage inward should be the part of:",
+    "op": [
+        "Selling expense",
+        "Direct cost",
+        "Indirect cost",
+        "Admin expense"
+    ],
+    "created_at": "2026-07-05T20:04:18.633842+00:00"
+},
+{
+    "id": 49915,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under perpetual system of recording inventory, purchase of inventory is recognized as _______________.",
+    "op": [
+        "Income",
+        "Admin Expense",
+        "Asset",
+        "Selling Expense"
+    ],
+    "created_at": "2026-07-05T20:04:39.991629+00:00"
+},
+{
+    "id": 49926,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When correct accounting effect (Dr/Cr) is given in the wrong accounting head but the main head remains correct, is known as:",
+    "op": [
+        "Error of omission",
+        "Error of original entry",
+        "Error of commission",
+        "Error of principle"
+    ],
+    "created_at": "2026-07-05T20:05:22.904562+00:00"
+},
+{
+    "id": 49929,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Unconsumed direct supplies are considered as:",
+    "op": [
+        "Inventory",
+        "Marketing expenses",
+        "Admin Expenses",
+        "Selling expenses"
+    ],
+    "created_at": "2026-07-05T20:05:37.35492+00:00"
+},
+{
+    "id": 50296,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited for issue of raw material to production department in manufacturing concern?",
+    "op": [
+        "Cash account",
+        "Work in process account",
+        "Finished goods account",
+        "Material account"
+    ],
+    "created_at": "2026-07-05T20:41:30.383933+00:00"
+},
+{
+    "id": 50440,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Salaries expense of Rs. 5,000 is recorded as Rs. 500. What will be its effect on net profit?",
+    "op": [
+        "Overstated by Rs. 5,000",
+        "Overstated by Rs. 4,500",
+        "No effect",
+        "Understated by Rs. 4,500"
+    ],
+    "created_at": "2026-07-05T21:06:39.298543+00:00"
+},
+{
+    "id": 50443,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Sales Rs. 500, Returns outwards Rs. 50, Gross Profit Rs. 100, Net Sales =?",
+    "op": [
+        "Rs. 550",
+        "Rs. 650",
+        "Rs. 500",
+        "Rs. 450"
+    ],
+    "created_at": "2026-07-05T21:07:01.974486+00:00"
+},
+{
+    "id": 50628,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an example of direct materials cost?",
+    "op": [
+        "Polish and finishing material for chair",
+        "A piece of wood for the production of chair",
+        "Production worker’s wages",
+        "Depreciation expenses"
+    ],
+    "created_at": "2026-07-05T21:49:15.136091+00:00"
+},
+{
+    "id": 50629,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited on purchase of raw material on cash basis in manufacturing concern?",
+    "op": [
+        "Purchases account",
+        "Finished goods account",
+        "Material account",
+        "Cash account"
+    ],
+    "created_at": "2026-07-05T21:49:55.924266+00:00"
+},
+{
+    "id": 50635,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Unconsumed office supplies are considered as:",
+    "op": [
+        "Admin expense",
+        "Inventory",
+        "Selling expense",
+        "Financial expense"
+    ],
+    "created_at": "2026-07-05T21:52:21.95368+00:00"
+},
+{
+    "id": 50636,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Opening indirect material inventory is adjusted with ____________ of indirect material, to calculate the cost of sales.",
+    "op": [
+        "Sales",
+        "Liabilities",
+        "Purchases",
+        "Income"
+    ],
+    "created_at": "2026-07-05T21:52:37.41931+00:00"
+},
+{
+    "id": 50637,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a Revenue expenditure?",
+    "op": [
+        "Purchase of a building",
+        "Long term loan from bank",
+        "Payment of salaries",
+        "Sales revenue"
+    ],
+    "created_at": "2026-07-05T21:55:16.968402+00:00"
+},
+{
+    "id": 50748,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a Capital expenditure?",
+    "op": [
+        "Payment of salaries",
+        "Long term loan from bank",
+        "Purchase of a building",
+        "Sales revenue"
+    ],
+    "created_at": "2026-07-05T22:40:34.225768+00:00"
+},
+{
+    "id": 50749,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Cotton thread to make fabric in manufacturing concern is:",
+    "op": [
+        "Stock in trade",
+        "Finished goods",
+        "Raw material",
+        "Work in process"
+    ],
+    "created_at": "2026-07-05T22:40:47.471558+00:00"
+},
+{
+    "id": 50774,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Discount allowed to a debtor is credited under main head:",
+    "op": [
+        "Expenses",
+        "Liabilities",
+        "Assets",
+        "Income"
+    ],
+    "created_at": "2026-07-05T22:54:29.576554+00:00"
+},
+{
+    "id": 50803,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Total factory cost = Prime cost + ________.",
+    "op": [
+        "Factory overhead cost",
+        "Direct Labor cost",
+        "Other Direct cost",
+        "Direct Material cost"
+    ],
+    "created_at": "2026-07-05T23:05:29.632899+00:00"
+},
+{
+    "id": 50867,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Cost of inventory =",
+    "op": [
+        "Selling Price – Further Costs to Sell",
+        "Selling Price + Further Costs to Sell",
+        "Cost of purchase + conversion cost",
+        "Cost of purchase - conversion cost"
+    ],
+    "created_at": "2026-07-05T23:23:55.709606+00:00"
+},
+{
+    "id": 50886,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under periodic system of recording inventory, purchase of inventory is debited to _______________.",
+    "op": [
+        "Purchase account",
+        "Debtors account",
+        "Inventory purchase account",
+        "Bank account"
+    ],
+    "created_at": "2026-07-05T23:29:26.479042+00:00"
+},
+{
+    "id": 50894,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following should be credited when production is completed in manufacturing concern?",
+    "op": [
+        "Finished goods account",
+        "Work in process account",
+        "Material account",
+        "FOH account"
+    ],
+    "created_at": "2026-07-05T23:31:45.301895+00:00"
+},
+{
+    "id": 50897,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A minor repair to a photocopy machine was paid in cash. Correct entry was made to cash account but no entry was made to other account. What will be the credit effect of journal entry to rectify this error, if there is suspense account in trial balance?",
+    "op": [
+        "Suspense account",
+        "Cash account",
+        "Photocopy machine repair account",
+        "Photocopy machine account"
+    ],
+    "created_at": "2026-07-05T23:32:59.170912+00:00"
+},
+{
+    "id": 50971,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Under IAS 2, material available for use in the production process is known as:",
+    "op": [
+        "Expenses",
+        "Costs",
+        "Fixed assets",
+        "Inventories"
+    ],
+    "created_at": "2026-07-05T23:59:45.077967+00:00"
+},
+{
+    "id": 51143,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When the sum of more than one error cancels the accounting effect of each other, it is called:",
+    "op": [
+        "Error of omission",
+        "Compensating error",
+        "Error of principle",
+        "Error of original entry"
+    ],
+    "created_at": "2026-07-06T00:36:11.766605+00:00"
+},
+{
+    "id": 51571,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Wood used to make a table in manufacturing concern is:",
+    "op": [
+        "Finished goods",
+        "Stock in trade",
+        "Raw material",
+        "Work in process"
+    ],
+    "created_at": "2026-07-06T01:53:39.423917+00:00"
+},
+{
+    "id": 64880,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "If cost of equipment is Rs. 108.000. useful life is 10 years and its residual value is Rs. 8.000. Then Deprecation for the year using straight line method is ____________.",
+    "op": [
+        "Rs. 100.000",
+        "Rs. 10.800",
+        "Rs. 10.000",
+        "Rs. 800"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 64881,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "If cost of a plant is Rs. 90.000. total estimated output is 30.000 units and units produced during year 2019 are 7.000. Then calculate deprecation for year 2019 if deprecation rate per unit is Rs. 3.",
+    "op": [
+        "Rs. 270.000",
+        "Rs. 90.000",
+        "Rs. 21.000",
+        "Rs. 180.000"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 64882,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "If cost of a plant is Rs. 90.000. total estimated hours are 11.000 and number of hours worked during year 2019 are 8.000. Then calculate depreciation for year 2019 if deprecation rate per hour is Rs. 6.",
+    "op": [
+        "Rs. 30.000",
+        "Rs. 48.000",
+        "Rs. 540.000",
+        "Rs. 66.000"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 64883,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "If cost of equipment is Rs. 108.000. useful life is 10 years and its residual value is Rs. 8.000. Then Deprecation for the 3rd year using straight line method is ____________.",
+    "op": [
+        "Rs. 10.000",
+        "Rs. 9.800",
+        "Rs. 8.820",
+        "Rs. 8.000"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 64884,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "ABC Corporation has recently purchased a used production plant. Its purchase price is Rs. 100.000; cost incurred to remove plant from site Rs. 4.000 and installation cost is Rs. 5.000. It will be initially recognized in books at Rs. ___________.",
+    "op": [
+        "Rs. 100.000",
+        "Rs. 104.000",
+        "Rs. 105.000",
+        "Rs. 109.000"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 64885,
+    "cc": "MGT101",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "In case of writing off debtors as bad debt. ____________ is debited.",
+    "op": [
+        "Provision account",
+        "Receivable account",
+        "Payable account",
+        "Bad debts account"
+    ],
+    "created_at": "2026-07-15T13:27:13.991701+00:00"
+},
+{
+    "id": 69748,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "05 January 2026",
+    "qt": "When the sum of more than one error cancels the accounting effect of each other. it is called:",
+    "op": [
+        "Compensating error",
+        "Error of omission",
+        "Error of original entry",
+        "Error of principle"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+},
+{
+    "id": 69750,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "05 January 2026",
+    "qt": "While preparing a Debtors Control Account. Debit side posted items cause:",
+    "op": [
+        "Increase in debtors’ balance",
+        "Both increase and decrease in debtors’ balance",
+        "Decrease in debtors’ balance",
+        "Increase in creditors’ balance"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+},
+{
+    "id": 69753,
+    "cc": "MGT101",
+    "qn": "03",
+    "dt": "05 January 2026",
+    "qt": "Mostly. control accounts are maintained for:",
+    "op": [
+        "All of the given options",
+        "Trade receivables",
+        "Trade payables",
+        "Inventory"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+}
+]

@@ -1,0 +1,562 @@
+[
+{
+    "id": 37331,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In the following equation $${(x - h)^2} = - 4a(y - k),$$ the graph of parabola opens:",
+    "op": [
+        "Left",
+        "Down",
+        "Right",
+        "Up"
+    ],
+    "created_at": "2026-07-02T03:18:57.607863+00:00"
+},
+{
+    "id": 37332,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If 200 and v0 are the angle and velocity of projection respectively, then the horizontal range of the projectile is ……",
+    "op": [
+        "(v0)2/g",
+        "(v0)/g",
+        "(v0)2g",
+        "(v0)g"
+    ],
+    "created_at": "2026-07-02T03:19:09.346095+00:00"
+},
+{
+    "id": 37333,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The velocity with which the particle is projected is called the …… of the projection.",
+    "op": [
+        "none of these",
+        "velocity",
+        "acceleration",
+        "angle"
+    ],
+    "created_at": "2026-07-02T03:19:28.684745+00:00"
+},
+{
+    "id": 37334,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If 10ft/s is the velocity of the projection, then the maximum horizontal range is ……",
+    "op": [
+        "100*32",
+        "100/32",
+        "10*32",
+        "10/32"
+    ],
+    "created_at": "2026-07-02T03:19:41.671208+00:00"
+},
+{
+    "id": 37335,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "What is the standard form of a parabola that opens right, if its vertex is (h,k)?",
+    "op": [
+        "$${x^2} = 4ay$$",
+        "$${(y - k)^2} = -4a(x - h)$$",
+        "$${(x - h)^2} = 4a(y - k)$$",
+        "$${(y - k)^2} = 4a(x - h)$$"
+    ],
+    "created_at": "2026-07-02T03:19:56.919411+00:00"
+},
+{
+    "id": 37336,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which of the following is not considered as a projectile?",
+    "op": [
+        "A football kicked during a game",
+        "A tennis ball thrown across a court",
+        "A baseball in mid-air after being hit",
+        "A duck flying using its wings"
+    ],
+    "created_at": "2026-07-02T03:20:15.364321+00:00"
+},
+{
+    "id": 37337,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If a particle is projected making a certain angle with horizontal into air with a certain velocity or dropped from a moving plane then it is called a …….",
+    "op": [
+        "cirlce",
+        "projectile",
+        "straight line",
+        "hyperbola"
+    ],
+    "created_at": "2026-07-02T03:20:29.850375+00:00"
+},
+{
+    "id": 37338,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "Which factor is essential for accurately hitting a distant target with a projectile?",
+    "op": [
+        "Firing at a specific angle to account for the curved path",
+        "Firing in a straight line toward the target",
+        "Reducing the gravitational pull",
+        "Increasing the size of the projectile"
+    ],
+    "created_at": "2026-07-02T03:20:45.500884+00:00"
+},
+{
+    "id": 37339,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The distance covered along horizontal direction by the projectile from point of projection to the point where the projectile strikes the ground is called the ….",
+    "op": [
+        "horizontal velocity",
+        "horizontal range",
+        "vertical range",
+        "none of these"
+    ],
+    "created_at": "2026-07-02T03:21:02.313626+00:00"
+},
+{
+    "id": 37507,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "In the equation of path of projectile y=xtanx,  is the ------.",
+    "op": [
+        "final velocity",
+        "none of these",
+        "terminal velocity",
+        "projection of velocity"
+    ],
+    "created_at": "2026-07-02T04:57:21.070545+00:00"
+},
+{
+    "id": 37508,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The vertex of a parabola represents which of the following in projectile motion?",
+    "op": [
+        "The final position",
+        "The distance between initial and final position",
+        "The maximum height",
+        "The initial position"
+    ],
+    "created_at": "2026-07-02T04:57:45.475686+00:00"
+},
+{
+    "id": 37509,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "If a parabola is represented by $${\\left( {y - k} \\right)^2} = - 4a\\left( {x - h} \\right),$$ what is the direction of its opening?",
+    "op": [
+        "Downward",
+        "Leftward",
+        "Upward",
+        "Rightward"
+    ],
+    "created_at": "2026-07-02T04:58:22.123176+00:00"
+},
+{
+    "id": 37631,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "The horizontal range of a projectile is maximum if angle of projection is…….",
+    "op": [
+        "15 degrees",
+        "45 degrees",
+        "30 degrees",
+        "60 degrees"
+    ],
+    "created_at": "2026-07-02T05:38:42.203943+00:00"
+},
+{
+    "id": 57967,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The maximum horizontal range of a projectile is 100ft, the velocity of the projection is-----.",
+    "op": [
+        "3.6ft/sec",
+        "56.57ft/sec",
+        "4.6ft/sec",
+        "5.6ft/sec"
+    ],
+    "created_at": "2026-07-08T05:07:43.101134+00:00"
+},
+{
+    "id": 57968,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "In a conservative field, the total energy of a particle through the motion",
+    "op": [
+        "does not remain constant",
+        "remains constant",
+        "none of these",
+        "varies rapidly"
+    ],
+    "created_at": "2026-07-08T05:08:15.210045+00:00"
+},
+{
+    "id": 57970,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The central force is ---------- if it is directed towards the centre.",
+    "op": [
+        "attractive",
+        "not attractive",
+        "repulsive",
+        "none of these"
+    ],
+    "created_at": "2026-07-08T05:08:29.501121+00:00"
+},
+{
+    "id": 57971,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If 450and v0 are the angle and velocity of projection respectively, then the time of flight of the projectile is ……",
+    "op": [
+        "${\\sqrt 2 {v_0}}*{g}$",
+        "${v_0}*{g}$",
+        "${{\\sqrt 2 {v_0}}}$",
+        "$\\frac{{\\sqrt 2 {v_0}}}{g}$"
+    ],
+    "created_at": "2026-07-08T05:08:49.871473+00:00"
+},
+{
+    "id": 57973,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If 450and 20 are the angle and velocity of projection respectively, then the time of flight of the projectile is ……",
+    "op": [
+        "20g",
+        "$\\frac{{20\\sqrt 2 }}{g}$",
+        "${{20\\sqrt 2 }}$",
+        "${{20\\sqrt 2 }}{g}$"
+    ],
+    "created_at": "2026-07-08T05:09:16.094024+00:00"
+},
+{
+    "id": 57974,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The maximum horizontal range of a projectile is 80ft, the velocity of the projection is-----.",
+    "op": [
+        "40.2 ft/s",
+        "35 ft/s",
+        "45.5 ft/s",
+        "50.6 ft/s"
+    ],
+    "created_at": "2026-07-08T05:09:34.023082+00:00"
+},
+{
+    "id": 57977,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If 450 and v0 are the angle and velocity of projection respectively, then the time taken to attain the maximum height of the projectile is ……",
+    "op": [
+        "${{{v_0}}}{{\\sqrt 2 }}$",
+        "$\\frac{{{v_0}}}{{\\sqrt 2 g}}$",
+        "${{{v_0}}}{{\\sqrt 2 g}}$",
+        "$\\frac{{{v_0}}}{{\\sqrt 2 }}$"
+    ],
+    "created_at": "2026-07-08T05:09:53.067917+00:00"
+},
+{
+    "id": 57978,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The length of the radius vector at an apse is known as the apsidal",
+    "op": [
+        "acceleration",
+        "distance",
+        "velocity",
+        "none of these"
+    ],
+    "created_at": "2026-07-08T05:10:09.535941+00:00"
+},
+{
+    "id": 57979,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The orbit described under a central attractive force varying directly as the distance is --------- having the centre at the centre of the force.",
+    "op": [
+        "a circle",
+        "a straight line",
+        "none of these",
+        "an ellipse"
+    ],
+    "created_at": "2026-07-08T05:10:21.74898+00:00"
+},
+{
+    "id": 57981,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Areal speed of the radius vector r joining the particle to the centre of force is",
+    "op": [
+        "constant",
+        "not constant",
+        "none of these",
+        "variable"
+    ],
+    "created_at": "2026-07-08T05:10:45.540529+00:00"
+},
+{
+    "id": 57984,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The line joining an apse to the centre of force is -------- line",
+    "op": [
+        "a focal",
+        "an apse",
+        "none of these",
+        "an initial"
+    ],
+    "created_at": "2026-07-08T05:11:56.410822+00:00"
+},
+{
+    "id": 57989,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "iN defining orbital velocity, thing whis is unimportant is --------.",
+    "op": [
+        "radius of Earth",
+        "gravitational force",
+        "mass of satellite",
+        "mass of Earth"
+    ],
+    "created_at": "2026-07-08T05:12:36.483743+00:00"
+},
+{
+    "id": 57994,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "The central force is ---------- if it is directed away from the centre.",
+    "op": [
+        "attractive",
+        "repulsive",
+        "none of these",
+        "not attractive"
+    ],
+    "created_at": "2026-07-08T05:14:28.355603+00:00"
+},
+{
+    "id": 57995,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "A force acting on a particle is said to be _______________ if its line of action always passes through a fixed point",
+    "op": [
+        "central force",
+        "friction",
+        "none of these",
+        "applied force"
+    ],
+    "created_at": "2026-07-08T05:14:37.689104+00:00"
+},
+{
+    "id": 57997,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "Orbit of a particle moving under a central force is necessarily ____________",
+    "op": [
+        "a plane curve",
+        "a space curve",
+        "a straight line",
+        "none of these"
+    ],
+    "created_at": "2026-07-08T05:15:04.35241+00:00"
+},
+{
+    "id": 57999,
+    "cc": "MTH404",
+    "qn": "4",
+    "dt": "08 July 2026",
+    "qt": "If 450 and 30 are the angle and velocity of projection respectively, then the time taken to attain the maximum height of the projectile is ……",
+    "op": [
+        "${{{30}}}{{\\sqrt 2 g}}$",
+        "$\\frac{{{30}}}{{\\sqrt 2 g}}$",
+        "${{{30}}}{{\\sqrt 2 }}$",
+        "$\\frac{{{30}}}{{\\sqrt 2 }}$"
+    ],
+    "created_at": "2026-07-08T05:15:24.835367+00:00"
+},
+{
+    "id": 71855,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If S is the system of particles which is in equilibrium, then the sum of all forces on the system S is-------.",
+    "op": [
+        "none of these",
+        "zero",
+        "very large",
+        "undefined"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71856,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If 150N of farce is applied on a spanner of 10 cm to open a nut then the length of spanner when the force applied on it is 60 N is----.",
+    "op": [
+        "50cm",
+        "80cm",
+        "40cm",
+        "25cm"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71857,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The rate of change of ------ of a particle about a point O is equal to the torque about O of the force on the particle.",
+    "op": [
+        "angular displacement",
+        "angular velocity",
+        "angular momentum",
+        "none of these"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71858,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In the following equation \\[{(x - h)^2} = - 4a(y - k),\\] the graph of parabola opens: ",
+    "op": [
+        "Down",
+        "Left",
+        "Right",
+        "Up"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71859,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If a parabola is represented by \\[{\\left( {y - k} \\right)^2} = - 4a\\left( {x - h} \\right),\\] what is the direction of its opening? ",
+    "op": [
+        "Rightward",
+        "Upward",
+        "Downward",
+        "Leftward"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71970,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If F is the central force, then the rate of change of angular momentum is -------.",
+    "op": [
+        "positive",
+        "zero",
+        "none of these",
+        "negative"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 71971,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Direction of momentum is direction of object's-----.",
+    "op": [
+        "acceleration",
+        "velocity",
+        "mass",
+        "frictional force"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72011,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In the following equation \\[{(x - h)^2} = 4a(y - k),\\] the graph of parabola opens: ",
+    "op": [
+        "Down",
+        "Right",
+        "Up",
+        "Left"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72020,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If a parabola is represented by {\\left( {y - k} \\right)^2} = - 4a\\left( {x - h} \\right), what is the direction of its opening? ",
+    "op": [
+        "Rightward",
+        "Leftward",
+        "Upward",
+        "Downward"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72021,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In the following equation {(x - h)^2} = - 4a(y - k), the graph of parabola opens: ",
+    "op": [
+        "Up",
+        "Right",
+        "Left",
+        "Down"
+    ],
+    "created_at": "2026-07-15T13:35:12.315606+00:00"
+},
+{
+    "id": 72201,
+    "cc": "MTH404",
+    "qn": "3",
+    "dt": "01 January 2026",
+    "qt": "In the following equation {(x - h)^2} = 4a(y - k), the graph of parabola opens: ",
+    "op": [
+        "Right",
+        "Down",
+        "Up",
+        "Left"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+}
+]

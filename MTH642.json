@@ -1,0 +1,1050 @@
+[
+    {
+        "id": 22124,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is the more general form of Newton’s second law?",
+        "op": [
+            "$∑\\overline{F}=d/dt ∫_{sys} m\\overline{V}dV$",
+            "$∑\\overline{F}=d/dt ∫_{sys} ρ\\overline{V}dV$",
+            "$∑\\overline{F}= ∫_{sys} ρ\\overline{V}dV$",
+            "$∑\\overline{F}=d/dt ∫_{sys} \\overline{V}dV$"
+        ],
+        "created_at": "2026-06-27T02:06:13.127043+00:00"
+    },
+    {
+        "id": 22125,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is expression for moment of momentum?",
+        "op": [
+            "$\\overline{r}\\times \\rho m \\overline{V}$",
+            "$\\overline{r}\\times m \\overline{V}$",
+            "$\\overline{r}\\times \\rho \\overline{V}$",
+            "$\\overline{r}\\times \\overline{V}$"
+        ],
+        "created_at": "2026-06-27T02:06:33.529408+00:00"
+    },
+    {
+        "id": 22126,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The magnitude of torque M acting on a point mass m at normal distance r from the axis of rotation is equal to ______, where $\\alpha$ is angular acceleration.",
+        "op": [
+            "$m r^2 \\alpha$",
+            "$m r \\alpha^2$",
+            "$m r^2 \\alpha^2$",
+            "$m r \\alpha$"
+        ],
+        "created_at": "2026-06-27T02:06:44.414214+00:00"
+    },
+    {
+        "id": 22127,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is expression for moment of a force?",
+        "op": [
+            "$\\overline{F}\\times \\overline{r}$",
+            "$\\overline{r}\\times \\overline{F}$",
+            "$\\overline{V}\\times \\overline{F}$",
+            "$\\overline{r}. \\overline{F}$"
+        ],
+        "created_at": "2026-06-27T02:06:59.574055+00:00"
+    },
+    {
+        "id": 22128,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "$\\rho\\overline{V}dV$ is called _______.",
+        "op": [
+            "momentum",
+            "moment",
+            "momentum flow rate",
+            "torque"
+        ],
+        "created_at": "2026-06-27T02:07:10.310907+00:00"
+    },
+    {
+        "id": 22129,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "$\\overline{r}\\times \\dot{m }\\overline{V}$ represents _______.",
+        "op": [
+            "moment flux",
+            "angular momentum flow rate",
+            "moment flow rate",
+            "linear momentum flow rate"
+        ],
+        "created_at": "2026-06-27T02:07:21.076316+00:00"
+    },
+    {
+        "id": 22130,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is Momentum flow rate across an inlet or outlet?",
+        "op": [
+            "$\\dot{m} \\overline{V_{avg}} A_{c}$",
+            "$\\dot{m} \\overline{V_{avg}}$",
+            "$\\rho \\overline{V_{avg}} A_{c}$",
+            "$\\rho \\overline{V_{avg}}$"
+        ],
+        "created_at": "2026-06-27T02:07:32.005583+00:00"
+    },
+    {
+        "id": 22131,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Mass flow rate across an inlet or outlet: $\\dot{m} =$______.",
+        "op": [
+            "$V_{avg} A_{c}$",
+            "$mρ V_{avg} A_{c}$",
+            "$ρ V_{avg} A_{c}$",
+            "$m V_{avg} A_{c}$"
+        ],
+        "created_at": "2026-06-27T02:07:44.796904+00:00"
+    },
+    {
+        "id": 22132,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The magnitude of angular momentum ($H$) is equal to _____.",
+        "op": [
+            "$I^2 \\omega \\alpha$",
+            "$I \\omega$",
+            "$I \\omega \\alpha$",
+            "$I \\alpha$"
+        ],
+        "created_at": "2026-06-27T02:09:11.122306+00:00"
+    },
+    {
+        "id": 22133,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the following is expression for rotational kinetic energy?",
+        "op": [
+            "$1/2 \\rho r^2 \\omega^2$",
+            "$1/2 m r^2 \\omega$",
+            "$1/2 m r^2 \\omega^2$",
+            "$1/2 m r \\omega^2$"
+        ],
+        "created_at": "2026-06-27T02:09:21.666221+00:00"
+    },
+    {
+        "id": 22134,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Total torque ($M$) is equal to _____, where $\\alpha$ is angular acceleration and $I$ is moment of inertia.",
+        "op": [
+            "$I\\alpha$",
+            "$I\\alpha^2$",
+            "$I^2\\alpha$",
+            "$\\rho I\\alpha$"
+        ],
+        "created_at": "2026-06-27T02:09:47.352003+00:00"
+    },
+    {
+        "id": 22135,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The linear momentum equation is obtained from Reynolds transport theorem by setting $b=$____ and $B=$______.",
+        "op": [
+            "$b=\\overline{V} and$ $B=\\rho\\overline{V}$",
+            "$b= m\\overline{V} and$ $B= m\\overline{V}$",
+            "$b=\\overline{V} and$ $B= m \\overline{V}$",
+            "$b= m\\overline{V} and$ $B=\\overline{V}$"
+        ],
+        "created_at": "2026-06-27T02:09:56.093801+00:00"
+    },
+    {
+        "id": 22145,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which of the relationship between linear acceleration in tangential direction ($a_{t}$) and angular acceleration ($\\alpha$)?",
+        "op": [
+            "$a_{t} = \\alpha/r$",
+            "$a_{t} =\\omega r \\alpha$",
+            "$a_{t} =\\omega \\alpha/r$",
+            "$a_{t} =r \\alpha$"
+        ],
+        "created_at": "2026-06-27T02:36:01.564936+00:00"
+    },
+    {
+        "id": 22221,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The radial flow devices are best analyzed with _____.",
+        "op": [
+            "angular momentum equation",
+            "linear momentum equation"
+        ],
+        "created_at": "2026-06-27T04:52:42.892527+00:00"
+    },
+    {
+        "id": 38995,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The scaling parameters are based on _____.",
+        "op": [
+            "primary dimensions",
+            "dimensionless quantities",
+            "both primary and secondary dimensions",
+            "secondary dimensions"
+        ],
+        "created_at": "2026-07-02T23:58:07.106411+00:00"
+    },
+    {
+        "id": 38996,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Kilogram is the unit used to measure the dimension of ______.",
+        "op": [
+            "amount of matter",
+            "mass",
+            "amount of light",
+            "time"
+        ],
+        "created_at": "2026-07-02T23:58:16.022095+00:00"
+    },
+    {
+        "id": 38997,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The Froude number ($Fr$) is equal to _____.",
+        "op": [
+            "$Fr=\\frac { V}{\\sqrt{gL}}$",
+            "$Fr=\\frac { V}{gL}$",
+            "$Fr=\\frac {{gL}}{ V}$",
+            "$Fr=\\frac {\\sqrt{gL}}{ V}$"
+        ],
+        "created_at": "2026-07-02T23:58:23.071601+00:00"
+    },
+    {
+        "id": 38998,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The dimension of velocity is ____.",
+        "op": [
+            "mt-1",
+            "Lt-2",
+            "Lt--1",
+            "mt-2"
+        ],
+        "created_at": "2026-07-02T23:58:28.689814+00:00"
+    },
+    {
+        "id": 38999,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "If $t=3.01s, w_0=1.83m/s\\ and\\ z_0=2m$, then dimensionless time ($t^*$) is equal to________.",
+        "op": [
+            "$t^*=2.7$",
+            "$t^*=2.71$",
+            "$t^*=2.75$",
+            "$t^*=2.79$"
+        ],
+        "created_at": "2026-07-02T23:58:38.999625+00:00"
+    },
+    {
+        "id": 39000,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "$m L^2 t^{-1}$ is dimension of ____.",
+        "op": [
+            "force",
+            "angular momentum",
+            "linear momentum",
+            "moment"
+        ],
+        "created_at": "2026-07-02T23:58:48.088046+00:00"
+    },
+    {
+        "id": 39001,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following is dimensionless quantity?",
+        "op": [
+            "pressure",
+            "force",
+            "Angle",
+            "energy"
+        ],
+        "created_at": "2026-07-02T23:59:02.103531+00:00"
+    },
+    {
+        "id": 39002,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Mole is the unit used to measure the dimension of ______.",
+        "op": [
+            "amount of light",
+            "electric current",
+            "mass",
+            "amount of matter"
+        ],
+        "created_at": "2026-07-02T23:59:08.093334+00:00"
+    },
+    {
+        "id": 39003,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "$m L^2 t^{-2}$ is dimension of ____.",
+        "op": [
+            "force",
+            "energy",
+            "moment",
+            "linear momentum"
+        ],
+        "created_at": "2026-07-02T23:59:14.43589+00:00"
+    },
+    {
+        "id": 39018,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Meter is the unit for the dimension of _____ .",
+        "op": [
+            "amount of light",
+            "mass",
+            "length",
+            "time"
+        ],
+        "created_at": "2026-07-03T00:08:06.389541+00:00"
+    },
+    {
+        "id": 39019,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following is dimension of force?",
+        "op": [
+            "$m L t^{-1}$",
+            "$m L t^2$",
+            "$m L t$",
+            "$m L/ t^2$"
+        ],
+        "created_at": "2026-07-03T00:08:20.366231+00:00"
+    },
+    {
+        "id": 39021,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "$m L^{-1} t^{-2}$ is dimension of ____.",
+        "op": [
+            "momentum",
+            "pressure",
+            "energy",
+            "force"
+        ],
+        "created_at": "2026-07-03T00:08:28.539865+00:00"
+    },
+    {
+        "id": 39022,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The method of repeating variables comprises on ___ steps.",
+        "op": [
+            "six",
+            "eight",
+            "five",
+            "seven"
+        ],
+        "created_at": "2026-07-03T00:08:36.054123+00:00"
+    },
+    {
+        "id": 39023,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following has dimension equal to energy?",
+        "op": [
+            "power",
+            "pressure",
+            "force",
+            "Work done"
+        ],
+        "created_at": "2026-07-03T00:08:44.915781+00:00"
+    },
+    {
+        "id": 39024,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The Euler number ($Eu$) is equal to _____.",
+        "op": [
+            "$Eu = \\frac{P_0-P_{\\infty}}{ V^2}$",
+            "$Eu = \\frac{P_0-P_{\\infty}}{\\rho V^2}$",
+            "$Eu = \\frac{\\rho (P_0-P_{\\infty})}{V^2}$",
+            "$Eu = \\frac{\\rho V^2}{P_0-P_{\\infty}}$"
+        ],
+        "created_at": "2026-07-03T00:08:53.924096+00:00"
+    },
+    {
+        "id": 39025,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following dimension is measured in unit ampere?",
+        "op": [
+            "Time",
+            "Amount of matter",
+            "Amount of light",
+            "Electric current"
+        ],
+        "created_at": "2026-07-03T00:09:25.761772+00:00"
+    },
+    {
+        "id": 39045,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The Reynolds number ($Re$) is equal to _____.",
+        "op": [
+            "$Re=\\frac { VL}{\\rho\\mu}$",
+            "$Re=\\frac {\\rho VL}{\\mu}$",
+            "$Re=\\frac{\\mu} {\\rho VL}$",
+            "$Re=\\frac { VL}{\\mu}$"
+        ],
+        "created_at": "2026-07-03T00:50:39.278268+00:00"
+    },
+    {
+        "id": 39046,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following unit (s) is/are used to measure the dimension of temperature?",
+        "op": [
+            "kelvin",
+            "rankine",
+            "all of the given options",
+            "fahrenheit"
+        ],
+        "created_at": "2026-07-03T00:52:44.908372+00:00"
+    },
+    {
+        "id": 39047,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Let $n$ be total parameters and$j$ equal to number of primary dimensions, then expected number of $\\Pi$’s ($k$) equal to_____.",
+        "op": [
+            "$k=j-n$",
+            "$k=2n-j$",
+            "$k=n-j$",
+            "$k=n+j$"
+        ],
+        "created_at": "2026-07-03T00:54:16.119385+00:00"
+    },
+    {
+        "id": 39049,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The dimension of the Bernoulli constant is ______.",
+        "op": [
+            "$m L^{-1} t^{-1}$",
+            "$m L^{2} t^{-2}$",
+            "$m L^{-2} t^{-2}$",
+            "$m L^{-1} t^{-2}$"
+        ],
+        "created_at": "2026-07-03T01:18:14.493088+00:00"
+    },
+    {
+        "id": 39050,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "If $g=1.63 m/s^2, w_0 = 1.83m/s\\ and\\ z_0 =2m$ , then Froude number is equal to ____.",
+        "op": [
+            "$Fr=1$",
+            "$Fr=1.03$",
+            "$Fr=1.01$",
+            "$Fr=1.05$"
+        ],
+        "created_at": "2026-07-03T01:19:52.680468+00:00"
+    },
+    {
+        "id": 39051,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The Strouhal number ($St$) is equal to _____.",
+        "op": [
+            "$St=\\frac{fL}{Vg}$",
+            "$St=\\frac{Vg}{fL}$",
+            "$St=\\frac{fL}{V}$",
+            "$St=\\frac{V}{fL}$"
+        ],
+        "created_at": "2026-07-03T01:20:15.894865+00:00"
+    },
+    {
+        "id": 39075,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "____ is the dimension that is measured in candela (cd).",
+        "op": [
+            "Amount of matter",
+            "Amount of light",
+            "Length",
+            "Electric current"
+        ],
+        "created_at": "2026-07-03T02:44:49.247949+00:00"
+    },
+    {
+        "id": 39126,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The dimension of acceleration is _____.",
+        "op": [
+            "mLt-2",
+            "Lt-1",
+            "Lt-2",
+            "mt-2"
+        ],
+        "created_at": "2026-07-03T03:37:06.385309+00:00"
+    },
+    {
+        "id": 39316,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "All nonprimary dimensions can be formed by some combination of the _____ primary dimensions.",
+        "op": [
+            "six",
+            "seven",
+            "eight",
+            "nine"
+        ],
+        "created_at": "2026-07-03T05:27:53.95847+00:00"
+    },
+    {
+        "id": 71842,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Mass flow rate across an inlet or outlet: \\(\\dot{m} =\\)______. ",
+        "op": [
+            "\\(ρ V_{avg} A_{c}\\)",
+            "\\(mρ V_{avg} A_{c}\\)",
+            "\\( V_{avg} A_{c}\\)",
+            "\\(m V_{avg} A_{c}\\)"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71850,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the relationship between linear acceleration in tangential direction (a_{t}) and angular acceleration (\\alpha)? ",
+        "op": [
+            "a_{t} =\\omega \\alpha/r",
+            "a_{t} =\\omega r \\alpha",
+            "a_{t} =r \\alpha",
+            "a_{t} = \\alpha/r"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71853,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\rho\\overline{V}dV is called _______. ",
+        "op": [
+            "momentum",
+            "moment",
+            "torque",
+            "momentum flow rate"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71854,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The magnitude of angular momentum (\\(H\\)) is equal to _____. ",
+        "op": [
+            "\\(I \\alpha\\)",
+            "\\(I \\omega \\alpha\\)",
+            "\\(I^2 \\omega \\alpha\\)",
+            "\\(I \\omega\\)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71874,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Mass flow rate across an inlet or outlet: \\dot{m} =______. ",
+        "op": [
+            "m V_{avg} A_{c}",
+            "V_{avg} A_{c}",
+            "mρ V_{avg} A_{c}",
+            "ρ V_{avg} A_{c}"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71875,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\overline{r}\\times \\dot{m }\\overline{V} represents _______. ",
+        "op": [
+            "linear momentum flow rate",
+            "moment flow rate",
+            "moment flux",
+            "angular momentum flow rate"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71876,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The magnitude of torque M acting on a point mass m at normal distance r from the axis of rotation is equal to ______, where \\alpha is angular acceleration. ",
+        "op": [
+            "m r^2 \\alpha^2",
+            "m r^2 \\alpha",
+            "m r \\alpha^2",
+            "m r \\alpha"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71877,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The linear momentum equation is obtained from Reynolds transport theorem by setting b=____ and B=______. ",
+        "op": [
+            "b=\\overline{V} and B= m \\overline{V}",
+            "b=\\overline{V} and B=\\rho\\overline{V}",
+            "b= m\\overline{V} and B= m\\overline{V}",
+            "b= m\\overline{V} and B=\\overline{V}"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71892,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Total torque (M) is equal to _____, where \\alpha is angular acceleration and I is moment of inertia. ",
+        "op": [
+            "I\\alpha^2",
+            "I\\alpha",
+            "I^2\\alpha",
+            "\\rho I\\alpha"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71893,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\(\\overline{r}\\times \\dot{m }\\overline{V}\\) represents _______. ",
+        "op": [
+            "linear momentum flow rate",
+            "angular momentum flow rate",
+            "moment flow rate",
+            "moment flux"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71894,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Which of the relationship between linear acceleration in tangential direction (\\(a_{t}\\)) and angular acceleration (\\(\\alpha\\))? ",
+        "op": [
+            "\\(a_{t} =\\omega \\alpha/r\\)",
+            "\\(a_{t} =\\omega r \\alpha\\)",
+            "\\(a_{t} =r \\alpha\\)",
+            "\\(a_{t} = \\alpha/r \\)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71896,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "Total torque (\\(M\\)) is equal to _____, where \\(\\alpha\\) is angular acceleration and \\(I\\) is moment of inertia. ",
+        "op": [
+            "\\(I^2\\alpha\\)",
+            "\\(I\\alpha\\)",
+            "\\(I\\alpha^2\\)",
+            "\\(\\rho I\\alpha\\)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71897,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "\\(\\rho\\overline{V}dV\\) is called _______. ",
+        "op": [
+            "moment",
+            "momentum",
+            "momentum flow rate",
+            "torque"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71898,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The magnitude of torque M acting on a point mass m at normal distance r from the axis of rotation is equal to ______, where \\(\\alpha\\) is angular acceleration. ",
+        "op": [
+            "\\(m r \\alpha\\)",
+            "\\(m r \\alpha^2\\)",
+            "\\(m r^2 \\alpha\\)",
+            "\\(m r^2 \\alpha^2\\)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71899,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The linear momentum equation is obtained from Reynolds transport theorem by setting \\(b=\\)____ and \\(B=\\)______. ",
+        "op": [
+            "\\(b= m\\overline{V} and\\) \\(B= m\\overline{V} \\)",
+            "\\(b=\\overline{V} and \\) \\(B= m \\overline{V} \\)",
+            "\\(b=\\overline{V} and\\) \\(B=\\rho\\overline{V} \\)",
+            "\\(b= m\\overline{V} and \\) \\(B=\\overline{V} \\)"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 71914,
+        "cc": "MTH642",
+        "qn": "3",
+        "dt": "31 December 2025",
+        "qt": "The magnitude of angular momentum (H) is equal to _____. ",
+        "op": [
+            "I \\omega",
+            "I^2 \\omega \\alpha",
+            "I \\omega \\alpha",
+            "I \\alpha"
+        ],
+        "created_at": "2026-07-15T13:35:12.315606+00:00"
+    },
+    {
+        "id": 72890,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "m L^2 t^{-2} is dimension of ____. ",
+        "op": [
+            "moment",
+            "linear momentum",
+            "energy",
+            "force"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72891,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Strouhal number (St) is equal to _____. ",
+        "op": [
+            "St=\\frac{fL}{V}",
+            "St=\\frac{Vg}{fL}",
+            "St=\\frac{V}{fL}",
+            "St=\\frac{fL}{Vg}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72892,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "If t=3.01s, w_0=1.83m/s\\ and\\ z_0=2m, then dimensionless time (t^*) is equal to________. ",
+        "op": [
+            "t^*=2.7",
+            "t^*=2.79",
+            "t^*=2.75",
+            "t^*=2.71"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72893,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "m L^2 t^{-1} is dimension of ____. ",
+        "op": [
+            "angular momentum",
+            "moment",
+            "linear momentum",
+            "force"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72894,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Let n be total parameters andj equal to number of primary dimensions, then expected number of \\Pi’s (k) equal to_____. ",
+        "op": [
+            "k=n-j",
+            "k=j-n",
+            "k=n+j",
+            "k=2n-j"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72895,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": " m L^{-1} t^{-2} is dimension of ____. ",
+        "op": [
+            "force",
+            "energy",
+            "pressure",
+            "momentum"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72968,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "If g=1.63 m/s^2, w_0 = 1.83m/s\\ and\\ z_0 =2m , then Froude number is equal to ____. ",
+        "op": [
+            "Fr=1.03",
+            "Fr=1.01",
+            "Fr=1",
+            "Fr=1.05"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73009,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Euler number (Eu) is equal to _____. ",
+        "op": [
+            "Eu = \\frac{\\rho V^2}{P_0-P_{\\infty}}",
+            "Eu = \\frac{\\rho (P_0-P_{\\infty})}{V^2}",
+            "Eu = \\frac{P_0-P_{\\infty}}{ V^2}",
+            "Eu = \\frac{P_0-P_{\\infty}}{\\rho V^2}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73010,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Reynolds number (Re) is equal to _____. ",
+        "op": [
+            "Re=\\frac{\\mu} {\\rho VL}",
+            "Re=\\frac { VL}{\\mu}",
+            "Re=\\frac { VL}{\\rho\\mu}",
+            "Re=\\frac {\\rho VL}{\\mu}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73067,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Let \\(n\\) be total parameters and\\(j\\) equal to number of primary dimensions, then expected number of \\(\\Pi\\)’s (\\(k\\)) equal to_____. ",
+        "op": [
+            "\\(k=n-j\\)",
+            "\\(k=2n-j\\)",
+            "\\(k=j-n\\)",
+            "\\(k=n+j\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73069,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "If \\(g=1.63 m/s^2, w_0 = 1.83m/s\\ and\\ z_0 =2m\\) , then Froude number is equal to ____. ",
+        "op": [
+            "\\(Fr=1.01\\)",
+            "\\(Fr=1.05\\)",
+            "\\(Fr=1\\)",
+            "\\(Fr=1.03\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73118,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\(m L^2 t^{-2}\\) is dimension of ____. ",
+        "op": [
+            "force",
+            "energy",
+            "linear momentum",
+            "moment"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73119,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Euler number (\\(Eu\\)) is equal to _____. ",
+        "op": [
+            "\\(Eu = \\frac{\\rho V^2}{P_0-P_{\\infty}}\\)",
+            "\\(Eu = \\frac{P_0-P_{\\infty}}{ V^2}\\)",
+            "\\(Eu = \\frac{\\rho (P_0-P_{\\infty})}{V^2}\\)",
+            "\\(Eu = \\frac{P_0-P_{\\infty}}{\\rho V^2}\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73138,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": " \\(m L^{-1} t^{-2}\\) is dimension of ____. ",
+        "op": [
+            "force",
+            "momentum",
+            "pressure",
+            "energy"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73141,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Strouhal number (\\(St \\)) is equal to _____. ",
+        "op": [
+            "\\(St=\\frac{fL}{V}\\)",
+            "\\(St=\\frac{V}{fL}\\)",
+            "\\(St=\\frac{fL}{Vg}\\)",
+            "\\(St=\\frac{Vg}{fL}\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73148,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Froude number (\\(Fr\\)) is equal to _____. ",
+        "op": [
+            "\\(Fr=\\frac {\\sqrt{gL}}{ V}\\)",
+            "\\(Fr=\\frac {{gL}}{ V}\\)",
+            "\\(Fr=\\frac { V}{gL}\\)",
+            "\\(Fr=\\frac { V}{\\sqrt{gL}}\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73153,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\(m L^2 t^{-1}\\) is dimension of ____. ",
+        "op": [
+            "moment",
+            "force",
+            "angular momentum",
+            "linear momentum"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73154,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "If \\(t=3.01s, w_0=1.83m/s\\ and\\ z_0=2m\\), then dimensionless time (\\(t^*\\)) is equal to________. ",
+        "op": [
+            "\\(t^*=2.79\\)",
+            "\\(t^*=2.75\\)",
+            "\\(t^*=2.7\\)",
+            "\\(t^*=2.71\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73157,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Reynolds number (\\(Re\\)) is equal to _____. ",
+        "op": [
+            "\\(Re=\\frac{\\mu} {\\rho VL}\\)",
+            "\\(Re=\\frac { VL}{\\rho\\mu}\\)",
+            "\\(Re=\\frac { VL}{\\mu}\\)",
+            "\\(Re=\\frac {\\rho VL}{\\mu}\\)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73163,
+        "cc": "MTH642",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The Froude number (Fr) is equal to _____. ",
+        "op": [
+            "Fr=\\frac { V}{gL}",
+            "Fr=\\frac {\\sqrt{gL}}{ V}",
+            "Fr=\\frac { V}{\\sqrt{gL}}",
+            "Fr=\\frac {{gL}}{ V}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    }
+]

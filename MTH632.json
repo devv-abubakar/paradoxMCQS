@@ -1,0 +1,1314 @@
+[
+    {
+        "id": 24834,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The complex exponential function ez is onto function.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-28T20:20:51.219189+00:00"
+    },
+    {
+        "id": 24835,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The function ez is an entire function.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-28T20:21:03.314262+00:00"
+    },
+    {
+        "id": 24836,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Period of the function Cos z is _____________ degree.",
+        "op": [
+            "0",
+            "180",
+            "360",
+            "90"
+        ],
+        "created_at": "2026-06-28T20:21:19.052122+00:00"
+    },
+    {
+        "id": 24837,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAqCAIAAAACvoPJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH+SURBVGhD7ZnbeYMwDEaZi4GYh2lYxsNQyTYmJZJtFIs85D9P5VIkHwnhfp124An8+gK/vsCvL/DrC/z6Ar82wrrM05V5DflyAX4tkN0t7NuShIZ1npYtXbkCv2ZIa7K6Lape+DVDelP7kl5hMGTg18rRtbXpAL8irKzSk5EyFFL7hnWlifwO/AqQsqnSkwRXIBcgFUO7+1f8vgh5FPj1RfMbu/7Co/kNTqDTb4lanQ43UPzGOLyHfj1KB88wOgF+Ql95xi5W8Vu+jjmepXPiV6JK5akjEnil3y+n/Wm0k9b8jdGu1Qxb+eubro1KRUZMgFNY1G92xFrdse1b9yvH4rPZ6uBk3lCeH0/fC8y/0tOVfSuK9ZHJdxzofqlD2i9KLW1rBx0oCdC7Q+c4sIffnkXfQfMb45QF0JG8mLvL7KeRgJNfjjp0QaJfTuaMEvtIjklXRha70E7A0S/fxuN9yMIEv7GGF6RglHL9E2OlJwEnvxSbR/vMI2gI+vxtQImMqbCNu37H07eJMvpt7Y7c+bbfFD9a5R/VXCx+6YGn3bAu31jn9/v3hHPR3mWD3+t4fHhM8H8W83tJOH0CblGrtXn+ggPqN73F4Pcz/s1KAfj9hPYmCn7t9Gyi4NdI5yYKfm30bqLg1xf49QV+fYFfX+DXF/j1BX59gV9P9v0PR6H5sTn6Sk8AAAAASUVORK5CYII= .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAkCAIAAADTg1m6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH4SURBVGhD7ZnRtYMgDECdy4GYh2lYhmF8SVCLFAPkkXpOm/tVtTXhEgM9LpuhjClWxxSrY4rVMcUConfrUrL6uF8uMMXDgOAQt+CS0+jXxYV0pY4plgFmk9jgGoZNsQwwnIoYDN92iB1TLOKo3XabMMXvoLVWZZ7dIRVx9B668x2muASsLXxl4iTsc5Dmg6/jn1CcOXkAU6xOVTGVf8FHU5ycQKfiM2prARujpphC4fY6P0oHn2F2AniHvhnSGGxN8ble7iEl9UOLBgtz1xkJ5PQrxrT/G62E7cUUsJzTGM5/6HBtbjYl1QQwBcev4tIJ1ihiRnE9HJ7dxarkk3Fzfzo9Fhh/0lObfSOiKaqzf+PKjWKok/YTw2UuraODmwTgCYJzGFhDcc+gx6kqplDnGOCoPp7RkfbTSEBJMUZVGNC7YsznFYiqqR4WrsyfcqCdgKJi/Bq2+okDKxXTTBbU4kHW/IojpScBJcUQG9v8ir1oIje9uAHkMnOeRxlV/CwSxa0tkzpfrvjSIaJ3Twz1uxWXrfLD/QJfTNK2mFBaDppQz159oIUR82DTkPXinybAk4v7HOfoPSlWHVtoplgEtqqjV6Ftq+LpZJXbKmJTLCJbb3H559cjUyzgahg/ci9ITbGAvDfA58aWwhSrY4rVMcXqmGJltu0PcQQzWxbT1YQAAAAASUVORK5CYII= .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIgAAAAaCAIAAADjdoNNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIvSURBVGhD7ZjruYMgDIady4GYx2lcxmF6kgAKIUG00tLn5P1VaG7kQ6GdXsaQmDCDYsIMigkzKCaMwLbM0zQvWxgytm11Mxh4ZqfZvYcJI7A66LhbwyiDNAPRVlIDJCJxOmjzX4TBhj7RPx4nCvW4MibMm9Az80Fh/E7I6bIwjYcLaBRmzyq/yEq8Q7DGwwedZxrHUZp3W8KcRJZTEYbyOf8i3Ud+8BmeLgAjtOl6KRcZh7jr4rBgfITgDPIDMDjOK/hMNwV0ignUuhRhIHrq2rimHH8w1qhEfaKAFLUBBb6xTdmoMq4hLfu4qwnhYCrOiBGIszOG4nLPDfYDBKTe7ru6E2IBWIITZhOoP1Xk7uut4ggtB9g2EsLhVJhhxilVYeQifWAKJhs8hxKfpq8lRhe5AzmtK9LsaJ7pkudNK5G1JXRh6I5+tpY0C+funo0oBcDTCnOYuIcwLYuuWbFvBEOcCpWTbMoqNGEo4u4DI9n/an/aOSmgkzCY9TQuGqU2EDsOmb8QLnXGz1pRojC5krRz8+gR+KZhtdc5L6CjMGiGR5hiXRSTlEJ1J45FuMyABugJ17UimSAMRuNIVULc+vl7l5YCkm40gfbSIjj+t4f+Bxg1syBGjkJEaEsd4bzzYRCCQRfLbNXDvwasoGWhvbgqzM9xU5izy2p3TBgBaMohC/6c/UKDTJgSfgR8+I2Gfzcd7/lOx9z3uX3GGH0xYQbFhBkUE2ZQTJgheb3+AMikSQOtG6HVAAAAAElFTkSuQmCC .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAAlCAIAAAALCMrrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIsSURBVGhD7ZlrloMgDEZdlwtiPayGzbAYJwlo0fKISKTnTO6v1j74uMTATJdNmYSqn4aqn4aqn4aqf463Zl2urNbHl0uo+qeAeOc3Z4Jrb9fFuPBKA1U/BDAehDvDNa/qhwDmQ9GD+Xaniaj6Eey1fqPdqPosaJBfvUmXCUXvrYXu30TVZwCDC796caHiOoU1Y37yv6hP/PwKqn4aJfV061x4NfrgAEz1x6jsdtNPQT1FwD8V0mfhyTuMDoDfwFu51yZbUH/s2TFKT73RZlWl8q0jAqTw1WPsp6OxaPV6CnKtAe+O/1rAa7IpswEwgqmfJHoX/rWir6vPx8CrUbh0zsL30+V7A+NHOLXMmxEt3Q3ix86U1UNdte+82ox6626nEADuOLiGA0uo50x6ECX1FOGYGzzLz/OuAT6NAELqcVShCX2RVY85PwGo+vJx4BWREmkHEFSPb8OtRLr2M+pp5S/kcsBs6jtdL5wAQuphbNxGVuxp0pR7fQPIKF4XFe6qH8/jY16n+tbRTpzZ6sP4JBwf9mTpUQ9jfcR7a2YomF/1HzBLRwfoUH9txS/3HfwROt7ogNB2c4ujDGijWK2jXRrDVbN193plB0qRqs/B7Y+HMWPoh/LjeglV/4xT8w03wN4IcRW06qX4OuYlld4qelX/gO9jXrL54+1QNa/qezl1mnjMO5vHh7VfyFV9H9BOTlCFpz2G3lA94qj6aaj6aaj6aaj6aaj6SWzbHyesul1Ntkh+AAAAAElFTkSuQmCC ."
+        ],
+        "created_at": "2026-06-28T20:21:26.317546+00:00"
+    },
+    {
+        "id": 24840,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {{Z^n}} {\\text{ is equal to __________}{\\text{.}}$$",
+        "op": [
+            "1/(1-Z)",
+            "1/(1+Z)",
+            "Z",
+            "1/Z"
+        ],
+        "created_at": "2026-06-28T20:22:35.62852+00:00"
+    },
+    {
+        "id": 24843,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The complex exponential function ez is one-to-one function.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-28T20:22:46.407558+00:00"
+    },
+    {
+        "id": 24844,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "In the context of an infinite power series, what ensures the existence of the corresponding function?",
+        "op": [
+            "The series having an infinite number of terms.",
+            "The series having only positive coefficients.",
+            "The divergence of the series.",
+            "The convergence of the series."
+        ],
+        "created_at": "2026-06-28T20:23:02.337602+00:00"
+    },
+    {
+        "id": 24847,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{The power series }}\\sum\\limits_{n = 0}^\\infty {{C_n}{{(Z - \\alpha )}^n}} {\\text{converges for all values of z for which |Z - }}\\alpha {\\text{| _________}}{\\text{.}}$$",
+        "op": [
+            "less than 1",
+            "less than equal to 1",
+            "less than radius of convergence",
+            "less than equal to radius of convergence"
+        ],
+        "created_at": "2026-06-28T20:23:17.359122+00:00"
+    },
+    {
+        "id": 24849,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {(n + 1){Z^n}} {\\text{ is equal to _________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{1}{{{Z^2}}}$$",
+            "$$\\frac{1}{Z}$$",
+            "$$\\frac{1}{{{{(1 - Z)}^2}}}$$",
+            "$$\\frac{1}{{{{(1 + Z)}^2}}}$$"
+        ],
+        "created_at": "2026-06-28T20:23:33.749093+00:00"
+    },
+    {
+        "id": 24959,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "log z",
+            "ez",
+            "cos z",
+            "sin z"
+        ],
+        "created_at": "2026-06-28T20:47:23.307898+00:00"
+    },
+    {
+        "id": 24960,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which one of the following is the Euler’s formula?",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAAAhCAIAAAApoczwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPPSURBVHhe7Zo9dqMwEMfxnsXewm9PgE9gb5MqbToonWY7l+nS2KXptk2VZuEE+AR+KQJ38c6MRiCEwMJfG6/0a2JJIP4zjEYjXkaHwyHwOMw3/utxFR8BruMjwHV8BLjOJSOg3MSzETCLNyV3eb48Z0VAuZmN4qz6PXmb/oajRfG4f37lXs+X50KnQXz/H6vDdo6NLB69TIt8OaYhz9fm5ByA6x8Svsj35Z+3YP2LXj80PvfBj+/+9d8LkANOpFiH4brgXzwbw/33RpFG0pAwSrnzopCnrL0z7OoOjhl1Rh1QfOx4qcOvWmcaBXeZArJ4NlnsH1O0o1gHyUJWOJcEPHVT79gYRW/tFJopoIouDIDrrJ+rgrIV3WiSzeKzve7fYGXU6XUAbP2PP2Uwh9OJ+JG9J0H0wBXB3VBuXhJwjqxkBLuPgn/dJ5ZGWURAmfE5Hyu/KotQPoOnbDKsBcXEZRYvkigVJ4IrAEpmUglp4c8O8Nyqf1Z3E/IjBaEPMtnr8y6IVsrhBa2rovoiiMoZMG0uJpHyBlls1836hZjNEVgbxbmgCyojwjVvJEphIhqcYlJsANC+XkbEnMZKsLyRUkgI5DrZL1rYqBTzmCpfRUuWQOelOnihzXUEzdp4DtEtUpNBzSAMI9Ejmu35BNZG9UdA7WdCa54CCeul4wFtiwStfurgSbRB8IFhduHJFlaG4r3WHkE1hot7RGp3tK/slGlvVF8E0CzigUUhVteVDknHUbQ0IKc07VL9xI6AZdOdnDQ3A5qnVWiol45X0m1Cj0hNmq60rbyiPUTKDY/vqQOg1oOtPlnghvP09PQ+XRVFfrU9/gii7LBn/0kb5HiZF+k6CpLnxYS2TRpsgB+wmgc0rGa7ytn5lh0nwJenvYOub6HkTuOsFiKHMsCongggp3PQ5Hm+Xc7HZtuGkMVUwvTAlc+Z1NaP58ttDu8KctguWbRn12PLWEJfgN7i8pjIoQww6shZoCEZKtazpWlryIB5DU2mkCl5YavMHyC5NY44FP5CN9TPlTPH8+1Kv5SgmWvaJfRloDVo+hZkJXIoQ4xiv5ugvUQpsk1l1O2gfaxSgHpEfqJ+yFUsk/ZUzly0wcpb4I56RIXMpIvE3UNqHcMu0IF8Cgpv3NAjUhQIlRyt2Wqr2Bt17CyAz0B6a6kbgc6TcmRkIriJygEUWuvEgWqkOaQiXCkuGWYl3mkXAexLg4YukRQMBD1BayptcxDYGuX/V9h1Tv4q7PlP8BHgOj4CXMdHgOv4CHAdHwGu4yPAdXwEuI6PANfxEeA2QfAXzIrjEp3ZcqoAAAAASUVORK5CYII= .",
+            "data:image/png;base64,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 ."
+        ],
+        "created_at": "2026-06-28T20:48:16.407992+00:00"
+    },
+    {
+        "id": 24964,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The ratio test for the power series $\\sum_{n=0}^{\\infty} a_n x^n$ involves computing which of the following limits?",
+        "op": [
+            "$\\lim_{n \\to \\infty} \\left| \\frac{a_n x^n}{a_{n+1} x^{n+1}} \\right|$",
+            "$\\lim_{n \\to \\infty} \\left| \\frac{a_n}{a_{n+1}} \\right|$",
+            "$\\lim_{n \\to \\infty} \\left| \\frac{a_{n+1}}{a_n} \\right|$",
+            "$\\lim_{n \\to \\infty} \\left| a_n x^n \\right|$"
+        ],
+        "created_at": "2026-06-28T20:49:09.050845+00:00"
+    },
+    {
+        "id": 24970,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{The power series for }}{C_n} = n!{\\text{ }}and{\\text{ }}\\alpha = 5{\\text{ is _____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\sum\\limits_{n = 0}^\\infty {5!{{(Z - 5)}^n}}$$",
+            "$$\\sum\\limits_{n = 0}^\\infty {{{(Z - 5)}^n}}$$",
+            "$$\\sum\\limits_{n = 0}^\\infty {{Z^n}}$$",
+            "$$\\sum\\limits_{n = 0}^\\infty {n!{{(Z - 5)}^n}}$$"
+        ],
+        "created_at": "2026-06-28T20:50:28.434778+00:00"
+    },
+    {
+        "id": 24972,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{In an infinite series of the form }}\\sum\\limits_{n = 0}^\\infty {{C_n}{{(Z - \\alpha )}^n}} {\\text{ __________ is not a fixed complex number}}{\\text{.}}$$",
+        "op": [
+            "$${\\alpha ^n}$$",
+            "$${C_n}$$",
+            "$$\\alpha$$",
+            "$$Z$$"
+        ],
+        "created_at": "2026-06-28T20:51:30.64533+00:00"
+    },
+    {
+        "id": 24974,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "The complex exponential function w = ez is one-to-one if we only consider ___________.",
+        "op": [
+            "the principal argument",
+            "the argument"
+        ],
+        "created_at": "2026-06-28T20:52:11.663343+00:00"
+    },
+    {
+        "id": 25565,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{The radius of convergence of power series }}\\sum\\limits_{n = 0}^\\infty {{{(\\frac{{n + 15}}{{6n + 10}})}^n}{{(Z - 5)}^n}} {\\text{ is __________}}{\\text{.}}$$",
+        "op": [
+            "15",
+            "5",
+            "10",
+            "6"
+        ],
+        "created_at": "2026-06-29T01:57:02.287313+00:00"
+    },
+    {
+        "id": 25586,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{The infinite series }}\\sum\\limits_{n = 0}^\\infty {{C_n}{{(Z - \\alpha )}^n}} {\\text{ defines a function only if it _________}}{\\text{.}}$$",
+        "op": [
+            "diverges",
+            "converges"
+        ],
+        "created_at": "2026-06-29T02:11:33.143362+00:00"
+    },
+    {
+        "id": 25587,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "How many methods are there to find the radius of convergence of power series?",
+        "op": [
+            "1",
+            "4",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-06-29T02:12:13.228674+00:00"
+    },
+    {
+        "id": 25590,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Which of the following correctly describes the radius of convergence $R$ for the power series $\\sum_{n=0}^{\\infty} a_n x^n$?",
+        "op": [
+            "$R$ is the distance from the origin to the nearest point where the series diverges.",
+            "$R$ is the maximum value of $x$ for which the series converges absolutely.",
+            "$R$ is the maximum value of $|x|$ for which the series converges absolutely.",
+            "$R$ is the distance from the origin to the nearest point where the series converges."
+        ],
+        "created_at": "2026-06-29T02:13:08.842948+00:00"
+    },
+    {
+        "id": 26033,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Why is the infinite series used in constructing complex valued functions?",
+        "op": [
+            "To simplify the calculations",
+            "To make them shorter",
+            "To improve convergence",
+            "To make them infinitely long"
+        ],
+        "created_at": "2026-06-29T04:03:01.771302+00:00"
+    },
+    {
+        "id": 26155,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Period of the function ez is _____________ degree.",
+        "op": [
+            "360",
+            "180",
+            "0",
+            "90"
+        ],
+        "created_at": "2026-06-29T04:32:34.733424+00:00"
+    },
+    {
+        "id": 26173,
+        "cc": "MTH632",
+        "qn": "3",
+        "dt": "29 June 2026",
+        "qt": "Under what condition does an infinite power series define a function?",
+        "op": [
+            "When the series has an odd number of terms.",
+            "When the series is convergent.",
+            "When the series is divergent.",
+            "When the series has a constant term."
+        ],
+        "created_at": "2026-06-29T04:43:52.370929+00:00"
+    },
+    {
+        "id": 50429,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(csc z) = ____________}}{\\text{.}}$$",
+        "op": [
+            "$$- \\cot z\\csc z$$",
+            "$$\\cot z\\operatorname{cscz}$$",
+            "$$\\tan z\\sec z$$",
+            "$$\\cot z\\sec z$$"
+        ],
+        "created_at": "2026-07-05T21:05:00.079907+00:00"
+    },
+    {
+        "id": 50432,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sinh }}z{\\text{ = ___________}}{\\text{.}}$$",
+        "op": [
+            "$$\\tanh z$$",
+            "$$\\sec {h^2}z$$",
+            "$$\\cosh z$$",
+            "$${\\csc ^2}z$$"
+        ],
+        "created_at": "2026-07-05T21:05:14.222229+00:00"
+    },
+    {
+        "id": 50434,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\\\\\ {\\text{sin z = ____________}}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\sin x\\cosh y + i\\cos x\\sinh y$$",
+            "$$\\cos x\\sinh y + i\\sin x\\cosh y$$",
+            "$$\\sin x\\cos y + i\\cos x\\sin y$$",
+            "$$\\cos x\\sin y + i\\sin x\\cos y$$"
+        ],
+        "created_at": "2026-07-05T21:05:41.590416+00:00"
+    },
+    {
+        "id": 50435,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "data:image/png;base64,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 .",
+            "data:image/png;base64,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 ."
+        ],
+        "created_at": "2026-07-05T21:05:53.717623+00:00"
+    },
+    {
+        "id": 50438,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "We take the derivative of principal branch of zc because its principal branch is ______________ function.",
+        "op": [
+            "multivalued",
+            "single valued"
+        ],
+        "created_at": "2026-07-05T21:06:34.751503+00:00"
+    },
+    {
+        "id": 50441,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(sec z) = __________}}{\\text{.}}$$",
+        "op": [
+            "$$- \\sec z\\tan z$$",
+            "$$\\tan z\\sec z$$",
+            "$$\\cot z\\sec z$$",
+            "$$-\\cot z\\sec z$$"
+        ],
+        "created_at": "2026-07-05T21:06:55.78487+00:00"
+    },
+    {
+        "id": 50446,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(tan z) = ________}}{\\text{.}}$$",
+        "op": [
+            "$${\\sec ^2}z$$",
+            "$$- \\sec z\\tan z$$",
+            "$$\\tan z\\sec z$$",
+            "$$- {\\csc ^2}z$$"
+        ],
+        "created_at": "2026-07-05T21:07:09.69929+00:00"
+    },
+    {
+        "id": 50447,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{csch }}z{\\text{ = ___________}}{\\text{.}}$$",
+        "op": [
+            "$$\\sec {h^2}z$$",
+            "$$- \\csc {h^2}z$$",
+            "$$- \\csc hz\\coth z$$",
+            "$$- \\sec hz\\tanh z$$"
+        ],
+        "created_at": "2026-07-05T21:07:21.551675+00:00"
+    },
+    {
+        "id": 50448,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(cot z) = _________}}{\\text{.}}$$",
+        "op": [
+            "$$- {\\csc ^2}z$$",
+            "$$\\tan z\\sec z$$",
+            "$$- \\sec z\\tan z$$",
+            "$$- {\\sec ^2}z$$"
+        ],
+        "created_at": "2026-07-05T21:07:34.629399+00:00"
+    },
+    {
+        "id": 50450,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "single valued",
+            "multivalued"
+        ],
+        "created_at": "2026-07-05T21:07:48.554658+00:00"
+    },
+    {
+        "id": 51428,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\ {\\text{cos z = ___________}}{\\text{.}} \\hfill \\\\\\ \\end{gathered}$$",
+        "op": [
+            "$$\\cos x\\cosh y + i\\sin x\\sinh y$$",
+            "$$\\sin x\\cosh y + i\\cos x\\sinh y$$",
+            "$$\\cos x\\cosh y - i\\sin x\\sinh y$$",
+            "$$\\sin x\\sinh y + i\\cos x\\cosh y$$"
+        ],
+        "created_at": "2026-07-06T01:28:09.823996+00:00"
+    },
+    {
+        "id": 51429,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{tanh }}z{\\text{ = ____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\sin z$$",
+            "$$sechz\\tanh z$$",
+            "$$\\sec {h^2}z$$",
+            "$$\\sinh z$$"
+        ],
+        "created_at": "2026-07-06T01:28:55.668282+00:00"
+    },
+    {
+        "id": 51431,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{cosh }}z{\\text{ = ____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\sin z$$",
+            "$$\\sec {h^2}z$$",
+            "$$\\sinh z$$",
+            "$$\\tanh z$$"
+        ],
+        "created_at": "2026-07-06T01:29:16.877543+00:00"
+    },
+    {
+        "id": 51432,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, sech }}z{\\text{ = ___________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{2}$$",
+            "$$\\frac{2}{{{e^z} + {e^{ - z}}}}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{2}$$",
+            "$$\\frac{2}{{{e^z} - {e^{ - z}}}}$$"
+        ],
+        "created_at": "2026-07-06T01:29:31.858432+00:00"
+    },
+    {
+        "id": 51433,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "finite values",
+            "infinite values"
+        ],
+        "created_at": "2026-07-06T01:29:53.480644+00:00"
+    },
+    {
+        "id": 51436,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{coth }}z{\\text{ = ____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\sec {h^2}z$$",
+            "$$- \\csc {h^2}z$$",
+            "$$- \\csc hz\\coth z$$",
+            "$$\\sinh z$$"
+        ],
+        "created_at": "2026-07-06T01:30:30.550487+00:00"
+    },
+    {
+        "id": 51437,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, tanh }}z{\\text{ = ____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}$$",
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}$$",
+            "$$\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}$$"
+        ],
+        "created_at": "2026-07-06T01:30:40.087131+00:00"
+    },
+    {
+        "id": 51670,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, coth }}z{\\text{ = _____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}$$",
+            "$$\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}$$",
+            "$$\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}$$"
+        ],
+        "created_at": "2026-07-06T02:05:43.945493+00:00"
+    },
+    {
+        "id": 51718,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ8AAAA6CAYAAACuyou9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQsJDSReCCj4AAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAARDSURBVHhe7Zw/bvIwGMYfvjuQoQszguFbOUARl/iWCi4QFo7QBS6QqOdA4QCsHRIxd2FIDpHPjkNJISGOk9aR+vwqK2AZI9FHfv3+sQepAIRY4E/+JOTHofiINSg+Yg2Kj1iD4iPWoPiINSg+Yg2Kj1iD4iPW6FZ8kY/BYCDaGock7yOkgm7FN1kiDlzxYoynoeoipIrvMbveDJP8JSFVdC6++GMHd+Tk7wipprX4Il/u8fLm+ziuhNGlzSUatBBfgsN6gOnKQ5imkJVZIVbiz8OMNpdoYCy+5PCK+c5FEC8/93fOSDgb7gg0ukQHQ/EleN/vhGPxgueChc32e4u/oNElOhiKL4bQ2Y1jEXG/RxphJr7kjJN4FIUW+VOx33NBR5foYia+4RPG4nE6qzRGcljjKByNS3A58pnhIBrIA0QmxIGbyo/L5gax6AlTIb/svSfcX0Lq6NHpNRm6cTAfh0iX3cRqZAxyegoQb5/pBPUQ41BLpyQHrAevwCZtLLwvQe6boobJUsy3AV5Z6NBLeiC+CL4zxzjcfgnbKFQgW2VPoryvSILz6RLkjiFrGrzbeYbP2MYL7B1ffBPpE9bNrnRWnI+XByueMsf7RYztvTpzhIAHUwgVomqazASjO5NO2mNZfPWiUWPeMIrLVkaJzhwCWWuYDbtmZIhd7Jrd6FgfG8zGVNUHXoSphCdX0VLrLJnM4ImZjrS9vaEHe77HhafJ+ZTXB0qhFfd/0hzLwPYOc0f1O/NxbVHDJTZJ7GNVfJmwasjyxTgKb/iImXQsQg9YvQnvdYjnraqmubZHJtWBrHt4TMHBqWlrus+t0RJf2Y9v2pqh8sW70wibi7CckRDjDh9xNqBjygRd3qqdH6KLlvjKfnzTVmT4JJN0D8hyyC6CTSFIHH8I6ZnkkFUxBOkPPdjznVC1DUve99i5C/wtLDLKVBscUCophriHZvcn6XWo5T42p8avPIN4HUMtvcPyyjfBTPoPpfEPmb0Qj9NZvFKosi0PYVPhCSK5eeSpul5h3exOliG81fQ+Ppe8Y48A4WIPJzd1WZGAycqVHPAmz5oYiJZ8I9LsGhN60mSL5qZZVZUpcZC6beeo4jvnJq1oJz6Bquvz0vYlfHEauELIHRYDhp6Yzw3EzDa51jnetn8lfbJ54c985qe+v+pf2trhqC8MIKSc1ns+3lBATGksvtobCrLC0MKYz8Z6OvKVBuJTAdjaGwpkBkLG4fIxWS5WhkcYXyM3aO/5sr3dHAgKdXVZ335RfUZCroLOHovKWjzym9Fc+UxuKIjgU3jkAZria3pDwSVtRuGRavTE1+iGAlXkec3XCiGuD58pMkIu6IlP+4YCKTx12OcS9stEOn7iuVlyj3Q4dNC5oSDLKOR9xabGE/IV60cnye+lQZyPkG6h+Ig1KD5iDYqPWIPiI9ag+Ig1KD5iDYqPWIPiI5YA/gP7k/yOB3WzVgAAAABJRU5ErkJggg== .",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAAkCAYAAADWzlesAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQsJDSReCCj4AAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAAL0SURBVGhD7Zk/cuowEMY/vzvgIg11hlek5QAwOUcGLiCaXCK+gJncgY4xB3CbAg81DYV9CL/VSsSyLP95JDweE/1mNLFBtnY/7a6WSVAS+OH80n9/NF4EwotAeBEILwLhRSC8CIQXgfAiEF4EwotA3JkIBXarAME60/fdZGuau9rRUz3IH1B3QZ6UAqJMcn0/lAHPdYqQJ0L+wqQRl3v92W3YlzHZETeMyMtESPtoNL+sYCHafeiNBCXEbUVgG1qdVEKInhDZx+1C9daE0cOjvroVGTbzCPF0ou9tchwjgeenkb53M5lSLC1TeluT/78wZimWEBiH+t6Gv3/EQ7cGUgXENDN1qHCxCMVuhSCg6nsejYqtK7k5R4+Bxd2g3cnidKBsnWJCe7w+r9GxwOHUPCsuEkEKEM4BSkNZU0BJC7H8jdWuWiBbh5gjAWUqz6GcJGJQVmLRFtkO2MkO8mNEcZJiFaSYyrXkQst3GKZoQoyFvrS4QASVo4hfMDvvzmiGF1o7mm90zmVIl4B4fsJ5CuckDnBsxBdQ60SHMV7LBUUDEY5JlAjHnCcM4u9FKE7kCjloJWnIMn+3kz2FmW0RSF5nn2JTaJAErhoiC6i+tLhSYZxAbnwVGbJ+cWigp4i34Ba3+Ngist6p0sdRQ/TmPbqKCx+UXexjq09QjYt95vI5XJtnNDI8Lu012hol19nvto1p+FExsFmqt53KYeMz7sjMhkUKMKzFrbpS5ah8t934NJ2VaJFFQleK5kZUuN+h6BaB1VMG2i9XC1ajbrgdBdUw7WABzk5IIUk44TTUEQ08Pyn3hoimIDW+2jZfhjS6GQn1Ftya02Oo+n5YdNUY8NxVRKjtsImZl5bT/ExLuFboCOudp+BobYsOg6ucDnysRVt81Co6dZDvdEJwd2dR7LDZnq8zZK3H7AizN9q4gd3WZEFz34zjsw0txrdjFrzPUU/qqm7I3eLI0Nd6xr/C/1eauFKzdF94EQgvAuFFILwIAP4A8FTib7Cnl9wAAAAASUVORK5CYII= .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAcCAYAAAAgLuLfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQsJDSReCCj4AAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAAMNSURBVGhD7Zk9bvJAEIZfcgdcpKFGTpGWA4A4RwQXWJpcIr6AUe5Ah8wB3KbAoqahsA/hb/aHsP7Z9RoTyBf5kazYyezPvDs7O6sMcgI9V/GkfvZcQS9eB3rxOvDHxcuwWw0wWCfq206yJtvVjlo5wg+MP0ka5Qwsj1L17UqLdhbx0jxi4CdxjnCvfmcnjZi0R5i7tfgp9nlI86hO29EnIWCzDw2RJwdjLZZPCvhY8cQcjOK4+bQPm4OmIeelOAYM89eh+m5m+DxWb48iwWYWIJz46ruMm0/+hGJ3GVNvZuziJTGWGOPZXbvHI+bMMPLUdxlXn/wJQrKMLepZxctOB9qBE/ik/3pAJxF/HE+uMtluJdsb+1Eno26jnvZDmsVp69PhZD57reKlx4DWMMZqEGPC8yMlAiw/sXM+yyVcOG8GUJrhORaUlMCWL1hpHSVrDzNEoEwkbPhQ5CUo62Bh2oE1CHEsuPvkYcTUqwGLeAniJRAcRnjPF7RShDeigQMcU2HgiMxBCN8wPUfDcIo3mnMw26icIsdi81ecTUTOwQGWhb+CW/kkMYuXnWjqDNH79NshWjYaxpJP6hD9kDClRp5Y1luL03BgtfKJHyzq1YBRvOxri4DNoR9Kckv8xAHigwfaJRIpRmQoFsZ3p35RWvmkFn1sc1YULDVU6xxZeDYWzPswL9Z59e1E/wU7rYAVz7W1oqlAVmO6+lTxo4pBPOUIi+hNUnW2HlkkF683sq32O1HB64UqH8/tSnS5xUiBeN/lgrcqEqedT/V9FKkXjztHg+y1ieqDGhGrpexLk5ITvTxFh8tRd3n0+QvhzvMQc2Q5q3WwJvra+HSb69m94M5WI6941SvZNDko/u4WzQVatPsV4hUiSkfPOyWxRJuGbUVWMqIb7SRid7jsMIW1SL4XorwItvgqnJB04/ikE1fcBkpkO2y25/cEibHcGWL6QQHiWGX7C7L90MqYJpSID0c/CL6fYtK65EUeHSIS1buyuDf9f8868Cu27f9KL14HevE60IvXgV68qwH+AXvS5R/ryrnwAAAAAElFTkSuQmCC .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAZCAYAAABJhMI3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQsJDSReCCj4AAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAAMoSURBVGhD7ZlBbuowEIZ/3h3IohvWKF10ywFAPUcFFzCbXqK5AIg7sKvCAdh2QcS6GxbhEHnjsSF24gQnRA+kl0+ympCJM/N7bI/VQUag5y7+6L89d9CL2AG9iB3Qi9gBvYgd8J+JeMZuOcBgnej7epI12S539NYNZInjy2EFWQ4ZTWRxqh8+O2mciTb+erxniJhmsdDirA76NxP5fJWpJ8rWaWaQxkKLfXnvURyyFflR9vdWzBoWsjqGQiaqTkXtcFU55EYJ+VgR2YdKh31i1rOwoo+CiFKgutRtJiBzWD1YxFs+34pZUxOHvbEkeywwxstQ31skWA82GKUZ5iEt0bslPNfnx8IxCYwCfV+kNmaDcIIVWe4dMVsink9HEnuCkAWjnUk2Vkruaq/URYRZoH4PZmNMSMy2yEHg/q3vmOid1LTRrfngVYtUHbOb46m8V1sipr8Rjdkey8EeEznVaSHAYoPdeYjpF099o83pw+2QAgYzgKaQ6iuNIRavWO5yB5N1gBli0CxjG+kKRQuaTjwTfGGRaqiOWRtcCTAS+rKAIWKC/QKIjiN8XgQKRvSBCL8pG3REgu0sIj0+ML1kx3CKD/I9mm3pqUT5It7fcDEJJ1LFIxyJcAfdxJyLeD6RiwLx5/TqOA0TdVeznrSBv0MCFToNeJi7FonG52Wsrxw0ijkFJa2Tq4jnn29E4h1vxtqhpoLHots5IWTi5ZlJOaNS0/LPH/fgNIpZD/7YJQatN0y5DlKlQW0R6kOpNHD3y9+37IxCmFvbMqm6xGkUc02Jo0XUDouYrhTloNqhim27DlN9G7/xicAseKU/HrUbkZ+KlFCy72LhXBZL0ixmdx8KJaIMgjo7GA6ZnbeGR0/3V3BOOZw3O/BiFubNjIMFvPjJMYhMOAN1ZGOTmJsd+54FGXQ5E+0jZMHmRqDquV92W3i895QiWhlmYq5LBdH4nYrplqMz/KadgmeLx4y0iu1ngcuS6Bs/1o5KJ5gN7dB8uihw3mH7fblOkFSWSfrQ4Fmth3Oy/TLKnyq0mE+HuWFcm72o5eumzBbOTH2tLf4V/f+d7wb4Cxy0VplY2ToSAAAAAElFTkSuQmCC .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAiCAYAAAATQPRFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQsJDSReCCj4AAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAAMjSURBVGhD7ZlPbuowEMa/vDuQRTesUbrolgMQvXNUcIGw6SWaCwRxB3YoHIBtF0Ssu2ERDpE3/hPixInj0EjQJ/8kqwke7PHnsWdQvYKAw8gf+ddhwIlkgRPJAieSBU4kC5xIFvwCka44rD14m0y+/5xsQ+OtDzSyJaxOelrytIgQFWku3wdwSsDqP6U1xhkwtiZSnkZy0KQ4yc8ew6lIyI9EcyIv0kguXO+UMJvSf2HfasqF6l9nayQJoR4rEvfBKAKKqDcMuoSu4BFnMiDaj9spebBIfYtj/X1HpV8gjsVan/Pizo5YIcLUl+9NeP8MLxP5rpFh420xzQssA7r6D2t03vvBHAmNdjTkhUEisck8jzJD2bSZZSZSbWQbnpy6RbhezrT5cwRcDDnHbQLmwystO0boiz4/nGFOYpk4X7pznbVITCA/BCjE2REFXRqIVq9YH6rBs42PECnoFHAbOu9EAgplvqO2cBEM5N8xxdkRa++IOZuLTbTaQrgyweJT+nhrSxK0Cx/TSD52YClShl0Y03rfsSh3d7LAO/kWhzvqZWQ4rijR/n0jNwXBnKl0hmGT7kDME5+n+CgX709JtBjfOTcYHTuRrhdaKgnQuCR8vgVji0D6v8zkUwvclwjpx+K2GRRaJJHhDjOSgwLTyIgXdwAWOFVk0Z6L0MJb5wVrol3869cecWNMcTxNF7kBGQAz05fpzOpoaVGk02Y9Iapa1U4p9Hi7t4zoTt96XdPumzUWJUCrSKKYrNchQhDlM16tqgUdE8iuzK+qeiEEG7tZGOpiMOQmRCk9CfSNGkb7PHV0kbiyYgHNyYVDVasvrBlFVVN94AKVi2RCk7BRq5Mt0cTt0+KkiKwKNpif/Cy5D7YoPZLqP3EaNn1O8n676BzMgLFHE6kWISrqmW+Iwr/TE+pkJSK0184efiIGROBo2Y2n7XiPr1pGoup3SxmOV8cNrgfs9uVzhqyzjJDF4ZBqtIdgSeN9KiVEH1KsUVAv5FurXyrVvcV2kkeWfJYWz4j756QFIxaT/y9OJAucSBY4kSxwIlngRLLAiWSBE6kX4B9TTxEPD+0KTwAAAABJRU5ErkJggg== ."
+        ],
+        "created_at": "2026-07-06T02:15:01.078769+00:00"
+    },
+    {
+        "id": 51720,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sech }}z{\\text{ = ___________}}{\\text{.}}$$",
+        "op": [
+            "$$- \\csc {h^2}z$$",
+            "$$\\sinh z$$",
+            "$$- \\sec hz\\tanh z$$",
+            "$$\\sec {h^2}z$$"
+        ],
+        "created_at": "2026-07-06T02:17:23.527834+00:00"
+    },
+    {
+        "id": 51730,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, cosh }}z{\\text{ = _____________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{2}$$",
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{2}$$",
+            "$$\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}$$"
+        ],
+        "created_at": "2026-07-06T02:20:20.998207+00:00"
+    },
+    {
+        "id": 51740,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "multivalued",
+            "single valued"
+        ],
+        "created_at": "2026-07-06T02:20:54.907967+00:00"
+    },
+    {
+        "id": 52144,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, csch }}z{\\text{ = __________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{2}{{{e^z} + {e^{ - z}}}}$$",
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{2}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{2}$$",
+            "$$\\frac{2}{{{e^z} - {e^{ - z}}}}$$"
+        ],
+        "created_at": "2026-07-06T03:37:12.109707+00:00"
+    },
+    {
+        "id": 52146,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$${\\text{For any complex number z, }}\\sinh z{\\text{ = ___________}}{\\text{.}}$$",
+        "op": [
+            "$$\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}$$",
+            "$$\\frac{{{e^z} - {e^{ - z}}}}{2}$$",
+            "$$\\frac{{{e^z} + {e^{ - z}}}}{2}$$",
+            "$$\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}$$"
+        ],
+        "created_at": "2026-07-06T03:37:28.503355+00:00"
+    },
+    {
+        "id": 52313,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXIAAAAgCAIAAACAd2QWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASHSURBVHhe7ZrZgdswDES3pny6izThJtKEC0gdasbFbHDwAECKohN6vZHnfZkCOBxqIehIPj4BAGApaCsAgMWgrQAAFoO2Ah7gfrt8XLc0AGAHtBUAwGLQVsAk/KTy8XG53dMYgD0ebSv37Xb98ufgjQv6X9dcIHK/b9fL+t0/SXYKXpqaBXO5bm3HkF6SWwkNdrvKkr8ROAmmrWzXVF99qGTut5TyxeXzPdqK3q2X7/5JsjPw0tRM9Ce3l9aCFEU+TINdk2groOLbSr1fcTnVOxPXXyoZV2dvx5N2/5qTKg3tgVUpH69AYAbbVm6mZnxb4ZK6af09Wovn4lRt5cFV0VXALHvfVmJbKeS2Ul7K01N04fBtPX+d0efukGaiHGQL/tNDTaDHbpnfGsjCFMpb2BPpeZC4ajNWf3AlqmElnblyqC57IBtmlKH7Uxyd4Yo5FT5VFrS0e4rmeQ7Z4PtLu2T8PJTOK59/+tmrI3Bm/q6tULlocWnt1ZqkcS5fKjRblArVGB9UBU0TBV2qVvJ126geaXT9XY6RkJveNSDGs4MSq8JRpPGQh+laCPqyJ7OaR5V9C7iV9jEpG0JRk8LDM2zgcJrIDc3JMOPNEOq4OqFR2Y1FLVcx65FCflXwBvz100pCay0n0iwzSautqcNYzT5NomFlNyNMbwxYab6t59hIxHtwwVbfzotIttOtt+pZ2aDRZJbfKbbjh2MmNeXaI0ebkQQ7YYQVcybtKQBvwtK2opUbaFSCQk8j1Lqr/5DQTO66JkYiQSZRXyFKwIn08DrdS+pINnhzijKIBNtK61TnmkNHmwlGxlgxXYkeBvWJBbwdS9sKTzouw6ZanUYTJVz9HxnYczASCTI85Occvi58YLRAglNSftNVpmSDN5fJiePlMx2ncqjusZdiCT4O8GLzn3/AGVneVo4LsSlXp9ErZqc7MiCDHQcjES+TMo1kORMzOyw529VlzsoGby5zZn1FMssCQpx8IMZhLzCiIybfcenoAyrgHCz/tsJVZO5PndcAP4VwawV9wZXshAEKtwZakR0PLrGnH9w1pKR+V0mjgWzw1tvgwRkWNNNYECFryTuKjKMNNt3tnAPzMuAU7LQVKcFeNVARU6D+e0AoXp1nqddHRnPKPxWwgr2IRN9NShP0WEyYNeBE8qjrQWMaSvdbit03OuBFdkkm/OmblvWJ9NokYlkuaRt27eRTI+Fwngm/akPOZ697ORUnplPTuhSYmA/+P+RvXluBpW0rsW7NNBeicvXDnGRfq3v1JNP4Zq5pJqknqNeGcvn1yyVMG3AifGjfA1MP06UhczmhEdmH5duUaVlqnZIptkTLff08PMMFm5l7qGAXZXq1oXMPVhDiFvg/Vpal3brgRMhFNNtWnk66pNPoNXwHDwCcFbQVAMBivr6txK8zr+A7eADgtHxxW5GnhMyLrurv4AF43N+k4cfPH+lXj3F0wJMmvomf4efFF7wEAQDODdoKAGAxaCsAgMWgrQAAFoO2AgBYDNoKAGAxaCsAgMWgrQAAFoO2AgBYyufnH4Zx8V7nY6naAAAAAElFTkSuQmCC .",
+        "op": [
+            "0.20788",
+            "0.30788",
+            "0.40788",
+            "0.10788"
+        ],
+        "created_at": "2026-07-06T04:17:16.151999+00:00"
+    },
+    {
+        "id": 52890,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "data:image/png;base64,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 .",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAeCAIAAACpLAduAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVGhD7ZjPKzVRGMcVOz+SSFizspPU7Gz4D+QfIKXIRtndKEUWs7FAUdiSnzcs5EckK6VYjIUNFuiSkgXmfc5znjNzfsy9F/fg7X3ns/J9Zs453/O9Z86ckefH2CDO0Q5xjnaIc7RDnKMdfi7H6enppqamlpaW1tbWRCJB1W8glUqNjY2trq6SjmJnZ2d4ePj29pa0YHFxEewBjuP09vZSFfGSruPkIY7rUTHg53IcGhoCC09PT6STndxUZ5IKVtjd3a2pqenp6bm7u6NSFI+PjwMDA1VVVWtra1RSaWhogDRJAMwtj89znQjLv5cjgFFazPHk5KS0tHRlZYV0Nvb394uLiw8PD0lLqDlCdlGLUOJXc2T2rOX4/PxcXV3d399P+mOMjo6WlZXBVkBaoOTIfGax+e/kODMzk5+fb255mYH0CwsLXdclLVByhOcm82r863L0kp1iM89zYB9SzHtup7gWEjRvbGxUdjQCx9BQQ2lra6urq3t/fyeNmOuRb45Jl/+hE5Ujm4wYUbSS7KDzQIMn6Y0RNg1aCrLnyPuk8Kin4CpedFy66LIhpTgeHh6gAK9g0gE0BN2oDcgZHx+HtpeXl6QR7T0jpqX/tAFGjrJfnpCwK6aJgkvVICygMAQ2quI4a47GW0ceXb3V0Kenp3AvPNqkA6APcRf3qP26AJx1oO3e3h5pRMsxK3qO2mS0scOrcEG2ZHo0UsmWo5waIfWhD6A09f319XW4NZmUxtNgfUUdWHz/4OAA2s7NzZFGcszRmL1e4LMFVEvatAAj2a/mSCXqT17v0ngLCwtQ2NzcJK1h2pM4OjqCtpOTk6QRGzkaKLPDrUKdb5RRrMil3NYjwHvk6O+g4+NjqM7OzpKWwdB1wxLLy8vQdmNjgzRiez3qwGQcF3d5MzWzIrv//P6odIEDp83i5uYGGsPnIOkQDFEeQ3HJmJqagrbn5+ekkRxzNGavAmuR28A5S/eZ7YxUInLUekEJbVCzz1mpBzZA9PaGvL29wSG8vb2dNIG2gla4MM0+urq64Cvo5eWFNJLre0bMLXgRs+j4TNkDHboQk+YKDQcZ0P6l/h56jtSEEdzIjmdhVTk58S4V1BsSiURRURGcq0kLiyqqJ99/fX2trKzU/iUB5JwjTsY4C4eT5slJFrGA1+HYkyYERsR6/ATsR1Qz4EOGpaurq4KCgoijT0bgYxxcnZ2dkRZYyPEr4KTMR0YmlxwjuzeL8M4tKSm5uLggnQ2IvqKiYmRkhLTEv5kjX//hbgMD4vapP6W+Pzg4WFtbm/YAJAEH7/r6+r6+Pu2LkPNLOUbshzo8x46Oju7u7omJCap+GLZRB9sNYHx9B2xtbTU3N8/Pz5OOAs7t0NvS0pIW4vb2NtgDysvLfzxHXIycDFHe3997guvra6p+G5GrLCDd1VQqRRY9D556qn4AS+vxvyfO0Q5xjnaIc7RDnKMd4hxt4Pt/AEh28FzrNiGhAAAAAElFTkSuQmCC .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAfCAIAAACNsr/1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQxSURBVGhD7ZhPKD1RFMdfNjaItSQLO1YeZXZSSlbKRlZKr/wpShY2LCgLm2H7LKT0rKz0yMaOzcuCiKYUFkSa/ImE53fm3HPv3Dt3POa94Zffbz4r3zP33nPOd+7MfSP2HlEwkYkhEJkYApGJIRCZGAI/auL5+fkO5+joiKLfTzabvb+/J+HHy8vL09MTCQnbtqncnZ3d3V2KavyoiVNTU7FYbHx8fHJyMpVKUfSbWV1draurm5mZIe3H8fFxTU3N2NjY3d0dhRDLsqBUoL6+vrq6mqIaf8FE/02RTsAlIJGmQCjMzs7W1tbCPiL9MTc3N319ffF43Le8np6e32AigD6GaOLS0lJJScnh4SHpz3h7e2tvb29ra3t+fqYQ5/eYaJlGeCZClrKyMtM0SX+N6+vr4uLixcVF0pz/1MRkMllUVHR1dUX6y3R2djY1NZHg5GWilU5AQ4iRMC0Wc3pkYKdCGyYMZ3/CBXeqmMkJbKKzlqjDSKSV5SxT1Ogipjc3N7e0tJBwkZoQQP101WF5eRlie3t7pJHgJmIiw8SSmT08DStBFOpI0RmbZSQoQL4qngQzkSfjy2mpeY0g5CIZ8Cz39/eTEFAKuWSlQiCTycBiKysrpJHAJnre71QuL9C9Chfkuj3jAM9CAU3UZmOAEqhDNW3bNoyFnyakBbAGH6XXyzg7O4O5cKyTRoKa6F+8FGDNAPIgvS+fMoOYKFtGSIV4l/Yk39/fh6Fzc3OkdZy1PA0QDw8PMHdkZIQ0kpeJGko7+Gh5b+IHJsqhMEykELkovzqkRKenpxCYnp4m7UEvVeLi4gLmTkxMkEYK3oleoATDxLeQMkqvjBp1fQhvJwI4mvAeOvAZB0fz8PAwaRl03LsDJOBIgRUXFhZII0FN1FpXgV3I+vB2qc/Tbkdh70QlAYgcRgBVVVVdXV0kXNBBOYecAdnY2IDEm5ubpJHABwu3R5xhjm+sYOc5drPiOKGxR0dSl7SK3OgnJnpm8OVRW2lcXk7m/0rjDA0NlZeXq98e6l3CCvU1YP9WVFQ8Pj6SRoKbyEpGSwD+qJBJAEvMekQwgNfhFw4fpf9MzGmiu7zrI5Tx0XLsHimoAw4ODiC2vr5OWilY4N3N8OVXWVk5OjpKmpOPifmg3mZfPtmJAXAeCdUAdg+VEHx7xONx/UM4B/Pz8/AD8+TkhDTnHzTRN5UehESNjY2Dg4OwvyiUk+3t7dLS0q2tLdISP2UiPi3ex0OFmWjbNpyer6+vFM0DyuWeyOyVqWeHb+fW1taGhobc/w2DkgYGBuBBXltboxAC7kOpQHd39/ebiNuAkcPHVCrVwQFDKZoXzmknXtuA9mUtyGazsLnS6VzPyOXlZTKZvL29Jc3JZDJUbkdHb28vRTXC24n/MZGJIRCZGAKRiSEQmRgCkYkhEJlYMO/vfwB27QHWxkjwfAAAAABJRU5ErkJggg== .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAaCAIAAADpBu9aAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARhSURBVGhD7ZlPKDxhGMdXXFycFLeNchIn7WHk7Ei4ODipzV3JUSgXZWtT4uBGlBxWw4GkRCkHOZBNSFKUA/Ivi2ee93ln3n+zzO+389v0m8/J8+z7/PvOzDt/xD4jQiMSN0QicUOkCOJmMpleTjqdJm/xyOVya2tr29vbZJs4OjpaWFh4eXkhm7O5uUmT9PaOjY2Rl1MEcUdGRmKx2PHx8eXl5e3tLXmLxOnpaSKRaGlpOTg4IJeJi4uLjo6Ourq6vb09ciEPDw8wBdDU1NTc3ExeTtHEhbbI/iF2EqKApE2Ov+fm5gb0Gh0d/fj4IFdeFhcXKysr4SwmWwCU/c3iAqhvocQFQS3Lam9v/6GyjIGBgXg8fn9/Tzbn94ubTVmFE3djYwPagN2J7J/x+PhYXl4+OTlJNicSVwL20IaGBjKC0NXVVV9fr5zvwcXN2kmYBrGSqSzzOQMycEzXtlKwnP0JP3ihbiTHV1wnxk1uGUTUxRVDLAiRKmVTbvseLPz9/b2srKy/vx8XigjzucBo9KvDzMwM+E5OTshGAoqLVawU9stk4zVYfXdIx3THYlFWkhyktySIWVyqwMpBEnkgBib3cvE+eCWtK54PDLF/AO7v4JiYmCDbhUrQQqUgw7ZtiF1fXycbCSaucvOgXnl33q/wg6iDsg5QEpnFVRaBqY7kIM+qJUYH1VZlUeydnR1YOzc3R7aLUFkfhbG/vw+xs7OzZCOBxDV3LjjYJIC4SB/K0KMurt8YKlJyUUpC6FFNqfS1uroKS5eXl8nWcXKZtiZ8oYBY5awPLq6GNAteh6okyhAAekSXJq4qhC9Scj9xyUVJxd1J6AFeGcAxPT1NtoI+hcDW1hbEwjMv2Uhwcf3SO0B9K4VbmbRKb4um9ETQxP22FkdK7ieumwhXE+rN7u7uDrzQCdkieCTyHGuQFWJ3d3fJRgKJq0kiA2ctG0IdUY/TpDOKm2cYD0lcPbFUG4w8OeFBqqqqqru7m2wPbEasIVZAhoaGSktLlRf3QOJS7/y6gmYdPVm3zn7glcR1ro0DOiaNSFnEKf22BZ4B0vvIoiTjldHO2lhZ7MO8ZXIGBwcrKirkbzHYiRuFzes54Om4s7OTDE5AcVm/KBXArysSD2BV2YAIOphQSe8BU3vMNdzQUFC2XH9a5XiVPX2hQ79K7LBKyAvOzs5KSkqWlpbIlmZxUQ8z26zh7Y5sTmBx/wT52BsxiFt4nKMlC8MOu+SCC7y6uvr6+prs73h6empsbOzp6dE/R/xH4hq70J2gUV9fXyKRMH7oUri6umpra2ttbX17eyOXwD8RFy8t9VqSYeKOj4+n0+mVlRXyFhZqw9tg2JasNwbvwVNTU7W1tfPz8+QyAc8G8Xh8eHj4+fmZXMjh4SFMAdTU1IQsLp4bjDz6wlt5hqN8ey4geF9024GG/PZyh1wup39FFIEN4fX1lQyB8/NzmiST0f+XUegzN0IgEjdEInFDJBI3ND4/vwDxlN46CoYfVwAAAABJRU5ErkJggg== .",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAgCAIAAAC5GUAhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARcSURBVGhD7Zm/SytBEMdFOxEsbMRGbQSboDZCFFS0E4RUIjZiEW0sRP8HxerEXsXmFWm0MKUogiL+Kh5IJAgiGhVRCyEBf+XNzc7e7Y/LJZeXHEHvU2XmZndmv7vZ3UuqsgF+EWjtH4HW/hFo7R+B1v4RaO0flaj19vb2GieRSJC3/Nze3j4/P5PhxM3NzcvLCxkCR0dHVO7a2sHBAXk1KlHrnp6etra2P0gymSRvOXl8fBwbG2ttbT07OyOXE1tbW42NjfPz8+l0mlzI6ekpq7aurm5qaoq8GhWqNUCGQjxahUTj5Ph/Xl9fQ6HQ7OxsJpMhV25gXUcikZGRkY+PD3IJNDQ0/CCtAZS7VFq/v7/39fUNDw9/fX2RKx9vb2/t7e2Omv44rZNGuHRax2Kx6urqVCpFdmHs7OzAfF9cXJDNCbR2Y3BwcGBggIyC+fz8hI17ZmaGbE5RWifjRhhGRISjcecTKhmP8qhw1GAxKAUDBbHssAHh7CM8sJtaLTmetTb7supQi00aVo02rPnd3R18NgwDA0WEQVhA/fTUBDStr6///v4mGylCa1OSsMFKRn3kNATWQ2FMRR7GKrXkME1LANYqHCUHyS9J501rnox3p6W2h2KIRQJ7e3vggNsF2RaUQixZqhBYXFyEtk9PT2QjnrXG0atd6yhhNCo+DvspPBCnSokDtHyetNZao4MSqCop9sbGBsTC7ZhsC+iDR+n1MtbX16Gtckf0qrVaXw6cxyg42JgBuS+9e200XrQWlSWEQtSuleRLS0sQenl5SbaO2ZcyAGJzcxPaxuPSM69aq5rlAMM0pFHj91ldEjm0Fl2l0JpcJLa4XwmJ4DUPHIeHh2Qr6KUKrK6uQtvj42OykXJq7RYGlYYN3CGlKH0ApIctVym0tjJgNKGem+zq5rBfA7nPKQbbrx8eHshGitpDXJIQecJgTbPhqmLo7bRZ86K13lpKAIbLUK6vr6Hx8vIy2TYotJhDzIBMT0/X1tYqb0Cez0ZFHvNo1zKZUJh1WptxrJG5edhNMM6yUQrTJDHkZEgerZUWvHu0zbsqWvgIkzkXz+nu7h4aGiKDkCcTK1T6AImbmpomJyfJ5njXGvtHRQDtviog3sJ5HGkJsPqYFAg68Dlc+XiUfr121druXlwNwhVa7o5NpYQcANeJmpoa8eqmtxBSEfv7++A9OTkhm1OM1mVEXjSOuGntDXPJyDqxqbZd6XQ6FAqNjo4qbyUuZDKZzs7OSCRCtsDv1doxle6Et8fm5uaFhYVCfn6CuZmYmOjt7VV+VmVUmNb4FVW/kzIgdEdHx1/E/cf7PFAuew9k27me/erqqr+/v6ury+2unc3u7u62tLSMj48r/xikUilWLby1V4zWuKgYLnKvrKzMcVz+5igE8+ARfthxOX1gDzk/P7+/vyfbiUQiAbNChgC811C5c3OxWIy8Gr6v619MoLV/BFr7R6C1fwRa+0egtX8EWvtFNvsPuTHfHJP+zNUAAAAASUVORK5CYII= ."
+        ],
+        "created_at": "2026-07-06T05:38:43.95185+00:00"
+    },
+    {
+        "id": 72588,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\frac{d}{{dz}}(lo{g_\\alpha }z) = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_,{\\text{ for z = r }}{{\\text{e}}^{i\\theta }},{\\text{ }}\\alpha < \\theta < \\alpha + 2\\pi .",
+        "op": [
+            "1/(1+z)",
+            "iz",
+            "1/z",
+            "z"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72589,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(cot z) = _________}}{\\text{.}}",
+        "op": [
+            "\\tan z\\sec z",
+            "- \\sec z\\tan z",
+            "- {\\csc ^2}z",
+            "- {\\sec ^2}z"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72590,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Range of Log(z) is ___________.",
+        "op": [
+            "\\ln |z| + iarg(z)",
+            "\\ln |z|",
+            "\\ln |z| + arg(z)",
+            "\\ln (z) + arg(z)"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72591,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\sinh z{\\text{ = ___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}\\]",
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72592,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The complex exponential function w = ez is one-to-one if we only consider ___________ ",
+        "op": [
+            "the argument",
+            "the  principal argument"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72593,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(sec z) = __________}}{\\text{.}}\\]",
+        "op": [
+            "\\[ - \\sec z\\tan z\\]",
+            "\\[-\\cot z\\sec z\\]",
+            "\\[\\cot z\\sec z\\]",
+            "\\[\\tan z\\sec z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72594,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The function  ez  is an entire function. ",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72595,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(csc z) = ____________}}{\\text{.}}",
+        "op": [
+            "- \\cot z\\csc z",
+            "\\tan z\\sec z",
+            "\\cot z\\sec z",
+            "\\cot z\\operatorname{cscz}"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72604,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(sec z) = __________}}{\\text{.}}",
+        "op": [
+            "\\cot z\\sec z",
+            "-\\cot z\\sec z",
+            "- \\sec z\\tan z",
+            "\\tan z\\sec z"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72605,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, sech }}z{\\text{ = ___________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^z} + {e^{ - z}}}}{2}",
+            "\\frac{2}{{{e^z} + {e^{ - z}}}}",
+            "\\frac{{{e^z} - {e^{ - z}}}}{2}",
+            "\\frac{2}{{{e^z} - {e^{ - z}}}}"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72607,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, coth }}z{\\text{ = _____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}\\]",
+            "\\[\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}\\]",
+            "\\[\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}\\]",
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72608,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Complex exponential function is ___________.",
+        "op": [
+            "one to one function",
+            "not one to one function"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72669,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\sinh z{\\text{ = ___________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^z} - {e^{ - z}}}}{2}",
+            "\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}",
+            "\\frac{{{e^z} + {e^{ - z}}}}{2}",
+            "\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72670,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {{Z^n}} {\\text{ is equal to __________}{\\text{.}}",
+        "op": [
+            "1/(1-Z)",
+            "1/(1+Z)",
+            "1/Z",
+            "Z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72671,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sech }}z{\\text{ = ___________}}{\\text{.}}",
+        "op": [
+            "\\sinh z",
+            "- \\csc {h^2}z",
+            "\\sec {h^2}z",
+            "- \\sec hz\\tanh z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72672,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{coth }}z{\\text{ = ____________}}{\\text{.}}",
+        "op": [
+            "- \\csc hz\\coth z",
+            "- \\csc {h^2}z",
+            "\\sinh z",
+            "\\sec {h^2}z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72673,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, coth }}z{\\text{ = _____________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}",
+            "\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}",
+            "\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}",
+            "\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72695,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(tan z) = ________}}{\\text{.}}",
+        "op": [
+            "\\tan z\\sec z",
+            "- {\\csc ^2}z",
+            "- \\sec z\\tan z",
+            "{\\sec ^2}z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72696,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{csch }}z{\\text{ = ___________}}{\\text{.}}",
+        "op": [
+            "- \\csc {h^2}z",
+            "\\sec {h^2}z",
+            "- \\csc hz\\coth z",
+            "- \\sec hz\\tanh z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72697,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{tanh }}z{\\text{ = ____________}}{\\text{.}}",
+        "op": [
+            "\\sec {h^2}z",
+            "\\sinh z",
+            "sechz\\tanh z",
+            "\\sin z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72713,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, tanh }}z{\\text{ = ____________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}",
+            "\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}",
+            "\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}",
+            "\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72715,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sinh }}z{\\text{ = ___________}}{\\text{.}}",
+        "op": [
+            "{\\csc ^2}z",
+            "\\tanh z",
+            "\\sec {h^2}z",
+            "\\cosh z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72716,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, csch }}z{\\text{ = __________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^z} - {e^{ - z}}}}{2}",
+            "\\frac{{{e^z} + {e^{ - z}}}}{2}",
+            "\\frac{2}{{{e^z} + {e^{ - z}}}}",
+            "\\frac{2}{{{e^z} - {e^{ - z}}}}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72718,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\\\\\ {\\text{sin z = ____________}}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered}",
+        "op": [
+            "\\cos x\\sinh y + i\\sin x\\cosh y",
+            "\\sin x\\cos y + i\\cos x\\sin y",
+            "\\sin x\\cosh y + i\\cos x\\sinh y",
+            "\\cos x\\sin y + i\\sin x\\cos y"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72727,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{cosh }}z{\\text{ = ____________}}{\\text{.}}",
+        "op": [
+            "\\sin z",
+            "\\sec {h^2}z",
+            "\\tanh z",
+            "\\sinh z"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72734,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {(n + 1){Z^n}} {\\text{ is equal to _________}}{\\text{.}}",
+        "op": [
+            "\\frac{1}{{{Z^2}}}",
+            "\\frac{1}{{{{(1 - Z)}^2}}}",
+            "\\frac{1}{{{{(1 + Z)}^2}}}",
+            "\\frac{1}{Z}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72735,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "Range of principle argument of Log(z) is __________.",
+        "op": [
+            "( - \\pi ,\\pi ]",
+            "( - \\pi ,\\pi )",
+            "[ - \\pi ,\\pi ]",
+            "[ - \\pi ,\\pi )"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72736,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\ {\\text{cos z = ___________}}{\\text{.}} \\hfill \\\\\\ \\end{gathered}",
+        "op": [
+            "\\cos x\\cosh y + i\\sin x\\sinh y",
+            "\\cos x\\cosh y - i\\sin x\\sinh y",
+            "\\sin x\\sinh y + i\\cos x\\cosh y",
+            "\\sin x\\cosh y + i\\cos x\\sinh y"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72738,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{tanh }}z{\\text{ = ____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\sin z\\]",
+            "\\[\\sec {h^2}z\\]",
+            "\\[sechz\\tanh z\\]",
+            "\\[\\sinh z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72743,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvAAAAAvCAYAAACFUf6pAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfnBQoSKTb0lpPiAAAAB3RFWHRBdXRob3IAqa7MSAAAAAx0RVh0RGVzY3JpcHRpb24AEwkhIwAAAAp0RVh0Q29weXJpZ2h0AKwPzDoAAAAOdEVYdENyZWF0aW9uIHRpbWUANfcPCQAAAAl0RVh0U29mdHdhcmUAXXD/OgAAAAt0RVh0RGlzY2xhaW1lcgC3wLSPAAAACHRFWHRXYXJuaW5nAMAb5ocAAAAHdEVYdFNvdXJjZQD1/4PrAAAACHRFWHRDb21tZW50APbMlr8AAAAGdEVYdFRpdGxlAKju0icAAA2gSURBVHhe7Z09cuM4E4Zb3wk2kYJJHE/JgVMfwC5nU3uFKesCcuIjOLEuINd3h8lc0gGUOrBK6TpxICV7Ay1+KQAESYAC/+z32eKOCZFgd6MBNEkAHB0ZBAAAAAAAABgE/1P/AgAAAAAAAAYAAnhQj+0LjR7WdFC7X43D+oFGoxE9rL+qhgAAAAAYKhhCA4CXA60fnogen+lmrJIAAAAAAHoAnsCDaPTT6ZetShgEW3phMo9GL+wv/bfUYfsi/x5ZCu3pY/GTfrDgXetr/w4AAAAA0A0I4EE045tHWs3ndDFRCQPgsP6k6+M7LWlGl6MN+/tI70ui2eWINtdHOvIdk8Mn7ZbXNFW789Wejvd6DwAAAACgOxDAg3gOb/Sqnk4PhfHNDU15UM5C+PfjPQvMD/S5I1q+H4nH5Qe2MzfuSA5vr7SYXYon70/0SM8YRwMAAACAnoAAHsSz/6CF8XR6MFhy8yEyS7oWOwd6e13QT+OOZP+xEMG9+2AeAAAAAKBrEMCDaLabmfW0eihYcm83NJtfkNzTwfyB1ms+zp0/nZdDhKbXS1q8vrEU9h8WpAEAAABAD0AADyKRQ0/Mp9XDwJabD5lhOyT3JnQx52Pjn4iu+HgaY4jQ9JqWi1uasN/+7BHBAwAAAKB7sIwkiIOv/35Jahw5AAAAAABoGzyBB4HwddFHLHif0fIdwTsAAAAAQFfgCTwAAAAAAAADAk/gQRDiQ0YF2xDwyV1n6z/qTQmTVXx36rCmByW7dx8kADYHAADQLhEB/KmTKtw67p3kFzP5lza/FtmXQNnWlYn5i5qibQj45K6z9Z3tyxPRo1z+crd5oQexqz5a9f8He3/TkTPxeRQd+3NKktpcBfsP68QTpr+YzYdE9qVnvj2sWU/aQ5ryu6aI9edY/c6tL321J9qBRuiqjkcE8GO6ed7Tas7/5h/DMQMb/oXLrpFreVO2NODXYXzzTHtheL1uOQB+pvfPdDOWK+4sdhf0+HzDaq7cJ7qz9jtbCnR6n//y7YCBzUERvGO/3K1oz/tJ2D8dTfvzV60vaAeS02UdTzSEZkq/ZGTfIfwGgxlQdJZfD/5hoa94cwKagK9rz273fuu64Nuf091VhzVlckFdtxhpSWTz8Q09s47gvC//bunF94Tty9m872xpM2PN9t2V9AEePHXaPxX4BSeJ37VMjD/X0e+c+tILe6IdaJ5u63iyMfD8KfGRf5MeNIB6eqedpCP0UJ7BvGYN4CvqJD5SZb6tOXzSztwXv6t17kEa+mRzcS3QOcIHegT84nuB8m6ejut4g5NY5d1fNi6IbdadoDGxSwRP7n4EpzHiD9S/IWdafz0237BLNlbKl2YgPixkfDzJsFWaMf8l8xsMecY3j7Sad/zk1kuY/D76q5OPMD3FR6qMtzWHt1damPvZ78zvag2EdOUwfNAz9tOcw+GdJ2OMyyz2Z6c9Mcs1uC0pyaOQFm1eKLdPBn9bJ9qbS9ltzy5Px+cuea7NQTncvpNbYs02LW4n0n68ELxjkA07mwVV4tfBZcY3Vm7rMr8o9DtOPj/Ll2rJyGmxDYnUz+vnQfVFUXi98HqsOektr2naQeftS0vbDhi4/mudX6RLmQ+l8gPnGmYZuuVR6g8mFb7PdffVcR/GNXNb0TkhHKPYH1dzOhItj+8q5cj+WtL8uNqrXc5+dZyzrGlpHLXk59HRSMqOmy+Xx/l8xXKX+c+tzMKQ+ZtydY3URej7vmSyMRu9c32ljPvVXNpjdUqTxzk24ujzM7OochA2S4AqB/O6Uj7XnrysbfnNMu6MYPl99FQnH4F6irpgHOTuaz87t75465zO2/HNnAy6jTDtrc81j+PoY7N0XmZs37yGOqawLQnJw0fbNtd6ZJU9X9fl9Z0210Rdy7y8QNuAb/rHc2wOysmVpcJbPsq+ReVg2j5XNpp8HsIP9XlFfsHxyeq5jqzzTh5RMtrI/NprQ+yyqLBXTP4uuevVqMcKcRw7b8Vkk/md8npnv+lr5GxZVN7n6MXxna9t6ZalPtbI1+dDSfzAlcU8T5dHaKwZKHeWb1UhCl1M/fL+UIeaAby72U7oLQyfUb1p9RDXrJmPLpigrc41fI5YkmY5CMPVTVRo96Bz4Nc18itsWLizquP4MZVOW0Bye4fK7yORTkUk1fUcPZtA+Ktb9+fHJdvsdN5uOHJ6Gz5/oyZtaLcned3L25KwPDy0bnOpx8kuSi9DBplWIoMol+KOO53NQSlFnbu3fFQ55ArNV/7hZWZR5BcC1++K8lPyWNcOlzFHS22IlrFaP4Oo/F3c6/lsxNOq65OU0y43nVaqT4J2wEuEXwf70Bl+4LtGbP/gEix3kS0cuDylZVWTmkNozFVo3BVo5KD+/ITLKV3zAxcftJcJGeeP7XYmEkQyvde6BGw1JiiI1+c0p9Xj6dziNHelGbWaxc8f7Dj5uumJHtPON+ATL3R+2xea3C5YO8NX1pBJGjEsYHYpXvtwGepO0Elu70D5faTSqYikup6hZyNMr5m3Luj1Tb+GZPVwd0e/ft0xz17Qh67ofAgY3ZFvlFI2LKwQf3sy/vGT/d+4hsLfBsTlYdG5zdUCAcJH9SvqKd0f68uQ2uageezVi8YkisJC9RO5frcufh/gvlfYj1fK6KGVNsRHuL3q5e9Stx6rcli+06nL17Kv6DE7WaUtr1muYaTRy0BNjt19GmUZ6kO1/cB/jbj+wSVC7kD4HFEdW4hVa2Y8hj7/i/YJxsDHdiY7yso3FWoiQXKHTIJe3tJufOSqMr4012nkahay4k/otsnVQ/g4rcsZayuORmNxgsvHf2N3j/2kQn4fvdfJRw09m2FCF6zFXry+MS9nbDe04w3k+IrueF+l1jzf/rkl5rQBDWcJi1uamOMG1fjOU2cRwDl5dGhzsUDAfiU6stsJl7183GwyUtgctITqJ8SDnjZI1Y+32IZYtG2vmvVYxTZL86memhNnB6NSn86WqTVYBN/hmz50ph+02lbV930+hv9yNqfV/vzgndPgJNYiGliJYf/BqsSc6vruaaJpwBY9kUtVLMvp1B2e1XjItNwdoppJzgMHXflPd6kp2dLLhFWO1b4gQOF3+NLGU3YbKisa+6+GKM3Yu0p+H+l0KiK9rnX0bIoxXfHWdfFK3CW3m526uVTpsw2Tlvv1kn7XfVysWb5731pEvTGpnUcPbK6WpZNvPHkA0EIQn8LmoF12n4Ht5bmk6sdbbEN8tGYvRWw99sU2Ks16kCfihH4sxhB+E2H60Jl+0GpbVc/3efAuu5F0b3AbCOD1awZZECfCX1nFspXRcO0GpdEhNCoAt94OeO+q/W8RrGE16m40u0tNBp9tfUkzVgkyh+czrM3Z0eKuX9mYv+4Sd7xP9GcfL0l6ewfI7yOhTkWk1bWmng0yvpKvOF/f1uKVp+4/5CvMHX2umf9HvNbNI5/MyAa8Lufk0bHNxeoF5uoQU7qvel109jrPKWwOCskNNeCoJ8K1UWVW9no/yi/a68ebb0N8BNgrJXXqMcMX28iYoDqt9fXexY2FGcPE+VA9P2iirW",
+        "op": [
+            "single valued",
+            "multivalued"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72744,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "data:image/png;base64,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",
+        "op": [
+            "finite values",
+            "infinite values"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72746,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{csch }}z{\\text{ = ___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[ - \\sec hz\\tanh z\\]",
+            "\\[\\sec {h^2}z\\]",
+            "\\[ - \\csc hz\\coth z\\]",
+            "\\[ - \\csc {h^2}z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72747,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sech }}z{\\text{ = ___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[ - \\sec hz\\tanh z\\]",
+            "\\[\\sec {h^2}z\\]",
+            "\\[ - \\csc {h^2}z\\]",
+            "\\[\\sinh z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72748,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(csc z) = ____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\tan z\\sec z\\]",
+            "\\[\\cot z\\sec z\\]",
+            "\\[ - \\cot z\\csc z\\]",
+            "\\[\\cot z\\operatorname{cscz} \\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72749,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, sech }}z{\\text{ = ___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{2}{{{e^z} - {e^{ - z}}}}\\]",
+            "\\[\\frac{2}{{{e^z} + {e^{ - z}}}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72752,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, csch }}z{\\text{ = __________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{2}{{{e^z} + {e^{ - z}}}}\\]",
+            "\\[\\frac{2}{{{e^z} - {e^{ - z}}}}\\]",
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{2}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72753,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{sinh }}z{\\text{ = ___________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\cosh z\\]",
+            "\\[\\tanh z\\]",
+            "\\[{\\csc ^2}z\\]",
+            "\\[\\sec {h^2}z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72755,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{For any complex number z, cosh }}z{\\text{ = _____________}}{\\text{.}}",
+        "op": [
+            "\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}",
+            "\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}",
+            "\\frac{{{e^z} - {e^{ - z}}}}{2}",
+            "\\frac{{{e^z} + {e^{ - z}}}}{2}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72773,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\\\\\ {\\text{sin z = ____________}}{\\text{.}} \\hfill \\\\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\sin x\\cos y + i\\cos x\\sin y\\]",
+            "\\[\\cos x\\sin y + i\\sin x\\cos y\\]",
+            "\\[\\cos x\\sinh y + i\\sin x\\cosh y\\]",
+            "\\[\\sin x\\cosh y + i\\cos x\\sinh y\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72781,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{coth }}z{\\text{ = ____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[ - \\csc {h^2}z\\]",
+            "\\[\\sec {h^2}z\\]",
+            "\\[ - \\csc hz\\coth z\\]",
+            "\\[\\sinh z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72782,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {{Z^n}} {\\text{ is equal to __________}{\\text{.}}\\]",
+        "op": [
+            "1/Z",
+            "Z",
+            "1/(1+Z)",
+            "1/(1-Z)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72783,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For the power series }}\\sum\\limits_{n = 0}^\\infty {(n + 1){Z^n}} {\\text{ is equal to _________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{1}{{{{(1 - Z)}^2}}}\\]",
+            "\\[\\frac{1}{{{Z^2}}}\\]",
+            "\\[\\frac{1}{{{{(1 + Z)}^2}}}\\]",
+            "\\[\\frac{1}{Z}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72788,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{For any complex number z, cosh }}z{\\text{ = _____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{2}\\]",
+            "\\[\\frac{{{e^{iz}} + {e^{ - iz}}}}{2}\\]",
+            "\\[\\frac{{{e^{iz}} - {e^{ - iz}}}}{{2i}}\\]",
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{2}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72857,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{cosh }}z{\\text{ = ____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\sec {h^2}z\\]",
+            "\\[\\sin z\\]",
+            "\\[\\tanh z\\]",
+            "\\[\\sinh z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73015,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[\\frac{d}{{dz}}(lo{g_\\alpha }z) = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_,{\\text{ for z = r }}{{\\text{e}}^{i\\theta }},{\\text{ }}\\alpha < \\theta < \\alpha + 2\\pi .\\]",
+        "op": [
+            "z",
+            "1/z",
+            "1/(1+z)",
+            "iz"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73185,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{For any complex number z, tanh }}z{\\text{ = ____________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\frac{{{e^z} + {e^{ - z}}}}{{{e^z} - {e^{ - z}}}}\\]",
+            "\\[\\frac{{{e^{iz}} + {e^{ - iz}}}}{{{e^{iz}} - {e^{ - iz}}}}\\]",
+            "\\[\\frac{{{e^{iz}} - {e^{ - iz}}}}{{{e^{iz}} + {e^{ - iz}}}}\\]",
+            "\\[\\frac{{{e^z} - {e^{ - z}}}}{{{e^z} + {e^{ - z}}}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73199,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[\\begin{gathered} {\\text{For z = x + i y, we have}} \\hfill \\ {\\text{cos z = ___________}}{\\text{.}} \\hfill \\\\\\ \\end{gathered} \\]",
+        "op": [
+            "\\[\\sin x\\sinh y + i\\cos x\\cosh y\\]",
+            "\\[\\cos x\\cosh y - i\\sin x\\sinh y\\]",
+            "\\[\\sin x\\cosh y + i\\cos x\\sinh y\\]",
+            "\\[\\cos x\\cosh y + i\\sin x\\sinh y\\]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73200,
+        "cc": "MTH632",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "\\[{\\text{For any complex number z, }}\\frac{d}{{dz}}{\\text{(tan z) = ________}}{\\text{.}}\\]",
+        "op": [
+            "\\[\\tan z\\sec z\\]",
+            "\\[ - {\\csc ^2}z\\]",
+            "\\[ - \\sec z\\tan z\\]",
+            "\\[{\\sec ^2}z\\]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    }
+]

@@ -1,0 +1,2454 @@
+[
+    {
+        "id": 36960,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $T$ is a bounded linear operator on a normed space $X$, then for the Null space $N(T)$;",
+        "op": [
+            "$N(T)\\subseteq \\overline{N(T)}$",
+            "$N(T)\\nsubseteq \\overline{N(T)}$"
+        ],
+        "created_at": "2026-07-01T20:29:56.556422+00:00"
+    },
+    {
+        "id": 36961,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "A canonical mapp is said to be ......... if it is surjective.",
+        "op": [
+            "transitive",
+            "isometry",
+            "algebraically reflexive",
+            "symmetric"
+        ],
+        "created_at": "2026-07-01T20:30:07.53939+00:00"
+    },
+    {
+        "id": 36962,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If a sequence $x_{n}\\rightarrow x$ in a normed space $X$, then for a bounded linear operator $T$ on $X,$ then",
+        "op": [
+            "$Tx_{n}\\nrightarrow Tx$",
+            "$Tx_{n}\\rightarrow Tx$"
+        ],
+        "created_at": "2026-07-01T20:31:00.277052+00:00"
+    },
+    {
+        "id": 36964,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Which of the following an example of Linear Functional?",
+        "op": [
+            "the integral operator $I:c\\left[ 0,1\\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ on the space of all contnuous functions on $\\left[ 0,1\\right]$ defined by $I\\left( f\\right) =\\int_{0}^{1}f\\left( t\\right) dt$",
+            "the derivative operator on space of all real polynomials"
+        ],
+        "created_at": "2026-07-01T20:32:00.618791+00:00"
+    },
+    {
+        "id": 36965,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $T:X \\to Y$ be a linear operator, then restriction of $T$ is expressed as",
+        "op": [
+            "${T_{\\left| B \\right.}}:B \\to B\\,\\,\\,\\,,\\,B \\subseteq X$",
+            "${T_{\\left| B \\right.}}:X \\to B\\,\\,\\,,\\,\\,B \\subseteq Y$",
+            "${T_{\\left| B \\right.}}:B \\to Y\\,\\,\\,,\\,\\,B \\subseteq X$",
+            "${T_{\\left| B \\right.}}:Y \\to B\\,\\,,\\,\\,B \\subseteq Y$"
+        ],
+        "created_at": "2026-07-01T20:32:14.457783+00:00"
+    },
+    {
+        "id": 36966,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For a fixed $k=\\left( k_{1},k_{2}\\right) ,$ defining the linear functional $% f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ as $f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2},$ then $\\left\\Vert f\\right\\Vert =$",
+        "op": [
+            "$\\min \\left( x_{1}k_{1},x_{2}k_{2}\\right)$",
+            "$\\left\\Vert x\\right\\Vert$",
+            "$\\max \\left( x_{1}k_{1},x_{2}k_{2}\\right)$",
+            "$\\left\\Vert k\\right\\Vert$"
+        ],
+        "created_at": "2026-07-01T20:32:25.231288+00:00"
+    },
+    {
+        "id": 36967,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Linear Functional f is a linear operator from a normed space X to ________.",
+        "op": [
+            "a Banach space Y i.e. f:X→Y",
+            "range of f i.e f:X→R(f)⊆Y",
+            "any normed space Y i.e. f:X→Y",
+            "scalar field F of given vector space X(F) i.e. f:X→F"
+        ],
+        "created_at": "2026-07-01T20:32:34.121111+00:00"
+    },
+    {
+        "id": 36968,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For n dimensional vector space and its dual space we have",
+        "op": [
+            "$$\\dim (X) \\subset \\,\\dim (X^ * )$$",
+            "$$R(X) = X^ * \\, = n\\,$$",
+            "$$D(X) = X^ * = n$$",
+            "$$\\dim (X) = \\dim (X^ * ) = n\\,$$"
+        ],
+        "created_at": "2026-07-01T20:32:41.330099+00:00"
+    },
+    {
+        "id": 37289,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For a fixed $k=\\left( k_{i}\\right) _{i=1}^{\\infty }\\in l^{2},$ defining the linear functional $f:l^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ as $f\\left( x\\right) =\\sum_{i=1}^{\\infty }x_{i}k_{i},~\\forall \\left( x_{i}\\right) _{i=1}^{\\infty }\\in l^{2},$ then $\\left\\vert f\\left( x\\right) \\right\\vert \\leq$",
+        "op": [
+            "$\\left\\Vert f\\right\\Vert \\left\\Vert k\\right\\Vert$",
+            "$\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert$",
+            "$\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert ~$",
+            "$\\left\\vert f\\right\\vert \\left\\vert x\\right\\vert$"
+        ],
+        "created_at": "2026-07-02T02:57:19.793982+00:00"
+    },
+    {
+        "id": 37290,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let X and Y be normed spaces. A linear operator T:X→Y is said to be bounded if ------------ such that ‖Tx‖≤k‖x‖.",
+        "op": [
+            "∄ k>0,∀ x∈X",
+            "∃ k>0, ∀ x∈X",
+            "∀ k>0,∃ x∈ X",
+            "∀ k>0, ∄ x∈X"
+        ],
+        "created_at": "2026-07-02T02:57:27.519369+00:00"
+    },
+    {
+        "id": 37293,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $T:D\\left( T\\right) \\rightarrow Y$ be a linear operator from normed space $X$ to normed space $Y$, then",
+        "op": [
+            "$\\forall x\\in \\overline{D\\left( T\\right) }~\\nexists ~$a sequence $\\left\\{ x_{n}\\right\\}$ in $D(T)$ such that $x_{n}\\rightarrow x$",
+            "$\\exists x\\in \\overline{D\\left( T\\right) }~\\forall$ sequences $\\left\\{ x_{n}\\right\\}$ in $D(T)$ such that $x_{n}\\rightarrow x$",
+            "$\\nexists x\\in \\overline{D\\left( T\\right) }~\\forall$ sequences $\\left\\{ x_{n}\\right\\}$ in $D(T)$ such that $x_{n}\\rightarrow x$",
+            "$\\forall x\\in \\overline{D\\left( T\\right) }~\\exists ~$a sequence $\\left\\{ x_{n}\\right\\}$ in $D(T)$ such that $x_{n}\\rightarrow x$"
+        ],
+        "created_at": "2026-07-02T02:58:16.754543+00:00"
+    },
+    {
+        "id": 37294,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $T_{1}$ and $T_{2}$ are equal operators defined on a normed space $X$, then for any $x\\in X,T_{1}x=T_{2}x\\Longrightarrow$",
+        "op": [
+            "$x\\neq 0$ necessarily",
+            "$x=0.$"
+        ],
+        "created_at": "2026-07-02T02:58:25.456229+00:00"
+    },
+    {
+        "id": 37296,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $X$ be a normed space, $f :$$X \\rightarrow \\mathbb{R}$ and $g :X \\rightarrow \\mathbb{R}$ be the linear functionals, then $f +g :X \\rightarrow \\mathbb{R}$ defined by $\\left (f +g\\right )(x) =f(x) +g(x) \\forall x \\in X ,\\text{ is_______}$ a linear functional.",
+        "op": [
+            "never",
+            "essentially",
+            "bounded",
+            "not necessarily"
+        ],
+        "created_at": "2026-07-02T02:58:38.384649+00:00"
+    },
+    {
+        "id": 37297,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is an example of Linear Functional?",
+        "op": [
+            "the determinant function $D:V\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ from the space of n-square matrices to $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$",
+            "the projection function $\\pi _{i}:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{n}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ defined by $\\pi _{i}\\left( x_{1},x_{2},\\ldots ,x_{i},\\ldots x_{n}\\right) =x_{i}$"
+        ],
+        "created_at": "2026-07-02T02:58:52.598487+00:00"
+    },
+    {
+        "id": 37341,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $\\left\\{ x_{n}\\right\\}$ is a sequence in a null space $N\\left( T\\right) ~$of a bounded linear operator $T$ on a normed space $X,$ then",
+        "op": [
+            "$Tx_{n}=~$unit vector",
+            "$Tx_{n}$ is either unit vector or zero vector",
+            "$Tx_{n}$ is neither unit vector nor zero vector",
+            "$Tx_{n}=$ zero vector"
+        ],
+        "created_at": "2026-07-02T03:25:43.308593+00:00"
+    },
+    {
+        "id": 37342,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For a fixed $k=\\left( k_{1},k_{2}\\right) ,$ defining the linear functional $% f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ as $f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2},$ then $\\left\\vert f\\left( x\\right) \\right\\vert =\\left\\vert x.k\\right\\vert \\leq$",
+        "op": [
+            "$\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion }{\\max }\\left\\Vert x\\right\\Vert$",
+            "$\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert$",
+            "$\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert$",
+            "$\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}}{\\max }\\left\\vert f\\left( x\\right) \\right\\vert$"
+        ],
+        "created_at": "2026-07-02T03:26:23.328914+00:00"
+    },
+    {
+        "id": 37343,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For algebraically reflexive mapping",
+        "op": [
+            "$$R(C) = X^{ * * } \\,\\,$$",
+            "$$X = X^{ * * }$$",
+            "$$D(C) = X^{ * * }$$",
+            "$$X \\subset X^{ * * }$$"
+        ],
+        "created_at": "2026-07-02T03:26:31.518666+00:00"
+    },
+    {
+        "id": 37344,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $A:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}$ is defined as $Ax=y~$and given by; $\\left( \\begin{array}{cc} \\alpha _{11} & \\alpha _{12} \\\\ \\alpha _{21} & \\alpha _{22}% \\end{array}% \\right) \\left( \\begin{array}{c} \\xi _{1} \\\\ \\xi _{2}% \\end{array}% \\right) =\\left( \\begin{array}{c} \\eta _{1} \\\\ \\eta _{2}% \\end{array}% \\right) \\Longrightarrow \\eta _{j}=\\sum_{i=1}^{2}\\alpha _{ji}\\xi _{i}$, then $% A$ is",
+        "op": [
+            "non-linear operator",
+            "linear operator"
+        ],
+        "created_at": "2026-07-02T03:26:50.116075+00:00"
+    },
+    {
+        "id": 37345,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If T is a bounded linear operator from a normed space X to normed space Y, then T is _________.",
+        "op": [
+            "continuous as well irrespective of dimension of X and Y",
+            "continuous as well provided that X and Y are finite dimensional",
+            "unbounded as well provided that X and Y are infinite dimensional",
+            "unbounded as well irrespective of dimension of X and Y"
+        ],
+        "created_at": "2026-07-02T03:27:04.395895+00:00"
+    },
+    {
+        "id": 37346,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If the integral operator $I:c\\left[ 0,1\\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ on the space of all contnuous functions on $\\left[ 0,1\\right]$ defined by $f(x)=\\int_{0}^{1}x\\left( t\\right) dt$, is a linear functional, then $% \\left\\vert f\\left( x\\right) \\right\\vert \\leq$",
+        "op": [
+            "$1$",
+            "$\\underset{0\\leq t\\leq 1}{\\max }\\left\\vert x\\left( t\\right) \\right\\vert$",
+            "$\\left\\Vert x\\right\\Vert$",
+            "$\\left\\vert x\\right\\vert$"
+        ],
+        "created_at": "2026-07-02T03:27:18.188694+00:00"
+    },
+    {
+        "id": 37347,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Two operators ${T_1}\\,\\,and\\,\\,{T_2}$ are equal if",
+        "op": [
+            "$D({T_1}) = D({T_2})$ and $\\forall \\,\\,x \\in D({T_1}) = D({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)$",
+            "$D({T_1}) = D({T_2})$",
+            "$\\forall \\,\\,x \\in D({T_1}) = D({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)$",
+            "$D({T_1}) = D({T_2})$ and $\\forall \\,\\,x \\in R({T_1}) = R({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)$"
+        ],
+        "created_at": "2026-07-02T03:27:54.417941+00:00"
+    },
+    {
+        "id": 37378,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For a fixed $t\\in \\left[ 0,1\\right] ,$ defining the linear functional on the class of all continous functions on $\\left[ 0,1\\right] ,$ $f:c\\left[ 0,1% \\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ as $f\\left( x\\right) =x\\left( t\\right) ,~\\forall x\\in c\\left[ 0,1\\right] ,$ then $\\left\\Vert f\\right\\Vert =$",
+        "op": [
+            "$\\underset{t\\in \\left[ 0,1\\right] }{\\max }x\\left( t\\right)$",
+            "$\\underset{t\\in \\left[ 0,1\\right] }{\\min }x\\left( t\\right)$",
+            "$1$",
+            "$0$"
+        ],
+        "created_at": "2026-07-02T03:46:09.693986+00:00"
+    },
+    {
+        "id": 37382,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "A linear functional f with domain D in a normed space is continuous if and only if  f is",
+        "op": [
+            "Integrable.",
+            "Bounded.",
+            "Differentiable.",
+            "Real valued."
+        ],
+        "created_at": "2026-07-02T03:46:44.112213+00:00"
+    },
+    {
+        "id": 37640,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If T is a continuous linear operator from a normed space X to normed space Y, then T is _________.",
+        "op": [
+            "unbounded as well irrespective of dimension of X and Y",
+            "unbounded as well provided that X and Y are infinite dimensional",
+            "bounded as well provided that X and Y are finite dimensional",
+            "bounded as well irrespective of dimension of X and Y"
+        ],
+        "created_at": "2026-07-02T05:49:23.037683+00:00"
+    },
+    {
+        "id": 37645,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $X$ be a normed space, $f :$$X \\rightarrow \\mathbb{R}$ be the linear functional and for any $\\alpha \\in \\mathbb{R}$ , then $\\alpha f :X \\rightarrow \\mathbb{R}$ defined by $\\left (\\alpha f\\right )(x) =\\alpha f(x) \\forall x\\text{} \\in X\\text{, is _______}$ a linear functional.",
+        "op": [
+            "not necessarily",
+            "essentially",
+            "never",
+            "bounded"
+        ],
+        "created_at": "2026-07-02T05:52:54.805654+00:00"
+    },
+    {
+        "id": 37652,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "............ is a mapping from a space 'X' to its Second Dual.",
+        "op": [
+            "Isomorphism",
+            "Surjection",
+            "Canonical",
+            "Bijection"
+        ],
+        "created_at": "2026-07-02T05:54:29.207208+00:00"
+    },
+    {
+        "id": 37659,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "For a bounded linear operator $T$ , the null space ${\\rm N}(T)$ is",
+        "op": [
+            "closed.",
+            "unbounded.",
+            "bounded.",
+            "open."
+        ],
+        "created_at": "2026-07-02T05:58:45.30744+00:00"
+    },
+    {
+        "id": 37661,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Functionals defined on C[a,b] are",
+        "op": [
+            "Integrable.",
+            "Canonical mappings.",
+            "Linear and bounded.",
+            "Unbounded."
+        ],
+        "created_at": "2026-07-02T05:59:05.233656+00:00"
+    },
+    {
+        "id": 37667,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Canonical mapping is defined as",
+        "op": [
+            "$$C:X \\to X^{**}$$",
+            "$$C:X \\to R$$",
+            "$$C:X \\to X$$",
+            "$$C:X \\to R(Y)$$"
+        ],
+        "created_at": "2026-07-02T06:00:15.931805+00:00"
+    },
+    {
+        "id": 37806,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Matrix operator is",
+        "op": [
+            "Linear and bounded.",
+            "Non linear.",
+            "Linear.",
+            "Nonlinear and unbounded."
+        ],
+        "created_at": "2026-07-02T06:55:40.489265+00:00"
+    },
+    {
+        "id": 37812,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If a normed space $X$ is finite dimensional , then every linear operator on $X$ is",
+        "op": [
+            "Differentiable.",
+            "Integrable.",
+            "Continuous.",
+            "Bounded."
+        ],
+        "created_at": "2026-07-02T07:04:04.473053+00:00"
+    },
+    {
+        "id": 37814,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ be defined by $T\\left( x\\right) =x^{2}$, then the restriction $T_{|A}$ is one-one on $A=$",
+        "op": [
+            "$\\left( -1,\\infty \\right)$",
+            "$\\left( -\\infty ,1\\right)$",
+            "$\\left( -\\infty ,0\\right)$",
+            "$\\left( -\\infty ,\\infty \\right)$"
+        ],
+        "created_at": "2026-07-02T07:04:15.131624+00:00"
+    },
+    {
+        "id": 37931,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $T$ is a linear opertor on a finite dimensional normed space $X$ having basis $\\left\\{ e_{1},e_{2},\\ldots ,e_{n}\\right\\} ,$then for any $x\\in X$ $\\exists ~\\left\\{ \\alpha _{i}\\right\\} _{i=1}^{n},$ $x=\\sum_{i=1}^{n}% \\alpha _{i}e_{i},$ then $\\left\\Vert T\\left( \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right) \\right\\Vert$",
+        "op": [
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert \\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert$",
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert e_{i}\\right\\Vert$",
+            "$\\leq T\\left\\Vert \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right\\Vert$",
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert$"
+        ],
+        "created_at": "2026-07-02T07:59:59.873739+00:00"
+    },
+    {
+        "id": 37942,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $T$ is a linear opertor on a finite dimensional normed space $% X$ having basis $\\left\\{ e_{1},e_{2},\\ldots ,e_{n}\\right\\} ,$then for any $% x\\in X$ $\\exists ~\\left\\{ \\alpha _{i}\\right\\} _{i=1}^{n}\\subset F,$ such that",
+        "op": [
+            "$x=\\alpha _{i}\\sum_{i=1}^{n}e_{i},$ for any fixed $\\alpha _{i}$",
+            "$x=\\sqrt{\\sum_{i=1}^{n}\\alpha _{i}e_{i}}$",
+            "$x=e_{i}\\sum_{i=1}^{n}\\alpha _{i},$ for any fixed $e_{i}$",
+            "$x=\\sum_{i=1}^{n}\\alpha _{i}e_{i}$"
+        ],
+        "created_at": "2026-07-02T08:03:18.211372+00:00"
+    },
+    {
+        "id": 37949,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If $Tx_{n}=0$ for a sequence $\\left\\{ x_{n}\\right\\}$ in a null space $% N\\left( T\\right) ~$of a bounded linear operator $T$ on a normed space $X,$ then$~x_{n}\\rightarrow x\\Longrightarrow x=$",
+        "op": [
+            "unit vector",
+            "zero vector",
+            "is neither unit vector nor zero vector",
+            "is either unit vector or zero vector"
+        ],
+        "created_at": "2026-07-02T08:23:18.42613+00:00"
+    },
+    {
+        "id": 37950,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Let $T:\\left[ 0,\\infty\\right) \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ be defined by $T\\left( x\\right) =x$, then its extension $\\widetilde{T}$ on $M=% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ is",
+        "op": [
+            "$\\widetilde{T}(x)=x$",
+            "$\\widetilde{T}(x)=\\frac{x+\\left\\vert x\\right\\vert }{2}$",
+            "All above are valid",
+            "$\\widetilde{T}(x)=\\left\\vert x\\right\\vert$"
+        ],
+        "created_at": "2026-07-02T08:26:30.947115+00:00"
+    },
+    {
+        "id": 38096,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "If a sequence xn→x in a normed space X, then for a bounded linear operator T on X_______.",
+        "op": [
+            "limn→∞‖Txn-Tx‖>0",
+            "‖Txn-Tx‖≠0",
+            "limn→∞‖Txn-Tx‖<0",
+            "‖Txn-Tx‖≤0"
+        ],
+        "created_at": "2026-07-02T10:29:58.488217+00:00"
+    },
+    {
+        "id": 38144,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 July 2026",
+        "qt": "Dot product is a",
+        "op": [
+            "operator.",
+            "Mapping.",
+            "Function.",
+            "Functional."
+        ],
+        "created_at": "2026-07-02T11:13:37.560543+00:00"
+    },
+    {
+        "id": 50413,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For all x, y belongs to an an inner product space$$\\left\\langle {\\alpha x,y} \\right\\rangle = .............\\,$$",
+        "op": [
+            "$$\\alpha \\left\\langle { - x,y} \\right\\rangle$$",
+            "$$\\alpha \\left\\langle {y,x} \\right\\rangle$$",
+            "$$\\alpha \\left\\langle {x, - y} \\right\\rangle$$",
+            "$$\\alpha \\left\\langle {x,y} \\right\\rangle$$"
+        ],
+        "created_at": "2026-07-05T21:02:21.760942+00:00"
+    },
+    {
+        "id": 50414,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Every complete Inner product space is ---------.",
+        "op": [
+            "Banach space",
+            "Hilbert space",
+            "Euclidean space",
+            "Complex space"
+        ],
+        "created_at": "2026-07-05T21:02:38.028081+00:00"
+    },
+    {
+        "id": 50415,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "which of the following space is not an inner product space?",
+        "op": [
+            "$Euclidean\\,\\,space\\,\\,{R^n}$",
+            "$Unitary\\,\\,space\\,\\,{C^n}$",
+            "the space ${l^{p\\,}}\\,with\\,p \\ne 2$",
+            "the space ${l^2}$"
+        ],
+        "created_at": "2026-07-05T21:02:52.290044+00:00"
+    },
+    {
+        "id": 50416,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For an inner product space ${\\mkern 1mu} {\\left\\| {x + y} \\right\\|^2} + {\\left\\| {x - y} \\right\\|^2}$ = ...........",
+        "op": [
+            "$2({\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2})$",
+            "${\\left\\| x \\right\\|^2} - {\\left\\| y \\right\\|^2}$",
+            "${\\left\\| x \\right\\|^2}{\\left\\| y \\right\\|^2}$",
+            "${\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2}$"
+        ],
+        "created_at": "2026-07-05T21:03:03.072434+00:00"
+    },
+    {
+        "id": 50417,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Let $\\left( {V,\\left\\langle {.,.} \\right\\rangle } \\right)$ be an inner product space over a field F, then.............$${\\text{\\& }}\\forall x,y,z \\in V,\\alpha ,\\beta \\in F$$",
+        "op": [
+            "$$\\left\\langle {\\alpha x + \\beta y,z} \\right\\rangle = \\alpha \\left\\langle {x,z} \\right\\rangle + \\beta \\left\\langle {y,z} \\right\\rangle$$",
+            "$$\\left\\langle {\\alpha x + \\beta y,z} \\right\\rangle = \\alpha \\left\\langle {x,z} \\right\\rangle /\\beta \\left\\langle {y,z} \\right\\rangle$$",
+            "$$\\left\\langle {\\alpha x + \\beta y,z} \\right\\rangle = \\alpha \\left\\langle {x,z} \\right\\rangle - \\beta \\left\\langle {y,z} \\right\\rangle$$",
+            "$$\\left\\langle {\\alpha x + \\beta y,z} \\right\\rangle = \\alpha \\left\\langle {x,z} \\right\\rangle *\\beta \\left\\langle {y,z} \\right\\rangle$$"
+        ],
+        "created_at": "2026-07-05T21:03:17.824512+00:00"
+    },
+    {
+        "id": 50419,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For an inner product space <x+y,z>=………..",
+        "op": [
+            "None of these",
+            "<x,z> . <y,z>",
+            "<x,z> - <y,z>",
+            "<x,z> + <y,z>"
+        ],
+        "created_at": "2026-07-05T21:03:34.160636+00:00"
+    },
+    {
+        "id": 50422,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "This following expression ${\\mkern 1mu} {\\left\\| {x + y} \\right\\|^2} + {\\left\\| {x - y} \\right\\|^2} = 2({\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2})$ is called........",
+        "op": [
+            "Pythagorean theorem",
+            "Apollonius identity",
+            "Cauchy schwarz inequality",
+            "Parallelogram equality"
+        ],
+        "created_at": "2026-07-05T21:03:47.546773+00:00"
+    },
+    {
+        "id": 50424,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In an inner product space $X$ over the field of Real numbers,$\\text{for all x,y and z \\in X\\ and }\\alpha \\in F$ $\\text{,then }\\text{} \\langle \\text{}\\alpha x +\\beta y ,z \\rangle =$",
+        "op": [
+            "$\\alpha \\langle x ,z \\rangle +\\overline{\\beta } \\langle y ,z \\rangle$",
+            "$\\alpha \\langle x ,z \\rangle +\\beta \\langle y ,z \\rangle$"
+        ],
+        "created_at": "2026-07-05T21:04:01.664617+00:00"
+    },
+    {
+        "id": 50425,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In an inner product space $X$ over the field of Complex numbers, $\\text{for all x,y \\in X\\ and }\\alpha \\in F\\text{, then }\\text{} \\langle x ,\\alpha y \\rangle =\\text{}$",
+        "op": [
+            "$\\alpha \\langle x ,y \\rangle$",
+            "$\\langle x ,\\overline{\\alpha }y \\rangle$",
+            "$\\langle \\alpha x ,y \\rangle$",
+            "$\\overline{\\alpha } \\langle x ,y \\rangle$"
+        ],
+        "created_at": "2026-07-05T21:04:16.999259+00:00"
+    },
+    {
+        "id": 50426,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For an inner product space defined on a real vector space $\\left\\langle {x,y} \\right\\rangle = .........$",
+        "op": [
+            "${\\left\\langle { - y,x} \\right\\rangle }$",
+            "${\\left\\langle {x,y} \\right\\rangle }$",
+            "${\\left\\langle {y,x} \\right\\rangle }$",
+            "${\\left\\langle {y, - x} \\right\\rangle }$"
+        ],
+        "created_at": "2026-07-05T21:04:29.008961+00:00"
+    },
+    {
+        "id": 51641,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "…………… is algebraically reflexive.",
+        "op": [
+            "A dual space of a vector space",
+            "An infinite dimensional vector space",
+            "A finite dimensional vector space",
+            "Canonical mapping"
+        ],
+        "created_at": "2026-07-06T02:02:19.439009+00:00"
+    },
+    {
+        "id": 51642,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Dual space of a normed space is",
+        "op": [
+            "Banach space.",
+            "functional.",
+            "Metric space.",
+            "Incomplete."
+        ],
+        "created_at": "2026-07-06T02:02:26.66185+00:00"
+    },
+    {
+        "id": 51644,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "$||z - x|{|^2} + ||z - y|{|^2} = \\frac{1}{2}||x - y|{|^2} + 2||z - \\frac{1}{2}(x + y)|{|^2}$ is called………..",
+        "op": [
+            "Parallelogram equality",
+            "Polarization identity",
+            "Pythagorean theorem",
+            "Apollonius identity"
+        ],
+        "created_at": "2026-07-06T02:02:33.522778+00:00"
+    },
+    {
+        "id": 51645,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Null space is also a",
+        "op": [
+            "Metric space.",
+            "Vector space.",
+            "Linear functional.",
+            "Canonical mapping."
+        ],
+        "created_at": "2026-07-06T02:02:40.611929+00:00"
+    },
+    {
+        "id": 51646,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "<p>In an Inner Product space say $X,~$if the sequences $\\left\\{ x_{n}\\right\\}$ and $\\left\\{ y_{n}\\right\\}$ are Cauchy, then $\\left\\langle<x_{n},y_{n}\\right\\rangle$ is ---------.</p>",
+        "op": [
+            "may or may not a Cauchy Sequence",
+            "not necessarily a Cauchy Sequence",
+            "necessarily a Cauchy Sequence",
+            "none of these"
+        ],
+        "created_at": "2026-07-06T02:02:47.339042+00:00"
+    },
+    {
+        "id": 51652,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Dual space of $${\\ R}^n$$ is",
+        "op": [
+            "$${\\ R}^n$$",
+            "$${\\Bbb Z}^n$$",
+            "$${\\ R}$$",
+            "$${\\Bbb C}^n$$"
+        ],
+        "created_at": "2026-07-06T02:03:18.482515+00:00"
+    },
+    {
+        "id": 51686,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The pair $$(V, < .\\,,\\,. > )$$ is called",
+        "op": [
+            "Inner product space.",
+            "Complete space.",
+            "Banach space.",
+            "Metric space."
+        ],
+        "created_at": "2026-07-06T02:10:10.496808+00:00"
+    },
+    {
+        "id": 51698,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Zero vector lemma applies on",
+        "op": [
+            "Infinite dimensional vector space.",
+            "Dual space of a vector space.",
+            "Finite dimensional vector space.",
+            "Canonical mapping."
+        ],
+        "created_at": "2026-07-06T02:11:22.152162+00:00"
+    },
+    {
+        "id": 51706,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Dual space of $$l^1$$ is",
+        "op": [
+            "$${\\ R}^n$$",
+            "$$l^\\infty \\,$$",
+            "$${\\ R}$$",
+            "$$l^1$$"
+        ],
+        "created_at": "2026-07-06T02:12:00.457544+00:00"
+    },
+    {
+        "id": 51710,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a condition of an inner product space?",
+        "op": [
+            "$\\left\\langle {\\alpha x + y,z} \\right\\rangle = \\left\\langle {x,z} \\right\\rangle + \\alpha \\left\\langle {y,z} \\right\\rangle$",
+            "$$\\left\\langle {\\alpha x,y} \\right\\rangle = \\left\\langle {x,\\alpha y} \\right\\rangle$$",
+            "$\\left\\langle {x,y} \\right\\rangle = \\overline {\\left\\langle {x,y} \\right\\rangle }$",
+            "$$\\left\\langle {x,x} \\right\\rangle \\geqslant 0$$"
+        ],
+        "created_at": "2026-07-06T02:12:37.669375+00:00"
+    },
+    {
+        "id": 52164,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Let $\\left( {V,\\left\\langle {.,.} \\right\\rangle } \\right)$ be an inner product space over a field F, then ......",
+        "op": [
+            "$$\\left\\langle {x,\\alpha .y} \\right\\rangle = \\alpha \\left\\langle {x,y} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.$$",
+            "$$\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {y,x} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.$$",
+            "$\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {x,y} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.$",
+            "$$\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {x,x} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.$$"
+        ],
+        "created_at": "2026-07-06T03:45:08.476765+00:00"
+    },
+    {
+        "id": 52165,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The dual space of a normed is ........ norm space.",
+        "op": [
+            "an incomplete",
+            "a complete"
+        ],
+        "created_at": "2026-07-06T03:45:27.036852+00:00"
+    },
+    {
+        "id": 52166,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not a condition of an inner product space?",
+        "op": [
+            "$\\left\\langle {\\alpha x + y,z} \\right\\rangle = \\left\\langle {x,z} \\right\\rangle + \\alpha \\left\\langle {y,z} \\right\\rangle$",
+            "$\\left\\langle {x,y} \\right\\rangle = \\overline {\\left\\langle {y,x} \\right\\rangle }$",
+            "$$\\left\\langle {x,x} \\right\\rangle \\geqslant 0$$",
+            "$$\\left\\langle {\\alpha x,y} \\right\\rangle = \\alpha \\left\\langle {x,y} \\right\\rangle$$"
+        ],
+        "created_at": "2026-07-06T03:45:43.682616+00:00"
+    },
+    {
+        "id": 52169,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "For an element x belongs to an inner product space , $\\left\\langle {x,x} \\right\\rangle = .........$ if and only if x=0.",
+        "op": [
+            "greater than 0",
+            "infinity",
+            "0",
+            "less than 0"
+        ],
+        "created_at": "2026-07-06T03:46:54.944635+00:00"
+    },
+    {
+        "id": 52516,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "An element x of an inner product space X is said to be orthogonal to an element $$y \\in X$$ if.......",
+        "op": [
+            "$\\left\\langle {x,\\left. y \\right\\rangle } \\right. > 0$",
+            "none of these",
+            "$\\left\\langle {x,\\left. y \\right\\rangle } \\right. = 0$",
+            "$\\left\\langle {x,\\left. y \\right\\rangle } \\right. < 0$"
+        ],
+        "created_at": "2026-07-06T04:45:31.193632+00:00"
+    },
+    {
+        "id": 52520,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Norm in $$V\\,\\,{\\text{for}}\\,\\,x\\, \\in V$$ is defined as",
+        "op": [
+            "$$\\left\\| x \\right\\| = \\sqrt { < x\\,,\\,x > } \\,$$",
+            "$$\\left\\| x \\right\\| = \\left| { < x\\,,\\,x > } \\right|^2$$",
+            "$$\\left\\| x \\right\\| = \\sqrt { < x/2\\,,\\,x/2 > }$$",
+            "$$\\left\\| x \\right\\| = < x\\,,\\,x >$$"
+        ],
+        "created_at": "2026-07-06T04:46:20.738076+00:00"
+    },
+    {
+        "id": 52626,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In an Inner Product space say $X,~$for any sequences $\\left\\{ x_{n}\\right\\}$ and $\\left\\{ y_{n}\\right\\} ,$ if $x_{n}\\longrightarrow x$ and $y_{n}\\longrightarrow y$, then --------.",
+        "op": [
+            "$\\nRightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow< \\left\\langle x,y\\right\\rangle$",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow \\left\\langle x,y\\right\\rangle$",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\neq \\left\\langle x,y\\right\\rangle$",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle =2\\left\\langle x,y\\right\\rangle$"
+        ],
+        "created_at": "2026-07-06T04:59:55.877762+00:00"
+    },
+    {
+        "id": 52639,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "An Isomorphism of a normed space X to a normed space Y is a ................operator that preserves norm.",
+        "op": [
+            "non linear",
+            "bijective linear",
+            "surjective linear",
+            "injective linear"
+        ],
+        "created_at": "2026-07-06T05:01:02.6412+00:00"
+    },
+    {
+        "id": 52643,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In an inner product space $X$ over the field $F$,$\\langle x ,z \\rangle = \\langle y ,z \\rangle$",
+        "op": [
+            "$\\Rightarrow$x$\\neq$y, for all z$\\in X$",
+            "$\\Rightarrow$x=y, for some z$\\in X$",
+            "⇒x≠y, for all z∈X",
+            "$\\nRightarrow$x=y, for all z$\\in X$"
+        ],
+        "created_at": "2026-07-06T05:01:33.008448+00:00"
+    },
+    {
+        "id": 52779,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "An element x of an inner product space X is said to be ……to an element $$y \\in X$$ if $\\left\\langle {x,\\left. y \\right\\rangle } \\right. = 0$",
+        "op": [
+            "orthonormal",
+            "orthogonal",
+            "parallel",
+            "equal"
+        ],
+        "created_at": "2026-07-06T05:24:56.021391+00:00"
+    },
+    {
+        "id": 52796,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Every Inner Product space is a Metric Space as well.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-07-06T05:26:58.670958+00:00"
+    },
+    {
+        "id": 52907,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The following expression represents ……… inequality $\\frac{{|x - z|}}{{1 + |x - z|}} \\leqslant \\frac{{|x - y|}}{{1 + |x - y|}} + \\frac{{|y - z|}}{{1 + |y - z|}}$",
+        "op": [
+            "Holder’s inequality",
+            "Minkowski’s inequality",
+            "Rectangle inequality",
+            "Triangular inequality"
+        ],
+        "created_at": "2026-07-06T05:41:59.904289+00:00"
+    },
+    {
+        "id": 52911,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Every Inner product space is a metric space with norm given by;",
+        "op": [
+            "$d(x,y)=\\sqrt{\\left\\langle x-y,x-y\\right\\rangle }$",
+            "$\\left\\Vert x-y\\right\\Vert =\\sqrt{\\left\\langle x-y,x-y\\right\\rangle }$",
+            "$d(x,y)=\\left\\Vert x-y\\right\\Vert$",
+            "All above are equivalent"
+        ],
+        "created_at": "2026-07-06T05:42:23.281086+00:00"
+    },
+    {
+        "id": 53567,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "A hilbert space is a /an...........",
+        "op": [
+            "complete Inner product space",
+            "Incomplete norm space",
+            "Incomplete Inner product space",
+            "complete norm space"
+        ],
+        "created_at": "2026-07-06T07:49:29.906647+00:00"
+    },
+    {
+        "id": 72057,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let $B\\left( {X,Y} \\right)$ be the set of all bounded linear operators from a normed space X to a normed space Y. If Y is a Banach space, then $B\\left( {X,Y} \\right)$ is a………..",
+        "op": [
+            "Hilbert",
+            "Norm",
+            "None of these",
+            "Banach"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72058,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Operator T:\\,D(T) \\to Y is bounded if there is a real number c such that for all x \\in \\,D(T)\\,, ",
+        "op": [
+            "\\left\\| {Tx} \\right\\| = \\,c\\left\\| x \\right\\|",
+            "\\left\\| {Tx} \\right\\| \\geqslant \\,c\\left\\| x \\right\\|",
+            "\\left\\| {Tx} \\right\\| \\leqslant \\,c\\left\\| x \\right\\|\\,",
+            "\\left\\| {Tx} \\right\\| \\leqslant \\,\\left\\| x \\right\\|"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72059,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T_{1} and T_{2} are equal operators defined on a normed space X, then for any x\\in X,T_{1}x=T_{2}x\\Longrightarrow ",
+        "op": [
+            "T_{1}-T_{2} is a zero operator",
+            "T_{1}-T_{2} is not necessarily a zero operator"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72060,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If~T_{1} and T_{2} are bounded linear operators from the normed space X into Y, then \\left\\Vert T_{1}+T_{2}\\right\\Vert________. ",
+        "op": [
+            "None of these",
+            "=\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert T_{1}x\\right\\Vert +\\underset{\\underset{\\left\\Vert X\\right\\Vert =1}% {x\\in D(T)}}{\\sup }\\left\\Vert T_{2}x\\right\\Vert",
+            "\\leq \\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert T_{1}x+T_{2}x\\right\\Vert",
+            "\\geq \\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert \\left( T_{1}+T_{2}\\right) x\\right\\Vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72061,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let X and Y be normed spaces. A linear operator T:X→Y is said to be bounded if ------------ such that ‖Tx‖≤k‖x‖ ",
+        "op": [
+            "∀ k>0,∃ x∈ X",
+            "∀ k>0, ∄ x∈X",
+            "∃ k>0, ∀ x∈X",
+            "∄ k>0,∀ x∈X"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72082,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let X be a normed space, f :X \\rightarrow \\mathbb{R} and g :X \\rightarrow \\mathbb{R} be the linear functionals, then f +g :X \\rightarrow \\mathbb{R} defined by \\left (f +g\\right )(x) =f(x) +g(x) \\forall x \\in X ,\\text{ is_______} a linear functional.  ",
+        "op": [
+            "bounded",
+            "not necessarily",
+            "essentially",
+            "never"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72083,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T is a linear opertor on a finite dimensional normed space X having basis \\left\\{ e_{1},e_{2},\\ldots ,e_{n}\\right\\} ,then for any x\\in X \\exists ~\\left\\{ \\alpha _{i}\\right\\} _{i=1}^{n}, x=\\sum_{i=1}^{n}% \\alpha _{i}e_{i}, then \\left\\Vert T\\left( \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right) \\right\\Vert ",
+        "op": [
+            "\\leq T\\left\\Vert \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right\\Vert",
+            "\\leq \\sum_{i=1}^{n}\\left\\vert \\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert",
+            "\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert e_{i}\\right\\Vert",
+            "\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72084,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "T is a linear operator . If {T^{ - 1}} exists, it is a",
+        "op": [
+            "discontinuous operator.",
+            "non linear operator.",
+            "linear operator.",
+            "Zero operator."
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72085,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T is a bounded linear operator on a normed space X, then for the Null space N(T); ",
+        "op": [
+            "N(T)\\nsubseteq \\overline{N(T)}",
+            "N(T)\\subseteq \\overline{N(T)}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72087,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator T from the normed space X to normed space Y is defined and given as; \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert , then \\ \\left\\Vert T\\right\\Vert =__________. ",
+        "op": [
+            "both \\underset{\\underset{\\times \\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert } and \\underset{\\underset{% \\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\left\\Vert Tx\\right\\Vert",
+            "\\underset{\\underset{\\times \\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }",
+            "None of these",
+            "\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert Tx\\right\\Vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72088,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let $B\\left( {X,Y} \\right)$ be the set of all ……………operators from a normed space X to a normed space Y. If Y is a Banach space, then $B\\left( {X,Y} \\right)$ is a Banach space.",
+        "op": [
+            "Non linear",
+            "Bounded linear",
+            "Unbounded linear",
+            "Linear"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72089,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a fixed k=\\left( k_{1},k_{2}\\right) , defining the linear functional % f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion as f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}, then \\left\\vert f\\left( x\\right) \\right\\vert =\\left\\vert x.k\\right\\vert \\leq ",
+        "op": [
+            "\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}}{\\max }\\left\\vert f\\left( x\\right) \\right\\vert",
+            "\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert",
+            "\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion }{\\max }\\left\\Vert x\\right\\Vert",
+            "\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72090,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T_{1} and T_{2} are equal operators defined on a normed space X, then for any x\\in X,T_{1}x=T_{2}x\\Longrightarrow  ",
+        "op": [
+            "x\\neq 0 necessarily",
+            "x=0."
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72134,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let X be a normed space, f :X \\rightarrow \\mathbb{R} be the linear functional and for any \\alpha \\in \\mathbb{R} , then \\alpha f :X \\rightarrow \\mathbb{R} defined by \\left (\\alpha f\\right )(x) =\\alpha f(x) \\forall x\\text{} \\in X\\text{, is _______} a linear functional.  ",
+        "op": [
+            "essentially",
+            "bounded",
+            "never",
+            "not necessarily"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72135,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ~is defined by T\\left( x,y\\right) =y-x, then T^{-1}\\left( 6\\right) =\\left\\{ \\left( t,t-6\\right) :t\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\right\\} \\Longrightarrow ",
+        "op": [
+            "T is one-one",
+            "T is not one-one"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72136,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " The mapping; T:V\\rightarrow V defined by T(v)=a+v, where \\ v\\in V~ is linear if ",
+        "op": [
+            "a=0",
+            "a\\neq 0"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72137,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If~T_{1} and T_{2} are linear operators from % %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion into % %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion, defined by T_{1}\\left( x\\right) =-x and T_{2}\\left( x\\right) =x,\\forall x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion , then T_{2}^{-1}T_{1}^{-1}\\left( x\\right) =_______. ",
+        "op": [
+            "-x",
+            "x",
+            "\\frac{1}{x}",
+            "-\\frac{1}{x}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72138,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let T:\\left[ 0,\\infty\\right) \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion be defined by T\\left( x\\right) =x, then its extension \\widetilde{T} on M=% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion is ",
+        "op": [
+            "\\widetilde{T}(x)=\\frac{x+\\left\\vert x\\right\\vert }{2}",
+            "All above are valid",
+            "\\widetilde{T}(x)=x",
+            "\\widetilde{T}(x)=\\left\\vert x\\right\\vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72140,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a fixed t\\in \\left[ 0,1\\right] , defining the linear functional on the class of all continous functions on \\left[ 0,1\\right] , f:c\\left[ 0,1% \\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion as f\\left( x\\right) =x\\left( t\\right) ,~\\forall x\\in c\\left[ 0,1\\right] , then \\left\\Vert f\\right\\Vert = ",
+        "op": [
+            "\\underset{t\\in \\left[ 0,1\\right] }{\\min }x\\left( t\\right)",
+            "0",
+            "1",
+            "\\underset{t\\in \\left[ 0,1\\right] }{\\max }x\\left( t\\right)"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72159,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T is a linear opertor on a finite dimensional normed space % X having basis \\left\\{ e_{1},e_{2},\\ldots ,e_{n}\\right\\} ,then for any % x\\in X \\exists ~\\left\\{ \\alpha _{i}\\right\\} _{i=1}^{n}\\subset F, such that ",
+        "op": [
+            "x=\\sqrt{\\sum_{i=1}^{n}\\alpha _{i}e_{i}}",
+            "x=\\sum_{i=1}^{n}\\alpha _{i}e_{i}",
+            "x=\\alpha _{i}\\sum_{i=1}^{n}e_{i}, for any fixed \\alpha _{i}",
+            "x=e_{i}\\sum_{i=1}^{n}\\alpha _{i}, for any fixed e_{i}"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72160,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let T:D\\left( T\\right) \\rightarrow Y be a linear operator from normed space X to normed space Y, then ",
+        "op": [
+            "\\forall x\\in \\overline{D\\left( T\\right) }~\\exists ~a sequence \\left\\{ x_{n}\\right\\} in D(T) such that x_{n}\\rightarrow x",
+            "\\nexists x\\in \\overline{D\\left( T\\right) }~\\forall sequences \\left\\{ x_{n}\\right\\} in D(T) such that x_{n}\\rightarrow x",
+            "\\forall x\\in \\overline{D\\left( T\\right) }~\\nexists ~a sequence \\left\\{ x_{n}\\right\\} in D(T) such that x_{n}\\rightarrow x",
+            "\\exists x\\in \\overline{D\\left( T\\right) }~\\forall sequences \\left\\{ x_{n}\\right\\} in D(T) such that x_{n}\\rightarrow x"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72161,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If a normed space X is finite dimensional , then every linear operator on X is",
+        "op": [
+            "Continuous.",
+            "Differentiable.",
+            "Bounded.",
+            "Integrable."
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72162,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let S and T are linear operators , we have",
+        "op": [
+            "{(ST)^{ - 1}} = {T^{ - 1}}{S^{ - 1}}",
+            "{(ST)^{ - 1}} = ST",
+            "{(ST)^{ - 1}} = {S^{ - 1}}{T^{ - 1}}",
+            "{(ST)^{ - 1}} = I"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72182,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let B\\left( {X,Y} \\right) be the set of all bounded linear operators from a normed space X to a normed space Y. If Y is a Banach space, then B\\left( {X,Y} \\right) is a………..",
+        "op": [
+            "None of these",
+            "Norm",
+            "Hilbert",
+            "Banach"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72183,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " Since a bounded linear operator T from the normed space X to normed space Y is defined and given as; \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert , then the minimum value of k is ___________. ",
+        "op": [
+            "any arbitrary non negative real number",
+            "not defined",
+            "\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\inf }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }",
+            "\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72213,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion be defined by T\\left( x\\right) =x^{2}, then the restriction T_{|A} is one-one on A= ",
+        "op": [
+            "\\left( -\\infty ,\\infty \\right)",
+            "\\left( -1,\\infty \\right)",
+            "\\left( -\\infty ,1\\right)",
+            "\\left( -\\infty ,0\\right)"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72214,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a bounded linear operator T , the null space {\\rm N}(T) is",
+        "op": [
+            "unbounded.",
+            "bounded.",
+            "closed.",
+            "open."
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72215,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator T from the normed space X to normed space Y is defined and given as; \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert , then for any \\alpha \\in F, % \\left\\Vert \\alpha T\\right\\Vert = ",
+        "op": [
+            "\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\alpha \\left\\Vert Tx\\right\\Vert",
+            "\\underset{\\underset{x\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\alpha \\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }",
+            "\\underset{\\underset{\\left\\Vert X\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\left( -\\left\\vert \\alpha \\right\\vert \\right) \\left\\Vert Tx\\right\\Vert",
+            "\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\vert \\alpha \\right\\vert \\left\\Vert Tx\\right\\Vert"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72233,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space $X$ of all polynomials of form $x\\left( t\\right) =t^{n+1},n\\in %TCIMACRO{\\U{2115} }% %BeginExpansion \\mathbb{N} %EndExpansion $ defined on $\\left[ -1,1\\right] ,$if $D$ is a differential linear operator defined and given as; $D\\left( x\\left( t\\right) \\right) =\\left\\{ \\frac{d}{dt}x\\left( t\\right) :x\\left( t\\right) \\in P\\left[ -1,1\\right] ,-1\\leq t\\leq 1\\right\\} ,$ then $% \\left\\Vert D\\right\\Vert =$__________. ",
+        "op": [
+            "$1$",
+            "$n+1$",
+            "$0$",
+            "$n$"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72234,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let $T:X\\rightarrow Y$ be an invertible linear operator from $X$ to $ Y$, where $\\dim X,\\dim Y<\\infty ,$ then ",
+        "op": [
+            "$\\dim X>\\dim Y$",
+            "$\\dim X<\\dim Y$",
+            "$\\dim X=\\dim Y$",
+            "$\\dim X=-\\dim Y$"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72235,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is/are bounded linear operator",
+        "op": [
+            "Identity operator .",
+            "Zero operator.",
+            "Integral operator.",
+            "All given options."
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72236,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If$~T_{1}$ and $T_{2}$ are linear operators from $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ into $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $, defined by $T_{1}\\left( x\\right) =-x$ and $T_{2}\\left( x\\right) =x,\\forall x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ then $\\left( T_{1}T_{2}\\right) ^{-1}\\left( x\\right) =$_________. ",
+        "op": [
+            "$\\frac{1}{x}$",
+            "$-\\frac{1}{x}$",
+            "$-x$",
+            "$x$"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72237,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Operator $T:\\,D(T) \\to Y$ is bounded if there is a real number c such that for all $x \\in \\,D(T)\\,,$ ",
+        "op": [
+            "$\\left\\| {Tx} \\right\\| \\leqslant \\,c\\left\\| x \\right\\|\\,$",
+            "$\\left\\| {Tx} \\right\\| \\geqslant \\,c\\left\\| x \\right\\|$",
+            "$\\left\\| {Tx} \\right\\| \\leqslant \\,\\left\\| x \\right\\|$",
+            "$\\left\\| {Tx} \\right\\| = \\,c\\left\\| x \\right\\|$"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72238,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}$ defined by $T(x,y)=\\left( y,-5x+4y\\right) ,$ then $T^{-1}\\left( -2,7\\right) =$_______ ",
+        "op": [
+            "(-3,-2)",
+            "(3,2)",
+            "(-3,2)",
+            "(3,-2)"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72262,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $Tx_{n}=0$ for a sequence $\\left\\{ x_{n}\\right\\} $ in a null space $% N\\left( T\\right) ~$of a bounded linear operator $T$ on a normed space $X,$ then$~x_{n}\\rightarrow x\\Longrightarrow x=$  ",
+        "op": [
+            "unit vector",
+            "is neither unit vector nor zero vector",
+            "zero vector",
+            "is either unit vector or zero vector"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72263,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If$~T_{1}$ and $T_{2}$ are bounded linear operators from the normed space $X$ into $Y$, then $\\left\\Vert T_{1}+T_{2}\\right\\Vert $________. ",
+        "op": [
+            "All options are equivalent",
+            "$=\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert \\left( T_{1}+T_{2}\\right) x\\right\\Vert $",
+            "$=\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert T_{1}x+T_{2}x\\right\\Vert $",
+            "$\\leq \\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert T_{1}x\\right\\Vert +\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}% {x\\in D(T)}}{\\sup }\\left\\Vert T_{2}x\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72265,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $\\left\\{ x_{n}\\right\\} $ is a sequence in a null space $N\\left( T\\right) ~$of a bounded linear operator $T$ on a normed space $X,$ then ",
+        "op": [
+            "$Tx_{n}=~$unit vector",
+            "$Tx_{n}$ is neither unit vector nor zero vector",
+            "$Tx_{n}$ is either unit vector or zero vector",
+            "$Tx_{n}=$ zero vector"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72267,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let $T:\\left[ 0,\\infty\\right) \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ be defined by $T\\left( x\\right) =x$, then its extension $\\widetilde{T}$ on $M=% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ is ",
+        "op": [
+            "$\\widetilde{T}(x)=\\frac{x+\\left\\vert x\\right\\vert }{2}$",
+            "$\\widetilde{T}(x)=x$",
+            "All above are valid",
+            "$\\widetilde{T}(x)=\\left\\vert x\\right\\vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72269,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Two operators {T_1}\\,\\,and\\,\\,{T_2} are equal if",
+        "op": [
+            "D({T_1}) = D({T_2}) and \\forall \\,\\,x \\in D({T_1}) = D({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)",
+            "\\forall \\,\\,x \\in D({T_1}) = D({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)",
+            "D({T_1}) = D({T_2})",
+            "D({T_1}) = D({T_2}) and \\forall \\,\\,x \\in R({T_1}) = R({T_2})\\,\\, \\Rightarrow \\,\\,{T_1}(x) = {T_2}(x)"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72272,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " The mapping; $T:V\\rightarrow V$ defined by $T(v)=a+v$, where $\\ v\\in V~$ is linear if ",
+        "op": [
+            "$a=0$",
+            "$a\\neq 0$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72274,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " Since a bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as; $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert ,$ then the minimum value of $k$ is ___________. ",
+        "op": [
+            "$\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$",
+            "any arbitrary non negative real number",
+            "not defined",
+            "$\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\inf }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72275,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{3}~$is defined by $T\\left( x,y\\right) =\\left( y-x,y,x-1\\right) ,$ then the value of $T\\left( 0,0\\right) \\Longrightarrow $ ",
+        "op": [
+            "$T^{-1}$ exists",
+            "$T~$ is not linear",
+            "$T^{-1}$ does not exists",
+            "$T$ is linear"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72277,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{3}~is defined by T\\left( x,y\\right) =\\left( y-x,y,x-1\\right) , then the value of T\\left( 0,0\\right) \\Longrightarrow ",
+        "op": [
+            "T^{-1} does not exists",
+            "T is linear",
+            "T~ is not linear",
+            "T^{-1} exists"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72278,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If Tx_{n}=0 for a sequence \\left\\{ x_{n}\\right\\} in a null space % N\\left( T\\right) ~of a bounded linear operator T on a normed space X, then~x_{n}\\rightarrow x\\Longrightarrow x=  ",
+        "op": [
+            "is either unit vector or zero vector",
+            "zero vector",
+            "unit vector",
+            "is neither unit vector nor zero vector"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72279,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let T:D\\left( T\\right) \\rightarrow Y be a bounded linear operator from normed space X to Banach space Y, and \\forall x\\in \\overline{D\\left( T\\right) }~\\exists ~a sequence \\left\\{ x_{n}\\right\\} in D(T) such that x_{n}\\rightarrow x,then~\\left\\Vert Tx_{m}-Tx_{n}\\right\\Vert \\Longrightarrow ",
+        "op": [
+            "\\left\\{ Tx_{n}\\right\\} ~is a Cauchy Sequence in Y",
+            "\\left\\{ Tx_{n}\\right\\} ~is a Cauchy Sequence in \\overline{Y}",
+            "\\left\\{ Tx_{n}\\right\\} ~is a Cauchy Sequence in \\overline{R(T)}",
+            "\\left\\{ Tx_{n}\\right\\} ~is not a Cauchy Sequence in Y"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72280,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " For a fixed k=\\left( k_{1},k_{2}\\right) , defining the linear functional % f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion as f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}, then \\left\\Vert f\\right\\Vert =  ",
+        "op": [
+            "\\min \\left( x_{1}k_{1},x_{2}k_{2}\\right)",
+            "\\left\\Vert k\\right\\Vert",
+            "\\left\\Vert x\\right\\Vert",
+            "\\max \\left( x_{1}k_{1},x_{2}k_{2}\\right)"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72281,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If \\left\\{ x_{n}\\right\\} is a sequence in a null space N\\left( T\\right) ~of a bounded linear operator T on a normed space X, then ",
+        "op": [
+            "Tx_{n} is neither unit vector nor zero vector",
+            "Tx_{n} is either unit vector or zero vector",
+            "Tx_{n}= zero vector",
+            "Tx_{n}=~unit vector"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72283,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a fixed $k=\\left( k_{1},k_{2}\\right) ,$ defining the linear functional $% f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ as $f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2},$ then $\\left\\vert f\\left( x\\right) \\right\\vert =\\left\\vert x.k\\right\\vert \\leq $ ",
+        "op": [
+            "$\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}}{\\max }\\left\\vert f\\left( x\\right) \\right\\vert $",
+            "$\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert $",
+            "$\\underset{x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion }{\\max }\\left\\Vert x\\right\\Vert $",
+            "$\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72302,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a fixed k=\\left( k_{i}\\right) _{i=1}^{\\infty }\\in l^{2}, defining the linear functional f:l^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion as f\\left( x\\right) =\\sum_{i=1}^{\\infty }x_{i}k_{i},~\\forall \\left( x_{i}\\right) _{i=1}^{\\infty }\\in l^{2}, then \\left\\vert f\\left( x\\right) \\right\\vert \\leq ",
+        "op": [
+            "\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert ~",
+            "\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert",
+            "\\left\\vert f\\right\\vert \\left\\vert x\\right\\vert",
+            "\\left\\Vert f\\right\\Vert \\left\\Vert k\\right\\Vert"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72304,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If~T_{1} and T_{2} are linear operators from % %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion into % %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion, defined by T_{1}\\left( x\\right) =-x and T_{2}\\left( x\\right) =x,\\forall x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion , then \\left( T_{1}T_{2}\\right) ^{-1}\\left( x\\right) =_________. ",
+        "op": [
+            "-\\frac{1}{x}",
+            "-x",
+            "\\frac{1}{x}",
+            "x"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72309,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " Since a bounded linear operator T from the normed space X to normed space Y is defined and given as; \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert , then the maximum value of k is__________.  ",
+        "op": [
+            "\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\inf }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }",
+            "any arbitrary non negative real number",
+            "not defined",
+            "\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72311,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " For a fixed $k=\\left( k_{1},k_{2}\\right) ,$ defining the linear functional $% f:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ as $f\\left( x\\right) =x.k=x_{1}k_{1}+x_{2}k_{2},~\\forall \\left( x_{1},x_{2}\\right) \\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2},$ then $\\left\\Vert f\\right\\Vert =$  ",
+        "op": [
+            "$\\max \\left( x_{1}k_{1},x_{2}k_{2}\\right) $",
+            "$\\left\\Vert k\\right\\Vert $",
+            "$\\min \\left( x_{1}k_{1},x_{2}k_{2}\\right) $",
+            "$\\left\\Vert x\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72312,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as;  $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert ,$ then $\\ \\left\\Vert T\\right\\Vert =0\\Longrightarrow $ ",
+        "op": [
+            "$x\\in \\{0\\}$",
+            "$k=0$",
+            "$k<0$",
+            "$T$ is a zero operator"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72313,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If the integral operator $I:c\\left[ 0,1\\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ on the space of all contnuous functions on $\\left[ 0,1\\right] $ defined by $f(x)=\\int_{0}^{1}x\\left( t\\right) dt$, is a linear functional, then $% \\left\\vert f\\left( x\\right) \\right\\vert \\leq $ ",
+        "op": [
+            "$\\left\\vert x\\right\\vert $",
+            "$1$",
+            "$\\left\\Vert x\\right\\Vert $",
+            "$\\underset{0\\leq t\\leq 1}{\\max }\\left\\vert x\\left( t\\right) \\right\\vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72314,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": " If T:c[0,1]→c[0,1], which is defined and given as; T(x)={∫₀¹κ(t,τ)x(τ)dτ:|κ|<k₀},then ∀ x ∈ c[0,1] ∃ k>0 such that ‖Tx‖≤k‖x‖⇒ ",
+        "op": [
+            "T is linear bounded",
+            "T is non-linear bounded",
+            "T is non-linear unbounded",
+            "T is linear unbounded"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72315,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "A bounded linear operator T from the normed space X to normed space Y is defined and given as; \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert.If D\\left( T\\right) =\\{0\\}, then \\left\\Vert T\\right\\Vert =  ",
+        "op": [
+            "\\infty",
+            "0",
+            "\\frac{1}{k}",
+            "k^{2}"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72316,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let T:X \\to Y be a linear operator, then restriction of T is expressed as",
+        "op": [
+            "{T_{\\left| B \\right.}}:B \\to B\\,\\,\\,\\,,\\,B \\subseteq X",
+            "{T_{\\left| B \\right.}}:B \\to Y\\,\\,\\,,\\,\\,B \\subseteq X",
+            "{T_{\\left| B \\right.}}:X \\to B\\,\\,\\,,\\,\\,B \\subseteq Y",
+            "{T_{\\left| B \\right.}}:Y \\to B\\,\\,,\\,\\,B \\subseteq Y"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72318,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space $X$ of all $n$ degree polynomials defined on $\\left[ -1,1% \\right] ,$if $D$ is a differential linear operator defined and given as; $D\\left( x\\left( t\\right) \\right) =\\left\\{ \\frac{d}{dt}x\\left( t\\right) :x\\left( t\\right) \\in X,-1\\leq t\\leq 1\\right\\} ,$ then $\\forall x\\in X$ $% \\exists $ $k>0$ such that $\\left\\Vert Dx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert \\Longrightarrow $ ",
+        "op": [
+            "$D$ is non-linear unbounded",
+            "$D$ is linear unbounded",
+            "$D$ is a non-linear bounded",
+            "$D$ is a linear bounded"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72319,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X, for the identity operator I:X\\rightarrow X,\\left\\Vert I\\right\\Vert =\\underset{\\underset{x\\neq 0}{x\\in D\\left( I\\right) }}{\\sup }% \\frac{\\left\\Vert Ix\\right\\Vert }{\\left\\Vert x\\right\\Vert }=__________. ",
+        "op": [
+            "1",
+            "\\left\\Vert x\\right\\Vert",
+            "\\left\\Vert kx\\right\\Vert ,k>0",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72320,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $T_{1}$ and $T_{2}$ are equal operators defined on a normed space $X$, then for any $x\\in X,T_{1}x=T_{2}x\\Longrightarrow $  ",
+        "op": [
+            "$x\\neq 0$ necessarily",
+            "$x=0.$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72321,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If$~T_{1}$ and $T_{2}$ are linear operators from $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ into $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $, defined by $T_{1}\\left( x\\right) =-x$ and $T_{2}\\left( x\\right) =x,\\forall x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ then $T_{2}^{-1}T_{1}^{-1}\\left( x\\right) =$_______. ",
+        "op": [
+            "$-\\frac{1}{x}$",
+            "$x$",
+            "$\\frac{1}{x}$",
+            "$-x$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72323,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If a sequence x_{n}\\rightarrow x in a normed space X, then for a bounded linear operator T on X, then ",
+        "op": [
+            "Tx_{n}\\nrightarrow Tx",
+            "Tx_{n}\\rightarrow Tx"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72324,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X, for the zero operator $O:X\\rightarrow X,\\left\\Vert O\\right\\Vert =\\underset{\\underset{x\\neq 0}{x\\in D\\left( I\\right) }}{\\sup }% \\frac{\\left\\Vert Ox\\right\\Vert }{\\left\\Vert x\\right\\Vert }=$________  ",
+        "op": [
+            "$\\left\\Vert kx\\right\\Vert ,k>0$",
+            "1",
+            "$\\left\\Vert x\\right\\Vert $",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72326,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X of all n degree polynomials defined on \\left[ -1,1% \\right] ,if D is a differential linear operator defined and given as; D\\left( x\\left( t\\right) \\right) =\\left\\{ \\frac{d}{dt}x\\left( t\\right) :x\\left( t\\right) \\in X,-1\\leq t\\leq 1\\right\\} , then \\forall x\\in X % \\exists k>0 such that \\left\\Vert Dx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert \\Longrightarrow ",
+        "op": [
+            "D is a linear bounded",
+            "D is non-linear unbounded",
+            "D is linear unbounded",
+            "D is a non-linear bounded"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72327,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If A:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2} is defined as Ax=y~and given by; \\left( \\begin{array}{cc} \\alpha _{11} & \\alpha _{12} \\\\ \\alpha _{21} & \\alpha _{22}% \\end{array}% \\right) \\left( \\begin{array}{c} \\xi _{1} \\\\ \\xi _{2}% \\end{array}% \\right) =\\left( \\begin{array}{c} \\eta _{1} \\\\ \\eta _{2}% \\end{array}% \\right) \\Longrightarrow \\eta _{j}=\\sum_{i=1}^{2}\\alpha _{ji}\\xi _{i}, then % A is ",
+        "op": [
+            "non-linear operator",
+            "linear operator"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72342,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as; $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert ,$ then for any $\\alpha \\in F,$ $% \\left\\Vert \\alpha T\\right\\Vert =$ ",
+        "op": [
+            "$\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\alpha \\left\\Vert Tx\\right\\Vert $",
+            "$\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\vert \\alpha \\right\\vert \\left\\Vert Tx\\right\\Vert $",
+            "$\\underset{\\underset{\\left\\Vert X\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\left( -\\left\\vert \\alpha \\right\\vert \\right) \\left\\Vert Tx\\right\\Vert $",
+            "$\\underset{\\underset{x\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\alpha \\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72343,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X of all polynomials of form x\\left( t\\right) =t^{n+1},n\\in %TCIMACRO{\\U{2115} }% %BeginExpansion \\mathbb{N} %EndExpansion defined on \\left[ -1,1\\right] ,if D is a differential linear operator defined and given as; D\\left( x\\left( t\\right) \\right) =\\left\\{ \\frac{d}{dt}x\\left( t\\right) :x\\left( t\\right) \\in P\\left[ -1,1\\right] ,-1\\leq t\\leq 1\\right\\} , then % \\left\\Vert D\\right\\Vert =__________. ",
+        "op": [
+            "n+1",
+            "0",
+            "n",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72344,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator T from the normed space X to normed space Y is defined and given as;  \\forall x\\in D\\left( T\\right) \\exists k>0, such that \\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert , then \\ \\left\\Vert T\\right\\Vert =0\\Longrightarrow ",
+        "op": [
+            "k=0",
+            "k<0",
+            "x\\in \\{0\\}",
+            "T is a zero operator"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72355,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let $T:D\\left( T\\right) \\rightarrow Y$ be a bounded linear operator from normed space $X$ to Banach space $Y$, and $\\forall x\\in \\overline{D\\left( T\\right) }~\\exists ~$a sequence $\\left\\{ x_{n}\\right\\} $ in $D(T)$ such that $x_{n}\\rightarrow x,$then$~\\left\\Vert Tx_{m}-Tx_{n}\\right\\Vert \\Longrightarrow $ ",
+        "op": [
+            "$\\left\\{ Tx_{n}\\right\\} $ converges in $\\overline{R(T)}$",
+            "$\\left\\{ Tx_{n}\\right\\} $ converges in $Y$",
+            "$\\left\\{ Tx_{n}\\right\\} $ converges in $\\overline{Y}$",
+            "$\\left\\{ Tx_{n}\\right\\} ~$may not converges in $Y$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72356,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X, for the identity operator $I:X\\rightarrow X,\\left\\Vert I\\right\\Vert =\\underset{\\underset{x\\neq 0}{x\\in D\\left( I\\right) }}{\\sup }% \\frac{\\left\\Vert Ix\\right\\Vert }{\\left\\Vert x\\right\\Vert }=$__________. ",
+        "op": [
+            "$\\left\\Vert kx\\right\\Vert ,k>0$",
+            "$1$",
+            "$0$",
+            "$\\left\\Vert x\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72357,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2} defined by T(x,y)=\\left( y,-5x+4y\\right) , then T^{-1}\\left( -2,7\\right) =_______ ",
+        "op": [
+            "(-3,-2)",
+            "(-3,2)",
+            "(3,-2)",
+            "(3,2)"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72360,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Let B\\left( {X,Y} \\right) be the set of all ……………operators from a normed space X to a normed space Y. If Y is a Banach space, then B\\left( {X,Y} \\right) is a Banach space.",
+        "op": [
+            "Linear",
+            "Unbounded linear",
+            "Bounded linear",
+            "Non linear"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72361,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If $T_{1}$ and $T_{2}$ are equal operators defined on a normed space $X$, then for any $x\\in X,T_{1}x=T_{2}x\\Longrightarrow $ ",
+        "op": [
+            "$T_{1}-T_{2}$ is a zero operator",
+            "$T_{1}-T_{2}$ is not necessarily a zero operator"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72362,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If the integral operator I:c\\left[ 0,1\\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion , on the space of all contnuous functions on \\left[ 0,1\\right] defined by f(x)=\\int_{0}^{1}x\\left( t\\right) dt, is a linear functional, then % \\left\\vert f\\left( x\\right) \\right\\vert \\leq ",
+        "op": [
+            "1",
+            "\\left\\Vert x\\right\\Vert",
+            "\\underset{0\\leq t\\leq 1}{\\max }\\left\\vert x\\left( t\\right) \\right\\vert",
+            "\\left\\vert x\\right\\vert"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72365,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "On a normed space X, for the zero operator O:X\\rightarrow X,\\left\\Vert O\\right\\Vert =\\underset{\\underset{x\\neq 0}{x\\in D\\left( I\\right) }}{\\sup }% \\frac{\\left\\Vert Ox\\right\\Vert }{\\left\\Vert x\\right\\Vert }=________  ",
+        "op": [
+            "0",
+            "1",
+            "\\left\\Vert x\\right\\Vert",
+            "\\left\\Vert kx\\right\\Vert ,k>0"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72368,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "For a fixed $k=\\left( k_{i}\\right) _{i=1}^{\\infty }\\in l^{2},$ defining the linear functional $f:l^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ as $f\\left( x\\right) =\\sum_{i=1}^{\\infty }x_{i}k_{i},~\\forall \\left( x_{i}\\right) _{i=1}^{\\infty }\\in l^{2},$ then $\\left\\vert f\\left( x\\right) \\right\\vert \\leq $ ",
+        "op": [
+            "$\\left\\vert x\\right\\vert \\left\\vert k\\right\\vert $",
+            "$\\left\\vert f\\right\\vert \\left\\vert x\\right\\vert $",
+            "$\\left\\Vert x\\right\\Vert \\left\\Vert k\\right\\Vert ~$",
+            "$\\left\\Vert f\\right\\Vert \\left\\Vert k\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72377,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "Since a bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as; $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert ,$ then $\\ \\left\\Vert T\\right\\Vert =$__________. ",
+        "op": [
+            "None of these",
+            "both $\\underset{\\underset{\\times \\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$ and $\\underset{\\underset{% \\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }\\left\\Vert Tx\\right\\Vert $",
+            "$\\underset{\\underset{\\left\\Vert x\\right\\Vert =1}{x\\in D(T)}}{\\sup }% \\left\\Vert Tx\\right\\Vert $",
+            "$\\underset{\\underset{\\times \\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72379,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "A bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as; $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert.$If $D\\left( T\\right) =\\{0\\}, $ then $\\left\\Vert T\\right\\Vert =$  ",
+        "op": [
+            "$\\infty $",
+            "$k^{2}$",
+            "$0$",
+            "$\\frac{1}{k}$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72380,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "T is a linear operator . If ${T^{ - 1}}$ exists, it is a",
+        "op": [
+            "non linear operator.",
+            "discontinuous operator.",
+            "linear operator.",
+            "Zero operator."
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72422,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": "Let T:X\\rightarrow Y be an invertible linear operator from X to Y, where \\dim X,\\dim Y<\\infty , then ",
+        "op": [
+            "\\dim X>\\dim Y",
+            "\\dim X<\\dim Y",
+            "\\dim X=\\dim Y",
+            "\\dim X=-\\dim Y"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72424,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": "Let $T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ be defined by $T\\left( x\\right) =x^{2}$, then the restriction $T_{|A}$ is one-one on $A=$ ",
+        "op": [
+            "$\\left( -\\infty ,1\\right) $",
+            "$\\left( -\\infty ,0\\right) $",
+            "$\\left( -1,\\infty \\right) $",
+            "$\\left( -\\infty ,\\infty \\right) $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72428,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": "If $T:% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{2}\\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ~$is defined by $T\\left( x,y\\right) =y-x,$ then $T^{-1}\\left( 6\\right) =\\left\\{ \\left( t,t-6\\right) :t\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\right\\} \\Longrightarrow $ ",
+        "op": [
+            "$T$ is not one-one",
+            "$T$ is one-one"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72430,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": " Since a bounded linear operator $T$ from the normed space $X$ to normed space $Y$ is defined and given as; $\\forall x\\in D\\left( T\\right) $ $\\exists $ $k>0,$ such that $\\left\\Vert Tx\\right\\Vert \\leq k\\left\\Vert x\\right\\Vert ,$ then the maximum value of $k$ is__________.  ",
+        "op": [
+            "any arbitrary non negative real number",
+            "not defined",
+            "$\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\inf }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$",
+            "$\\underset{\\underset{X\\neq 0}{x\\in D(T)}}{\\sup }\\frac{\\left\\Vert Tx\\right\\Vert }{\\left\\Vert x\\right\\Vert }$"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72431,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": "If $T$ is a linear opertor on a finite dimensional normed space $X$ having basis $\\left\\{ e_{1},e_{2},\\ldots ,e_{n}\\right\\} ,$then for any $x\\in X$ $\\exists ~\\left\\{ \\alpha _{i}\\right\\} _{i=1}^{n},$ $x=\\sum_{i=1}^{n}% \\alpha _{i}e_{i},$ then $\\left\\Vert T\\left( \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right) \\right\\Vert $ ",
+        "op": [
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert e_{i}\\right\\Vert $",
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert T\\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert $",
+            "$\\leq T\\left\\Vert \\sum_{i=1}^{n}\\alpha _{i}e_{i}\\right\\Vert $",
+            "$\\leq \\sum_{i=1}^{n}\\left\\vert \\alpha _{i}\\right\\vert \\left\\Vert Te_{i}\\right\\Vert $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72452,
+        "cc": "MTH641",
+        "qn": "3",
+        "dt": "02 January 2026",
+        "qt": "For a fixed $t\\in \\left[ 0,1\\right] ,$ defining the linear functional on the class of all continous functions on $\\left[ 0,1\\right] ,$ $f:c\\left[ 0,1% \\right] \\rightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ as $f\\left( x\\right) =x\\left( t\\right) ,~\\forall x\\in c\\left[ 0,1\\right] ,$ then $\\left\\Vert f\\right\\Vert =$ ",
+        "op": [
+            "$\\underset{t\\in \\left[ 0,1\\right] }{\\min }x\\left( t\\right) $",
+            "$1$",
+            "$0$",
+            "$\\underset{t\\in \\left[ 0,1\\right] }{\\max }x\\left( t\\right) $"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    },
+    {
+        "id": 72927,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "For an element x belongs to an inner product space , \\left\\langle {x,x} \\right\\rangle = ......... if and only if x=0. ",
+        "op": [
+            "0",
+            "infinity",
+            "less than 0",
+            "greater than 0"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72928,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": " The following expression represents ……… inequality \\frac{{|x - z|}}{{1 + |x - z|}} \\leqslant \\frac{{|x - y|}}{{1 + |x - y|}} + \\frac{{|y - z|}}{{1 + |y - z|}}",
+        "op": [
+            "Rectangle inequality",
+            "Triangular inequality",
+            "Minkowski’s inequality",
+            "Holder’s inequality"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72929,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Dual space of l^1 is",
+        "op": [
+            "{\\ R}",
+            "{\\ R}^n",
+            "l^1",
+            "l^\\infty \\,"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72930,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Dual space of {\\ R}^n is",
+        "op": [
+            "{\\Bbb C}^n",
+            "{\\ R}^n",
+            "{\\Bbb Z}^n",
+            "{\\ R}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72962,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "For an inner product space defined on a real vector space \\left\\langle {x,y} \\right\\rangle = ......... ",
+        "op": [
+            "{\\left\\langle {y,x} \\right\\rangle }",
+            "{\\left\\langle { - y,x} \\right\\rangle }",
+            "{\\left\\langle {x,y} \\right\\rangle }",
+            "{\\left\\langle {y, - x} \\right\\rangle }"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72964,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "This following expression {\\mkern 1mu} {\\left\\| {x + y} \\right\\|^2} + {\\left\\| {x - y} \\right\\|^2} = 2({\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2}) is called........ ",
+        "op": [
+            "Parallelogram equality",
+            "Pythagorean theorem",
+            "Cauchy schwarz inequality",
+            "Apollonius identity"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72965,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "The pair (V, < .\\,,\\,. > ) is called",
+        "op": [
+            "Inner product space.",
+            "Banach space.",
+            "Metric space.",
+            "Complete space."
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 72966,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "In an Inner Product space say X,~for any sequences \\left\\{ x_{n}\\right\\} and \\left\\{ y_{n}\\right\\} , if x_{n}\\longrightarrow x and y_{n}\\longrightarrow y, then --------. ",
+        "op": [
+            "\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle =2\\left\\langle x,y\\right\\rangle",
+            "\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow \\left\\langle x,y\\right\\rangle",
+            "\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\neq \\left\\langle x,y\\right\\rangle",
+            "\\nRightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow< \\left\\langle x,y\\right\\rangle"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73020,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "<p>In an Inner Product space say X,~if the sequences \\left\\{ x_{n}\\right\\} and \\left\\{ y_{n}\\right\\} are Cauchy, then \\left\\langle<x_{n},y_{n}\\right\\rangle is ---------.</p> ",
+        "op": [
+            "none of these",
+            "may or may not a Cauchy Sequence",
+            "not necessarily a Cauchy Sequence",
+            "necessarily a Cauchy Sequence"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73021,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Let \\left( {V,\\left\\langle {.,.} \\right\\rangle } \\right) be an inner product space over a field F, then ......",
+        "op": [
+            "\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {y,x} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.",
+            "\\left\\langle {x,\\alpha .y} \\right\\rangle = \\alpha \\left\\langle {x,y} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.",
+            "\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {x,x} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F.",
+            "\\left\\langle {x,\\alpha .y} \\right\\rangle = \\bar \\alpha \\left\\langle {x,y} \\right\\rangle ,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\forall x,y \\in V,\\alpha \\in F."
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73030,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "For an inner product space {\\mkern 1mu} {\\left\\| {x + y} \\right\\|^2} + {\\left\\| {x - y} \\right\\|^2} = ........... ",
+        "op": [
+            "2({\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2})",
+            "{\\left\\| x \\right\\|^2}{\\left\\| y \\right\\|^2}",
+            "{\\left\\| x \\right\\|^2} - {\\left\\| y \\right\\|^2}",
+            "{\\left\\| x \\right\\|^2} + {\\left\\| y \\right\\|^2}"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73031,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Norm in V\\,\\,{\\text{for}}\\,\\,x\\, \\in V is defined as",
+        "op": [
+            "\\left\\| x \\right\\| = \\sqrt { < x\\,,\\,x > } \\,",
+            "\\left\\| x \\right\\| = \\left| { < x\\,,\\,x > } \\right|^2",
+            "\\left\\| x \\right\\| = \\sqrt { < x/2\\,,\\,x/2 > }",
+            "\\left\\| x \\right\\| = < x\\,,\\,x >"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73032,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "<p>In an Inner Product space say $X,~$if the sequences $\\left\\{ x_{n}\\right\\} $ and $\\left\\{ y_{n}\\right\\} $ are Cauchy, then $\\left\\langle<x_{n},y_{n}\\right\\rangle $ is ---------.</p> ",
+        "op": [
+            "may or may not a Cauchy Sequence",
+            "not necessarily a Cauchy Sequence",
+            "necessarily a Cauchy Sequence",
+            "none of these"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73035,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Norm in $$ V\\,\\,{\\text{for}}\\,\\,x\\, \\in V $$ is defined as",
+        "op": [
+            "$$ \\left\\| x \\right\\| = \\sqrt { < x/2\\,,\\,x/2 > } $$",
+            "$$ \\left\\| x \\right\\| = \\sqrt { < x\\,,\\,x > } \\, $$",
+            "$$ \\left\\| x \\right\\| = \\left| { < x\\,,\\,x > } \\right|^2 $$",
+            "$$ \\left\\| x \\right\\| = < x\\,,\\,x > $$"
+        ],
+        "created_at": "2026-07-15T13:35:26.137422+00:00"
+    },
+    {
+        "id": 73080,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "||z - x|{|^2} + ||z - y|{|^2} = \\frac{1}{2}||x - y|{|^2} + 2||z - \\frac{1}{2}(x + y)|{|^2} is called……….. ",
+        "op": [
+            "Parallelogram equality",
+            "Polarization identity",
+            "Apollonius identity",
+            "Pythagorean theorem"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73081,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "For all x, y belongs to an an inner product space\\[\\left\\langle {\\alpha x,y} \\right\\rangle = .............\\,\\]",
+        "op": [
+            "\\[\\alpha \\left\\langle {x, - y} \\right\\rangle \\]",
+            "\\[\\alpha \\left\\langle {x,y} \\right\\rangle \\]",
+            "\\[\\alpha \\left\\langle {y,x} \\right\\rangle \\]",
+            "\\[\\alpha \\left\\langle { - x,y} \\right\\rangle \\]"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73092,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Dual space of $$ l^1 $$ is",
+        "op": [
+            "$$ {\\ R}^n $$",
+            "$$ l^\\infty \\, $$",
+            "$$ {\\ R} $$",
+            "$$ l^1 $$"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73093,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "For all x, y belongs to an an inner product space\\left\\langle {\\alpha x,y} \\right\\rangle = .............\\,",
+        "op": [
+            "\\alpha \\left\\langle {y,x} \\right\\rangle",
+            "\\alpha \\left\\langle {x,y} \\right\\rangle",
+            "\\alpha \\left\\langle { - x,y} \\right\\rangle",
+            "\\alpha \\left\\langle {x, - y} \\right\\rangle"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73117,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "In an Inner Product space say $X,~$for any sequences $\\left\\{ x_{n}\\right\\} $ and $\\left\\{ y_{n}\\right\\} ,$ if $x_{n}\\longrightarrow x$ and $ y_{n}\\longrightarrow y$, then --------. ",
+        "op": [
+            "$\\nRightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow< \\left\\langle x,y\\right\\rangle $",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\neq \\left\\langle x,y\\right\\rangle $",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle =2\\left\\langle x,y\\right\\rangle $",
+            "$\\Longrightarrow \\left\\langle x_{n},y_{n}\\right\\rangle \\longrightarrow \\left\\langle x,y\\right\\rangle $"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73270,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "07 January 2026",
+        "qt": "The pair $$ (V, < .\\,,\\,. > ) $$ is called",
+        "op": [
+            "Inner product space.",
+            "Metric space.",
+            "Banach space.",
+            "Complete space."
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73700,
+        "cc": "MTH641",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In an inner product space $X$ over the field $F$,$ \\langle x ,z \\rangle = \\langle y ,z \\rangle $",
+        "op": [
+            "$ \\Rightarrow $x=y, for some z$ \\in X$",
+            "$ \\nRightarrow $x=y, for all z$ \\in X$",
+            "$ \\Rightarrow $x$ \\neq $y, for all z$ \\in X$",
+            "⇒x≠y, for all z∈X"
+        ],
+        "created_at": "2026-07-15T13:53:48.446846+00:00"
+    }
+]

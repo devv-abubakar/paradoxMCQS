@@ -1,0 +1,1288 @@
+[
+    {
+        "id": 20097,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The derivative of a zero order tensor becomes a …………. order tensor.",
+        "op": [
+            "zeroth",
+            "first",
+            "second",
+            "third"
+        ],
+        "created_at": "2026-06-23T20:17:16.266851+00:00"
+    },
+    {
+        "id": 20098,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant differentiation of a tensor with constant components is zero.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-23T20:17:26.231619+00:00"
+    },
+    {
+        "id": 20099,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In generalized curvilinear coordinates the gradient of scalar function $\\phi=\\phi(x^{i})$ is defined as _______________.",
+        "op": [
+            "$\\nabla\\phi=\\frac{\\partial\\phi}{\\partial x^{i}}\\hat{e}_{i}$",
+            "$\\nabla\\phi=\\partial\\phi \\hat{e}_{i}$",
+            "$\\nabla\\phi=\\frac{\\partial x^{i}}{\\partial\\phi}$",
+            "$\\nabla\\phi=\\frac{\\partial\\phi}{\\partial x^{i}}$"
+        ],
+        "created_at": "2026-06-23T20:17:50.420402+00:00"
+    },
+    {
+        "id": 20100,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The Christoffel symbols of first kind satisfy the transformation law of a third rank tensor.",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-23T20:18:17.689708+00:00"
+    },
+    {
+        "id": 20101,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant derivative and partial derivatives coincide when __________ are constant.",
+        "op": [
+            "Christoffel symbols",
+            "all components of metric tensor"
+        ],
+        "created_at": "2026-06-23T20:18:33.641112+00:00"
+    },
+    {
+        "id": 20103,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In the notation $\\Gamma_{ij}^{k}$ of Christoffel symbol of second, the symbol $k$ tells____________",
+        "op": [
+            "which coordinate is being varied to cause a change in the basis vector",
+            "which basis vector points in the direction of this component of the derivative vector",
+            "none of these",
+            "which basis vector's change is being considered"
+        ],
+        "created_at": "2026-06-23T20:18:50.487376+00:00"
+    },
+    {
+        "id": 20104,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following expressions correctly defines the Christoffel symbols of the first kind?",
+        "op": [
+            "$${\\Gamma _{ijk}} = \\frac{1}{2}\\left( { - {g_{ij,k}} + {g_{jk,i}}} \\right)$$",
+            "$${\\Gamma _{ijk}} = \\frac{1}{2}\\left( {{g_{ij,k}} + {g_{jk,i}} + {g_{ki,j}}} \\right)$$",
+            "$${\\Gamma _{ijk}} = \\frac{1}{2}\\left( { - {g_{ij,k}} + {g_{jk,i}} + {g_{ij,j}}} \\right)$$",
+            "$${\\Gamma _{ijk}} = \\frac{1}{2}\\left( { - {g_{ij,k}} + {g_{jk,i}} + {g_{ki,j}}} \\right)$$"
+        ],
+        "created_at": "2026-06-23T20:19:11.353481+00:00"
+    },
+    {
+        "id": 20105,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the Laplacian of a scalar field 𝜙 in curvilinear coordinates using covariant differentiation?",
+        "op": [
+            "$\\nabla \\phi = {\\left( {\\frac{{\\partial \\phi }}{{\\partial {x^i}}}} \\right)_{,i}}$",
+            "$\\nabla .\\nabla \\phi = {\\left( {\\frac{{\\partial \\phi }}{{\\partial {x^i}}}} \\right)_{;i}}$",
+            "$\\nabla \\times \\nabla \\phi = {\\left( {\\frac{{\\partial \\phi }}{{\\partial {x^i}}}} \\right)_{;i}}$",
+            "$\\nabla \\phi = \\left( {\\frac{{\\partial \\phi }}{{\\partial {x^i}}}} \\right)$"
+        ],
+        "created_at": "2026-06-23T20:19:30.365781+00:00"
+    },
+    {
+        "id": 20106,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant derivative of a tensor of order $n$ is a tensor of order __________.",
+        "op": [
+            "$2n$",
+            "$n-1$",
+            "$n$",
+            "$n+1$"
+        ],
+        "created_at": "2026-06-23T20:20:33.797843+00:00"
+    },
+    {
+        "id": 20170,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The Christoffel symbols of first kind $\\Gamma_{ijk}$ are symmetric in_____________.",
+        "op": [
+            "first two indices",
+            "all indices",
+            "first and third indices",
+            "second and third indices"
+        ],
+        "created_at": "2026-06-23T20:54:16.906973+00:00"
+    },
+    {
+        "id": 20171,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "For a diagonal metric which of the following is true?",
+        "op": [
+            "$\\Gamma_{iii}=\\frac{1}{2}g_{ij,j}$",
+            "$\\Gamma_{iii}=\\frac{1}{2}g_{ii,i}$"
+        ],
+        "created_at": "2026-06-23T20:54:37.484203+00:00"
+    },
+    {
+        "id": 20173,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In Cartesian coordinate system all the Christoffel symbols are _______________.",
+        "op": [
+            "vanish",
+            "equal",
+            "all options are true",
+            "zero"
+        ],
+        "created_at": "2026-06-23T20:55:00.2763+00:00"
+    },
+    {
+        "id": 20174,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is true for basis vectors in general curvilinear coordinates systems?",
+        "op": [
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=0$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\Gamma^{k}_{ij}$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\vec{e}_{k}$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\Gamma^{k}_{ij}\\vec{e}_{k}$"
+        ],
+        "created_at": "2026-06-23T20:55:10.505631+00:00"
+    },
+    {
+        "id": 20175,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How are Christoffel symbols of first kind denoted?",
+        "op": [
+            "$${\\Gamma _{ijk}}$$",
+            "$$\\Gamma _{jk}^i$$",
+            "$$\\gamma {}_{ijk}$$",
+            "$$\\Gamma _i^{jk}$$"
+        ],
+        "created_at": "2026-06-23T20:55:21.251226+00:00"
+    },
+    {
+        "id": 20176,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The Christoffel symbols of second kind are symmetric in__________.",
+        "op": [
+            "all indices",
+            "lower indices"
+        ],
+        "created_at": "2026-06-23T20:55:35.191225+00:00"
+    },
+    {
+        "id": 20327,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the covariant derivative of a tensor $T_j^i$ with respect to ${x^k}$ in any coordinate system ${x^i}$?",
+        "op": [
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^iT_j^t + \\Gamma _{jk}^tT_t^i$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{jk}^tT_{jt}^i$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^{it}$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^t - \\Gamma _{jk}^tT_t^i$"
+        ],
+        "created_at": "2026-06-24T00:23:46.785687+00:00"
+    },
+    {
+        "id": 20328,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the covariant derivative of a contravariant vector ${T^i}$ with respect to ${x^k}$ in any coordinate system ${x^i}$?",
+        "op": [
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i{T^j}$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - \\Gamma _{jk}^i{T^j}$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - {\\Gamma _{ijk}}{T^j}$"
+        ],
+        "created_at": "2026-06-24T00:24:11.763668+00:00"
+    },
+    {
+        "id": 20329,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following values represent the covariant derivative of kronecker delta $\\delta _j^i$ with respect to coordinate ${x^k}$?",
+        "op": [
+            "0",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t$",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} + \\Gamma _{jk}^t\\delta _t^i$",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t + \\Gamma _{jk}^t\\delta _t^i$"
+        ],
+        "created_at": "2026-06-24T00:27:03.325609+00:00"
+    },
+    {
+        "id": 20330,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The ordinary derivative of a tensor is a tensor if and only if coordinate changes are restricted to __________________.",
+        "op": [
+            "none of these",
+            "non-linear transformations",
+            "quadratic transformations",
+            "linear transformations"
+        ],
+        "created_at": "2026-06-24T00:27:31.103677+00:00"
+    },
+    {
+        "id": 20331,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In any coordinate system $x^{i}$, the covariant derivative with respect to $x^{k}$ of a covariant vector $T_{i}$ is defined as______________",
+        "op": [
+            "$T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{t}_{ik}$",
+            "$T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}+\\Gamma^{t}_{ik}T_{t}$",
+            "$T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{t}_{ik}T_{t}$",
+            "$T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{i}_{ik}T_{t}$"
+        ],
+        "created_at": "2026-06-24T00:40:03.082328+00:00"
+    },
+    {
+        "id": 20332,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In generalized curvilinear coordinates the divergence of vector point function $A^{i}=A^{i}(x^{i})$ is defined as___________.",
+        "op": [
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}$",
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{k}_{ii}A^{k}$",
+            "$div(A^{i})=A_{i,i}+\\Gamma^{i}_{ik}A^{k}$",
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}A^{k}$"
+        ],
+        "created_at": "2026-06-24T00:40:32.718536+00:00"
+    },
+    {
+        "id": 20333,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The Christoffel symbols of first and second kind are equal in any coordinate system.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-24T00:40:54.785079+00:00"
+    },
+    {
+        "id": 20334,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Christoffel symbols of first and second kind include derivatives of ___________.",
+        "op": [
+            "normal vectors",
+            "metric tensor",
+            "unit vectors",
+            "basis vectors"
+        ],
+        "created_at": "2026-06-24T00:41:02.732888+00:00"
+    },
+    {
+        "id": 20372,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the curl of a vector field 𝐴𝑖 in curvilinear coordinates using covariant differentiation?",
+        "op": [
+            "${\\left[ {\\nabla \\times \\mathord{\\buildrel{\\lower3pt\\hbox{$\\scriptscriptstyle\\rightharpoonup$}} \\over A} } \\right]_i} = {\\varepsilon _{ijk}}{A_{k;j}}$",
+            "$\\left[ {\\nabla \\times \\mathord{\\buildrel{\\lower3pt\\hbox{$\\scriptscriptstyle\\rightharpoonup$}} \\over A} } \\right] = {\\varepsilon _{ijk}}{A_{i;j}}$",
+            "${\\left[ {\\nabla .\\mathord{\\buildrel{\\lower3pt\\hbox{$\\scriptscriptstyle\\rightharpoonup$}} \\over A} } \\right]_i} = {\\varepsilon _{ijk}}{A_{i;j}}$",
+            "$\\left[ {\\nabla .\\mathord{\\buildrel{\\lower3pt\\hbox{$\\scriptscriptstyle\\rightharpoonup$}} \\over A} } \\right] = {\\varepsilon _{ijk}}{A_{i;j}}$"
+        ],
+        "created_at": "2026-06-24T01:58:52.347304+00:00"
+    },
+    {
+        "id": 20373,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant differentiation of metric tensor is _____________________.",
+        "op": [
+            "zero in all coordinate systems",
+            "zero in rectangular Cartesian coordinates only"
+        ],
+        "created_at": "2026-06-24T01:59:29.589661+00:00"
+    },
+    {
+        "id": 20526,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The ordinary derivative of a tensor is a tensor in general.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-24T04:43:25.04707+00:00"
+    },
+    {
+        "id": 20527,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In curvilinear coordinates the derivative of a vector also includes_____________________.",
+        "op": [
+            "the derivatives of basis vectors",
+            "the derivatives of unit vectors"
+        ],
+        "created_at": "2026-06-24T04:44:30.991779+00:00"
+    },
+    {
+        "id": 20588,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant derivative of an arbitrary tensor is a tensor.",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-06-24T05:36:32.002763+00:00"
+    },
+    {
+        "id": 20636,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Christoffel symbols of first kind are related to second kind as ……………..",
+        "op": [
+            "$$\\Gamma _{jk}^i = {g_{ir}}{\\Gamma _{jkr}}$$",
+            "$$\\Gamma _{jk}^i = {g^{ir}}{\\Gamma _{jkr}} + {g_{ir}}{\\Gamma _{jkr}}$$",
+            "$$\\Gamma _{jk}^i = {g^{ir}}{\\Gamma _{jkr}}$$",
+            "$$\\Gamma _{jk}^i = {\\Gamma _{ijk}}$$"
+        ],
+        "created_at": "2026-06-24T06:41:39.488572+00:00"
+    },
+    {
+        "id": 36891,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "How Riemann tensor of second kind is converted into Riemann tensor of first kind?",
+        "op": [
+            "Lowering two index with the metric tensor.",
+            "Lowering an index with the metric tensor.",
+            "Raising an index with the metric tensor.",
+            "Raising two index with the metric tensor."
+        ],
+        "created_at": "2026-07-01T19:39:33.308479+00:00"
+    },
+    {
+        "id": 36893,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "$${\\text{Which of the following quantities are obtained, when }}\\tau {\\text{ - derivatives is replaced by }}t{\\text{ - derivatives in the expressions of the velocity and acceleration}}?$$",
+        "op": [
+            "Proper time and velocity.",
+            "Proper time and speed of light.",
+            "Relativistic velocity and acceleration.",
+            "Proper velocity and acceleration."
+        ],
+        "created_at": "2026-07-01T19:39:50.150783+00:00"
+    },
+    {
+        "id": 36894,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Any 4 × 4 matrix that preserves the quadratic form ------------- is called the Lorentz?",
+        "op": [
+            "$${A^{ - 1}}G$$",
+            "$${A^t}GA$$",
+            "$${A^{ - 1}}GA$$",
+            "$$A{G^{{\\text{ }}t}}A$$"
+        ],
+        "created_at": "2026-07-01T19:39:56.841008+00:00"
+    },
+    {
+        "id": 36895,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Under which operation the set of Lorentz matrices form a group called the Lorentz group?",
+        "op": [
+            "All of these",
+            "Addition of Matrices",
+            "Subtraction of Matrices",
+            "Multiplication of Matrices"
+        ],
+        "created_at": "2026-07-01T19:40:03.242428+00:00"
+    },
+    {
+        "id": 36896,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "In a curvilinear coordinate system, the straight lines are called __________.",
+        "op": [
+            "tangents",
+            "normals",
+            "geodesics",
+            "none of these options"
+        ],
+        "created_at": "2026-07-01T19:40:10.711113+00:00"
+    },
+    {
+        "id": 36897,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "$${\\text{In the inverse Lorentz form, the 4 }} \\times {\\text{ 4 matrix is typically represented as:}}$$",
+        "op": [
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&{ - 1}&0 \\\\ 0&0&0&{ - 1} \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} 1&0&0&0 \\\\ 0&1&0&0 \\\\ 0&0&b&a \\\\ 0&0&a&b \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&{ - b}&0&0 \\\\ { - b}&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]$$"
+        ],
+        "created_at": "2026-07-01T19:40:16.870714+00:00"
+    },
+    {
+        "id": 36898,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "In Special Relativity, an event is defined as:",
+        "op": [
+            "A group of events occurring together.",
+            "A path an object takes through space.",
+            "A single point in space.",
+            "A specific location and time when something happens."
+        ],
+        "created_at": "2026-07-01T19:40:24.110477+00:00"
+    },
+    {
+        "id": 36899,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The basic rules for differentiation from Calculus carry over to covariant differentiation but do not fully apply to absolute differentiation.",
+        "op": [
+            "false",
+            "true"
+        ],
+        "created_at": "2026-07-01T19:40:35.06632+00:00"
+    },
+    {
+        "id": 36900,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following expression shows the relation between Riemann tensor of first kind and second kind?",
+        "op": [
+            "$${R_{ijkl}} = {g^{kl}}R_{ikl}^r$$",
+            "$${R_{ijkl}} = {g_{ij}}{g_{kl}}$$",
+            "$${R_{ijkl}} = {g_{ir}}R_{ikl}^r$$",
+            "$${R_{ijkl}} = {g_{ij}}R_{kl}^r$$"
+        ],
+        "created_at": "2026-07-01T19:40:41.992962+00:00"
+    },
+    {
+        "id": 36901,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is the correct mathematical form of the Bianchi identity?",
+        "op": [
+            "$${\\nabla _k}{R_{ij}} - {\\nabla _i}{R_{jk}} + {\\nabla _{j}}{R_{ki}} = 0$$",
+            "$$R_{jkl}^i = - R_{jkl}^i$$",
+            "$${R_{ijkl}} = - {R_{jikl}}$$",
+            "$${R_{ijkl}} + {R_{iklj}} + {R_{iljk}} = 0$$"
+        ],
+        "created_at": "2026-07-01T19:41:03.587577+00:00"
+    },
+    {
+        "id": 36934,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which expression is obtained by interchanging k and l in this term Rijkl ?",
+        "op": [
+            "Rijkl = gklRijkl",
+            "Rijkl = - Rijlk",
+            "Rijkl = - Riklj",
+            "Rijkl = -glk Rijkl"
+        ],
+        "created_at": "2026-07-01T20:08:26.97561+00:00"
+    },
+    {
+        "id": 36935,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The acceleration in terms of metric tensor is defined as _________",
+        "op": [
+            "$a=\\sqrt{|g_{ij}a_{i}a_{j}|}$",
+            "$a=\\sqrt{|g_{ii}a^{i}a^{i}|}$",
+            "$a=\\sqrt{|g_{ij}a^{i}a^{j}|}$",
+            "$a=\\sqrt{|g^{ij}a^{i}a^{j}|}$"
+        ],
+        "created_at": "2026-07-01T20:08:38.147386+00:00"
+    },
+    {
+        "id": 36936,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is true about an inertial frame of reference?",
+        "op": [
+            "It moves with uniform velocity or remains at rest.",
+            "It experiences non-uniform acceleration.",
+            "It is always at rest.",
+            "It is stationary in space."
+        ],
+        "created_at": "2026-07-01T20:08:48.007138+00:00"
+    },
+    {
+        "id": 36937,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "How is the Ricci scalar computed?",
+        "op": [
+            "By integrating the Ricci tensor over the manifold",
+            "By multiplying the metric tensor by the Riemann tensor",
+            "By contracting the Ricci tensor with the metric tensor",
+            "By differentiating the Riemann tensor"
+        ],
+        "created_at": "2026-07-01T20:09:03.750884+00:00"
+    },
+    {
+        "id": 36938,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The simple Lorentz matrix of 4 × 4 order is typically represented as:",
+        "op": [
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&{ - 1}&0 \\\\ 0&0&0&{ - 1} \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} 1&0&0&0 \\\\ 0&1&0&0 \\\\ 0&0&b&a \\\\ 0&0&a&b \\end{array}} \\right]$$",
+            "$$\\left[ {\\begin{array}{*{20}{c}} a&{ - b}&0&0 \\\\ { - b}&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]$$"
+        ],
+        "created_at": "2026-07-01T20:09:11.756273+00:00"
+    },
+    {
+        "id": 36939,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following best describes the event space in Special Relativity?",
+        "op": [
+            "A four-dimensional space combining three spatial dimensions and one time dimension.",
+            "A space where only spatial coordinates are considered.",
+            "A plane where events occur at the same time.",
+            "A three-dimensional space defined by an inertial observer."
+        ],
+        "created_at": "2026-07-01T20:09:27.708321+00:00"
+    },
+    {
+        "id": 36940,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The Ricci tensor is obtained by contracting which tensor?",
+        "op": [
+            "Riemann tensor",
+            "Metric tensor",
+            "Einstein tensor",
+            "Christoffel symbols"
+        ],
+        "created_at": "2026-07-01T20:09:41.706526+00:00"
+    },
+    {
+        "id": 36941,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The arc length parameter is defined as ___________.",
+        "op": [
+            "$s(t)=\\int_{a}^{t}\\sqrt{\\delta_{ii}\\frac{dx^{i}}{dt}\\frac{dx^{i}}{dt}}$",
+            "$s(t)=\\int_{a}^{t}\\sqrt{\\delta_{ij}\\frac{dx^{i}}{dt}\\frac{dx^{j}}{dt}}$",
+            "$s(t)=\\int_{a}^{t}\\sqrt{\\frac{dx^{i}}{dt}\\frac{dx^{j}}{dt}}$",
+            "$s(t)=\\sqrt{\\delta_{ij}\\frac{dx^{i}}{dt}\\frac{dx^{j}}{dt}}$"
+        ],
+        "created_at": "2026-07-01T20:10:07.575505+00:00"
+    },
+    {
+        "id": 36942,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is NOT an example of an inertial frame of reference?",
+        "op": [
+            "A stationary observer on Earth ignoring Earth's rotation.",
+            "A car moving at constant velocity.",
+            "An accelerating train.",
+            "A spaceship in deep space far from any gravitational influence."
+        ],
+        "created_at": "2026-07-01T20:10:17.485823+00:00"
+    },
+    {
+        "id": 37146,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Copositional events in Special Relativity have a spacelike interval.",
+        "op": [
+            "false",
+            "true"
+        ],
+        "created_at": "2026-07-01T23:17:02.275284+00:00"
+    },
+    {
+        "id": 37147,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "$${\\text{What is the expression for the relativistic mass }}\\hat m{\\text{ if }}m{\\text{ is rest mass of the particle?}}$$",
+        "op": [
+            "$$m = \\frac{{\\hat m}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}$$",
+            "$$\\hat m = \\frac{{mv}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}$$",
+            "$$\\hat m = \\frac{{mc}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}$$",
+            "$$\\hat m = \\frac{m}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}$$"
+        ],
+        "created_at": "2026-07-01T23:17:37.915975+00:00"
+    },
+    {
+        "id": 37148,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The matrix form of Minkowski spacetime is a _____________.",
+        "op": [
+            "diagonal matrix",
+            "identity matrix",
+            "null matrix",
+            "scalar matrix"
+        ],
+        "created_at": "2026-07-01T23:18:08.778007+00:00"
+    },
+    {
+        "id": 37182,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which of the following is the correct mathematical form of the second skew symmetry of Riemann tensor?",
+        "op": [
+            "$$R_{jkl}^i = - R_{jkl}^i$$",
+            "$${R_{ijkl}} + {R_{iklj}} + {R_{iljk}} = 0$$",
+            "$${R_{ijkl}} = - {R_{ijlk}}$$",
+            "$${R_{ijkl}} = {R_{klij}}$$"
+        ],
+        "created_at": "2026-07-02T00:14:19.050713+00:00"
+    },
+    {
+        "id": 37184,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "For a lightlike interval:",
+        "op": [
+            "$ds^{2}=0$",
+            "all options are correct",
+            "$(dx^{0})^{2}=(dx^{1})^{2}+(dx^{2})^{2}+(dx^{3})^{2}$",
+            "$(dx^{0})^{2}=\\Sigma_{i=1}^{3}(dx^{i})^{2}$"
+        ],
+        "created_at": "2026-07-02T00:14:39.57491+00:00"
+    },
+    {
+        "id": 37185,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The absolute derivative of $T^{i}$ along the curve $C: x^{i}=x^{i}(t)$ is defined as:",
+        "op": [
+            "$\\frac{\\delta T^{i}}{\\delta t}=\\frac{\\partial T^{i}}{\\partial t}+\\Gamma^{i}_{rs}T^{s}$",
+            "$\\frac{\\delta T^{i}}{\\delta t}=\\frac{dT^{i}}{dt}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}$",
+            "$\\frac{\\delta T^{i}}{\\delta t}=\\frac{\\partial T^{i}}{\\partial t}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}$",
+            "$\\frac{\\partial T^{i}}{\\partial t}=\\frac{dT^{i}}{dt}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}$"
+        ],
+        "created_at": "2026-07-02T00:14:56.218152+00:00"
+    },
+    {
+        "id": 37186,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Minkowski spacetime is defined as:",
+        "op": [
+            "$g_{\\mu\\nu}=(dx^{0})^{2}-\\Sigma_{i=0}^{3}(dx^{i})^{2}$",
+            "$g_{\\mu\\nu}=\\Sigma_{i=0}^{3}(dx^{i})^{2}$",
+            "$g_{\\mu\\nu}=(dx^{0})^{2}-\\Sigma_{i=1}^{3}(dx^{i})^{2}$",
+            "$g_{\\mu\\nu}=(dx^{0})^{2}-(dx^{i})^{2}$"
+        ],
+        "created_at": "2026-07-02T00:15:46.852396+00:00"
+    },
+    {
+        "id": 37187,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The torsion is zero in the spaces where _________.",
+        "op": [
+            "$\\Gamma^{\\alpha}_{\\beta\\gamma}=\\Gamma^{\\alpha}_{\\gamma\\beta}$",
+            "$\\Gamma^{\\alpha}_{\\alpha\\gamma}=\\Gamma^{\\alpha}_{\\gamma\\alpha}$",
+            "$\\Gamma^{\\alpha}_{\\beta\\gamma}=-\\Gamma^{\\alpha}_{\\gamma\\beta}$",
+            "$\\Gamma^{\\alpha}_{\\beta\\gamma}=0$"
+        ],
+        "created_at": "2026-07-02T00:16:28.998978+00:00"
+    },
+    {
+        "id": 37269,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "What is true for unit sphere?",
+        "op": [
+            "r = 1",
+            "r = 0",
+            "r = 2",
+            "r = -1"
+        ],
+        "created_at": "2026-07-02T02:31:55.307821+00:00"
+    },
+    {
+        "id": 37273,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "If a flash of light occurs at (0, 0, 0) and time t = 0 which of the following equation describes the expanding spherical wave front?",
+        "op": [
+            "x2+y2+z2= c2t",
+            "x2+y2+z2= t2",
+            "x2+y2+z2= c2",
+            "x2+y2+z2= c2t2"
+        ],
+        "created_at": "2026-07-02T02:34:38.685512+00:00"
+    },
+    {
+        "id": 37285,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "What is a four vector in the special relativity?",
+        "op": [
+            "A vector that only exists in non-relativistic physics.",
+            "A vector in three-dimensional space.",
+            "A vector with three spatial components and one time component.",
+            "A vector with four spatial components."
+        ],
+        "created_at": "2026-07-02T02:55:02.171068+00:00"
+    },
+    {
+        "id": 37287,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "For a spacelike interval:",
+        "op": [
+            "all options are correct",
+            "$(dx^{0})^{2}<\\Sigma_{i=1}^{3}(dx^{i})^{2}$",
+            "$(dx^{0})^{2}<(dx^{1})^{2}+(dx^{2})^{2}+(dx^{3})^{2}$",
+            "$ds^{2}<0$"
+        ],
+        "created_at": "2026-07-02T02:56:22.339174+00:00"
+    },
+    {
+        "id": 37291,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The curvature of the curve $C: x^{i}=x^{i}(t)$, is defined as ___________.",
+        "op": [
+            "the norm of first order derivative of $x^{i}(s)$",
+            "the square root of first order derivative of $x^{i}(s)$",
+            "the norm of second order derivative of $x^{i}(s)$",
+            "the square root of second order derivative of $x^{i}(s)$"
+        ],
+        "created_at": "2026-07-02T02:57:29.25343+00:00"
+    },
+    {
+        "id": 37292,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "The absolute derivative of $T^{i}$ along the curve $C: x^{i}=x^{i}(t)$ is denoted by ___________.",
+        "op": [
+            "$dT$",
+            "$\\frac{\\partial T^{i}}{\\partial t}$",
+            "$\\frac{dT^{i}}{dt}$",
+            "$\\frac{\\delta T^{i}}{\\delta t}$"
+        ],
+        "created_at": "2026-07-02T02:57:53.40263+00:00"
+    },
+    {
+        "id": 37295,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "What happens to the length of an object when it moves close to the speed of light?",
+        "op": [
+            "It disappears.",
+            "It gets longer.",
+            "It stays the same.",
+            "It gets shorter."
+        ],
+        "created_at": "2026-07-02T02:58:31.653203+00:00"
+    },
+    {
+        "id": 37581,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Simultaneous events in Special Relativity have a spacelike interval.",
+        "op": [
+            "false",
+            "true"
+        ],
+        "created_at": "2026-07-02T05:24:12.489228+00:00"
+    },
+    {
+        "id": 37633,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "Which term is often chosen to reparameterize the proper time ?",
+        "op": [
+            "$$\\tau = \\frac{s}{c}$$",
+            "$$\\tau = \\frac{s}{{{c^2}}}$$",
+            "$$\\tau = s \\times c$$",
+            "$$\\tau = \\frac{c}{s}$$"
+        ],
+        "created_at": "2026-07-02T05:38:58.599188+00:00"
+    },
+    {
+        "id": 38186,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "02 July 2026",
+        "qt": "What does the Lorentz transformation do?",
+        "op": [
+            "It works for objects at rest.",
+            "It calculates gravity forces.",
+            "It changes space-time coordinates between two moving frames.",
+            "It only changes time."
+        ],
+        "created_at": "2026-07-02T11:31:05.27232+00:00"
+    },
+    {
+        "id": 45766,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the covariant derivative of a contravariant vector ${T^i}$ with respect to ${x^k}$ in any coordinate system ${x^i}$?",
+        "op": [
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - \\Gamma _{jk}^i{T^j}$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i{T^j}$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - {\\Gamma _{ijk}}{T^j}$",
+            "$T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i$"
+        ],
+        "created_at": "2026-06-24T17:37:40.522624+00:00"
+    },
+    {
+        "id": 45767,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In generalized curvilinear coordinates the divergence of vector point function $A^{i}=A^{i}(x^{i})$ is defined as___________.",
+        "op": [
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}A^{k}$",
+            "$div(A^{i})=A_{i,i}+\\Gamma^{i}_{ik}A^{k}$",
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}$",
+            "$div(A^{i})=A^{i}_{,i}+\\Gamma^{k}_{ii}A^{k}$"
+        ],
+        "created_at": "2026-06-24T17:38:12.097813+00:00"
+    },
+    {
+        "id": 45768,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The covariant differentiation of a scalar is equal to __________________.",
+        "op": [
+            "scalar field itself",
+            "partial derivative of scalar field"
+        ],
+        "created_at": "2026-06-24T17:39:58.847713+00:00"
+    },
+    {
+        "id": 45769,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "In the notation $\\Gamma_{ij}^{k}$ of Christoffel symbol of second, the symbol $k$ tells____________",
+        "op": [
+            "which basis vector points in the direction of this component of the derivative vector",
+            "which coordinate is being varied to cause a change in the basis vector",
+            "which basis vector's change is being considered",
+            "none of these"
+        ],
+        "created_at": "2026-06-24T17:40:56.768991+00:00"
+    },
+    {
+        "id": 45770,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following values represent the covariant derivative of kronecker delta $\\delta _j^i$ with respect to coordinate ${x^k}$?",
+        "op": [
+            "0",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t$",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t + \\Gamma _{jk}^t\\delta _t^i$",
+            "$\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} + \\Gamma _{jk}^t\\delta _t^i$"
+        ],
+        "created_at": "2026-06-24T17:41:34.930246+00:00"
+    },
+    {
+        "id": 45771,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Christoffel symbols of first kind are related to second kind as ……………..",
+        "op": [
+            "\\[\\Gamma _{jk}^i = {g^{ir}}{\\Gamma _{jkr}}\\]",
+            "\\[\\Gamma _{jk}^i = {\\Gamma _{ijk}}\\]",
+            "\\[\\Gamma _{jk}^i = {g^{ir}}{\\Gamma _{jkr}} + {g_{ir}}{\\Gamma _{jkr}}\\]",
+            "\\[\\Gamma _{jk}^i = {g_{ir}}{\\Gamma _{jkr}}\\]"
+        ],
+        "created_at": "2026-06-24T17:41:57.159332+00:00"
+    },
+    {
+        "id": 45772,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "For a diagonal metric which of the following is true?",
+        "op": [
+            "$\\Gamma_{iii}=\\frac{1}{2}g_{ii,i}$",
+            "$\\Gamma_{iii}=\\frac{1}{2}g_{ij,j}$"
+        ],
+        "created_at": "2026-06-24T17:42:15.678901+00:00"
+    },
+    {
+        "id": 45773,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "How are Christoffel symbols of first kind denoted?",
+        "op": [
+            "\\[\\Gamma _{jk}^i\\]",
+            "\\[\\Gamma _i^{jk}\\]",
+            "\\[\\gamma {}_{ijk}\\]",
+            "\\[{\\Gamma _{ijk}}\\]"
+        ],
+        "created_at": "2026-06-24T17:42:40.10985+00:00"
+    },
+    {
+        "id": 45774,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is true for basis vectors in general curvilinear coordinates systems?",
+        "op": [
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\Gamma^{k}_{ij}$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=0$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\vec{e}_{k}$",
+            "$\\frac{\\partial \\vec{e}_{j}}{\\partial x^{i}}=\\Gamma^{k}_{ij}\\vec{e}_{k}$"
+        ],
+        "created_at": "2026-06-24T17:43:08.32517+00:00"
+    },
+    {
+        "id": 45775,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following represents the covariant derivative of a tensor $T_j^i$ with respect to ${x^k}$ in any coordinate system ${x^i}$?",
+        "op": [
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{jk}^tT_{jt}^i$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^iT_j^t + \\Gamma _{jk}^tT_t^i$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^{it}$",
+            "$T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^t - \\Gamma _{jk}^tT_t^i$"
+        ],
+        "created_at": "2026-06-24T17:36:39.568556+00:00"
+    },
+    {
+        "id": 71733,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The covariant derivative of a tensor of order n is a tensor of order __________. ",
+        "op": [
+            "2n",
+            "n-1",
+            "n",
+            "n+1"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71734,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following represents the covariant derivative of a tensor T_j^i with respect to {x^k} in any coordinate system {x^i}? ",
+        "op": [
+            "T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^t - \\Gamma _{jk}^tT_t^i",
+            "T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{jk}^tT_{jt}^i",
+            "T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} + \\Gamma _{tk}^iT_j^{it}",
+            "T_{j;k}^i = \\frac{{\\partial T_j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^iT_j^t + \\Gamma _{jk}^tT_t^i"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71747,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In generalized curvilinear coordinates the divergence of vector point function A^{i}=A^{i}(x^{i}) is defined as___________. ",
+        "op": [
+            "div(A^{i})=A_{i,i}+\\Gamma^{i}_{ik}A^{k}",
+            "div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}",
+            "div(A^{i})=A^{i}_{,i}+\\Gamma^{i}_{ik}A^{k}",
+            "div(A^{i})=A^{i}_{,i}+\\Gamma^{k}_{ii}A^{k}"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71748,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following values represent the covariant derivative of kronecker delta \\delta _j^i with respect to coordinate {x^k}? ",
+        "op": [
+            "\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} + \\Gamma _{jk}^t\\delta _t^i",
+            "\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t",
+            "\\delta _{j;k}^i = \\frac{{\\partial \\delta _j^i}}{{\\partial {x^k}}} - \\Gamma _{tk}^i\\delta _j^t + \\Gamma _{jk}^t\\delta _t^i",
+            "0"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71758,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "Which of the following represents the covariant derivative of a contravariant vector {T^i} with respect to {x^k} in any coordinate system {x^i}? ",
+        "op": [
+            "T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i{T^j}",
+            "T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - {\\Gamma _{ijk}}{T^j}",
+            "T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} + \\Gamma _{jk}^i",
+            "T_{;k}^i = \\frac{{\\partial {T^i}}}{{\\partial {x^k}}} - \\Gamma _{jk}^i{T^j}"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71771,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In any coordinate system x^{i}, the covariant derivative with respect to x^{k} of a covariant vector T_{i} is defined as______________ ",
+        "op": [
+            "T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{i}_{ik}T_{t}",
+            "T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}+\\Gamma^{t}_{ik}T_{t}",
+            "T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{t}_{ik}T_{t}",
+            "T_{i;k}=\\frac{\\partial T_{i}}{\\partial x^{k}}-\\Gamma^{t}_{ik}"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71781,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "The Christoffel symbols of first kind \\Gamma_{ijk} are symmetric in_____________. ",
+        "op": [
+            "second and third indices",
+            "first two indices",
+            "first and third indices",
+            "all indices"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71794,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In generalized curvilinear coordinates the gradient of scalar function \\phi=\\phi(x^{i}) is defined as _______________. ",
+        "op": [
+            "\\nabla\\phi=\\frac{\\partial\\phi}{\\partial x^{i}}",
+            "\\nabla\\phi=\\partial\\phi \\hat{e}_{i}",
+            "\\nabla\\phi=\\frac{\\partial x^{i}}{\\partial\\phi}",
+            "\\nabla\\phi=\\frac{\\partial\\phi}{\\partial x^{i}}\\hat{e}_{i}"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 71810,
+        "cc": "MTH623",
+        "qn": "3",
+        "dt": "30 December 2025",
+        "qt": "In the notation \\Gamma_{ij}^{k} of Christoffel symbol of second, the symbol k tells____________  ",
+        "op": [
+            "which basis vector points in the direction of this component of the derivative vector",
+            "which basis vector's change is being considered",
+            "none of these",
+            "which coordinate is being varied to cause a change in the basis vector"
+        ],
+        "created_at": "2026-07-15T13:35:11.101602+00:00"
+    },
+    {
+        "id": 72614,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The curvature of the curve C: x^{i}=x^{i}(t), is defined as ___________. ",
+        "op": [
+            "the square root of first order derivative of x^{i}(s)",
+            "the square root of second order derivative of x^{i}(s)",
+            "the norm of first order derivative of x^{i}(s)",
+            "the norm of second order derivative of x^{i}(s)"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72615,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The absolute derivative of T^{i} along the curve C: x^{i}=x^{i}(t) is denoted by ___________. ",
+        "op": [
+            "\\frac{\\delta T^{i}}{\\delta t}",
+            "\\frac{\\partial T^{i}}{\\partial t}",
+            "dT",
+            "\\frac{dT^{i}}{dt}"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72648,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{Which of the following quantities are obtained, when }}\\tau {\\text{ - derivatives is replaced by }}t{\\text{ - derivatives in the expressions of the velocity and acceleration}}? ",
+        "op": [
+            "Proper time and speed of light.",
+            "Proper time and velocity.",
+            "Relativistic velocity and acceleration.",
+            "Proper velocity and acceleration."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72657,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{What is the expression for the relativistic mass }}\\hat m{\\text{ if }}m{\\text{ is rest mass of the particle?}} ",
+        "op": [
+            "\\hat m = \\frac{m}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}",
+            "\\hat m = \\frac{{mc}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}",
+            "\\hat m = \\frac{{mv}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}",
+            "m = \\frac{{\\hat m}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72663,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "The absolute derivative of T^{i} along the curve C: x^{i}=x^{i}(t) is defined as: ",
+        "op": [
+            "\\frac{\\partial T^{i}}{\\partial t}=\\frac{dT^{i}}{dt}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}",
+            "\\frac{\\delta T^{i}}{\\delta t}=\\frac{\\partial T^{i}}{\\partial t}+\\Gamma^{i}_{rs}T^{s}",
+            "\\frac{\\delta T^{i}}{\\delta t}=\\frac{dT^{i}}{dt}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}",
+            "\\frac{\\delta T^{i}}{\\delta t}=\\frac{\\partial T^{i}}{\\partial t}+\\Gamma^{i}_{rs}T^{s}\\frac{dx^{r}}{dt}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72763,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{Which of the following quantities are obtained, when }}\\tau {\\text{ - derivatives is replaced by }}t{\\text{ - derivatives in the expressions of the velocity and acceleration}}?\\] ",
+        "op": [
+            "Proper time and velocity.",
+            "Proper velocity and acceleration.",
+            "Relativistic velocity and acceleration.",
+            "Proper time and speed of light."
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72771,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{In the inverse Lorentz form, the 4 }} \\times {\\text{ 4 matrix is typically represented as:}}\\] ",
+        "op": [
+            "\\[\\left[ {\\begin{array}{*{20}{c}} a&{ - b}&0&0 \\\\  { - b}&a&0&0 \\\\  0&0&1&0 \\\\  0&0&0&1  \\end{array}} \\right]\\]",
+            "\\[\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\  b&a&0&0 \\\\  0&0&1&0 \\\\  0&0&0&1  \\end{array}} \\right]\\]",
+            "\\[\\left[ {\\begin{array}{*{20}{c}} 1&0&0&0 \\\\  0&1&0&0 \\\\  0&0&b&a \\\\  0&0&a&b  \\end{array}} \\right]\\]",
+            "\\[\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\  b&a&0&0 \\\\  0&0&{ - 1}&0 \\\\  0&0&0&{ - 1}  \\end{array}} \\right]\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72778,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "\\[{\\text{What is the expression for the relativistic mass }}\\hat m{\\text{ if }}m{\\text{ is rest mass of the particle?}}\\] ",
+        "op": [
+            "\\[\\hat m = \\frac{m}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}\\]",
+            "\\[\\hat m = \\frac{{mc}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}\\]",
+            "\\[m = \\frac{{\\hat m}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}\\]",
+            "\\[\\hat m = \\frac{{mv}}{{\\sqrt {1 - \\frac{{{{\\hat v}^2}}}{{{c^2}}}} }}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72780,
+        "cc": "MTH623",
+        "qn": "4",
+        "dt": "05 January 2026",
+        "qt": "{\\text{In the inverse Lorentz form, the 4 }} \\times {\\text{ 4 matrix is typically represented as:}} ",
+        "op": [
+            "\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]",
+            "\\left[ {\\begin{array}{*{20}{c}} 1&0&0&0 \\\\ 0&1&0&0 \\\\ 0&0&b&a \\\\ 0&0&a&b \\end{array}} \\right]",
+            "\\left[ {\\begin{array}{*{20}{c}} a&{ - b}&0&0 \\\\ { - b}&a&0&0 \\\\ 0&0&1&0 \\\\ 0&0&0&1 \\end{array}} \\right]",
+            "\\left[ {\\begin{array}{*{20}{c}} a&b&0&0 \\\\ b&a&0&0 \\\\ 0&0&{ - 1}&0 \\\\ 0&0&0&{ - 1} \\end{array}} \\right]"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    }
+]

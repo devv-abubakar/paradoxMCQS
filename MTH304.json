@@ -1,0 +1,476 @@
+[
+    {
+        "id": 19789,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If the forces on the couple are 5N each, then which of the following is the resultant of the forces acting on the couple>",
+        "op": [
+            "10",
+            "25",
+            "2.5",
+            "0"
+        ],
+        "created_at": "2026-06-23T19:12:59.974571+00:00"
+    },
+    {
+        "id": 19791,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "As we have learnt that Moment of force is F × d, so formula for weight in relevance to moment of force will be--------.",
+        "op": [
+            "mg/d",
+            "mg+d",
+            "mg-d",
+            "mg*d"
+        ],
+        "created_at": "2026-06-23T19:13:10.671532+00:00"
+    },
+    {
+        "id": 19801,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The distance between the forces acting in the couple is ____________",
+        "op": [
+            "infinity",
+            "zero",
+            "a circular loop",
+            "finite"
+        ],
+        "created_at": "2026-06-23T19:14:02.135409+00:00"
+    },
+    {
+        "id": 19802,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A couple moment is a -------- vector.",
+        "op": [
+            "del",
+            "scalar",
+            "free",
+            "gradient"
+        ],
+        "created_at": "2026-06-23T19:14:11.337588+00:00"
+    },
+    {
+        "id": 19803,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is correct for the moment of couple M caused by two forces of same magnitude F and is separated by a distance of r?",
+        "op": [
+            "M=-r.F",
+            "M=r.F",
+            "M=r*F",
+            "M=-(r*F)"
+        ],
+        "created_at": "2026-06-23T19:14:20.83861+00:00"
+    },
+    {
+        "id": 19809,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The torque depends upon........",
+        "op": [
+            "mass",
+            "both force and moment arm",
+            "force only",
+            "moment arm only"
+        ],
+        "created_at": "2026-06-23T19:14:36.521467+00:00"
+    },
+    {
+        "id": 19814,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A line along which a force act is called-----.",
+        "op": [
+            "a line of acting torque",
+            "moment arm",
+            "a line of action of force",
+            "axis of rotation"
+        ],
+        "created_at": "2026-06-23T19:14:47.248463+00:00"
+    },
+    {
+        "id": 19816,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The perpendicular distance between the axis of rotation and the line of action of the force is called the-------.",
+        "op": [
+            "moment arm",
+            "displacement",
+            "inertia",
+            "velocity"
+        ],
+        "created_at": "2026-06-23T19:14:56.882538+00:00"
+    },
+    {
+        "id": 19817,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Moment of force=--------.",
+        "op": [
+            "F - d, where F is force and d is moment arm",
+            "F + d, where F is force and d is moment arm",
+            "F/d, where F is force and d is moment arm",
+            "F*d, where F is force and d is moment arm"
+        ],
+        "created_at": "2026-06-23T19:15:05.639095+00:00"
+    },
+    {
+        "id": 19973,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "When a meter rule is not pivoted at 50 cm, its weight ……..",
+        "op": [
+            "Won’t cause a turning effect",
+            "Will cause a turning effect",
+            "Will be zero",
+            "Won’t have magnitude"
+        ],
+        "created_at": "2026-06-23T19:42:41.866164+00:00"
+    },
+    {
+        "id": 19976,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The easiest way to open a heavy door is by applying the force---------.",
+        "op": [
+            "in the middle of the door",
+            "near the hinges",
+            "at the top of the door",
+            "at the edge of the door far from hinges"
+        ],
+        "created_at": "2026-06-23T19:43:36.99476+00:00"
+    },
+    {
+        "id": 19978,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The resultant force acting in the couple is ----.",
+        "op": [
+            "twice the magnitude of single force",
+            "infinite",
+            "zero",
+            "Half the magnitude of single force"
+        ],
+        "created_at": "2026-06-23T19:43:44.679079+00:00"
+    },
+    {
+        "id": 19979,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A force of 12 N is applied perpendicularly on a spanner at a distance of 9m from a nut. The torque produced by the force will be",
+        "op": [
+            "108 Nm",
+            "5 Nm",
+            "3 Nm",
+            "21 Nm"
+        ],
+        "created_at": "2026-06-23T19:43:51.488591+00:00"
+    },
+    {
+        "id": 19980,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A nut has been tightened by a force of 180 N using an 8 cm long spanner. What length of a spanner is required to loosen the same nut with 150 N force",
+        "op": [
+            "11cm",
+            "9.6cm",
+            "8.5cm",
+            "10.9cm"
+        ],
+        "created_at": "2026-06-23T19:43:59.760786+00:00"
+    },
+    {
+        "id": 20432,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is the valid pair for the formaiton of couple",
+        "op": [
+            "5N, 6N,",
+            "4N, 5N",
+            "4N, 4N",
+            "2N, 3N"
+        ],
+        "created_at": "2026-06-24T03:07:57.871143+00:00"
+    },
+    {
+        "id": 20434,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The couple moment and the force is divided to get the distance of the axis from the point of action of the force",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-24T03:08:33.598003+00:00"
+    },
+    {
+        "id": 20435,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The resultant couple moment is ____________ sum of various couples acting on the body.",
+        "op": [
+            "Scalar Triple",
+            "Vector",
+            "dot",
+            "Scalar"
+        ],
+        "created_at": "2026-06-24T03:09:02.758768+00:00"
+    },
+    {
+        "id": 20436,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If after a slight tilt the body returns to its previous equilibrium, then it is said to be in-----.",
+        "op": [
+            "unstable equilibrium",
+            "zero equilibrium",
+            "neutral equilibrium",
+            "stable equilibrium"
+        ],
+        "created_at": "2026-06-24T03:09:43.344974+00:00"
+    },
+    {
+        "id": 20742,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If 2nd condition of equilibrium is satisfied, body will be in--------.",
+        "op": [
+            "Static equilibrium",
+            "Rotational equilibrium",
+            "Dynamic equilibrium",
+            "Translational equilibrium"
+        ],
+        "created_at": "2026-06-24T08:07:15.274402+00:00"
+    },
+    {
+        "id": 20754,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "The moment of a force is -----.",
+        "op": [
+            "base",
+            "negative",
+            "scalar",
+            "vector"
+        ],
+        "created_at": "2026-06-24T08:46:28.1229+00:00"
+    },
+    {
+        "id": 20758,
+        "cc": "MTH304",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Turning effect of force is termed as-------.",
+        "op": [
+            "Action of force",
+            "Action of torque",
+            "Moment of torque",
+            "Unstable action of force"
+        ],
+        "created_at": "2026-06-24T08:53:43.431583+00:00"
+    },
+    {
+        "id": 38879,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "A uniform rod CD of mass m is placed on two supports at A and B. If the rod is on the point of tilting about A then which of the following must be true about the reaction force at B?",
+        "op": [
+            "it would be zero",
+            "it would be -ve",
+            "it would be +ve",
+            "it cannot be deternmined"
+        ],
+        "created_at": "2026-07-02T20:25:48.83026+00:00"
+    },
+    {
+        "id": 38880,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The ability of an object to return to its original position after it has been tilted slightly is termed as-------.",
+        "op": [
+            "Equilibrium",
+            "Stability",
+            "Centre of gravity",
+            "Turning effect"
+        ],
+        "created_at": "2026-07-02T20:25:55.479692+00:00"
+    },
+    {
+        "id": 38881,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The resolved part of the force exerted by a body to another body along the tangent at the point of contact is called the ………",
+        "op": [
+            "Central force",
+            "Centripetal force",
+            "Centrifugal force",
+            "Force of friction"
+        ],
+        "created_at": "2026-07-02T20:25:59.296571+00:00"
+    },
+    {
+        "id": 38882,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "For a smooth contact, coefficient of friction is always.........",
+        "op": [
+            "1/4",
+            "1/2",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-02T20:26:04.887565+00:00"
+    },
+    {
+        "id": 38883,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The ratio of limiting friction to the normal reaction is called the ------ of the friction.",
+        "op": [
+            "coefficient",
+            "none of these",
+            "Direction",
+            "Magnitude"
+        ],
+        "created_at": "2026-07-02T20:26:10.689759+00:00"
+    },
+    {
+        "id": 38884,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "If the limiting friction is 20N and the normal reaction is 40N, then the coefficient of friction is -----------",
+        "op": [
+            "0.5",
+            "0",
+            "2",
+            "1"
+        ],
+        "created_at": "2026-07-02T20:26:16.296068+00:00"
+    },
+    {
+        "id": 38885,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The resolved part of the force exerted by a body to another body along the normal at the point of contact is called the ………",
+        "op": [
+            "centrifugal force",
+            "Normal reaction",
+            "centripetal force",
+            "central force"
+        ],
+        "created_at": "2026-07-02T20:26:22.272485+00:00"
+    },
+    {
+        "id": 38886,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "Which of the following is NOT a possible coefficient of friction?",
+        "op": [
+            "0",
+            "0.5",
+            "-0.5",
+            "1"
+        ],
+        "created_at": "2026-07-02T20:26:28.756121+00:00"
+    },
+    {
+        "id": 38887,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The friction between two bodies is said to be -------- friction if neither body is on the point of sliding along the other.",
+        "op": [
+            "limiting",
+            "none of these",
+            "static",
+            "dynamic"
+        ],
+        "created_at": "2026-07-02T20:26:34.773629+00:00"
+    },
+    {
+        "id": 38888,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "The friction between two bodies is said to be ----- friction if one body slides along the other.",
+        "op": [
+            "Static",
+            "Limiting",
+            "Dynamic",
+            "None of these"
+        ],
+        "created_at": "2026-07-02T20:26:56.163824+00:00"
+    },
+    {
+        "id": 38992,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "If a body can have a smooth contact with every other body then such a body is said to be a ------ body.",
+        "op": [
+            "Rigid",
+            "Rough",
+            "None of these",
+            "Smooth"
+        ],
+        "created_at": "2026-07-02T23:55:29.901567+00:00"
+    },
+    {
+        "id": 38993,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "If the friction between two bodies in contact is not zero, then the bodies are said to be -------- bodies.",
+        "op": [
+            "smooth",
+            "rigid",
+            "none of these",
+            "rough"
+        ],
+        "created_at": "2026-07-02T23:55:38.994309+00:00"
+    },
+    {
+        "id": 38994,
+        "cc": "MTH304",
+        "qn": "4",
+        "dt": "03 July 2026",
+        "qt": "A uniform rod AB of mass m is placed on two supports at C and D. If the rod is on the point of tilting about D then which of the following must be true about the reaction force at D?",
+        "op": [
+            "It would be -ve",
+            "None of these",
+            "It would be +ve",
+            "It would be zero"
+        ],
+        "created_at": "2026-07-02T23:55:45.37575+00:00"
+    }
+]

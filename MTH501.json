@@ -1,0 +1,4800 @@
+[
+{
+    "id": 23277,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A and B are row equivalent matrices, then\n(a) A given set of column vectors of A is ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬_______________if and only if the corresponding column vectors of B are __________________.",
+    "op": [
+        "Linearly independent, linearly independent",
+        "Linearly independent, linearly dependent",
+        "Linearly dependent, linearly dependent",
+        "Linearly dependent, linearly independent"
+    ],
+    "created_at": "2026-06-28T19:03:34.232011+00:00"
+},
+{
+    "id": 23298,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The rank of a 3 x 3 matrix C (= AB), found by multiplying a non-zero column matrix A of size 3 x 1 and a non-zero row matrix B of size 1 x 3, is",
+    "op": [
+        "3",
+        "1",
+        "0",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:04:01.97909+00:00"
+},
+{
+    "id": 23307,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If a vector space $V$ has a basis of $n$ vectors then every basis of $V$ must consists of exactly --------",
+    "op": [
+        "$n+1$ vectors",
+        "$n-1$ vectors",
+        "$n+2$ vectors",
+        "$n$ vectors"
+    ],
+    "created_at": "2026-06-28T19:04:13.805354+00:00"
+},
+{
+    "id": 23313,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is any matrix, then $$Rank(A) = Rank({A^T})$$",
+    "op": [
+        "false",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:04:24.791745+00:00"
+},
+{
+    "id": 23318,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "For a given matrix $$\\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\\\\\ 0&0&1&2&1&{ - 4} \\\\\\ 0&0&0&0&1&7 \\\\\\ 0&0&0&0&0&0 \\end{array}} \\right]$$ which of the following are basis vectors.",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} 6 \\\\\\ { - 4} \\\\\\ 7 \\\\\\ 0 \\end{array}} \\right]$$",
+        "$$\\begin{gathered} \\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 1&0&1&2&1&{ - 4} \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 0&0&0&0&1&7 \\end{array}} \\right] \\hfill \\\\\\ \\end{gathered}$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 4} \\\\\\ 1 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right]$$"
+    ],
+    "created_at": "2026-06-28T19:04:36.760343+00:00"
+},
+{
+    "id": 23330,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If two matrices A and B are row equivalent, then their row spaces are the.",
+    "op": [
+        "Different",
+        "Same"
+    ],
+    "created_at": "2026-06-28T19:04:51.048767+00:00"
+},
+{
+    "id": 23339,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The pivot columns of a matrix $A$ form a basis for -----------",
+    "op": [
+        "$ColA$",
+        "$RowA$"
+    ],
+    "created_at": "2026-06-28T19:05:00.129382+00:00"
+},
+{
+    "id": 23345,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "$Dim(M_{m\\times n})$=-------",
+    "op": [
+        "$m-n$",
+        "0",
+        "$mn$*",
+        "$m+n$"
+    ],
+    "created_at": "2026-06-28T19:05:09.882252+00:00"
+},
+{
+    "id": 23354,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The eigenvalues of a 4 by 4 matrix [A] are given as 2, -3, 1, 3 and 7. The $|det(A)|$ then is",
+    "op": [
+        "cannot be determined",
+        "546",
+        "25",
+        "530"
+    ],
+    "created_at": "2026-06-28T19:05:15.552906+00:00"
+},
+{
+    "id": 23364,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If two matrices A and B are row equivalent, then their row spaces are the same.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-28T19:05:27.007932+00:00"
+},
+{
+    "id": 23370,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Cylindrical coordinate system is also called as___________",
+    "op": [
+        "Spherical coordinate system.",
+        "Rectangular  coordinate system.",
+        "Space coordinate system.",
+        "Circular coordinate system."
+    ],
+    "created_at": "2026-06-28T19:05:31.919088+00:00"
+},
+{
+    "id": 23376,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is any matrix, then rank (A)=rank(A^t)",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:05:41.467999+00:00"
+},
+{
+    "id": 23386,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If Coordinates vector of the polynomial p=$$5 - 4x - 3{x^2}$$ relative to the basis S = $$\\{ 1,x,{x^2}\\}$$ for $${p_2}$$then linear combination of the basis set S is",
+    "op": [
+        "$${[p]_s} = (5,4,3)$$",
+        "$${[p]_s} = (5, - 4, - 3)$$",
+        "$${[p]_s} = (5, - 4,3)$$",
+        "$${[p]_s} = (5,3,4)$$"
+    ],
+    "created_at": "2026-06-28T19:05:53.73526+00:00"
+},
+{
+    "id": 23393,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The act of changing A into P^-1 AP is called a similarity transformation",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:06:04.353774+00:00"
+},
+{
+    "id": 23404,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Every square matrix A has at least one ----------.",
+    "op": [
+        "Critical point",
+        "Fixed point"
+    ],
+    "created_at": "2026-06-28T19:06:16.789264+00:00"
+},
+{
+    "id": 23413,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "What is eigen value?",
+    "op": [
+        "A vector obtained from the coordinates",
+        "A matrix determined from the algebraic equations",
+        "It is the inverse of the transform",
+        "A scalar associated with a given linear transformation"
+    ],
+    "created_at": "2026-06-28T19:06:31.767704+00:00"
+},
+{
+    "id": 23424,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The number of parameters in the solution set of Ax = 0 if A is a 4× 4 matrix of rank 0 then nullity (A) =?",
+    "op": [
+        "0",
+        "4"
+    ],
+    "created_at": "2026-06-28T19:06:42.390393+00:00"
+},
+{
+    "id": 23432,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "A vector space V with a basis B containing n vectors is isomorphic to $R^n$ i.e., there exist a ------------- linear transformation from $V$ to $R^n$.",
+    "op": [
+        "One-to-one",
+        "Onto"
+    ],
+    "created_at": "2026-06-28T19:06:53.60658+00:00"
+},
+{
+    "id": 23441,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The only 0-dimensional subspace of $R^3$ is ---------",
+    "op": [
+        "Zero space",
+        "Uni space"
+    ],
+    "created_at": "2026-06-28T19:07:04.077413+00:00"
+},
+{
+    "id": 23449,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The dimension of the zero vector space $\\left\\{ 0 \\right\\}$ is defined to be",
+    "op": [
+        "0",
+        "1",
+        "None of these",
+        "$\\infty$"
+    ],
+    "created_at": "2026-06-28T19:07:11.60503+00:00"
+},
+{
+    "id": 23482,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If vector space is not spanned by a finite set of vectors, then V is said to be --------",
+    "op": [
+        "Infinite-dimensional",
+        "Finite-dimensional"
+    ],
+    "created_at": "2026-06-28T19:07:49.301166+00:00"
+},
+{
+    "id": 23504,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "$$If~ A ~is~ an~ m \\times n ~matrix ~then$$",
+    "op": [
+        "$$rank A = \\dim Nul A$$",
+        "$$rank A + \\dim NulA = n$$",
+        "$$rank A = \\dim NulA + n$$",
+        "$$rank A = n$$"
+    ],
+    "created_at": "2026-06-28T19:08:09.686521+00:00"
+},
+{
+    "id": 23522,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The only 0-dimensional subspace of ${R^3}$ is",
+    "op": [
+        "Zero space",
+        "Infinite space",
+        "None of the above",
+        "$\\left\\{ {a,b} \\right\\}$"
+    ],
+    "created_at": "2026-06-28T19:08:29.984144+00:00"
+},
+{
+    "id": 23540,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If $B=/{b_{1}, b_{2}, …, b_{n}/}$ and $E$ is the standard basis $/{e_{1}, e_{2}, …, e_{n}/}$ in $R^{n}$, then",
+    "op": [
+        "$[b_{1}]_{E}=b_{1}$",
+        "$[b_{1}]_{E}=0$"
+    ],
+    "created_at": "2026-06-28T19:08:49.042897+00:00"
+},
+{
+    "id": 23544,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "\\lambda is an eigenvalue of a matrix A if and only if the equation $(A-\\lambdaI)x=0$ has a ---------",
+    "op": [
+        "Non-trivial solution",
+        "Trivial Solution"
+    ],
+    "created_at": "2026-06-28T19:08:57.491027+00:00"
+},
+{
+    "id": 23553,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "A coordinate system on a set consists of a ______________ mapping of the points in the set into R^n",
+    "op": [
+        "One-to-one",
+        "Onto"
+    ],
+    "created_at": "2026-06-28T19:09:09.883632+00:00"
+},
+{
+    "id": 23562,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is an m x n, matrix, then \nRank (A) = the number of leading variables in the solution of Ax = 0\nNullity (A) = the number of parameters in the general solution of Ax = 0",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:09:24.341146+00:00"
+},
+{
+    "id": 23576,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "In $\\dim \\left( {{R^n}} \\right) = n$, the standard basis has ------- vectors",
+    "op": [
+        "0",
+        "mn",
+        "n",
+        "n+1"
+    ],
+    "created_at": "2026-06-28T19:09:40.815261+00:00"
+},
+{
+    "id": 24171,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The dominant or principal eigenvector of a matrix is an eigenvector corresponding to the eigenvalue of _________ magnitude (for real numbers, largest absolute value) of that matrix.",
+    "op": [
+        "smallest",
+        "largest",
+        "zero",
+        "all of these"
+    ],
+    "created_at": "2026-06-28T19:27:46.454676+00:00"
+},
+{
+    "id": 24193,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If 3 is an eigenvalue of $A$ and $x$ is a corresponding eigenvector, then what is the eigenvalue of $A^2$ ?",
+    "op": [
+        "3",
+        "6",
+        "12",
+        "9"
+    ],
+    "created_at": "2026-06-28T19:28:18.062416+00:00"
+},
+{
+    "id": 24201,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The set $B={1,x,x^2,…,x^n}$ forms a basis for the vector space $P_n$ of polynomial of degree",
+    "op": [
+        "None of these",
+        "$\\leq n$",
+        "$n$",
+        "$\\geq n$"
+    ],
+    "created_at": "2026-06-28T19:28:44.676504+00:00"
+},
+{
+    "id": 24204,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If a vector space $V$ has a basis $B={b_1, b_2, …, b_n}$ then any set in $V$, containing more than $n$ vectors, must be -----------",
+    "op": [
+        "Linearly Independent",
+        "Linearly dependent"
+    ],
+    "created_at": "2026-06-28T19:29:02.163891+00:00"
+},
+{
+    "id": 24226,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "A and its transpose matrix have ________ eigenvalues.",
+    "op": [
+        "different",
+        "same",
+        "same but opposite in sign",
+        "different and positive"
+    ],
+    "created_at": "2026-06-28T19:29:46.271844+00:00"
+},
+{
+    "id": 24239,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The rank of the matrix (m × n) where m<n cannot be more than?",
+    "op": [
+        "n",
+        "m"
+    ],
+    "created_at": "2026-06-28T19:30:10.965919+00:00"
+},
+{
+    "id": 24242,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is an n x n matrix, then the following statements are equivalent EXCEPT.",
+    "op": [
+        "I – A is singular.",
+        "det(A) = 0",
+        "A has nontrivial fixed points.",
+        "det(I – A) = 0"
+    ],
+    "created_at": "2026-06-28T19:30:15.320713+00:00"
+},
+{
+    "id": 24245,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The set of unit vectors ${i,j,k}$form a basis of",
+    "op": [
+        "$R$",
+        "$R^4$",
+        "$R^2$",
+        "$R^3$"
+    ],
+    "created_at": "2026-06-28T19:30:20.22628+00:00"
+},
+{
+    "id": 24249,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The determinant of identity matrix is?",
+    "op": [
+        "0",
+        "None of the mentioned",
+        "Depends on the matrix",
+        "1"
+    ],
+    "created_at": "2026-06-28T19:30:28.811285+00:00"
+},
+{
+    "id": 24251,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If $\\lambda$ is an eigenvalue of a matrix $A$ and $x$ is a corresponding eigenvector, and if $k$ is any positive integer, then ${\\lambda ^k}$ is an eigenvalue of ______ and $x$ is a corresponding eigenvector.",
+    "op": [
+        "$A$",
+        "$A^k$",
+        "$\\lambda$",
+        "$\\lambda ^k$"
+    ],
+    "created_at": "2026-06-28T19:30:30.073117+00:00"
+},
+{
+    "id": 24260,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Every finite dimensional vector space contains a/an",
+    "op": [
+        "Infinite set",
+        "Basis",
+        "Empty set",
+        "None of the above"
+    ],
+    "created_at": "2026-06-28T19:31:04.011768+00:00"
+},
+{
+    "id": 24265,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Rank of the matrix A=$$\\left[ \\begin{gathered} 0\\,\\,\\,0\\,\\,\\,0\\,\\,\\,0 \\hfill \\\\ 4\\,\\,\\,6\\,\\,\\,\\,1\\,\\,\\,\\,0\\, \\hfill \\\\ 1\\,\\,\\,\\,\\,0\\,\\,\\,\\,0\\,\\,\\,\\,0 \\hfill \\\\\\ \\end{gathered} \\right]$$",
+    "op": [
+        "0",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-28T19:31:24.725078+00:00"
+},
+{
+    "id": 24271,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is a m×n matrix and $$A = A^T$$, which of the following must always be true?",
+    "op": [
+        "m = n",
+        "m and n are different"
+    ],
+    "created_at": "2026-06-28T19:31:40.87549+00:00"
+},
+{
+    "id": 24275,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "In two coordinate system, ${\\left( {\\mathop P\\limits_{C \\leftarrow B} } \\right)^{ - 1}}$ is the matrix that converts",
+    "op": [
+        "C-coordinates into C-coordinates",
+        "B-coordinates into B-coordinates",
+        "B-coordinates into C-coordinates",
+        "C-coordinates into B-coordinates"
+    ],
+    "created_at": "2026-06-28T19:31:57.502169+00:00"
+},
+{
+    "id": 24299,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "An n × n real matrix A is invertible if and only if the span of the rows of A is R^n",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-28T19:33:03.526831+00:00"
+},
+{
+    "id": 24390,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The three dimensional coordinate system is one in which the coordinates intersect each other at",
+    "op": [
+        "Zero points",
+        "Positive point",
+        "Negative points",
+        "Absolute point"
+    ],
+    "created_at": "2026-06-28T19:36:35.175447+00:00"
+},
+{
+    "id": 24396,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The number of parameters in the solution set of Ax = 0 if A is a 5× 7 matrix of rank 3 then nullity (A)=?",
+    "op": [
+        "5",
+        "4",
+        "7",
+        "3"
+    ],
+    "created_at": "2026-06-28T19:36:46.342109+00:00"
+},
+{
+    "id": 24400,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A is a triangular matrix then the eigenvalues of A are the entries on the main diagonal of A.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-28T19:36:49.760393+00:00"
+},
+{
+    "id": 24407,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If Coordinates vector of the polynomial $$p = {a_0} + {a_1}x + {a_2}{x_2}$$ Relative to the basis S = $$\\{ 1,x,{x^2}\\} \\,\\,\\,$$ for $${p_2}$$ then linear combination of the basis set S is",
+    "op": [
+        "$${[p]_s} = ({a_0} + {a_1} + {a_2})$$",
+        "$${[p]_s} = [{a_0} + {a_1} + {a_2}]$$"
+    ],
+    "created_at": "2026-06-28T19:37:13.450014+00:00"
+},
+{
+    "id": 24421,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Let $V$ be a five-dimensional vector space, and let $S$ be a subset of $V$ which spans $V$. Then $S$",
+    "op": [
+        "Must have infinitely many elements",
+        "Must be linearly dependent",
+        "Must have at most five elements",
+        "Must be a basis for $V$"
+    ],
+    "created_at": "2026-06-28T19:37:46.540628+00:00"
+},
+{
+    "id": 24518,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If two matrices A and B are row equivalent matrices, then which of the following is true",
+    "op": [
+        "a given set of column vectors of A is linearly dependent if and only if the corresponding column vectors of B are linearly dependent.",
+        "a given set of column vectors of A is linearly independent if and only if the corresponding column vectors of B are exactly same.",
+        "a given set of column vectors of A is linearly independent if and only if the corresponding column vectors of B are linearly independent.",
+        "None of these is true"
+    ],
+    "created_at": "2026-06-28T19:47:45.991067+00:00"
+},
+{
+    "id": 24729,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The set of all solutions of $(A-\\lambdaI)x$ is just the ……………………. Of the matrix $A$.",
+    "op": [
+        "Metric space",
+        "Null space",
+        "Topological space",
+        "None of the above"
+    ],
+    "created_at": "2026-06-28T20:09:10.216478+00:00"
+},
+{
+    "id": 24732,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "The point of intersection of axes in three dimension coordinates system is called?",
+    "op": [
+        "Collective intercept",
+        "Parallel pair order",
+        "Collective coordinate",
+        "Ordinate"
+    ],
+    "created_at": "2026-06-28T20:09:33.037746+00:00"
+},
+{
+    "id": 24741,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If $\\lambda$ is an eigenvector of $A$, then every nonzero vector $x$ such that $Ax=\\lambda x$ is called an ----------------- of $A$ corresponding to -----------",
+    "op": [
+        "Eigenvector, $A$",
+        "Eigenvalue, $A$",
+        "Eigenvector, $\\lambda$",
+        "Eigenvalue, $\\lambda$"
+    ],
+    "created_at": "2026-06-28T20:10:18.18482+00:00"
+},
+{
+    "id": 24771,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If one of the Eigenvalues of ${\\left[ A \\right]_{n \\times n}}$ is zero, it implies",
+    "op": [
+        "The solution to [A][X]=[C] system of equations is unique",
+        "The solution to [A][X]=[0]",
+        "The determinant of [A] is nonzero",
+        "The determinant of [A] is zero"
+    ],
+    "created_at": "2026-06-28T20:13:55.429785+00:00"
+},
+{
+    "id": 24792,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "$$\\begin{gathered} if~ A ~is~ a~ 4 \\times 5~ matrix~ with~ a~ two ~- {\\text{dimentinal}}~ null space, ~ \\hfill \\\\ what~ is~ rank ~of ~A \\hfill \\\\\\ \\end{gathered}$$",
+    "op": [
+        "3",
+        "6",
+        "5",
+        "7"
+    ],
+    "created_at": "2026-06-28T20:15:07.920302+00:00"
+},
+{
+    "id": 25032,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "Rank of the matrix A =$$\\left[ {\\begin{array}{*{20}{c}} 0&0&0&0 \\\\\\ 4&6&1&0 \\\\\\ 1&0&0&0 \\end{array}} \\right]$$",
+    "op": [
+        "3",
+        "2",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-06-28T21:06:39.779542+00:00"
+},
+{
+    "id": 45738,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "Rank of the matrix A=$$\\left[ \\begin{gathered} 0\\,\\,\\,0\\,\\,\\,0\\,\\,\\,0 \\hfill \\\\ 4\\,\\,\\,6\\,\\,\\,\\,1\\,\\,\\,\\,0\\, \\hfill \\\\ 1\\,\\,\\,\\,\\,0\\,\\,\\,\\,0\\,\\,\\,\\,0 \\hfill \\\\\\ \\end{gathered} \\right]$$",
+    "op": [
+        "3",
+        "1",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-06-30T07:59:15.275241+00:00"
+},
+{
+    "id": 45739,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "Let $V$ be a five-dimensional vector space, and let $S$ be a subset of $V$ which spans $V$. Then $S$",
+    "op": [
+        "Must have infinitely many elements",
+        "Must have at most five elements",
+        "Must be a basis for $V$",
+        "Must be linearly dependent"
+    ],
+    "created_at": "2026-06-30T07:59:30.813195+00:00"
+},
+{
+    "id": 45740,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "If A is any matrix, then \\[Rank(A) = Rank({A^T})\\]",
+    "op": [
+        "True",
+        "false"
+    ],
+    "created_at": "2026-06-30T07:59:56.066901+00:00"
+},
+{
+    "id": 45741,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The vectors spaces $F(-\\infty, +\\infty)$ and $C(-\\infty, +\\infty)$ are ----------",
+    "op": [
+        "Finite-dimensional",
+        "Infinite-dimensional"
+    ],
+    "created_at": "2026-06-30T08:00:03.930075+00:00"
+},
+{
+    "id": 45742,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The set of all solutions of $(A-\\lambdaI)x$ is just the ……………………. Of the matrix $A$.",
+    "op": [
+        "Topological space",
+        "Metric space",
+        "None of the above",
+        "Null space"
+    ],
+    "created_at": "2026-06-30T08:00:14.606647+00:00"
+},
+{
+    "id": 45743,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The act of changing A into P^-1 AP is called a similarity transformation",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-06-30T08:00:28.794747+00:00"
+},
+{
+    "id": 45744,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The eigenvalues of a 4 by 4 matrix [A] are given as 2, -3, 1, 3 and 7. The $|det(A)|$ then is",
+    "op": [
+        "530",
+        "cannot be determined",
+        "546",
+        "25"
+    ],
+    "created_at": "2026-06-30T08:00:36.418412+00:00"
+},
+{
+    "id": 45745,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The set $B={1,x,x^2,…,x^n}$ forms a basis for the vector space $P_n$ of polynomial of degree",
+    "op": [
+        "$\\leq n$",
+        "$n$",
+        "$\\geq n$",
+        "None of these"
+    ],
+    "created_at": "2026-06-30T08:00:48.495421+00:00"
+},
+{
+    "id": 45746,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "Rank of the matrix A =\\[\\left[ {\\begin{array}{*{20}{c}} 0&0&0&0 \\\\\\ 4&6&1&0 \\\\\\ 1&0&0&0 \\end{array}} \\right]\\]",
+    "op": [
+        "0",
+        "3",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-30T08:01:14.392679+00:00"
+},
+{
+    "id": 45747,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The point of intersection of axes in three dimension coordinates system is called?",
+    "op": [
+        "Ordinate",
+        "Parallel pair order",
+        "Collective coordinate",
+        "Collective intercept"
+    ],
+    "created_at": "2026-06-30T08:01:26.558363+00:00"
+},
+{
+    "id": 45748,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "An n × n real matrix A is invertible if and only if the span of the rows of A is R^n",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-06-30T08:50:12.692701+00:00"
+},
+{
+    "id": 45749,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "If $\\lambda$ is an eigenvector of $A$, then every nonzero vector $x$ such that $Ax=\\lambda x$ is called an ----------------- of $A$ corresponding to -----------",
+    "op": [
+        "Eigenvalue, $A$",
+        "Eigenvector, $\\lambda$",
+        "Eigenvalue, $\\lambda$",
+        "Eigenvector, $A$"
+    ],
+    "created_at": "2026-06-30T08:50:23.285015+00:00"
+},
+{
+    "id": 45750,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "Every square matrix A has at least one ----------.",
+    "op": [
+        "Fixed point",
+        "Critical point"
+    ],
+    "created_at": "2026-06-30T08:51:34.820193+00:00"
+},
+{
+    "id": 45751,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "$Dim(M_{m\\times n})$=-------",
+    "op": [
+        "0",
+        "$m-n$",
+        "$m+n$",
+        "$mn$*"
+    ],
+    "created_at": "2026-06-30T08:51:56.636315+00:00"
+},
+{
+    "id": 45752,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "The set of unit vectors ${i,j,k}$form a basis of",
+    "op": [
+        "$R^4$",
+        "$R$",
+        "$R^2$",
+        "$R^3$"
+    ],
+    "created_at": "2026-06-30T08:52:12.628145+00:00"
+},
+{
+    "id": 45753,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "A coordinate system on a set consists of a ______________ mapping of the points in the set into R^n",
+    "op": [
+        "One-to-one",
+        "Onto"
+    ],
+    "created_at": "2026-06-30T08:52:25.437858+00:00"
+},
+{
+    "id": 45754,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "If $B=/{b_{1}, b_{2}, …, b_{n}/}$ and $E$ is the standard basis $/{e_{1}, e_{2}, …, e_{n}/}$ in $R^{n}$, then",
+    "op": [
+        "$[b_{1}]_{E}=b_{1}$",
+        "$[b_{1}]_{E}=0$"
+    ],
+    "created_at": "2026-06-30T08:52:39.181569+00:00"
+},
+{
+    "id": 45755,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "30 June 2026",
+    "qt": "If vector space is not spanned by a finite set of vectors, then V is said to be --------",
+    "op": [
+        "Finite-dimensional",
+        "Infinite-dimensional"
+    ],
+    "created_at": "2026-06-30T08:52:52.17516+00:00"
+},
+{
+    "id": 47872,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Le a matrix A has both negative and positive eigen values, so in this case origin behaves as a ----------- point",
+    "op": [
+        "Saddle",
+        "Critical"
+    ],
+    "created_at": "2026-07-05T19:07:11.431738+00:00"
+},
+{
+    "id": 47885,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let $A$ be an $n by n$ matrix whose distinct eigen values are $\\lambda_{1}, \\lambda_{2},…, \\lambda_{p}$. For $1 \\leq k \\leq p$, the dimension of the eigen space for $\\lambda_{k}$ is -------- than or ------- to the multiplicity of the eigen value $\\lambda_{k}$.",
+    "op": [
+        "Greater, equal",
+        "Less, equal"
+    ],
+    "created_at": "2026-07-05T19:07:20.021387+00:00"
+},
+{
+    "id": 47903,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $\\lambda - 2$ is a factor of the characteristic polynomial of matrix $A$ , then which of the following is the Eigenvalue of $A$ ?",
+    "op": [
+        "2",
+        "-2",
+        "$\\frac{1}{2}$",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:07:33.556533+00:00"
+},
+{
+    "id": 47918,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If a vector $x_0$ is specified, then the initial value problem is to construct the unique function $x$ such that --------",
+    "op": [
+        "$x’=Ax’$ and $x(0)=x_0$",
+        "$x’=Ax$ and $x(0)=x_0$"
+    ],
+    "created_at": "2026-07-05T19:07:44.50116+00:00"
+},
+{
+    "id": 47929,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "What is Eigen value?",
+    "op": [
+        "A vector obtained from the coordinates",
+        "A matrix determined from the algebraic equations",
+        "It is the inverse of the transform",
+        "A scalar associated with a given linear transformation"
+    ],
+    "created_at": "2026-07-05T19:07:55.572339+00:00"
+},
+{
+    "id": 47936,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$${\\rm{If}}\\,{\\rm{AB = I = BA \\,\\ for }}\\,\\ matrices{\\rm{ }}A,\\,B\\;and\\,I,{\\rm{ }}where\\;\\,I\\,is\\,\\ an \\,\\ identity \\,\\ matrix, \\,\\ then$$",
+    "op": [
+        "$B$ is inverse of $A$,",
+        "All of the above.",
+        "$A$ is inverse of $B$,",
+        "${A^{( - 1)}} = B,{B^{( - 1)}} = A,$"
+    ],
+    "created_at": "2026-07-05T19:08:06.200486+00:00"
+},
+{
+    "id": 47965,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Electric circuit rotation is caused by sine and cosine functions if there eigenvalues are complex and hence the origin is called --------",
+    "op": [
+        "Spiral point",
+        "Critical point"
+    ],
+    "created_at": "2026-07-05T19:08:30.5271+00:00"
+},
+{
+    "id": 47977,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let A be a real 2 by 2 matrix with complex eigen values $\\lambda = a - bi(b \\ne 0)$ and associated eigenvectors v in ${C^2}$ , then",
+    "op": [
+        "$A = PC{P^{ - 1}}$",
+        "$A = {P^{ - 1}}CP$",
+        "$P = AC{P^{ - 1}}$",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T19:08:39.928424+00:00"
+},
+{
+    "id": 47995,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$\\phi$ is the angle between the positive x-axis and the ray",
+    "op": [
+        "None of these",
+        "From (1,1) through (0,0)",
+        "From (a,b) through (0,0)",
+        "From (0,0) through (a,b)"
+    ],
+    "created_at": "2026-07-05T19:08:51.791341+00:00"
+},
+{
+    "id": 48015,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following statements is true for all real symmetric matrices?",
+    "op": [
+        "All the eigenvalues are positive.",
+        "All the eigenvalues are distinct",
+        "Sum of all the eigenvalues is zero.",
+        "All the eigenvalues are real."
+    ],
+    "created_at": "2026-07-05T19:09:03.020282+00:00"
+},
+{
+    "id": 48438,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A blocked matrix in which blocks (blocked matrices) are repeated down the diagonals of the matrix is called a ______ matrix.",
+    "op": [
+        "Blocked identity",
+        "Blocked rectangular",
+        "Blocked diagonal-constant",
+        "Blocked square"
+    ],
+    "created_at": "2026-07-05T19:15:06.351423+00:00"
+},
+{
+    "id": 48502,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An n x n matrix A is diagonalizable if and only if A has ____ linearly independent eigenvectors.",
+    "op": [
+        "n - 1",
+        "n",
+        "n x n",
+        "n + 1"
+    ],
+    "created_at": "2026-07-05T19:15:55.010067+00:00"
+},
+{
+    "id": 48511,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A column replacement operation on A does not change the _____________.",
+    "op": [
+        "determinant",
+        "matrix",
+        "row",
+        "column"
+    ],
+    "created_at": "2026-07-05T19:16:04.69442+00:00"
+},
+{
+    "id": 48522,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The null-space of a linear transformation T is the set of all vectors v such that T (v) = ________.",
+    "op": [
+        "positive",
+        "0",
+        "negative",
+        "non-zero"
+    ],
+    "created_at": "2026-07-05T19:16:13.602849+00:00"
+},
+{
+    "id": 48530,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If u + v =u + w, then:",
+    "op": [
+        "None of the above",
+        "v ≠ w",
+        "v + w.",
+        "v = w."
+    ],
+    "created_at": "2026-07-05T19:16:22.657503+00:00"
+},
+{
+    "id": 48573,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Factorization is used to analyze and decouple --------",
+    "op": [
+        "Dynamical system",
+        "Linear system"
+    ],
+    "created_at": "2026-07-05T19:17:09.573964+00:00"
+},
+{
+    "id": 48623,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true for the matrix $$M = \\left[ \\begin{array}{l} \\,{M_{\\,11}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,12}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,13}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,22}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,23}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,33}}\\, \\end{array} \\right]\\,;$$ where ${M_{\\,\\,11}}$ , ${M_{\\,22}}$ and ${M_{\\,33}}$ are square sub-matrices , and $O$ is a zero sub-matrix ?",
+    "op": [
+        "It is a block lower triangular matrix.",
+        "It is diagonal-constant matrix.",
+        "It is a Null matrix.",
+        "It is a block upper triangular matrix."
+    ],
+    "created_at": "2026-07-05T19:17:53.782747+00:00"
+},
+{
+    "id": 48651,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An $n \\times n$ matrix $A$ is said to be diagonalizable if and only if $A$ has $n$ ------------------------------ eigenvectors.",
+    "op": [
+        "Linearly dependent",
+        "Linearly Independent"
+    ],
+    "created_at": "2026-07-05T19:18:22.293198+00:00"
+},
+{
+    "id": 48673,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let $A$ be an $n \\times n$ matrix whose distinct eigen values are $\\lambda_1, \\lambda_2, …, \\lambda_p$. The matrix $A$ is diagonalizable if and only if the ----------- of the dimensions of the distinct eigen spaces is equal to $n$.",
+    "op": [
+        "sum",
+        "Product"
+    ],
+    "created_at": "2026-07-05T19:18:46.826255+00:00"
+},
+{
+    "id": 48679,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let V be a one Eigen vector then conjugate eigen vector is represented by,",
+    "op": [
+        "$\\mathop V\\limits^ \\sim$",
+        "$V'$",
+        "V",
+        "$\\mathop V\\limits^{\\_\\_}$"
+    ],
+    "created_at": "2026-07-05T19:18:57.485441+00:00"
+},
+{
+    "id": 48688,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Two equivalent vectors must have the same initial point:",
+    "op": [
+        "None of the above",
+        "May be.",
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-05T19:19:07.371683+00:00"
+},
+{
+    "id": 48700,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $A$ be $n \\times n$ matrix, then $det (A^T) =$ ______________.",
+    "op": [
+        "det A",
+        "inverse of A",
+        "$$det A^T$$",
+        "1 / det A"
+    ],
+    "created_at": "2026-07-05T19:19:17.924289+00:00"
+},
+{
+    "id": 49013,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Diagonalization is a process of transforming a vector $A$ to the form",
+    "op": [
+        "$A=PDP^{-1}$",
+        "$A=P^{-1}DP$"
+    ],
+    "created_at": "2026-07-05T19:27:31.565705+00:00"
+},
+{
+    "id": 49030,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A 3 x 3 identity matrix have three and __________eigen values.",
+    "op": [
+        "distinct",
+        "same"
+    ],
+    "created_at": "2026-07-05T19:27:44.242382+00:00"
+},
+{
+    "id": 49033,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The complex conjugate of a complex vector$x$ in $C^n$ is the vector $\\bar{x}$ in $C^{n}$ whose entries are the ------------ conjugates of the entries in $x$.",
+    "op": [
+        "Real",
+        "Complex"
+    ],
+    "created_at": "2026-07-05T19:27:50.086217+00:00"
+},
+{
+    "id": 49054,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let $A$ and $B$ be the square matrices. Then, $A$ and $B$ are invertible with $B = {A^{ - 1}}$ and $A = {B^{ - 1}}$ if and only if $AB = BA$ equals to a (an) _____ matrix.",
+    "op": [
+        "Rectangular",
+        "Identity",
+        "Square",
+        "Singular"
+    ],
+    "created_at": "2026-07-05T19:28:12.531031+00:00"
+},
+{
+    "id": 49106,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$\\left( {\\begin{array}{*{20}{c}} 3&0&0 \\\\\\ 5&4&0 \\\\\\ 3&6&1 \\end{array}} \\right)$$ The Eigen-values are",
+    "op": [
+        "(3,4,2)",
+        "(3,4,5)",
+        "(2.3,5)",
+        "(3,4,1)"
+    ],
+    "created_at": "2026-07-05T19:30:02.929934+00:00"
+},
+{
+    "id": 49128,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The Invertible Matrix Theorem applies only to ______ matrices.",
+    "op": [
+        "Square",
+        "Scalar",
+        "Rectangular",
+        "Identity"
+    ],
+    "created_at": "2026-07-05T19:30:37.2829+00:00"
+},
+{
+    "id": 49132,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is (are) the Eignvalue(s) of the matrix? $$A = \\left[ {\\,\\begin{array}{*{20}{c}} 3&0\\\\\\5&3 \\end{array}\\,} \\right]$$",
+    "op": [
+        "3, 5",
+        "5",
+        "3",
+        "3, 4"
+    ],
+    "created_at": "2026-07-05T19:30:43.201653+00:00"
+},
+{
+    "id": 49142,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If the inverse of a linear transformation exits then it is ______.",
+    "op": [
+        "non-invertible",
+        "nonlinear",
+        "Not unique",
+        "Unique"
+    ],
+    "created_at": "2026-07-05T19:31:04.016836+00:00"
+},
+{
+    "id": 49145,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The trace and determinant of a 2 × 2 matrix are known to be -2 and -35 respectively. Its Eigen values are",
+    "op": [
+        "-37 and -1",
+        "-7 and 5.",
+        "-30 and -5",
+        "17.5 and -2"
+    ],
+    "created_at": "2026-07-05T19:31:10.88705+00:00"
+},
+{
+    "id": 49151,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The characteristics polynomial of a 3x 3 identity matrix is __________, if x is the eigen values of the given 3 x 3 identity matrix.",
+    "op": [
+        "(1 - x)^3",
+        "(x - 1)^3",
+        "X^3",
+        "(x + 1)^3"
+    ],
+    "created_at": "2026-07-05T19:31:19.533397+00:00"
+},
+{
+    "id": 49156,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Eigenvector(s) of the matrix  \\[\\left[ {\\begin{array}{*{20}{c}}\n  0&0&a \\\\ \n  0&0&0 \\\\ \n  0&0&0 \n\\end{array}} \\right]\\]  is (are):",
+    "op": [
+        "None of the above",
+        "(0, 0, 1)",
+        "(0, 0, a)",
+        "(0, a, 0)"
+    ],
+    "created_at": "2026-07-05T19:31:25.967877+00:00"
+},
+{
+    "id": 49259,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A square matrix A is said to be diagonal if A is similar to a matrix",
+    "op": [
+        "Column matrix",
+        "Diagonal matrix",
+        "Zero matrix",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T19:35:14.345769+00:00"
+},
+{
+    "id": 49794,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A matrix $A$ is diagonalizable if and only if there are enough eigenvectors to form a basis of",
+    "op": [
+        "None of the above",
+        "$R^n$",
+        "$R^2$",
+        "$R^3$"
+    ],
+    "created_at": "2026-07-05T19:56:29.289698+00:00"
+},
+{
+    "id": 49802,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Multiplication of a partitioned matrix by a scalar is also computed ______.",
+    "op": [
+        "Row by row",
+        "Block by block",
+        "Diagonal by diagonal",
+        "Column by column"
+    ],
+    "created_at": "2026-07-05T19:56:48.356446+00:00"
+},
+{
+    "id": 49809,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Each pair of eigenvalue and its corresponding eigenvectors provides a solution of the equation $$x' = Ax$$ which is called",
+    "op": [
+        "eigenfunctions",
+        "vector space",
+        "solution matrix",
+        "dynamical system"
+    ],
+    "created_at": "2026-07-05T19:57:03.483545+00:00"
+},
+{
+    "id": 49818,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If x+2 is a factor of the characteristic polynomial of matrix C then an eigenvalue of C is",
+    "op": [
+        "-2",
+        "0",
+        "2",
+        "1/2"
+    ],
+    "created_at": "2026-07-05T19:57:24.509087+00:00"
+},
+{
+    "id": 49821,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An n \\cross n matrix with ------distinct eigenvalues is diagonalizable.",
+    "op": [
+        "$n+1$",
+        "$n+2$",
+        "$n$",
+        "none of the above"
+    ],
+    "created_at": "2026-07-05T19:57:40.377676+00:00"
+},
+{
+    "id": 50300,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "What is the maximum possible number of pivots in a 6x6 matrix?",
+    "op": [
+        "6",
+        "2",
+        "4",
+        "0"
+    ],
+    "created_at": "2026-07-05T20:41:54.581754+00:00"
+},
+{
+    "id": 50304,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If  A and B  are  n x n matrices, then  det (AB) = ______________.",
+    "op": [
+        "det(A).B",
+        "A.det(B)",
+        "det(A).det(B)",
+        "A.B"
+    ],
+    "created_at": "2026-07-05T20:42:13.509607+00:00"
+},
+{
+    "id": 50309,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Each pair of eigenvalue and its corresponding eigenvector provides a solution of the equation $x’=Ax$ which is called ---------------- of the differential equation.",
+    "op": [
+        "Eigensolution",
+        "Eigenfunction"
+    ],
+    "created_at": "2026-07-05T20:42:25.661202+00:00"
+},
+{
+    "id": 50311,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "What is the maximum possible number of pivots in a 4x6 matrix ?",
+    "op": [
+        "6",
+        "8",
+        "4",
+        "10"
+    ],
+    "created_at": "2026-07-05T20:42:32.894332+00:00"
+},
+{
+    "id": 50319,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An n x n matrix A is diagonalizable if and only if A has n linearly ________ eigenvectors.",
+    "op": [
+        "dependent",
+        "independent"
+    ],
+    "created_at": "2026-07-05T20:42:46.695358+00:00"
+},
+{
+    "id": 50492,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $\\lambda + 7$ is a factor of the characteristic polynomial of a matrix $C$ , then which of the following is the Eigenvalue of $C$ ?",
+    "op": [
+        "$\\frac{1}{7}$",
+        "7",
+        "0",
+        "-7"
+    ],
+    "created_at": "2026-07-05T21:17:31.024073+00:00"
+},
+{
+    "id": 50493,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If x - 2 is a factor of the characteristic polynomial of matrix C then an eigenvalue of C is",
+    "op": [
+        "1/2",
+        "-2",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-05T21:17:40.082059+00:00"
+},
+{
+    "id": 50499,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A row replacement operation on A does not change the ____________.",
+    "op": [
+        "rows",
+        "matrix",
+        "columns",
+        "determinant"
+    ],
+    "created_at": "2026-07-05T21:18:56.484518+00:00"
+},
+{
+    "id": 50500,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A partitioned square matrix ‘A’ is said to be ______ matrix if the matrices on the main diagonal are square and all matrices above the main diagonal are zero.",
+    "op": [
+        "Block lower triangular",
+        "Null",
+        "Block upper triangular",
+        "Diagonal-constant"
+    ],
+    "created_at": "2026-07-05T21:19:18.959834+00:00"
+},
+{
+    "id": 50502,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "$$An{\\text{_____}} matrix~with~n~distinct~eigenvalues~is~diagonlizable$$",
+    "op": [
+        "$$n \\times n$$",
+        "None of these",
+        "$$m \\times n$$",
+        "Null"
+    ],
+    "created_at": "2026-07-05T21:19:32.157842+00:00"
+},
+{
+    "id": 50503,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "For a real matrix A, complex Eigen values and associated Eigen vectors come in ---------",
+    "op": [
+        "Complex pairs",
+        "similar pairs",
+        "none of the above",
+        "conjugate pairs"
+    ],
+    "created_at": "2026-07-05T21:19:58.262094+00:00"
+},
+{
+    "id": 50504,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An n x n matrix with n distinct eigen values is _____.",
+    "op": [
+        "diagonalizable",
+        "symmetric",
+        "Hermitian",
+        "invertible"
+    ],
+    "created_at": "2026-07-05T21:20:09.478851+00:00"
+},
+{
+    "id": 50506,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A row interchange __________ the sign of the determinant.",
+    "op": [
+        "changes",
+        "does not change"
+    ],
+    "created_at": "2026-07-05T21:20:39.708586+00:00"
+},
+{
+    "id": 50584,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "For a non-singular matrix $A$, $A^{-1}$ is equal to------",
+    "op": [
+        "$Adj(A)/det(A)$*",
+        "$det(A)*Adj(A)$",
+        "$det(A)*A$",
+        "None of the above."
+    ],
+    "created_at": "2026-07-05T21:37:50.048738+00:00"
+},
+{
+    "id": 50597,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A matrix $[A]_{n \\times n$ has both positive and negative eigenvalues so in this case origin behaves as a --------------",
+    "op": [
+        "Critical point",
+        "Saddle point"
+    ],
+    "created_at": "2026-07-05T21:39:12.82951+00:00"
+},
+{
+    "id": 50625,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If n x n matrices A and B are similar, then they have the __________ characteristic polynomial.",
+    "op": [
+        "same but opposite in sign",
+        "inverse of the other",
+        "same",
+        "different"
+    ],
+    "created_at": "2026-07-05T21:46:43.370407+00:00"
+},
+{
+    "id": 50691,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $A$ is an invertible square matrix then",
+    "op": [
+        "${\\left( {{A^T}} \\right)^{ - 1}} = {\\left( {{A^{ - 1}}} \\right)^{-1}}$",
+        "${\\left( {{A^T}} \\right)^{ - 1}} = {\\left( {{A^{ - 1}}} \\right)^T}$",
+        "${\\left( {{A^T}} \\right)^T} = {\\left( {{A^{ - 1}}} \\right)^T}$",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T22:22:21.48937+00:00"
+},
+{
+    "id": 50802,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Suppose that real solutions $y_1$ and $y_2$ of $x’=Ax$, form a basis for the two-dimensional real vector space if $y_1$ and $y_2$ are ……..",
+    "op": [
+        "Linearly Independent",
+        "Linearly dependent"
+    ],
+    "created_at": "2026-07-05T23:04:45.317839+00:00"
+},
+{
+    "id": 50804,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let A be an n ×n matrix. The number x is an eigenvalue of A if there exists a non-zero vector v such that   Av = _______",
+    "op": [
+        "x. Av",
+        "x . A",
+        "x . v",
+        "A. xv"
+    ],
+    "created_at": "2026-07-05T23:06:21.098201+00:00"
+},
+{
+    "id": 50843,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If one of the eigenvalues of $[A]_{n\\times n}$ is zero, it implies --------",
+    "op": [
+        "The determinant of $[A]$ is zero",
+        "The solution to $[A][X]=[C]$a system of equations is unique",
+        "The solution to $[A][X]=[0]$ system of equations is trivial",
+        "The determinant of $[A]$ is nonzero"
+    ],
+    "created_at": "2026-07-05T23:18:37.830185+00:00"
+},
+{
+    "id": 50844,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let $A$ be a real 2 by 2 matrix with complex eigen values $\\lambda=a-b+{i}, (b\\neq 0)$ and associated eigenvectors $v$ in $C^2$, then $A=PCP^{-1}$, where $P=--------------$",
+    "op": [
+        "$P=[-Rev Imv]$",
+        "$P=[Rev Imv]$",
+        "$P=[Rev -Imv]$",
+        "$P=[-Rev -Imv]$"
+    ],
+    "created_at": "2026-07-05T23:18:45.398247+00:00"
+},
+{
+    "id": 50846,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A partitioned matrix  ‘A’ is said to be block diagonal if the matrices on the main diagonal are square and all other position matrices are ______.",
+    "op": [
+        "Unit",
+        "Nonzero symmetric",
+        "Nonzero skew symmetric",
+        "Zero"
+    ],
+    "created_at": "2026-07-05T23:19:12.249433+00:00"
+},
+{
+    "id": 50862,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If n x n matrices A and B are similar, then they have the ________ eigenvalues (with the same multiplicities).",
+    "op": [
+        "additive inverse of each other",
+        "same",
+        "multiplicative inverse of each other",
+        "distinct"
+    ],
+    "created_at": "2026-07-05T23:21:22.624287+00:00"
+},
+{
+    "id": 50865,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let ‘Ax = 0’ be a homogeneous linear system of ‘n’ equations and ‘n’ unknowns. Then, the coefficient matrix ‘A’ is invertible if and only if this system has ______ solution.",
+    "op": [
+        "trivial",
+        "infinite many",
+        "No",
+        "non-trivial"
+    ],
+    "created_at": "2026-07-05T23:22:14.243859+00:00"
+},
+{
+    "id": 50918,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Corresponding to highest Eigen value the eigenvector is $$\\left( {\\begin{array}{*{20}{c}} 1&6&1 \\\\\\ 1&2&0 \\\\\\ 0&0&3 \\end{array}} \\right)$$",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\\\\\ 2 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\\\\\ 1 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 2 \\\\\\ 0 \\end{array}} \\right]$$"
+    ],
+    "created_at": "2026-07-05T23:40:49.987498+00:00"
+},
+{
+    "id": 50919,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If A is triangular, then det A is the product of the entries on the _________ of A.",
+    "op": [
+        "rows",
+        "upper diagonal",
+        "main diagonal",
+        "columns"
+    ],
+    "created_at": "2026-07-05T23:41:30.787437+00:00"
+},
+{
+    "id": 50976,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "An $n \\times n$ matrix is diagonalizable with n --------- eigenvalues",
+    "op": [
+        "0",
+        "Similar",
+        "Distinct",
+        "Identical"
+    ],
+    "created_at": "2026-07-06T00:00:48.14103+00:00"
+},
+{
+    "id": 51082,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "The matrix $M = \\left[ {\\,\\begin{array}{*{20}{c}} a&4&5&6\\\\\\7&a&4&5\\\\\\8&7&a&4\\\\\\9&8&7&a \\end{array}\\,} \\right]$ is a ______ matrix.",
+    "op": [
+        "Toeplitz",
+        "Rectangular",
+        "Identity",
+        "Diagonal"
+    ],
+    "created_at": "2026-07-06T00:18:57.463076+00:00"
+},
+{
+    "id": 51091,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Two matrices with the same characteristic polynomial _____________ similar.",
+    "op": [
+        "may not be",
+        "must be"
+    ],
+    "created_at": "2026-07-06T00:19:58.606701+00:00"
+},
+{
+    "id": 51093,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If the real part of the eigenvalue is zero, then the trajectories form ------------- around the origin.",
+    "op": [
+        "Parabola",
+        "None of these",
+        "Ellipse",
+        "Hyperbola"
+    ],
+    "created_at": "2026-07-06T00:20:22.736904+00:00"
+},
+{
+    "id": 51120,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "A transformation $T:{R^n} \\to {R^m}$ is a rule that assigns to each vector x in ${R^n}$ , an image vector T(x) in ${R^m}$. The set ${R^n}$ is called the__________ , and ${R^m}$ is called the _______.",
+    "op": [
+        "co-domain of T, domain of T",
+        "domain of T, co-domain of T"
+    ],
+    "created_at": "2026-07-06T00:31:04.846018+00:00"
+},
+{
+    "id": 51262,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "When a matrix A has a complex eigenvalue with positive real part, the trajectories spiral --------------",
+    "op": [
+        "Inwards",
+        "Outwards"
+    ],
+    "created_at": "2026-07-06T00:56:25.746045+00:00"
+},
+{
+    "id": 51439,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Eigenvalues of a square matrix are always",
+    "op": [
+        "Real  and  imaginary",
+        "Positive.",
+        "Real",
+        "Negative"
+    ],
+    "created_at": "2026-07-06T01:31:15.434103+00:00"
+},
+{
+    "id": 51451,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If n x n matrices A and B are similar, then they have the same characteristic polynomial and hence the same eigenvalues (with the same multiplicities).",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-06T01:33:20.744871+00:00"
+},
+{
+    "id": 51750,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $\\lambda + 2$ is a factor of the characteristic polynomial of matrix $C$ , then which of the following is the Eigenvalue of $C$ ?",
+    "op": [
+        "$\\frac{1}{2}$",
+        "0",
+        "2",
+        "-2"
+    ],
+    "created_at": "2026-07-06T02:22:18.276209+00:00"
+},
+{
+    "id": 51756,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "If $A$ is invertible and $b$ in $R^n$ be any vector. Then, we must have a matrix ${A^{ - 1}}b$ ,which is a solution of _______.",
+    "op": [
+        "$${A^2}x = b$$",
+        "$${A^{ - 1}}x = b$$",
+        "$$Ax = b$$",
+        "$${A^t}x = b$$"
+    ],
+    "created_at": "2026-07-06T02:22:55.607141+00:00"
+},
+{
+    "id": 51829,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let A be n x n matrix, then A is invertible if and only if",
+    "op": [
+        "det A is not zero",
+        "det A is zero"
+    ],
+    "created_at": "2026-07-06T02:37:49.119014+00:00"
+},
+{
+    "id": 53356,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "06 July 2026",
+    "qt": "Let [Math Processing Error]$A$ be an [Math Processing Error]$n by n$ matrix whose distinct eigen values are [Math Processing Error]$\\lambda_{1}, \\lambda_{2},…, \\lambda_{p}$. For [Math Processing Error]$1 \\leq k \\leq p$, the dimension of the eigen space for [Math Processing Error]$\\lambda_{k}$ is -------- than or ------- to the multiplicity of the eigen value [Math Processing Error]$\\lambda_{k}$.",
+    "op": [
+        "Less, equal",
+        "Greater, equal"
+    ],
+    "created_at": "2026-07-06T07:00:48.437148+00:00"
+},
+{
+    "id": 54951,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "An [Math Processing Error]n×n$n \\times n$ matrix is diagonalizable with n --------- eigenvalues",
+    "op": [
+        "0",
+        "Distinct",
+        "Similar",
+        "Identical"
+    ],
+    "created_at": "2026-07-06T19:19:57.650745+00:00"
+},
+{
+    "id": 59829,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If the augmented matrices of two linear systems are row equivalent, then the two systems have the ______ solution set.",
+    "op": [
+        "inconsistant",
+        "same",
+        "different",
+        "trivial"
+    ],
+    "created_at": "2026-07-09T19:00:30.239591+00:00"
+},
+{
+    "id": 59830,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "For u, v vectors in ${R^n}$, the distance between u and v is written as",
+    "op": [
+        "None of these",
+        "$dist(u,v) = ||u - v||$",
+        "$dist(u,v) = ||u - u||$",
+        "$dist(u,v) = ||v-v||$"
+    ],
+    "created_at": "2026-07-09T19:00:39.278319+00:00"
+},
+{
+    "id": 59831,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A unit vector is obtained by ------",
+    "op": [
+        "$u={||v||}/{||v||}",
+        "$u=v/{||v||}",
+        "None of the above",
+        "$u={||v||}/v"
+    ],
+    "created_at": "2026-07-09T19:00:54.997431+00:00"
+},
+{
+    "id": 59833,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The equation $b=A\\mathop x\\limits^{^}+(b-A\\mathop x\\limits^{^}$ is a decomposition of $b$ into the sum of a vector in ------------ and a vector orthogonal to $ColA$.",
+    "op": [
+        "$RowA$",
+        "$ColA$"
+    ],
+    "created_at": "2026-07-09T19:01:04.903611+00:00"
+},
+{
+    "id": 59834,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If x is orthogonal to both u and v, then x must be _______ to u – v.",
+    "op": [
+        "equal",
+        "orthogonal",
+        "orthonormal",
+        "parallel"
+    ],
+    "created_at": "2026-07-09T19:01:14.339965+00:00"
+},
+{
+    "id": 59835,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix $A^{T}A$ is invertible iff the columns of $A$ are",
+    "op": [
+        "Linearly dependent",
+        "Linearly Independent"
+    ],
+    "created_at": "2026-07-09T19:01:22.692741+00:00"
+},
+{
+    "id": 59836,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "For two vectors to be orthonormal, the vectors are also said to be orthogonal. The reverse of the same",
+    "op": [
+        "Is not true",
+        "Is true"
+    ],
+    "created_at": "2026-07-09T19:01:28.352955+00:00"
+},
+{
+    "id": 59837,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The two vectors are said to be equivalent if",
+    "op": [
+        "None of the above",
+        "Same length",
+        "Same direction",
+        "Both (a) and (b)"
+    ],
+    "created_at": "2026-07-09T19:01:30.698605+00:00"
+},
+{
+    "id": 59838,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If we divide a non-zero vector by its length we get a",
+    "op": [
+        "zero vector",
+        "unit vector",
+        "normalized vector",
+        "none of these"
+    ],
+    "created_at": "2026-07-09T19:01:45.595553+00:00"
+},
+{
+    "id": 59839,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If $u$ and $v$ are non zero vectors in either $R^2$ or $R^3$ then by the law of cosines $||u-vII^2$=---------",
+    "op": [
+        "$||u-v||^2=||u||^2+||v||^2-2||u||||v||cos \\theta$",
+        "$||u-v||^2=||u||^2+||v||^2+2||u||||v||cos \\theta$"
+    ],
+    "created_at": "2026-07-09T19:01:47.506785+00:00"
+},
+{
+    "id": 59841,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let u, v and w be vectors in ${R^n}$, then",
+    "op": [
+        "(u+v).w=u.w+v.w-2u.w",
+        "None of the above",
+        "(u+v).w=u.w-v.w",
+        "(u+v).w=u.w+v.w"
+    ],
+    "created_at": "2026-07-09T19:02:01.045782+00:00"
+},
+{
+    "id": 59843,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If there is a vector $u=(1, -1, 2)$ then $||u||$ is------",
+    "op": [
+        "2",
+        "$\\sqrt{6}$",
+        "0",
+        "$\\sqrt {7}$"
+    ],
+    "created_at": "2026-07-09T19:02:07.000819+00:00"
+},
+{
+    "id": 59845,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "An n x n matrix A is _________ if and only if A has n linearly independent vectors.",
+    "op": [
+        "singular",
+        "diagonalizable",
+        "symmetric",
+        "scalar"
+    ],
+    "created_at": "2026-07-09T19:02:23.813294+00:00"
+},
+{
+    "id": 59848,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix A^T(Transpose of A) x A is invertible if and only if the columns of A are linearly independent.",
+    "op": [
+        "TRUE",
+        "FALSE"
+    ],
+    "created_at": "2026-07-09T19:02:41.157919+00:00"
+},
+{
+    "id": 59850,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Suppose that \\mathop x\\limits^{^} satisfies ${A^T}A\\mathop x\\limits^{^} = {A^T}b$, then we can say that $b-A\\mathop x\\limits^{^}$ is ------------ to the rows of ${A^T}$ and hence is orthogonal to the -------------- of $A$.",
+    "op": [
+        "Orthogonal, rows",
+        "Orthogonal, column",
+        "Parallel, columns",
+        "Parallel, rows"
+    ],
+    "created_at": "2026-07-09T19:02:56.628245+00:00"
+},
+{
+    "id": 59852,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Any orthogonal subsets of vector in an inner product space is linearly independent",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-09T19:03:17.642976+00:00"
+},
+{
+    "id": 59854,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let W be a subspace of $${R^n}$$ y is any vector in $${R^n}$$ and $$\\widehat y$$ the orthogonal projection of y onto W Then $$\\widehat y$$ is the closest point in W to y, in the sense that $$\\parallel y - \\widehat y\\parallel \\angle \\parallel y - v\\parallel$$ The vector $$\\widehat y$$ is called the best approximation to y by elements of W.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-09T19:03:33.801589+00:00"
+},
+{
+    "id": 59856,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If two rows are _________, they are linearly independent.",
+    "op": [
+        "orthonormal",
+        "identical",
+        "orthogonal",
+        "perpendicular"
+    ],
+    "created_at": "2026-07-09T19:03:54.080451+00:00"
+},
+{
+    "id": 59857,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Which of the following set of vectors is NOT an orthogonal set?",
+    "op": [
+        "(3, 0, 0) ;( 0, 1, 0)",
+        "(1, 1, 1) ;( 1, 0,-1)",
+        "(2, 3) ;( -6, 4)",
+        "(1, 2, 0) ;( 1, 0, 3)"
+    ],
+    "created_at": "2026-07-09T19:04:24.796829+00:00"
+},
+{
+    "id": 59860,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If a square matrix has __________ columns, then it also has orthonormal rows.",
+    "op": [
+        "orthonormal",
+        "orthogonal"
+    ],
+    "created_at": "2026-07-09T19:05:06.367387+00:00"
+},
+{
+    "id": 59863,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The zero vector is orthogonal to every vector in $R^n$",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T19:05:55.22701+00:00"
+},
+{
+    "id": 59866,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let W be a subspace of ${R^n}$ and $\\{ {u_1},{u_2},...,{u_p}\\}$ is any orthogonal basis of W, then $\\mathop y\\limits^\\^ = {c_1}{u_1} + {c_2}{u_2} + ... + {c_n}{u_n}$ Where",
+    "op": [
+        "${c_j} = \\frac{{y.{u_j}}}{{{u_j}.{u_j}}}$",
+        "${c_j} = \\frac{{y.{u_j}}}{{u_j}}$",
+        "None of these",
+        "${c_j} = \\frac{{y.{u_j}}}{y}$"
+    ],
+    "created_at": "2026-07-09T19:06:17.753426+00:00"
+},
+{
+    "id": 59869,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let $$s = \\{ {u_1} + {u_2} + ......{u_p}\\}$$ be the set of non-zero vectors in $${R^n}$$ is said to be an orthogonal set if all vectors in S are mutually orthogonal. That is O∉ S and $${u_i}.{u_j} = 0\\,$$ ∀ i≠ j, i,j=1,2,……..p.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T19:06:33.305957+00:00"
+},
+{
+    "id": 59871,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "In least square problem, the vector $Ax$ will necessarily be in the ---------------, no matter what $‘x’$ we choose.",
+    "op": [
+        "Row space Row $A$",
+        "Column space $ColA$"
+    ],
+    "created_at": "2026-07-09T19:06:51.117382+00:00"
+},
+{
+    "id": 59874,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A m ×n matrix U has orthonormal columns if and only if $${U^t}U = I$$",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T19:07:27.343771+00:00"
+},
+{
+    "id": 59876,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let W be a subspace of ${R^n}$ and $\\{ {u_1},{u_2},...,{u_p}\\}$ is an orthonormal basis, then",
+    "op": [
+        "$\\Pr o{j_w}y = (y.{u_1}){u_1} + (y.{u_2}){u_2} + ... + (y.{u_p}){u_p}$",
+        "$\\Pr o{j_w}y = (y.y){u_1} + (y.y){u_2} + ... + (y.y){u_p}$"
+    ],
+    "created_at": "2026-07-09T19:07:36.815028+00:00"
+},
+{
+    "id": 59880,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If u=(1, k, 0) and v=(1, 1, 0) are orthogonal vectors then which of the following is the value of k?",
+    "op": [
+        "k = 0",
+        "k = -1",
+        "k = 2",
+        "k = 1"
+    ],
+    "created_at": "2026-07-09T19:07:50.786709+00:00"
+},
+{
+    "id": 59883,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "For any vectors u and v, the length of vector u – v will be  ___________.",
+    "op": [
+        "|| u – v ||",
+        "| u – v |",
+        "u . v",
+        "|| u . v ||"
+    ],
+    "created_at": "2026-07-09T19:09:06.934185+00:00"
+},
+{
+    "id": 59886,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If the columns of a matrix are ________ then the matrix is invertible.",
+    "op": [
+        "linearly dependent",
+        "linearly independent"
+    ],
+    "created_at": "2026-07-09T19:10:47.832652+00:00"
+},
+{
+    "id": 59887,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Among the three matrices$$A = \\left( {\\begin{array}{*{20}{c}} 1&0 \\\\\\ 0&0 \\end{array}} \\right)$$ $$B = \\left( {\\begin{array}{*{20}{c}} 1&0 \\\\\\ 0&0 \\end{array}} \\right)$$ $$C = \\left( {\\begin{array}{*{20}{c}} 0&1 \\\\\\ 1&0 \\end{array}} \\right)$$ the matrix (matrices) which is (are) diagonalizable over the matrix (matrices) which is (are) diagonalizable over F_2 is (are)_______________________ is (are)_______________________",
+    "op": [
+        "B",
+        "A",
+        "NON OF Above",
+        "C"
+    ],
+    "created_at": "2026-07-09T19:11:03.146317+00:00"
+},
+{
+    "id": 59888,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If A is m\\cross n and b is in $R^n$, a least square solution of $Ax=b$ is an $\\widehat x$ in $R^n$ such that",
+    "op": [
+        "$||b-A\\widehat x||>=||b-Ax|| \\forall x \\in R^n$",
+        "$||b-A\\widehat x ||<=||b-Ax|| \\forall x \\in R^n$"
+    ],
+    "created_at": "2026-07-09T19:11:23.036331+00:00"
+},
+{
+    "id": 59889,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If a square matrix has orthonormal columns, then it also has ______ rows.",
+    "op": [
+        "orthonormal",
+        "orthogonal"
+    ],
+    "created_at": "2026-07-09T19:11:39.03202+00:00"
+},
+{
+    "id": 59890,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If $\\{u_{1}, u_{2}, …, u_{p}\\}$ is an orthonormal basis for a subspace $W$ of $R^n$, then ...",
+    "op": [
+        "$Proj_{w}y=(y.u_{1})u_{p}+(y.u_{2})u_{p}+…+(y.u_{p})u_{p}$",
+        "$Proj_{w}y=(y.u_{1})u_{1}+(y.u_{2})u_{2}+…+(y.u_{p})u_{p}$"
+    ],
+    "created_at": "2026-07-09T19:12:08.624449+00:00"
+},
+{
+    "id": 59891,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix A^T(Transpose of A) x A is ________ if and only if the columns of A are linearly independent.",
+    "op": [
+        "singular",
+        "symmetric",
+        "invertible",
+        "scalar"
+    ],
+    "created_at": "2026-07-09T19:12:24.664595+00:00"
+},
+{
+    "id": 59892,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Two vectors u and v are orthogonal to each other if _____________.",
+    "op": [
+        "u - v = 0",
+        "u . v = 0",
+        "u + v = 0",
+        "u . v = 1"
+    ],
+    "created_at": "2026-07-09T19:12:31.985954+00:00"
+},
+{
+    "id": 59893,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The process of creating the unit vector u from v sometime called--------",
+    "op": [
+        "Diagonalizing v",
+        "Normalizing v"
+    ],
+    "created_at": "2026-07-09T19:12:51.671593+00:00"
+},
+{
+    "id": 59894,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let $A=QR$ be a $QR$ factorization of $A$, then the equation $Ax=b$ has a unique least-squares solution, given by",
+    "op": [
+        "$x^{^}=RQ^{T}b$",
+        "$x^{^}=R^{-1}Q^{T}b$"
+    ],
+    "created_at": "2026-07-09T19:12:59.828255+00:00"
+},
+{
+    "id": 59895,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The product of upper triangular matrices is:",
+    "op": [
+        "Lower triangular matrix",
+        "Diagonal matrix.",
+        "None of the above",
+        "Upper triangular matrix."
+    ],
+    "created_at": "2026-07-09T19:13:08.51755+00:00"
+},
+{
+    "id": 59896,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Two vectors $u$ and $v$ in $R^n$ are orthogonal if ------",
+    "op": [
+        "$u.v \\neq 0$",
+        "$u.v=0$"
+    ],
+    "created_at": "2026-07-09T19:13:17.164407+00:00"
+},
+{
+    "id": 59897,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If u=(2, 0, -1) and v=(0, -1, 0) is an orthogonal set then which of the following has a norm of 1?",
+    "op": [
+        "v.u",
+        "u.v",
+        "v.v",
+        "u.u"
+    ],
+    "created_at": "2026-07-09T19:13:17.378537+00:00"
+},
+{
+    "id": 59898,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If $$s = \\{ {u_1} + {u_2} + ......{u_p}\\}$$ is an orthogonal basis for a subspace W of $${R^n}$$ Then each y in W can be uniquely expressed as a linear combination of $${u_1} + {u_2} + ......{u_p}$$ That is$${c_1}{u_1} + {c_2}{u_2} + ......{c_p}{u_p}$$ Where$$\\frac{{y.{u_j}}}{{{u_j}.{u_j}}}$$",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T19:13:36.17779+00:00"
+},
+{
+    "id": 59899,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let U and W denote nonzero subspaces of a vector space V where no two of U, W and V are equal. If dim V = 3 then:",
+    "op": [
+        "If dim(U$$\\cap$$ W) = 1 then U +W = V.",
+        "dim(U$$\\cap$$ W) = 2",
+        "If dim(U) = 2, then U +W = V.",
+        "dim(U $$\\cap$$W) = 3."
+    ],
+    "created_at": "2026-07-09T19:13:48.235302+00:00"
+},
+{
+    "id": 59900,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If there is a vector $v=(2, 1, 0)$ then $||v||$ is ------",
+    "op": [
+        "2",
+        "0",
+        "3",
+        "$\\sqrt{5}$"
+    ],
+    "created_at": "2026-07-09T19:13:53.725137+00:00"
+},
+{
+    "id": 59901,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If two rows are orthogonal, they are __________.",
+    "op": [
+        "linearly independent",
+        "linearly dependent"
+    ],
+    "created_at": "2026-07-09T19:14:07.126052+00:00"
+},
+{
+    "id": 59902,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "How many subspaces does $R^2$ have?",
+    "op": [
+        "$0, R×0,0×R,R^2$",
+        "None of these",
+        "Infinitely many",
+        "$0$ and $R^2$"
+    ],
+    "created_at": "2026-07-09T19:14:17.558615+00:00"
+},
+{
+    "id": 59903,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Two vectors are linearly independent if at least one of the vector is a multiple of the other.",
+    "op": [
+        "FALSE",
+        "TRUE"
+    ],
+    "created_at": "2026-07-09T19:14:25.297605+00:00"
+},
+{
+    "id": 59904,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let W be a subspace of $R^n$, y be any vector in $R^n$ and $\\widehat y$ the orthogonal projection of $y$ onto $W$. Then $\\widehat y$ is the closest point in $W$ to $y$, in the sense that",
+    "op": [
+        "$||y-\\widehat y ||>||y-v||$",
+        "$||y-\\widehat y||<||y-v||$"
+    ],
+    "created_at": "2026-07-09T19:15:06.618046+00:00"
+},
+{
+    "id": 59905,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let V be an vector space, and let W be a subset of V. What does it mean when we say that W is closed under addition?",
+    "op": [
+        "$W(x+y)=Wx+Wy$ for every two vectors $x$ and $y$",
+        "Whenever $x$ and $y$ are in $V$, then x+y is in $V$"
+    ],
+    "created_at": "2026-07-09T19:16:35.097842+00:00"
+},
+{
+    "id": 59906,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "$${\\text{The }}\\_\\_\\_\\_\\_ ~vector~ is ~orthogonal~ to ~every ~vector ~in~ {R^n}$$",
+    "op": [
+        "unit",
+        "none of these",
+        "zero",
+        "normalized"
+    ],
+    "created_at": "2026-07-09T19:18:19.246606+00:00"
+},
+{
+    "id": 59907,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "An n x n matrix A is invertible if and only if ___________ is not an eigen value of A.",
+    "op": [
+        "1",
+        "0",
+        "2",
+        "-1"
+    ],
+    "created_at": "2026-07-09T19:21:42.690232+00:00"
+},
+{
+    "id": 59908,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A ________ matrix with orthogonal columns is an orthogonal matrix.",
+    "op": [
+        "singular",
+        "diagonal",
+        "rectangular",
+        "square"
+    ],
+    "created_at": "2026-07-09T19:22:53.354823+00:00"
+},
+{
+    "id": 59909,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Which of the following set of vectors is an orthogonal set?",
+    "op": [
+        "(0, 1, 1) ;( 1, 0,-1)",
+        "(1, 0, 1) ;( -1, 0, -1)",
+        "(1, 1, 1) ;( 1, 0,-1)",
+        "(1, 1, 0) ;( 1, 0,-1)"
+    ],
+    "created_at": "2026-07-09T19:24:48.399661+00:00"
+},
+{
+    "id": 59912,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A vector whose length is 1 is called -----------",
+    "op": [
+        "Identity Vector",
+        "Unit Vector"
+    ],
+    "created_at": "2026-07-09T19:27:56.225763+00:00"
+},
+{
+    "id": 59913,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Any set of three non-coplanar vectors {a,b,c} in ordinary space spans the -------- space",
+    "op": [
+        "${R^3}$",
+        "${R^2}$"
+    ],
+    "created_at": "2026-07-09T19:28:47.294388+00:00"
+},
+{
+    "id": 59914,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Elementary row operations on a matrix do not affect the -------- relations among the columns of the matrix.",
+    "op": [
+        "Linear dependence",
+        "Linear independence"
+    ],
+    "created_at": "2026-07-09T19:30:15.427807+00:00"
+},
+{
+    "id": 59915,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If a matrix U has orthonormal columns, then  UUT (transpose of U) = ________.",
+    "op": [
+        "0",
+        "positive",
+        "I",
+        "negative"
+    ],
+    "created_at": "2026-07-09T19:30:45.834537+00:00"
+},
+{
+    "id": 59916,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If $u$ and $v$ are vectors in $R^n$, then we regard $u$ and $v$ as $n \\times 1$ matrices. The matrix product $u^{t}v$ is a ----------- matrix.",
+    "op": [
+        "$1 \\times n$",
+        "$1 \\times 1$",
+        "$n \\times 1$",
+        "$n \\times n$"
+    ],
+    "created_at": "2026-07-09T19:31:31.353583+00:00"
+},
+{
+    "id": 59917,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A matrix with orthogonal columns is an _________ matrix.",
+    "op": [
+        "orthonormal",
+        "identity",
+        "diagonal",
+        "orthogonal"
+    ],
+    "created_at": "2026-07-09T19:32:14.389662+00:00"
+},
+{
+    "id": 59918,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The product of upper triangular matrices is",
+    "op": [
+        "Diagonal matrix.",
+        "None of the above",
+        "Upper triangular matrix",
+        "Lower triangular matrix."
+    ],
+    "created_at": "2026-07-09T19:32:56.112778+00:00"
+},
+{
+    "id": 59919,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A square matrix with orthogonal columns is ________ matrix.",
+    "op": [
+        "an nonivertible",
+        "an orthonormal",
+        "an invertible",
+        "an orthogonal"
+    ],
+    "created_at": "2026-07-09T19:33:23.475307+00:00"
+},
+{
+    "id": 59920,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If B=$$\\{ {v_1},{v_2},{v_3}\\}$$ is an orthogonal set of vectors with respect to an inner product on a vector space V, then the set B",
+    "op": [
+        "Spans the vector space v",
+        "Linearly dependent.",
+        "Is an orthonormal basis for v",
+        "Is linearly independent."
+    ],
+    "created_at": "2026-07-09T19:34:49.130798+00:00"
+},
+{
+    "id": 59921,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If x is _______ to both u and v, then x must be orthogonal to u – v.",
+    "op": [
+        "orthogonal",
+        "orthonormal"
+    ],
+    "created_at": "2026-07-09T19:36:05.457522+00:00"
+},
+{
+    "id": 59922,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let $W$ be a subspace of $R^n$, then each $y$ in $R^n$ can be written uniquely in the form",
+    "op": [
+        "none of the above",
+        "$y=\\widehat y +z$",
+        "$y=\\widehat y /z$",
+        "$y=\\widehat y -z$"
+    ],
+    "created_at": "2026-07-09T19:43:31.28678+00:00"
+},
+{
+    "id": 59924,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If u=(3, 1, 1) and v=(-1, 2, 1) be two vectors then which of the following step is true to show that it is an orthogonal set?",
+    "op": [
+        "Norm of v=1+4+1 = 6",
+        "u/v= (3+1+1)/( -1+2+1)= 5/2",
+        "Norm of u=9+1+1 = 11",
+        "u.v=-3+2+1 = 0"
+    ],
+    "created_at": "2026-07-09T19:43:56.918645+00:00"
+},
+{
+    "id": 59948,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "7x + 2y = 16\n–21x – 6y = 24\nThe above system has a ___________ solution.",
+    "op": [
+        "consistent",
+        "trivial",
+        "inconsistent",
+        "unique"
+    ],
+    "created_at": "2026-07-09T20:10:55.41326+00:00"
+},
+{
+    "id": 59949,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The norm of $v$ is the non-negative scalar$||v||$ defined by",
+    "op": [
+        "$||v||=v_{1}^{2}+v_{2}^{2}+...v_{n}^{2}$",
+        "$||v||=\\sqrt{v_{1}^{2}+v_{2}^{2}+...v_{n}^{2}}$"
+    ],
+    "created_at": "2026-07-09T20:11:29.897794+00:00"
+},
+{
+    "id": 59950,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Suppose x,y,z are some vectors in an inner product space (v,<,>) such that <x,y>=<x,z> for all x∈V, then y=z",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-09T20:11:45.442467+00:00"
+},
+{
+    "id": 59951,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Suppose that $A^{T}A$ is invertible then the equation $Ax=b$ has only one least-squares solution $\\widehat x$ and it is given by",
+    "op": [
+        "$\\widehat x =(A^{T}A)A^{T}b$",
+        "$\\widehat x =(A^{T}A)^(-1)A^{T}b$"
+    ],
+    "created_at": "2026-07-09T20:12:04.852026+00:00"
+},
+{
+    "id": 59952,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The set of least-square solutions of $Ax=b$ coincides with the nonempty set of solutions of the normal equation",
+    "op": [
+        "None of these",
+        "$A^{T} A \\widehat x =A^{T}b$",
+        "$A^{T} A\\widehat x =A^{T}$",
+        "$A\\widehat x=A^{T}$"
+    ],
+    "created_at": "2026-07-09T20:14:09.728817+00:00"
+},
+{
+    "id": 59953,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Orthonormal set is a set of all vectors that are",
+    "op": [
+        "Mutually orthonormal and are of unit length",
+        "Mutually orthonormal and of null length"
+    ],
+    "created_at": "2026-07-09T20:14:45.683566+00:00"
+},
+{
+    "id": 59954,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The set of least square solutions of Ax=b coincides with the non-empty set of solutions of the normal equations",
+    "op": [
+        "${A^T}\\mathop x\\limits^{-} A = b{A^T}$",
+        "${A^T}\\mathop x\\limits^{-} A = b{A^T}$"
+    ],
+    "created_at": "2026-07-09T20:16:07.386768+00:00"
+},
+{
+    "id": 59955,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let $$s = \\{ {u_1} + {u_2} + ......{u_p}\\}$$ be a basis for a subspace W of $${R^n}$$ , is also an orthogonal basis if S is an orthogonal set.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-09T20:16:48.709138+00:00"
+},
+{
+    "id": 59956,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A square matrix with _______ columns is an orthogonal matrix.",
+    "op": [
+        "orthonormal",
+        "even",
+        "orthogonal",
+        "same"
+    ],
+    "created_at": "2026-07-09T20:17:57.834647+00:00"
+},
+{
+    "id": 59958,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If a _____ matrix has orthonormal columns, then it also has orthonormal rows.",
+    "op": [
+        "singular",
+        "square",
+        "rectangular",
+        "diagonal"
+    ],
+    "created_at": "2026-07-09T20:42:12.77136+00:00"
+},
+{
+    "id": 59959,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let B and C denote subsets of a vector space V.",
+    "op": [
+        "If B $$\\subseteq$$C then span(C) = span(B).",
+        "If B $$\\subseteq$$C and C is dependent, then B is dependent.",
+        "If B$$\\subseteq$$ C and C spans V then B spans V.",
+        "If B $$\\subseteq$$C and C is independent then B is independent."
+    ],
+    "created_at": "2026-07-09T20:42:38.010535+00:00"
+},
+{
+    "id": 59965,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Two vectors are _______if at least one of the vector is a multiple of the other",
+    "op": [
+        "linearly dependent",
+        "linearly independent"
+    ],
+    "created_at": "2026-07-09T21:00:33.350373+00:00"
+},
+{
+    "id": 59999,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix ${A^T}A$ is invertible If and only if the columns of A are ------",
+    "op": [
+        "Linearly dependent",
+        "None of the above",
+        "Equal",
+        "linearly independent"
+    ],
+    "created_at": "2026-07-09T22:40:29.94764+00:00"
+},
+{
+    "id": 60000,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let be a five-dimensional vector space, and let be a subset of consisting of five vectors. Then S",
+    "op": [
+        "Must be linearly independent, but cannot span V",
+        "Must be linearly dependent, but may or may not span V"
+    ],
+    "created_at": "2026-07-09T22:40:43.960623+00:00"
+},
+{
+    "id": 60001,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix $A^{T}A$ is invertible iff the columns of A are-----------------------",
+    "op": [
+        "Linearly dependent",
+        "Linearly independent"
+    ],
+    "created_at": "2026-07-09T22:41:51.237692+00:00"
+},
+{
+    "id": 60011,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Any finite dimensional inner product space possesses an orthonormal basis",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T23:34:23.268225+00:00"
+},
+{
+    "id": 60012,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "For u and v vectors in $R^n$, thw distance between u and v written as $dist(u, v)$ is the length of the vector------",
+    "op": [
+        "$v-u$",
+        "$u-v$"
+    ],
+    "created_at": "2026-07-09T23:41:57.918738+00:00"
+},
+{
+    "id": 60013,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "If A is an m x n matrix with linearly independent columns, then A can be factored as A = QR, where Q is an m x n matrix whose columns form an orthonormal basis for Col A and R is an n x n upper triangular invertible matrix with positive entries on its diagonal",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-09T23:46:43.629958+00:00"
+},
+{
+    "id": 60014,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "Let $W$ is a finite dimensional subspace of an inner product space $V$ and $y$ is any vector in $V$. The best approximation to $y$ from $W$ is then",
+    "op": [
+        "$Proj^{y}_{w}$",
+        "$Proj^{w}_{y}$"
+    ],
+    "created_at": "2026-07-09T23:49:19.661465+00:00"
+},
+{
+    "id": 60022,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The two vectors are said to be equivalent if:",
+    "op": [
+        "None of the above",
+        "Both (a) and (b).",
+        "Same length.",
+        "Same direction"
+    ],
+    "created_at": "2026-07-10T00:39:41.744575+00:00"
+},
+{
+    "id": 60038,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix A^T(Transpose of A) x A is invertible if and only if the columns of A are _________.",
+    "op": [
+        "linearly dependent",
+        "linearly independent"
+    ],
+    "created_at": "2026-07-10T02:13:59.497184+00:00"
+},
+{
+    "id": 60467,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "The matrix [Math Processing Error]ATA${A^T}A$ is invertible If and only if the columns of A are ------",
+    "op": [
+        "None of the above",
+        "linearly independent",
+        "Linearly dependent",
+        "Equal"
+    ],
+    "created_at": "2026-07-10T16:39:39.509998+00:00"
+},
+{
+    "id": 60475,
+    "cc": "MTH501",
+    "qn": "4",
+    "dt": "10 July 2026",
+    "qt": "A m ×n matrix U has orthonormal columns if and only if [Math Processing Error]$${U^t}U = I$$",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-10T16:54:11.582821+00:00"
+},
+{
+    "id": 71652,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The only 0-dimensional subspace of {R^3} is",
+    "op": [
+        "Infinite space",
+        "\\left\\{ {a,b} \\right\\}",
+        "None of the above",
+        "Zero space"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71653,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "A set of two non-zero vectors are linearly independent if and only if they are --------------- to/of each other.",
+    "op": [
+        "Equal",
+        "Scalar multiple"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71654,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "For a given matrix \\[\\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\\\\\ 0&0&1&2&1&{ - 4} \\\\\\ 0&0&0&0&1&7 \\\\\\ 0&0&0&0&0&0 \\end{array}} \\right]\\] which of the following are basis vectors. ",
+    "op": [
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} 6 \\\\\\ { - 4} \\\\\\ 7 \\\\\\ 0 \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 4} \\\\\\ 1 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right]\\]",
+        "\\[\\begin{gathered} \\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 1&0&1&2&1&{ - 4} \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 0&0&0&0&1&7 \\end{array}} \\right] \\hfill \\\\\\ \\end{gathered} \\]"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71655,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The only 0-dimensional subspace of R^3 is ---------",
+    "op": [
+        "Uni space",
+        "Zero space"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71656,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The set B={1,x,x^2,…,x^n} forms a basis for the vector space P_n of polynomial of degree ",
+    "op": [
+        "\\leq n",
+        "None of these",
+        "\\geq n",
+        "n"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71657,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Any set of linearly independent vectors cannot contain the ----------- vector.",
+    "op": [
+        "Unit",
+        "Identity",
+        "zero",
+        "None of these"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71658,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "\\[If~ A ~is~ an~ m \\times n ~matrix ~then\\]",
+    "op": [
+        "\\[rank A = \\dim NulA + n\\]",
+        "\\[rank A = \\dim Nul A\\]",
+        "\\[rank A = n\\]",
+        "\\[rank A + \\dim NulA = n\\]"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71659,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If Coordinates vector of the polynomial p=\\[5 - 4x - 3{x^2}\\] relative to the basis S = \\[\\{ 1,x,{x^2}\\} \\] for \\[{p_2}\\]then linear combination of the basis set S is ",
+    "op": [
+        "\\[{[p]_s} = (5, - 4, - 3)\\]",
+        "\\[{[p]_s} = (5,4,3)\\]",
+        "\\[{[p]_s} = (5,3,4)\\]",
+        "\\[{[p]_s} = (5, - 4,3)\\]"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71660,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Rank of the matrix A=\\left[ \\begin{gathered} 0\\,\\,\\,0\\,\\,\\,0\\,\\,\\,0 \\hfill \\\\ 4\\,\\,\\,6\\,\\,\\,\\,1\\,\\,\\,\\,0\\, \\hfill \\\\ 1\\,\\,\\,\\,\\,0\\,\\,\\,\\,0\\,\\,\\,\\,0 \\hfill \\\\\\ \\end{gathered} \\right]",
+    "op": [
+        "1",
+        "0",
+        "2",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71661,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Let $S = \\left\\{ {{v_1},{v_2}, \\ldots ,{v_n}} \\right\\}$ be a set in V and le $H = span\\left\\{ {{v_1},{v_2}, \\ldots ,{v_p}} \\right\\}$ . Some subsets of S are basis for H if --------------",
+    "op": [
+        "$H={0}$",
+        "$H \\ne \\left\\{ 0 \\right\\}$"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71662,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If n>m, then the set \\left\\{ {{a_1},{a_2}, \\ldots ,{a_n}} \\right\\} of vectors in {R^m} must be ---------",
+    "op": [
+        "Linearly Dependent",
+        "Linearly Independent"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71663,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Let S = \\left\\{ {{v_1},{v_2}, \\ldots ,{v_n}} \\right\\} be a set in V and le H = span\\left\\{ {{v_1},{v_2}, \\ldots ,{v_p}} \\right\\} . Some subsets of S are basis for H if --------------",
+    "op": [
+        "H \\ne \\left\\{ 0 \\right\\}",
+        "H={0}"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71664,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If Coordinates vector of the polynomial \\[p = {a_0} + {a_1}x + {a_2}{x_2}\\] Relative to the basis S = \\[\\{ 1,x,{x^2}\\} \\,\\,\\,\\] for \\[{p_2}\\] then linear combination of the basis set S is",
+    "op": [
+        "\\[{[p]_s} = ({a_0} + {a_1} + {a_2})\\]",
+        "\\[{[p]_s} = [{a_0} + {a_1} + {a_2}]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71665,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "An indexed set of vectors ${v_1,v_2,…,v_p}$ in $V$ is said to be linearly independent if the vector equation",
+    "op": [
+        "${c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} = 1$",
+        "None of the above.",
+        "${c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} =0 $",
+        "${c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} \\ne 0$"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71666,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If Coordinates vector of the polynomial p = {a_0} + {a_1}x + {a_2}{x_2} Relative to the basis S = \\{ 1,x,{x^2}\\} \\,\\,\\, for {p_2} then linear combination of the basis set S is",
+    "op": [
+        "{[p]_s} = [{a_0} + {a_1} + {a_2}]",
+        "{[p]_s} = ({a_0} + {a_1} + {a_2})"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71667,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "\\[\\begin{gathered} if~ A ~is~ a~ 4 \\times 5~ matrix~ with~ a~ two ~- {\\text{dimentinal}}~ null space, ~ \\hfill \\\\ what~ is~ rank ~of ~A \\hfill \\\\\\ \\end{gathered} \\]",
+    "op": [
+        "6",
+        "5",
+        "7",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71668,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If n>m, then the set $\\left\\{ {{a_1},{a_2}, \\ldots ,{a_n}} \\right\\}$ of vectors in ${R^m}$ must be ---------",
+    "op": [
+        "Linearly Independent",
+        "Linearly Dependent"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71669,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If n>m, then the n vectors \\left\\{ {{a_1},{a_2}, \\ldots ,{a_n}} \\right\\} are --------- of an m \\times n matrix A",
+    "op": [
+        "Rows",
+        "Columns"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71670,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "In \\dim \\left( {{R^n}} \\right) = n, the standard basis has ------- vectors",
+    "op": [
+        "n",
+        "n+1",
+        "mn",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71671,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Rank of the matrix A =\\left[ {\\begin{array}{*{20}{c}} 0&0&0&0 \\\\\\ 4&6&1&0 \\\\\\ 1&0&0&0 \\end{array}} \\right]",
+    "op": [
+        "2",
+        "1",
+        "0",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71672,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "In two coordinate system, {\\left( {\\mathop P\\limits_{C \\leftarrow B} } \\right)^{ - 1}} is the matrix that converts ",
+    "op": [
+        "C-coordinates into C-coordinates",
+        "B-coordinates into C-coordinates",
+        "B-coordinates into B-coordinates",
+        "C-coordinates into B-coordinates"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71673,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "A set of single non-zero vector is",
+    "op": [
+        "None of the above",
+        "Linearly Independent",
+        "Basis",
+        "Linearly Dependent"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71674,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "A single non-zero vector always forms a linearly -------------- set.",
+    "op": [
+        "Independent",
+        "Dependent"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71675,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The vectors spaces F(-\\infty, +\\infty) and C(-\\infty, +\\infty) are ----------",
+    "op": [
+        "Infinite-dimensional",
+        "Finite-dimensional"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71676,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "An indexed set of vectors {v_1,v_2,…,v_p} in V is said to be linearly independent if the vector equation",
+    "op": [
+        "None of the above.",
+        "{c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} \\ne 0",
+        "{c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} = 1",
+        "{c_1}{v_1} + {c_2}{v_2} + \\ldots + {c_p}{v_p} =0"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71677,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If $n>m$, then the $n$ vectors $\\left\\{ {{a_1},{a_2}, \\ldots ,{a_n}} \\right\\}$ are --------- of an $m \\times n$ matrix $A$.",
+    "op": [
+        "Columns",
+        "Rows"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71678,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If Coordinates vector of the polynomial p=5 - 4x - 3{x^2} relative to the basis S = \\{ 1,x,{x^2}\\} for {p_2}then linear combination of the basis set S is ",
+    "op": [
+        "{[p]_s} = (5, - 4, - 3)",
+        "{[p]_s} = (5,4,3)",
+        "{[p]_s} = (5, - 4,3)",
+        "{[p]_s} = (5,3,4)"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71679,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If a vector space V has a basis of n vectors then every basis of V must consists of exactly --------",
+    "op": [
+        "n-1 vectors",
+        "n vectors",
+        "n+2 vectors",
+        "n+1 vectors"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71680,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If a vector space V has a basis B={b_1, b_2, …, b_n} then any set in V, containing more than n vectors, must be -----------",
+    "op": [
+        "Linearly Independent",
+        "Linearly dependent"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71681,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Rank of the matrix A=\\[\\left[ \\begin{gathered} 0\\,\\,\\,0\\,\\,\\,0\\,\\,\\,0 \\hfill \\\\ 4\\,\\,\\,6\\,\\,\\,\\,1\\,\\,\\,\\,0\\, \\hfill \\\\ 1\\,\\,\\,\\,\\,0\\,\\,\\,\\,0\\,\\,\\,\\,0 \\hfill \\\\\\ \\end{gathered} \\right]\\]",
+    "op": [
+        "1",
+        "2",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71682,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "Dim(M_{m\\times n})=-------",
+    "op": [
+        "m-n",
+        "m+n",
+        "mn*",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71683,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The dimension of the zero vector space \\left\\{ 0 \\right\\} is defined to be",
+    "op": [
+        "1",
+        "None of these",
+        "0",
+        "\\infty"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71684,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "A vector space V with a basis B containing n vectors is isomorphic to R^n i.e., there exist a ------------- linear transformation from V to R^n",
+    "op": [
+        "One-to-one",
+        "Onto"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71685,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "\\begin{gathered} if~ A ~is~ a~ 4 \\times 5~ matrix~ with~ a~ two ~- {\\text{dimentinal}}~ null space, ~ \\hfill \\\\ what~ is~ rank ~of ~A \\hfill \\\\\\ \\end{gathered}",
+    "op": [
+        "7",
+        "5",
+        "3",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71686,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The set of unit vectors {i,j,k}form a basis of ",
+    "op": [
+        "R^2",
+        "R",
+        "R^4",
+        "R^3"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71687,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "For a given matrix \\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\\\\\ 0&0&1&2&1&{ - 4} \\\\\\ 0&0&0&0&1&7 \\\\\\ 0&0&0&0&0&0 \\end{array}} \\right] which of the following are basis vectors. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} 6 \\\\\\ { - 4} \\\\\\ 7 \\\\\\ 0 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 2} \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 0 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 3} \\\\\\ 1 \\\\\\ 0 \\\\\\ 0 \\end{array}} \\right], \\left[ {\\begin{array}{*{20}{c}} { - 4} \\\\\\ 1 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]",
+        "\\begin{gathered} \\left[ {\\begin{array}{*{20}{c}} 1&{ - 2}&{ - 3}&{ - 4}&{ - 4}&6 \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 1&0&1&2&1&{ - 4} \\end{array}} \\right] \\hfill \\\\ \\left[ {\\begin{array}{*{20}{c}} 0&0&0&0&1&7 \\end{array}} \\right] \\hfill \\\\\\ \\end{gathered}"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71688,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If B=/{b_{1}, b_{2}, …, b_{n}/} and E is the standard basis /{e_{1}, e_{2}, …, e_{n}/} in R^{n}, then ",
+    "op": [
+        "[b_{1}]_{E}=0",
+        "[b_{1}]_{E}=b_{1}"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71697,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If A is any matrix, then Rank(A) = Rank({A^T})",
+    "op": [
+        "false",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71698,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "The pivot columns of a matrix A form a basis for -----------",
+    "op": [
+        "ColA",
+        "RowA"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71699,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "26 December 2025",
+    "qt": "If~ A ~is~ an~ m \\times n ~matrix ~then",
+    "op": [
+        "rank A + \\dim NulA = n",
+        "rank A = n",
+        "rank A = \\dim NulA + n",
+        "rank A = \\dim Nul A"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 71798,
+    "cc": "MTH501",
+    "qn": "02",
+    "dt": "30 December 2025",
+    "qt": "Rank of the matrix A=",
+    "op": [
+        "1",
+        "3",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:11.101602+00:00"
+},
+{
+    "id": 72382,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "For a non-singular matrix A, A^{-1} is equal to------",
+    "op": [
+        "Adj(A)/det(A)*",
+        "None of the above.",
+        "det(A)*A",
+        "det(A)*Adj(A)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72383,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\left( {\\begin{array}{*{20}{c}} 3&0&0 \\\\\\ 5&4&0 \\\\\\ 3&6&1 \\end{array}} \\right) The Eigen-values are",
+    "op": [
+        "(3,4,2)",
+        "(3,4,5)",
+        "(2.3,5)",
+        "(3,4,1)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72384,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "An n \\times n matrix A is said to be diagonalizable if and only if A has n ------------------------------ eigenvectors.",
+    "op": [
+        "Linearly Independent",
+        "Linearly dependent"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72385,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "An n \\times n matrix is diagonalizable with n --------- eigenvalues",
+    "op": [
+        "Distinct",
+        "Similar",
+        "0",
+        "Identical"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72386,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\[{\\rm{If}}\\,{\\rm{AB = I = BA \\,\\ for }}\\,\\ matrices{\\rm{ }}A,\\,B\\;and\\,I,{\\rm{ }}where\\;\\,I\\,is\\,\\ an \\,\\ identity \\,\\ matrix, \\,\\ then\\]",
+    "op": [
+        "${A^{( - 1)}} = B,{B^{( - 1)}} = A,$",
+        "All of the above.",
+        "$B$ is inverse of $A$,",
+        "$A$ is inverse of $B$,"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72388,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "{\\rm{If}}\\,{\\rm{AB = I = BA \\,\\ for }}\\,\\ matrices{\\rm{ }}A,\\,B\\;and\\,I,{\\rm{ }}where\\;\\,I\\,is\\,\\ an \\,\\ identity \\,\\ matrix, \\,\\ then",
+    "op": [
+        "All of the above.",
+        "{A^{( - 1)}} = B,{B^{( - 1)}} = A,",
+        "A is inverse of B,",
+        "B is inverse of A,"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72389,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If A be n \\times n matrix, then det (A^T) = ______________.",
+    "op": [
+        "1 / det A",
+        "inverse of A",
+        "det A",
+        "det A^T"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72390,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let A be a real 2 by 2 matrix with complex eigen values \\lambda=a-b+{i}, (b\\neq 0) and associated eigenvectors v in C^2, then A=PCP^{-1}, where P=--------------",
+    "op": [
+        "P=[Rev Imv]",
+        "P=[-Rev -Imv]",
+        "P=[-Rev Imv]",
+        "P=[Rev -Imv]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72391,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If 3 is an eigenvalue of A and x is a corresponding eigenvector, then what is the eigenvalue of A^2 ?",
+    "op": [
+        "9",
+        "6",
+        "12",
+        "3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72392,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\lambda is an eigenvalue of a matrix A if and only if the equation (A-\\lambdaI)x=0 has a ---------",
+    "op": [
+        "Non-trivial solution",
+        "Trivial Solution"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72393,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Which of the following is (are) the Eignvalue(s) of the matrix? \\[A = \\left[ {\\,\\begin{array}{*{20}{c}} 3&0\\\\\\5&3 \\end{array}\\,} \\right]\\]",
+    "op": [
+        "5",
+        "3",
+        "3, 4",
+        "3, 5"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72394,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let A and B be the square matrices. Then, A and B are invertible with B = {A^{ - 1}} and A = {B^{ - 1}} if and only if AB = BA equals to a (an) _____ matrix.",
+    "op": [
+        "Rectangular",
+        "Square",
+        "Identity",
+        "Singular"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72395,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If A is invertible and b in R^n be any vector. Then, we must have a matrix {A^{ - 1}}b ,which is a solution of _______.",
+    "op": [
+        "{A^{ - 1}}x = b",
+        "Ax = b",
+        "{A^2}x = b",
+        "{A^t}x = b"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72396,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If \\lambda + 2 is a factor of the characteristic polynomial of matrix C , then which of the following is the Eigenvalue of C ?",
+    "op": [
+        "-2",
+        "\\frac{1}{2}",
+        "0",
+        "2"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72397,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Corresponding to highest Eigen value the eigenvector is \\left( {\\begin{array}{*{20}{c}} 1&6&1 \\\\\\ 1&2&0 \\\\\\ 0&0&3 \\end{array}} \\right)",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\\\\\ 2 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 2 \\\\\\ 0 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\\\\\ 1 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72398,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If one of the eigenvalues of [A]_{n\\times n} is zero, it implies --------",
+    "op": [
+        "The determinant of [A] is zero",
+        "The solution to [A][X]=[C]a system of equations is unique",
+        "The solution to [A][X]=[0] system of equations is trivial",
+        "The determinant of [A] is nonzero"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72399,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "An{\\text{_____}} matrix~with~n~distinct~eigenvalues~is~diagonlizable",
+    "op": [
+        "Null",
+        "None of these",
+        "m \\times n",
+        "n \\times n"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72400,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If one of the Eigenvalues of {\\left[ A \\right]_{n \\times n}} is zero, it implies ",
+    "op": [
+        "The solution to [A][X]=[C] system of equations is unique",
+        "The determinant of [A] is zero",
+        "The solution to [A][X]=[0]",
+        "The determinant of [A] is nonzero"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72401,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "The set of all solutions of (A-\\lambdaI)x is just the ……………………. Of the matrix A",
+    "op": [
+        "None of the above",
+        "Topological space",
+        "Metric space",
+        "Null space"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72402,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If \\lambda - 2 is a factor of the characteristic polynomial of matrix A , then which of the following is the Eigenvalue of A ?",
+    "op": [
+        "-2",
+        "2",
+        "0",
+        "\\frac{1}{2}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72403,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "The complex conjugate of a complex vectorx in C^n is the vector \\bar{x} in C^{n} whose entries are the ------------ conjugates of the entries in x",
+    "op": [
+        "Complex",
+        "Real"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72404,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If \\lambda is an eigenvector of A, then every nonzero vector x such that Ax=\\lambda x is called an ----------------- of A corresponding to -----------",
+    "op": [
+        "Eigenvector, A",
+        "Eigenvalue, \\lambda",
+        "Eigenvalue, A",
+        "Eigenvector, \\lambda"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72405,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\begin{gathered} {x_1} + 2{x_2} + 3{x_3} = 7 \\hfill \\\\\\\\ 4{x_1} + {x_2} + 2{x_3} = 2 \\hfill \\\\\\\\ - 4{x_1} + 3{x_2} + 9{x_3} = 4 \\hfill \\\\\\\\\\\\ \\end{gathered} The augmented matrix for the system is ----------- ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}} \\right]",
+        "\\left( {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}} \\right)",
+        "\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72406,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "A transformation T:{R^n} \\to {R^m} is a rule that assigns to each vector x in {R^n} , an image vector T(x) in {R^m}. The set {R^n} is called the__________ , and {R^m} is called the _______. ",
+    "op": [
+        "domain of T, co-domain of T",
+        "co-domain of T, domain of T"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72407,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\phi is the angle between the positive x-axis and the ray ",
+    "op": [
+        "From (0,0) through (a,b)",
+        "From (a,b) through (0,0)",
+        "From (1,1) through (0,0)",
+        "None of these"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72408,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If A is an invertible square matrix then",
+    "op": [
+        "None of the above",
+        "{\\left( {{A^T}} \\right)^{ - 1}} = {\\left( {{A^{ - 1}}} \\right)^T}",
+        "{\\left( {{A^T}} \\right)^{ - 1}} = {\\left( {{A^{ - 1}}} \\right)^{-1}}",
+        "{\\left( {{A^T}} \\right)^T} = {\\left( {{A^{ - 1}}} \\right)^T}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72409,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "A matrix A is diagonalizable if and only if there are enough eigenvectors to form a basis of ",
+    "op": [
+        "None of the above",
+        "R^n",
+        "R^3",
+        "R^2"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72410,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let V be a five-dimensional vector space, and let S be a subset of V which spans V. Then S",
+    "op": [
+        "Must be linearly dependent",
+        "Must have infinitely many elements",
+        "Must be a basis for V",
+        "Must have at most five elements"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72411,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If \\lambda is an eigenvalue of a matrix A and x is a corresponding eigenvector, and if k is any positive integer, then {\\lambda ^k} is an eigenvalue of ______ and x is a corresponding eigenvector. ",
+    "op": [
+        "\\lambda ^k",
+        "A^k",
+        "\\lambda",
+        "A"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72412,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let A be a real 2 by 2 matrix with complex eigen values \\lambda = a - bi(b \\ne 0) and associated eigenvectors v in {C^2} , then",
+    "op": [
+        "A = {P^{ - 1}}CP",
+        "A = PC{P^{ - 1}}",
+        "None of the above",
+        "P = AC{P^{ - 1}}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72413,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If \\lambda + 7 is a factor of the characteristic polynomial of a matrix C , then which of the following is the Eigenvalue of C ?",
+    "op": [
+        "0",
+        "\\frac{1}{7}",
+        "7",
+        "-7"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72414,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Diagonalization is a process of transforming a vector A to the form ",
+    "op": [
+        "A=PDP^{-1}",
+        "A=P^{-1}DP"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72415,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let A be an n by n matrix whose distinct eigen values are \\lambda_{1}, \\lambda_{2},…, \\lambda_{p}. For 1 \\leq k \\leq p, the dimension of the eigen space for \\lambda_{k} is -------- than or ------- to the multiplicity of the eigen value \\lambda_{k}",
+    "op": [
+        "Greater, equal",
+        "Less, equal"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72416,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Which of the following is (are) the Eignvalue(s) of the matrix? A = \\left[ {\\,\\begin{array}{*{20}{c}} 3&0\\\\\\5&3 \\end{array}\\,} \\right]",
+    "op": [
+        "5",
+        "3, 5",
+        "3",
+        "3, 4"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72417,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If A is a m×n matrix and \\[A = A^T\\], which of the following must always be true?",
+    "op": [
+        "m = n",
+        "m and n are different"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72418,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "The eigenvalues of a 4 by 4 matrix [A] are given as 2, -3, 1, 3 and 7. The |det(A)| then is ",
+    "op": [
+        "530",
+        "25",
+        "546",
+        "cannot be determined"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72419,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\[\\left( {\\begin{array}{*{20}{c}} 3&0&0 \\\\\\ 5&4&0 \\\\\\ 3&6&1 \\end{array}} \\right)\\] The Eigen-values are",
+    "op": [
+        "(3,4,5)",
+        "(3,4,1)",
+        "(3,4,2)",
+        "(2.3,5)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72420,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Let A be an n \\times n matrix whose distinct eigen values are \\lambda_1, \\lambda_2, …, \\lambda_p. The matrix A is diagonalizable if and only if the ----------- of the dimensions of the distinct eigen spaces is equal to n",
+    "op": [
+        "sum",
+        "Product"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72421,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\[\\begin{gathered} {x_1} + 2{x_2} + 3{x_3} = 7 \\hfill \\\\\\\\ 4{x_1} + {x_2} + 2{x_3} = 2 \\hfill \\\\\\\\ - 4{x_1} + 3{x_2} + 9{x_3} = 4 \\hfill \\\\\\\\\\\\ \\end{gathered} \\] The augmented matrix for the system is ----------- ",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ { - 4}&1&2 \\\\\\\\\\\\ 4&3&9 \\end{array}\\,\\,\\,\\,\\begin{array}{*{20}{c}} 7 \\\\\\\\\\\\ 2 \\\\\\\\\\\\ 4 \\end{array}} \\right]$",
+        "\\[\\left( {\\begin{array}{*{20}{c}} 1&2&3 \\\\\\\\\\\\ 4&1&2 \\\\\\\\\\\\ { - 4}&3&9 \\end{array}} \\right)\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72423,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "If A is a m×n matrix and A = A^T, which of the following must always be true?",
+    "op": [
+        "m and n are different",
+        "m = n"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72425,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "Corresponding to highest Eigen value the eigenvector is \\[\\left( {\\begin{array}{*{20}{c}} 1&6&1 \\\\\\ 1&2&0 \\\\\\ 0&0&3 \\end{array}} \\right)\\]",
+    "op": [
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 1 \\\\\\ 2 \\\\\\ 0 \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 0 \\\\\\ 1 \\\\\\ 2 \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 0 \\\\\\ 1 \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2 \\\\\\ 1 \\\\\\ 0 \\end{array}} \\right]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72426,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "\\[An{\\text{_____}} matrix~with~n~distinct~eigenvalues~is~diagonlizable\\]",
+    "op": [
+        "None of these",
+        "Null",
+        "\\[m \\times n\\]",
+        "\\[n \\times n\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72427,
+    "cc": "MTH501",
+    "qn": "03",
+    "dt": "02 January 2026",
+    "qt": "$\\phi $ is the angle between the positive x-axis and the ray ",
+    "op": [
+        "From (a,b) through (0,0)",
+        "From (0,0) through (a,b)",
+        "None of these",
+        "From (1,1) through (0,0)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 73201,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If A is m\\cross n and b is in R^n, a least square solution of Ax=b is an \\widehat x in R^n such that ",
+    "op": [
+        "||b-A\\widehat x ||<=||b-Ax|| \\forall x \\in R^n",
+        "||b-A\\widehat x||>=||b-Ax|| \\forall x \\in R^n"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73202,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "The zero vector is orthogonal to every vector in R^n",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73203,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W is a finite dimensional subspace of an inner product space V and y is any vector in V. The best approximation to y from W is then ",
+    "op": [
+        "Proj^{y}_{w}",
+        "Proj^{w}_{y}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73204,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Each pair of eigenvalue and its corresponding eigenvector provides a solution of the equation x’=Ax which is called ---------------- of the differential equation.",
+    "op": [
+        "Eigen functions",
+        "Eigen vectors"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73205,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "A m ×n matrix U has orthonormal columns if and only if {U^t}U = I",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73206,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of {R^n} and \\{ {u_1},{u_2},...,{u_p}\\} is an orthonormal basis, then",
+    "op": [
+        "\\Pr o{j_w}y = (y.y){u_1} + (y.y){u_2} + ... + (y.y){u_p}",
+        "\\Pr o{j_w}y = (y.{u_1}){u_1} + (y.{u_2}){u_2} + ... + (y.{u_p}){u_p}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73207,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of {R^n} and \\{ {u_1},{u_2},...,{u_p}\\} is any orthogonal basis of W, then \\mathop y\\limits^\\^ = {c_1}{u_1} + {c_2}{u_2} + ... + {c_n}{u_n} Where ",
+    "op": [
+        "{c_j} = \\frac{{y.{u_j}}}{{u_j}}",
+        "None of these",
+        "{c_j} = \\frac{{y.{u_j}}}{y}",
+        "{c_j} = \\frac{{y.{u_j}}}{{{u_j}.{u_j}}}"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73208,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If a vector x_0 is specified, then the initial value problem is to construct the unique function x such that --------",
+    "op": [
+        "x’=Ax and x(0)=x_0",
+        "x’=Ax’ and x(0)=x_0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73213,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "How many subspaces does R^2 have?",
+    "op": [
+        "None of these",
+        "Infinitely many",
+        "0 and R^2",
+        "0, R×0,0×R,R^2"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73216,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let u, v and w be vectors in {R^n}, then",
+    "op": [
+        "(u+v).w=u.w+v.w",
+        "(u+v).w=u.w+v.w-2u.w",
+        "(u+v).w=u.w-v.w",
+        "None of the above"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73218,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Two vectors u and v in R^n are orthogonal if ------",
+    "op": [
+        "u.v \\neq 0",
+        "u.v=0"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73220,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "For u and v vectors in R^n, thw distance between u and v written as dist(u, v) is the length of the vector------",
+    "op": [
+        "u-v",
+        "v-u"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73221,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Suppose that real solutions y_1 and y_2 of x’=Ax, form a basis for the two-dimensional real vector space if y_1 and y_2 are ……..",
+    "op": [
+        "Linearly Independent",
+        "Linearly dependent"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73222,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let s = \\{ {u_1} + {u_2} + ......{u_p}\\} be a basis for a subspace W of {R^n} , is also an orthogonal basis if S is an orthogonal set.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73223,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If s = \\{ {u_1} + {u_2} + ......{u_p}\\} is an orthogonal basis for a subspace W of {R^n} Then each y in W can be uniquely expressed as a linear combination of {u_1} + {u_2} + ......{u_p} That is{c_1}{u_1} + {c_2}{u_2} + ......{c_p}{u_p} Where\\frac{{y.{u_j}}}{{{u_j}.{u_j}}} ",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73231,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If u and v are vectors in R^n, then we regard u and v as n \\times 1 matrices. The matrix product u^{t}v is a ----------- matrix.",
+    "op": [
+        "1 \\times 1",
+        "n \\times n",
+        "1 \\times n",
+        "n \\times 1"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73232,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is true for the matrix \\[M = \\left[ \\begin{array}{l} \\,{M_{\\,11}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,12}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,13}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,22}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,23}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,33}}\\, \\end{array} \\right]\\,;\\] where ${M_{\\,\\,11}}$ , ${M_{\\,22}}$ and ${M_{\\,33}}$ are square sub-matrices , and $O$ is a zero sub-matrix ? ",
+    "op": [
+        "It is diagonal-constant matrix.",
+        "It is a block upper triangular matrix.",
+        "It is a block lower triangular matrix.",
+        "It is a Null matrix."
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73242,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If u and v are non zero vectors in either R^2 or R^3 then by the law of cosines ||u-vII^2=---------",
+    "op": [
+        "||u-v||^2=||u||^2+||v||^2-2||u||||v||cos \\theta",
+        "||u-v||^2=||u||^2+||v||^2+2||u||||v||cos \\theta"
+    ],
+    "created_at": "2026-07-15T13:35:28.182891+00:00"
+},
+{
+    "id": 73255,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of R^n, then each y in R^n can be written uniquely in the form ",
+    "op": [
+        "y=\\widehat y -z",
+        "y=\\widehat y /z",
+        "none of the above",
+        "y=\\widehat y +z"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73257,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "{\\text{The }}\\_\\_\\_\\_\\_ ~vector~ is ~orthogonal~ to ~every ~vector ~in~ {R^n}",
+    "op": [
+        "none of these",
+        "zero",
+        "unit",
+        "normalized"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73258,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If there is a vector u=(1, -1, 2) then ||u|| is------",
+    "op": [
+        "\\sqrt{6}",
+        "0",
+        "2",
+        "\\sqrt {7}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73259,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If there is a vector v=(2, 1, 0) then ||v|| is ------",
+    "op": [
+        "3",
+        "2",
+        "\\sqrt{5}",
+        "0"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73260,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let \\[s = \\{ {u_1} + {u_2} + ......{u_p}\\} \\] be a basis for a subspace W of \\[{R^n}\\] , is also an orthogonal basis if S is an orthogonal set.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73261,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If \\{u_{1}, u_{2}, …, u_{p}\\} is an orthonormal basis for a subspace W of R^n, then ...",
+    "op": [
+        "Proj_{w}y=(y.u_{1})u_{1}+(y.u_{2})u_{2}+…+(y.u_{p})u_{p}",
+        "Proj_{w}y=(y.u_{1})u_{p}+(y.u_{2})u_{p}+…+(y.u_{p})u_{p}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73262,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "\\[{\\text{The }}\\_\\_\\_\\_\\_ ~vector~ is ~orthogonal~ to ~every ~vector ~in~ {R^n}\\]",
+    "op": [
+        "unit",
+        "zero",
+        "none of these",
+        "normalized"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73263,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of R^n, y be any vector in R^n and \\widehat y the orthogonal projection of y onto W. Then \\widehat y is the closest point in W to y, in the sense that ",
+    "op": [
+        "||y-\\widehat y ||>||y-v||",
+        "||y-\\widehat y||<||y-v||"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73264,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Each pair of eigenvalue and its corresponding eigenvectors provides a solution of the equation x' = Ax which is called",
+    "op": [
+        "dynamical system",
+        "solution matrix",
+        "eigenfunctions",
+        "vector space"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73265,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of ${R^n}$ and $\\{ {u_1},{u_2},...,{u_p}\\} $ is any orthogonal basis of W, then $\\mathop y\\limits^\\^ = {c_1}{u_1} + {c_2}{u_2} + ... + {c_n}{u_n}$ Where ",
+    "op": [
+        "${c_j} = \\frac{{y.{u_j}}}{{{u_j}.{u_j}}}$",
+        "${c_j} = \\frac{{y.{u_j}}}{{u_j}}$",
+        "None of these",
+        "${c_j} = \\frac{{y.{u_j}}}{y}$"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73267,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "A m ×n matrix U has orthonormal columns if and only if \\[{U^t}U = I\\]",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73268,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let W be a subspace of ${R^n}$ and $\\{ {u_1},{u_2},...,{u_p}\\} $ is an orthonormal basis, then",
+    "op": [
+        "$\\Pr o{j_w}y = (y.y){u_1} + (y.y){u_2} + ... + (y.y){u_p}$",
+        "$\\Pr o{j_w}y = (y.{u_1}){u_1} + (y.{u_2}){u_2} + ... + (y.{u_p}){u_p}$"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73269,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Each pair of eigenvalue and its corresponding eigenvectors provides a solution of the equation \\[x' = Ax\\] which is called",
+    "op": [
+        "vector space",
+        "solution matrix",
+        "dynamical system",
+        "eigenfunctions"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73275,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If B=\\{ {v_1},{v_2},{v_3}\\} is an orthogonal set of vectors with respect to an inner product on a vector space V, then the set B",
+    "op": [
+        "Spans the vector space v",
+        "Is linearly independent.",
+        "Linearly dependent.",
+        "Is an orthonormal basis for v"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73281,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If \\[s = \\{ {u_1} + {u_2} + ......{u_p}\\} \\] is an orthogonal basis for a subspace W of \\[{R^n}\\] Then each y in W can be uniquely expressed as a linear combination of \\[{u_1} + {u_2} + ......{u_p}\\] That is\\[{c_1}{u_1} + {c_2}{u_2} + ......{c_p}{u_p}\\] Where\\[\\frac{{y.{u_j}}}{{{u_j}.{u_j}}}\\] ",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73286,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "For u, v vectors in {R^n}, the distance between u and v is written as ",
+    "op": [
+        "dist(u,v) = ||u - u||",
+        "dist(u,v) = ||u - v||",
+        "dist(u,v) = ||v-v||",
+        "None of these"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73290,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Which of the following is true for the matrix M = \\left[ \\begin{array}{l} \\,{M_{\\,11}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,12}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,13}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,22}}\\,\\,\\,\\,\\,\\,\\,{M_{\\,23}}\\\\\\ O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,O\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{M_{\\,33}}\\, \\end{array} \\right]\\,; where {M_{\\,\\,11}} , {M_{\\,22}} and {M_{\\,33}} are square sub-matrices , and O is a zero sub-matrix ? ",
+    "op": [
+        "It is diagonal-constant matrix.",
+        "It is a Null matrix.",
+        "It is a block lower triangular matrix.",
+        "It is a block upper triangular matrix."
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73291,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "If B=\\[\\{ {v_1},{v_2},{v_3}\\} \\] is an orthogonal set of vectors with respect to an inner product on a vector space V, then the set B",
+    "op": [
+        "Is linearly independent.",
+        "Is an orthonormal basis for v",
+        "Spans the vector space v",
+        "Linearly dependent."
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73303,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": " A matrix [A]_{n \\times n has both positive and negative eigenvalues so in this case origin behaves as a -------------- ",
+    "op": [
+        "Critical point",
+        "Saddle point"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73307,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "Let \\[s = \\{ {u_1} + {u_2} + ......{u_p}\\} \\] be the set of non-zero vectors in \\[{R^n}\\] is said to be an orthogonal set if all vectors in S are mutually orthogonal. That is O∉ S and \\[{u_i}.{u_j} = 0\\,\\] ∀ i≠ j, i,j=1,2,……..p.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73334,
+    "cc": "MTH501",
+    "qn": "04",
+    "dt": "07 January 2026",
+    "qt": "The norm of v is the non-negative scalar||v|| defined by ",
+    "op": [
+        "||v||=\\sqrt{v_{1}^{2}+v_{2}^{2}+...v_{n}^{2}}",
+        "||v||=v_{1}^{2}+v_{2}^{2}+...v_{n}^{2}"
+    ],
+    "created_at": "2026-07-15T13:35:32.544579+00:00"
+},
+{
+    "id": 73633,
+    "cc": "MTH501",
+    "qn": "2",
+    "dt": "29 June 2026",
+    "qt": "If A and B are row equivalent matrices, then (a) A given set of column vectors of A is ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬_______________if and only if the corresponding column vectors of B are __________________.",
+    "op": [
+        "Linearly independent, linearly independent",
+        "Linearly independent, linearly dependent",
+        "Linearly dependent, linearly dependent",
+        "Linearly dependent, linearly independent"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73699,
+    "cc": "MTH501",
+    "qn": "3",
+    "dt": "07 July 2026",
+    "qt": "Eigenvector(s) of the matrix \\[\\left[ {\\begin{array}{*{20}{c}} 0&0&a \\\\ 0&0&0 \\\\ 0&0&0 \\end{array}} \\right]\\] is (are):",
+    "op": [
+        "(0, a, 0)",
+        "None of the above",
+        "(0, 0, 1)",
+        "(0, 0, a)"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

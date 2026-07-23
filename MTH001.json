@@ -1,0 +1,3824 @@
+[
+{
+    "id": 30971,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "To multiply a matrix with a real number, we multiply  __________ with this number.",
+    "op": [
+        "only one row",
+        "each element",
+        "only one column",
+        "only diagonal elements"
+    ],
+    "created_at": "2026-06-30T19:07:48.740354+00:00"
+},
+{
+    "id": 30974,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices $A$ and $B$ are said to be confirmable for multiplication if __________.",
+    "op": [
+        "the number of columns in matrix $A$ is equal to the number of columns in matrix $B$",
+        "the number of rows in matrix $A$ is equal to the number of rows in matrix $B$",
+        "the number of rows in matrix $A$ is equal to the number of columns in matrix $B$",
+        "the number of columns in matrix $A$ is equal to the number of rows in matrix $B$"
+    ],
+    "created_at": "2026-06-30T19:07:59.980781+00:00"
+},
+{
+    "id": 30981,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is the order of the matrix $A = \\left[ {\\begin{array}{*{20}{c}} 1&6 \\end{array}} \\right]$?",
+    "op": [
+        "$1×1$",
+        "$2×1$",
+        "$1×2$",
+        "$2×2$"
+    ],
+    "created_at": "2026-06-30T19:08:13.181383+00:00"
+},
+{
+    "id": 30987,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $I$ is an identity matrix of order $2×2$ and $A$ is any other real matrix of order $2×2$, then the product of matrix $A$ and $I$ will be equal to __________.",
+    "op": [
+        "$AI = {A^2}$",
+        "$AI = I$",
+        "$A{A^{ - 1}} = O$",
+        "$AI = A$"
+    ],
+    "created_at": "2026-06-30T19:08:21.800024+00:00"
+},
+{
+    "id": 30996,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If A and B are 2 x 3, then A + B is",
+    "op": [
+        "2 x 3",
+        "not possible",
+        "3 x 3",
+        "2 x 2"
+    ],
+    "created_at": "2026-06-30T19:08:34.381147+00:00"
+},
+{
+    "id": 31001,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is NOT an algebraic operation?",
+    "op": [
+        "*",
+        "+",
+        "U",
+        "-"
+    ],
+    "created_at": "2026-06-30T19:08:46.472353+00:00"
+},
+{
+    "id": 31004,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If discount factor is 13.9504 and discounted value is 14229.408 then annuity is….",
+    "op": [
+        "1120",
+        "1020",
+        "1475",
+        "1220"
+    ],
+    "created_at": "2026-06-30T19:08:56.111919+00:00"
+},
+{
+    "id": 31009,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The multiplicative inverse of $1/100$ is equal to _____________.",
+    "op": [
+        "$25$",
+        "$75$",
+        "$50$",
+        "$100$"
+    ],
+    "created_at": "2026-06-30T19:09:05.329493+00:00"
+},
+{
+    "id": 31014,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The ratio of boys to girls in the Drama club is 4:7. What is the ratio of girls to the total number of students in the Drama Club?",
+    "op": [
+        "7/11",
+        "7/4",
+        "4/7",
+        "4/11"
+    ],
+    "created_at": "2026-06-30T19:09:16.945756+00:00"
+},
+{
+    "id": 31047,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If ${A^{ - 1}}$ is the multiplicative inverse of $A$ then their product will be equal to _________.",
+    "op": [
+        "$A{A^{ - 1}} = A$",
+        "$A{A^{ - 1}} = I$",
+        "$A{A^{ - 1}} = {A^{ - 1}}$",
+        "$A{A^{ - 1}} = O$"
+    ],
+    "created_at": "2026-06-30T19:10:19.255765+00:00"
+},
+{
+    "id": 31078,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The matrix $A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 5 \\\\ {10} \\end{array}} \\right]$ is a _________ matrix.",
+    "op": [
+        "null",
+        "column",
+        "singular",
+        "row"
+    ],
+    "created_at": "2026-06-30T19:11:39.90891+00:00"
+},
+{
+    "id": 31079,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A matrix with one column is called a _________ matrix",
+    "op": [
+        "square",
+        "row",
+        "scalar",
+        "column"
+    ],
+    "created_at": "2026-06-30T19:11:42.709095+00:00"
+},
+{
+    "id": 31095,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Accumulated value = ----------- * Accumulation factor for n payments",
+    "op": [
+        "Discounted or present worth of an annuity",
+        "Payment per period",
+        "Amount of annuity",
+        "Interest rate  per conversion period"
+    ],
+    "created_at": "2026-06-30T19:12:14.280736+00:00"
+},
+{
+    "id": 31109,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices are equal if they are of the _________ order and all corresponding entries are __________.",
+    "op": [
+        "same, not equal",
+        "different, equal",
+        "same, equal",
+        "different, not equal"
+    ],
+    "created_at": "2026-06-30T19:12:38.303957+00:00"
+},
+{
+    "id": 31117,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "$$\\begin{array}{l} A\\,\\,\\,{\\rm{chartered bank is increasing the interest rate on its loans from 7\\% to 9\\% }} \\\\\\ {\\rm{What will be the percent increase in the interest rate on a given balance?}} \\\\\\ \\end{array}$$",
+    "op": [
+        "$$- 22.2\\%$$",
+        "$$22.2\\%$$",
+        "$$None\\,\\,of\\,\\,these$$",
+        "$$28.57\\%$$"
+    ],
+    "created_at": "2026-06-30T19:12:48.711825+00:00"
+},
+{
+    "id": 31129,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The matrix $A = \\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\end{array}} \\right]$ is a _________ matrix.",
+    "op": [
+        "column",
+        "row",
+        "singular",
+        "null"
+    ],
+    "created_at": "2026-06-30T19:13:07.433625+00:00"
+},
+{
+    "id": 31137,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Consider W/X= Y/Z, the values in the W and Z positions are called the ___________ of the proportion.",
+    "op": [
+        "extremes",
+        "means"
+    ],
+    "created_at": "2026-06-30T19:13:19.365299+00:00"
+},
+{
+    "id": 31140,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\rm{If}}\\,{\\rm{ }}A = \\left[ {\\begin{array}{*{20}{c}} 2\\\\ 3\\\\ 0 \\end{array}} \\right]{\\rm{ and }}B = \\left[ {\\begin{array}{*{20}{c}} { - 1}&0&6 \\end{array}} \\right]{\\rm{ then}}\\;AB = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "$\\left[ {\\,7\\,} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1\\\\ 3\\\\ 6 \\end{array}} \\right]$",
+        "$\\left[ { - 2 } \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&3&6 \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-06-30T19:13:28.905606+00:00"
+},
+{
+    "id": 31141,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "$$\\begin{array}{l} Dimension\\,\\,of\\,\\,matrix\\,\\,A\\,\\,is\\,\\,3*3\\,\\,\\,and\\,\\,Dimension\\,\\,of\\,\\,matrix\\,\\,B\\,\\,is\\,\\,3*2\\,\\,\\,. \\\\\\ Find\\,\\,the\\,\\,Dimension\\,\\,of\\,\\,AB\\,\\,\\, = \\,\\,\\,\\,\\, - - - - - . \\\\\\ \\end{array}$$",
+    "op": [
+        "$$3*3$$",
+        "$$None\\,\\,of\\,\\,these$$",
+        "$$2*2$$",
+        "$$3*2$$"
+    ],
+    "created_at": "2026-06-30T19:13:29.917332+00:00"
+},
+{
+    "id": 31151,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If A and B are 3 x 2, then A - B is",
+    "op": [
+        "2 x 2",
+        "not possible",
+        "3 x 2",
+        "2 x 3"
+    ],
+    "created_at": "2026-06-30T19:13:58.955705+00:00"
+},
+{
+    "id": 31158,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\rm{The \\,addition \\,of\\, }}A = \\left[ {\\begin{array}{*{20}{c}} { - 7}&{16}\\\\ 9&{ - 21} \\end{array}} \\right]\\;{\\rm{and\\,\\, }}B = \\left[ {\\begin{array}{*{20}{c}} {10}&{ - 22}\\\\ { - 9}&{21} \\end{array}} \\right]{\\rm{ is\\, \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_}}{\\rm{.}}$",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} { - 70}&{ - 352}\\\\ { - 81}&{ - 441} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} { - 3}&6\\\\ 0&0 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} { - 13}&{ - 38}\\\\ {18}&{42} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 3&{ - 6}\\\\ 0&0 \\end{array}} \\right]\\;$"
+    ],
+    "created_at": "2026-06-30T19:14:23.671677+00:00"
+},
+{
+    "id": 31166,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If }}i = 5\\% {\\text{ and }}n = 10{\\text{, then the accumulation factor AF is equal to __________}}{\\text{.}}$",
+    "op": [
+        "$11.85$",
+        "$12.58$",
+        "$11.58$",
+        "$12.85$"
+    ],
+    "created_at": "2026-06-30T19:14:35.172887+00:00"
+},
+{
+    "id": 31171,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If }}2:x = 3:9\\,{\\text{ then}}\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,$",
+    "op": [
+        "$12$",
+        "$3$",
+        "$9$",
+        "$6$"
+    ],
+    "created_at": "2026-06-30T19:14:45.267218+00:00"
+},
+{
+    "id": 31174,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If A and B are 3 x 2 matrices. \nThen A x B_______________ .",
+    "op": [
+        "will not be possible",
+        "will be of 2 x 3",
+        "will be of 3 x 3",
+        "will be of 3 x 2"
+    ],
+    "created_at": "2026-06-30T19:14:50.445043+00:00"
+},
+{
+    "id": 31184,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If a matrix A has n rows and n columns then we say it's a _________ matrix.",
+    "op": [
+        "scalar",
+        "rectangle",
+        "square",
+        "diagonal"
+    ],
+    "created_at": "2026-06-30T19:15:03.255096+00:00"
+},
+{
+    "id": 31189,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A matrix with dimension $1 \\times n$ is known as _________.",
+    "op": [
+        "null matrix",
+        "singular matrix",
+        "row matrix",
+        "column matrix"
+    ],
+    "created_at": "2026-06-30T19:15:10.26959+00:00"
+},
+{
+    "id": 31197,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ and $k=-3$ then $kA$ will be _________.",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 6 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-06-30T19:15:26.623556+00:00"
+},
+{
+    "id": 31423,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A matrix with dimension $n×m$, is said to be a square matrix if ________.",
+    "op": [
+        "$$n \\ne m$$",
+        "$$n=m$$",
+        "$$n > m$$",
+        "$$n < m$$"
+    ],
+    "created_at": "2026-06-30T19:24:54.930027+00:00"
+},
+{
+    "id": 31442,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 2&0 \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\ 1&1 \\end{array}} \\right]$ then $A+B$ = ____________.",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 3&4 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\ 3&1 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 3&1 \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 1&3 \\end{array}} \\right]$$"
+    ],
+    "created_at": "2026-06-30T19:25:27.761521+00:00"
+},
+{
+    "id": 31463,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices $A$ and $B$ are said to be confirmable for addition if __________.",
+    "op": [
+        "they have the same number of columns",
+        "they have the same number of rows and columns",
+        "they have different dimensions",
+        "they have the same number of rows"
+    ],
+    "created_at": "2026-06-30T19:26:07.746102+00:00"
+},
+{
+    "id": 31467,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A photographer wishes to enlarge the picture that is5/2 inches wide by 3 inches to have a new width of 10 inches. What will be the width of enlargement?",
+    "op": [
+        "3 inches",
+        "8 inches",
+        "12 inches",
+        "6 inches"
+    ],
+    "created_at": "2026-06-30T19:26:17.247009+00:00"
+},
+{
+    "id": 31487,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If}}\\,P = {\\text{Rs}}{\\text{.}}\\,\\,500,T = 4\\,{\\text{years and }}R = 11\\% \\,{\\text{ then}}\\,{\\text{the simple interest is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "${\\text{Rs}}{\\text{. }}200$",
+        "${\\text{Rs}}{\\text{. }}330$",
+        "${\\text{Rs}}{\\text{. }}220$",
+        "${\\text{Rs}}{\\text{. }}320$"
+    ],
+    "created_at": "2026-06-30T19:26:44.285482+00:00"
+},
+{
+    "id": 31491,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "On dividing the binomial; x + 1  by  a monomial; x  we get………",
+    "op": [
+        "(1/x)+1",
+        "0",
+        "1/x",
+        "2"
+    ],
+    "created_at": "2026-06-30T19:26:52.009499+00:00"
+},
+{
+    "id": 31658,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Let $A$ be an $l×m$ matrix and $B$ be an $m×n$ matrix, then the dimension of the product matrix $AB$ will be equal to __________.",
+    "op": [
+        "$m×m$",
+        "$l×m$",
+        "$l×n$",
+        "$m×n$"
+    ],
+    "created_at": "2026-06-30T19:33:52.709565+00:00"
+},
+{
+    "id": 31662,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 2&0 \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\ 1&1 \\end{array}} \\right]$ then $A-B$ will be _________.",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\ 3&1 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 1&3 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 0&3 \\\\ 1&{ - 1} \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 3&4 \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-06-30T19:34:02.572163+00:00"
+},
+{
+    "id": 31671,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Annuity is …..",
+    "op": [
+        "A series of any. payments for a fixed period of  time",
+        "A series of fixed payment for a fixed period of time",
+        "None of these",
+        "A series of fixed payment for any period of time"
+    ],
+    "created_at": "2026-06-30T19:34:27.083156+00:00"
+},
+{
+    "id": 31673,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The accumulating factor (AF) used in determining the future value is……",
+    "op": [
+        "AF = {(1+i)^*(n +1)}/i",
+        "AF = {(1+i)^(n) -1}/i",
+        "None of these",
+        "AF = {(1-i)^(n) +1}/i"
+    ],
+    "created_at": "2026-06-30T19:34:38.193498+00:00"
+},
+{
+    "id": 31678,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "$${\\text{The }}\\,\\,{\\text{algebraic }}\\,\\,{\\text{expression}},\\,\\,{x^2} + xy - 6{y^2}{\\text{, }}\\,\\,{\\text{is }}\\,\\,{\\text{an }}\\,\\,{\\text{example }}\\,\\,{\\text{of}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_.$$",
+    "op": [
+        "$${\\text{Both Binomial and polynomial}}$$",
+        "$${\\text{Binomial}}$$",
+        "$${\\text{Trinomial}}$$",
+        "$${\\text{Both trinomial and polynomial}}$$"
+    ],
+    "created_at": "2026-06-30T19:34:48.179508+00:00"
+},
+{
+    "id": 31692,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "In word problems, proportions are set up so the corresponding units are either one above the or directly…………………… from one another.",
+    "op": [
+        "none of these",
+        "add",
+        "Across",
+        "multiply"
+    ],
+    "created_at": "2026-06-30T19:35:13.833099+00:00"
+},
+{
+    "id": 31698,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices A and B  may be added together provided that they have the __________ number of rows and columns.",
+    "op": [
+        "same",
+        "different"
+    ],
+    "created_at": "2026-06-30T19:35:25.85463+00:00"
+},
+{
+    "id": 32101,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "When a scalar m is multiplied with any matrix then",
+    "op": [
+        "m is multiplied with all elements of that matrix",
+        "None of these",
+        "m is multiplied with each column of that matrix",
+        "m is multiplied with each row of that matrix."
+    ],
+    "created_at": "2026-06-30T19:59:11.967167+00:00"
+},
+{
+    "id": 32102,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The rate at which the calculations are made while converting the future value in the present one, is called the…..",
+    "op": [
+        "Present worth of an annuity",
+        "Discount factor rate",
+        "Accumulation factor for 'n' payments",
+        "Cash flow per period"
+    ],
+    "created_at": "2026-06-30T19:59:28.85827+00:00"
+},
+{
+    "id": 32206,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 1 \\\\ 1 \\end{array}} \\right]$ then the matrix $AB$ wil be ______________.",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} 2&2&2 \\end{array}} \\right]$$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 6 \\\\ 0 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$",
+        "$\\left[ 2 \\right]$"
+    ],
+    "created_at": "2026-06-30T20:15:10.852081+00:00"
+},
+{
+    "id": 32208,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "In the annuities the most common payment frequencies are………….",
+    "op": [
+        "Monthly (once a month)",
+        "All are the feasible",
+        "Yearly (once a year),Semi-annually (twice a year)",
+        "Quarterly (four times a year)"
+    ],
+    "created_at": "2026-06-30T20:15:42.848952+00:00"
+},
+{
+    "id": 32211,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A matrix with one row is called a ________ matrix",
+    "op": [
+        "square",
+        "column",
+        "row",
+        "unit"
+    ],
+    "created_at": "2026-06-30T20:15:54.210087+00:00"
+},
+{
+    "id": 32215,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\rm{If}}\\,{\\rm{ }}\\,X = \\left[ {\\begin{array}{*{20}{c}} 5\\\\ { - 3} \\end{array}} \\right]{\\rm{ and }}\\,Y = \\left[ {\\begin{array}{*{20}{c}} 9&{11} \\end{array}} \\right]{\\rm{ then}}\\,\\;XY = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} {45}\\\\ { - 33} \\end{array}} \\right]$",
+        "$\\left[ {\\,78\\,} \\right]$",
+        "$\\left[ {\\,12\\,} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} {14}&8 \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-06-30T20:16:52.370375+00:00"
+},
+{
+    "id": 32217,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A copy machine copies 68 sheets per minute. At this rate, how many copies can it make in 8.5 minutes",
+    "op": [
+        "None of these",
+        "561",
+        "578",
+        "518"
+    ],
+    "created_at": "2026-06-30T20:17:05.714303+00:00"
+},
+{
+    "id": 32221,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If}}\\,\\frac{8}{9} = \\frac{y}{{108}},\\,\\,{\\text{then}}\\,y = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,$",
+    "op": [
+        "$96$",
+        "$72$",
+        "$144$",
+        "$81$"
+    ],
+    "created_at": "2026-06-30T20:17:33.257963+00:00"
+},
+{
+    "id": 32684,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The property of a (an) ____________ is that the product of the means is equal to the product of the extremes.",
+    "op": [
+        "proportion",
+        "multiplicative",
+        "ratio",
+        "additive"
+    ],
+    "created_at": "2026-06-30T22:16:09.595627+00:00"
+},
+{
+    "id": 32687,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is the order of the matrix $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 4 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$?",
+    "op": [
+        "$3×2$",
+        "$2×3$",
+        "$2×2$",
+        "$3×3$"
+    ],
+    "created_at": "2026-06-30T22:16:54.483138+00:00"
+},
+{
+    "id": 32688,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Consider W/X= Y/Z, the values in the X and Y positions are called the ___________ of the proportion.",
+    "op": [
+        "means",
+        "extremes"
+    ],
+    "created_at": "2026-06-30T22:17:24.593996+00:00"
+},
+{
+    "id": 32697,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A proportion is a comparison of…………………….",
+    "op": [
+        "None of these.",
+        "Two ratios",
+        "Three quantities",
+        "Two quantities"
+    ],
+    "created_at": "2026-06-30T22:19:23.579453+00:00"
+},
+{
+    "id": 32705,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is percent of change 32 to 24?",
+    "op": [
+        "14%",
+        "None of them",
+        "25%",
+        "33%"
+    ],
+    "created_at": "2026-06-30T22:20:40.850433+00:00"
+},
+{
+    "id": 33000,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices $A$ and $B$ are said to be confirmable for subtraction if __________.",
+    "op": [
+        "they have the same number of rows",
+        "they have different dimensions",
+        "they have the same number of rows and columns",
+        "they have the same number of columns"
+    ],
+    "created_at": "2026-07-01T00:39:16.963077+00:00"
+},
+{
+    "id": 33004,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "40% of what is 8?",
+    "op": [
+        "120",
+        "5",
+        "3.2",
+        "20"
+    ],
+    "created_at": "2026-07-01T00:43:08.829212+00:00"
+},
+{
+    "id": 33014,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The value of the expression 2^x –x^2 = 2^x – x satisfied by………",
+    "op": [
+        "x = 1",
+        "None of these",
+        "Both x=0 and x=1",
+        "x = 0"
+    ],
+    "created_at": "2026-07-01T00:46:02.021353+00:00"
+},
+{
+    "id": 33015,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If we want to build retirement income or child’s education etc. then which of the following term‘ll be of the best use......",
+    "op": [
+        "Annuities",
+        "Compound interest",
+        "Provident fund",
+        "Simple interest"
+    ],
+    "created_at": "2026-07-01T00:46:14.990097+00:00"
+},
+{
+    "id": 33017,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Matrix multiplication is only possible if the row matrix and the column matrix have the __________ number of elements.",
+    "op": [
+        "same",
+        "different"
+    ],
+    "created_at": "2026-07-01T00:46:26.526117+00:00"
+},
+{
+    "id": 33018,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If x = 341.25 + 0.025 x then the value of x is _____________.",
+    "op": [
+        "350",
+        "150",
+        "450",
+        "250"
+    ],
+    "created_at": "2026-07-01T00:46:35.333505+00:00"
+},
+{
+    "id": 33019,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "(a + b) A = _____________",
+    "op": [
+        "a A + b A",
+        "a b  A",
+        "a + b A",
+        "a A + b"
+    ],
+    "created_at": "2026-07-01T00:46:37.749273+00:00"
+},
+{
+    "id": 33021,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{Is }}\\,\\,\\frac{{\\text{2}}} {4}\\,\\,{\\text{proportional to }}\\frac{{\\text{3}}} {{15}}?$",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-07-01T00:46:53.846579+00:00"
+},
+{
+    "id": 33565,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "In the ordinary annuity formula which of the following symbol represent amount of annuity (Cash flow per period)",
+    "op": [
+        "C",
+        "PV",
+        "n",
+        "i"
+    ],
+    "created_at": "2026-07-01T02:36:06.437375+00:00"
+},
+{
+    "id": 33566,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Let $A$ be an $m×n$ matrix and $k$ be any scalar, then scalar multiplication of matrix $A$ is obtained by ____________.",
+    "op": [
+        "substituting the scalar $k$ for each element of matrix $A$",
+        "dividing each element of matrix $A$ by the scalar $k$",
+        "adding the scalar $k$ to each element of matrix $A$",
+        "multiplying each element of matrix $A$ by the scalar $k$"
+    ],
+    "created_at": "2026-07-01T02:36:19.324158+00:00"
+},
+{
+    "id": 33567,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The sum of two numbers is 48.If the numbers are in the ratio 3:5.What is the smaller number?",
+    "op": [
+        "30",
+        "78.4",
+        "18",
+        "128"
+    ],
+    "created_at": "2026-07-01T02:36:20.432214+00:00"
+},
+{
+    "id": 33568,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "4800 is 24% of what?",
+    "op": [
+        "2000",
+        "20",
+        "2",
+        "20000"
+    ],
+    "created_at": "2026-07-01T02:36:32.127519+00:00"
+},
+{
+    "id": 33572,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ then $A-B$ will be _________.",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$"
+    ],
+    "created_at": "2026-07-01T02:37:02.360658+00:00"
+},
+{
+    "id": 33575,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "An equation 2x+1 = 0 is a...",
+    "op": [
+        "Cubic Equation",
+        "Linear equation",
+        "None of these",
+        "Quadratic equation"
+    ],
+    "created_at": "2026-07-01T02:37:16.279694+00:00"
+},
+{
+    "id": 33576,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Matrix multiplication is only possible when number of ______ of 1st matrix is equal to number of __________ of 2nd matrix.",
+    "op": [
+        "columns, rows",
+        "rows, rows",
+        "rows, columns",
+        "columns, columns"
+    ],
+    "created_at": "2026-07-01T02:37:25.336384+00:00"
+},
+{
+    "id": 33581,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{The formula of discount factor for }}n{\\text{ periods is __________.}}$",
+    "op": [
+        "$\\frac{{(1 - {{(1 + i)}^{ n}})}}{i}$",
+        "$\\frac{{(1 + \\frac{1}{{{{(1 + i)}^n}}})}}{{i + 1}}$",
+        "$\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i -1}}$",
+        "$\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i }}$"
+    ],
+    "created_at": "2026-07-01T02:38:39.190412+00:00"
+},
+{
+    "id": 33582,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{The formula used for finding accumulated factor }} S {\\text{ of an annuity is given by: }} S= {\\text{_________}}{\\text{.}}$",
+    "op": [
+        "$\\frac{{r({{(1 + i)}^n} - 1)}}{i^2+1}$",
+        "$\\frac{{r({{(1 + i)}^n} - 1)}}{i-1}$",
+        "$\\frac{{r({{(1 + i)}^n} - 1)}}{i}$",
+        "$\\frac{{r({{(1 + i)}^n} + 1)}}{i}$"
+    ],
+    "created_at": "2026-07-01T02:38:57.103831+00:00"
+},
+{
+    "id": 33583,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is optimization?",
+    "op": [
+        "The process of minimizing costs.",
+        "The process of simplifying complex problems.",
+        "The process of finding the best solution among all feasible solutions.",
+        "The process of maximizing resources."
+    ],
+    "created_at": "2026-07-01T02:39:19.499363+00:00"
+},
+{
+    "id": 33586,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If}}\\,\\,\\,\\frac{1} {2} = \\frac{x} {3}\\,\\,\\,{\\text{then}}\\,\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "$\\frac{1} {6}$",
+        "$\\frac{2} {3}$",
+        "$\\frac{1} {2}$",
+        "$\\frac{3} {2}$"
+    ],
+    "created_at": "2026-07-01T02:39:47.755546+00:00"
+},
+{
+    "id": 33594,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A matrix with dimension $n×1$ is known as _________.",
+    "op": [
+        "column matrix",
+        "singular matrix",
+        "null matrix",
+        "row matrix"
+    ],
+    "created_at": "2026-07-01T02:42:05.265887+00:00"
+},
+{
+    "id": 33595,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "$$If\\,\\,\\,{\\rm{List price = 4,500 Rs,}}\\,\\,\\,\\,\\,{\\rm{Discount = 20 \\% }}{\\rm{.}}\\,\\,Find\\,\\,\\,the\\,\\,\\,{\\rm{Net cost price?}}$$",
+    "op": [
+        "$$3200$$",
+        "$$None\\,\\,of\\,\\,these$$",
+        "$$4300$$",
+        "$$3600\\,$$"
+    ],
+    "created_at": "2026-07-01T02:42:13.169485+00:00"
+},
+{
+    "id": 33652,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is the 3-by-3 multiplicative identity matrix?",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&0&0 \\\\ 0&0&0 \\\\ 0&0&0 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&0&0 \\\\ 0&1&0 \\\\ 0&0&1 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 0&0&0 \\\\ 0&1&0 \\\\ 0&0&0 \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 0&0&0 \\\\ 0&0&0 \\\\ 0&0&0 \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-07-01T02:52:21.283359+00:00"
+},
+{
+    "id": 34004,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "a (A + B) = ___________",
+    "op": [
+        "A + B",
+        "a A + B",
+        "A + a B",
+        "a A + a B"
+    ],
+    "created_at": "2026-07-01T03:56:51.254108+00:00"
+},
+{
+    "id": 34007,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "$$Which\\,\\,one\\,\\,is\\,\\,correct\\,\\,in\\,\\,the\\,\\,following,\\,\\,if\\,\\,2\\left[ \\begin{array}{l} 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 1 \\\\\\ - 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right].$$",
+    "op": [
+        "$$None\\,\\,of\\,\\,these$$",
+        "$$\\left[ \\begin{array}{l} 6\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 2 \\\\\\ - 8\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right]$$",
+        "$$\\left[ \\begin{array}{l} - 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,1 \\\\\\ 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right].$$",
+        "$$\\left[ \\begin{array}{l} 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 1 \\\\\\ - 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right].$$"
+    ],
+    "created_at": "2026-07-01T03:57:09.580923+00:00"
+},
+{
+    "id": 34226,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{A matrix is a rectangular array of }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "numbers",
+        "palces",
+        "symbols",
+        "objects"
+    ],
+    "created_at": "2026-07-01T04:30:16.882414+00:00"
+},
+{
+    "id": 34294,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If you buy}}100{\\text{ shares at Rs}}{\\text{. }}62.50{\\text{ per share with a }}2\\% {\\text{ commission then the total cost is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,$",
+    "op": [
+        "${\\text{Rs}}{\\text{. }}6350\\;$",
+        "${\\text{Rs}}{\\text{. }}6250\\;$",
+        "${\\text{Rs}}{\\text{. }}6275\\;$",
+        "${\\text{Rs}}{\\text{. }}6375\\;$"
+    ],
+    "created_at": "2026-07-01T04:39:32.961346+00:00"
+},
+{
+    "id": 34365,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "An identity matrix I is a diagonal matrix with all diagonal elements are  _____________.",
+    "op": [
+        "1",
+        "any number",
+        "0",
+        "the same number"
+    ],
+    "created_at": "2026-07-01T04:46:17.916236+00:00"
+},
+{
+    "id": 34825,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Solution of linear equation; 0x+8 = 5 ………….",
+    "op": [
+        "-3",
+        "Can never be determined",
+        "0",
+        "-13"
+    ],
+    "created_at": "2026-07-01T05:53:44.34059+00:00"
+},
+{
+    "id": 34885,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If A and B are both m×n matrices then A+B exists and is an ______ matrix.",
+    "op": [
+        "n×n",
+        "m×n",
+        "m×m",
+        "n×m"
+    ],
+    "created_at": "2026-07-01T06:07:04.919002+00:00"
+},
+{
+    "id": 34889,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Can we subtract a negative integer k from identity matrix of any dimension?",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-01T06:08:22.277462+00:00"
+},
+{
+    "id": 34895,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Let Accumulating Factor (AF) = 26.24 and \nAccumulating value   (AV) = 26764.8\nThen Annuity is……..",
+    "op": [
+        "1420",
+        "1320",
+        "1020",
+        "1120"
+    ],
+    "created_at": "2026-07-01T06:09:15.668057+00:00"
+},
+{
+    "id": 34907,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ then $A+B$ will be __________.",
+    "op": [
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$",
+        "$$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$$"
+    ],
+    "created_at": "2026-07-01T06:11:50.043386+00:00"
+},
+{
+    "id": 34909,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "A rate with a denominator of 1 is called a unit rate.",
+    "op": [
+        "No",
+        "yes"
+    ],
+    "created_at": "2026-07-01T06:12:44.592103+00:00"
+},
+{
+    "id": 34919,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The order of a matrix consists of ____________.",
+    "op": [
+        "Number of Rows × Number of Columns",
+        "Number of Columns × Number of Rows",
+        "Number of Rows = Number of Columns",
+        "Number of Rows + Number of Columns"
+    ],
+    "created_at": "2026-07-01T06:14:52.206399+00:00"
+},
+{
+    "id": 35192,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "The formula  C * [((1 + i)^n – 1)/i] is used to find the value of……….",
+    "op": [
+        "Present value of annuity",
+        "Amount of annuity",
+        "Accumulation factor",
+        "Future value of the annuity"
+    ],
+    "created_at": "2026-07-01T07:08:51.041733+00:00"
+},
+{
+    "id": 35375,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is the dimension of a matrix?",
+    "op": [
+        "The number of rows in the matrix.",
+        "The number of non-zero elements in the matrix.",
+        "The number of rows by the number of columns in the matrix.",
+        "The number of columns in the matrix."
+    ],
+    "created_at": "2026-07-01T07:53:49.336044+00:00"
+},
+{
+    "id": 45263,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 1 \\\\ 1 \\end{array}} \\right]$ then the matrix $AB$ wil be ______________.",
+    "op": [
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2&2&2 \\end{array}} \\right]\\]",
+        "$\\left[ {\\begin{array}{*{20}{c}} 6 \\\\ 0 \\end{array}} \\right]$",
+        "$\\left[ 2 \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-07-01T07:29:32.93947+00:00"
+},
+{
+    "id": 45264,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices A and B  may be added together provided that they have the __________ number of rows and columns.",
+    "op": [
+        "different",
+        "same"
+    ],
+    "created_at": "2026-07-01T07:29:57.52592+00:00"
+},
+{
+    "id": 45265,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "${\\text{If }}i = 5\\% {\\text{ and }}n = 10{\\text{, then the accumulation factor AF is equal to __________}}{\\text{.}}$",
+    "op": [
+        "$11.58$",
+        "$12.58$",
+        "$12.85$",
+        "$11.85$"
+    ],
+    "created_at": "2026-07-01T07:30:10.740392+00:00"
+},
+{
+    "id": 45266,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Matrix multiplication is only possible if the row matrix and the column matrix have the __________ number of elements.",
+    "op": [
+        "same",
+        "different"
+    ],
+    "created_at": "2026-07-01T07:30:24.892504+00:00"
+},
+{
+    "id": 45267,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Two matrices $A$ and $B$ are said to be confirmable for multiplication if __________.",
+    "op": [
+        "the number of columns in matrix $A$ is equal to the number of rows in matrix $B$",
+        "the number of rows in matrix $A$ is equal to the number of rows in matrix $B$",
+        "the number of rows in matrix $A$ is equal to the number of columns in matrix $B$",
+        "the number of columns in matrix $A$ is equal to the number of columns in matrix $B$"
+    ],
+    "created_at": "2026-07-01T07:30:36.248095+00:00"
+},
+{
+    "id": 45268,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "a (A + B) = ___________",
+    "op": [
+        "a A + a B",
+        "a A + B",
+        "A + B",
+        "A + a B"
+    ],
+    "created_at": "2026-07-01T07:31:09.906354+00:00"
+},
+{
+    "id": 45269,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "What is the dimension of a matrix?",
+    "op": [
+        "The number of rows by the number of columns in the matrix.",
+        "The number of non-zero elements in the matrix.",
+        "The number of rows in the matrix.",
+        "The number of columns in the matrix."
+    ],
+    "created_at": "2026-07-01T07:31:19.655339+00:00"
+},
+{
+    "id": 45270,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "\\({\\rm{If}}\\,{\\rm{ }}A = \\left[ {\\begin{array}{*{20}{c}} 2\\\\ 3\\\\ 0 \\end{array}} \\right]{\\rm{ and }}B = \\left[ {\\begin{array}{*{20}{c}} { - 1}&0&6 \\end{array}} \\right]{\\rm{ then}}\\;AB = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\)",
+    "op": [
+        "\\(\\left[ {\\begin{array}{*{20}{c}} 1&3&6 \\end{array}} \\right]\\)",
+        "\\(\\left[ { - 2 } \\right]\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} 1\\\\ 3\\\\ 6 \\end{array}} \\right]\\)",
+        "\\(\\left[ {\\,7\\,} \\right]\\)"
+    ],
+    "created_at": "2026-07-01T07:31:26.330901+00:00"
+},
+{
+    "id": 45271,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "If a matrix A has n rows and n columns then we say it's a _________ matrix.",
+    "op": [
+        "square",
+        "scalar",
+        "diagonal",
+        "rectangle"
+    ],
+    "created_at": "2026-07-01T07:31:40.537784+00:00"
+},
+{
+    "id": 45272,
+    "cc": "MTH001",
+    "qn": "04",
+    "dt": "01 July 2026",
+    "qt": "Annuity is …..",
+    "op": [
+        "A series of fixed payment for any period of time",
+        "A series of fixed payment for a fixed period of time",
+        "A series of any. payments for a fixed period of  time",
+        "None of these"
+    ],
+    "created_at": "2026-07-01T07:31:46.01363+00:00"
+},
+{
+    "id": 54806,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a simple bar chart showing the number of books read by 10 students in a class, what does the height of each bar represent?",
+    "op": [
+        "The number of books read by each individual student",
+        "The number of students in the class",
+        "The average number of books read by each student",
+        "The total number of books read by all students"
+    ],
+    "created_at": "2026-07-06T19:10:04.271226+00:00"
+},
+{
+    "id": 54809,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{If}}\\,\\,\\,{\\sum {{W_i}X} _i} = 4900\\,\\,\\,{\\text{and}}\\,\\,\\,\\sum {{W_i}} = 70\\,\\,\\,\\,{\\text{then}}\\,\\,\\,{{\\bar X}_w} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "343000",
+        "70",
+        "5060",
+        "5830"
+    ],
+    "created_at": "2026-07-06T19:10:17.316414+00:00"
+},
+{
+    "id": 54812,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Volume can be measured by __________ scale.",
+    "op": [
+        "nominal",
+        "interval",
+        "ratio",
+        "ordinal"
+    ],
+    "created_at": "2026-07-06T19:10:25.815967+00:00"
+},
+{
+    "id": 54815,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In statistics, a/an __________ often means any sort of numerical recording of information.",
+    "op": [
+        "observation",
+        "classification",
+        "experiment",
+        "variable"
+    ],
+    "created_at": "2026-07-06T19:10:40.94015+00:00"
+},
+{
+    "id": 54817,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A ______________ consists of a circle which is divided into two or more parts in accordance with the number of distinct categories that we have in our data.",
+    "op": [
+        "bar graph",
+        "column graph",
+        "pie chart",
+        "line graph"
+    ],
+    "created_at": "2026-07-06T19:10:48.981485+00:00"
+},
+{
+    "id": 54822,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In Bivariate situation we have to deal with .....",
+    "op": [
+        "two variables",
+        "four variables",
+        "one variable",
+        "three variables"
+    ],
+    "created_at": "2026-07-06T19:11:10.583448+00:00"
+},
+{
+    "id": 54825,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a dataset with the values 2, 4, 6, 8, and 10, what is the arithmetic mean?",
+    "op": [
+        "10",
+        "6",
+        "8",
+        "4"
+    ],
+    "created_at": "2026-07-06T19:11:18.503052+00:00"
+},
+{
+    "id": 54827,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How are the bars arranged in a component bar chart?",
+    "op": [
+        "Vertically, with each segment representing a different category",
+        "Vertically, with different bars representing different categories",
+        "Diagonally, with each segment representing a different category",
+        "In a circular fashion, with each segment representing a different category"
+    ],
+    "created_at": "2026-07-06T19:11:30.424641+00:00"
+},
+{
+    "id": 54831,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What does the mode represent in a dataset?",
+    "op": [
+        "The value that occurs most frequently",
+        "The average value",
+        "The middle value",
+        "The value that occurs least frequently"
+    ],
+    "created_at": "2026-07-06T19:11:44.286066+00:00"
+},
+{
+    "id": 54848,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How is a discrete variable defined in statistics?",
+    "op": [
+        "It can only take on values between 0 and 1.",
+        "It can take any real number value.",
+        "It can only take on negative values.",
+        "It can only take a finite set of integers or whole numbers."
+    ],
+    "created_at": "2026-07-06T19:12:55.11478+00:00"
+},
+{
+    "id": 54849,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In statistics, which of the following best defines an observation?",
+    "op": [
+        "A hypothetical scenario",
+        "A mathematical equation",
+        "Any numerical recording of information",
+        "A philosophical concept"
+    ],
+    "created_at": "2026-07-06T19:13:12.695287+00:00"
+},
+{
+    "id": 54850,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How are observations grouped in a nominal scale?",
+    "op": [
+        "By arranging them in ascending order",
+        "By measuring their magnitude",
+        "By assigning them numerical values",
+        "By categorizing them into mutually exclusive classes"
+    ],
+    "created_at": "2026-07-06T19:13:24.221816+00:00"
+},
+{
+    "id": 54853,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How are variables classified according to the form of the characteristic of interest?",
+    "op": [
+        "By their shape",
+        "By their size",
+        "By their quantitative or qualitative nature",
+        "By their colour"
+    ],
+    "created_at": "2026-07-06T19:13:34.140985+00:00"
+},
+{
+    "id": 54855,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The ordinal scale is also known as .....",
+    "op": [
+        "Ratio Scale",
+        "Nominal Scale",
+        "Ranking Scale",
+        "Interval Scale"
+    ],
+    "created_at": "2026-07-06T19:13:49.295548+00:00"
+},
+{
+    "id": 54857,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The numbers carry no numerical significance in the __________ scale.",
+    "op": [
+        "ratio",
+        "nominal",
+        "ordinal",
+        "interval"
+    ],
+    "created_at": "2026-07-06T19:14:00.130924+00:00"
+},
+{
+    "id": 54859,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What does the mean represent in the context of ungrouped data?",
+    "op": [
+        "The lowest amount obtained on each day",
+        "The highest amount obtained on each day",
+        "The total amount obtained on each day",
+        "The same amount obtained on each day"
+    ],
+    "created_at": "2026-07-06T19:14:07.750263+00:00"
+},
+{
+    "id": 54866,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Suppose 10% of 2000 cars, 5% of 1500 trucks, and 15% of 800 motorcycles failed emissions tests. How would one most accurately find the overall percentage of vehicles that failed emissions tests?",
+    "op": [
+        "By dividing the sum of failure rates by the number of vehicle types",
+        "By finding the weighted mean of the failure rates for cars, trucks, and motorcycles",
+        "By adding the failure rates for cars, trucks, and motorcycles without averaging",
+        "By averaging the failure rates for cars, trucks, and motorcycles"
+    ],
+    "created_at": "2026-07-06T19:14:55.437861+00:00"
+},
+{
+    "id": 54871,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What does it mean if a dataset has no mode?",
+    "op": [
+        "The dataset is normally distributed",
+        "There is only one value in the dataset",
+        "The dataset contains outliers",
+        "All values occur with equal frequency"
+    ],
+    "created_at": "2026-07-06T19:15:12.57854+00:00"
+},
+{
+    "id": 54937,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The measure of central which is not affected by the extreme values is _________.",
+    "op": [
+        "weighted mean",
+        "mode",
+        "mean",
+        "median"
+    ],
+    "created_at": "2026-07-06T19:18:49.81646+00:00"
+},
+{
+    "id": 54941,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a component bar chart representing the monthly expenses of a household such as rent, utilities, and groceries, what does each segment within a bar represent?",
+    "op": [
+        "The categories of expenses such as rent, utilities, and groceries",
+        "The total expenses for the month",
+        "The percentage of income spent on each category",
+        "The comparison of expenses across different months"
+    ],
+    "created_at": "2026-07-06T19:19:10.525071+00:00"
+},
+{
+    "id": 54943,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The median of the numbers 2, 4, 7, 12 is….",
+    "op": [
+        "4",
+        "5.5",
+        "7",
+        "4.5"
+    ],
+    "created_at": "2026-07-06T19:19:20.027894+00:00"
+},
+{
+    "id": 54945,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The mode of the data 6, 6, 9, 9, 9, 10, 11 11, 15, 18 is....",
+    "op": [
+        "6",
+        "15",
+        "9",
+        "11"
+    ],
+    "created_at": "2026-07-06T19:19:30.748869+00:00"
+},
+{
+    "id": 54947,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Qualitative data can be further classified in to discrete and continuous.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-06T19:19:39.077992+00:00"
+},
+{
+    "id": 54949,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "For constructing a bivariate frequency table, _____________ variable (s) is (are) required.",
+    "op": [
+        "only two",
+        "only one",
+        "may be one",
+        "may or may not be two"
+    ],
+    "created_at": "2026-07-06T19:19:47.210248+00:00"
+},
+{
+    "id": 54950,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In the _______ scale the ratio 10/7 has no meaning.",
+    "op": [
+        "interval",
+        "nominal",
+        "ordinal",
+        "ratio"
+    ],
+    "created_at": "2026-07-06T19:19:54.85994+00:00"
+},
+{
+    "id": 54953,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A bivariate distribution can be represented by using a ........",
+    "op": [
+        "Simple bar chart",
+        "line graph",
+        "component bar chart",
+        "none of these"
+    ],
+    "created_at": "2026-07-06T19:20:12.533626+00:00"
+},
+{
+    "id": 55176,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The heights (in inches) of a group of students are: 65, 72, 60, 68, 70, 62. What is the median height?",
+    "op": [
+        "65.5",
+        "66.5",
+        "68.5",
+        "70.5"
+    ],
+    "created_at": "2026-07-06T19:55:40.484454+00:00"
+},
+{
+    "id": 55177,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "An absolute error divided by the true value is called the __________ error.",
+    "op": [
+        "ordinal",
+        "relative",
+        "mean",
+        "true"
+    ],
+    "created_at": "2026-07-06T19:56:02.943684+00:00"
+},
+{
+    "id": 55178,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How are the values of a continuous variable distributed within its domain?",
+    "op": [
+        "They are randomly distributed.",
+        "They are concentrated around a central value.",
+        "They are evenly distributed on the real line without gaps.",
+        "They are distributed at specific, distinct points."
+    ],
+    "created_at": "2026-07-06T19:56:27.186617+00:00"
+},
+{
+    "id": 55179,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The characteristic such as, satisfaction is an example of __________ variable.",
+    "op": [
+        "discrete",
+        "quantitative",
+        "qualitative",
+        "continuous"
+    ],
+    "created_at": "2026-07-06T19:56:43.499754+00:00"
+},
+{
+    "id": 55180,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Which of the following statements accurately describes the median?",
+    "op": [
+        "It is the difference between the highest and lowest values in the dataset.",
+        "It is the middle value when the data points are arranged in ascending or descending order.",
+        "It is the arithmetic average of all values in the dataset.",
+        "It is the value that appears most frequently in the dataset."
+    ],
+    "created_at": "2026-07-06T19:56:55.472259+00:00"
+},
+{
+    "id": 55181,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If 10% of 100 apples, 12% of 100 oranges, and 8% of 100 bananas are rotten, what percentage of fruits is rotten overall?",
+    "op": [
+        "5",
+        "20",
+        "15",
+        "10"
+    ],
+    "created_at": "2026-07-06T19:57:05.841967+00:00"
+},
+{
+    "id": 55182,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{If}}\\,\\,\\sum {f\\,x = 1135.5\\,\\,{\\text{and}}\\,\\,\\sum {f\\, = \\,30\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,}$",
+    "op": [
+        "37.85",
+        "35.89",
+        "38.60",
+        "39.50"
+    ],
+    "created_at": "2026-07-06T19:57:09.060706+00:00"
+},
+{
+    "id": 55183,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The assumption that all the values falling in a class are equal to the mid-point of the class interval is known as __________.",
+    "op": [
+        "relative error",
+        "grouping error",
+        "absolute error",
+        "true error"
+    ],
+    "created_at": "2026-07-06T19:57:23.073189+00:00"
+},
+{
+    "id": 55184,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If a multiple bar chart displays the monthly revenue of two companies over a year, how are the bars typically grouped?",
+    "op": [
+        "By year, with each company's revenue adjacent to each other",
+        "By company, with each month's revenue adjacent to each other",
+        "By month, with each company's revenue adjacent to each other",
+        "By quarter, with each company's revenue adjacent to each other"
+    ],
+    "created_at": "2026-07-06T19:57:28.250591+00:00"
+},
+{
+    "id": 55185,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If the number of data elements is 10 and mean of the data is 50 then the sum of the data elements will be.....",
+    "op": [
+        "140",
+        "145",
+        "150",
+        "130"
+    ],
+    "created_at": "2026-07-06T19:57:35.396023+00:00"
+},
+{
+    "id": 55186,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A component bar chart is used to represent data in which the total size is _____________ into different or components.",
+    "op": [
+        "added",
+        "divided",
+        "subtracted",
+        "multiplied"
+    ],
+    "created_at": "2026-07-06T19:57:59.62535+00:00"
+},
+{
+    "id": 55187,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If 5% of 600 students are absent on Monday, 12% on Tuesday, and 15% on Wednesday, how many students are absent on Tuesday?",
+    "op": [
+        "72",
+        "90",
+        "30",
+        "100"
+    ],
+    "created_at": "2026-07-06T19:57:59.822575+00:00"
+},
+{
+    "id": 55188,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a dataset of exam scores, if the median is 75, what does this imply?",
+    "op": [
+        "45% of the students scored higher than 75.",
+        "75% of the students scored higher than 75.",
+        "50% of the students scored higher than 75.",
+        "65% of the students scored higher than 75."
+    ],
+    "created_at": "2026-07-06T19:58:10.174157+00:00"
+},
+{
+    "id": 55189,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The median and mode of 2, 2, 5, 5, 5, 5, 6, 7, 9 is __________.",
+    "op": [
+        "5",
+        "6",
+        "2",
+        "5.5"
+    ],
+    "created_at": "2026-07-06T19:58:27.584277+00:00"
+},
+{
+    "id": 55190,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What is an example of a measurement that can be accurately analysed using a ratio scale?",
+    "op": [
+        "Evaluating customer satisfaction as satisfied or dissatisfied",
+        "Rating movies on a scale of 1 to 5 stars",
+        "Categorizing fruits into types",
+        "Measuring the length of a race track"
+    ],
+    "created_at": "2026-07-06T19:58:36.901215+00:00"
+},
+{
+    "id": 55191,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The number of times a data value occurs is called _____________.",
+    "op": [
+        "median",
+        "frequency",
+        "mean",
+        "mode"
+    ],
+    "created_at": "2026-07-06T19:58:56.406091+00:00"
+},
+{
+    "id": 55192,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If the minimum and maximum values for the given data is same then the mean would be ___________ value.",
+    "op": [
+        "average",
+        "zero",
+        "minimum",
+        "maximum"
+    ],
+    "created_at": "2026-07-06T20:00:14.437999+00:00"
+},
+{
+    "id": 55193,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What scientific discipline focuses on drawing conclusions about various phenomena based on real data collected on a sample basis?",
+    "op": [
+        "None of these",
+        "Probability theory",
+        "Mathematics",
+        "Statistics"
+    ],
+    "created_at": "2026-07-06T20:00:48.14463+00:00"
+},
+{
+    "id": 55194,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The __________ of each class is obtained by adding the sum of the two limits of the class and dividing by 2.",
+    "op": [
+        "median",
+        "mid-point",
+        "class boundary",
+        "mode"
+    ],
+    "created_at": "2026-07-06T20:01:05.437137+00:00"
+},
+{
+    "id": 55195,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In statistics, the difference between observed and true value is called......",
+    "op": [
+        "error of measurement",
+        "random error",
+        "mistake",
+        "systematic error"
+    ],
+    "created_at": "2026-07-06T20:01:13.880042+00:00"
+},
+{
+    "id": 55196,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_2} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "frequency of the class following the modal class",
+        "frequency of the class preceding the modal class",
+        "cumulative frequency",
+        "frequency of the modal class"
+    ],
+    "created_at": "2026-07-06T20:01:32.193055+00:00"
+},
+{
+    "id": 55198,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A pie chart consists of a ………",
+    "op": [
+        "rectangle",
+        "square",
+        "triangle",
+        "circle"
+    ],
+    "created_at": "2026-07-06T20:01:41.248064+00:00"
+},
+{
+    "id": 55200,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The measure of central tendency which takes into account every value in the series is __________.",
+    "op": [
+        "mode",
+        "median",
+        "range",
+        "arithmetic mean"
+    ],
+    "created_at": "2026-07-06T20:02:07.499394+00:00"
+},
+{
+    "id": 55201,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The height of a student is 60 inches. This is an example of .....",
+    "op": [
+        "qualitative data",
+        "categorial data",
+        "continuous data",
+        "discrete data"
+    ],
+    "created_at": "2026-07-06T20:02:14.592651+00:00"
+},
+{
+    "id": 55203,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a multiple bar chart comparing the sales performance of two products across different regions, how are the bars typically arranged?",
+    "op": [
+        "Vertically, with each product represented by a different colour",
+        "In a circular fashion, with each region represented by a different colour",
+        "Vertically, with each product represented by the same colour",
+        "Diagonally, with each product intersecting each region"
+    ],
+    "created_at": "2026-07-06T20:02:33.291372+00:00"
+},
+{
+    "id": 55337,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A ___________ variable is one that can take only a discrete set of integers or whole numbers.",
+    "op": [
+        "continuous",
+        "qualitative",
+        "nominal",
+        "discrete"
+    ],
+    "created_at": "2026-07-06T21:05:35.236342+00:00"
+},
+{
+    "id": 55338,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In Univariate situation we have to deal with .....",
+    "op": [
+        "two variables",
+        "three variables",
+        "single variable",
+        "no variable"
+    ],
+    "created_at": "2026-07-06T21:05:49.597665+00:00"
+},
+{
+    "id": 55339,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Which example best illustrates the use of an ordinal scale?",
+    "op": [
+        "Ranking students' performance as excellent, good, fair, or poor",
+        "Measuring the temperature of different liquids",
+        "Measuring the length of a table in meters",
+        "Classifying students based on their favourite subject"
+    ],
+    "created_at": "2026-07-06T21:06:04.07291+00:00"
+},
+{
+    "id": 55340,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Ranking scale also includes the properties of ....",
+    "op": [
+        "Interval Scale",
+        "Ratio Scale",
+        "None of these",
+        "Nominal Scale"
+    ],
+    "created_at": "2026-07-06T21:06:41.354088+00:00"
+},
+{
+    "id": 55342,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{If}}\\,\\sum {fX} = 340\\,\\,{\\text{and}}\\,\\,\\,\\sum f = 20\\,\\,\\,{\\text{then}}\\,\\,\\bar X = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "7800",
+        "360",
+        "17",
+        "320"
+    ],
+    "created_at": "2026-07-06T21:07:34.79794+00:00"
+},
+{
+    "id": 55572,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a pie chart, the entire pie (circle) represents _____________ percent of a whole.",
+    "op": [
+        "360",
+        "100",
+        "180",
+        "80"
+    ],
+    "created_at": "2026-07-07T02:20:29.337983+00:00"
+},
+{
+    "id": 55574,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is not a type of bar chart.",
+    "op": [
+        "pie",
+        "simple",
+        "multiple",
+        "component"
+    ],
+    "created_at": "2026-07-07T02:21:55.683414+00:00"
+},
+{
+    "id": 55578,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Component bar charts could be used when we have information available about totals and their components.",
+    "op": [
+        "true",
+        "false"
+    ],
+    "created_at": "2026-07-07T02:23:00.126423+00:00"
+},
+{
+    "id": 55580,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Technical term for number of something happens or occurs is ………",
+    "op": [
+        "Chart",
+        "Frequency",
+        "Polygon",
+        "Histogram"
+    ],
+    "created_at": "2026-07-07T02:23:56.23119+00:00"
+},
+{
+    "id": 55582,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If a pie chart represents the distribution of fruit preferences among 200 people, and 20 of them prefer apples, what angle would the sector representing apples have?",
+    "op": [
+        "38 degrees",
+        "40 degrees",
+        "24 degrees",
+        "36 degrees"
+    ],
+    "created_at": "2026-07-07T02:25:18.568237+00:00"
+},
+{
+    "id": 55596,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The grouping error is small for the __________.",
+    "op": [
+        "geometric mean",
+        "mean deviation",
+        "harmonic mean",
+        "arithmetic mean"
+    ],
+    "created_at": "2026-07-07T02:47:27.452306+00:00"
+},
+{
+    "id": 55597,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If the frequency distribution contains ....mode/modes then it is called bi modal distribution.",
+    "op": [
+        "exactly one",
+        "two",
+        "three",
+        "four"
+    ],
+    "created_at": "2026-07-07T02:48:11.572767+00:00"
+},
+{
+    "id": 55598,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If no. of students from category A=719 and from category B=481 and total no. of students is 1200 then percentage of students of Category B =…….",
+    "op": [
+        "(481/1200)*100",
+        "481+1200/100",
+        "(719/481)*1200",
+        "(719/1200)*100"
+    ],
+    "created_at": "2026-07-07T02:48:32.232314+00:00"
+},
+{
+    "id": 55769,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In pie chart the angle for each sector can be found by the formula=.........",
+    "op": [
+        "(cell frequency/total frequency)*280",
+        "(cell frequency/total frequency)*360",
+        "(cell frequency/total frequency)*450",
+        "(cell frequency/total frequency)*180"
+    ],
+    "created_at": "2026-07-07T04:08:56.769347+00:00"
+},
+{
+    "id": 55775,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If a simple bar chart displays the sales revenue of different departments in a store, how are the departments typically labelled on the chart?",
+    "op": [
+        "Along the y-axis (vertical axis)",
+        "At the top of each bar",
+        "In a legend positioned outside the chart area",
+        "Along the x-axis (horizontal axis)"
+    ],
+    "created_at": "2026-07-07T04:10:01.923759+00:00"
+},
+{
+    "id": 55780,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If the mean of the data is 50 and sum of the data is 450 then the number of observations in the data will be…….",
+    "op": [
+        "11",
+        "10",
+        "9",
+        "8"
+    ],
+    "created_at": "2026-07-07T04:10:44.361572+00:00"
+},
+{
+    "id": 55781,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a multiple bar chart, ______________ group (s) of related data is (are) represented.",
+    "op": [
+        "two or more",
+        "may or may not one",
+        "one",
+        "only two"
+    ],
+    "created_at": "2026-07-07T04:11:04.841681+00:00"
+},
+{
+    "id": 55786,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "An error is said to be __________ when the observed value is consistently and constantly higher or lower than the true value.",
+    "op": [
+        "un-biased",
+        "random",
+        "actual",
+        "biased"
+    ],
+    "created_at": "2026-07-07T04:11:55.500967+00:00"
+},
+{
+    "id": 55790,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A chracteristic that varies with an indiviual or an object is called a/an .........",
+    "op": [
+        "scale",
+        "data",
+        "observation",
+        "variable"
+    ],
+    "created_at": "2026-07-07T04:14:42.686106+00:00"
+},
+{
+    "id": 55796,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What is an example of a measurement that follows an interval scale?",
+    "op": [
+        "Number of students in a class",
+        "Age measured in years",
+        "Temperature measured in Celsius or Fahrenheit",
+        "Weight measured in kilograms"
+    ],
+    "created_at": "2026-07-07T04:20:14.123197+00:00"
+},
+{
+    "id": 55797,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If the number of terms in the data are arranged in ascending order and are even then the median of the data is ……..",
+    "op": [
+        "The average of 1st and 3rd quartiles",
+        "The average of 1st and 2nd quartiles",
+        "The average of smallest  and largest",
+        "The average of two middle terms"
+    ],
+    "created_at": "2026-07-07T04:20:50.394571+00:00"
+},
+{
+    "id": 55799,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A circle in pie chart is divided into parts according to the .........that we have in our data.",
+    "op": [
+        "distinct categories",
+        "same categories"
+    ],
+    "created_at": "2026-07-07T04:21:19.819653+00:00"
+},
+{
+    "id": 55800,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Which scale will you use to measure the tempreature?",
+    "op": [
+        "Nominal Scale",
+        "Interval Scale",
+        "None of these",
+        "Ratio Scale"
+    ],
+    "created_at": "2026-07-07T04:21:56.376845+00:00"
+},
+{
+    "id": 55801,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Which one of the following is not an example of discrete variable?",
+    "op": [
+        "Temperature at a place",
+        "rooms in a school",
+        "accidents in a year",
+        "persons in a family"
+    ],
+    "created_at": "2026-07-07T04:21:58.651241+00:00"
+},
+{
+    "id": 55802,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How is the midpoint of each class calculated in grouped data?",
+    "op": [
+        "By finding the mode of the class interval",
+        "By subtracting the lower limit from the upper limit of the class",
+        "By taking the average of the lower and upper limits of the class",
+        "By dividing the frequency of the class by the total number of observations"
+    ],
+    "created_at": "2026-07-07T04:22:19.252219+00:00"
+},
+{
+    "id": 55803,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The key to differentiating interval and __________ scale is that the zero point is meaningful for the __________ scale.",
+    "op": [
+        "ratio, ratio",
+        "continuous, continuous",
+        "nominal, ordinal",
+        "ordinal, ratio"
+    ],
+    "created_at": "2026-07-07T04:22:30.209931+00:00"
+},
+{
+    "id": 55805,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{If}}\\,\\,\\sum {wx = 2700\\,\\,{\\text{and}}\\,\\,\\sum {w\\, = \\,300\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,}$",
+    "op": [
+        "5",
+        "9",
+        "11",
+        "6"
+    ],
+    "created_at": "2026-07-07T04:23:06.634942+00:00"
+},
+{
+    "id": 55854,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Types of quantitative data are discrete and ……data",
+    "op": [
+        "Pie chart",
+        "Bar chart",
+        "Continuous",
+        "Multiple"
+    ],
+    "created_at": "2026-07-07T04:42:06.288702+00:00"
+},
+{
+    "id": 55864,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A simple bar chart consists of horizontal or vertical bars of _____________ width and lengths proportional to values they represent.",
+    "op": [
+        "unequal",
+        "equal",
+        "smaller",
+        "greater"
+    ],
+    "created_at": "2026-07-07T04:47:25.074584+00:00"
+},
+{
+    "id": 55875,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How are the observations within each class typically treated when calculating the approximate mean in grouped data?",
+    "op": [
+        "They are ignored due to the loss of identity in grouped data",
+        "They are assumed to be equal to the upper limit of the class interval",
+        "They are assumed to be identical to the midpoint of the class interval",
+        "They are assumed to be equal to the lower limit of the class interval"
+    ],
+    "created_at": "2026-07-07T04:49:59.14986+00:00"
+},
+{
+    "id": 55884,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The component bar chart is also known as the _______________ bar chart.",
+    "op": [
+        "simple",
+        "horizontal",
+        "subdivided",
+        "multiple"
+    ],
+    "created_at": "2026-07-07T04:52:14.26382+00:00"
+},
+{
+    "id": 55896,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "Statistics is a numerical quantity which is calculated from ........",
+    "op": [
+        "sample",
+        "observation",
+        "population",
+        "data"
+    ],
+    "created_at": "2026-07-07T04:57:16.836591+00:00"
+},
+{
+    "id": 55943,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The __________ is used when we cannot give equal weight to each value.",
+    "op": [
+        "harmonic mean",
+        "arithmetic mean",
+        "median",
+        "weighted mean"
+    ],
+    "created_at": "2026-07-07T05:18:00.221623+00:00"
+},
+{
+    "id": 55945,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In ......bar chart,the basis of comparison is one dimensional.",
+    "op": [
+        "all of these",
+        "simple",
+        "Component",
+        "multiple"
+    ],
+    "created_at": "2026-07-07T05:19:04.800192+00:00"
+},
+{
+    "id": 55949,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If we have available to us information regarding totals and their components then the ______________ bar chart should be used.",
+    "op": [
+        "line",
+        "simple",
+        "component",
+        "multiple"
+    ],
+    "created_at": "2026-07-07T05:24:50.415646+00:00"
+},
+{
+    "id": 55950,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The performance of players is rated as excellent, good, fair or poor is an example of the __________ scale.",
+    "op": [
+        "interval",
+        "nominal",
+        "ratio",
+        "ordinal"
+    ],
+    "created_at": "2026-07-07T05:25:45.911776+00:00"
+},
+{
+    "id": 55952,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "In a pie chart, the slices (sectors) of the pie represent portions of the ______________.",
+    "op": [
+        "whole",
+        "three quarters",
+        "quarter",
+        "half"
+    ],
+    "created_at": "2026-07-07T05:26:37.451817+00:00"
+},
+{
+    "id": 55968,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What characterizes a bi-modal frequency distribution?",
+    "op": [
+        "It has a one mode",
+        "It has a symmetric shape",
+        "It has two modes",
+        "It has no distinct mode"
+    ],
+    "created_at": "2026-07-07T05:37:44.415657+00:00"
+},
+{
+    "id": 56016,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "${\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_m} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.$",
+    "op": [
+        "frequency of the modal class",
+        "frequency of the class following the modal class",
+        "frequency of the class preceding the modal class",
+        "cumulative frequency"
+    ],
+    "created_at": "2026-07-07T05:55:08.086872+00:00"
+},
+{
+    "id": 56074,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "What term is used to refer to the midpoint of each class in a frequency distribution?",
+    "op": [
+        "Class interval",
+        "Class boundary",
+        "Class mark",
+        "Class median"
+    ],
+    "created_at": "2026-07-07T06:17:05.171103+00:00"
+},
+{
+    "id": 56131,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If for a given problem, the domain of a variable contains only one value, then the variable is referred to as a __________.",
+    "op": [
+        "continuous",
+        "constant",
+        "qualitative",
+        "ordinal"
+    ],
+    "created_at": "2026-07-07T06:36:34.635299+00:00"
+},
+{
+    "id": 56142,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "How is the arithmetic mean calculated?",
+    "op": [
+        "By finding the value with the highest frequency",
+        "By finding the difference between the highest and lowest values",
+        "By adding up all values and dividing by the total count",
+        "By finding the middle value in a sorted dataset"
+    ],
+    "created_at": "2026-07-07T06:39:50.170713+00:00"
+},
+{
+    "id": 56163,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "If no. of students from category A=719 and from category B=481 and total no. of students is 1200 then percentage of students of Category A =……",
+    "op": [
+        "(719+1200)/100",
+        "(719-1200)/100",
+        "(481/1200)*100",
+        "(719/1200)*100"
+    ],
+    "created_at": "2026-07-07T06:47:55.963089+00:00"
+},
+{
+    "id": 56165,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The mode of the data 2.7, 3.5, 4.9, 5.1, 8.3 is....",
+    "op": [
+        "5.1",
+        "3.5",
+        "there is no mode for this data",
+        "4.9"
+    ],
+    "created_at": "2026-07-07T06:48:21.54216+00:00"
+},
+{
+    "id": 56239,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The given set of all possible values from which a variable take on a value is called its........",
+    "op": [
+        "Data",
+        "None of these",
+        "Range",
+        "Domain"
+    ],
+    "created_at": "2026-07-07T07:47:11.733075+00:00"
+},
+{
+    "id": 56328,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "A simple bar graph consists of _____________ bars of equal width and lengths proportional to values they represent.",
+    "op": [
+        "(III) slant",
+        "(IV) Both (I) or (II).",
+        "(I) horizontal",
+        "(II) vertical"
+    ],
+    "created_at": "2026-07-07T08:26:02.285105+00:00"
+},
+{
+    "id": 56950,
+    "cc": "MTH001",
+    "qn": "05",
+    "dt": "07 July 2026",
+    "qt": "The most frequent value in the data is called………..",
+    "op": [
+        "midrange",
+        "median",
+        "mean",
+        "mode"
+    ],
+    "created_at": "2026-07-07T16:07:45.644318+00:00"
+},
+{
+    "id": 72068,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "A matrix with dimension  1 \\times n is known as _________. ",
+    "op": [
+        "null matrix",
+        "singular matrix",
+        "column matrix",
+        "row matrix"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72069,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "The matrix $A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\  5 \\\\  {10}  \\end{array}} \\right]$ is a _________ matrix.  ",
+    "op": [
+        "singular",
+        "column",
+        "null",
+        "row"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72072,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{If }}i = 5\\% {\\text{ and }}n = 10{\\text{, then the accumulation factor AF is equal to __________}}{\\text{.}}\\) ",
+    "op": [
+        "\\(11.58\\)",
+        "\\(12.85\\)",
+        "\\(11.85\\)",
+        "\\(12.58\\)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72076,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{If you buy}}100{\\text{ shares at Rs}}{\\text{. }}62.50{\\text{ per share with a }}2\\% {\\text{ commission then the total cost is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,\\) ",
+    "op": [
+        "\\({\\text{Rs}}{\\text{. }}6375\\;\\)",
+        "\\({\\text{Rs}}{\\text{. }}6250\\;\\)",
+        "\\({\\text{Rs}}{\\text{. }}6275\\;\\)",
+        "\\({\\text{Rs}}{\\text{. }}6350\\;\\)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72078,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] and k=-3 then kA will be _________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 6 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\ \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72079,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If I is an identity matrix of order 2×2 and A is any other real matrix of order 2×2, then the product of matrix A and I will be equal to __________. ",
+    "op": [
+        "AI = {A^2}",
+        "AI = A",
+        "AI = I",
+        "A{A^{ - 1}} = O"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72119,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "A matrix with dimension n×1 is known as _________. ",
+    "op": [
+        "row matrix",
+        "column matrix",
+        "null matrix",
+        "singular matrix"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72120,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\rm{If}}\\,{\\rm{ }}\\,X = \\left[ {\\begin{array}{*{20}{c}} 5\\\\ { - 3} \\end{array}} \\right]{\\rm{ and }}\\,Y = \\left[ {\\begin{array}{*{20}{c}} 9&{11} \\end{array}} \\right]{\\rm{ then}}\\,\\;XY = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} {14}&8 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} {45}\\\\ { - 33} \\end{array}} \\right]",
+        "\\left[ {\\,12\\,} \\right]",
+        "\\left[ {\\,78\\,} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72168,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If {A^{ - 1}} is the multiplicative inverse of A then their product will be equal to _________.  ",
+    "op": [
+        "A{A^{ - 1}} = {A^{ - 1}}",
+        "A{A^{ - 1}} = O",
+        "A{A^{ - 1}} = I",
+        "A{A^{ - 1}} = A"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72169,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 2&0 \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\ 1&1 \\end{array}} \\right] then A+B = ____________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 3&1 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 3&4 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 1&3 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\ 3&1 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72170,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{The }}\\,\\,{\\text{algebraic }}\\,\\,{\\text{expression}},\\,\\,{x^2} + xy - 6{y^2}{\\text{, }}\\,\\,{\\text{is }}\\,\\,{\\text{an }}\\,\\,{\\text{example }}\\,\\,{\\text{of}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_.",
+    "op": [
+        "{\\text{Both Binomial and polynomial}}",
+        "{\\text{Binomial}}",
+        "{\\text{Trinomial}}",
+        "{\\text{Both trinomial and polynomial}}"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72171,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If}}\\,\\frac{8}{9} = \\frac{y}{{108}},\\,\\,{\\text{then}}\\,y = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\, ",
+    "op": [
+        "81",
+        "96",
+        "72",
+        "144"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72172,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{The formula of discount factor for }}n{\\text{ periods is __________.}} ",
+    "op": [
+        "\\frac{{(1 + \\frac{1}{{{{(1 + i)}^n}}})}}{{i + 1}}",
+        "\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i -1}}",
+        "\\frac{{(1 - {{(1 + i)}^{ n}})}}{i}",
+        "\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i }}"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72191,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Two matrices A and B are said to be confirmable for subtraction if __________. ",
+    "op": [
+        "they have the same number of rows and columns",
+        "they have different dimensions",
+        "they have the same number of rows",
+        "they have the same number of columns"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72192,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $I$ is an identity matrix of order $ 2×2$ and $A$ is any other real matrix of order $ 2×2$, then the product of matrix $A$ and $I$ will be equal to __________. ",
+    "op": [
+        "$A{A^{ - 1}} = O$",
+        "$AI = {A^2}$",
+        "$AI = A$",
+        "$AI = I$"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72193,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If}}\\,P = {\\text{Rs}}{\\text{.}}\\,\\,500,T = 4\\,{\\text{years and }}R = 11\\% \\,{\\text{ then}}\\,{\\text{the simple interest is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "{\\text{Rs}}{\\text{. }}220",
+        "{\\text{Rs}}{\\text{. }}200",
+        "{\\text{Rs}}{\\text{. }}330",
+        "{\\text{Rs}}{\\text{. }}320"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72194,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\rm{The \\,addition \\,of\\, }}A = \\left[ {\\begin{array}{*{20}{c}} { - 7}&{16}\\\\ 9&{ - 21} \\end{array}} \\right]\\;{\\rm{and\\,\\, }}B = \\left[ {\\begin{array}{*{20}{c}} {10}&{ - 22}\\\\ { - 9}&{21} \\end{array}} \\right]{\\rm{ is\\, \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_}}{\\rm{.}} ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} { - 13}&{ - 38}\\\\ {18}&{42} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} { - 70}&{ - 352}\\\\ { - 81}&{ - 441} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 3&{ - 6}\\\\ 0&0 \\end{array}} \\right]\\;",
+        "\\left[ {\\begin{array}{*{20}{c}} { - 3}&6\\\\ 0&0 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72195,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Two matrices A and B are said to be confirmable for addition if __________. ",
+    "op": [
+        "they have the same number of rows and columns",
+        "they have the same number of columns",
+        "they have different dimensions",
+        "they have the same number of rows"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72196,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If }}2:x = 3:9\\,{\\text{ then}}\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\, ",
+    "op": [
+        "3",
+        "12",
+        "9",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72197,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Which\\,\\,one\\,\\,is\\,\\,correct\\,\\,in\\,\\,the\\,\\,following,\\,\\,if\\,\\,2\\left[ \\begin{array}{l} 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 1 \\\\\\ - 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right]. ",
+    "op": [
+        "\\left[ \\begin{array}{l} 6\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 2 \\\\\\ - 8\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right]",
+        "\\left[ \\begin{array}{l} - 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,1 \\\\\\ 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right].",
+        "None\\,\\,of\\,\\,these",
+        "\\left[ \\begin{array}{l} 3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, - 1 \\\\\\ - 4\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,0 \\\\\\ \\end{array} \\right]."
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72198,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] then A-B will be _________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72199,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] then A+B will be __________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 1 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ 2 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72200,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "The matrix A = \\left[ {\\begin{array}{*{20}{c}} 1&2&3 \\end{array}} \\right] is a _________ matrix. ",
+    "op": [
+        "null",
+        "row",
+        "column",
+        "singular"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72205,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\  2&0  \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\  1&1  \\end{array}} \\right]$ then $A-B$ will be _________. ",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} 0&3 \\\\  1&{ - 1}  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\  1&3  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\  3&1  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\  3&4  \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72206,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{Is }}\\,\\,\\frac{{\\text{2}}} {4}\\,\\,{\\text{proportional to }}\\frac{{\\text{3}}} {{15}}? \\) ",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72222,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\[ \\begin{array}{l} Dimension\\,\\,of\\,\\,matrix\\,\\,A\\,\\,is\\,\\,3*3\\,\\,\\,and\\,\\,Dimension\\,\\,of\\,\\,matrix\\,\\,B\\,\\,is\\,\\,3*2\\,\\,\\,. \\\\\\ Find\\,\\,the\\,\\,Dimension\\,\\,of\\,\\,AB\\,\\,\\, = \\,\\,\\,\\,\\, - - - - - . \\\\\\ \\end{array} \\] ",
+    "op": [
+        "\\[ 3*3 \\]",
+        "\\[ 2*2 \\]",
+        "\\[ 3*2 \\]",
+        "\\[ None\\,\\,of\\,\\,these \\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72223,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\rm{The \\,addition \\,of\\, }}A = \\left[ {\\begin{array}{*{20}{c}} { - 7}&{16}\\\\ 9&{ - 21} \\end{array}} \\right]\\;{\\rm{and\\,\\, }}B = \\left[ {\\begin{array}{*{20}{c}} {10}&{ - 22}\\\\ { - 9}&{21} \\end{array}} \\right]{\\rm{ is\\, \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_}}{\\rm{.}}\\) ",
+    "op": [
+        "\\(\\left[ {\\begin{array}{*{20}{c}} { - 13}&{ - 38}\\\\ {18}&{42} \\end{array}} \\right]\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} { - 70}&{ - 352}\\\\ { - 81}&{ - 441} \\end{array}} \\right]\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} 3&{ - 6}\\\\ 0&0 \\end{array}} \\right]\\;\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} { - 3}&6\\\\ 0&0 \\end{array}} \\right]\\)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72225,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If you buy}}100{\\text{ shares at Rs}}{\\text{. }}62.50{\\text{ per share with a }}2\\% {\\text{ commission then the total cost is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\, ",
+    "op": [
+        "{\\text{Rs}}{\\text{. }}6250\\;",
+        "{\\text{Rs}}{\\text{. }}6350\\;",
+        "{\\text{Rs}}{\\text{. }}6275\\;",
+        "{\\text{Rs}}{\\text{. }}6375\\;"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72226,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\begin{array}{l} A\\,\\,\\,{\\rm{chartered bank is increasing the interest rate on its loans from 7\\% to 9\\% }} \\\\\\ {\\rm{What will be the percent increase in the interest rate on a given balance?}} \\\\\\ \\end{array} ",
+    "op": [
+        "28.57\\%",
+        "- 22.2\\%",
+        "22.2\\%",
+        "None\\,\\,of\\,\\,these"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72242,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\[ \\begin{array}{l} A\\,\\,\\,{\\rm{chartered bank is increasing the interest rate on its loans from 7\\% to 9\\% }} \\\\\\ {\\rm{What will be the percent increase in the interest rate on a given balance?}} \\\\\\ \\end{array} \\] ",
+    "op": [
+        "\\[ None\\,\\,of\\,\\,these \\]",
+        "\\[ 22.2\\% \\]",
+        "\\[ 28.57\\% \\]",
+        "\\[ - 22.2\\% \\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72243,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{If}}\\,\\,\\,\\frac{1} {2} = \\frac{x} {3}\\,\\,\\,{\\text{then}}\\,\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_. \\) ",
+    "op": [
+        "\\(\\frac{3} {2} \\)",
+        "\\( \\frac{1} {2} \\)",
+        "\\(\\frac{1} {6} \\)",
+        "\\(\\frac{2} {3} \\)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72244,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ and $k=-3$ then $kA$ will be _________. ",
+    "op": [
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\  \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\  \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ 3 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ - 3 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ - 6 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 3 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 6 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 6 \\hfill \\\\ - 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\  \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 6 \\hfill \\\\  \\end{gathered} &\\begin{gathered} - 6 \\hfill \\\\ - 3 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72245,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{The formula of discount factor for }}n{\\text{ periods is __________.}}\\) ",
+    "op": [
+        "\\(\\frac{{(1 + \\frac{1}{{{{(1 + i)}^n}}})}}{{i + 1}}\\)",
+        "\\(\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i }}\\)",
+        "\\(\\frac{{(1 - \\frac{1}{{{{(1 + i)}^n}}})}}{{i -1}}\\)",
+        "\\(\\frac{{(1 - {{(1 + i)}^{ n}})}}{i}\\)"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72246,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{The formula used for finding accumulated factor }} S {\\text{ of an annuity is given by: }} S= {\\text{_________}}{\\text{.}} ",
+    "op": [
+        "\\frac{{r({{(1 + i)}^n} - 1)}}{i^2+1}",
+        "\\frac{{r({{(1 + i)}^n} - 1)}}{i}",
+        "\\frac{{r({{(1 + i)}^n} - 1)}}{i-1}",
+        "\\frac{{r({{(1 + i)}^n} + 1)}}{i}"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72247,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{A matrix is a rectangular array of }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "symbols",
+        "numbers",
+        "palces",
+        "objects"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72248,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ then $A-B$ will be _________. ",
+    "op": [
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ - 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72249,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Let A be an l×m matrix and B be an m×n matrix, then the dimension of the product matrix AB will be equal to __________. ",
+    "op": [
+        "l×m",
+        "m×m",
+        "m×n",
+        "l×n"
+    ],
+    "created_at": "2026-07-15T13:35:14.494554+00:00"
+},
+{
+    "id": 72254,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "What is the order of the matrix $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 3 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 4 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$? ",
+    "op": [
+        "\\( 3×3\\)",
+        "\\(2×3 \\)",
+        "\\(3×2 \\)",
+        "\\( 2×2\\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72256,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\  2&0  \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\  1&1  \\end{array}} \\right]$ then $A+B$ = ____________. ",
+    "op": [
+        "\\[ \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\  3&4  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\  3&1  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\  1&3  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\  3&1  \\end{array}} \\right]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72258,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Two matrices A and B are said to be confirmable for multiplication if __________. ",
+    "op": [
+        "the number of rows in matrix A is equal to the number of columns in matrix B",
+        "the number of columns in matrix A is equal to the number of columns in matrix B",
+        "the number of columns in matrix A is equal to the number of rows in matrix B",
+        "the number of rows in matrix  A is equal to the number of rows in matrix B"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72259,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{If}}\\,\\frac{8}{9} = \\frac{y}{{108}},\\,\\,{\\text{then}}\\,y = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,\\) ",
+    "op": [
+        "\\(144\\)",
+        "\\(96\\)",
+        "\\(72\\)",
+        "\\(81\\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72261,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "A matrix with dimension n×m, is said to be a square matrix if ________.  ",
+    "op": [
+        "n \\ne m",
+        "n < m",
+        "n > m",
+        "n=m"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72264,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If x = 341.25 + 0.025 x then the value of x  is _____________.  ",
+    "op": [
+        "450",
+        "250",
+        "150",
+        "350"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72266,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "The multiplicative inverse of 1/100 is equal to _____________. ",
+    "op": [
+        "50",
+        "25",
+        "100",
+        "75"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72268,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\rm{If}}\\,{\\rm{ }}\\,X = \\left[ {\\begin{array}{*{20}{c}} 5\\\\ { - 3} \\end{array}} \\right]{\\rm{ and }}\\,Y = \\left[ {\\begin{array}{*{20}{c}} 9&{11} \\end{array}} \\right]{\\rm{ then}}\\,\\;XY = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "\\(\\left[ {\\,78\\,} \\right]\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} {14}&8 \\end{array}} \\right]\\)",
+        "\\(\\left[ {\\begin{array}{*{20}{c}} {45}\\\\ { - 33} \\end{array}} \\right]\\)",
+        "\\(\\left[ {\\,12\\,} \\right]\\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72270,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "What is the order of the matrix $A = \\left[ {\\begin{array}{*{20}{c}} 1&6  \\end{array}} \\right]$? ",
+    "op": [
+        "\\( 2×1\\)",
+        "\\( 1×1\\)",
+        "\\( 2×2\\)",
+        "\\(1×2 \\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72282,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\({\\text{If}}\\,P = {\\text{Rs}}{\\text{.}}\\,\\,500,T = 4\\,{\\text{years and }}R = 11\\% \\,{\\text{ then}}\\,{\\text{the simple interest is }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "\\({\\text{Rs}}{\\text{. }}200\\)",
+        "\\({\\text{Rs}}{\\text{. }}220\\)",
+        "\\({\\text{Rs}}{\\text{. }}330\\)",
+        "\\({\\text{Rs}}{\\text{. }}320\\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72284,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\[{\\text{The }}\\,\\,{\\text{algebraic }}\\,\\,{\\text{expression}},\\,\\,{x^2} + xy - 6{y^2}{\\text{, }}\\,\\,{\\text{is }}\\,\\,{\\text{an }}\\,\\,{\\text{example }}\\,\\,{\\text{of}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_.\\]",
+    "op": [
+        "\\[{\\text{Both trinomial and polynomial}}\\]",
+        "\\[{\\text{Both Binomial and polynomial}}\\]",
+        "\\[{\\text{Binomial}}\\]",
+        "\\[{\\text{Trinomial}}\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72298,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 1 \\\\ 1 \\end{array}} \\right] then the matrix AB wil be ______________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 2&2&2 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 6 \\\\ 0 \\end{array}} \\right]",
+        "\\left[ 2 \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72299,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If }}i = 5\\% {\\text{ and }}n = 10{\\text{, then the accumulation factor AF is equal to __________}}{\\text{.}} ",
+    "op": [
+        "11.85",
+        "11.58",
+        "12.58",
+        "12.85"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72300,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If A = \\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 2&0 \\end{array}} \\right] and B = \\left[ {\\begin{array}{*{20}{c}} 1&{ - 1} \\\\ 1&1 \\end{array}} \\right] then A-B will be _________. ",
+    "op": [
+        "\\left[ {\\begin{array}{*{20}{c}} 1&2 \\\\ 3&4 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 0&3 \\\\ 1&{ - 1} \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 2&{ - 1} \\\\ 3&1 \\end{array}} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 2&1 \\\\ 1&3 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72301,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If\\,\\,\\,{\\rm{List price = 4,500 Rs,}}\\,\\,\\,\\,\\,{\\rm{Discount = 20 \\% }}{\\rm{.}}\\,\\,Find\\,\\,\\,the\\,\\,\\,{\\rm{Net cost price?}} ",
+    "op": [
+        "3600\\,",
+        "None\\,\\,of\\,\\,these",
+        "4300",
+        "3200"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72303,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\  1 \\\\  1  \\end{array}} \\right]$ then the matrix $AB$ wil be ______________. ",
+    "op": [
+        "$\\left[ 2 \\right]$",
+        "$\\left[ {\\begin{array}{*{20}{c}} 6 \\\\  0  \\end{array}} \\right]$",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} 2&2&2  \\end{array}} \\right]\\]",
+        "$\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72305,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{If}}\\,\\,\\,\\frac{1} {2} = \\frac{x} {3}\\,\\,\\,{\\text{then}}\\,\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "\\frac{2} {3}",
+        "\\frac{3} {2}",
+        "\\frac{1} {6}",
+        "\\frac{1} {2}"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72306,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "If $A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ and $B = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]$ then $A+B$ will be __________. ",
+    "op": [
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 2 \\hfill \\\\ 1 \\hfill \\\\ 2 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 2 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 1 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]",
+        "\\[\\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 3 \\hfill \\\\ 0 \\hfill \\\\ 1 \\hfill \\\\  \\end{gathered} &\\begin{gathered} 4 \\hfill \\\\ 2 \\hfill \\\\ 0 \\hfill \\\\  \\end{gathered}  \\end{array}} \\right]\\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72345,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "A matrix with dimension  $1 \\times n$ is known as _________. ",
+    "op": [
+        "column matrix",
+        "row matrix",
+        "singular matrix",
+        "null matrix"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72346,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "What is the order of the matrix A = \\left[ {\\begin{array}{*{20}{c}} 1&6 \\end{array}} \\right]? ",
+    "op": [
+        "1×1",
+        "1×2",
+        "2×2",
+        "2×1"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72353,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{Is }}\\,\\,\\frac{{\\text{2}}} {4}\\,\\,{\\text{proportional to }}\\frac{{\\text{3}}} {{15}}? ",
+    "op": [
+        "Yes",
+        "No"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72358,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "Let A be an m×n matrix and k be any scalar, then scalar multiplication of matrix A is obtained by ____________. ",
+    "op": [
+        "substituting the scalar k for each element of matrix A",
+        "multiplying each element of matrix A by the scalar k",
+        "adding the scalar k to each element of matrix A",
+        "dividing each element of matrix A by the scalar k"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72359,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\rm{If}}\\,{\\rm{ }}A = \\left[ {\\begin{array}{*{20}{c}} 2\\\\ 3\\\\ 0 \\end{array}} \\right]{\\rm{ and }}B = \\left[ {\\begin{array}{*{20}{c}} { - 1}&0&6 \\end{array}} \\right]{\\rm{ then}}\\;AB = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.  ",
+    "op": [
+        "\\left[ { - 2 } \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1&3&6 \\end{array}} \\right]",
+        "\\left[ {\\,7\\,} \\right]",
+        "\\left[ {\\begin{array}{*{20}{c}} 1\\\\ 3\\\\ 6 \\end{array}} \\right]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72366,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\[ If\\,\\,\\,{\\rm{List price = 4,500 Rs,}}\\,\\,\\,\\,\\,{\\rm{Discount = 20 \\% }}{\\rm{.}}\\,\\,Find\\,\\,\\,the\\,\\,\\,{\\rm{Net cost price?}} \\] ",
+    "op": [
+        "\\[ 3600\\, \\]",
+        "\\[ 4300 \\]",
+        "\\[ None\\,\\,of\\,\\,these \\]",
+        "\\[ 3200 \\]"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72367,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "What is the order of the matrix A = \\left[ {\\begin{array}{*{20}{c}} \\begin{gathered} 1 \\hfill \\\\ 3 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 2 \\hfill \\\\ 4 \\hfill \\\\ \\end{gathered} &\\begin{gathered} 1 \\hfill \\\\ 0 \\hfill \\\\ \\end{gathered} \\end{array}} \\right]? ",
+    "op": [
+        "3×3",
+        "3×2",
+        "2×2",
+        "2×3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72369,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "{\\text{A matrix is a rectangular array of }}\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "numbers",
+        "palces",
+        "objects",
+        "symbols"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72371,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "The matrix A = \\left[ {\\begin{array}{*{20}{c}} 1 \\\\ 5 \\\\ {10} \\end{array}} \\right] is a _________ matrix.  ",
+    "op": [
+        "singular",
+        "null",
+        "row",
+        "column"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72381,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "01 January 2026",
+    "qt": "\\begin{array}{l} Dimension\\,\\,of\\,\\,matrix\\,\\,A\\,\\,is\\,\\,3*3\\,\\,\\,and\\,\\,Dimension\\,\\,of\\,\\,matrix\\,\\,B\\,\\,is\\,\\,3*2\\,\\,\\,. \\\\\\ Find\\,\\,the\\,\\,Dimension\\,\\,of\\,\\,AB\\,\\,\\, = \\,\\,\\,\\,\\, - - - - - . \\\\\\ \\end{array} ",
+    "op": [
+        "2*2",
+        "None\\,\\,of\\,\\,these",
+        "3*2",
+        "3*3"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72387,
+    "cc": "MTH001",
+    "qn": "4",
+    "dt": "02 January 2026",
+    "qt": "\\({\\text{If }}2:x = 3:9\\,{\\text{ then}}\\,\\,x = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\,\\) ",
+    "op": [
+        "\\(12\\)",
+        "\\(3\\)",
+        "\\(6\\)",
+        "\\(9\\)"
+    ],
+    "created_at": "2026-07-15T13:35:15.541461+00:00"
+},
+{
+    "id": 72637,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{If}}\\,\\sum {fX} = 340\\,\\,{\\text{and}}\\,\\,\\,\\sum f = 20\\,\\,\\,{\\text{then}}\\,\\,\\bar X = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "17",
+        "360",
+        "7800",
+        "320"
+    ],
+    "created_at": "2026-07-15T13:35:20.761588+00:00"
+},
+{
+    "id": 72661,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{If}}\\,\\,\\,{\\sum {{W_i}X} _i} = 4900\\,\\,\\,{\\text{and}}\\,\\,\\,\\sum {{W_i}} = 70\\,\\,\\,\\,{\\text{then}}\\,\\,\\,{{\\bar X}_w} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "70",
+        "5060",
+        "343000",
+        "5830"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72674,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{If}}\\,\\,\\,{\\sum {{W_i}X} _i} = 4900\\,\\,\\,{\\text{and}}\\,\\,\\,\\sum {{W_i}} = 70\\,\\,\\,\\,{\\text{then}}\\,\\,\\,{{\\bar X}_w} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "343000",
+        "70",
+        "5060",
+        "5830"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72677,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_2} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "frequency of the modal class",
+        "frequency of the class following the modal class",
+        "frequency of the class preceding the modal class",
+        "cumulative frequency"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72728,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{If}}\\,\\,\\sum {wx = 2700\\,\\,{\\text{and}}\\,\\,\\sum {w\\, = \\,300\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,} \\) ",
+    "op": [
+        "11",
+        "6",
+        "9",
+        "5"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72732,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{If}}\\,\\sum {fX} = 340\\,\\,{\\text{and}}\\,\\,\\,\\sum f = 20\\,\\,\\,{\\text{then}}\\,\\,\\bar X = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "17",
+        "320",
+        "7800",
+        "360"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72733,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{If}}\\,\\,\\sum {f\\,x = 1135.5\\,\\,{\\text{and}}\\,\\,\\sum {f\\, = \\,30\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,} \\) ",
+    "op": [
+        "37.85",
+        "39.50",
+        "35.89",
+        "38.60"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72757,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{If}}\\,\\,\\sum {f\\,x = 1135.5\\,\\,{\\text{and}}\\,\\,\\sum {f\\, = \\,30\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,} ",
+    "op": [
+        "37.85",
+        "35.89",
+        "39.50",
+        "38.60"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72761,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_m} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "frequency of the class preceding the modal class",
+        "cumulative frequency",
+        "frequency of the class following the modal class",
+        "frequency of the modal class"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72762,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{If}}\\,\\,\\sum {wx = 2700\\,\\,{\\text{and}}\\,\\,\\sum {w\\, = \\,300\\,\\,{\\text{then}}\\,\\,{\\text{the}}\\,\\,{\\text{weighted}}\\,\\,{\\text{mean}}\\,\\,\\_\\_\\_\\_\\_\\_\\_\\_\\_.} \\,\\,\\,} ",
+    "op": [
+        "5",
+        "9",
+        "11",
+        "6"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72772,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "\\({\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_m} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.\\) ",
+    "op": [
+        "cumulative frequency",
+        "frequency of the modal class",
+        "frequency of the class preceding the modal class",
+        "frequency of the class following the modal class"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+},
+{
+    "id": 72789,
+    "cc": "MTH001",
+    "qn": "5",
+    "dt": "05 January 2026",
+    "qt": "{\\text{In}}\\,{\\text{the}}\\,{\\text{given}}\\,{\\text{formula}}\\,{\\text{ }}\\hat X = l + \\frac{{{f_m} - {f_1}}}{{({f_m} - {f_1}) + ({f_m} - {f_2})}} \\times h,{\\text{ }}{f_2} = \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. ",
+    "op": [
+        "cumulative frequency",
+        "frequency of the modal class",
+        "frequency of the class preceding the modal class",
+        "frequency of the class following the modal class"
+    ],
+    "created_at": "2026-07-15T13:35:23.641054+00:00"
+}
+]

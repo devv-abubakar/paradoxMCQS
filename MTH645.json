@@ -1,0 +1,870 @@
+[
+    {
+        "id": 27518,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If $x ∆ y=x ∆ z$ and $x=0$ this implies ___________ .",
+        "op": [
+            "$x=1$",
+            "$x=y$",
+            "$x=z$",
+            "$y=z$"
+        ],
+        "created_at": "2026-06-29T19:14:05.620898+00:00"
+    },
+    {
+        "id": 27524,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In the context of fuzzy relations, the composition of relations is often used. Which of the following represents the composition of two fuzzy relations R and S?",
+        "op": [
+            "R∪S",
+            "R∩S",
+            "R∘S",
+            "R∖S"
+        ],
+        "created_at": "2026-06-29T19:14:19.961949+00:00"
+    },
+    {
+        "id": 27529,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "A fuzzy equivalence relation must be:",
+        "op": [
+            "Reflexive, symmetric, and transitive",
+            "Symmetric, antisymmetric, and transitive",
+            "Reflexive, antisymmetric, and transitive",
+            "None of the above"
+        ],
+        "created_at": "2026-06-29T19:14:31.328912+00:00"
+    },
+    {
+        "id": 27534,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If f(x)= ex-5, then a = _____________.",
+        "op": [
+            "e-5",
+            "e",
+            "e-1",
+            "x"
+        ],
+        "created_at": "2026-06-29T19:14:43.929876+00:00"
+    },
+    {
+        "id": 27541,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is an example of a fuzzy relation?",
+        "op": [
+            "A binary tree",
+            "A matrix representing the degrees of similarity between elements of two sets",
+            "A linear equation",
+            "A crisp set of numbers"
+        ],
+        "created_at": "2026-06-29T19:14:58.922436+00:00"
+    },
+    {
+        "id": 27545,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If f(x)= ex-50, then a = _____________.",
+        "op": [
+            "e-50",
+            "lnx-50",
+            "e-x-50",
+            "x-50"
+        ],
+        "created_at": "2026-06-29T19:15:12.392668+00:00"
+    },
+    {
+        "id": 27562,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If f(x)=e(x-10) , then f -1(x) = ________________.",
+        "op": [
+            "100+lnx",
+            "10000+lnx",
+            "1000+lnx",
+            "10+lnx"
+        ],
+        "created_at": "2026-06-29T19:16:49.35703+00:00"
+    },
+    {
+        "id": 27567,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The max-min composition of two fuzzy relations R and S involves which operations?",
+        "op": [
+            "Addition and subtraction",
+            "Union and intersection",
+            "Multiplication and division",
+            "Maximum and minimum"
+        ],
+        "created_at": "2026-06-29T19:17:22.512956+00:00"
+    },
+    {
+        "id": 28370,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following operations can be performed on fuzzy relations?",
+        "op": [
+            "Intersection",
+            "Union",
+            "All of the above",
+            "Complement"
+        ],
+        "created_at": "2026-06-30T00:43:34.664791+00:00"
+    },
+    {
+        "id": 28372,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "$a∈(0,1)$ is called zero divisor of t-norm $∆$ if $∃, b∈(0,1)$ such that ___________ .",
+        "op": [
+            "$a ∆ b=1$",
+            "$a ∆ b=a$",
+            "$a ∆ b=0$",
+            "$a ∆ b=b$"
+        ],
+        "created_at": "2026-06-30T00:43:51.827897+00:00"
+    },
+    {
+        "id": 28383,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The composition RoS is of R and S with respect to T-norm, multiplication is the fuzzy relation having membership function __________________________.",
+        "op": [
+            "R/S",
+            "max{R. S}",
+            "R.S",
+            "R"
+        ],
+        "created_at": "2026-06-30T00:45:33.504418+00:00"
+    },
+    {
+        "id": 28387,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If xΔa = xΔb and x=0 this implies that _____________.",
+        "op": [
+            "a=1",
+            "a.a=a",
+            "a=b",
+            "b=1"
+        ],
+        "created_at": "2026-06-30T00:45:56.84757+00:00"
+    },
+    {
+        "id": 28461,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In t-norm xΔy =xy, the zero divisors a and b satisfy ____________.",
+        "op": [
+            "aΔb=b",
+            "aΔb=a",
+            "aΔb=0",
+            "aΔb=1"
+        ],
+        "created_at": "2026-06-30T01:43:32.675592+00:00"
+    },
+    {
+        "id": 28519,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If R is a fuzzy relation from set A to set B, and S is a fuzzy relation from set B to set C, then the composition R∘S is a fuzzy relation from:",
+        "op": [
+            "Set B to set C",
+            "Set C to set A",
+            "Set A to set C",
+            "Set A to set B"
+        ],
+        "created_at": "2026-06-30T02:22:22.30207+00:00"
+    },
+    {
+        "id": 55116,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "What is the primary characteristic of Nebla-Implications in fuzzy logic?",
+        "op": [
+            "They are defined based on probabilistic interpretations.",
+            "They are defined based on a continuous t-norm.",
+            "They use only the maximum operator.",
+            "They use only the minimum operator."
+        ],
+        "created_at": "2026-07-06T19:37:37.377259+00:00"
+    },
+    {
+        "id": 55122,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy implication 0 implies 1 is equal to _________________.",
+        "op": [
+            "0.1",
+            "0",
+            "1",
+            "0.5"
+        ],
+        "created_at": "2026-07-06T19:38:50.022442+00:00"
+    },
+    {
+        "id": 55123,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "What is a characteristic of the Hamming distance between two fuzzy sets?",
+        "op": [
+            "It squares the differences in membership values before summing them.",
+            "It only considers the maximum difference between memberships.",
+            "It measures the total number of elements in the fuzzy sets.",
+            "It is the sum of absolute differences in membership values."
+        ],
+        "created_at": "2026-07-06T19:39:21.198017+00:00"
+    },
+    {
+        "id": 55124,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "What are the three components of an Intuitionistic Fuzzy Set (IFS)?",
+        "op": [
+            "Membership degree, Support degree, Hesitancy degree",
+            "Membership degree, Alpha-cut, Beta-cut",
+            "Membership degree, Gamma-cut, Beta-cut",
+            "Membership degree, non-membership degree, Hesitancy degree"
+        ],
+        "created_at": "2026-07-06T19:40:02.441647+00:00"
+    },
+    {
+        "id": 55126,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "For two Intuitionistic Fuzzy Sets A and B, their intersection is defined by which of the following operations on their membership and non-membership functions?",
+        "op": [
+            "$$\\min \\left( {\\left( {{\\mu _A}(x),{\\mu _B}(x)} \\right)and\\,\\max \\left( {{\\nu _A}(x),{\\nu _B}(x)} \\right)\\,} \\right)$$",
+            "$${\\mu _A}(x){\\mu _B}(x)\\,and\\,{\\nu _A}(x){\\nu _B}(x)$$",
+            "$${\\mu _A}(x) + {\\mu _B}(x)\\,and\\,{\\nu _A}(x) + {\\nu _B}(x)$$",
+            "$$\\max \\left( {\\left( {{\\mu _A}(x),{\\mu _B}(x)} \\right)and\\,\\min \\left( {{\\nu _A}(x),{\\nu _B}(x)} \\right)\\,} \\right)$$"
+        ],
+        "created_at": "2026-07-06T19:40:38.153835+00:00"
+    },
+    {
+        "id": 55127,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "The Intuitionistic Fuzzy Set was introduced by:",
+        "op": [
+            "Krassimir Atanassov",
+            "Lotfi Zadeh",
+            "Jan Lukasiewicz",
+            "Zadeh and Atanassov together"
+        ],
+        "created_at": "2026-07-06T19:41:10.202436+00:00"
+    },
+    {
+        "id": 55131,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If the membership degree of IFS is 0.9 then the non-membership degree of it is-------",
+        "op": [
+            "0",
+            "0.9",
+            "0.1",
+            "0.5"
+        ],
+        "created_at": "2026-07-06T19:41:47.608238+00:00"
+    },
+    {
+        "id": 55135,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which property is unique to Intuitionistic Fuzzy Sets compared to Fuzzy Sets?",
+        "op": [
+            "No degrees are considered",
+            "Only non-membership degree is considered",
+            "Only membership degree is considered",
+            "Both membership and non-membership degrees, as well as hesitancy degree, are considered"
+        ],
+        "created_at": "2026-07-06T19:43:34.143934+00:00"
+    },
+    {
+        "id": 55140,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "What does the notation $A = \\left\\{ {\\left\\langle {x,{\\mu _A}(x),{\\upsilon _A}(x)} \\right\\rangle :x \\in X} \\right\\}$ represent in Intuitionistic Fuzzy Sets?",
+        "op": [
+            "The elements of a fuzzy set",
+            "The elements of an intuitionistic fuzzy set with their membership and non-membership degrees",
+            "The elements of a classical set",
+            "The elements of a probabilistic set"
+        ],
+        "created_at": "2026-07-06T19:44:07.886636+00:00"
+    },
+    {
+        "id": 55144,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In the context of fuzzy sets, what does the Euclidean distance measure?",
+        "op": [
+            "The total area under the fuzzy sets.",
+            "The sum of the differences between corresponding membership degrees.",
+            "The square root of the sum of squared differences between corresponding membership degrees.",
+            "The maximum difference between corresponding membership degrees."
+        ],
+        "created_at": "2026-07-06T19:44:43.320024+00:00"
+    },
+    {
+        "id": 55520,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If A(x,0.1) and B(x,1.0) are two fuzzy sets, then max(A, B)=------",
+        "op": [
+            "0.5",
+            "0.1",
+            "1",
+            "0"
+        ],
+        "created_at": "2026-07-07T01:25:46.358336+00:00"
+    },
+    {
+        "id": 55521,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If A(x, 0.41) and B(x, 0.49) are two fuzzy sets, then max(A, B)=------",
+        "op": [
+            "0",
+            "0.49",
+            "0.41",
+            "1"
+        ],
+        "created_at": "2026-07-07T01:26:02.64169+00:00"
+    },
+    {
+        "id": 55522,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "When calculating the Hamming distance between two Intuitionistic Fuzzy Sets, what operation is performed?",
+        "op": [
+            "Calculating the square root of the sum of squared differences of membership degrees and non-membership degrees",
+            "None of the above",
+            "Taking the maximum of the absolute differences of membership degrees and non-membership degrees for all elements",
+            "Summing the absolute differences of membership degrees and non-membership degrees for all elements"
+        ],
+        "created_at": "2026-07-07T01:26:48.034407+00:00"
+    },
+    {
+        "id": 55684,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following statements about the distance between fuzzy sets is true?",
+        "op": [
+            "It is always a positive value or zero.",
+            "It can only be calculated if the fuzzy sets have the same number of elements.",
+            "It always results in a crisp number.",
+            "It is only meaningful for triangular fuzzy sets."
+        ],
+        "created_at": "2026-07-07T03:28:45.896515+00:00"
+    },
+    {
+        "id": 55685,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following properties is NOT typically associated with Nebla-Implications?",
+        "op": [
+            "Continuity",
+            "Symmetry",
+            "Associativity",
+            "Monotonicity"
+        ],
+        "created_at": "2026-07-07T03:29:33.304278+00:00"
+    },
+    {
+        "id": 55687,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If the membership and non-membership degrees of two Intuitionistic Fuzzy Sets A and B are the same, what is the distance between these two sets?",
+        "op": [
+            "1",
+            "$$\\infty$$",
+            "0",
+            "0.5"
+        ],
+        "created_at": "2026-07-07T03:29:55.32849+00:00"
+    },
+    {
+        "id": 55689,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If ${\\mu _A}(x) = 0.6$ and ${\\nu _A}(x) = 0.3$, what is the hesitancy degree ${h_A}(x)$?",
+        "op": [
+            "0.1",
+            "0.3",
+            "0.7",
+            "0.9"
+        ],
+        "created_at": "2026-07-07T03:30:43.819749+00:00"
+    },
+    {
+        "id": 55690,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a common measure used to calculate the distance between two Intuitionistic Fuzzy Sets (IFS)?",
+        "op": [
+            "Hamming distance",
+            "All of the above",
+            "Hausdorff distance",
+            "Euclidean distance"
+        ],
+        "created_at": "2026-07-07T03:31:43.186199+00:00"
+    },
+    {
+        "id": 55693,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "The degree of hesitation in an Intuitionistic Fuzzy Set is defined as:",
+        "op": [
+            "$${h_A}(x) = {\\mu _A}(x) + {\\nu _A}(x)$$",
+            "$${h_A}(x) = 1 - {\\mu _A}(x)$$",
+            "$${h_A}(x) = 1 - {\\nu _A}(x)$$",
+            "$${h_A}(x) = 1 - {\\mu _A}(x) - {\\nu _A}(x)$$"
+        ],
+        "created_at": "2026-07-07T03:34:18.941167+00:00"
+    },
+    {
+        "id": 55713,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If the membership degree of IFS is 0.2 then the non-membership degree of it is-------",
+        "op": [
+            "0",
+            "0.4",
+            "0.8",
+            "0.2"
+        ],
+        "created_at": "2026-07-07T03:42:14.123248+00:00"
+    },
+    {
+        "id": 55716,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "For two Intuitionistic Fuzzy Sets A and B, their union is defined by which of the following operations on their membership and non-membership functions?",
+        "op": [
+            "$${\\mu _A}(x){\\mu _B}(x)\\,and\\,{\\nu _A}(x){\\nu _B}(x)$$",
+            "$${\\mu _A}(x) + {\\mu _B}(x)\\,and\\,{\\nu _A}(x) + {\\nu _B}(x)$$",
+            "$$\\min \\left( {\\left( {{\\mu _A}(x),{\\mu _B}(x)} \\right)and\\,\\max \\left( {{\\nu _A}(x),{\\nu _B}(x)} \\right)\\,} \\right)$$",
+            "$$\\max \\left( {\\left( {{\\mu _A}(x),{\\mu _B}(x)} \\right)and\\,\\min \\left( {{\\nu _A}(x),{\\nu _B}(x)} \\right)\\,} \\right)$$"
+        ],
+        "created_at": "2026-07-07T03:43:48.376148+00:00"
+    },
+    {
+        "id": 55719,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If A(x,0.3) and B(x,0.35) are two fuzzy sets, then max(A, B)=------",
+        "op": [
+            "0",
+            "0.5",
+            "0.3",
+            "0.35"
+        ],
+        "created_at": "2026-07-07T03:46:03.595205+00:00"
+    },
+    {
+        "id": 55721,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is true about Nebla-Implications?",
+        "op": [
+            "They are a special case of classical implications.",
+            "They are only applicable in binary logic.",
+            "They do not follow the law of the excluded middle.",
+            "They are defined using a residual operator."
+        ],
+        "created_at": "2026-07-07T03:46:21.496586+00:00"
+    },
+    {
+        "id": 55723,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy implication 1 implies 1 is equal to _________________.",
+        "op": [
+            "0.5",
+            "1",
+            "0.1",
+            "0"
+        ],
+        "created_at": "2026-07-07T03:46:38.086084+00:00"
+    },
+    {
+        "id": 55746,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Pick up the intuitionistic fuzzy set.",
+        "op": [
+            "{(x,(0.6,0.3))}",
+            "{(x,(0.5,0.6))}",
+            "{(x,(0.3,0.6,0.3))}",
+            "{(x,(0.7))}"
+        ],
+        "created_at": "2026-07-07T03:56:59.603457+00:00"
+    },
+    {
+        "id": 55747,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy logic, a Nebla-Implication is generally denoted by which symbol?",
+        "op": [
+            "¬",
+            "∧",
+            "⇒",
+            "∨"
+        ],
+        "created_at": "2026-07-07T03:57:24.881992+00:00"
+    },
+    {
+        "id": 55748,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In an Intuitionistic Fuzzy Set, the sum of the membership degree and the non-membership degree must be:",
+        "op": [
+            "Equal to 0.5",
+            "Equal to 1",
+            "Less than or equal to 1",
+            "Greater than or equal to 1"
+        ],
+        "created_at": "2026-07-07T03:57:37.014705+00:00"
+    },
+    {
+        "id": 55749,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "For two Intuitionistic Fuzzy Sets $A = ({\\mu _A}(x),{\\nu _A}(x))\\,and\\,B = ({\\mu _B}(x),{\\nu _B}(x))$, which formula represents the Euclidean distance between A and B at point x?",
+        "op": [
+            "$$\\max \\left( {\\left| {{\\mu _A}(x) - {\\mu _B}(x)} \\right|,\\left| {{\\nu _A}(x) - {\\nu _B}(x)} \\right|\\,} \\right)$$",
+            "$$\\left| {{\\mu _A}(x) - {\\mu _B}(x)} \\right| + \\left| {{\\nu _A}(x) - {\\nu _B}(x)} \\right|\\,$$",
+            "$$\\min \\left( {\\left| {{\\mu _A}(x) - {\\mu _B}(x)} \\right|,\\left| {{\\nu _A}(x) - {\\nu _B}(x)} \\right|\\,} \\right)$$",
+            "$$\\sqrt {{{({\\mu _A}(x) - {\\mu _B}(x))}^2} + {{({\\nu _A}(x) - {\\nu _B}(x))}^2}\\,\\,\\,}$$"
+        ],
+        "created_at": "2026-07-07T03:57:57.877818+00:00"
+    },
+    {
+        "id": 55750,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Nebla-Implications are often used in fuzzy logic because they:",
+        "op": [
+            "Are simpler than classical implications.",
+            "Can only be applied to Boolean variables.",
+            "Provide a way to handle partial truth values.",
+            "Do not require t-norms."
+        ],
+        "created_at": "2026-07-07T03:58:13.819259+00:00"
+    },
+    {
+        "id": 55752,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Let X={x1 , x2 , …, xn } be a universal set and A, B are two fuzzy sets on X, the distance d(A, B) satisfy the condition:",
+        "op": [
+            "d( A, B)≤0",
+            "1≤d( A, B)",
+            "0≤d( A, B)≤1",
+            "-1≤d( A, B)≤0"
+        ],
+        "created_at": "2026-07-07T04:03:19.394759+00:00"
+    },
+    {
+        "id": 55756,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy implication, for any fuzzy number x, x.(η(x)) is equal to __________.",
+        "op": [
+            "1-x",
+            "x",
+            "x – x2",
+            "x2"
+        ],
+        "created_at": "2026-07-07T04:04:54.13393+00:00"
+    },
+    {
+        "id": 55763,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy implication 1 implies 0 is equal to _________________.",
+        "op": [
+            "0",
+            "1",
+            "0.1",
+            "0.5"
+        ],
+        "created_at": "2026-07-07T04:06:07.046137+00:00"
+    },
+    {
+        "id": 55890,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In fuzzy implication 0 implies 0 is equal to _________________.",
+        "op": [
+            "0",
+            "1",
+            "0.1",
+            "0.5"
+        ],
+        "created_at": "2026-07-07T04:54:02.396105+00:00"
+    },
+    {
+        "id": 55895,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "In the context of Intuitionistic Fuzzy Sets, what does the distance between two sets measure?",
+        "op": [
+            "The degree of non-membership",
+            "The degree of membership",
+            "The difference in hesitancy degrees",
+            "The overall difference in their membership and non-membership degrees"
+        ],
+        "created_at": "2026-07-07T04:56:47.106024+00:00"
+    },
+    {
+        "id": 55941,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "For an Intuitionistic Fuzzy Set, if ${\\mu _A}(x) = 0.8$ and ${\\nu _A}(x) = 0.15$, what can we say about the hesitancy degree?",
+        "op": [
+            "It is equal to 0.65",
+            "It is equal to 0.85",
+            "It is equal to 0.05",
+            "It cannot be determined from the given information"
+        ],
+        "created_at": "2026-07-07T05:17:34.011844+00:00"
+    },
+    {
+        "id": 55944,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If two fuzzy sets are identical, what is the distance between them?",
+        "op": [
+            "Zero",
+            "One",
+            "It cannot be determined",
+            "Infinity"
+        ],
+        "created_at": "2026-07-07T05:18:09.098564+00:00"
+    },
+    {
+        "id": 55967,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "For an Intuitionistic Fuzzy Set, if and , what can we say about the hesitancy degree?",
+        "op": [
+            "It cannot be determined from the given information",
+            "It is equal to 0.85",
+            "It is equal to 0.05",
+            "It is equal to 0.65"
+        ],
+        "created_at": "2026-07-07T05:35:32.17159+00:00"
+    },
+    {
+        "id": 55973,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "If and , what is the hesitancy degree ?",
+        "op": [
+            "0.7",
+            "0.9",
+            "0.1",
+            "0.3"
+        ],
+        "created_at": "2026-07-07T05:41:20.95087+00:00"
+    },
+    {
+        "id": 55977,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "What is the primary purpose of calculating the distance between fuzzy sets?",
+        "op": [
+            "To determine their intersection.",
+            "To measure the degree of similarity or dissimilarity between them.",
+            "To find their union.",
+            "To defuzzify the fuzzy sets."
+        ],
+        "created_at": "2026-07-07T05:42:53.208378+00:00"
+    },
+    {
+        "id": 56171,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is a common method for calculating the distance between two fuzzy sets?",
+        "op": [
+            "Euclidean distance",
+            "Minkowski distance",
+            "Hamming distance",
+            "All of the above"
+        ],
+        "created_at": "2026-07-07T06:52:46.240509+00:00"
+    },
+    {
+        "id": 56184,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Which of the following conditions must hold for a set to be an Intuitionistic Fuzzy Set?",
+        "op": [
+            "$$0 \\le {\\mu _A}(x) + {\\nu _A}(x) \\le 1$$",
+            "$${\\mu _A}(x) + {\\nu _A}(x) \\ge 1$$",
+            "$${\\mu _A}(x) + {\\nu _A}(x) = 1$$",
+            "$${\\mu _A}(x) - {\\nu _A}(x) = 1$$"
+        ],
+        "created_at": "2026-07-07T07:03:39.849745+00:00"
+    },
+    {
+        "id": 56271,
+        "cc": "MTH645",
+        "qn": "4",
+        "dt": "07 July 2026",
+        "qt": "Nebla-Implications are derived from which of the following types of operators?",
+        "op": [
+            "Conjunction operators",
+            "Residual operators",
+            "Disjunction operators",
+            "Negation operators"
+        ],
+        "created_at": "2026-07-07T08:02:33.164328+00:00"
+    },
+    {
+        "id": 72115,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\[A\\,triplet\\,(S,T,N)\\,is\\,called\\,De\\,morgan\\,triplet\\,if\\,it\\,satisfies\\,S(x,y) = \\_\\_\\_\\_\\_\\_\\_.\\] ",
+        "op": [
+            "\\[T(N(x),N(y))\\]",
+            "\\[N(T(N(x),N(y)))\\]",
+            "\\[N(N(N(x),N(y)))\\]",
+            "\\[N(T(T(x),T(y)))\\]"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72163,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If x ∆ y=x ∆ z and x=0 this implies ___________ . ",
+        "op": [
+            "x=1",
+            "x=z",
+            "x=y",
+            "y=z"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72164,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "a∈(0,1) is called zero divisor of t-norm ∆ if ∃, b∈(0,1) such that ___________ . ",
+        "op": [
+            "a ∆ b=b",
+            "a ∆ b=a",
+            "a ∆ b=0",
+            "a ∆ b=1"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72165,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "A\\,triplet\\,(S,T,N)\\,is\\,called\\,De\\,morgan\\,triplet\\,if\\,it\\,satisfies\\,S(x,y) = \\_\\_\\_\\_\\_\\_\\_. ",
+        "op": [
+            "T(N(x),N(y))",
+            "N(T(T(x),T(y)))",
+            "N(N(N(x),N(y)))",
+            "N(T(N(x),N(y)))"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72174,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "If \\(x ∆ y=x ∆ z \\) and \\(x=0\\) this implies ___________ . ",
+        "op": [
+            "\\(x=1\\)",
+            "\\(y=z\\)",
+            "\\(x=z\\)",
+            "\\(x=y\\)"
+        ],
+        "created_at": "2026-07-15T13:35:14.494554+00:00"
+    },
+    {
+        "id": 72370,
+        "cc": "MTH645",
+        "qn": "3",
+        "dt": "01 January 2026",
+        "qt": "\\(a∈(0,1)\\) is called zero divisor of t-norm \\(∆\\) if \\(∃, b∈(0,1)\\) such that ___________ . ",
+        "op": [
+            "\\(a ∆ b=b\\)",
+            "\\(a ∆ b=1\\)",
+            "\\(a ∆ b=0\\)",
+            "\\(a ∆ b=a\\)"
+        ],
+        "created_at": "2026-07-15T13:35:15.541461+00:00"
+    }
+]

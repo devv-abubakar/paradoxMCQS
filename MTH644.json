@@ -1,0 +1,1444 @@
+[
+    {
+        "id": 26065,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "Intervals in R are always_______.",
+        "op": [
+            "closed",
+            "non-measurable",
+            "open",
+            "measurable"
+        ],
+        "created_at": "2026-06-29T04:11:56.639296+00:00"
+    },
+    {
+        "id": 26066,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "For given $∅≠E⊆R$ and $ε>0$, there exists a closed set $F$________.",
+        "op": [
+            "$F-E≠ empty~ set$",
+            "F=E",
+            "$F⊇E$",
+            "$F⊆E$"
+        ],
+        "created_at": "2026-06-29T04:12:05.75909+00:00"
+    },
+    {
+        "id": 26067,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{The sequence of intervals }}\\left( { - \\infty ,b - \\frac{1}{n}} \\right]{\\text{ (as }}n \\to \\infty ){\\text{ converges to which of the following sets?}}$$",
+        "op": [
+            "$$\\left( { - \\infty ,b - 1} \\right)$$",
+            "$$\\left( { - \\infty ,b - 1} \\right]$$",
+            "$$\\left( { - \\infty ,b} \\right]$$",
+            "$$\\left( { - \\infty ,b} \\right)$$"
+        ],
+        "created_at": "2026-06-29T04:12:20.473413+00:00"
+    },
+    {
+        "id": 26068,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "If the interval $\\left( -\\infty ,a\\right)$ is measurable in $% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ and $A\\subseteq %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ is a test set, then $m^{\\ast }\\left\\{ A\\cap \\left( a,\\infty \\right) \\right\\} +m^{\\ast }\\left\\{ A\\cap \\left( -\\infty ,a\\right) \\right\\}$ ____________.",
+        "op": [
+            "$\\leq m^{\\ast }\\left( -\\infty ,a\\right)$",
+            "$=m^{\\ast }\\left( -\\infty ,a\\right)$",
+            "$=m^{\\ast }\\left( a,\\infty \\right)$",
+            "$=m^{\\ast }\\left( A\\right)$"
+        ],
+        "created_at": "2026-06-29T04:12:45.683556+00:00"
+    },
+    {
+        "id": 26069,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "An open set U in R is measurable, because it can be expressed as________.",
+        "op": [
+            "countable union of open sets",
+            "arbitrary union of open sets",
+            "arbitrary intersection of open sets",
+            "countable intersection of open sets"
+        ],
+        "created_at": "2026-06-29T04:13:28.919764+00:00"
+    },
+    {
+        "id": 26070,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "$${\\text{Which of the following statements is true if A}} \\subset \\bigcup\\limits_{n = 1}^\\infty {{I_n}} {\\text{?}}$$",
+        "op": [
+            "$$\\sum\\limits_{n = 1}^\\infty {l({I_n})} = {m^*}(A) + \\varepsilon$$",
+            "$$\\sum\\limits_{n = 1}^\\infty {l({I_n})} > {m^*}(A) + \\varepsilon$$",
+            "$$\\sum\\limits_{n = 1}^\\infty {l({I_n})} < {m^*}(A) + \\varepsilon$$",
+            "$$\\sum\\limits_{n = 1}^\\infty {l({I_n})} = {m^*}(A)$$"
+        ],
+        "created_at": "2026-06-29T04:13:47.382838+00:00"
+    },
+    {
+        "id": 26071,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "For all $E⊆R$, there is a $G_{δ}$ set $G⊇E$, such that_______.",
+        "op": [
+            "$m*(G-E)>0$",
+            "$m*(G-E)$ is not defined",
+            "$m*(G-E)<0$",
+            "$m*(G-E)=0$"
+        ],
+        "created_at": "2026-06-29T04:14:13.302111+00:00"
+    },
+    {
+        "id": 26073,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "For all $E⊆R$, there is a $F_{σ}$ set $F⊆E$, such that_______.",
+        "op": [
+            "$m*(E-F)$ is not defined",
+            "$m*(E-F)=0$",
+            "$m*(E-F)<0$",
+            "$m*(E-F)>0$"
+        ],
+        "created_at": "2026-06-29T04:14:34.717934+00:00"
+    },
+    {
+        "id": 26075,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "For given $∅≠E⊆R$ and $ε>0$, there exists an open set $O$________.",
+        "op": [
+            "$O⊇E$",
+            "$E⊆O$",
+            "$E-O≠∅$",
+            "$E=O$"
+        ],
+        "created_at": "2026-06-29T04:15:01.48944+00:00"
+    },
+    {
+        "id": 26096,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "29 June 2026",
+        "qt": "If the non-empty sets say $A,B$ are measurable then $A-B$__________.",
+        "op": [
+            "may or may not measurable",
+            "implies $m^{∗}(A-B)<ε$",
+            "is also measurable",
+            "is not measurable"
+        ],
+        "created_at": "2026-06-29T04:21:22.815153+00:00"
+    },
+    {
+        "id": 39004,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "If a set in Euclidean space is translated by a fixed amount in any direction, what happens to its Lebesgue measure?",
+        "op": [
+            "It decreases.",
+            "It remains the same.",
+            "It becomes infinite.",
+            "It increases."
+        ],
+        "created_at": "2026-07-03T00:00:01.526003+00:00"
+    },
+    {
+        "id": 39005,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "A set $E$ is a Borel set if it can be expressed as_____________.",
+        "op": [
+            "neither countable union nor intersection of open or closed sets",
+            "countable intersection of open (closed) sets",
+            "either countable union or intersection of open or closed sets",
+            "countable union of open (closed) sets"
+        ],
+        "created_at": "2026-07-03T00:00:08.22617+00:00"
+    },
+    {
+        "id": 39006,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$If~\\{E_{n}\\}~be~an~increasing~sequence~of~measurable~sets~then$",
+        "op": [
+            "$E_{1}\\neq E_{2}\\neq E_{1}...$",
+            "$...E_{3}\\subseteq E_{2} \\subseteq E_{1} \\subseteq$",
+            "$E_{1}\\subseteq E_{2} \\subseteq E_{3} \\subseteq ...$",
+            "$E_{1}-E_{1}\\subseteq E_{1}-E_{2}\\subseteq E_{1}-E_{3}\\subseteq... E_{1}-E_{n}\\subseteq$...."
+        ],
+        "created_at": "2026-07-03T00:00:21.725203+00:00"
+    },
+    {
+        "id": 39007,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Which of the following sets is a Borel set?}}$$",
+        "op": [
+            "$${F_\\sigma }{\\text{ set}}$$",
+            "$${\\text{The set of rational numbers}}$$",
+            "$${\\text{All of these}}$$",
+            "$${G_\\delta }{\\text{ set}}$$"
+        ],
+        "created_at": "2026-07-03T00:00:29.617515+00:00"
+    },
+    {
+        "id": 39008,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The Lebesgue outer measure of a Cantor set constructed from $[0,1]$, is________________.",
+        "op": [
+            "$\\infty$",
+            "$1$",
+            "$\\frac{1}{3}$",
+            "$0$"
+        ],
+        "created_at": "2026-07-03T00:00:39.448684+00:00"
+    },
+    {
+        "id": 39009,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Let $\\varnothing \\neq A,B\\in \\mathbf{M:}$the measurable space, such that $B\\subseteq A,$ then ________.",
+        "op": [
+            "$m(B)\\geq m(A)$",
+            "$m(B)=m(A)$",
+            "$m(B)\\leq m(A)$",
+            "$m(B-A)=m(A)$"
+        ],
+        "created_at": "2026-07-03T00:00:46.975483+00:00"
+    },
+    {
+        "id": 39010,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Those countable sets which are Borel have _________ measure.",
+        "op": [
+            "positive",
+            "infinite",
+            "no",
+            "zero"
+        ],
+        "created_at": "2026-07-03T00:00:53.114237+00:00"
+    },
+    {
+        "id": 39011,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "The Cantor set constructed from $[0,1]$ is ________________.",
+        "op": [
+            "infinitely countable",
+            "finitely countable",
+            "finite",
+            "uncountable"
+        ],
+        "created_at": "2026-07-03T00:00:59.390922+00:00"
+    },
+    {
+        "id": 39012,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "What property does the Cantor set possess despite containing an uncountable infinity of points?",
+        "op": [
+            "Finite length",
+            "Uncountable length",
+            "Infinite length",
+            "Zero length"
+        ],
+        "created_at": "2026-07-03T00:01:07.194684+00:00"
+    },
+    {
+        "id": 39013,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "A(an)__________of Lebesgue measure $m$ to the class of Borel sets $% \\mathit{B}$ is said to be Borel measure space.",
+        "op": [
+            "restriction",
+            "kernel",
+            "extension",
+            "bijection"
+        ],
+        "created_at": "2026-07-03T00:01:13.786106+00:00"
+    },
+    {
+        "id": 39033,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "If $\\left\\{ E_{n}\\right\\}$ be a sequence of measurable sets such that $% E_{1}=E_{2}=E_{3}\\cdots$ then $\\left\\{ E_{n}\\right\\}$ is an example of____________sequence.",
+        "op": [
+            "increasing",
+            "neither increasing nor decreasing",
+            "decreasing",
+            "both increasing and decreasing"
+        ],
+        "created_at": "2026-07-03T00:18:38.022543+00:00"
+    },
+    {
+        "id": 39034,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "What distinguishes the Cantor set from intervals of positive length?",
+        "op": [
+            "Its self-similarity",
+            "Its infinite cardinality",
+            "Its measure being zero",
+            "Its uncountable nature"
+        ],
+        "created_at": "2026-07-03T00:18:55.649115+00:00"
+    },
+    {
+        "id": 39035,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "In the first iteration for constructing Cantor Set from $[0,1],$ we drop a sub-interval of length__________.",
+        "op": [
+            "$\\frac{1}{2}$",
+            "$\\frac{1}{3}$",
+            "$\\frac{1}{4}$",
+            "$1$"
+        ],
+        "created_at": "2026-07-03T00:19:34.22647+00:00"
+    },
+    {
+        "id": 39037,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Which of the following is a property of Borel sets?",
+        "op": [
+            "Borel sets are always finite.",
+            "Borel sets cannot contain uncountably many elements.",
+            "Every Borel set is measurable.",
+            "The complement of a Borel set is always an open set."
+        ],
+        "created_at": "2026-07-03T00:20:24.315023+00:00"
+    },
+    {
+        "id": 39038,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "Let $\\varnothing \\neq A\\in \\mathbf{M:}$the measurable space, such that $t\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ,$ then________.",
+        "op": [
+            "$m(A\\div t)=m(A-t)$",
+            "$m(A\\times t)=m(A\\div t)$",
+            "$m(A-t)=m(A)$",
+            "$m(A\\times t)=m(A+t)$"
+        ],
+        "created_at": "2026-07-03T00:20:43.688911+00:00"
+    },
+    {
+        "id": 39039,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "In the first iteration for constructing Cantor Set from $[0,1],$ we divide it in_____________sub-intervals.",
+        "op": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-07-03T00:21:07.048756+00:00"
+    },
+    {
+        "id": 39170,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "In the 2nd Iteration for constructing Cantor Set from $[0,1],$we drop a sub-intervals of length ________________.",
+        "op": [
+            "$\\frac{1}{3^{3}}$",
+            "$\\frac{1}{3^{2}}$",
+            "$\\frac{1}{3^{1}}$",
+            "$\\frac{1}{3^{0}}$"
+        ],
+        "created_at": "2026-07-03T04:09:03.083969+00:00"
+    },
+    {
+        "id": 39172,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "According to George Cantor;",
+        "op": [
+            "Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion )\\geq$Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{n})$",
+            "$% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion =% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{n}$",
+            "Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion )=$Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{n})$",
+            "Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion )\\leq$Cardinality$(% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion ^{n})$"
+        ],
+        "created_at": "2026-07-03T04:10:59.544063+00:00"
+    },
+    {
+        "id": 39174,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Which operation generates }}{G_\\delta }{\\text{ Borel sets from open sets?}}$$",
+        "op": [
+            "Countable complementation",
+            "Countable union",
+            "Countable negation",
+            "Countable intersection"
+        ],
+        "created_at": "2026-07-03T04:11:17.384658+00:00"
+    },
+    {
+        "id": 39179,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{A singleton set }}\\{ x\\} {\\text{ can be written as:}}$$",
+        "op": [
+            "$$\\bigcap\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)}$$",
+            "$$\\bigcup\\limits_{n = 1}^\\infty {\\left( {\\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)}$$",
+            "$$\\bigcap\\limits_{n = 1}^\\infty {\\left( { - \\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)}$$",
+            "$$\\bigcup\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)}$$"
+        ],
+        "created_at": "2026-07-03T04:12:25.554956+00:00"
+    },
+    {
+        "id": 39183,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "For a non-empty set $E$ in a measurable set $M$________.",
+        "op": [
+            "$m(E)=m^{\\ast }(E)$",
+            "$m(E)>m^{\\ast }(E)$",
+            "$m(E)<m^{\\ast }(E)$",
+            "$m(E)=2m^{\\ast }(E)$"
+        ],
+        "created_at": "2026-07-03T04:14:19.605427+00:00"
+    },
+    {
+        "id": 39213,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "$${\\text{Which operation generates }}{F_\\sigma }{\\text{ Borel sets from closed sets?}}$$",
+        "op": [
+            "Countable negation",
+            "Countable union",
+            "Countable intersection",
+            "Countable complementation"
+        ],
+        "created_at": "2026-07-03T04:35:13.728025+00:00"
+    },
+    {
+        "id": 39241,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "03 July 2026",
+        "qt": "If $\\left\\{ E_{n}\\right\\}$ be a decreasing sequence of measurable sets then____________.",
+        "op": [
+            "$E_{1}\\supseteq E_{2}\\supseteq E_{3}\\supseteq \\cdots$",
+            "$E_{1}-E_{1}\\subseteq E_{1}-E_{2}\\subseteq E_{1}-E_{3}\\subseteq \\cdots E_{1}-E_{n}\\subseteq \\cdots$",
+            "$E_{1}\\subseteq E_{2}\\subseteq E_{3}\\subseteq \\cdots$",
+            "$E_{1}\\neq E_{2}\\neq E_{3}$"
+        ],
+        "created_at": "2026-07-03T04:54:32.512691+00:00"
+    },
+    {
+        "id": 57699,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$. And if $\\beta >\\alpha$, then__________.",
+        "op": [
+            "$f$ is $1-1$",
+            "$f~$is not measurable",
+            "$f$ is bijective",
+            "$f$ is measurable"
+        ],
+        "created_at": "2026-07-08T01:30:41.977553+00:00"
+    },
+    {
+        "id": 57701,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let $M$ be a measurable space (a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ on $\\varnothing \\neq E\\in M$ given as $\\left\\{ x\\in E:f(x)>a\\right\\}$ is measurable if $\\forall a,$----------under $f$ is measurable set.",
+        "op": [
+            "inverse image of $\\left( a,\\infty \\right)$",
+            "image of $\\left( x,\\infty \\right)$",
+            "inverse image of $\\left( a,\\infty \\right)$",
+            "image of $\\left( a,\\infty \\right)$"
+        ],
+        "created_at": "2026-07-08T01:30:59.301845+00:00"
+    },
+    {
+        "id": 57702,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{Which of the following best describes a measurable function?}}$$",
+        "op": [
+            "$${\\text{A function that maps measurable sets to measurable sets}}{\\text{.}}$$",
+            "$${\\text{A function that can be represented as the union of countably many open sets}}{\\text{.}}$$",
+            "$${\\text{A function that maps Borel sets to Lebesgue measurable sets}}{\\text{.}}$$",
+            "$${\\text{A function that preserves the order of elements in its domain}}{\\text{.}}$$"
+        ],
+        "created_at": "2026-07-08T01:31:28.978591+00:00"
+    },
+    {
+        "id": 57704,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{Which of the following sets is countable and also a Borel set with measure zero?}}$$",
+        "op": [
+            "$${\\text{The interval [0,1]}}$$",
+            "$${\\text{The set of irrational numbers}}$$",
+            "$${\\text{The set of real numbers}}$$",
+            "$${\\text{The set of natural numbers}}$$"
+        ],
+        "created_at": "2026-07-08T01:32:15.297483+00:00"
+    },
+    {
+        "id": 57707,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What is a characteristic function in mathematics?",
+        "op": [
+            "A function that describes the characteristics of a set",
+            "A function that calculates the average of a set",
+            "A function that assigns values to elements of a set",
+            "A function that indicates membership of an element in a set"
+        ],
+        "created_at": "2026-07-08T01:32:40.877595+00:00"
+    },
+    {
+        "id": 57708,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What does the characteristic function XA∩B​(x) represent?",
+        "op": [
+            "The maximum value of the characteristic functions of sets A and B.",
+            "The minimum value of the characteristic functions of sets A and B.",
+            "The difference of the characteristic functions of sets A and B.",
+            "The sum of the characteristic functions of sets A and B."
+        ],
+        "created_at": "2026-07-08T01:32:58.710298+00:00"
+    },
+    {
+        "id": 57709,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 2.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}}$$",
+        "op": [
+            "$$\\left( { - \\infty ,7} \\right)$$",
+            "$$\\left( {7,\\infty } \\right)$$",
+            "$$\\mathbb{R}$$",
+            "$$\\emptyset$$"
+        ],
+        "created_at": "2026-07-08T01:33:20.976593+00:00"
+    },
+    {
+        "id": 57711,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What value does the characteristic function relative to a set non-emty set A take if an element belongs to the set A?",
+        "op": [
+            "Depends on the element.",
+            "1",
+            "0",
+            "-1"
+        ],
+        "created_at": "2026-07-08T01:33:49.937999+00:00"
+    },
+    {
+        "id": 57713,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let $M$ be a measurable space(a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ is Lebesgue measurable function on $\\varnothing \\neq E\\in M,$ if_____________.",
+        "op": [
+            "data:image/png;base64,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.",
+            "$\\left\\{ x\\in E:f(x)>a\\right\\}$",
+            "$\\left\\{ a\\in E:f(x)>a\\right\\}$",
+            "$\\left\\{ x\\in E:f(a)>x\\right\\}$"
+        ],
+        "created_at": "2026-07-08T01:34:09.572817+00:00"
+    },
+    {
+        "id": 57715,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How does monotonicity in characteristic functions help in comparing sets?",
+        "op": [
+            "It facilitates understanding of the relationship between sets.",
+            "It provides insights into the functions' behavior.",
+            "It helps in finding the derivative of the functions.",
+            "It aids in determining continuity of the functions."
+        ],
+        "created_at": "2026-07-08T01:35:13.204113+00:00"
+    },
+    {
+        "id": 57798,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "$${\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 9.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}}$$",
+        "op": [
+            "$$\\left( { - \\infty ,7} \\right)$$",
+            "$$\\emptyset$$",
+            "$$\\mathbb{R}$$",
+            "$$\\left( {7,\\infty } \\right)$$"
+        ],
+        "created_at": "2026-07-08T03:05:44.791491+00:00"
+    },
+    {
+        "id": 57799,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following statements accurately describes countable sets in relation to Borel sets?",
+        "op": [
+            "Countable sets cannot be Borel sets.",
+            "Countable sets are Borel sets but may or may not have measure zero.",
+            "Countable sets are always Borel sets with measure zero.",
+            "Countable sets are not Borel sets with measure zero."
+        ],
+        "created_at": "2026-07-08T03:06:40.076449+00:00"
+    },
+    {
+        "id": 57800,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let $M$ be a measurable space (a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$ on $\\varnothing \\neq E\\in M$ is measurable if the set $\\left\\{ x\\in E:f(x)>a\\right\\}$ is measurable for all __________.",
+        "op": [
+            "$x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$",
+            "$a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$",
+            "$a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\}$",
+            "$x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\}$"
+        ],
+        "created_at": "2026-07-08T03:08:50.731648+00:00"
+    },
+    {
+        "id": 57801,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =$_________, if $\\beta >\\alpha$.",
+        "op": [
+            "$% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$",
+            "$\\varnothing$",
+            "$\\left\\{ \\alpha \\right\\}$",
+            "$\\left\\{ \\beta \\right\\}$"
+        ],
+        "created_at": "2026-07-08T03:09:40.688351+00:00"
+    },
+    {
+        "id": 57867,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Let $x,y\\in \\left[ 0,1\\right) ,$then the sum modulo $1;x\\widehat{+}y$ of $\\ x$ and $\\ y$ is defined by_________.",
+        "op": [
+            "$x+y-1$",
+            "$x+y$ if $x+y<1$ and $x+y-1$ if $x+y\\geq 1$",
+            "$x+y$ if $x+y\\leq 1$ and $x+y-1$ if $x+y>1$",
+            "$x+y$ if $x+y\\geq 1$ and $x+y-1$ if $x+y<1$"
+        ],
+        "created_at": "2026-07-08T04:08:30.516296+00:00"
+    },
+    {
+        "id": 57868,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If one set is a subset of another, what is the relationship between their characteristic functions?",
+        "op": [
+            "The larger set's characteristic function is less than the smaller set's.",
+            "They are equal.",
+            "They are unrelated.",
+            "The smaller set's characteristic function is less than or equal to the larger set's."
+        ],
+        "created_at": "2026-07-08T04:09:40.534362+00:00"
+    },
+    {
+        "id": 57869,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What does the characteristic function of the empty set indicate?",
+        "op": [
+            "That no element belongs to the set.",
+            "That the set contains all possible elements.",
+            "That every element belongs to the set.",
+            "That the set has infinite elements."
+        ],
+        "created_at": "2026-07-08T04:10:04.412356+00:00"
+    },
+    {
+        "id": 57872,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What property describes the characteristic function of the empty set?",
+        "op": [
+            "Exponential function",
+            "Linear function",
+            "Constant function",
+            "Quadratic function"
+        ],
+        "created_at": "2026-07-08T04:11:06.575043+00:00"
+    },
+    {
+        "id": 57917,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What does it mean if the characteristic function of set A is less than the characteristic function of set B for all elements?",
+        "op": [
+            "A is a proper subset of B",
+            "A and B are equal sets",
+            "A and B are disjoint sets",
+            "A and B have the same cardinality"
+        ],
+        "created_at": "2026-07-08T04:43:52.922213+00:00"
+    },
+    {
+        "id": 57920,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In $\\left[ 0,1\\right) ,$ the sum modulo $1,x\\widehat{+}y$ of $\\frac{3}{2}$ and $\\frac{1}{2}=$___________.",
+        "op": [
+            "$3$",
+            "$1$",
+            "is not defined at all",
+            "$\\frac{1}{2}$"
+        ],
+        "created_at": "2026-07-08T04:51:26.895627+00:00"
+    },
+    {
+        "id": 57940,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How many values can a characteristic function take?",
+        "op": [
+            "1",
+            "Infinite",
+            "3",
+            "2"
+        ],
+        "created_at": "2026-07-08T04:53:07.709458+00:00"
+    },
+    {
+        "id": 57943,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =$__________, if $\\beta =\\alpha$.",
+        "op": [
+            "$% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion$",
+            "$\\left\\{ \\beta \\right\\}$",
+            "$\\left\\{ \\alpha \\right\\}$",
+            "$\\varnothing$"
+        ],
+        "created_at": "2026-07-08T04:53:25.376889+00:00"
+    },
+    {
+        "id": 57975,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What does monotonicity in characteristic functions refer to?",
+        "op": [
+            "The function's behavior as the input varies.",
+            "The function's relationship with set inclusion.",
+            "The function's derivative being constant.",
+            "The function's continuity over its domain."
+        ],
+        "created_at": "2026-07-08T05:09:39.657673+00:00"
+    },
+    {
+        "id": 57980,
+        "cc": "MTH644",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In $\\left[ 0,1\\right) ,$ the sum modulo $1,x\\widehat{+}y$ of $\\frac{1}{2}$ and $\\frac{1}{2}=$_________.",
+        "op": [
+            "$0$",
+            "$-1$",
+            "$2$",
+            "$1$"
+        ],
+        "created_at": "2026-07-08T05:10:23.065767+00:00"
+    },
+    {
+        "id": 72649,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "If~\\{E_{n}\\}~be~an~increasing~sequence~of~measurable~sets~then ",
+        "op": [
+            "...E_{3}\\subseteq E_{2} \\subseteq E_{1} \\subseteq",
+            "E_{1}-E_{1}\\subseteq E_{1}-E_{2}\\subseteq E_{1}-E_{3}\\subseteq... E_{1}-E_{n}\\subseteq....",
+            "E_{1}\\neq E_{2}\\neq E_{1}...",
+            "E_{1}\\subseteq E_{2} \\subseteq E_{3} \\subseteq ..."
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72650,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "In the first iteration for constructing Cantor Set from [0,1], we divide it in_____________sub-intervals. ",
+        "op": [
+            "5",
+            "4",
+            "2",
+            "3"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72651,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "The Lebesgue outer measure of a Cantor set constructed from [0,1], is________________.   ",
+        "op": [
+            "\\frac{1}{3}",
+            "0",
+            "\\infty",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72652,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "If \\left\\{ E_{n}\\right\\} be a decreasing sequence of measurable sets then____________. ",
+        "op": [
+            "E_{1}\\neq E_{2}\\neq E_{3}",
+            "E_{1}-E_{1}\\subseteq E_{1}-E_{2}\\subseteq E_{1}-E_{3}\\subseteq \\cdots E_{1}-E_{n}\\subseteq \\cdots",
+            "E_{1}\\subseteq E_{2}\\subseteq E_{3}\\subseteq \\cdots",
+            "E_{1}\\supseteq E_{2}\\supseteq E_{3}\\supseteq \\cdots"
+        ],
+        "created_at": "2026-07-15T13:35:20.761588+00:00"
+    },
+    {
+        "id": 72653,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "If \\left\\{ E_{n}\\right\\} be a sequence of measurable sets such that % E_{1}=E_{2}=E_{3}\\cdots then \\left\\{ E_{n}\\right\\} is an example of____________sequence.   ",
+        "op": [
+            "increasing",
+            "both increasing and decreasing",
+            "neither increasing nor decreasing",
+            "decreasing"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72654,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "In the first iteration for constructing Cantor Set from [0,1], we drop a sub-interval of length__________. ",
+        "op": [
+            "1",
+            "\\frac{1}{3}",
+            "\\frac{1}{4}",
+            "\\frac{1}{2}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72655,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "In the 2nd Iteration for constructing Cantor Set from [0,1],we drop a sub-intervals of length ________________. ",
+        "op": [
+            "\\frac{1}{3^{2}}",
+            "\\frac{1}{3^{0}}",
+            "\\frac{1}{3^{1}}",
+            "\\frac{1}{3^{3}}"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72656,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "The Cantor set constructed from [0,1] is ________________. ",
+        "op": [
+            "finitely countable",
+            "uncountable",
+            "infinitely countable",
+            "finite"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72664,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "Let \\varnothing \\neq A,B\\in \\mathbf{M:}the measurable space, such that B\\subseteq A, then ________. ",
+        "op": [
+            "m(B)\\geq m(A)",
+            "m(B)\\leq m(A)",
+            "m(B-A)=m(A)",
+            "m(B)=m(A)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72665,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "Let \\varnothing \\neq A\\in \\mathbf{M:}the measurable space, such that t\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion , then________. ",
+        "op": [
+            "m(A\\times t)=m(A+t)",
+            "m(A\\times t)=m(A\\div t)",
+            "m(A\\div t)=m(A-t)",
+            "m(A-t)=m(A)"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72742,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "If $\\left\\{ E_{n}\\right\\} $ be a decreasing sequence of measurable sets then____________. ",
+        "op": [
+            "$E_{1}\\subseteq E_{2}\\subseteq E_{3}\\subseteq \\cdots $",
+            "$E_{1}-E_{1}\\subseteq E_{1}-E_{2}\\subseteq E_{1}-E_{3}\\subseteq \\cdots E_{1}-E_{n}\\subseteq \\cdots $",
+            "$E_{1}\\neq E_{2}\\neq E_{3}$",
+            "$E_{1}\\supseteq E_{2}\\supseteq E_{3}\\supseteq \\cdots $"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 72774,
+        "cc": "MTH644",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "If $\\left\\{ E_{n}\\right\\} $ be a sequence of measurable sets such that $% E_{1}=E_{2}=E_{3}\\cdots $ then $\\left\\{ E_{n}\\right\\} $ is an example of____________sequence.   ",
+        "op": [
+            "neither increasing nor decreasing",
+            "decreasing",
+            "increasing",
+            "both increasing and decreasing"
+        ],
+        "created_at": "2026-07-15T13:35:23.641054+00:00"
+    },
+    {
+        "id": 73209,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Which of the following best describes a measurable function?}} ",
+        "op": [
+            "{\\text{A function that maps Borel sets to Lebesgue measurable sets}}{\\text{.}}",
+            "{\\text{A function that can be represented as the union of countably many open sets}}{\\text{.}}",
+            "{\\text{A function that maps measurable sets to measurable sets}}{\\text{.}}",
+            "{\\text{A function that preserves the order of elements in its domain}}{\\text{.}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73210,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let x,y\\in \\left[ 0,1\\right) ,then the sum modulo 1;x\\widehat{+}y of \\ x and \\ y is defined by_________. ",
+        "op": [
+            "x+y if x+y\\leq 1 and x+y-1 if x+y>1",
+            "x+y if x+y<1 and x+y-1 if x+y\\geq 1",
+            "x+y-1",
+            "x+y if x+y\\geq 1 and x+y-1 if x+y<1"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73211,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Which of the following sets is countable and also a Borel set with measure zero?}} ",
+        "op": [
+            "{\\text{The interval [0,1]}}",
+            "{\\text{The set of natural numbers}}",
+            "{\\text{The set of irrational numbers}}",
+            "{\\text{The set of real numbers}}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73212,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "In \\left[ 0,1\\right) , the sum modulo 1,x\\widehat{+}y of \\frac{3}{2} and \\frac{1}{2}=___________. ",
+        "op": [
+            "3",
+            "is not defined at all",
+            "\\frac{1}{2}",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73214,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Which operation generates }}{F_\\sigma }{\\text{ Borel sets from closed sets?}} ",
+        "op": [
+            "Countable complementation",
+            "Countable negation",
+            "Countable union",
+            "Countable intersection"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73215,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "In \\left[ 0,1\\right) , the sum modulo 1,x\\widehat{+}y of \\frac{1}{2} and \\frac{1}{2}=_________. ",
+        "op": [
+            "0",
+            "2",
+            "-1",
+            "1"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73217,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Which operation generates }}{G_\\delta }{\\text{ Borel sets from open sets?}} ",
+        "op": [
+            "Countable complementation",
+            "Countable negation",
+            "Countable intersection",
+            "Countable union"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73219,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose f is a real valued identically constant function f(x)=\\beta , then \\left\\{ x:f(x)>\\alpha \\right\\} =__________, if \\beta =\\alpha ",
+        "op": [
+            "\\varnothing",
+            "\\left\\{ \\beta \\right\\}",
+            "\\left\\{ \\alpha \\right\\}",
+            "% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73234,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 2.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}} ",
+        "op": [
+            "\\emptyset",
+            "\\left( {7,\\infty } \\right)",
+            "\\mathbb{R}",
+            "\\left( { - \\infty ,7} \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73235,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 9.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}} ",
+        "op": [
+            "\\mathbb{R}",
+            "\\emptyset",
+            "\\left( { - \\infty ,7} \\right)",
+            "\\left( {7,\\infty } \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73236,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let M be a measurable space (a sigma algebra of measurable sets) then a function f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion on \\varnothing \\neq E\\in M is measurable if the set \\left\\{ x\\in E:f(x)>a\\right\\} is measurable for all __________. ",
+        "op": [
+            "x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion",
+            "a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\}",
+            "x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\}",
+            "a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73237,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{A singleton set }}\\{ x\\} {\\text{ can be written as:}} ",
+        "op": [
+            "\\bigcup\\limits_{n = 1}^\\infty {\\left( {\\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)}",
+            "\\bigcap\\limits_{n = 1}^\\infty {\\left( { - \\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)}",
+            "\\bigcup\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)}",
+            "\\bigcap\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)}"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73238,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose f is a real valued identically constant function f(x)=\\beta , then \\left\\{ x:f(x)>\\alpha \\right\\} =% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion. And if \\beta >\\alpha, then__________. ",
+        "op": [
+            "f~is not measurable",
+            "f is 1-1",
+            "f is bijective",
+            "f is measurable"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73239,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose f is a real valued identically constant function f(x)=\\beta , then \\left\\{ x:f(x)>\\alpha \\right\\} =_________, if \\beta >\\alpha ",
+        "op": [
+            "\\left\\{ \\beta \\right\\}",
+            "\\left\\{ \\alpha \\right\\}",
+            "% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion",
+            "\\varnothing"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73240,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let M be a measurable space (a sigma algebra of measurable sets) then a function f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion on \\varnothing \\neq E\\in M given as \\left\\{ x\\in E:f(x)>a\\right\\} is measurable if \\forall a,----------under f is measurable set. ",
+        "op": [
+            "image of \\left( x,\\infty \\right)",
+            "inverse image of \\left( a,\\infty \\right)",
+            "image of \\left( a,\\infty \\right)",
+            "inverse image of \\left( a,\\infty \\right)"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73243,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $. And if $\\beta >\\alpha $, then__________. ",
+        "op": [
+            "$f~$is not measurable",
+            "$f$ is $1-1$",
+            "$f$ is measurable",
+            "$f$ is bijective"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73244,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "A(an)__________of Lebesgue measure m to the class of Borel sets % \\mathit{B} is said to be Borel measure space.   ",
+        "op": [
+            "kernel",
+            "extension",
+            "bijection",
+            "restriction"
+        ],
+        "created_at": "2026-07-15T13:35:28.182891+00:00"
+    },
+    {
+        "id": 73256,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let M be a measurable space(a sigma algebra of measurable sets) then a function f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion is Lebesgue measurable function on \\varnothing \\neq E\\in M, if_____________. ",
+        "op": [
+            "\\left\\{ x\\in E:f(x)>a\\right\\}",
+            "\\left\\{ a\\in E:f(x)>a\\right\\}",
+            "\\left\\{ x\\in E:f(a)>x\\right\\}",
+            "data:image/png;base64,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"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73271,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let $M$ be a measurable space(a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ is Lebesgue measurable function on $\\varnothing \\neq E\\in M,$ if_____________. ",
+        "op": [
+            "$\\left\\{ a\\in E:f(x)>a\\right\\} $",
+            "$\\left\\{ x\\in E:f(x)>a\\right\\} $",
+            "data:image/png;base64,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",
+            "$\\left\\{ x\\in E:f(a)>x\\right\\} $"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73272,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =$__________, if $\\beta =\\alpha $. ",
+        "op": [
+            "$\\left\\{ \\beta \\right\\} $",
+            "$% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $",
+            "$\\left\\{ \\alpha \\right\\} $",
+            "$\\varnothing $"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73273,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Which operation generates }}{G_\\delta }{\\text{ Borel sets from open sets?}}\\] ",
+        "op": [
+            "Countable negation",
+            "Countable union",
+            "Countable complementation",
+            "Countable intersection"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73274,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Which of the following sets is a Borel set?}}\\] ",
+        "op": [
+            "\\[{F_\\sigma }{\\text{ set}}\\]",
+            "\\[{\\text{The set of rational numbers}}\\]",
+            "\\[{\\text{All of these}}\\]",
+            "\\[{G_\\delta }{\\text{ set}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73292,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "A set E is a Borel set if it can be expressed as_____________. ",
+        "op": [
+            "countable union of open (closed) sets",
+            "countable intersection of open (closed) sets",
+            "neither countable union nor intersection of open or closed sets",
+            "either countable union or intersection of open or closed sets"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73297,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Which operation generates }}{F_\\sigma }{\\text{ Borel sets from closed sets?}}\\] ",
+        "op": [
+            "Countable union",
+            "Countable negation",
+            "Countable intersection",
+            "Countable complementation"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73298,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 2.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}}\\] ",
+        "op": [
+            "\\[\\mathbb{R}\\]",
+            "\\[\\left( {7,\\infty } \\right)\\]",
+            "\\[\\emptyset \\]",
+            "\\[\\left( { - \\infty ,7} \\right)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73299,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Suppose $f$ is a real valued identically constant function $f(x)=\\beta ,$ then $\\left\\{ x:f(x)>\\alpha \\right\\} =$_________, if $\\beta >\\alpha $. ",
+        "op": [
+            "$\\left\\{ \\alpha \\right\\} $",
+            "$\\left\\{ \\beta \\right\\} $",
+            "$% %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $",
+            "$\\varnothing $"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73300,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let $M$ be a measurable space (a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ on $\\varnothing \\neq E\\in M$ is measurable if the set $\\left\\{ x\\in E:f(x)>a\\right\\} $ is measurable for all __________. ",
+        "op": [
+            "$x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\} $",
+            "$a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion \\cup \\left\\{ \\pm \\infty \\right\\} $",
+            "$a\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $",
+            "$x\\in %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73301,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let $M$ be a measurable space (a sigma algebra of measurable sets) then a function $f:E\\longrightarrow %TCIMACRO{\\U{211d} }% %BeginExpansion \\mathbb{R} %EndExpansion $ on $\\varnothing \\neq E\\in M$ given as $\\left\\{ x\\in E:f(x)>a\\right\\} $ is measurable if $\\forall a,$----------under $f$ is measurable set. ",
+        "op": [
+            "image of $\\left( x,\\infty \\right) $",
+            "inverse image of $\\left( a,\\infty \\right) $",
+            "image of $\\left( a,\\infty \\right) $",
+            "inverse image of $\\left( a,\\infty \\right) $"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73306,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "{\\text{Which of the following sets is a Borel set?}} ",
+        "op": [
+            "{F_\\sigma }{\\text{ set}}",
+            "{\\text{All of these}}",
+            "{\\text{The set of rational numbers}}",
+            "{G_\\delta }{\\text{ set}}"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73310,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Which of the following sets is countable and also a Borel set with measure zero?}}\\] ",
+        "op": [
+            "\\[{\\text{The interval [0,1]}}\\]",
+            "\\[{\\text{The set of natural numbers}}\\]",
+            "\\[{\\text{The set of irrational numbers}}\\]",
+            "\\[{\\text{The set of real numbers}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73328,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Let $x,y\\in \\left[ 0,1\\right) ,$then the sum modulo $1;x\\widehat{+}y$ of $\\ x $ and $\\ y$ is defined by_________. ",
+        "op": [
+            "$x+y$ if $x+y\\geq 1$ and $x+y-1$ if $x+y<1$",
+            "$x+y$ if $x+y\\leq 1$ and $x+y-1$ if $x+y>1$",
+            "$x+y$ if $x+y<1$ and $x+y-1$ if $x+y\\geq 1$",
+            "$x+y-1$"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73329,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Which of the following best describes a measurable function?}}\\] ",
+        "op": [
+            "\\[{\\text{A function that maps Borel sets to Lebesgue measurable sets}}{\\text{.}}\\]",
+            "\\[{\\text{A function that can be represented as the union of countably many open sets}}{\\text{.}}\\]",
+            "\\[{\\text{A function that maps measurable sets to measurable sets}}{\\text{.}}\\]",
+            "\\[{\\text{A function that preserves the order of elements in its domain}}{\\text{.}}\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73331,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{A singleton set }}\\{ x\\} {\\text{ can be written as:}}\\] ",
+        "op": [
+            "\\[\\bigcup\\limits_{n = 1}^\\infty {\\left( {\\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)} \\]",
+            "\\[\\bigcup\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)} \\]",
+            "\\[\\bigcap\\limits_{n = 1}^\\infty {\\left( { - \\frac{1}{n},{\\text{ }}\\frac{1}{n}} \\right)} \\]",
+            "\\[\\bigcap\\limits_{n = 1}^\\infty {\\left( {x - \\frac{1}{n},{\\text{ }}x + \\frac{1}{n}} \\right)} \\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    },
+    {
+        "id": 73344,
+        "cc": "MTH644",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "\\[{\\text{Let }}f:\\mathbb{R} \\to \\mathbb{R}{\\text{ defined by }}f(x) = 9.{\\text{ The set }}\\{ x \\in \\mathbb{R}:f(x) > 7\\} {\\text{ is equal to which of the following sets?}}\\] ",
+        "op": [
+            "\\[\\emptyset \\]",
+            "\\[\\mathbb{R}\\]",
+            "\\[\\left( {7,\\infty } \\right)\\]",
+            "\\[\\left( { - \\infty ,7} \\right)\\]"
+        ],
+        "created_at": "2026-07-15T13:35:32.544579+00:00"
+    }
+]

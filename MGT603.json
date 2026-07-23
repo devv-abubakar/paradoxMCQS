@@ -1,0 +1,4608 @@
+[
+{
+    "id": 9985,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Defensive strategies include all of the following EXCEPT:",
+    "op": [
+        "Retrenchment",
+        "Divestiture",
+        "Acquisition",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-21T19:35:56.932355+00:00"
+},
+{
+    "id": 9988,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which matrices are also known as Portfolio matrices?",
+    "op": [
+        "TOWS and IE matrix",
+        "IE and BCG matrix",
+        "SPACE and TOWS matrix",
+        "SPACE and BCG matrix"
+    ],
+    "created_at": "2026-06-21T19:36:05.312775+00:00"
+},
+{
+    "id": 9990,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the limitations of BCG Matrix EXCEPT:",
+    "op": [
+        "BCG can not be developed if a firm have at less than least three years data.",
+        "It is one-dimensional to view every business as a star, cash cow, dog or question mark.",
+        "The businesses that fall in the centre of BCG matrix can not be classified.",
+        "Other variables such as size of market and competitive advantages are not considered."
+    ],
+    "created_at": "2026-06-21T19:36:13.560408+00:00"
+},
+{
+    "id": 9992,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following describes a differentiation strategy?",
+    "op": [
+        "Providing different products with competences",
+        "Offering unique products that are widely valued by customers",
+        "Innovation of products or services greater than competition",
+        "Higher quality products or services than competitors"
+    ],
+    "created_at": "2026-06-21T19:36:22.915138+00:00"
+},
+{
+    "id": 9995,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best indicates the two assumptions of rapid market penetration?",
+    "op": [
+        "Increased promotional activities and differentiation activities",
+        "None of the given options",
+        "Lowering the price and differentiation activities",
+        "Lowering the price and increased promotional activities"
+    ],
+    "created_at": "2026-06-21T19:36:32.96043+00:00"
+},
+{
+    "id": 9997,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "When the firm is located in Quadrant I of grand strategy matrix and it has excessive resources, it is effective to peruse what strategies?",
+    "op": [
+        "Intensive strategies",
+        "Integration strategies",
+        "Defensive strategies",
+        "Diversification strategies"
+    ],
+    "created_at": "2026-06-21T19:36:42.411406+00:00"
+},
+{
+    "id": 9999,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best indicates the two assumptions of slow market penetration?",
+    "op": [
+        "Unchanged promotional activities and differentiation activities",
+        "None of the given options",
+        "Lowering the price and differentiation activities",
+        "Lowering the price and unchanged promotional activities"
+    ],
+    "created_at": "2026-06-21T19:36:54.050734+00:00"
+},
+{
+    "id": 10001,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to porter’s generic strategies, small firms with less access to resources typically compete on?",
+    "op": [
+        "Differentiation",
+        "Focus",
+        "Cost leadership",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-21T19:37:04.188593+00:00"
+},
+{
+    "id": 10002,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following has become a popular strategy for firms who want to reduce their level of diversification and focus on core strengths?",
+    "op": [
+        "Liquidation",
+        "Divestiture",
+        "Acquisition",
+        "Joint venture"
+    ],
+    "created_at": "2026-06-21T19:37:12.801714+00:00"
+},
+{
+    "id": 10405,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Tesco is opening fewer stores in Britain to divert capital expenditures to China. Tesco is pursuing which one of the following type strategies?",
+    "op": [
+        "Market penetration",
+        "Product development",
+        "Market development",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-21T20:15:55.411693+00:00"
+},
+{
+    "id": 10406,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best describes market development strategy?",
+    "op": [
+        "Seeking increased sales by improving or modifying present products or services",
+        "None of the given options",
+        "To increase market share for present products or services in the present markets through greater marketing efforts",
+        "Introducing present products or services into new geographic areas"
+    ],
+    "created_at": "2026-06-21T20:16:03.106669+00:00"
+},
+{
+    "id": 10408,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Retrenchment, divestiture, or liquidation are categorized under which strategy?",
+    "op": [
+        "Growth strategy",
+        "Defensive strategy",
+        "Integration strategy",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-21T20:16:16.869629+00:00"
+},
+{
+    "id": 10409,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Retrenchment strategy should be followed by which one of the following firms?",
+    "op": [
+        "Firm with its SPACE matrix vector in conservative quadrant",
+        "Firm with its SPACE matrix vector in defensive quadrant",
+        "Firm with its SPACE matrix vector in aggressive quadrant",
+        "Firm with its SPACE matrix vector in competitive quadrant"
+    ],
+    "created_at": "2026-06-21T20:16:22.405435+00:00"
+},
+{
+    "id": 10412,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Adding new, unrelated products or services is called:",
+    "op": [
+        "Conglomerate diversification",
+        "Backward integration",
+        "Forward integration",
+        "Concentric diversification"
+    ],
+    "created_at": "2026-06-21T20:16:28.349223+00:00"
+},
+{
+    "id": 10413,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "\"Other than ranking strategies to achieve the prioritized list, there is only one analytical technique which is designed to determine the relative attractiveness of feasible alternative actions\". This technique is known as:",
+    "op": [
+        "IFE",
+        "SPACE",
+        "QSPM",
+        "CPM"
+    ],
+    "created_at": "2026-06-21T20:16:33.894615+00:00"
+},
+{
+    "id": 10416,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "IE matrix is based on which dimensions?",
+    "op": [
+        "Market share and industry growth",
+        "Weighed scores of IFE and EFE matrices",
+        "Market growth and competitive position",
+        "Financial strength and industry strength"
+    ],
+    "created_at": "2026-06-21T20:16:40.006075+00:00"
+},
+{
+    "id": 10419,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the disadvantages of a functional organizational structure EXCEPT:",
+    "op": [
+        "Simple and inexpensive",
+        "Leads to short-term, narrow thinking",
+        "Delegation of authority and responsibility not encouraged",
+        "Inadequate planning for products and markets"
+    ],
+    "created_at": "2026-06-21T20:16:46.063578+00:00"
+},
+{
+    "id": 10420,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "“The company is growing but is unable to compete effectively, and needs to determine why the firm’s current approach is ineffective.” According to Grand strategy matrix, this statement is true for a company falling in which quadrant.",
+    "op": [
+        "IV",
+        "III",
+        "I",
+        "II"
+    ],
+    "created_at": "2026-06-21T20:16:52.459713+00:00"
+},
+{
+    "id": 11698,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Two or more companies form a temporary partnership or consortium for purpose of capitalizing on some opportunity is known as?",
+    "op": [
+        "Divestiture",
+        "Liquidation",
+        "None of the given options",
+        "Joint venture"
+    ],
+    "created_at": "2026-06-22T02:20:29.542875+00:00"
+},
+{
+    "id": 11699,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The Quantitative Strategic Planning Matrix (QSPM) falls in which one of the following stages in comprehensive strategy formulation framework?",
+    "op": [
+        "Stage-1 & 2",
+        "Stage-2 (Matching stage)",
+        "Stage-3 (Decision stage)",
+        "Stage-1 (Input stage)"
+    ],
+    "created_at": "2026-06-22T02:20:44.344063+00:00"
+},
+{
+    "id": 11701,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is a reason for NOT choosing relative market share in BCG matrix than profits?",
+    "op": [
+        "It indicates where it might be likely to go in the future",
+        "It can also show what type of marketing activities",
+        "It carries less information than just cash flow",
+        "It shows where the brand is positioned against competitors"
+    ],
+    "created_at": "2026-06-22T02:20:57.029475+00:00"
+},
+{
+    "id": 11703,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is/are considered as an intensive strategy?",
+    "op": [
+        "Product development",
+        "Market penetration",
+        "All of the given options",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T02:21:07.733001+00:00"
+},
+{
+    "id": 11704,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in industry strength (IS) & environmental stability (ES) is +5 & -1, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Defensive",
+        "Competitive",
+        "Aggressive",
+        "Conservative"
+    ],
+    "created_at": "2026-06-22T02:21:31.08189+00:00"
+},
+{
+    "id": 11706,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A joining of two companies through one company buying more than one half of the other company's stocks is known as:",
+    "op": [
+        "Monopolization",
+        "An acquisition",
+        "A spin-off",
+        "A merger"
+    ],
+    "created_at": "2026-06-22T02:21:54.168588+00:00"
+},
+{
+    "id": 11708,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Quadrant I in grand strategy matrix (comprehensive strategy formulation framework) contains the following set of strategies EXCEPT:",
+    "op": [
+        "Divestiture",
+        "Product development",
+        "Market development",
+        "Market penetration"
+    ],
+    "created_at": "2026-06-22T02:22:00.219414+00:00"
+},
+{
+    "id": 11846,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "ABC Corporation can have competitive advantage over its competitor by taking all of the following actions EXCEPT:",
+    "op": [
+        "By having debt/equity ratio equals to 1",
+        "By increasing customer base",
+        "By altering product life cycle",
+        "By increasing product quality"
+    ],
+    "created_at": "2026-06-22T02:55:41.85719+00:00"
+},
+{
+    "id": 11847,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Conglomerate diversification is another name for which of the following?",
+    "op": [
+        "Related diversification",
+        "Unrelated diversification",
+        "Acquisition diversification",
+        "Portfolio diversification"
+    ],
+    "created_at": "2026-06-22T02:56:00.546183+00:00"
+},
+{
+    "id": 11848,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The IE Matrix consists of how many cells?",
+    "op": [
+        "Nine",
+        "Eight",
+        "Ten",
+        "Seven"
+    ],
+    "created_at": "2026-06-22T02:56:10.991361+00:00"
+},
+{
+    "id": 11849,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to porter’s generic strategies, larger firms with greater access to resources typically compete on?",
+    "op": [
+        "Diversification",
+        "Focus",
+        "Cost leadership",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T02:56:25.43089+00:00"
+},
+{
+    "id": 11850,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is not considered a defensive strategy?",
+    "op": [
+        "Integration",
+        "Retrenchment",
+        "Divestiture",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T02:56:35.876636+00:00"
+},
+{
+    "id": 11851,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following type of strategy that usually requires large research and development expenditures in order to seek increase sales by improving present products or services?",
+    "op": [
+        "Product development",
+        "Market penetration",
+        "Market development",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T02:56:46.011027+00:00"
+},
+{
+    "id": 11853,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the effective strategy when a firm competes in a no-growth or a slow-growth industry.",
+    "op": [
+        "Retrenchment",
+        "Horizontal diversification",
+        "Related diversification",
+        "Unrelated diversification"
+    ],
+    "created_at": "2026-06-22T02:57:14.07415+00:00"
+},
+{
+    "id": 12010,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following strategy best describes “the organization focuses its effort on one particular segment and becomes well known for providing products/services within the segment”?",
+    "op": [
+        "Integration strategies",
+        "Niche strategies",
+        "None of the given options",
+        "Growth strategies"
+    ],
+    "created_at": "2026-06-22T03:25:18.612016+00:00"
+},
+{
+    "id": 12013,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The Boston Consulting Group (BCG) Matrix falls in which one of the following stages in comprehensive strategy formulation framework?",
+    "op": [
+        "Stage-2 (Matching stage)",
+        "Stage-1 (Input stage)",
+        "Stage-3 (Decision stage)",
+        "Stage-1 & 2"
+    ],
+    "created_at": "2026-06-22T03:25:42.255343+00:00"
+},
+{
+    "id": 12020,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in competitive advantage (CA) & financial strength (IS) is -5 & +2, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Competitive",
+        "Conservative",
+        "Defensive",
+        "Aggressive"
+    ],
+    "created_at": "2026-06-22T03:26:14.293008+00:00"
+},
+{
+    "id": 12039,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The organizations, where resource allocation is not based on strategic-management approach to decision making, which approach is used for resource allocation?",
+    "op": [
+        "On political or personal factors",
+        "Relative cost of each resources",
+        "Relative importance of departments",
+        "Financial budget"
+    ],
+    "created_at": "2026-06-22T03:27:52.280779+00:00"
+},
+{
+    "id": 12043,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A firm that is involved in two or more distinct businesses is known as:",
+    "op": [
+        "A multinational corporation",
+        "A diversified company",
+        "A ventured company",
+        "A restructured company"
+    ],
+    "created_at": "2026-06-22T03:28:15.8654+00:00"
+},
+{
+    "id": 12055,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A & Ammar is the sole manufacturer of leather goods in Pakistan. Government has lowered the tax rates for this industry keeping in view of promoting other new firms to enter this industry. Lowering the tax rates of this industry will confront A & Ammar with which of the following?",
+    "op": [
+        "Strength",
+        "Opportunity",
+        "Weakness",
+        "Threat"
+    ],
+    "created_at": "2026-06-22T03:28:59.252068+00:00"
+},
+{
+    "id": 12071,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Introducing present products or services into a new geographic area is known as?",
+    "op": [
+        "Market penetration",
+        "Product development",
+        "Market development",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T03:30:17.895943+00:00"
+},
+{
+    "id": 12074,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "SPACE matrix contains four-quadrant named aggressive, conservative, defensive, or competitive strategies. The axes of SPACE matrix represent which of the following two internal dimensions?",
+    "op": [
+        "ES & IS",
+        "FS & CA",
+        "FS & ES",
+        "CA & IS"
+    ],
+    "created_at": "2026-06-22T03:30:38.319669+00:00"
+},
+{
+    "id": 12077,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "SPACE matrix contains four-quadrant named aggressive, conservative, defensive, or competitive strategies. The axes of SPACE matrix represent which of the following two external dimensions?",
+    "op": [
+        "CA & IS",
+        "FS & CA",
+        "FS & ES",
+        "ES & IS"
+    ],
+    "created_at": "2026-06-22T03:30:58.566607+00:00"
+},
+{
+    "id": 12083,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "ABC firm is facing high production costs in Pakistan due to expensive raw material. The firm is formulating a strategy of capturing European market because of low priced raw material and high demand of their products in Europe. Keeping in view the mentioned situation which of the following strategies ABC firm must pursue?",
+    "op": [
+        "WT Strategy",
+        "SW Strategy",
+        "WO Strategy",
+        "ST Strategy"
+    ],
+    "created_at": "2026-06-22T03:31:20.508867+00:00"
+},
+{
+    "id": 12090,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of these is an attractive strategy for a cash cow division?",
+    "op": [
+        "Backward integration",
+        "Horizontal integration",
+        "Conglomerate diversification",
+        "Concentric diversification"
+    ],
+    "created_at": "2026-06-22T03:31:45.701843+00:00"
+},
+{
+    "id": 12099,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in competitive advantage (CA) & financial strength (IS) is -2 & +4, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Competitive",
+        "Defensive",
+        "Aggressive",
+        "Conservative"
+    ],
+    "created_at": "2026-06-22T03:32:16.294046+00:00"
+},
+{
+    "id": 12104,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "When both divestiture and retrenchment have been pursued unsuccessfully, which of the following strategies is effective to pursue?",
+    "op": [
+        "Liquidation",
+        "Takeover",
+        "Merger",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T03:32:43.117337+00:00"
+},
+{
+    "id": 12109,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "You are asked to prepare the IE Matrix of Roxon Incorporation. Your findings reveal that its Southern division falls in IX cell of IE Matrix. How will you interpret your findings?",
+    "op": [
+        "It can be managed best with Grow and Maintain strategies",
+        "It can be managed best with Hold and Maintain strategies",
+        "It can be managed best with Harvest or divest strategies",
+        "It can be managed best with Grow and Build strategies"
+    ],
+    "created_at": "2026-06-22T03:33:08.722202+00:00"
+},
+{
+    "id": 12111,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is/are included in Michael Porter's generic strategies?",
+    "op": [
+        "All of the given options",
+        "Differentiation",
+        "Cost leadership",
+        "Focus"
+    ],
+    "created_at": "2026-06-22T03:33:36.037991+00:00"
+},
+{
+    "id": 12113,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In which one of the following matrix where strategists requires to integrate all the internal and external factors into the decision process?",
+    "op": [
+        "SPACE Matrix",
+        "GS Matrix",
+        "BCG",
+        "QSPM"
+    ],
+    "created_at": "2026-06-22T03:33:50.571401+00:00"
+},
+{
+    "id": 12348,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the advantages of functional structure of an organization EXCEPT:",
+    "op": [
+        "Minimizes career development",
+        "Simple and Inexpensive",
+        "Allows for rapid decision making",
+        "Minimizes need for elaborate control system"
+    ],
+    "created_at": "2026-06-22T04:05:53.104509+00:00"
+},
+{
+    "id": 12350,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is the last step in the development of QSPM?",
+    "op": [
+        "Compute the Sum Total Attractiveness Score",
+        "Assigning weights to each key external and internal factor",
+        "Determining the Attractiveness Scores for each strategy",
+        "Developing a list of the firm’s key external and internal factors"
+    ],
+    "created_at": "2026-06-22T04:06:07.649317+00:00"
+},
+{
+    "id": 12351,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "On the x-axis of the IE Matrix, an IFE total weighted score of a firm is 3.5 represents that firm has:",
+    "op": [
+        "A strong internal position",
+        "A weak internal position",
+        "A strong external position",
+        "A weak external position"
+    ],
+    "created_at": "2026-06-22T04:06:13.807807+00:00"
+},
+{
+    "id": 12352,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which matrix is included in the decision stage of the strategy formulation framework?",
+    "op": [
+        "IE Matrix",
+        "QSPM Matrix",
+        "BCG Matrix",
+        "SPACE Matrix"
+    ],
+    "created_at": "2026-06-22T04:06:20.3656+00:00"
+},
+{
+    "id": 12354,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The SMART goal criteria ‘Relevant’ suggests which one of the following?",
+    "op": [
+        "Do you know exactly what you want to accomplish?",
+        "Are you able to assess your progress?",
+        "Is your goal relevant towards your purpose in life?",
+        "What is the deadline for completing your goal?"
+    ],
+    "created_at": "2026-06-22T04:06:27.073855+00:00"
+},
+{
+    "id": 12355,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What refers to a strategy of seeking ownership or increased control over a firm’s competitors?",
+    "op": [
+        "Horizontal integration",
+        "Conglomerate diversification",
+        "Concentric diversification",
+        "Backward integration"
+    ],
+    "created_at": "2026-06-22T04:06:33.277233+00:00"
+},
+{
+    "id": 12360,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "ABC company is competing in an industry where the growth rate of that industry from year to year has reached or is close to zero, ABC is operating in which industry?",
+    "op": [
+        "Growing industry",
+        "Declining industry",
+        "Mature industry",
+        "Emerging industry"
+    ],
+    "created_at": "2026-06-22T04:06:48.835232+00:00"
+},
+{
+    "id": 12362,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In BCG matrix, identify the right quadrant for “Question Marks”.",
+    "op": [
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant IV",
+        "Quadrant III"
+    ],
+    "created_at": "2026-06-22T04:06:56.279563+00:00"
+},
+{
+    "id": 12783,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In which one of the following businesses, a firm’s cash needs are high while cash generation is low in BCG matrix portfolio?",
+    "op": [
+        "Dogs",
+        "Stars",
+        "Cash cows",
+        "Question marks"
+    ],
+    "created_at": "2026-06-22T04:45:24.950752+00:00"
+},
+{
+    "id": 12787,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What is the last stage of three-stage strategy formulation framework?",
+    "op": [
+        "Formulation",
+        "Decision",
+        "None of the given options",
+        "Matching"
+    ],
+    "created_at": "2026-06-22T04:45:46.527591+00:00"
+},
+{
+    "id": 12789,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to Porter, which strategy offers products or services to a small range of customers at the lowest price available on the market?",
+    "op": [
+        "Low cost",
+        "Cost focus",
+        "Best value",
+        "Differentiation"
+    ],
+    "created_at": "2026-06-22T04:45:53.018045+00:00"
+},
+{
+    "id": 12790,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is the organizational structure that most of the medium-size organizations follow?",
+    "op": [
+        "Strategic business unit",
+        "Functional structure",
+        "Matrix structure",
+        "Divisional structure"
+    ],
+    "created_at": "2026-06-22T04:46:14.969169+00:00"
+},
+{
+    "id": 12791,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "BCG matrix is used in matching stage of strategy formulation framework. It plots the business units along which of the following dimensions?",
+    "op": [
+        "Market share and industry strength",
+        "Market growth rate and competitive position",
+        "Market share and market growth rate",
+        "Market growth rate and environment stability"
+    ],
+    "created_at": "2026-06-22T04:46:20.507988+00:00"
+},
+{
+    "id": 12792,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which term is referred as a central management activity that allows for strategy execution?",
+    "op": [
+        "Resource allocation",
+        "Establishing objectives",
+        "Policy-making",
+        "Setting Goals"
+    ],
+    "created_at": "2026-06-22T04:46:27.406406+00:00"
+},
+{
+    "id": 12793,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in financial strength (FS) & industry strength (IS) is +5 & +1, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Conservative",
+        "Defensive",
+        "Competitive",
+        "Aggressive"
+    ],
+    "created_at": "2026-06-22T04:46:32.476743+00:00"
+},
+{
+    "id": 12794,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best describes “the product is often a basic no-frills product that is produced at a relatively low cost and made available to a very large customer base”?",
+    "op": [
+        "Differentiation",
+        "Focus",
+        "Cost leadership",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T04:47:02.68995+00:00"
+},
+{
+    "id": 12797,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "SPACE matrix stands for:",
+    "op": [
+        "Strategic position and action evaluation matrix",
+        "Strategic power and commerce evaluation matrix",
+        "Strategy performance and activity evaluation matrix",
+        "Strategy position and competitiveness evaluation matrix"
+    ],
+    "created_at": "2026-06-22T04:47:27.00482+00:00"
+},
+{
+    "id": 12800,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "“Substantial changes to the range of offerings or the markets served or both” is referred as:",
+    "op": [
+        "Brand extension",
+        "Diversification",
+        "Differentiation",
+        "Relocation"
+    ],
+    "created_at": "2026-06-22T04:48:35.494994+00:00"
+},
+{
+    "id": 12802,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The benefits of horizontal integration include all of the following EXCEPT:",
+    "op": [
+        "Reduction in competition",
+        "Diseconomies of scale",
+        "Synergy",
+        "Cost reduction"
+    ],
+    "created_at": "2026-06-22T04:48:44.985333+00:00"
+},
+{
+    "id": 12804,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If “Savour Foods”, a popular food chain in Islamabad/Rawalpindi acquires its supplier of rice, then it is applying which strategy?",
+    "op": [
+        "Forward Integration",
+        "Divestiture",
+        "Backward Integration",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T04:48:50.928505+00:00"
+},
+{
+    "id": 12806,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which approach for managing and resolving conflict involves physical separating the conflicting individuals?",
+    "op": [
+        "Confrontation",
+        "Avoidance",
+        "Diffusion",
+        "Compliance"
+    ],
+    "created_at": "2026-06-22T04:48:57.570942+00:00"
+},
+{
+    "id": 12807,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following would be considered as opportunities for a business, EXCEPT:",
+    "op": [
+        "Emergence of substitute products",
+        "Emergence of unfulfilled customer need",
+        "Loosening of regulations",
+        "Removal of international trade barriers"
+    ],
+    "created_at": "2026-06-22T04:49:02.8718+00:00"
+},
+{
+    "id": 12809,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If market shares of competitors are declining whereas total industry sales are increasing, which strategy do you think may be the right one to pursue?",
+    "op": [
+        "Divestiture",
+        "Retrenchment",
+        "Market Penetration",
+        "Market Development"
+    ],
+    "created_at": "2026-06-22T04:49:14.818408+00:00"
+},
+{
+    "id": 12810,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Stage-2 (Matching stage) in a comprehensive strategy formulation framework includes all of the following matrix EXCEPT:",
+    "op": [
+        "IFE",
+        "GS Matrix",
+        "IE Matrix",
+        "BCG Matrix"
+    ],
+    "created_at": "2026-06-22T04:49:28.771595+00:00"
+},
+{
+    "id": 12812,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Stage-1 (Input Stage) in a comprehensive strategy formulation framework includes all of the following matrix EXCEPT:",
+    "op": [
+        "Internal factor evaluation",
+        "TWOS matrix",
+        "External factor evaluation",
+        "Competitive matrix profile"
+    ],
+    "created_at": "2026-06-22T04:49:40.644482+00:00"
+},
+{
+    "id": 12821,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following are two positive-rated dimensions on SPACE Matrix?",
+    "op": [
+        "CA and ES",
+        "FS and CA",
+        "IS and ES",
+        "FS and IS"
+    ],
+    "created_at": "2026-06-22T04:51:47.12277+00:00"
+},
+{
+    "id": 12824,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which stage of the strategy-formulation framework consists of the  Quantitative Strategic Planning Matrix?",
+    "op": [
+        "Formulation framework",
+        "Decision stage",
+        "Matching stage",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-22T04:52:18.838757+00:00"
+},
+{
+    "id": 12826,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is an example of Intensive strategies?",
+    "op": [
+        "Conglomerate strategy",
+        "Retrenchment",
+        "Market penetration",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T04:52:26.940428+00:00"
+},
+{
+    "id": 12827,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Concentric, horizontal, and conglomerate are the types of which strategy?",
+    "op": [
+        "Diversification strategies",
+        "Defensive strategies",
+        "Growth strategies",
+        "Intensive strategies"
+    ],
+    "created_at": "2026-06-22T04:52:32.869785+00:00"
+},
+{
+    "id": 12829,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "“It gives you a systematic approach for evaluating alternate strategies, and helps you decide which strategy is best suited to your organization.” The statement is true for which of the following matrix?",
+    "op": [
+        "QSPM",
+        "BCG Matrix",
+        "TOWS Matrix",
+        "SPACE Matrix"
+    ],
+    "created_at": "2026-06-22T04:52:37.994373+00:00"
+},
+{
+    "id": 12831,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What kind of strategy retrenchment is?",
+    "op": [
+        "An integration strategy",
+        "An expansion strategy",
+        "A reorganization strategy",
+        "A diversification strategy"
+    ],
+    "created_at": "2026-06-22T04:52:47.706668+00:00"
+},
+{
+    "id": 12832,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which strategy should an organization use if it competes in a no-growth or a slow-growth industry?",
+    "op": [
+        "Related diversification",
+        "Unrelated diversification",
+        "Backward integration",
+        "Retrenchment"
+    ],
+    "created_at": "2026-06-22T04:52:52.980131+00:00"
+},
+{
+    "id": 12833,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the type of strategy that focuses in seeking ownership or increased control of a firm’s suppliers.",
+    "op": [
+        "Backward integration",
+        "Market penetration",
+        "Horizontal integration",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T04:53:01.214116+00:00"
+},
+{
+    "id": 12834,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is a suitable strategy for an organization with excess production capacity and underutilized channels of distribution?",
+    "op": [
+        "Retrenchment",
+        "Product development",
+        "Market development",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T04:53:09.432557+00:00"
+},
+{
+    "id": 12860,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT a SMART criterion?",
+    "op": [
+        "Measurable",
+        "Achievable",
+        "Strategy",
+        "Relevant"
+    ],
+    "created_at": "2026-06-22T04:56:46.220802+00:00"
+},
+{
+    "id": 12861,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which strategy is appropriate when an organization competes in an industry characterized by rapid technological developments?",
+    "op": [
+        "Retrenchment",
+        "Market penetration",
+        "Liquidation",
+        "Product development"
+    ],
+    "created_at": "2026-06-22T04:56:51.106085+00:00"
+},
+{
+    "id": 12863,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is not included in defensive strategy?",
+    "op": [
+        "Joint venture",
+        "Divestiture",
+        "Retrenchment",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T04:56:55.407283+00:00"
+},
+{
+    "id": 12867,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the followings best describes the Horizontal integration?",
+    "op": [
+        "A firm takes over a supplier",
+        "A firm takes over a distributor",
+        "A firm takes over a manufacturer",
+        "A firm takes over a competitor"
+    ],
+    "created_at": "2026-06-22T04:57:06.429928+00:00"
+},
+{
+    "id": 12869,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A strategy aimed at producing products and services considered unique industry-wide and directed at consumers who are relatively price-insensitive is known as?",
+    "op": [
+        "Focus",
+        "None of the given options",
+        "Differentiation",
+        "Cost leadership"
+    ],
+    "created_at": "2026-06-22T04:57:11.289025+00:00"
+},
+{
+    "id": 12872,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Seeking ownership or increased control over competitors is known as?",
+    "op": [
+        "Vertical integration",
+        "None of the given options",
+        "Horizontal integration",
+        "Diversification"
+    ],
+    "created_at": "2026-06-22T04:57:17.86634+00:00"
+},
+{
+    "id": 12873,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "On the y-axis of the IE Matrix, an EFE total weighted score of a firm is 3.7 represents that firm has:",
+    "op": [
+        "A strong external position",
+        "A weak internal position",
+        "A weak external position",
+        "A strong internal position"
+    ],
+    "created_at": "2026-06-22T04:57:22.849929+00:00"
+},
+{
+    "id": 12875,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following statement is TRUE about the establishment of objectives?",
+    "op": [
+        "It is a Top-management activity",
+        "It is a Centralized activity",
+        "It is a Decentralized activity",
+        "It is a Lower-management activity"
+    ],
+    "created_at": "2026-06-22T04:57:27.975801+00:00"
+},
+{
+    "id": 12910,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT included in Michael Porter's generic strategies?",
+    "op": [
+        "Differentiation",
+        "Focus",
+        "Cost leadership",
+        "Diversification"
+    ],
+    "created_at": "2026-06-22T04:59:54.874+00:00"
+},
+{
+    "id": 12912,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following strategy must obey the given guidelines like “products in the maturity stage of the life cycle and compete in the high-growth industry”?",
+    "op": [
+        "Market penetration",
+        "None of the given options",
+        "Product development",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T05:00:01.187293+00:00"
+},
+{
+    "id": 12915,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "On the x-axis of the IE Matrix, an IFE total weighted score of a firm is 1.5 represents that firm has:",
+    "op": [
+        "A weak internal position",
+        "A strong external position",
+        "A weak external position",
+        "A strong internal position"
+    ],
+    "created_at": "2026-06-22T05:00:17.144824+00:00"
+},
+{
+    "id": 12920,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A firm should practice Joint Venture strategy in which of the following cases?",
+    "op": [
+        "When the SPACE matrix vector lies in defensive quadrant",
+        "When the SPACE matrix vector lies in aggressive quadrant",
+        "When the SPACE matrix vector lies in competitive quadrant",
+        "When the SPACE matrix vector lies in conservative quadrant"
+    ],
+    "created_at": "2026-06-22T05:00:33.34202+00:00"
+},
+{
+    "id": 12925,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which analytical tool consists of a nine-cell matrix?",
+    "op": [
+        "Internal-External Matrix",
+        "Grand Strategy Matrix",
+        "Competitive Profile Matrix",
+        "SPACE Matrix"
+    ],
+    "created_at": "2026-06-22T05:00:48.544603+00:00"
+},
+{
+    "id": 12944,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the number of quadrants in grand strategy matrix (comprehensive strategy formulation framework)?",
+    "op": [
+        "4",
+        "3",
+        "1",
+        "2"
+    ],
+    "created_at": "2026-06-22T05:02:28.987504+00:00"
+},
+{
+    "id": 12948,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Today, firms are establishing their web sites to directly sell products to consumers to increase their number of manufacturers (suppliers). It is an example of which one of the following type of strategy?",
+    "op": [
+        "Backward integration",
+        "Market penetration",
+        "Forward integration",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-22T05:02:48.871923+00:00"
+},
+{
+    "id": 12949,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT considered as an intensive strategy?",
+    "op": [
+        "Product development",
+        "Cost leadership",
+        "Market penetration",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T05:02:54.595388+00:00"
+},
+{
+    "id": 12952,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is not considered an intensive strategy?",
+    "op": [
+        "Market penetration",
+        "Integration",
+        "Market development",
+        "Product development"
+    ],
+    "created_at": "2026-06-22T05:03:06.593623+00:00"
+},
+{
+    "id": 12953,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Adding new but unrelated products or services for appealing present customers is known as:",
+    "op": [
+        "Horizontal diversification",
+        "Backward integration",
+        "Conglomerate diversification",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T05:03:12.209113+00:00"
+},
+{
+    "id": 12955,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT a major region of IE matrix?",
+    "op": [
+        "Harvest or divest",
+        "Grow and build",
+        "Hold and maintain",
+        "Grow and maintain"
+    ],
+    "created_at": "2026-06-22T05:03:19.332686+00:00"
+},
+{
+    "id": 12956,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Matching stage of the strategy formulation framework comprises of formulating which of the following set of strategies?",
+    "op": [
+        "BCG, SPACE and EFE Matrix",
+        "BCG, SPACE and QSPM Matrix",
+        "BCG, SPACE and TOWS Matrix",
+        "SPACE, TOWS and IFE Matrix"
+    ],
+    "created_at": "2026-06-22T05:03:25.524418+00:00"
+},
+{
+    "id": 13049,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following strategies you would recommend to a firm that is continuously losing a large amount of money and the only alternative left is bankruptcy?",
+    "op": [
+        "Liquidation",
+        "Joint venture",
+        "Forward integration",
+        "Horizontal diversification"
+    ],
+    "created_at": "2026-06-22T05:13:40.145481+00:00"
+},
+{
+    "id": 13050,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A chance for advancement, progress or profit prevailing in external environment of a company is known as:",
+    "op": [
+        "Weakness",
+        "Threat",
+        "Strength",
+        "Opportunity"
+    ],
+    "created_at": "2026-06-22T05:13:47.71532+00:00"
+},
+{
+    "id": 13052,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Product development involves going in the direction of which one of the following?",
+    "op": [
+        "Present products to new markets",
+        "Present products to present markets",
+        "New products to present markets",
+        "New products to new markets"
+    ],
+    "created_at": "2026-06-22T05:14:00.681069+00:00"
+},
+{
+    "id": 13053,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If Bank Al-Habib completely sells all of its assets. What is this strategy called?",
+    "op": [
+        "Concentric Diversification",
+        "Conglomerate Diversification",
+        "Horizontal Diversification",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T05:14:06.78531+00:00"
+},
+{
+    "id": 13054,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in environmental stability (ES) & competitive advantage (CA) is -5 & -1, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Competitive",
+        "Defensive",
+        "Aggressive",
+        "Conservative"
+    ],
+    "created_at": "2026-06-22T05:14:15.117843+00:00"
+},
+{
+    "id": 13057,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following strategy must obey the given guidelines like “firm is very successful at what it does and untapped or unsaturated markets”?",
+    "op": [
+        "None of the given options",
+        "Market development",
+        "Product development",
+        "Market penetration"
+    ],
+    "created_at": "2026-06-22T05:14:25.075856+00:00"
+},
+{
+    "id": 13058,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is a decentralized activity that directly involves all managers in an organization?",
+    "op": [
+        "Establishing shot-term objectives",
+        "Establishing semi-annual objectives",
+        "Establishing annual objectives",
+        "Establishing long-term objectives"
+    ],
+    "created_at": "2026-06-22T05:14:27.919481+00:00"
+},
+{
+    "id": 13059,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following situations are conducive to market development EXCEPT:",
+    "op": [
+        "When an organization has excess production capacity",
+        "When new channels of distribution are expensive",
+        "When new untapped or unsaturated markets exist",
+        "When an organization’s basic industry is becoming rapidly global"
+    ],
+    "created_at": "2026-06-22T05:14:53.799537+00:00"
+},
+{
+    "id": 13063,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in financial strength (FS) & industry strength (IS) is +4 & +4, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Aggressive",
+        "Competitive",
+        "Defensive",
+        "Conservative"
+    ],
+    "created_at": "2026-06-22T05:15:32.387905+00:00"
+},
+{
+    "id": 13065,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to the Grand Strategy Matrix, in which quadrant organizations have a strong competitive position but are in a slow-growth industry?",
+    "op": [
+        "III",
+        "IV",
+        "I",
+        "II"
+    ],
+    "created_at": "2026-06-22T05:15:45.235784+00:00"
+},
+{
+    "id": 13068,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is a defensive strategy that involves the reduction of costs and assets by a company in order to survive and recover from declining profits?",
+    "op": [
+        "Retrenchment",
+        "Liquidation",
+        "Divestiture",
+        "Low cost"
+    ],
+    "created_at": "2026-06-22T05:16:16.010818+00:00"
+},
+{
+    "id": 13069,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If “Bonus” washing powder is produced with the lowest cost as compared to other washing powders to acquire competitive edge, then the management of this brand is using:",
+    "op": [
+        "Cost Leadership Strategies",
+        "Focus Strategies",
+        "Differentiation Strategies",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T05:16:21.82301+00:00"
+},
+{
+    "id": 13071,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is an assumption of slow market penetration strategy?",
+    "op": [
+        "Launching in a new area",
+        "Excess production capacity",
+        "Untapped market",
+        "Lower price but unchanged promotional activities"
+    ],
+    "created_at": "2026-06-22T05:16:37.484516+00:00"
+},
+{
+    "id": 13073,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Wal-Mart opened 60 stores in China in 2015 and plans to nearly double that number in 2016. Wal-Mart is pursuing which one of the following type of strategies?",
+    "op": [
+        "Product development",
+        "Market penetration",
+        "Market development",
+        "Forward integration"
+    ],
+    "created_at": "2026-06-22T05:16:52.345346+00:00"
+},
+{
+    "id": 13074,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is NOT a part of resource allocation plan?",
+    "op": [
+        "None of the given options",
+        "Primary allocation mechanism",
+        "Basic allocation decision",
+        "Contingency mechanisms"
+    ],
+    "created_at": "2026-06-22T05:16:58.73603+00:00"
+},
+{
+    "id": 13075,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the steps for the development of IE matrix EXCEPT:",
+    "op": [
+        "Plot EFE total weighted scores on the y axis",
+        "Determine the quadrant where position vector lies",
+        "Determine the region into which the division falls",
+        "Plot IFE total weighted scores on the x-axis"
+    ],
+    "created_at": "2026-06-22T05:17:04.79227+00:00"
+},
+{
+    "id": 13076,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "When a division of an organization has a high relative market share and is in a fast-growing industry, it will be categorized as which type in BCG matrix?",
+    "op": [
+        "Star",
+        "Question mark",
+        "Dog",
+        "Cash cow"
+    ],
+    "created_at": "2026-06-22T05:17:12.542918+00:00"
+},
+{
+    "id": 13453,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What is the most complex form of organizational structure?",
+    "op": [
+        "Divisional",
+        "Functional",
+        "Matrix",
+        "Strategic business unit"
+    ],
+    "created_at": "2026-06-22T06:16:03.390245+00:00"
+},
+{
+    "id": 13454,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is a deliberate plan of action, guidelines, methods, procedures to guide decisions and achieve rational outcome?",
+    "op": [
+        "Policies",
+        "Strategies",
+        "Annual objectives",
+        "Goals"
+    ],
+    "created_at": "2026-06-22T06:16:23.94559+00:00"
+},
+{
+    "id": 13455,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Most likely, what was the cash cow in the past?",
+    "op": [
+        "Dog",
+        "Failure",
+        "Star",
+        "Question mark"
+    ],
+    "created_at": "2026-06-22T06:16:29.08502+00:00"
+},
+{
+    "id": 13456,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If ‘Rafhan Foods’ launches a new brand of shoes, what will this strategy be called?",
+    "op": [
+        "Divestiture",
+        "Conglomerate Diversification",
+        "Retrenchment",
+        "Concentric Diversification"
+    ],
+    "created_at": "2026-06-22T06:16:35.494635+00:00"
+},
+{
+    "id": 13458,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Firms in quadrant-IV of grand strategy matrix have which of the following characteristics?",
+    "op": [
+        "Slow market growth and strong competitive position",
+        "Rapid market growth and weak competitive position",
+        "Slow market growth and weak competitive position",
+        "Rapid market growth and strong competitive position"
+    ],
+    "created_at": "2026-06-22T06:16:47.913032+00:00"
+},
+{
+    "id": 13459,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "“Sets of strategies can be examined sequentially or simultaneously” is one of the positive features of which one of the following matrix?",
+    "op": [
+        "QSPM",
+        "GS Matrix",
+        "SPACE Matrix",
+        "BCG"
+    ],
+    "created_at": "2026-06-22T06:16:55.35729+00:00"
+},
+{
+    "id": 13549,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In BCG matrix, identify the right quadrant for “Dogs”.",
+    "op": [
+        "Quadrant I",
+        "Quadrant IV",
+        "Quadrant III",
+        "Quadrant II"
+    ],
+    "created_at": "2026-06-22T06:26:07.770516+00:00"
+},
+{
+    "id": 13550,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which stage of the strategy-formulation framework focuses on generating feasible alternative strategies?",
+    "op": [
+        "Output",
+        "Input",
+        "Decision",
+        "Matching"
+    ],
+    "created_at": "2026-06-22T06:26:17.590912+00:00"
+},
+{
+    "id": 13562,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following are the two external dimensions to be considered in SPACE Matrix?",
+    "op": [
+        "Industrial strength and competitive advantage",
+        "Industrial strength and Financial strength",
+        "Environmental stability and competitive advantage",
+        "Environmental stability and industrial strength"
+    ],
+    "created_at": "2026-06-22T06:27:09.75238+00:00"
+},
+{
+    "id": 13573,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following would be considered as weaknesses to a business EXCEPT:",
+    "op": [
+        "Limited industry expertise",
+        "Brand name",
+        "Maturing markets",
+        "Limited financial resources"
+    ],
+    "created_at": "2026-06-22T06:27:33.32632+00:00"
+},
+{
+    "id": 13597,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Unilever has sold out its food business (Dalda ghee/oil) is an example of?",
+    "op": [
+        "Liquidation",
+        "Divestiture",
+        "Retrenchment",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T06:28:36.904472+00:00"
+},
+{
+    "id": 13869,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which stage of the \"Strategy Formulation Framework\" includes an External Factor Evaluation Matrix and a Competitive Profile Matrix?",
+    "op": [
+        "Decision stage",
+        "Input stage",
+        "Matching stage",
+        "Output stage"
+    ],
+    "created_at": "2026-06-22T06:41:57.426474+00:00"
+},
+{
+    "id": 13871,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The three basic \"value disciplines\" that can create customer value and provide a competitive advantage includes all EXCEPT?",
+    "op": [
+        "Product innovation",
+        "Customer intimacy",
+        "Operational excellence",
+        "Focus"
+    ],
+    "created_at": "2026-06-22T06:42:00.326909+00:00"
+},
+{
+    "id": 13875,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Adding new, but related, products or services is widely called/known as?",
+    "op": [
+        "Horizontal diversification",
+        "None of the given options",
+        "Concentric diversification",
+        "Conglomerate diversification"
+    ],
+    "created_at": "2026-06-22T06:42:05.208981+00:00"
+},
+{
+    "id": 13879,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Strategies that are designed to appeal customers with a special sensitivity for a particular product attribute are dependent on which of the following?",
+    "op": [
+        "Niche strategy",
+        "Low cost strategy",
+        "Differentiation strategy",
+        "Focus strategy"
+    ],
+    "created_at": "2026-06-22T06:42:10.484306+00:00"
+},
+{
+    "id": 13881,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the types of resources that an organization can use to achieve its desired objectives EXCEPT:",
+    "op": [
+        "Physical resources",
+        "Marketing resources",
+        "Financial resources",
+        "Human resources"
+    ],
+    "created_at": "2026-06-22T06:42:12.198182+00:00"
+},
+{
+    "id": 13885,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Restructuring is also known as:",
+    "op": [
+        "Up-sizing",
+        "Integrating",
+        "Diversifying",
+        "Delayering"
+    ],
+    "created_at": "2026-06-22T06:42:19.69201+00:00"
+},
+{
+    "id": 13889,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the effective strategy when a firm has a strong management team.",
+    "op": [
+        "Retrenchment",
+        "Related diversification",
+        "Unrelated diversification",
+        "Horizontal diversification"
+    ],
+    "created_at": "2026-06-22T06:42:29.98582+00:00"
+},
+{
+    "id": 13896,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What term refers to selling a division of an organization?",
+    "op": [
+        "Joint venture",
+        "Horizontal integration",
+        "Liquidation",
+        "Divestiture"
+    ],
+    "created_at": "2026-06-22T06:42:38.439709+00:00"
+},
+{
+    "id": 13907,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What strategies are appropriate for the divisions that fall in grow and build region of IE matrix?",
+    "op": [
+        "Defensive and diversification strategies",
+        "Defensive and integrative strategies",
+        "Diversification and intensive strategies",
+        "Intensive and integrative strategies"
+    ],
+    "created_at": "2026-06-22T06:42:50.499853+00:00"
+},
+{
+    "id": 13908,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following are the two internal dimensions represented on the axes of the SPACE Matrix?",
+    "op": [
+        "Competitive advantage and financial strength",
+        "Financial strength and environmental stability",
+        "Industrial  strength and competitive advantage",
+        "Environmental stability and industrial strength"
+    ],
+    "created_at": "2026-06-22T06:42:56.018192+00:00"
+},
+{
+    "id": 14105,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is the characteristic of Question marks?",
+    "op": [
+        "Low cash generation",
+        "No-market-growth industry",
+        "Excess cash generation",
+        "Opportunities for growth"
+    ],
+    "created_at": "2026-06-22T06:52:20.218446+00:00"
+},
+{
+    "id": 14113,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "On the y-axis of IE Matrix, an EFE total weighted score of 3.97 is considered what?",
+    "op": [
+        "High",
+        "Weak",
+        "Medium",
+        "Low"
+    ],
+    "created_at": "2026-06-22T06:52:35.253893+00:00"
+},
+{
+    "id": 14302,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Majority of the businesses follow which of the following organizational structure?",
+    "op": [
+        "Matrix structure",
+        "Divisional structure",
+        "Strategic business unit",
+        "Functional structure"
+    ],
+    "created_at": "2026-06-22T07:00:32.459223+00:00"
+},
+{
+    "id": 14303,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The strategy embraced by Ahmad Bros. is to address the needs of a very selected and specialized market segment. That is most likely to engage in which one of the following types of strategy?",
+    "op": [
+        "Low cost strategy",
+        "Differentiation strategy",
+        "Focus strategy",
+        "Generic strategy"
+    ],
+    "created_at": "2026-06-22T07:00:35.823803+00:00"
+},
+{
+    "id": 14306,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is NOT a Corporate level objective?",
+    "op": [
+        "Achieving return on investment of at least 15%",
+        "Aiming to achieve a market share of 10%",
+        "Increase earnings per share by at least 10% every year",
+        "Attaining operating profit of over Rs.10 million"
+    ],
+    "created_at": "2026-06-22T07:00:40.611361+00:00"
+},
+{
+    "id": 14309,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Retrenchment, divestiture, and liquidation are best known as?",
+    "op": [
+        "None of the given options",
+        "Defensive strategies",
+        "Growth strategies",
+        "Intensive strategies"
+    ],
+    "created_at": "2026-06-22T07:00:46.551029+00:00"
+},
+{
+    "id": 14703,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the Important strategy-formulation techniques in stage-3 (Decision stage) in a comprehensive strategy formulation framework.",
+    "op": [
+        "QSPM",
+        "SPACE Matrix",
+        "BCG Matrix",
+        "TWOS Matrix"
+    ],
+    "created_at": "2026-06-22T07:22:12.371398+00:00"
+},
+{
+    "id": 14709,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Adding new, unrelated products or services for present customers is known as?",
+    "op": [
+        "Horizontal diversification",
+        "Conglomerate diversification",
+        "None of the given options",
+        "Concentric diversification"
+    ],
+    "created_at": "2026-06-22T07:22:31.483081+00:00"
+},
+{
+    "id": 14717,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT considered a type of diversification strategy?",
+    "op": [
+        "Focus diversification",
+        "Horizontal diversification",
+        "Conglomerate diversification",
+        "Concentric diversification"
+    ],
+    "created_at": "2026-06-22T07:22:57.25915+00:00"
+},
+{
+    "id": 14718,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are Porter's Generic Strategies EXCEPT:",
+    "op": [
+        "Differentiation",
+        "Cost leadership",
+        "Hybrid",
+        "Focus"
+    ],
+    "created_at": "2026-06-22T07:23:03.807667+00:00"
+},
+{
+    "id": 14719,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the types of cooperative arrangements EXCEPT:",
+    "op": [
+        "Joint-bidding consortia",
+        "R&D partnerships",
+        "Cross-licensing agreements",
+        "Diversification"
+    ],
+    "created_at": "2026-06-22T07:23:16.684101+00:00"
+},
+{
+    "id": 14874,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Firms located in which quadrant of the Grand Strategy Matrix are in an excellent strategic position?",
+    "op": [
+        "III",
+        "II",
+        "I",
+        "IV"
+    ],
+    "created_at": "2026-06-22T07:46:04.18791+00:00"
+},
+{
+    "id": 14876,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Cost leadership, differentiation, and focus are generic strategies of?",
+    "op": [
+        "Peter Drucker",
+        "Stephens P Robins",
+        "Michael Porter",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T07:46:16.549349+00:00"
+},
+{
+    "id": 14880,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following statements best describes the sign of weakness of a company's competitive position?",
+    "op": [
+        "A higher cost of production and higher prices of products than the rivals.",
+        "Lower revenues and increasing cost of inputs than the market-share leader.",
+        "An after-tax return-on-equity below 15% and earnings per share \nless than $1.00.",
+        "A declining market share, below standard quality products and fewer sales in market."
+    ],
+    "created_at": "2026-06-22T07:46:33.390505+00:00"
+},
+{
+    "id": 14926,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best describes product development strategy?",
+    "op": [
+        "To increase market share for present products or services in the present markets through greater marketing efforts",
+        "Seeking increased sales by improving or modifying present products or services",
+        "Introducing present products or services into new geographic areas",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-22T07:54:15.243407+00:00"
+},
+{
+    "id": 14931,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What are the four dimensions of a SPACE matrix?",
+    "op": [
+        "Environmental stability; Industrial strength; Market growth rate; Market share",
+        "Environmental stability; Industrial strength; Competitive advantage; Financial strength",
+        "Environmental stability; Industrial strength; Competitive advantage; Market growth rate",
+        "Industrial strength; Competitive advantage; financial strength; Market share"
+    ],
+    "created_at": "2026-06-22T07:55:09.466388+00:00"
+},
+{
+    "id": 14932,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What is represented by the pie slice in BCG matrix?",
+    "op": [
+        "Proportion of corporate profits generated by the division",
+        "Financial strength of the division in relation to other divisions",
+        "Competitive position possessed by that division",
+        "Relative market share captured by that division"
+    ],
+    "created_at": "2026-06-22T07:55:13.251927+00:00"
+},
+{
+    "id": 14933,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following stages of strategy formulation framework involves developing Internal-External (IE) Matrix?",
+    "op": [
+        "Input stage",
+        "Output stage",
+        "Matching stage",
+        "Decision stage"
+    ],
+    "created_at": "2026-06-22T07:55:35.150473+00:00"
+},
+{
+    "id": 14934,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to Michael Treacy and Fred Wiersema, which one of the following is/are considered as the basic \"value disciplines\"?",
+    "op": [
+        "Product innovation",
+        "Customer intimacy",
+        "Operational excellence",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-22T07:55:53.167018+00:00"
+},
+{
+    "id": 14935,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A & C Corporation currently possesses a low share of its available market. Moreover, this company's portfolio reveals it has extremely low market growth. A & C Corporation is most likely to be classed as which one of the following?",
+    "op": [
+        "Cash cow",
+        "Star",
+        "Question mark",
+        "Dog"
+    ],
+    "created_at": "2026-06-22T07:56:08.929076+00:00"
+},
+{
+    "id": 14936,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following stages of \"Strategy Formulation Framework\" involves developing Internal-Factor Evaluation Matrix?",
+    "op": [
+        "Output stage",
+        "Matching stage",
+        "Input stage",
+        "Decision stage"
+    ],
+    "created_at": "2026-06-22T07:56:23.358851+00:00"
+},
+{
+    "id": 14937,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Where usage rate of present customers of the company can be increased significantly and the current markets are not saturated, which strategy would be effective for the company to follow?",
+    "op": [
+        "Retrenchment",
+        "Market Penetration",
+        "Market Development",
+        "Product Development"
+    ],
+    "created_at": "2026-06-22T07:56:35.392521+00:00"
+},
+{
+    "id": 14938,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "On the x-axis of IE Matrix, an IFE total weighted score of 1.50 depicts what?",
+    "op": [
+        "A weak internal position",
+        "A low internal position",
+        "An average internal position",
+        "A strong internal position"
+    ],
+    "created_at": "2026-06-22T07:56:46.616093+00:00"
+},
+{
+    "id": 15071,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In BCG matrix, identify the right quadrant for “Cash Cows”.",
+    "op": [
+        "Quadrant IV",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant I"
+    ],
+    "created_at": "2026-06-22T08:21:53.130886+00:00"
+},
+{
+    "id": 15073,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Dell Inc. began producing smart phones, which are similar to Apple’s iPhone. Dell Inc. is following which one of the following type of strategy?",
+    "op": [
+        "Horizontal diversification",
+        "Unrelated diversification",
+        "Product development",
+        "Related diversification"
+    ],
+    "created_at": "2026-06-22T08:22:09.044039+00:00"
+},
+{
+    "id": 15078,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Cola Next introduces its products in the Gilgit-Baltistan region is an example of?",
+    "op": [
+        "Market development",
+        "None of the given options",
+        "Product development",
+        "Market penetration"
+    ],
+    "created_at": "2026-06-22T08:22:29.687031+00:00"
+},
+{
+    "id": 15112,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If ‘Rafhan Foods’ launches a new ‘Kheer’ recipe in its custard brand series, it will be an example of which strategy?",
+    "op": [
+        "Divestiture",
+        "Concentric Diversification",
+        "Retrenchment",
+        "Conglomerate Diversification"
+    ],
+    "created_at": "2026-06-22T08:29:32.530101+00:00"
+},
+{
+    "id": 15113,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A firm’s division with a high relative market share position in a low-growth industry can be referred to which of the following category?",
+    "op": [
+        "Star",
+        "Dog",
+        "Question mark",
+        "Cash cow"
+    ],
+    "created_at": "2026-06-22T08:29:53.242585+00:00"
+},
+{
+    "id": 15115,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Business units that have low market share and are operating in slow-growing industry should choose all of the following EXCEPT:",
+    "op": [
+        "New investments",
+        "Distribution efficiency",
+        "Production efficiency",
+        "Product innovation"
+    ],
+    "created_at": "2026-06-22T08:30:01.003233+00:00"
+},
+{
+    "id": 15117,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Following are the examples of actions taken while implementing strategies EXCEPT:",
+    "op": [
+        "Establishing cost-control procedures",
+        "Developing financial budgets",
+        "Altering sales territories",
+        "Conducting the SWOT analysis"
+    ],
+    "created_at": "2026-06-22T08:30:06.871564+00:00"
+},
+{
+    "id": 15146,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In the SPACE analysis, what does (-1, -5) strategy profile portray?",
+    "op": [
+        "A highly competitive firm operating in an unstable environment",
+        "A financially strong firm operating in an unstable environment",
+        "A firm with weak competitiveness operating in stable environment",
+        "A highly competitive firm operating in a weak industry"
+    ],
+    "created_at": "2026-06-22T08:39:34.34683+00:00"
+},
+{
+    "id": 15150,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In the SPACE analysis, what does (+6, +3) strategy profile portray?",
+    "op": [
+        "A stable environment with strong financial strength",
+        "A strong industry with strong financial strength",
+        "A stable environment for highly competitive firm",
+        "A strong industry operating in stable environment"
+    ],
+    "created_at": "2026-06-22T08:40:32.872265+00:00"
+},
+{
+    "id": 15151,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The Strategic Position and Action Evaluation (SPACE) Matrix falls in which one of the following stages in comprehensive strategy formulation framework?",
+    "op": [
+        "Stage-2 (Matching stage)",
+        "Stage-3 (Decision stage)",
+        "Stage-1 (Input stage)",
+        "Stage-1 & 2"
+    ],
+    "created_at": "2026-06-22T08:41:26.32438+00:00"
+},
+{
+    "id": 15152,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The SPACE matrix of XYZ company shows that the coordinates of its directional vector are (-5, -5). What strategy would you recommend for the ABC Company?",
+    "op": [
+        "Concentric diversification",
+        "Joint venture",
+        "Backward integration",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T08:41:42.555995+00:00"
+},
+{
+    "id": 15153,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The last remedy for Quadrant II firm is to follow which strategy?",
+    "op": [
+        "Divestiture",
+        "Market development",
+        "Forward integration",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-22T08:41:55.6376+00:00"
+},
+{
+    "id": 15193,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is NOT an advantage of a functional structure?",
+    "op": [
+        "Quick access to technical expertise",
+        "Centralized decision making and accountability",
+        "Excellent Communication and coordination",
+        "Increased capacity for specialization"
+    ],
+    "created_at": "2026-06-22T08:53:15.09134+00:00"
+},
+{
+    "id": 15197,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following are Porter's generic strategies?",
+    "op": [
+        "Low price, differentiation, focus",
+        "Price leadership, differentiation, focus",
+        "Low cost, differentiation, focus differentiation",
+        "Cost leadership, differentiation, focus"
+    ],
+    "created_at": "2026-06-22T08:53:36.74627+00:00"
+},
+{
+    "id": 15218,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In the SPACE analysis, what does (+7, -6) coordinates depict?",
+    "op": [
+        "A highly competitive firm operating in an unstable environment",
+        "A firm operating in a strong industry with an unstable environment",
+        "A financially strong firm operating in an unstable environment",
+        "A firm operating in a strong industry with a stable environment"
+    ],
+    "created_at": "2026-06-22T09:05:34.222976+00:00"
+},
+{
+    "id": 15302,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is a strategy in which companies create a co-owned business that operates for their mutual benefit?",
+    "op": [
+        "Joint venture",
+        "Retrenchment",
+        "Divestiture",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T09:24:08.055572+00:00"
+},
+{
+    "id": 15310,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The Internal-External (IE) Matrix falls in which one of the following stages in comprehensive strategy formulation framework?",
+    "op": [
+        "Stage-3 (Decision stage)",
+        "Stage-1 & 2",
+        "Stage-1 (Input stage)",
+        "Stage-2 (Matching stage)"
+    ],
+    "created_at": "2026-06-22T09:24:42.084169+00:00"
+},
+{
+    "id": 15312,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is more concerned with employee and customer well-being than shareholder well-being?",
+    "op": [
+        "Benchmarking",
+        "E-engineering",
+        "Reengineering",
+        "Restructuring"
+    ],
+    "created_at": "2026-06-22T09:24:59.746038+00:00"
+},
+{
+    "id": 15394,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is not an approach to resolve conflicts?",
+    "op": [
+        "Ignorance",
+        "Diffusion",
+        "Avoidance",
+        "Confrontation"
+    ],
+    "created_at": "2026-06-22T09:40:53.590373+00:00"
+},
+{
+    "id": 15395,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Identify the effective strategy when a firm’s products are currently in the declining stage of the product’s life cycle.",
+    "op": [
+        "Horizontal diversification",
+        "Related diversification",
+        "Retrenchment",
+        "Unrelated diversification"
+    ],
+    "created_at": "2026-06-22T09:41:09.261054+00:00"
+},
+{
+    "id": 15398,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which cell of the SWOT Matrix involves matching internal strengths with external opportunities?",
+    "op": [
+        "The SO cell",
+        "The SW cell",
+        "The ST cell",
+        "The WT cell"
+    ],
+    "created_at": "2026-06-22T09:43:03.373207+00:00"
+},
+{
+    "id": 15404,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The concentration of firms to select few target markets is known as?",
+    "op": [
+        "None of the given options",
+        "Focus strategy",
+        "Differentiation stratgey",
+        "Cost leadership strategy"
+    ],
+    "created_at": "2026-06-22T09:44:48.418521+00:00"
+},
+{
+    "id": 15405,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which strategic management analytical tool has four quadrants based on two dimensions i.e. competitive position and market growth?",
+    "op": [
+        "SPACE Matrix",
+        "Internal-External Matrix",
+        "Grand Strategy Matrix",
+        "QSPM"
+    ],
+    "created_at": "2026-06-22T09:45:21.877406+00:00"
+},
+{
+    "id": 15480,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Smoothies Tire & Rubber Co. is selling its North American tire business to Avinza International, it is an example of which one of the following type of strategies?",
+    "op": [
+        "Retrenchment",
+        "Divestiture",
+        "Liquidation",
+        "Related diversification"
+    ],
+    "created_at": "2026-06-22T10:02:47.689405+00:00"
+},
+{
+    "id": 15481,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The number of personnel that a supervisor is responsible for is known as:",
+    "op": [
+        "Command and control",
+        "Scope of supervision",
+        "Organizational structure",
+        "Span of control"
+    ],
+    "created_at": "2026-06-22T10:03:09.529268+00:00"
+},
+{
+    "id": 15646,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In Grand strategy matrix what will be the appropriate quadrant for the Ahmad textiles if it is operating in slow growing market and holds weak competitive position?",
+    "op": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV",
+        "Quadrant II"
+    ],
+    "created_at": "2026-06-22T11:08:16.243817+00:00"
+},
+{
+    "id": 15648,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Firm located in aggressive quadrant of a SPACE matrix is recommended to practice any of the following strategies EXCEPT:",
+    "op": [
+        "Concentric diversification",
+        "Forward integration",
+        "Market penetration",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T11:08:54.168593+00:00"
+},
+{
+    "id": 15707,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Rapid market penetration strategy is based on which of the following assumptions?",
+    "op": [
+        "Higher price and increased promotional activities",
+        "Lower price and reduced promotional activities",
+        "Higher price and reduced promotional activities",
+        "Lower price and increased promotional activities"
+    ],
+    "created_at": "2026-06-22T11:19:55.987396+00:00"
+},
+{
+    "id": 15709,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is NOT an advantage of QSPM?",
+    "op": [
+        "Can be used by large as well as small firms.",
+        "No limit for number of strategies to be evaluated.",
+        "Sets of strategies can be examined simultaneously.",
+        "It integrates only external factors in decision process."
+    ],
+    "created_at": "2026-06-22T11:20:11.590847+00:00"
+},
+{
+    "id": 15712,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following is not considered as a Michael Porter generic strategy?",
+    "op": [
+        "Differentiation",
+        "Cost leadership",
+        "Focus",
+        "Integration"
+    ],
+    "created_at": "2026-06-22T11:20:23.108761+00:00"
+},
+{
+    "id": 15713,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following would be considered while judging the financial strength of an organization EXCEPT:",
+    "op": [
+        "Market share",
+        "Cash-flow statement",
+        "Return on Investment",
+        "Increase in revenues"
+    ],
+    "created_at": "2026-06-22T11:20:30.84863+00:00"
+},
+{
+    "id": 15724,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The brand “Djuice” is a unique product in the sense that it exclusively targets the specific niche or segment of ‘youth influenced from the Western/American culture’, the strategy used in designing this product is:",
+    "op": [
+        "Cost Leadership Strategies",
+        "Integration Strategies",
+        "None of the given options",
+        "Focus Strategies"
+    ],
+    "created_at": "2026-06-22T11:23:41.580506+00:00"
+},
+{
+    "id": 15727,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "PepsiCo Inc. is spending $2 billion in China from 2013 to 2016 to build more plants, specifically in western and interior areas of China. PepsiCo Inc. is pursuing which one of the following type of strategies?",
+    "op": [
+        "Product development",
+        "Forward integration",
+        "Market penetration",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T11:25:05.27691+00:00"
+},
+{
+    "id": 15729,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is the first step in developing QSPM?",
+    "op": [
+        "Examine the Stage 2 matrices and identify alternative strategies.",
+        "Developing a list of the firm’s key external and internal factors.",
+        "Assigning weights to each key external and internal factor.",
+        "Determining the Attractiveness Scores for each strategy."
+    ],
+    "created_at": "2026-06-22T11:25:31.224761+00:00"
+},
+{
+    "id": 15730,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following strategies is referred as presenting products, often with a little or no modification, to customers in related marketing areas?",
+    "op": [
+        "Market penetration",
+        "Horizontal integration",
+        "Market development",
+        "Product development"
+    ],
+    "created_at": "2026-06-22T11:25:37.494114+00:00"
+},
+{
+    "id": 15803,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Apple Inc., seeking to increase its stores up to 200 around the world. It is following which one of the following type of strategies?",
+    "op": [
+        "Market penetration",
+        "Backward integration",
+        "Forward integration",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-22T12:03:36.984774+00:00"
+},
+{
+    "id": 15804,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following are two negative-rated dimensions on SPACE Matrix?",
+    "op": [
+        "FS and IS",
+        "CA and ES",
+        "IS and ES",
+        "FS and CA"
+    ],
+    "created_at": "2026-06-22T12:03:48.755567+00:00"
+},
+{
+    "id": 15807,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following depicts  the signs of strength of a company's competitive position?",
+    "op": [
+        "A debt-to-asset ratio below 0.50 and higher EPS.",
+        "A strongly differentiated product, a strong or rising market share.",
+        "A website with extensive information about the company and its product line.",
+        "An annual R&D and advertising expenditures greater than $10 million."
+    ],
+    "created_at": "2026-06-22T12:04:33.681467+00:00"
+},
+{
+    "id": 15848,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Where an organization is considering development in an existing market with existing products it is pursuing which of the following strategy?",
+    "op": [
+        "Market penetration",
+        "Market development",
+        "Diversification",
+        "Product development"
+    ],
+    "created_at": "2026-06-22T12:25:03.959594+00:00"
+},
+{
+    "id": 15855,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following are the indicators of industry strength for an organization EXCEPT:",
+    "op": [
+        "Geographic and product freedom",
+        "Ease of entry into the market",
+        "Control over suppliers",
+        "Financial stability"
+    ],
+    "created_at": "2026-06-22T12:27:24.345272+00:00"
+},
+{
+    "id": 15928,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Swan Shoes is a company that specializes in manufacturing stylish shoes. Its managers are trying to answer such questions as: What is the current situation of the company? Swan Shoes is most likely to conduct which one of the following?",
+    "op": [
+        "TOWS analysis",
+        "WT analysis",
+        "WS analysis",
+        "OS analysis"
+    ],
+    "created_at": "2026-06-22T12:43:21.536026+00:00"
+},
+{
+    "id": 15929,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Adding new, unrelated products or services for present customers is called/known as?",
+    "op": [
+        "Concentric diversification",
+        "None of the given options",
+        "Conglomerate diversification",
+        "Horizontal diversification"
+    ],
+    "created_at": "2026-06-22T12:43:43.081571+00:00"
+},
+{
+    "id": 15930,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In BCG growth-share matrix, which of the following would be most likely to possess a low market share and a high growth rate?",
+    "op": [
+        "Cash cow",
+        "Dog",
+        "Star",
+        "Question mark"
+    ],
+    "created_at": "2026-06-22T12:44:39.846543+00:00"
+},
+{
+    "id": 16025,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "All of the following would be considered organizational skills and resources that will be used in differentiation strategy EXCEPT which one?",
+    "op": [
+        "Products designed for ease of manufacture",
+        "Creative, talented and skilled personnel",
+        "Strong research and development department",
+        "Corporate reputation for quality and reliability"
+    ],
+    "created_at": "2026-06-22T13:29:51.132643+00:00"
+},
+{
+    "id": 16026,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following best describes the market penetration strategy?",
+    "op": [
+        "None of the given options",
+        "Introducing present products or services into new geographic areas",
+        "To increase market share for present products or services in the present markets through greater marketing efforts",
+        "Seeking increased sales by improving or modifying present products or services"
+    ],
+    "created_at": "2026-06-22T13:29:58.969102+00:00"
+},
+{
+    "id": 16027,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What can be the limitation of QSPM?",
+    "op": [
+        "The cost of doing the analysis is very high.",
+        "Only a few strategies can be evaluated simultaneously.",
+        "Intuitive judgments and educated assumption are required.",
+        "It requires equal participation of everyone in organization."
+    ],
+    "created_at": "2026-06-22T13:30:13.20875+00:00"
+},
+{
+    "id": 16052,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "According to the Grand Strategy Matrix, which strategy is recommended for a firm with rapid market growth and a strong competitive position?",
+    "op": [
+        "Retrenchment",
+        "Conglomerate diversification",
+        "Market penetration",
+        "Joint venture"
+    ],
+    "created_at": "2026-06-22T13:41:06.042044+00:00"
+},
+{
+    "id": 16053,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Microsoft is opening its own retail stores. It is following which one of the following type of strategies?",
+    "op": [
+        "Forward integration",
+        "Backward integration",
+        "Market penetration",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-22T13:41:12.326766+00:00"
+},
+{
+    "id": 16054,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Focus strategy is also called:",
+    "op": [
+        "Magnifying Strategy",
+        "Niche Strategy",
+        "None of the given options",
+        "Cost Leadership Strategy"
+    ],
+    "created_at": "2026-06-22T13:41:25.17887+00:00"
+},
+{
+    "id": 16056,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Selling all of a company’s assets in parts for their tangible worth is known as:",
+    "op": [
+        "Joint venture",
+        "Liquidation",
+        "Integration",
+        "Divestiture"
+    ],
+    "created_at": "2026-06-22T13:41:38.677287+00:00"
+},
+{
+    "id": 16074,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A position vector with (-6, +6) coordinates describes which of the following statements regarding SPACE analysis matrix?",
+    "op": [
+        "A financially strong firm but competitively weak",
+        "A financially as well as competitively weak firm",
+        "A financially strong and highly competitively firm",
+        "A financially weak and highly competitively firm"
+    ],
+    "created_at": "2026-06-22T13:52:50.88266+00:00"
+},
+{
+    "id": 16075,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "A strategy that seeks increased sales by improving or modifying present products or services is known as?",
+    "op": [
+        "Product development",
+        "None of the given options",
+        "Market penetration",
+        "Market development"
+    ],
+    "created_at": "2026-06-22T13:52:57.770122+00:00"
+},
+{
+    "id": 16086,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following type of strategy may be effective only when a division of an organization is responsible for overall poor performance?",
+    "op": [
+        "Product development",
+        "Liquidation",
+        "Retrenchment",
+        "Divestiture"
+    ],
+    "created_at": "2026-06-22T14:01:28.884159+00:00"
+},
+{
+    "id": 16087,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following generic strategy is adopted by Walmart inc?",
+    "op": [
+        "Differentiation",
+        "Focus",
+        "None of the given options",
+        "Cost leadership"
+    ],
+    "created_at": "2026-06-22T14:02:00.75552+00:00"
+},
+{
+    "id": 16226,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The reason to develop QSPM is to evaluate the alternative strategies derived from all of these EXCEPT:",
+    "op": [
+        "CPM Matrix",
+        "Space Matrix",
+        "BCG Matrix",
+        "Grand Strategy Matrix"
+    ],
+    "created_at": "2026-06-22T15:21:53.764206+00:00"
+},
+{
+    "id": 16274,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What will be the location of a firm in Grand strategy matrix, if it is operating in rapidly growing market and holds weak competitive position?",
+    "op": [
+        "Quadrant II",
+        "Quadrant I",
+        "Quadrant IV",
+        "Quadrant III"
+    ],
+    "created_at": "2026-06-22T15:55:13.508894+00:00"
+},
+{
+    "id": 16357,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following factors can predict the stability or non-stability of the environment, the firm is operating in?",
+    "op": [
+        "Customer loyalty",
+        "Financial stability",
+        "Rate of inflation",
+        "Ease of exit from market"
+    ],
+    "created_at": "2026-06-22T17:03:28.373645+00:00"
+},
+{
+    "id": 16358,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "The external environmental trends and events that could significantly harm an organization in the future may be known as:",
+    "op": [
+        "Threats",
+        "Weaknesses",
+        "Strengths",
+        "Opportunities"
+    ],
+    "created_at": "2026-06-22T17:04:28.302631+00:00"
+},
+{
+    "id": 16363,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following strategy should be perused first by the Irtiza Insurance Company as it is located in Quadrant III of the Grand Strategy Matrix?",
+    "op": [
+        "Diversification",
+        "Divestiture",
+        "Retrenchment",
+        "Liquidation"
+    ],
+    "created_at": "2026-06-22T17:09:39.784358+00:00"
+},
+{
+    "id": 16364,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which term is preferable to be incorporated into written objective statements?",
+    "op": [
+        "10% increased production",
+        "Maximize profits",
+        "Adequate capacity",
+        "Minimize loss"
+    ],
+    "created_at": "2026-06-22T17:09:46.980333+00:00"
+},
+{
+    "id": 16365,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "If the average score of a firm in environmental stability (ES) & competitive advantage (CA) is -1 & -5, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Competitive",
+        "Defensive",
+        "Aggressive",
+        "Conservative"
+    ],
+    "created_at": "2026-06-22T17:09:54.036755+00:00"
+},
+{
+    "id": 16367,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "An organization’s division that has a low relative market share position and competes in a slow-growth industry is known as:",
+    "op": [
+        "Cash cow",
+        "Dog",
+        "Star",
+        "Question mark"
+    ],
+    "created_at": "2026-06-22T17:10:02.783769+00:00"
+},
+{
+    "id": 16369,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "What type of strategies would you recommend when a firm’s SPACE Matrix directional vector has coordinates (-2, +3)?",
+    "op": [
+        "Conservative",
+        "Aggressive",
+        "Competitive",
+        "Defensive"
+    ],
+    "created_at": "2026-06-22T17:11:18.156585+00:00"
+},
+{
+    "id": 16444,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following is best identified as being an adaptation of the divisional structure?",
+    "op": [
+        "Strategic business units",
+        "None of the given options",
+        "Joint venture",
+        "Vertical Integration"
+    ],
+    "created_at": "2026-06-22T17:59:34.59371+00:00"
+},
+{
+    "id": 16445,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "In BCG matrix, identify the right quadrant for “Stars”.",
+    "op": [
+        "Quadrant IV",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant I"
+    ],
+    "created_at": "2026-06-22T17:59:55.813161+00:00"
+},
+{
+    "id": 16448,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "‘Harvest or divest’ is one of the major regions of which of the following?",
+    "op": [
+        "Grand Strategy Matrix",
+        "SPACE Matrix",
+        "Internal-External Matrix",
+        "Competitive Profile Matrix"
+    ],
+    "created_at": "2026-06-22T18:04:35.81942+00:00"
+},
+{
+    "id": 16449,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which of the following issues may not require a management policy?",
+    "op": [
+        "To operate on, two or more shifts",
+        "To stress quality control greatly",
+        "To discourage insider trading",
+        "To increase motivational level"
+    ],
+    "created_at": "2026-06-22T18:04:53.970331+00:00"
+},
+{
+    "id": 16450,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "22 June 2026",
+    "qt": "Which one of the following type of strategy that is also known as turnaround or reorganizational strategy?",
+    "op": [
+        "Product development",
+        "Liquidation",
+        "Divestiture",
+        "Retrenchment"
+    ],
+    "created_at": "2026-06-22T18:05:00.657063+00:00"
+},
+{
+    "id": 16773,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which organizational structure has ambiguous roles for senior executives as a major disadvantage?",
+    "op": [
+        "Functional structure",
+        "Strategic business unit",
+        "Matrix structure",
+        "Divisional structure"
+    ],
+    "created_at": "2026-06-22T19:21:46.866518+00:00"
+},
+{
+    "id": 17183,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following strategy generally entails large research and development expenditures?",
+    "op": [
+        "Retrenchment",
+        "Product development",
+        "Forward integration",
+        "Market penetration"
+    ],
+    "created_at": "2026-06-22T21:23:51.736693+00:00"
+},
+{
+    "id": 17184,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following leads to only allowing the other to \"win\" the conflict?",
+    "op": [
+        "No concern for either side's outcomes",
+        "High concern for one's own and other party's outcomes",
+        "High concern for the other party's outcomes",
+        "High concern for one's own outcomes"
+    ],
+    "created_at": "2026-06-22T21:25:20.926958+00:00"
+},
+{
+    "id": 17185,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "When two organizations of about equal size unite to form one enterprise, which of the following takes place?",
+    "op": [
+        "Liquidation",
+        "Divestiture",
+        "Hostile takeover",
+        "Merger"
+    ],
+    "created_at": "2026-06-22T21:25:31.293578+00:00"
+},
+{
+    "id": 17186,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following strategies is not included in defensive strategies?",
+    "op": [
+        "Acquisition",
+        "Retrenchment",
+        "Liquidation",
+        "Divestiture"
+    ],
+    "created_at": "2026-06-22T21:25:40.542598+00:00"
+},
+{
+    "id": 17187,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following best describes “firm concentrates on a few selected target markets”?",
+    "op": [
+        "Cost leadership",
+        "Focus",
+        "None of the given options",
+        "Differentiation"
+    ],
+    "created_at": "2026-06-22T21:25:53.455297+00:00"
+},
+{
+    "id": 17436,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "AOL Europe is an example of?",
+    "op": [
+        "Liquidation",
+        "Divestiture",
+        "Retrenchement",
+        "Joint venture"
+    ],
+    "created_at": "2026-06-23T02:17:45.504552+00:00"
+},
+{
+    "id": 17437,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "What is the product of weights and attractiveness scores for each strategy in QSPM?",
+    "op": [
+        "Sum total attractiveness scores",
+        "Total weighted scores",
+        "Weighted scores",
+        "Total attractiveness scores"
+    ],
+    "created_at": "2026-06-23T02:18:23.822738+00:00"
+},
+{
+    "id": 17566,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "On the y-axis of the IE Matrix, an EFE total weighted score of a firm is 1.7 represents that firm has:",
+    "op": [
+        "A strong internal position",
+        "A weak internal position",
+        "A strong external position",
+        "A weak external position"
+    ],
+    "created_at": "2026-06-23T04:08:41.152335+00:00"
+},
+{
+    "id": 17687,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Input stage of strategy-formulation framework includes developing which of the following set of strategies?",
+    "op": [
+        "EFE, IE and CPM Matrix",
+        "IFE, IE and BCG Matrix",
+        "IFE, EFE and QSPM Matrix",
+        "IFE, CPM and EFE Matrix"
+    ],
+    "created_at": "2026-06-23T05:07:35.721107+00:00"
+},
+{
+    "id": 17933,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following best describes liquidation?",
+    "op": [
+        "Acquiring assets for the company",
+        "Selling a division or part of an organization",
+        "None of the given options",
+        "Selling all of a company’s assets, in parts"
+    ],
+    "created_at": "2026-06-23T06:29:55.275602+00:00"
+},
+{
+    "id": 18131,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "How many parts are there of resource allocation plan?",
+    "op": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+    ],
+    "created_at": "2026-06-23T07:06:58.187434+00:00"
+},
+{
+    "id": 18527,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If the average score of a firm in industry strength (IS) & environmental stability (ES) is +1 & -4, identify the strategic position of a firm while undertaking the SPACE Matrix.",
+    "op": [
+        "Defensive",
+        "Competitive",
+        "Conservative",
+        "Aggressive"
+    ],
+    "created_at": "2026-06-23T08:36:41.614664+00:00"
+},
+{
+    "id": 18839,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "A strategy that refers to seeking ownership of or increased control over a firm's competitors is known as?",
+    "op": [
+        "None of the given options",
+        "Vertical Integration",
+        "Conglomerate integration",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-23T11:22:25.731636+00:00"
+},
+{
+    "id": 18876,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Firm with its SPACE matrix vector in conservative quadrant may peruse all of the following strategies EXCEPT:",
+    "op": [
+        "Product development",
+        "Market penetration",
+        "Market development",
+        "Divestiture"
+    ],
+    "created_at": "2026-06-23T11:32:29.835356+00:00"
+},
+{
+    "id": 18880,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Strategy formulation techniques can be integrated into how many stages of decision making framework?",
+    "op": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+    ],
+    "created_at": "2026-06-23T11:33:24.197761+00:00"
+},
+{
+    "id": 19084,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "A Grand Strategy Matrix falls in which one of the following stages in comprehensive strategy formulation framework?",
+    "op": [
+        "Stage-1 & 2",
+        "Stage-2 (Matching stage)",
+        "Stage-3 (Decision stage)",
+        "Stage-1 (Input stage)"
+    ],
+    "created_at": "2026-06-23T13:18:20.450826+00:00"
+},
+{
+    "id": 19085,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following immediately precedes the decision regarding organizational structure?",
+    "op": [
+        "Strategy formulation",
+        "Internal environment analysis",
+        "External environment analysis",
+        "Mission statement formulation"
+    ],
+    "created_at": "2026-06-23T13:19:06.756563+00:00"
+},
+{
+    "id": 19241,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "All of the following strategies are recommended to be perused by Question Mark divisions EXCEPT:",
+    "op": [
+        "Market development",
+        "Market penetration",
+        "Product development",
+        "Horizontal integration"
+    ],
+    "created_at": "2026-06-23T13:54:10.853073+00:00"
+},
+{
+    "id": 19431,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In order to avoid the emergence of substitute products, AF & Z Corporation has obtained an access and control over the scarce natural resources necessary to produce their products. Thus, which of the following strategies is being practiced by AF & Z Corporation?",
+    "op": [
+        "WO Strategy",
+        "SO Strategy",
+        "SW Strategy",
+        "ST Strategy"
+    ],
+    "created_at": "2026-06-23T15:45:17.032254+00:00"
+},
+{
+    "id": 19433,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Generic Strategies were proposed by:",
+    "op": [
+        "Abraham Maslow",
+        "Michael Flintstone",
+        "Kevin Carter",
+        "Michael Porter"
+    ],
+    "created_at": "2026-06-23T15:48:32.273691+00:00"
+},
+{
+    "id": 19435,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Engro foods have introduced \"Omore\" Ice cream is an example of?",
+    "op": [
+        "Horizontal diversification",
+        "None of the given options",
+        "Conglomerate diversification",
+        "Concentric diversification"
+    ],
+    "created_at": "2026-06-23T15:49:15.242618+00:00"
+},
+{
+    "id": 19536,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which strategy seeks to increase market share of present products or services in present markets through greater marketing efforts?",
+    "op": [
+        "Market penetration",
+        "Product development",
+        "Backward integration",
+        "Market development"
+    ],
+    "created_at": "2026-06-23T16:34:54.173437+00:00"
+},
+{
+    "id": 19647,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is NOT a SPACE Matrix quadrant?",
+    "op": [
+        "Offensive",
+        "Defensive",
+        "Aggressive",
+        "Competitive"
+    ],
+    "created_at": "2026-06-23T18:06:54.931884+00:00"
+},
+{
+    "id": 20507,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is a Corporate level objective?",
+    "op": [
+        "Achieving a 10% share of International market",
+        "Increasing earnings per share by at least 10%",
+        "Building customer database of at least 250,000 companies",
+        "Getting 75% customer awareness of company’s brand in target markets"
+    ],
+    "created_at": "2026-06-24T04:29:58.998488+00:00"
+},
+{
+    "id": 20743,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Adding new, unrelated products or services is called/known as?",
+    "op": [
+        "Concentric diversification",
+        "None of the given options",
+        "Horizontal diversification",
+        "Conglomerate diversification"
+    ],
+    "created_at": "2026-06-24T08:17:59.71358+00:00"
+},
+{
+    "id": 20949,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "A strategy seeks to increase market share for present products or services in present markets through greater marketing efforts is known as?",
+    "op": [
+        "Market development",
+        "Market penetration",
+        "Product development",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-24T11:40:44.191651+00:00"
+},
+{
+    "id": 21098,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is NOT included in SWOT Matrix?",
+    "op": [
+        "Matching weaknesses and threats",
+        "Matching weaknesses and strengths",
+        "Matching strengths and threats",
+        "Matching weaknesses and opportunities"
+    ],
+    "created_at": "2026-06-24T16:10:36.350153+00:00"
+},
+{
+    "id": 31681,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Cash discounts, bundling, volume discounts and price discrimination are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Promotion decisions",
+        "Price decisions",
+        "Place decisions",
+        "Product decisions"
+    ],
+    "created_at": "2026-06-30T19:34:54.183579+00:00"
+},
+{
+    "id": 31686,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Ethnicity, nationality, religion and social class are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Geographic",
+        "Behavioralistic",
+        "Psychographic",
+        "Demographic"
+    ],
+    "created_at": "2026-06-30T19:35:05.894537+00:00"
+},
+{
+    "id": 31694,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the drawback of mass marketing?",
+    "op": [
+        "It reduces costs through economies of scale by the increased volume",
+        "It does not try to please all customers with same offering",
+        "It offers same offering that is likely to be viewed as optimal by all customers",
+        "It allows economies of scale to be realized through mass production"
+    ],
+    "created_at": "2026-06-30T19:35:18.345714+00:00"
+},
+{
+    "id": 31706,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of these is not a correct step in product positioning?",
+    "op": [
+        "Diagram a two-dimensional product-positioning map with specified criteria",
+        "Plot major competitors’ products or services in the resultant matrix",
+        "Compare competitor's and company's products or services on resultant matrix",
+        "Select the criteria that differentiate products or services in the industry"
+    ],
+    "created_at": "2026-06-30T19:35:35.15418+00:00"
+},
+{
+    "id": 31711,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Brand loyalty, readiness to buy, occasions and user status are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Behavioralistic",
+        "Geographic",
+        "Demographic",
+        "Psychographic"
+    ],
+    "created_at": "2026-06-30T19:35:48.235357+00:00"
+},
+{
+    "id": 31717,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Market segmentation is especially used in implementing strategies by which of the following firms?",
+    "op": [
+        "Large firms",
+        "All of the given options",
+        "Small firms",
+        "Medium-size firms"
+    ],
+    "created_at": "2026-06-30T19:35:58.475932+00:00"
+},
+{
+    "id": 31724,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Packaging, brand name, safety and quality are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Product decisions",
+        "Place decisions",
+        "Promotion decisions",
+        "Price decisions"
+    ],
+    "created_at": "2026-06-30T19:36:08.005603+00:00"
+},
+{
+    "id": 31733,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Identify the strategy that attempts to convince individuals that the change is to their personal advantage.",
+    "op": [
+        "None of the given options",
+        "A rational or self-interest change strategy",
+        "A force change strategy",
+        "The educative change strategy"
+    ],
+    "created_at": "2026-06-30T19:36:19.190408+00:00"
+},
+{
+    "id": 31745,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Market coverage, inventory management, warehousing and order processing are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Promotion decisions",
+        "Place decisions",
+        "Product decisions",
+        "Price decisions"
+    ],
+    "created_at": "2026-06-30T19:36:28.691672+00:00"
+},
+{
+    "id": 31751,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "“Comparing a firm against the best firms in the industry on a wide variety of performance related criteria” is known as:",
+    "op": [
+        "Reengineering",
+        "E engineering",
+        "Benchmarking",
+        "Restructuring"
+    ],
+    "created_at": "2026-06-30T19:36:37.541038+00:00"
+},
+{
+    "id": 31787,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the most dramatic new market segmentation strategy?",
+    "op": [
+        "Targeting of regional tastes",
+        "Targeting on Behavioral variables",
+        "Targeting on gender and age",
+        "Targeting on Geographic variables"
+    ],
+    "created_at": "2026-06-30T19:37:41.660667+00:00"
+},
+{
+    "id": 31797,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the followings is TRUE about two different market segments?",
+    "op": [
+        "There is heterogeneity within the segment in its needs",
+        "They can be served with the same marketing strategy",
+        "They are always in different geographic locations",
+        "They usually require different marketing strategies"
+    ],
+    "created_at": "2026-06-30T19:37:58.976851+00:00"
+},
+{
+    "id": 31799,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is NOT one of the bases frequently used for constructing a product positioning strategy?",
+    "op": [
+        "Positioning by cultural symbols",
+        "Positioning by products",
+        "Positioning on specific use categories",
+        "Positioning on specific product features"
+    ],
+    "created_at": "2026-06-30T19:38:12.633781+00:00"
+},
+{
+    "id": 31806,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Climate, population density and region are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Psychographic",
+        "Behavioralistic",
+        "Demographic",
+        "Geographic"
+    ],
+    "created_at": "2026-06-30T19:38:27.713316+00:00"
+},
+{
+    "id": 31827,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "J I T stands for:",
+    "op": [
+        "Just in technique",
+        "Just inter time",
+        "Just in time",
+        "Just into time"
+    ],
+    "created_at": "2026-06-30T19:39:05.412337+00:00"
+},
+{
+    "id": 31838,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Just in Time (JIT) system can be defined as:",
+    "op": [
+        "A process for improving quality of products",
+        "Delivering materials just as they are needed",
+        "A scheduling method for meetings",
+        "Implementing strategies just before bankruptcy"
+    ],
+    "created_at": "2026-06-30T19:39:20.672691+00:00"
+},
+{
+    "id": 31845,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is NOT true about Employee stock ownership plan?",
+    "op": [
+        "Their employees can buy shares at any time or after a certain length of employment",
+        "The profits of these corporations are shared with their employees",
+        "These corporations are owned in whole or in part by their employees",
+        "Their shares are traded on public stock market"
+    ],
+    "created_at": "2026-06-30T19:39:37.234521+00:00"
+},
+{
+    "id": 31853,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following was NOT included in Borden's marketing mix?",
+    "op": [
+        "Styling",
+        "Product planning",
+        "Physical handling",
+        "Display"
+    ],
+    "created_at": "2026-06-30T19:39:52.433362+00:00"
+},
+{
+    "id": 31864,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which statements best represents ‘Restructuring’?",
+    "op": [
+        "Combination of two or more companies",
+        "Radical redesign of an organization’s process",
+        "An agreement between two or more firms",
+        "Personnel downsizing and asset revaluation"
+    ],
+    "created_at": "2026-06-30T19:40:14.491421+00:00"
+},
+{
+    "id": 32411,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Age, gender, family size and family lifecycle are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Behavioralistic",
+        "Psychographic",
+        "Demographic",
+        "Geographic"
+    ],
+    "created_at": "2026-06-30T20:46:12.058254+00:00"
+},
+{
+    "id": 32414,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "“Focusing all marketing decisions on a very specific group of people which a business wants to reach” is known as:",
+    "op": [
+        "Mass marketing",
+        "Positioning",
+        "Target marketing",
+        "Segmentation"
+    ],
+    "created_at": "2026-06-30T20:46:32.502337+00:00"
+},
+{
+    "id": 32417,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which pay strategy is not a form of incentive compensation?",
+    "op": [
+        "Profit sharing",
+        "Bonus",
+        "Hourly wage",
+        "Gain sharing"
+    ],
+    "created_at": "2026-06-30T20:46:50.208154+00:00"
+},
+{
+    "id": 32421,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "All of the following are examples of marketing decisions that require policies EXCEPT:",
+    "op": [
+        "To use billboards for outdoor advertising",
+        "To be a market leader or follower",
+        "Whether to advertise online or not",
+        "Either to offer a complete or limited warranty"
+    ],
+    "created_at": "2026-06-30T20:46:59.016615+00:00"
+},
+{
+    "id": 32422,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following strategy that involves giving orders and enforcing those orders?",
+    "op": [
+        "A self-interest change strategy",
+        "A force change strategy",
+        "The educative change strategy",
+        "None of the given options"
+    ],
+    "created_at": "2026-06-30T20:47:09.104827+00:00"
+},
+{
+    "id": 32423,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following grouped the ingredients of Marketing Mix which are known as the 4 P's of marketing?",
+    "op": [
+        "Seymour Tiles",
+        "E. Jerome McCarthy",
+        "James Collation",
+        "Greenly"
+    ],
+    "created_at": "2026-06-30T20:47:23.23777+00:00"
+},
+{
+    "id": 32425,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "What is a Just In Time (JIT)?",
+    "op": [
+        "Financial management system",
+        "Human resource management system",
+        "Sales management system",
+        "Inventory management system"
+    ],
+    "created_at": "2026-06-30T20:47:35.50233+00:00"
+},
+{
+    "id": 32426,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "All of the following are used as a base for market segmentation EXCEPT:",
+    "op": [
+        "Geographic",
+        "Socioeconomic",
+        "Psychographic",
+        "Demographic"
+    ],
+    "created_at": "2026-06-30T20:47:43.846625+00:00"
+},
+{
+    "id": 33265,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following refers to Kanban?",
+    "op": [
+        "Production unit",
+        "Manufacturing system",
+        "Signals",
+        "Process"
+    ],
+    "created_at": "2026-07-01T01:38:28.330413+00:00"
+},
+{
+    "id": 33266,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "The cross training of employees for getting a better understanding of the whole business can create problems related to following issues EXCEPT:",
+    "op": [
+        "Skilled workers may dislike unskilled workers",
+        "It can require ample investments in training",
+        "Older employees may not want to learn new skills",
+        "Employees give worse ideas in planning session"
+    ],
+    "created_at": "2026-07-01T01:38:48.04376+00:00"
+},
+{
+    "id": 33267,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "“Subdividing of a market into distinct smaller subgroups of customers according to their needs and buying habits” is known as:",
+    "op": [
+        "Market segmentation",
+        "Market intelligence",
+        "Target marketing",
+        "Market positioning"
+    ],
+    "created_at": "2026-07-01T01:38:54.608771+00:00"
+},
+{
+    "id": 33268,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "All of the following are the managerial issues for managing natural environment EXCEPT:",
+    "op": [
+        "Global warming- depletion of rain forests",
+        "Waste management to clean air and water",
+        "Developing biodegradable products and packages",
+        "Employee understanding about environment"
+    ],
+    "created_at": "2026-07-01T01:39:08.345409+00:00"
+},
+{
+    "id": 33281,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Re-engineering process innovation which involves all EXCEPT:",
+    "op": [
+        "Improvement in service",
+        "Improvement in quality",
+        "Improvement of speed",
+        "Improvement of divisions"
+    ],
+    "created_at": "2026-07-01T01:43:28.213227+00:00"
+},
+{
+    "id": 33283,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is Educative change strategy?",
+    "op": [
+        "Giving orders to subordinates and enforcing those orders",
+        "Presenting information to convince people of the need for change",
+        "Attempting to convince individuals that the change is for their interest",
+        "Changing the strategy of educational institutions"
+    ],
+    "created_at": "2026-07-01T01:43:41.500855+00:00"
+},
+{
+    "id": 33285,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following can be considered the single greatest threat to successful strategy implementation?",
+    "op": [
+        "Downsizing",
+        "Top-management",
+        "Resistance to change",
+        "Re-engineering"
+    ],
+    "created_at": "2026-07-01T01:43:49.246075+00:00"
+},
+{
+    "id": 33287,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "A production/operation processes constitutes how much percentage of a firm’s total assets?",
+    "op": [
+        "60",
+        "50",
+        "70",
+        "40"
+    ],
+    "created_at": "2026-07-01T01:44:00.830899+00:00"
+},
+{
+    "id": 33288,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Benefits sought, usage rate, brand loyalty and user status are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Geographic",
+        "Demographic",
+        "Behavioralistic",
+        "Psychographic"
+    ],
+    "created_at": "2026-07-01T01:44:07.510506+00:00"
+},
+{
+    "id": 33289,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of these is not one of the tests used to determine whether a performance-pay plan will benefit an organization?",
+    "op": [
+        "Does the plan reduce management layers?",
+        "Do employees understand the plan?",
+        "Is the plan improving communications?",
+        "Does the plan pay out when it should?"
+    ],
+    "created_at": "2026-07-01T01:44:13.257176+00:00"
+},
+{
+    "id": 33291,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "The inventory is viewed as which of the following in Just In Time Inventory system:",
+    "op": [
+        "Incurring costs",
+        "Disburse expense",
+        "None of the given options",
+        "Adding value"
+    ],
+    "created_at": "2026-07-01T01:44:32.524577+00:00"
+},
+{
+    "id": 33531,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which is the most important benefit required from restructuring?",
+    "op": [
+        "Increased innovation",
+        "Cost reduction",
+        "Increased morale",
+        "Employee involvement"
+    ],
+    "created_at": "2026-07-01T02:23:50.337334+00:00"
+},
+{
+    "id": 33532,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is NOT correct about Just in Time?",
+    "op": [
+        "Re-order level is determined by existing demand",
+        "It reduces the in-process inventory",
+        "It is driven by a series of signals, or Kanban",
+        "New stock is ordered when stock reaches the re-order level"
+    ],
+    "created_at": "2026-07-01T02:23:57.686572+00:00"
+},
+{
+    "id": 33678,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Marketing decisions generally fall into four controllable categories. Which one of the following is NOT one of marketing decisions category?",
+    "op": [
+        "Promotion",
+        "Distribution",
+        "Process",
+        "Product"
+    ],
+    "created_at": "2026-07-01T02:58:51.280619+00:00"
+},
+{
+    "id": 33679,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Advertising, personal selling, sales promotion and publicity are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Place decisions",
+        "Price decisions",
+        "Product decisions",
+        "Promotion decisions"
+    ],
+    "created_at": "2026-07-01T02:58:56.745903+00:00"
+},
+{
+    "id": 33680,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Generation, income, occupation and education are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Behavioralistic",
+        "Demographic",
+        "Psychographic",
+        "Geographic"
+    ],
+    "created_at": "2026-07-01T02:59:07.942974+00:00"
+},
+{
+    "id": 33681,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "All of the following are the examples of pricing decisions EXCEPT:",
+    "op": [
+        "Price flexibility",
+        "Repairs and Support",
+        "Bundling",
+        "Volume discounts"
+    ],
+    "created_at": "2026-07-01T02:59:14.617666+00:00"
+},
+{
+    "id": 33682,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Just in Time process works on series of signals which are called:",
+    "op": [
+        "None of the given options",
+        "Kaizan",
+        "Kanban",
+        "Kansan"
+    ],
+    "created_at": "2026-07-01T02:59:19.188772+00:00"
+},
+{
+    "id": 33683,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Activities, interests, opinions and attitudes are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Psychographic",
+        "Geographic",
+        "Demographic",
+        "Behavioralistic"
+    ],
+    "created_at": "2026-07-01T02:59:24.848959+00:00"
+},
+{
+    "id": 33693,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "“The process of dividing markets into groups of consumers who are similar to each other”. Which of the following terms describes the statement?",
+    "op": [
+        "Marketing",
+        "Targeting",
+        "Positioning",
+        "Segmentation"
+    ],
+    "created_at": "2026-07-01T03:01:25.626132+00:00"
+},
+{
+    "id": 33837,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Brand name, functionality, styling and quality are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Price decisions",
+        "Place decisions",
+        "Product decisions",
+        "Promotion decisions"
+    ],
+    "created_at": "2026-07-01T03:30:53.76563+00:00"
+},
+{
+    "id": 33840,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Identify the strategy that presents information to convince people of the need for change.",
+    "op": [
+        "The educative change strategy",
+        "A force change strategy",
+        "None of the given options",
+        "A self-interest change strategy"
+    ],
+    "created_at": "2026-07-01T03:31:25.586949+00:00"
+},
+{
+    "id": 33842,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "A strategy involving major business modification usually associated with personnel downsizing and selling the part of company for the purpose of getting effectiveness at maximum is known as:",
+    "op": [
+        "Restructuring",
+        "Re-engineering",
+        "Downsizing",
+        "Divestiture"
+    ],
+    "created_at": "2026-07-01T03:31:41.456094+00:00"
+},
+{
+    "id": 34031,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "What is NOT a major benefit of having a diverse workforce?",
+    "op": [
+        "A decrease in complaints",
+        "An increase in productivity",
+        "Improvement of the bottom line",
+        "An increase in training costs"
+    ],
+    "created_at": "2026-07-01T03:59:41.471429+00:00"
+},
+{
+    "id": 34038,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following actions is more effective regarding the change in organizational culture?",
+    "op": [
+        "A firm culture should be changed to fit a new strategy",
+        "A strategy should be changed to fit an existing culture",
+        "A strategy and culture both should be changed at the same time",
+        "All of the given options"
+    ],
+    "created_at": "2026-07-01T04:00:11.282631+00:00"
+},
+{
+    "id": 34039,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is FALSE about the requirements for successful segmentation?",
+    "op": [
+        "Segment is large enough to be profitable",
+        "Segments are measurable and identifiable",
+        "Segments are accessible and actionable",
+        "Segments should be homogeneous"
+    ],
+    "created_at": "2026-07-01T04:00:18.106081+00:00"
+},
+{
+    "id": 34068,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "All of the following are the examples of promotion decision EXCEPT:",
+    "op": [
+        "Public relations",
+        "Advertising",
+        "Personal selling",
+        "Volume discounts"
+    ],
+    "created_at": "2026-07-01T04:06:54.996394+00:00"
+},
+{
+    "id": 34069,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following sets of variables is most important as a contributory to strategic management?",
+    "op": [
+        "Competition and collaboration",
+        "Market segmentation and positioning",
+        "Market segmentation and targeting",
+        "Product development and market development"
+    ],
+    "created_at": "2026-07-01T04:07:13.716967+00:00"
+},
+{
+    "id": 34076,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Restructuring also known as:",
+    "op": [
+        "All of the given options",
+        "Delayering",
+        "Rightsizing",
+        "Downsizing"
+    ],
+    "created_at": "2026-07-01T04:08:29.33904+00:00"
+},
+{
+    "id": 34082,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "How a product appears in relation to other products in the market is referred as:",
+    "op": [
+        "Targeting",
+        "Positioning",
+        "Segmentation",
+        "Marketing"
+    ],
+    "created_at": "2026-07-01T04:10:30.134676+00:00"
+},
+{
+    "id": 34201,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the example of place decisions?",
+    "op": [
+        "Personal selling",
+        "Safety and packaging",
+        "Order processing",
+        "Public relations & publicity"
+    ],
+    "created_at": "2026-07-01T04:24:56.298144+00:00"
+},
+{
+    "id": 35430,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "The image of company’s product in the minds of the customers refers to which one of the following concept?",
+    "op": [
+        "Product positioning",
+        "Market segmentation",
+        "Target marketing",
+        "Market intelligence"
+    ],
+    "created_at": "2026-07-01T08:02:59.078751+00:00"
+},
+{
+    "id": 45145,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is NOT true about Employee stock ownership plan?",
+    "op": [
+        "These corporations are owned in whole or in part by their employees",
+        "Their employees can buy shares at any time or after a certain length of employment",
+        "Their shares are traded on public stock market",
+        "The profits of these corporations are shared with their employees"
+    ],
+    "created_at": "2026-07-01T12:39:30.657203+00:00"
+},
+{
+    "id": 45146,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "What is a Just In Time (JIT)?",
+    "op": [
+        "Inventory management system",
+        "Financial management system",
+        "Human resource management system",
+        "Sales management system"
+    ],
+    "created_at": "2026-07-01T12:39:43.279677+00:00"
+},
+{
+    "id": 45147,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of these is not one of the tests used to determine whether a performance-pay plan will benefit an organization?",
+    "op": [
+        "Do employees understand the plan?",
+        "Does the plan reduce management layers?",
+        "Does the plan pay out when it should?",
+        "Is the plan improving communications?"
+    ],
+    "created_at": "2026-07-01T12:40:00.844182+00:00"
+},
+{
+    "id": 45148,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following statement is NOT correct about Just in Time?",
+    "op": [
+        "It reduces the in-process inventory",
+        "It is driven by a series of signals, or Kanban",
+        "New stock is ordered when stock reaches the re-order level",
+        "Re-order level is determined by existing demand"
+    ],
+    "created_at": "2026-07-01T12:40:07.904286+00:00"
+},
+{
+    "id": 45149,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is Educative change strategy?",
+    "op": [
+        "Giving orders to subordinates and enforcing those orders",
+        "Attempting to convince individuals that the change is for their interest",
+        "Presenting information to convince people of the need for change",
+        "Changing the strategy of educational institutions"
+    ],
+    "created_at": "2026-07-01T12:40:16.84173+00:00"
+},
+{
+    "id": 45150,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "J I T stands for:",
+    "op": [
+        "Just inter time",
+        "Just in time",
+        "Just in technique",
+        "Just into time"
+    ],
+    "created_at": "2026-07-01T12:40:24.660224+00:00"
+},
+{
+    "id": 45151,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Activities, interests, opinions and attitudes are often considered under which one of the following bases of segmentation in consumer markets?",
+    "op": [
+        "Demographic",
+        "Behavioralistic",
+        "Geographic",
+        "Psychographic"
+    ],
+    "created_at": "2026-07-01T12:40:33.516901+00:00"
+},
+{
+    "id": 45152,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Market coverage, inventory management, warehousing and order processing are the examples of which one of the following marketing mix decisions?",
+    "op": [
+        "Price decisions",
+        "Product decisions",
+        "Promotion decisions",
+        "Place decisions"
+    ],
+    "created_at": "2026-07-01T12:40:42.639263+00:00"
+},
+{
+    "id": 45153,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following sets of variables is most important as a contributory to strategic management?",
+    "op": [
+        "Market segmentation and positioning",
+        "Market segmentation and targeting",
+        "Product development and market development",
+        "Competition and collaboration"
+    ],
+    "created_at": "2026-07-01T12:40:50.914189+00:00"
+},
+{
+    "id": 45154,
+    "cc": "MGT603",
+    "qn": "03",
+    "dt": "01 July 2026",
+    "qt": "Which of the following can be considered the single greatest threat to successful strategy implementation?",
+    "op": [
+        "Downsizing",
+        "Re-engineering",
+        "Top-management",
+        "Resistance to change"
+    ],
+    "created_at": "2026-07-01T12:40:59.067893+00:00"
+},
+{
+    "id": 64426,
+    "cc": "MGT603",
+    "qn": "02",
+    "dt": "29 December 2025",
+    "qt": "Which approach for managing and resolving conflict involves playing down differences between conflicting parties while stressing on similarities and common interests?",
+    "op": [
+        "Avoidance",
+        "Diffusion",
+        "Compliance",
+        "Confrontation"
+    ],
+    "created_at": "2026-07-15T13:27:10.04194+00:00"
+}
+]

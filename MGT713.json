@@ -1,0 +1,604 @@
+[
+    {
+        "id": 2407,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "In employment stability, we have the following options except __________.",
+        "op": [
+            "Hold employment constant by maintaining the trained workforce",
+            "Hold employment constant and labor is treated as a fixed cost",
+            "All the options given",
+            "Follow demand exactly"
+        ],
+        "created_at": "2026-06-17T04:17:49.451676+00:00"
+    },
+    {
+        "id": 2410,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "Which of the following inventory management strategies helps to reduce inventory levels and minimize inventory costs?",
+        "op": [
+            "Just-in-time (JIT)",
+            "ABC Analysis",
+            "LIFO",
+            "FIFO"
+        ],
+        "created_at": "2026-06-17T04:18:03.926006+00:00"
+    },
+    {
+        "id": 2413,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "As per the Hawthorn studies, which of the following statements best describes about worker productivity?",
+        "op": [
+            "It increases when worker receive attention and feel valued.",
+            "It is solely determined by physical working conditions.",
+            "It is unaffected by social factors.",
+            "It is higher in isolated work environments."
+        ],
+        "created_at": "2026-06-17T04:18:15.463943+00:00"
+    },
+    {
+        "id": 2418,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "In which of the following method, the time standard for a job can be set in a laboratory away from the actual production operation.",
+        "op": [
+            "None of the options given",
+            "Historical experience",
+            "Time studies",
+            "Predetermined time standards"
+        ],
+        "created_at": "2026-06-17T04:18:27.822328+00:00"
+    },
+    {
+        "id": 2421,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "While using time studies methods in labor standards and work measurement, we use ____________ and ______________ to calculate the standard time of a job.",
+        "op": [
+            "None of the options given",
+            "Total Normal time and Allowance factor",
+            "Allowance factor and TMU",
+            "Total Normal time and TMU"
+        ],
+        "created_at": "2026-06-17T04:18:39.117547+00:00"
+    },
+    {
+        "id": 2425,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "Which one of the following is not a popular sequencing rule?",
+        "op": [
+            "Slow turnout",
+            "First come, first served",
+            "Shortest processing time",
+            "Critical ratio"
+        ],
+        "created_at": "2026-06-17T04:18:52.430584+00:00"
+    },
+    {
+        "id": 2429,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "Which of the following is the alternate name of non-instantaneous resupply?",
+        "op": [
+            "None of the given options",
+            "Demand supply quantity",
+            "Production order quantity",
+            "Supplier order quantity"
+        ],
+        "created_at": "2026-06-17T04:19:07.528566+00:00"
+    },
+    {
+        "id": 2432,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "In ABC analysis, which category of items typically represents the low annual dollar volume?",
+        "op": [
+            "C items",
+            "B items",
+            "A items",
+            "D items"
+        ],
+        "created_at": "2026-06-17T04:19:23.237762+00:00"
+    },
+    {
+        "id": 2437,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "17 June 2026",
+        "qt": "In which of the following models, the beginning inventory is equal to order quantity?",
+        "op": [
+            "Quantity discount",
+            "EOQ",
+            "Safety stock",
+            "EFQM"
+        ],
+        "created_at": "2026-06-17T04:19:39.167699+00:00"
+    },
+    {
+        "id": 6863,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "19 June 2026",
+        "qt": "Which of the following refers to the reorder point (ROP)?",
+        "op": [
+            "The point at which inventory must be reordered to avoid stockouts",
+            "The optimal order quantity",
+            "The maximum level of inventory",
+            "The average inventory level"
+        ],
+        "created_at": "2026-06-19T11:47:46.546859+00:00"
+    },
+    {
+        "id": 6864,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "19 June 2026",
+        "qt": "Which of the following is true regarding labor standards and work measurement?",
+        "op": [
+            "MTM table is used in calculating job time with historical experience.",
+            "MTM table is used in calculating the time of micro moments in a job element.",
+            "Allowance factor is used in predetermined time standards",
+            "In time studies, we use MTM table and allowance factor"
+        ],
+        "created_at": "2026-06-19T11:48:19.442367+00:00"
+    },
+    {
+        "id": 6870,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "19 June 2026",
+        "qt": "Which one of the following options involves the establishment of employees’ roles and responsibilities?",
+        "op": [
+            "Job analysis",
+            "Job evaluation",
+            "Job rotation",
+            "Job design"
+        ],
+        "created_at": "2026-06-19T11:50:32.001936+00:00"
+    },
+    {
+        "id": 6872,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "19 June 2026",
+        "qt": "Which one of the following statements is the primary objective of job design?",
+        "op": [
+            "To increase the number of employees in the organization.",
+            "To create jobs that enhance employee satisfaction and performance.",
+            "To eliminate all job responsibilities.",
+            "To reduce the amount of training required for new hires."
+        ],
+        "created_at": "2026-06-19T11:50:57.196575+00:00"
+    },
+    {
+        "id": 52411,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not included in capacity options in the context of aggregate planning strategies?",
+        "op": [
+            "Develop a product mix of counter-seasonal items.",
+            "The trade-off between capacity, inventory, backlog/lost sales.",
+            "Increase in inventory during low-demand periods to meet high demand in future.",
+            "Varying workforce size by hiring or layoff as per the need."
+        ],
+        "created_at": "2026-07-06T04:30:05.006159+00:00"
+    },
+    {
+        "id": 52414,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not included in the demand options in the context of aggregate planning strategies?",
+        "op": [
+            "Develop a product mix of counter-seasonal items",
+            "Influencing demand through advertising and promotion campaigns",
+            "Increase in inventory during low-demand periods to meet high demand in future",
+            "Back ordering during high-demand periods"
+        ],
+        "created_at": "2026-07-06T04:30:29.605223+00:00"
+    },
+    {
+        "id": 52418,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "What happens to a scheduled receipt when the goods are received into inventory?",
+        "op": [
+            "It is transferred to the vendor’s records.",
+            "It is converted into a new planned order.",
+            "It becomes part of the on-hand inventory and is closed out.",
+            "It remains open until the end of the production cycle."
+        ],
+        "created_at": "2026-07-06T04:30:47.248104+00:00"
+    },
+    {
+        "id": 52421,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not true regarding aggregate planning?",
+        "op": [
+            "Aggregate planning is the balance between demand and supply.",
+            "If the aggregate plan is followed entirely, it will help meet the firm's strategic objectives.",
+            "Aggregate planning and forecast are the same thing.",
+            "Aggregate planning is the planned production for which manufacturing management is to be held responsible."
+        ],
+        "created_at": "2026-07-06T04:31:05.436794+00:00"
+    },
+    {
+        "id": 52425,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following costs is most critical in aggregate planning in the service sector?",
+        "op": [
+            "All the given options",
+            "Cost of labor",
+            "Cost of transportation",
+            "Cost of raw material"
+        ],
+        "created_at": "2026-07-06T04:31:31.629556+00:00"
+    },
+    {
+        "id": 52429,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "In which aggregate planning strategy, the firm is dependent on the external source?",
+        "op": [
+            "Subcontracting",
+            "Use of inventory as a lever",
+            "Use of part-time workers to meet the demand",
+            "Use of hiring and firing of workers to meet the demand"
+        ],
+        "created_at": "2026-07-06T04:31:47.267454+00:00"
+    },
+    {
+        "id": 52432,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Which of the following parameters constitute the yield management matrix?",
+        "op": [
+            "Duration of use and demand",
+            "Supply and demand",
+            "Demand and price",
+            "Duration of use and price"
+        ],
+        "created_at": "2026-07-06T04:32:04.90145+00:00"
+    },
+    {
+        "id": 52435,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Allocating resources to customers at prices that will maximize the revenue is referred to as _______.",
+        "op": [
+            "Level Strategy",
+            "Yield management",
+            "None of the given options",
+            "Transportation management"
+        ],
+        "created_at": "2026-07-06T04:32:25.708765+00:00"
+    },
+    {
+        "id": 52437,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "For an aggregated plan, using level strategy, if we maintain the constant workforce against the lowest demand of the planning period, then which of the following can be used as a lever to meet further demand?",
+        "op": [
+            "Subcontracting",
+            "Chase Strategy",
+            "None of the given option",
+            "Hiring and Layoff"
+        ],
+        "created_at": "2026-07-06T04:32:45.591556+00:00"
+    },
+    {
+        "id": 52441,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "06 July 2026",
+        "qt": "Who is responsible for releasing planned orders in the MRP system?",
+        "op": [
+            "The vendor",
+            "The production activity control team",
+            "The material planner",
+            "The computer system"
+        ],
+        "created_at": "2026-07-06T04:33:15.249998+00:00"
+    },
+    {
+        "id": 58877,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is true about scheduled receipts?",
+        "op": [
+            "They are future orders that are automatically released by the MRP system.",
+            "They are not yet committed and are still in planning stages.",
+            "They represent orders that have been completed and added to on-hand inventory.",
+            "They are orders that have been placed and show quantities and expected completion dates."
+        ],
+        "created_at": "2026-07-08T17:19:04.504222+00:00"
+    },
+    {
+        "id": 58879,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Which aggregate planning strategy uses inventory as a lever?",
+        "op": [
+            "Level strategy",
+            "Subcontracting",
+            "Time flexibility strategy",
+            "Chase strategy"
+        ],
+        "created_at": "2026-07-08T17:19:39.544926+00:00"
+    },
+    {
+        "id": 58880,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Which method is used when we need an optimum solution to an aggregate planning problem and when we need to allocate operating capacity to meet forecasted demand?",
+        "op": [
+            "Graphical Method",
+            "None of the Given Options",
+            "Level Strategy",
+            "Transportation Method"
+        ],
+        "created_at": "2026-07-08T17:20:01.569019+00:00"
+    },
+    {
+        "id": 58890,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Which risks are associated with the chase strategy in aggregate planning?",
+        "op": [
+            "All the given options",
+            "Increased inventory carrying costs",
+            "This may lead to insecure and unhappy employees",
+            "Risk associated with over or underestimation of market demand"
+        ],
+        "created_at": "2026-07-08T17:22:39.168562+00:00"
+    },
+    {
+        "id": 58891,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Considering the level strategy in aggregate planning strategies, which of the following is used as a lever?",
+        "op": [
+            "Capacity",
+            "Inventory",
+            "None of the given options",
+            "Time flexibility"
+        ],
+        "created_at": "2026-07-08T17:23:17.247848+00:00"
+    },
+    {
+        "id": 58893,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "What do scheduled receipts represent in the MRP system?",
+        "op": [
+            "Orders that are still under review and have not been confirmed",
+            "Future projections of material requirements",
+            "Planned orders that have not yet been released",
+            "Orders placed with manufacturing or vendors that are committed to making or buying"
+        ],
+        "created_at": "2026-07-08T17:23:47.619347+00:00"
+    },
+    {
+        "id": 58895,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is true regarding transportation methods?",
+        "op": [
+            "It is not a trial-and-error method",
+            "Transportation method can be used when the problem is viewed as one of allocating operating capacity to meet forecast demand",
+            "It produces an optimum solution to an aggregate planning problem",
+            "All the above are true regarding transportation method"
+        ],
+        "created_at": "2026-07-08T17:24:27.940303+00:00"
+    },
+    {
+        "id": 68486,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "Labor standards can be developed in all the following ways except ___________. ",
+        "op": [
+            "Historical experience",
+            "Predetermined time standards",
+            "Time studies",
+            "None of the options given"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68487,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "All the following are the functions of human resource management, EXCEPT: ",
+        "op": [
+            "Product development",
+            "Training and development",
+            "Performance appraisal",
+            "Recruitment and selection"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68488,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "In ABC analysis, which category of items typically represents the highest value but the smallest percentage of total items? ",
+        "op": [
+            "D items",
+            "C items",
+            "B items",
+            "A items"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68489,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "04 January 2026",
+        "qt": "Which of the following industries are most likely to benefit from the application of Johnson's rule? ",
+        "op": [
+            "Software development",
+            "Healthcare",
+            "Manufacturing",
+            "Construction"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 69895,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is not a characteristic of a level strategy in aggregate planning? ",
+        "op": [
+            "Daily production is uniform.",
+            "Use inventory or idle time as a buffer.",
+            "The level strategy involves keeping the workforce constant.",
+            "In the level strategy, daily production varies with the demand."
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 70643,
+        "cc": "MGT713",
+        "qn": "2",
+        "dt": "06 January 2026",
+        "qt": " Annual ordering cost is calculated by which of the following formulas? ",
+        "op": [
+            "DS/S",
+            "DS/Q",
+            "DS/C",
+            "DS/G"
+        ],
+        "created_at": "2026-07-15T13:27:51.139945+00:00"
+    },
+    {
+        "id": 71075,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Which one of the following cannot be considered as benefit due to JIT implementation?       ",
+        "op": [
+            "Increase in variability",
+            "Reduction in cost",
+            "Improvement in quality",
+            "Reduction in delay"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71076,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is not a building block of just-in-time production?         ",
+        "op": [
+            "Personnel elements",
+            "Process design",
+            "Product design",
+            "Material flow"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71077,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Just in Time environment is based on which of the following options?None of the given options ",
+        "op": [
+            "Pull system",
+            "None of the given options",
+            "Push system",
+            "Incentive system"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71078,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is not a supporting goal of JIT system?       ",
+        "op": [
+            "Eliminate disruptions",
+            "Make system more flexible",
+            "Make system powerful",
+            "Eliminate waste"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71153,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "When should a planned order be released according to the MRP objectives? ",
+        "op": [
+            "Immediately after the order is planned",
+            "As soon as the order is placed",
+            "After receiving confirmation from the vendor",
+            "When the planned order release date arrives"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71154,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "Which one of the following is not included in “housekeeping” for reducing waste?       ",
+        "op": [
+            "All the given options",
+            "Simplify",
+            "Self-discipline",
+            "Standardization"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71155,
+        "cc": "MGT713",
+        "qn": "3",
+        "dt": "07 January 2026",
+        "qt": "In aggregate planning, when demand will be met by increasing or decreasing capacity through hiring and layoff of workers, without maintaining any inventory, we are using ____________ strategy. ",
+        "op": [
+            "None of the given options",
+            "Level strategy",
+            "Chase strategy",
+            "Time flexibility strategy"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    }
+]
