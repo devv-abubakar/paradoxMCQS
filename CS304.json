@@ -1,0 +1,1276 @@
+[{
+"id": 19684,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, which of the following keywords works only with constructors?",
+"op": [
+"const",
+"virtual",
+"static",
+"explicit"
+],
+"created_at": "2026-06-23T19:02:14.518934+00:00",
+"ca": "explicit"
+},
+{
+"id": 19685,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Target class of a _______ function call is determined at run time.",
+"op": [
+"Instance",
+"Operator",
+"Non- Virtual",
+"Virtual"
+],
+"created_at": "2026-06-23T19:02:24.28779+00:00",
+"ca": "Virtual"
+},
+{
+"id": 19686,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Suppose you have following C++ statements: int oldValue=10; int newValue = ++ oldValue; What will be the value of oldValue and newValue after executing above statements?",
+"op": [
+"oldValue= 10 , newValue=11",
+"oldValue= 11 , newValue=11",
+"oldValue= 11 , newValue=10",
+"oldValue= 10 , newValue=10"
+],
+"created_at": "2026-06-23T19:02:32.163618+00:00",
+"ca": "oldValue= 11 , newValue=11"
+},
+{
+"id": 19687,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "The C++ code “class circle : public shape” shows relationship.",
+"op": [
+"Aggregation",
+"Inheritance",
+"Simple Association",
+"Composition"
+],
+"created_at": "2026-06-23T19:02:39.57116+00:00",
+"ca": "Inheritance"
+},
+{
+"id": 19688,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is NOT casting operator in C++ standard?",
+"op": [
+"reinterpret_cast",
+"dynamic_cast",
+"var_cast",
+"static_cast"
+],
+"created_at": "2026-06-23T19:02:46.311086+00:00",
+"ca": "var_cast"
+},
+{
+"id": 19689,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Suppose Person is a user defined class. In statement “Person * pPtr”, static type of pPtr is .",
+"op": [
+"Person*",
+"Person",
+"pPtr",
+"Object"
+],
+"created_at": "2026-06-23T19:02:54.902598+00:00",
+"ca": "Person*"
+},
+{
+"id": 19690,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In case of public inheritance, protected members of base class will be _____________ in derived class.",
+"op": [
+"hidden",
+"private",
+"public",
+"protected"
+],
+"created_at": "2026-06-23T19:03:03.349514+00:00",
+"ca": "protected"
+},
+{
+"id": 19694,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which statement will be true for concrete class?",
+"op": [
+"None of given options.",
+"It cannot be inherited from an abstract class.",
+"It cannot be instantiated.",
+"It can be instantiated."
+],
+"created_at": "2026-06-23T19:03:12.669386+00:00",
+"ca": "It can be instantiated."
+},
+{
+"id": 19697,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": " represents “IS A” relationship.",
+"op": [
+"Aggregation",
+"Composition",
+"Simple Association",
+"Inheritance"
+],
+"created_at": "2026-06-23T19:03:20.320304+00:00",
+"ca": "Inheritance"
+},
+{
+"id": 19699,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is/are casting operator(s) in C++?",
+"op": [
+"dynamic_cast",
+"const_cast",
+"All of the given options",
+"static_cast"
+],
+"created_at": "2026-06-23T19:04:16.785313+00:00",
+"ca": "All of the given options"
+},
+{
+"id": 19701,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { private: int i; }; class class2 : private class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"protected",
+"public",
+"private/hidden",
+"static"
+],
+"created_at": "2026-06-23T19:04:24.654914+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 19705,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "If the user does not specify the type of inheritance then the default type of inheritance is ____________.",
+"op": [
+"Default",
+"Protected inheritance",
+"Public inheritance",
+"Private inheritance"
+],
+"created_at": "2026-06-23T19:04:44.053808+00:00",
+"ca": "Private inheritance"
+},
+{
+"id": 19709,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 {     private: int i; }; class class2 : public class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"public",
+"protected",
+"static",
+"private"
+],
+"created_at": "2026-06-23T19:05:02.875277+00:00",
+"ca": "private"
+},
+{
+"id": 19712,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "If you have three classes in a C++ program A, B, and C where class A inherits from class B, then class _____________ contains all the characteristics of class .",
+"op": [
+"A, B",
+"A, C",
+"B, C",
+"B, A"
+],
+"created_at": "2026-06-23T19:05:28.55336+00:00",
+"ca": "A, B"
+},
+{
+"id": 19716,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "What does the virtual keyword ensure when used in a base class function in C++?",
+"op": [
+"Static function resolution",
+"Early binding",
+"Dynamic binding",
+"Constructor overloading"
+],
+"created_at": "2026-06-23T19:05:50.074203+00:00",
+"ca": "Dynamic binding"
+},
+{
+"id": 19721,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 {       private: void func1(); }; class class2 : public class1 { }; Function func1 of class1 is ______ in class2.",
+"op": [
+"static",
+"protected",
+"private",
+"public"
+],
+"created_at": "2026-06-23T19:06:09.239247+00:00",
+"ca": "private"
+},
+{
+"id": 19723,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, dynamic binding and polymorphism will be achieved when member function will be .",
+"op": [
+"public",
+"virtual",
+"inline",
+"private"
+],
+"created_at": "2026-06-23T19:06:10.112489+00:00",
+"ca": "virtual"
+},
+{
+"id": 19728,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { public: int i; }; class class2 : private class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"static",
+"private/hidden",
+"protected",
+"public"
+],
+"created_at": "2026-06-23T19:06:28.7255+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 19730,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 {     private: int i; }; class class2 : protected class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"static",
+"protected",
+"public",
+"private"
+],
+"created_at": "2026-06-23T19:06:43.853408+00:00",
+"ca": "private"
+},
+{
+"id": 19733,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "If a class is inherited using private inheritance, what happens to public members of the base class?",
+"op": [
+"Become protected",
+"Become private",
+"Become inaccessible",
+"Remain public"
+],
+"created_at": "2026-06-23T19:07:04.66555+00:00",
+"ca": "Become private"
+},
+{
+"id": 19734,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following access specifier ensures that base class member is accessible in derived class of this base class and NOT outside of this class?",
+"op": [
+"protected",
+"Static",
+"public",
+"private"
+],
+"created_at": "2026-06-23T19:07:11.032554+00:00",
+"ca": "protected"
+},
+{
+"id": 19767,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which class has at least one pure virtual function?",
+"op": [
+"Abstract class",
+"Child class",
+"Template class",
+"Concrete class"
+],
+"created_at": "2026-06-23T19:11:07.500093+00:00",
+"ca": "Abstract class"
+},
+{
+"id": 19810,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In case of protected inheritance, public members of base class will be _____________ in derived class.",
+"op": [
+"protected",
+"hidden",
+"private",
+"public"
+],
+"created_at": "2026-06-23T19:14:38.368768+00:00",
+"ca": "protected"
+},
+{
+"id": 19819,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, a function is made pure virtual by adding ____________ at the end of its declaration.",
+"op": [
+"= -1",
+"= 0",
+"= 2",
+"= 1"
+],
+"created_at": "2026-06-23T19:15:13.515921+00:00",
+"ca": "= 0"
+},
+{
+"id": 19821,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": " binding means that target function for a call is selected at run time.",
+"op": [
+"Static",
+"Constant",
+"Automatic",
+"Dynamic"
+],
+"created_at": "2026-06-23T19:15:44.042785+00:00",
+"ca": "Dynamic"
+},
+{
+"id": 19823,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "What is function overriding in C++?",
+"op": [
+"Calling a function multiple times",
+"Redefining a base class function in a derived class",
+"Using global functions inside a class",
+"Defining multiple functions with the same name in one class"
+],
+"created_at": "2026-06-23T19:15:55.240975+00:00",
+"ca": "Redefining a base class function in a derived class"
+},
+{
+"id": 19832,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which casting in C++ involves a runtime check and returns a null pointer if the conversion is not possible?",
+"op": [
+"Static cast",
+"Const cast",
+"Reinterpret cast",
+"Dynamic cast"
+],
+"created_at": "2026-06-23T19:17:29.276623+00:00",
+"ca": "Dynamic cast"
+},
+{
+"id": 19835,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is not type of inheritance in C++?",
+"op": [
+"private",
+"public",
+"restricted",
+"protected"
+],
+"created_at": "2026-06-23T19:17:43.536935+00:00",
+"ca": "restricted"
+},
+{
+"id": 19839,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, which of the following operator can only be overloaded as a member function of the class?",
+"op": [
+"Stream Extraction Operator: >>",
+"Inequality Operator: !=",
+"Equality Operator: ==",
+"Function Operator: ()"
+],
+"created_at": "2026-06-23T19:18:25.546884+00:00",
+"ca": "Function Operator: ()"
+},
+{
+"id": 19843,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, the subscript operator [] must be overloaded as a _______ of the class, with one parameter of _______ type.",
+"op": [
+"Member function, char",
+"Member function, int",
+"Non-member function, char",
+"Non-member function, int"
+],
+"created_at": "2026-06-23T19:18:49.956061+00:00",
+"ca": "Member function, int"
+},
+{
+"id": 19862,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is NOT a form of polymorphism?",
+"op": [
+"Function overloading",
+"Encapsulation",
+"Operator overloading",
+"Function overriding"
+],
+"created_at": "2026-06-23T19:19:59.570886+00:00",
+"ca": "Encapsulation"
+},
+{
+"id": 19869,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following function can convert a class into an abstract class?",
+"op": [
+"Pure virtual function",
+"Concrete function",
+"Abstract function",
+"Virtual function"
+],
+"created_at": "2026-06-23T19:20:18.473456+00:00",
+"ca": "Pure virtual function"
+},
+{
+"id": 19904,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which condition is necessary for function overriding?",
+"op": [
+"Static keyword",
+"Different function names",
+"Same function name + same parameters + inheritance",
+"Same function name only"
+],
+"created_at": "2026-06-23T19:25:28.30417+00:00",
+"ca": "Same function name + same parameters + inheritance"
+},
+{
+"id": 19906,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": " binding means that target function for a call is selected at compile time.",
+"op": [
+"Dynamic",
+"Default",
+"Static",
+"Automatic"
+],
+"created_at": "2026-06-23T19:25:47.944612+00:00",
+"ca": "Static"
+},
+{
+"id": 19911,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In function overriding, if the return types of the base class function and the derived class function are different, it leads to:",
+"op": [
+"A warning at run time",
+"An error at compile-time.",
+"A warning at compile-time.",
+"An error at runtime."
+],
+"created_at": "2026-06-23T19:26:30.828934+00:00",
+"ca": "An error at compile-time."
+},
+{
+"id": 19955,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "If a class does not define any constructor, which constructor will be automatically created by the compiler?",
+"op": [
+"Explicit Default Constructor",
+"Implicit Parameterized Constructor",
+"Explicit Parameterized Constructor",
+"Implicit Default Constructor"
+],
+"created_at": "2026-06-23T19:34:04.35388+00:00",
+"ca": "Implicit Default Constructor"
+},
+{
+"id": 19971,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following operators operate on one operand?",
+"op": [
+"Binary Operators",
+"Assignment Operator",
+"Ternary Operator",
+"Unary Operators"
+],
+"created_at": "2026-06-23T19:42:03.715297+00:00",
+"ca": "Unary Operators"
+},
+{
+"id": 19972,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { protected: void func1(); }; class class2 : private class1 { }; Function func1 of class1 is ______ in class2.",
+"op": [
+"protected",
+"static",
+"private/hidden",
+"public"
+],
+"created_at": "2026-06-23T19:42:12.504026+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 20004,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { private: void func1(); }; class class2 : protected class1 { }; Function func1 of class1 is ______ in class2.",
+"op": [
+"private/hidden",
+"public",
+"static",
+"protected"
+],
+"created_at": "2026-06-23T19:50:53.537345+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 20017,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is an example of unary operator?",
+"op": [
+"Equality Operator ( = =)",
+"Increment Operator ( ++ )",
+"Division Operator (  / )",
+"Inequality Operator ( != )"
+],
+"created_at": "2026-06-23T19:53:15.643748+00:00",
+"ca": "Increment Operator ( ++ )"
+},
+{
+"id": 20018,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the following C++ code fragment written for a class Student: Student sobj1; Student sobj2(sobj1); Upon execution of second statement, which constructor of Student class will be called?",
+"op": [
+"Copy constructor of Student class",
+"Both Default and Copy constructor of Student class",
+"Default constructor of Student class",
+"Parameterized constructor of Student class"
+],
+"created_at": "2026-06-23T19:53:40.331855+00:00",
+"ca": "Copy constructor of Student class"
+},
+{
+"id": 20052,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Compiler generated copy constructor performs __________.",
+"op": [
+"Shallow copy",
+"Both Shallow and Deep copy",
+"Deep copy",
+"Bitwise copy"
+],
+"created_at": "2026-06-23T20:02:17.782268+00:00",
+"ca": "Shallow copy"
+},
+{
+"id": 20055,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is pure virtual function?",
+"op": [
+"virtual void print() = 0;",
+"void print();",
+"virtual void print();",
+"void print() = 0;"
+],
+"created_at": "2026-06-23T20:02:52.504711+00:00",
+"ca": "virtual void print() = 0;"
+},
+{
+"id": 20056,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Suppose you have following C++ statements: int oldValue=10; int newValue = oldValue ++; What will be the value of oldValue and newValue after executing above statements?",
+"op": [
+"oldValue= 10 , newValue=10",
+"oldValue= 11 , newValue=10",
+"oldValue= 10 , newValue=11",
+"oldValue= 11 , newValue=11"
+],
+"created_at": "2026-06-23T20:03:02.858769+00:00",
+"ca": "oldValue= 11 , newValue=10"
+},
+{
+"id": 20060,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "A post-fix unary operator is implemented in C++ using non-member function with __________ argument(s).",
+"op": [
+"Three",
+"One",
+"Two",
+"Zero"
+],
+"created_at": "2026-06-23T20:04:56.025558+00:00",
+"ca": "Two"
+},
+{
+"id": 20115,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { protected: int i; }; class class2 : private class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"static",
+"public",
+"private/hidden",
+"protected"
+],
+"created_at": "2026-06-23T20:24:59.218741+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 30762,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following is known as Dereference operator in C++?",
+"op": [
+"::",
+"",
+"+",
+"&"
+],
+"created_at": "2026-06-30T19:01:28.653422+00:00",
+"ca": ""
+},
+{
+"id": 30769,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "In case of template specialization, if compiler cannot find required complete specialization then it searches for some _____________________.",
+"op": [
+"General Template",
+"Complete Specialization",
+"None of the given options",
+"Partial Specialization"
+],
+"created_at": "2026-06-30T19:01:40.994487+00:00",
+"ca": "Partial Specialization"
+},
+{
+"id": 30773,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "In resolution order of function templates, compiler searches for _____________ in the end.",
+"op": [
+"generic template",
+"complete specialization",
+"partial specialization",
+"ordinary function"
+],
+"created_at": "2026-06-30T19:01:49.555563+00:00",
+"ca": "generic template"
+},
+{
+"id": 30779,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following is correct code to instantiate the object of given template Vector class for int type?\n\ntemplate \nclass Vector\n{\n};",
+"op": [
+"Vector  obj;",
+"Vector int obj;",
+"Vector obj<>int;",
+"Vector obj ;"
+],
+"created_at": "2026-06-30T19:01:56.789402+00:00",
+"ca": "Vector  obj;"
+},
+{
+"id": 30787,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following represents partial specialization?",
+"op": [
+"template< int , char >",
+"template< class T, class U, int >",
+"template< typename T,  class W >",
+"template< class T, type T>"
+],
+"created_at": "2026-06-30T19:02:05.112142+00:00",
+"ca": "template< class T, class U, int >"
+},
+{
+"id": 30800,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Polymorphism always works with ___________.",
+"op": [
+"pointer to class objects",
+"constant objects",
+"static objects",
+"actual objects"
+],
+"created_at": "2026-06-30T19:02:17.715502+00:00",
+"ca": "pointer to class objects"
+},
+{
+"id": 30805,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "When we specialize a function template, it is called _________________.",
+"op": [
+"function overloading",
+"function overriding",
+"function template overloading",
+"function template overriding"
+],
+"created_at": "2026-06-30T19:02:27.04308+00:00",
+"ca": "function template overriding"
+},
+{
+"id": 30812,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "When we want to have exactly identical operations on different data types, ______________ are used.",
+"op": [
+"Function Overloading",
+"None of the given options",
+"Function Overriding",
+"Function Templates"
+],
+"created_at": "2026-06-30T19:02:34.861164+00:00",
+"ca": "Function Templates"
+},
+{
+"id": 30814,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following is correct way to define a template class X?",
+"op": [
+"typename  class X { };",
+"template< typename T > class X { };",
+"template class X { };",
+"class< typename T > class X { };"
+],
+"created_at": "2026-06-30T19:02:41.61233+00:00",
+"ca": "template< typename T > class X { };"
+},
+{
+"id": 30820,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following may inherit from an ordinary class?",
+"op": [
+"All of the given options",
+"Complete specialization",
+"Partial specialization",
+"Class template"
+],
+"created_at": "2026-06-30T19:02:49.851621+00:00",
+"ca": "All of the given options"
+},
+{
+"id": 30960,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following can be passed as type arguments to templates?",
+"op": [
+"None of the given options",
+"Both Primitive types and User-defined types",
+"User-defined types",
+"Primitive types"
+],
+"created_at": "2026-06-30T19:07:26.723829+00:00",
+"ca": "Both Primitive types and User-defined types"
+},
+{
+"id": 30968,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "We can change behavior of a template using .",
+"op": [
+"Class Templates",
+"Template Parameters",
+"Function Templates",
+"None of the given options"
+],
+"created_at": "2026-06-30T19:07:46.490599+00:00",
+"ca": "Template Parameters"
+},
+{
+"id": 30983,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Each ___________ of a template class by default becomes function template.",
+"op": [
+"Type parameter",
+"Data member",
+"Object",
+"Member function"
+],
+"created_at": "2026-06-30T19:08:18.705271+00:00",
+"ca": "Member function"
+},
+{
+"id": 31003,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "The parameters given in template definition other than those used for mentioning templates types are called .",
+"op": [
+"Type Parameters",
+"None of the given options",
+"Non-Type Parameters",
+"Default Type Parameters"
+],
+"created_at": "2026-06-30T19:08:55.101099+00:00",
+"ca": "Non-Type Parameters"
+},
+{
+"id": 31010,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "In resolution order, compiler searches for _________ firstly.",
+"op": [
+"Generic Template",
+"Ordinary function",
+"Complete Specialization",
+"Partial Specialization"
+],
+"created_at": "2026-06-30T19:09:06.751805+00:00",
+"ca": "Ordinary function"
+},
+{
+"id": 31037,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Consider the following class 'phone' which is inheriting from 'Transmit' and 'Receiver'. Which of the following line of code will produce error. Class phone: public Transmit, public Receiver { }; 1. int main() 2. { 3. phone obj; 4. Transmit* obj1 = &obj; 5. Receiver obj2 = &obj; 6. }",
+"op": [
+"3rd and 4th line will produce error.",
+"5th line will produce error",
+"4th line will produce error",
+"3rd line will produce error"
+],
+"created_at": "2026-06-30T19:10:04.612633+00:00",
+"ca": "5th line will produce error"
+},
+{
+"id": 31059,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "In statement 'template <class T, class U, int I = 5>' ,the non-type parameter is .",
+"op": [
+"class U",
+"class T",
+"int I",
+"All of the given options"
+],
+"created_at": "2026-06-30T19:10:53.849692+00:00",
+"ca": "int I"
+},
+{
+"id": 31436,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "In resolution order, highest priority is given to __________________ in template specialization.",
+"op": [
+"partial specialization",
+"general template",
+"none of the given options",
+"complete specialization"
+],
+"created_at": "2026-06-30T19:25:20.690756+00:00",
+"ca": "complete specialization"
+},
+{
+"id": 31473,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following is the correct syntax for passing two type arguments to a template?",
+"op": [
+"template< type T, type U >",
+"template< type T, U >",
+"template  Typename< T, U >",
+"template< typename T, typename U >"
+],
+"created_at": "2026-06-30T19:26:24.746846+00:00",
+"ca": "template< typename T, typename U >"
+},
+{
+"id": 31748,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": "Which of the following represents complete specialization?",
+"op": [
+"template< class  class W >",
+"template< class T, float >",
+"template< class T, class U, int >",
+"template< int , char >"
+],
+"created_at": "2026-06-30T19:36:33.776805+00:00",
+"ca": "template< int , char >"
+},
+{
+"id": 31795,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": " class is a single class that provides functionality to operate on different types of data.",
+"op": [
+"None of the given options",
+"Template",
+"Friend",
+"Ordinary"
+],
+"created_at": "2026-06-30T19:37:54.813701+00:00",
+"ca": "Template"
+},
+{
+"id": 31923,
+"cc": "CS304",
+"qn": "4",
+"dt": "01 July 2026",
+"qt": " may inherit from a complete specialization.",
+"op": [
+"Complete specialization",
+"Ordinary class",
+"All of the given options",
+"Partial specialization"
+],
+"created_at": "2026-06-30T19:42:09.947632+00:00",
+"ca": "All of the given options"
+},
+{
+"id": 42439,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In C++, which of the following operator can only be overloaded as a member function of the class?",
+"op": [
+"Equality Operator: ==",
+"Function Operator: ()",
+"Inequality Operator: !=",
+"Stream Extraction Operator: >>"
+],
+"created_at": "2026-06-24T18:15:17.874797+00:00",
+"ca": "Function Operator: ()"
+},
+{
+"id": 42440,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": " binding means that target function for a call is selected at run time.",
+"op": [
+"Automatic",
+"Constant",
+"Static",
+"Dynamic"
+],
+"created_at": "2026-06-24T18:15:34.823851+00:00",
+"ca": "Dynamic"
+},
+{
+"id": 42441,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Consider the code below: class class1 { protected: void func1(); }; class class2 : private class1 { }; Function func1 of class1 is ______ in class2.",
+"op": [
+"static",
+"public",
+"private/hidden",
+"protected"
+],
+"created_at": "2026-06-24T18:15:52.02157+00:00",
+"ca": "private/hidden"
+},
+{
+"id": 42442,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which of the following is NOT casting operator in C++ standard?",
+"op": [
+"reinterpret_cast",
+"dynamic_cast",
+"static_cast",
+"var_cast"
+],
+"created_at": "2026-06-24T18:16:12.293507+00:00",
+"ca": "var_cast"
+},
+{
+"id": 42443,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which condition is necessary for function overriding?",
+"op": [
+"Same function name + same parameters + inheritance",
+"Different function names",
+"Static keyword",
+"Same function name only"
+],
+"created_at": "2026-06-24T18:16:34.88073+00:00",
+"ca": "Same function name + same parameters + inheritance"
+},
+{
+"id": 42444,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "What is the general syntax of overloading Unary Operator as member function of the class?",
+"op": [
+"TYPE & operator OP (TYPE &, TYPE &);",
+"TYPE & operator OP (int);",
+"TYPE & operator OP (TYPE &);",
+"TYPE & operator OP ();"
+],
+"created_at": "2026-06-24T18:16:58.006637+00:00",
+"ca": "TYPE & operator OP ();"
+},
+{
+"id": 42445,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Compiler generated copy constructor performs __________.",
+"op": [
+"Shallow copy",
+"Deep copy",
+"Both Shallow and Deep copy",
+"Bitwise copy"
+],
+"created_at": "2026-06-24T18:17:24.21957+00:00",
+"ca": "Shallow copy"
+},
+{
+"id": 42446,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Suppose you have following C++ statements: int oldValue=10; int newValue = oldValue ++; What will be the value of oldValue and newValue after executing above statements?",
+"op": [
+"oldValue= 10 , newValue=10",
+"oldValue= 10 , newValue=11",
+"oldValue= 11 , newValue=11",
+"oldValue= 11 , newValue=10"
+],
+"created_at": "2026-06-24T18:17:38.609769+00:00",
+"ca": "oldValue= 11 , newValue=10"
+},
+{
+"id": 42447,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "In function overriding, if the return types of the base class function and the derived class function are different, it leads to:",
+"op": [
+"A warning at compile-time.",
+"An error at compile-time.",
+"A warning at run time",
+"An error at runtime."
+],
+"created_at": "2026-06-24T18:18:18.301786+00:00",
+"ca": "An error at compile-time."
+},
+{
+"id": 42448,
+"cc": "CS304",
+"qn": "3",
+"dt": "24 June 2026",
+"qt": "Which class has at least one pure virtual function?",
+"op": [
+"Concrete class",
+"Template class",
+"Child class",
+"Abstract class"
+],
+"created_at": "2026-06-24T18:18:35.656112+00:00",
+"ca": "Abstract class"
+},
+{
+"id": 42450,
+"cc": "CS304",
+"qn": "3",
+"dt": "26 June 2026",
+"qt": "Which statement will be true for concrete class?",
+"op": [
+"None of given options.",
+"It can be instantiated.",
+"It cannot be inherited from an abstract class.",
+"It cannot be instantiated."
+],
+"created_at": "2026-06-26T17:26:10.05053+00:00",
+"ca": "It can be instantiated."
+},
+{
+"id": 42451,
+"cc": "CS304",
+"qn": "3",
+"dt": "26 June 2026",
+"qt": "If a class is inherited using private inheritance, what happens to public members of the base class?",
+"op": [
+"Become inaccessible",
+"Become protected",
+"Remain public",
+"Become private"
+],
+"created_at": "2026-06-26T17:27:45.611482+00:00",
+"ca": "Become private"
+},
+{
+"id": 42452,
+"cc": "CS304",
+"qn": "3",
+"dt": "26 June 2026",
+"qt": "Consider the code below: class class1 {     private: int i; }; class class2 : protected class1 { }; Then int member i of class1 is ______ in class2.",
+"op": [
+"static",
+"protected",
+"public",
+"private"
+],
+"created_at": "2026-06-26T17:28:25.904414+00:00",
+"ca": "private"
+},
+{
+"id": 42453,
+"cc": "CS304",
+"qn": "3",
+"dt": "26 June 2026",
+"qt": "Which of the following operators operate on one operand?",
+"op": [
+"Unary Operators",
+"Binary Operators",
+"Ternary Operator",
+"Assignment Operator"
+],
+"created_at": "2026-06-26T17:28:44.72698+00:00",
+"ca": "Unary Operators"
+},
+{
+"id": 42454,
+"cc": "CS304",
+"qn": "3",
+"dt": "26 June 2026",
+"qt": "Target class of a _______ function call is determined at run time.",
+"op": [
+"Virtual",
+"Non- Virtual",
+"Operator",
+"Instance"
+],
+"created_at": "2026-06-26T17:29:29.582038+00:00",
+"ca": "Virtual"
+},
+{
+"id": 65147,
+"cc": "CS304",
+"qn": "3",
+"dt": "30 December 2025",
+"qt": "If we have not given any constructor for the class, compiler generates which of the following constructors?",
+"op": [
+"Implicit Default Constructor",
+"Implicit Parameterized Constructor",
+"Explicit Default Constructor",
+"Explicit Parameterized Constructor"
+],
+"created_at": "2026-07-15T13:27:16.096852+00:00",
+"ca": "Implicit Default Constructor"
+},
+{
+"id": 73661,
+"cc": "CS304",
+"qn": "4",
+"dt": "02 July 2026",
+"qt": "Which of the following is correct code to instantiate the object of given template Vector class for int type? template  class Vector { };",
+"op": [
+"Vector obj<>int;",
+"Vector  obj;",
+"Vector obj ;",
+"Vector int obj;"
+],
+"created_at": "2026-07-15T13:53:48.446846+00:00",
+"ca": "Vector  obj;"
+}
+]

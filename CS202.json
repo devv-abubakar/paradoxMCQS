@@ -1,0 +1,2606 @@
+[
+{
+    "id": 19837,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In JQuery, innerHeight() method returns:",
+    "op": [
+        "height of an element excluding padding",
+        "height of an element excluding border",
+        "height of an element including padding",
+        "height of an element including border"
+    ],
+    "created_at": "2026-06-23T19:17:58.734232+00:00"
+},
+{
+    "id": 19838,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The children() method selects:",
+    "op": [
+        "Direct child elements only",
+        "Parent elements",
+        "Sibling elements",
+        "All elements in DOM"
+    ],
+    "created_at": "2026-06-23T19:18:16.485831+00:00"
+},
+{
+    "id": 19841,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which part of a variable is hoisted in JavaScript?",
+    "op": [
+        "Declaration (variable name)",
+        "Assignment (value storage)",
+        "Initialization (assigning value)",
+        "Expression"
+    ],
+    "created_at": "2026-06-23T19:18:32.463138+00:00"
+},
+{
+    "id": 19844,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In DOM tree, an ancestor can be ___________.",
+    "op": [
+        "Child, grand-child, great grand-child and so on.",
+        "All of the given options",
+        "Parent, grand parent, great grand-parent and so on.",
+        "Siblings"
+    ],
+    "created_at": "2026-06-23T19:18:52.349763+00:00"
+},
+{
+    "id": 19846,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does points.sort(function(a,b){return a-b}) do?",
+    "op": [
+        "Sorts the array randomly",
+        "Sorts the array alphabetically",
+        "Sorts the array in ascending numeric order",
+        "Sorts the array in descending order"
+    ],
+    "created_at": "2026-06-23T19:19:04.417417+00:00"
+},
+{
+    "id": 19850,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "______________________ is used to Insert content at the beginning of the selected elements.",
+    "op": [
+        "After()",
+        "Prepend()",
+        "Before()",
+        "Append()"
+    ],
+    "created_at": "2026-06-23T19:19:17.266033+00:00"
+},
+{
+    "id": 19853,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "______________________ is used to Insert content at the end of the selected elements.",
+    "op": [
+        "Prepend()",
+        "Before()",
+        "After()",
+        "Append()"
+    ],
+    "created_at": "2026-06-23T19:19:33.150553+00:00"
+},
+{
+    "id": 19860,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "GET request sends data via:",
+    "op": [
+        "Header only",
+        "Cookie",
+        "URL",
+        "Body"
+    ],
+    "created_at": "2026-06-23T19:19:53.991751+00:00"
+},
+{
+    "id": 19866,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the best way to create an object in JavaScript?",
+    "op": [
+        "new Object()",
+        "{} (object literal)",
+        "create()",
+        "Object()"
+    ],
+    "created_at": "2026-06-23T19:20:04.873017+00:00"
+},
+{
+    "id": 19941,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How can you determine if a variable is an array in JavaScript?",
+    "op": [
+        "Inspecting the variable's constructor",
+        "Using the typeof operator",
+        "Checking if the variable's type is \"array\"",
+        "Using the isArray() function"
+    ],
+    "created_at": "2026-06-23T19:32:56.718122+00:00"
+},
+{
+    "id": 19942,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is syntax of creating XMLHttpRequest?",
+    "op": [
+        "new AJAX()",
+        "new HTTPRequest()",
+        "createRequest()",
+        "new XMLHttpRequest()"
+    ],
+    "created_at": "2026-06-23T19:33:03.79168+00:00"
+},
+{
+    "id": 19944,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which loop evaluates the condition after executing the code block?",
+    "op": [
+        "for loop",
+        "do/while loop",
+        "if statement",
+        "while loop"
+    ],
+    "created_at": "2026-06-23T19:33:12.108953+00:00"
+},
+{
+    "id": 19945,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The unary + operator is used to:",
+    "op": [
+        "Convert an object into an array",
+        "Convert a number into a string",
+        "Convert a string into a number",
+        "Convert a boolean into a string"
+    ],
+    "created_at": "2026-06-23T19:33:17.841841+00:00"
+},
+{
+    "id": 19946,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "undefined means:",
+    "op": [
+        "String value",
+        "Value not assigned yet",
+        "Null value",
+        "Number value"
+    ],
+    "created_at": "2026-06-23T19:33:24.814689+00:00"
+},
+{
+    "id": 19947,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the function of document ready event?",
+    "op": [
+        "None of the given options",
+        "To prevent an event from performing its default action",
+        "To prevent any jQuery code from running after the document has finished loading",
+        "To prevent any jQuery code from running before the document is finished loading"
+    ],
+    "created_at": "2026-06-23T19:33:33.390286+00:00"
+},
+{
+    "id": 19948,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which key is commonly used to open Developer Tools in most browsers?",
+    "op": [
+        "F10",
+        "F12",
+        "F5",
+        "F1"
+    ],
+    "created_at": "2026-06-23T19:33:39.480287+00:00"
+},
+{
+    "id": 19949,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "HTML validation is performed by:",
+    "op": [
+        "Server only",
+        "Browser automatically",
+        "JavaScript only",
+        "Database"
+    ],
+    "created_at": "2026-06-23T19:33:47.334673+00:00"
+},
+{
+    "id": 19952,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is a fast, small, and feature-rich JavaScript library?",
+    "op": [
+        "SQuery",
+        "None of the given options",
+        "FQuery",
+        "jQuery"
+    ],
+    "created_at": "2026-06-23T19:33:53.060834+00:00"
+},
+{
+    "id": 19954,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which attribute triggers validation on form submit?",
+    "op": [
+        "onclick",
+        "onsubmit",
+        "onload",
+        "onchange"
+    ],
+    "created_at": "2026-06-23T19:33:59.762288+00:00"
+},
+{
+    "id": 19995,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is responseXML used for?",
+    "op": [
+        "Rendering HTML only",
+        "Handling CSS data",
+        "Parsing XML response data",
+        "Processing JSON only"
+    ],
+    "created_at": "2026-06-23T19:48:28.578453+00:00"
+},
+{
+    "id": 19996,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does setting async = true mean in an AJAX request?",
+    "op": [
+        "The server does not respond",
+        "The browser stops execution until response is received",
+        "The request is disabled",
+        "The request runs in the background without blocking the page"
+    ],
+    "created_at": "2026-06-23T19:48:36.881229+00:00"
+},
+{
+    "id": 19997,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of typeof NaN?",
+    "op": [
+        "string",
+        "number",
+        "undefined",
+        "NaN"
+    ],
+    "created_at": "2026-06-23T19:48:44.408364+00:00"
+},
+{
+    "id": 19998,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following method(s) is/are used for traversing up the DOM tree?",
+    "op": [
+        "parent()",
+        "grandParents()",
+        "parental()",
+        "parents() and grandParents()"
+    ],
+    "created_at": "2026-06-23T19:49:10.071283+00:00"
+},
+{
+    "id": 19999,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Loop performance improves when you:",
+    "op": [
+        "Move calculations outside the loop",
+        "Use recursion",
+        "Increase iterations",
+        "Add extra variables"
+    ],
+    "created_at": "2026-06-23T19:49:42.569518+00:00"
+},
+{
+    "id": 20000,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Why should we avoid eval()?",
+    "op": [
+        "All of the above",
+        "It is unnecessary",
+        "It has security risks",
+        "It is slow"
+    ],
+    "created_at": "2026-06-23T19:49:50.266131+00:00"
+},
+{
+    "id": 20002,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The break statement is commonly used in:",
+    "op": [
+        "Objects",
+        "Functions",
+        "Loops and switch statements",
+        "Arrays"
+    ],
+    "created_at": "2026-06-23T19:49:58.547951+00:00"
+},
+{
+    "id": 20019,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Client-side validation is performed by:",
+    "op": [
+        "Browser",
+        "Firewall",
+        "Database",
+        "Server"
+    ],
+    "created_at": "2026-06-23T19:54:03.784902+00:00"
+},
+{
+    "id": 20020,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "To traverse sideways in the DOM Tree, ___________ is not a function.",
+    "op": [
+        "siblings()",
+        "nextUntil()",
+        "next()",
+        "nexts()"
+    ],
+    "created_at": "2026-06-23T19:54:23.643707+00:00"
+},
+{
+    "id": 20021,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the purpose of the debugger keyword in JavaScript?",
+    "op": [
+        "It makes the code run faster",
+        "It compiles the code into HTML",
+        "It removes all errors automatically",
+        "It pauses code execution for debugging purposes"
+    ],
+    "created_at": "2026-06-23T19:54:32.250909+00:00"
+},
+{
+    "id": 20022,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the primary use of the splice() method?",
+    "op": [
+        "Adds and/or removes elements from the array",
+        "Only deletes elements from the array",
+        "Sorts the elements of the array",
+        "Only adds elements to the array"
+    ],
+    "created_at": "2026-06-23T19:54:44.733013+00:00"
+},
+{
+    "id": 20023,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which condition confirms that an AJAX request was successfully completed?",
+    "op": [
+        "readyState == 0 and status == 200",
+        "readyState == 4 and status == 200",
+        "readyState == 1 and status == 500",
+        "readyState == 2 and status == 404"
+    ],
+    "created_at": "2026-06-23T19:54:58.87813+00:00"
+},
+{
+    "id": 20024,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What happens if you use a variable before declaring it (with var)?",
+    "op": [
+        "The program stops immediately",
+        "It may return undefined",
+        "It gives a syntax error",
+        "It always gives a runtime error"
+    ],
+    "created_at": "2026-06-23T19:55:28.81337+00:00"
+},
+{
+    "id": 20025,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In AJAX, which event is used to check the status of a server response?",
+    "op": [
+        "onreadystatechange",
+        "onsubmit",
+        "onclick",
+        "onload"
+    ],
+    "created_at": "2026-06-23T19:55:37.461076+00:00"
+},
+{
+    "id": 20026,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Why should we avoid global variables?",
+    "op": [
+        "They run faster",
+        "They can be changed from anywhere in the program",
+        "They are always required",
+        "They increase security"
+    ],
+    "created_at": "2026-06-23T19:55:46.592323+00:00"
+},
+{
+    "id": 20028,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The JQuery code: $(\"p\").hide() will hide _________.",
+    "op": [
+        "all <p> elements",
+        "None of the given options",
+        "only last <p> element",
+        "only first <p> element"
+    ],
+    "created_at": "2026-06-23T19:56:21.242076+00:00"
+},
+{
+    "id": 20030,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The statement window.alert() is equivalent to:",
+    "op": [
+        "print()",
+        "console.log()",
+        "document.write()",
+        "alert()"
+    ],
+    "created_at": "2026-06-23T19:56:40.906378+00:00"
+},
+{
+    "id": 20031,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which is a floating point issue?",
+    "op": [
+        "2 * 2 = 4",
+        "1 + 1 = 2",
+        "5 + 5 = 10",
+        "0.1 + 0.2 is not exactly 0.3"
+    ],
+    "created_at": "2026-06-23T19:56:56.754258+00:00"
+},
+{
+    "id": 20032,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The third statement in a for loop is responsible for:",
+    "op": [
+        "Initialization",
+        "Displaying output",
+        "Condition checking",
+        "Incrementing or decrementing the loop variable"
+    ],
+    "created_at": "2026-06-23T19:57:06.183531+00:00"
+},
+{
+    "id": 20033,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "A while loop executes:",
+    "op": [
+        "A fixed number of times",
+        "Infinite number of times",
+        "As long as the condition remains true",
+        "Only once"
+    ],
+    "created_at": "2026-06-23T19:57:20.948017+00:00"
+},
+{
+    "id": 20035,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following property(ies) of XMLHttpRequest object is/are used to get a response from the server?",
+    "op": [
+        "None of the given options",
+        "Both responseText & responseXML",
+        "responseXML",
+        "responseText"
+    ],
+    "created_at": "2026-06-23T19:57:36.34791+00:00"
+},
+{
+    "id": 20061,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the syntax for selecting HTML elements and performing some action on them in jQuery?",
+    "op": [
+        "$(selector)",
+        "(selector).action()",
+        "None of the given options",
+        "$(selector).action()"
+    ],
+    "created_at": "2026-06-23T20:05:23.573639+00:00"
+},
+{
+    "id": 20064,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The siblings() method selects:",
+    "op": [
+        "Elements at the same level",
+        "Root element",
+        "Parent element",
+        "Child elements"
+    ],
+    "created_at": "2026-06-23T20:05:55.66463+00:00"
+},
+{
+    "id": 20065,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which JavaScript method is used to find the position (index) of a match in a string?",
+    "op": [
+        "replace()",
+        "test()",
+        "search()",
+        "matchAll()"
+    ],
+    "created_at": "2026-06-23T20:06:04.470528+00:00"
+},
+{
+    "id": 20067,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "AJAX is based on internet standards, and uses",
+    "op": [
+        "Combination of both (A) & (B)",
+        "(A). XMLHttpRequest object (to retrieve data from a web server)",
+        "None of the above",
+        "(B). JavaScript/DOM (to display/use the data)"
+    ],
+    "created_at": "2026-06-23T20:06:12.505155+00:00"
+},
+{
+    "id": 20070,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Best practice for DOM access is:",
+    "op": [
+        "Access repeatedly",
+        "Store it in a variable",
+        "Avoid DOM",
+        "Delete DOM"
+    ],
+    "created_at": "2026-06-23T20:06:41.947414+00:00"
+},
+{
+    "id": 20078,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does the == operator check in JavaScript?",
+    "op": [
+        "Both value and data type",
+        "Reference equality",
+        "Only the data type",
+        "Only the value"
+    ],
+    "created_at": "2026-06-23T20:11:56.155325+00:00"
+},
+{
+    "id": 20079,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is meant by DOM traversing in jQuery?",
+    "op": [
+        "Select on element and move upwards or downwards to reach the required elements",
+        "Select child, parent, ancestor, current, descendant and sibling",
+        "Find the desired elements on the basis of their relationship with other elements",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-23T20:12:44.889422+00:00"
+},
+{
+    "id": 20081,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does the === operator check in JavaScript?",
+    "op": [
+        "Both value and data type",
+        "Reference equality",
+        "Only the data type",
+        "Only the value"
+    ],
+    "created_at": "2026-06-23T20:13:14.120424+00:00"
+},
+{
+    "id": 20082,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In JavaScript, the Window object represents:",
+    "op": [
+        "The browser’s main window or tab environment",
+        "The file system",
+        "A database connection",
+        "The server environment"
+    ],
+    "created_at": "2026-06-23T20:13:24.963171+00:00"
+},
+{
+    "id": 20083,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "AJAX allows:",
+    "op": [
+        "Page reload always",
+        "No server communication",
+        "Only HTML rendering",
+        "Partial page updates"
+    ],
+    "created_at": "2026-06-23T20:13:42.457297+00:00"
+},
+{
+    "id": 20084,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "When should you use objects instead of arrays in JavaScript?",
+    "op": [
+        "When you want to avoid using new Array()",
+        "When you want the element names to be numbers",
+        "When you want the element names to be strings (text)",
+        "When you want to create a hash array"
+    ],
+    "created_at": "2026-06-23T20:13:54.6016+00:00"
+},
+{
+    "id": 20085,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "The setInterval() function is used to:",
+    "op": [
+        "Execute code repeatedly at fixed time intervals",
+        "Stop all timers",
+        "Execute code once after delay",
+        "Execute code only on errors"
+    ],
+    "created_at": "2026-06-23T20:13:59.250984+00:00"
+},
+{
+    "id": 20091,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which object is the keystone of AJAX?",
+    "op": [
+        "DOM",
+        "JSON",
+        "XMLHttpRequest",
+        "Fetch API only"
+    ],
+    "created_at": "2026-06-23T20:15:19.106775+00:00"
+},
+{
+    "id": 20113,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the purpose of the throw statement in JavaScript?",
+    "op": [
+        "It creates a custom error message",
+        "It ignores the error",
+        "It stops a loop",
+        "It declares a variable"
+    ],
+    "created_at": "2026-06-23T20:24:43.25954+00:00"
+},
+{
+    "id": 20114,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Why should we avoid reserved words for variables?",
+    "op": [
+        "Reduce memory",
+        "Improve speed",
+        "Avoid syntax errors",
+        "Increase loops"
+    ],
+    "created_at": "2026-06-23T20:24:51.193514+00:00"
+},
+{
+    "id": 20118,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of Number(true)?",
+    "op": [
+        "true",
+        "1",
+        "false",
+        "0"
+    ],
+    "created_at": "2026-06-23T20:25:49.014343+00:00"
+},
+{
+    "id": 20119,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of typeof \"Hello\"?",
+    "op": [
+        "string",
+        "number",
+        "boolean",
+        "object"
+    ],
+    "created_at": "2026-06-23T20:26:11.074777+00:00"
+},
+{
+    "id": 20121,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does else do?",
+    "op": [
+        "Executes when condition is true",
+        "Loops code",
+        "Executes when condition is false",
+        "Ends program"
+    ],
+    "created_at": "2026-06-23T20:26:25.457742+00:00"
+},
+{
+    "id": 20122,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does validateForm() function return on invalid input?",
+    "op": [
+        "undefined",
+        "null",
+        "false",
+        "true"
+    ],
+    "created_at": "2026-06-23T20:26:38.992031+00:00"
+},
+{
+    "id": 20123,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does the i modifier (flag) do in a regular expression?",
+    "op": [
+        "Matches exact text only",
+        "Searches multiple lines",
+        "Ignores case (case-insensitive search)",
+        "Searches the whole text globally"
+    ],
+    "created_at": "2026-06-23T20:26:52.308901+00:00"
+},
+{
+    "id": 20124,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the purpose of compare function in sort()?",
+    "op": [
+        "To define custom sorting order",
+        "To reverse array",
+        "To delete elements",
+        "To join arrays"
+    ],
+    "created_at": "2026-06-23T20:27:04.533034+00:00"
+},
+{
+    "id": 20125,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the role of the default case in a switch statement?",
+    "op": [
+        "It executes when no matching case is found",
+        "It executes first in all cases",
+        "It is a mandatory case",
+        "It must always be written at the end"
+    ],
+    "created_at": "2026-06-23T20:27:15.357565+00:00"
+},
+{
+    "id": 20126,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How can we access a form using JavaScript?",
+    "op": [
+        "document.forms[\"formName\"]",
+        "window.form()",
+        "document.getElementByClass()",
+        "getForm()"
+    ],
+    "created_at": "2026-06-23T20:27:21.237966+00:00"
+},
+{
+    "id": 20127,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of typeof null?",
+    "op": [
+        "object",
+        "undefined",
+        "string",
+        "null"
+    ],
+    "created_at": "2026-06-23T20:27:27.451588+00:00"
+},
+{
+    "id": 20128,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is a breakpoint in debugging?",
+    "op": [
+        "A loop inside a program",
+        "A variable used in JavaScript",
+        "A point where code execution temporarily stops for checking values",
+        "A type of error in code"
+    ],
+    "created_at": "2026-06-23T20:27:39.727527+00:00"
+},
+{
+    "id": 20130,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which one is a reserved word?",
+    "op": [
+        "value",
+        "myVar",
+        "name",
+        "class"
+    ],
+    "created_at": "2026-06-23T20:27:55.432594+00:00"
+},
+{
+    "id": 20141,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "A trailing comma in an array may cause:",
+    "op": [
+        "No change at all",
+        "Better performance",
+        "Unexpected behavior or errors in some cases",
+        "Faster execution"
+    ],
+    "created_at": "2026-06-23T20:32:54.102111+00:00"
+},
+{
+    "id": 20143,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "All selectors in jQuery start with _______________.",
+    "op": [
+        "~()",
+        "$()",
+        "%()",
+        "#()"
+    ],
+    "created_at": "2026-06-23T20:33:00.113585+00:00"
+},
+{
+    "id": 20144,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "When does the finally block run in JavaScript?",
+    "op": [
+        "Only when there is an error",
+        "It always runs whether there is an error or not",
+        "Only when there is no error",
+        "It never runs"
+    ],
+    "created_at": "2026-06-23T20:33:12.006113+00:00"
+},
+{
+    "id": 20145,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How do you create an array in JavaScript using literal syntax?",
+    "op": [
+        "var arr = <>",
+        "var arr = []",
+        "var arr = ()",
+        "var arr = {}"
+    ],
+    "created_at": "2026-06-23T20:33:35.695916+00:00"
+},
+{
+    "id": 20156,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In DOM tree, a descendant can be ___________.",
+    "op": [
+        "Child, grand-child, great grand-child and so on.",
+        "Parent, grand parent, great grand-parent and so on.",
+        "Siblings",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-23T20:39:48.23256+00:00"
+},
+{
+    "id": 20159,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of the expression \"2\" > \"12\" in JavaScript?",
+    "op": [
+        "Runtime error",
+        "false",
+        "true",
+        "NaN"
+    ],
+    "created_at": "2026-06-23T20:41:26.049182+00:00"
+},
+{
+    "id": 20160,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "innerWidth() method of JQuery returns:",
+    "op": [
+        "width of an element including border",
+        "width of an element excluding border",
+        "width of an element including padding",
+        "width of an element excluding padding"
+    ],
+    "created_at": "2026-06-23T20:41:27.961962+00:00"
+},
+{
+    "id": 20161,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the result of Number(\"3.14\")?",
+    "op": [
+        "NaN",
+        "3",
+        "\"3.14\"",
+        "3.14"
+    ],
+    "created_at": "2026-06-23T20:42:10.425989+00:00"
+},
+{
+    "id": 20163,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the role of the first statement in a for loop?",
+    "op": [
+        "To display output",
+        "To define the loop condition",
+        "To initialize the loop variable",
+        "To increment the loop variable"
+    ],
+    "created_at": "2026-06-23T20:44:23.570035+00:00"
+},
+{
+    "id": 20164,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which property returns XML data?",
+    "op": [
+        "getXML",
+        "XMLResponse",
+        "responseText",
+        "responseXML"
+    ],
+    "created_at": "2026-06-23T20:45:59.280565+00:00"
+},
+{
+    "id": 20165,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "AJAX is about:",
+    "op": [
+        "Receiving data from server without reloading the whole page",
+        "Both Sending and receiving data from server by reloading the whole page",
+        "Sending data to server without reloading the whole page",
+        "Both sending and receiving data from server without reloading the whole page"
+    ],
+    "created_at": "2026-06-23T20:47:34.39569+00:00"
+},
+{
+    "id": 20167,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What does readyState = 4 indicate in an XMLHttpRequest?",
+    "op": [
+        "Response is fully received and ready to use",
+        "Request has not started",
+        "Server is disconnected",
+        "Request is being sent"
+    ],
+    "created_at": "2026-06-23T20:48:52.599584+00:00"
+},
+{
+    "id": 20168,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which object is used in AJAX?",
+    "op": [
+        "WebRequest",
+        "XMLHttpRequest",
+        "HttpRequest",
+        "AJAXObject"
+    ],
+    "created_at": "2026-06-23T20:48:53.837476+00:00"
+},
+{
+    "id": 20208,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What happens when a break statement is executed?",
+    "op": [
+        "The loop restarts",
+        "Only one iteration is skipped",
+        "The loop terminates immediately and control exits the loop",
+        "The loop continues execution"
+    ],
+    "created_at": "2026-06-23T22:01:50.130866+00:00"
+},
+{
+    "id": 20211,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In JQuery, outerHeight() method returns:",
+    "op": [
+        "height of an element excluding padding",
+        "height of an element including padding",
+        "height of an element including border and padding",
+        "height of an element excluding border and padding"
+    ],
+    "created_at": "2026-06-23T22:02:13.891518+00:00"
+},
+{
+    "id": 20361,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In the statement var x = 5;, what gets hoisted?",
+    "op": [
+        "Nothing is hoisted",
+        "The value 5",
+        "The declaration var x",
+        "The assignment x = 5"
+    ],
+    "created_at": "2026-06-24T01:43:12.406591+00:00"
+},
+{
+    "id": 20362,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which property returns string response?",
+    "op": [
+        "responseString",
+        "responseText",
+        "responseXML",
+        "textResponse"
+    ],
+    "created_at": "2026-06-24T01:44:35.918093+00:00"
+},
+{
+    "id": 20371,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What is the purpose of the pop() method in JavaScript arrays?",
+    "op": [
+        "Adds an element at the beginning of the array",
+        "Sorts the elements of the array",
+        "Removes the last element from the array",
+        "Removes the first element from the array"
+    ],
+    "created_at": "2026-06-24T01:58:28.125856+00:00"
+},
+{
+    "id": 20390,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which comparison operator is used internally by the switch statement?",
+    "op": [
+        "<",
+        "===",
+        "!=",
+        "=="
+    ],
+    "created_at": "2026-06-24T02:31:27.724369+00:00"
+},
+{
+    "id": 20423,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "How do you access the first element of an array cars in JavaScript?",
+    "op": [
+        "cars(0)",
+        "cars.0",
+        "cars{0}",
+        "cars[0]"
+    ],
+    "created_at": "2026-06-24T03:00:54.44443+00:00"
+},
+{
+    "id": 20424,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following feature is not part of the jQuery library?",
+    "op": [
+        "Effects and animations",
+        "CSS manipulation",
+        "None of the given options",
+        "HTML/DOM manipulation"
+    ],
+    "created_at": "2026-06-24T03:02:05.869321+00:00"
+},
+{
+    "id": 20431,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is not a loop in JavaScript?",
+    "op": [
+        "for",
+        "while",
+        "for/in",
+        "do in"
+    ],
+    "created_at": "2026-06-24T03:06:19.96684+00:00"
+},
+{
+    "id": 20473,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which keyword tests multiple conditions?",
+    "op": [
+        "switch",
+        "break",
+        "else if",
+        "if"
+    ],
+    "created_at": "2026-06-24T04:00:04.393504+00:00"
+},
+{
+    "id": 20474,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "Which of the following function is not for traversing up the DOM tree?",
+    "op": [
+        "grandParents()",
+        "parentsUntil()",
+        "parent()",
+        "parents()"
+    ],
+    "created_at": "2026-06-24T04:03:55.063412+00:00"
+},
+{
+    "id": 20506,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "In JQuery, outerWidth() method returns:",
+    "op": [
+        "width of an element including padding",
+        "width of an element including border and padding",
+        "width of an element excluding padding",
+        "width of an element excluding border and padding"
+    ],
+    "created_at": "2026-06-24T04:29:42.296865+00:00"
+},
+{
+    "id": 20539,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "What term is used to describe arrays with named indexes in programming languages?",
+    "op": [
+        "Associative arrays",
+        "Linear array",
+        "Ordinal arrays",
+        "Sequential arrays"
+    ],
+    "created_at": "2026-06-24T04:51:59.218073+00:00"
+},
+{
+    "id": 20549,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "24 June 2026",
+    "qt": "onreadystatechange triggers when:",
+    "op": [
+        "State changes",
+        "Form submits",
+        "User clicks",
+        "Page loads"
+    ],
+    "created_at": "2026-06-24T04:52:45.407075+00:00"
+},
+{
+    "id": 30819,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What is the function of the prepend() method?",
+    "op": [
+        "Adds content after elements",
+        "Adds content at the end",
+        "Adds content at the beginning of elements",
+        "Deletes content"
+    ],
+    "created_at": "2026-06-30T19:02:49.802162+00:00"
+},
+{
+    "id": 30823,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does parents() method return?",
+    "op": [
+        "Only child elements",
+        "All ancestor elements up to the root element",
+        "Only the direct parent",
+        "Only sibling elements"
+    ],
+    "created_at": "2026-06-30T19:02:58.061896+00:00"
+},
+{
+    "id": 30827,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does the text() method return?",
+    "op": [
+        "Attribute values",
+        "CSS styles",
+        "Only the text content of elements",
+        "HTML code"
+    ],
+    "created_at": "2026-06-30T19:03:04.335058+00:00"
+},
+{
+    "id": 30833,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does the removeClass() method do in jQuery?",
+    "op": [
+        "Switches between adding and removing classes automatically",
+        "Removes one or more specified classes from selected elements",
+        "Applies animation effects to elements",
+        "Adds one or more classes to selected elements"
+    ],
+    "created_at": "2026-06-30T19:03:10.306499+00:00"
+},
+{
+    "id": 30835,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Queue functionality means:",
+    "op": [
+        "No order",
+        "All animations run together",
+        "Animation stops",
+        "Animations run one by one"
+    ],
+    "created_at": "2026-06-30T19:03:16.313935+00:00"
+},
+{
+    "id": 30839,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What must be passed to an event method to define its action?",
+    "op": [
+        "String",
+        "Number",
+        "Boolean",
+        "Function"
+    ],
+    "created_at": "2026-06-30T19:03:23.537449+00:00"
+},
+{
+    "id": 30845,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "XML files are:",
+    "op": [
+        "Binary files",
+        "Video files",
+        "Encrypted files only",
+        "Text files that are readable and editable"
+    ],
+    "created_at": "2026-06-30T19:03:31.497983+00:00"
+},
+{
+    "id": 30848,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does parentsUntil(\"div\") do?",
+    "op": [
+        "Returns parent elements up to (but not including) the <div> element",
+        "Returns sibling elements",
+        "Returns all child elements",
+        "Returns all parent elements"
+    ],
+    "created_at": "2026-06-30T19:03:38.444219+00:00"
+},
+{
+    "id": 30854,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which statement about XML element names is correct?",
+    "op": [
+        "XML element names are case-sensitive",
+        "XML element names can contain spaces",
+        "XML is case-insensitive",
+        "XML element names can start with numbers"
+    ],
+    "created_at": "2026-06-30T19:03:48.83434+00:00"
+},
+{
+    "id": 30857,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does traversing mean in jQuery?",
+    "op": [
+        "Adding new elements to the DOM",
+        "Changing the style of elements",
+        "Moving through and finding elements in the DOM tree",
+        "Deleting elements from the page"
+    ],
+    "created_at": "2026-06-30T19:03:57.162713+00:00"
+},
+{
+    "id": 31510,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does the width() method return in jQuery?",
+    "op": [
+        "Only margin value",
+        "Width including margin",
+        "Width including padding",
+        "Content width only (excluding padding, border, and margin)"
+    ],
+    "created_at": "2026-06-30T19:27:44.74477+00:00"
+},
+{
+    "id": 31520,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does it mean that XML is “extensible”?",
+    "op": [
+        "XML cannot be modified",
+        "New elements can be added without affecting existing structure",
+        "XML has fixed predefined tags",
+        "XML only works with HTML"
+    ],
+    "created_at": "2026-06-30T19:28:04.888628+00:00"
+},
+{
+    "id": 31524,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does the append() method do?",
+    "op": [
+        "Removes content",
+        "Inserts content at the end of selected elements",
+        "Replaces content",
+        "Inserts content at the beginning"
+    ],
+    "created_at": "2026-06-30T19:28:16.130043+00:00"
+},
+{
+    "id": 31530,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "How are methods executed in a jQuery chain?",
+    "op": [
+        "In random order",
+        "One after another in sequence",
+        "In reverse order",
+        "All at the same time"
+    ],
+    "created_at": "2026-06-30T19:28:32.812145+00:00"
+},
+{
+    "id": 31545,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "In $.post(), which parameter is optional?",
+    "op": [
+        "Both Data and Callback",
+        "Callback",
+        "Data",
+        "URL"
+    ],
+    "created_at": "2026-06-30T19:29:20.473688+00:00"
+},
+{
+    "id": 31553,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "The val() method is mainly used for:",
+    "op": [
+        "Working with images",
+        "Adding animations",
+        "Styling elements",
+        "Getting or setting values of form fields"
+    ],
+    "created_at": "2026-06-30T19:29:35.216146+00:00"
+},
+{
+    "id": 31572,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "A callback function executes:",
+    "op": [
+        "Randomly",
+        "Before effect",
+        "During effect",
+        "After effect completes"
+    ],
+    "created_at": "2026-06-30T19:30:18.625142+00:00"
+},
+{
+    "id": 31575,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is the default character encoding for XML documents?",
+    "op": [
+        "None of the given options",
+        "UTF-8",
+        "UTF-16",
+        "UTF-32"
+    ],
+    "created_at": "2026-06-30T19:30:33.105778+00:00"
+},
+{
+    "id": 31638,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Math.floor() does:",
+    "op": [
+        "Divide number",
+        "Round up",
+        "Random number",
+        "Round down"
+    ],
+    "created_at": "2026-06-30T19:33:29.34483+00:00"
+},
+{
+    "id": 31644,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does “self-describing syntax” in XML mean?",
+    "op": [
+        "XML needs external explanation",
+        "XML cannot be read by humans",
+        "XML explains itself using tags",
+        "XML is only for programming"
+    ],
+    "created_at": "2026-06-30T19:33:36.989745+00:00"
+},
+{
+    "id": 31742,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which method selects siblings between elements in a range?",
+    "op": [
+        "nextUntil()",
+        "next()",
+        "prev()",
+        "siblings()"
+    ],
+    "created_at": "2026-06-30T19:36:24.173918+00:00"
+},
+{
+    "id": 31839,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "In hide(speed, callback), callback runs:",
+    "op": [
+        "After hide completes",
+        "During hide",
+        "Never",
+        "Before hide"
+    ],
+    "created_at": "2026-06-30T19:39:20.683763+00:00"
+},
+{
+    "id": 31889,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Why is XML useful when data changes frequently?",
+    "op": [
+        "Because data can be stored separately from HTML",
+        "Because HTML must be rewritten",
+        "Because it only works offline",
+        "Because XML automatically deletes data"
+    ],
+    "created_at": "2026-06-30T19:41:00.088834+00:00"
+},
+{
+    "id": 31897,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "The hover() method combines:",
+    "op": [
+        "click + dblclick",
+        "keydown + keyup",
+        "mouseenter + mouseleave",
+        "focus + blur"
+    ],
+    "created_at": "2026-06-30T19:41:09.616291+00:00"
+},
+{
+    "id": 31907,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What is the top element of an XML tree called?",
+    "op": [
+        "Child element",
+        "Root element",
+        "Leaf element",
+        "Attribute"
+    ],
+    "created_at": "2026-06-30T19:41:31.444548+00:00"
+},
+{
+    "id": 31945,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "How can multiple classes be added using addClass()?",
+    "op": [
+        "addClass(\"class1 class2\")",
+        "addClass([\"class1\", \"class2\"])",
+        "addClass(\"class1+class2\")",
+        "addClass(\"class1, class2\")"
+    ],
+    "created_at": "2026-06-30T19:43:17.467126+00:00"
+},
+{
+    "id": 31953,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What is the correct syntax of $.get()?",
+    "op": [
+        "$.get(callback)",
+        "$.get()",
+        "$.get(URL, callback)",
+        "$.get(data, URL)"
+    ],
+    "created_at": "2026-06-30T19:44:01.135105+00:00"
+},
+{
+    "id": 31993,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which syntax is used to assign a click event in jQuery?",
+    "op": [
+        "$(\"p\").click()",
+        "$(\"p\").trigger(click)",
+        "$(\"p\").onClick()",
+        "$(\"p\").event(click)"
+    ],
+    "created_at": "2026-06-30T19:47:15.298291+00:00"
+},
+{
+    "id": 31998,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which parameter in load() runs after content is loaded?",
+    "op": [
+        "method",
+        "data",
+        "callback function",
+        "URL"
+    ],
+    "created_at": "2026-06-30T19:47:38.000618+00:00"
+},
+{
+    "id": 32000,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "slideUp() is used to:",
+    "op": [
+        "Resize element",
+        "Fade element",
+        "Show element",
+        "Hide element with slide effect"
+    ],
+    "created_at": "2026-06-30T19:47:45.567551+00:00"
+},
+{
+    "id": 32002,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which method fades in elements?",
+    "op": [
+        "fadeIn()",
+        "show()",
+        "hide()",
+        "fadeOut()"
+    ],
+    "created_at": "2026-06-30T19:47:52.247814+00:00"
+},
+{
+    "id": 32005,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "slideDown() does what?",
+    "op": [
+        "Shows element with sliding effect",
+        "Hides element",
+        "Moves element",
+        "Deletes element"
+    ],
+    "created_at": "2026-06-30T19:48:06.541982+00:00"
+},
+{
+    "id": 32013,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does next() method return?",
+    "op": [
+        "Previous sibling",
+        "The immediate next sibling only",
+        "Parent element",
+        "All next siblings"
+    ],
+    "created_at": "2026-06-30T19:48:42.641044+00:00"
+},
+{
+    "id": 32235,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which syntax is used to get a CSS property value?",
+    "op": [
+        "css(\"propertyname\")",
+        "css(property, value)",
+        "css()",
+        "getCss(\"property\")"
+    ],
+    "created_at": "2026-06-30T20:20:46.401762+00:00"
+},
+{
+    "id": 32242,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "animate() syntax includes:",
+    "op": [
+        "speed",
+        "All of these",
+        "callback",
+        "params"
+    ],
+    "created_at": "2026-06-30T20:22:05.764679+00:00"
+},
+{
+    "id": 32250,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which jQuery method returns the width including padding?",
+    "op": [
+        "innerWidth()",
+        "height()",
+        "outerWidth()",
+        "width()"
+    ],
+    "created_at": "2026-06-30T20:23:32.792983+00:00"
+},
+{
+    "id": 32257,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is NOT a common use of XML?",
+    "op": [
+        "Game graphics rendering",
+        "Stock information",
+        "Financial transactions",
+        "Weather services"
+    ],
+    "created_at": "2026-06-30T20:24:36.825366+00:00"
+},
+{
+    "id": 32349,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What happens after using $.noConflict()?",
+    "op": [
+        "CSS stops working",
+        "$ becomes available for other libraries",
+        "jQuery stops working",
+        "DOM is removed"
+    ],
+    "created_at": "2026-06-30T20:37:16.42571+00:00"
+},
+{
+    "id": 32355,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What does $(document).ready() do?",
+    "op": [
+        "Loads CSS",
+        "Hides elements",
+        "Executes code after document loads",
+        "Creates events"
+    ],
+    "created_at": "2026-06-30T20:37:54.174213+00:00"
+},
+{
+    "id": 32493,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is/are example(s) of event?",
+    "op": [
+        "selecting a radio button",
+        "clicking on an element",
+        "moving a mouse over an element",
+        "All of the given options"
+    ],
+    "created_at": "2026-06-30T21:04:53.50016+00:00"
+},
+{
+    "id": 32579,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which jQuery code correctly sets both width and height to 500 pixels?",
+    "op": [
+        "$(\"#div1\").size(500)",
+        "$(\"#div1\").resize(500)",
+        "$(\"#div1\").width(500).height(500);",
+        "$(\"#div1\").setSize(500,500)"
+    ],
+    "created_at": "2026-06-30T21:35:27.725678+00:00"
+},
+{
+    "id": 32618,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Math.random() returns value between:",
+    "op": [
+        "-1 and 1",
+        "0 and 1",
+        "10 and 100",
+        "1 and 10"
+    ],
+    "created_at": "2026-06-30T21:54:40.122741+00:00"
+},
+{
+    "id": 32619,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "XML is used as a format for document storage and processing, ____________.",
+    "op": [
+        "both online and offline",
+        "online",
+        "None of the given options",
+        "offline"
+    ],
+    "created_at": "2026-06-30T21:54:51.705833+00:00"
+},
+{
+    "id": 32881,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "What is the main advantage of AJAX?",
+    "op": [
+        "Loads data without refreshing the page",
+        "Changes CSS styles",
+        "Creates new HTML pages",
+        "Reloads the full page"
+    ],
+    "created_at": "2026-07-01T00:05:17.702462+00:00"
+},
+{
+    "id": 32883,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "XML is commonly used to:",
+    "op": [
+        "Replace JavaScript",
+        "Separate data from presentation",
+        "Design hardware",
+        "Compress images"
+    ],
+    "created_at": "2026-07-01T00:05:31.373349+00:00"
+},
+{
+    "id": 33658,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which parameter is required in load() method?",
+    "op": [
+        "status",
+        "URL",
+        "data",
+        "callback"
+    ],
+    "created_at": "2026-07-01T02:54:37.458041+00:00"
+},
+{
+    "id": 33819,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "fadeToggle() does what?",
+    "op": [
+        "Stops animation",
+        "Only fades out",
+        "Toggles fade in/out",
+        "Only fades in"
+    ],
+    "created_at": "2026-07-01T03:28:41.224927+00:00"
+},
+{
+    "id": 34429,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Which of the following is a correct example of jQuery chaining?",
+    "op": [
+        "slideUp, slideDown",
+        "css + slideUp",
+        "css().slideUp().slideDown()",
+        "css(); slideUp();"
+    ],
+    "created_at": "2026-07-01T04:53:15.702096+00:00"
+},
+{
+    "id": 34641,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "01 July 2026",
+    "qt": "Where can $ still be used after noConflict()?",
+    "op": [
+        "Only in CSS",
+        "Inside a function where it is passed as a parameter",
+        "Nowhere",
+        "Anywhere in code"
+    ],
+    "created_at": "2026-07-01T05:21:27.092948+00:00"
+},
+{
+    "id": 42334,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "A while loop executes:",
+    "op": [
+        "A fixed number of times",
+        "Infinite number of times",
+        "Only once",
+        "As long as the condition remains true"
+    ],
+    "created_at": "2026-06-25T11:39:42.263259+00:00"
+},
+{
+    "id": 42335,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "How can we access a form using JavaScript?",
+    "op": [
+        "window.form()",
+        "document.getElementByClass()",
+        "document.forms[\"formName\"]",
+        "getForm()"
+    ],
+    "created_at": "2026-06-25T11:40:22.8226+00:00"
+},
+{
+    "id": 42336,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "undefined means:",
+    "op": [
+        "Value not assigned yet",
+        "Null value",
+        "String value",
+        "Number value"
+    ],
+    "created_at": "2026-06-25T11:40:47.882028+00:00"
+},
+{
+    "id": 42337,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Loop performance improves when you:",
+    "op": [
+        "Increase iterations",
+        "Use recursion",
+        "Move calculations outside the loop",
+        "Add extra variables"
+    ],
+    "created_at": "2026-06-25T11:41:10.294506+00:00"
+},
+{
+    "id": 42338,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "What happens when a break statement is executed?",
+    "op": [
+        "The loop terminates immediately and control exits the loop",
+        "Only one iteration is skipped",
+        "The loop restarts",
+        "The loop continues execution"
+    ],
+    "created_at": "2026-06-25T11:41:32.568934+00:00"
+},
+{
+    "id": 42339,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Default parameters help to:",
+    "op": [
+        "Remove function",
+        "Stop execution",
+        "Prevent undefined values in functions",
+        "Create loops"
+    ],
+    "created_at": "2026-06-25T11:41:56.507615+00:00"
+},
+{
+    "id": 42340,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "The unary + operator is used to:",
+    "op": [
+        "Convert a string into a number",
+        "Convert a boolean into a string",
+        "Convert an object into an array",
+        "Convert a number into a string"
+    ],
+    "created_at": "2026-06-25T11:42:15.669572+00:00"
+},
+{
+    "id": 42341,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "AJAX is about:",
+    "op": [
+        "Both Sending and receiving data from server by reloading the whole page",
+        "Receiving data from server without reloading the whole page",
+        "Sending data to server without reloading the whole page",
+        "Both sending and receiving data from server without reloading the whole page"
+    ],
+    "created_at": "2026-06-25T11:42:37.493753+00:00"
+},
+{
+    "id": 42342,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "What is the purpose of the pop() method in JavaScript arrays?",
+    "op": [
+        "Sorts the elements of the array",
+        "Adds an element at the beginning of the array",
+        "Removes the last element from the array",
+        "Removes the first element from the array"
+    ],
+    "created_at": "2026-06-25T11:43:05.276535+00:00"
+},
+{
+    "id": 42343,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "25 June 2026",
+    "qt": "Which of the following method(s) is/are used for traversing up the DOM tree?",
+    "op": [
+        "parents() and grandParents()",
+        "parent()",
+        "parental()",
+        "grandParents()"
+    ],
+    "created_at": "2026-06-25T11:43:33.448317+00:00"
+},
+{
+    "id": 65177,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What value will be returned by the following JavaScript expression? \n1 == \"1\"",
+    "op": [
+        "NaN",
+        "Infinity",
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65179,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following statement is correct about Associative arrays? ",
+    "op": [
+        "Arrays with named indexes.",
+        "Arrays without named indexes.",
+        "Arrays with indexes.",
+        "Arrays without indexes."
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65181,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What value will be returned by the following expression? 1 === \"1\"",
+    "op": [
+        "False",
+        "NaN",
+        "True",
+        "-Infinity"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65182,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is not a valid JavaScript variable?",
+    "op": [
+        "None of the given options",
+        "number",
+        "2number",
+        "mynumber2"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65194,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What value will be returned by the following expression? \n0 == true",
+    "op": [
+        "False",
+        "Infinity",
+        "NaN",
+        "True"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65196,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "For bit wise operations, a numeric operand is converted into  ____________ binary numbers.",
+    "op": [
+        "32-bit",
+        "8-bit",
+        "64-bit",
+        "16-bit"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65197,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What will be the sequence of elements in the array \"colour\" after using sort function on it?\nvar colour = [\"Blue\", \"Pink\", \"Purple\", \"Black\"]; \ncolour.sort();",
+    "op": [
+        "[\"Black\", \"Purple \", \"Pink \", \"Blue \"];",
+        "[\"Purple\", \"Pink\", \"Blue \", \"Black\"];",
+        "[\"Blue\", \"Pink\", \"Purple\", \"Black\"];",
+        "[\"Black\", \"Blue \", \"Pink \", \"Purple \"];"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65198,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following function is used to define an alternative sort order? ",
+    "op": [
+        "None of the above.",
+        "Alternative function.",
+        "Comparison function.",
+        "Compare function."
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65219,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is NOT true about JavaScript?",
+    "op": [
+        "JavaScript can change HTML Attributes.",
+        "JavaScript can not change HTML Content.",
+        "JavaScript can change HTML Content.",
+        "None of the given options"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65220,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Associative arrays are also called __________. ",
+    "op": [
+        "hashes",
+        "smashes.",
+        "slashes.",
+        "mashes"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65221,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is NOT a jQuery Sliding Methods?",
+    "op": [
+        "slideUp()",
+        "slideDown()",
+        "slideToggle()",
+        "slideSwitch()"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65222,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is true about Bit operators? ",
+    "op": [
+        "Bit operators work on 256-bit numbers",
+        "Bit operators work on 32-bit numbers.",
+        "Bit operators work on 128-bit numbers.",
+        "Bit operators work on 64-bit numbers."
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65259,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Java script code is written within the file having extension of____________.",
+    "op": [
+        ".jvs",
+        ".js",
+        ".jvm",
+        ".j"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65311,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "JavaScript is ______ side scripting language.",
+    "op": [
+        "ISP",
+        "Server Side",
+        "Both Client and Server Side",
+        "Client Side"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65312,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What will be the resulting array after execution of the following commands? var colour = [\"Blue\", \"Pink\", \"Purple\", \"Black\"]; colour.pop(); ",
+    "op": [
+        "[\"Blue\", \"Purple\", \"Black\"];",
+        "[\"Blue\", \"Pink\", \"Purple\"];",
+        "[\"Pink\", \"Purple\", \"Black\"];",
+        "[\"Blue\", \"Pink\", \"Black\"];"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65357,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Java Script is designed to ____________.",
+    "op": [
+        "Execute database queries on webpages",
+        "To add server side operations",
+        "Add interactivity on HTML pages",
+        "Style HTML pages"
+    ],
+    "created_at": "2026-07-15T13:27:17.338221+00:00"
+},
+{
+    "id": 65367,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "The $(document).ready() method allows us to execute a function when,",
+    "op": [
+        "None of the given options",
+        "Document is fully loaded",
+        "Document is partially loaded",
+        "Document is about to load"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65381,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "What is the function of responseText in AJAX?",
+    "op": [
+        "get the response data as XML data",
+        "All of the given options",
+        "get the response data as a string",
+        "get the response data as an integer"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65382,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "To sort an array in descending order, sort() function can be used with the combination of __________ function.",
+    "op": [
+        "Concat()",
+        "Reverse()",
+        "Slice()",
+        "Shift()"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65415,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following function is used to remove last element of the array?",
+    "op": [
+        "Delete()",
+        "Shift()",
+        "Pop()",
+        "Push()"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65454,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Choose the correct syntax to create an array students in JavaScript?",
+    "op": [
+        "var students = {\"Ali\", \"Ahmed\", \"Noor\"};",
+        "var students[] = {\"Ali\", \"Ahmed\", \"Noor\"};",
+        "var students [\"Ali\", \"Ahmed\", \"Noor\"];",
+        "var students = [\"Ali\", \"Ahmed\", \"Noor\"];"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65500,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following is NOT a way to join multiple words into one variable name in JavaScript?",
+    "op": [
+        "Camel Case",
+        "Underscore",
+        "Semicolon",
+        "Hyphens"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 65512,
+    "cc": "CS202",
+    "qn": "3",
+    "dt": "30 December 2025",
+    "qt": "Which of the following value will JavaScript return if we calculate a number outside the largest possible number?",
+    "op": [
+        "Invalid",
+        "Infinity",
+        "Exceeded",
+        "Outofrange"
+    ],
+    "created_at": "2026-07-15T13:27:18.115684+00:00"
+},
+{
+    "id": 68565,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "____________ is a lightweight data-interchange format. ",
+    "op": [
+        "HTML",
+        "JSON",
+        "Java",
+        "CSS"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68567,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "What does JSON stand for? ",
+    "op": [
+        "Java Standard Object Notation",
+        "JavaScript Object Notation",
+        "JavaScript Online Notation",
+        "JavaScript Object Network"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68571,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "How can JSON data be converted into native JavaScript objects? ",
+    "op": [
+        "Using the JSON.stringify() function",
+        "Using the XMLHttpRequest function",
+        "Using the XMLParser function",
+        "Using the JSON.parse() function"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68577,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Why are XML Schemas considered more powerful than DTD? ",
+    "op": [
+        "They support data types and namespaces",
+        "They are less complex than DTDs",
+        "They use CSS for styling",
+        "They support JavaScript"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68578,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following is not a benefit of using XML Schemas? ",
+    "op": [
+        "It is easier to describe document content.",
+        "It is easier to define restrictions on data",
+        "It is only used for styling purposes",
+        "It is easier to convert data between different data types."
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68580,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "What is an XML Schema? ",
+    "op": [
+        "An XML-based alternative to DTD (Document Type Defination)",
+        "A structure for representing the data in a database",
+        "A language used to style XML documents",
+        "A method for transferring data over the internet"
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68582,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which of the following is not a naming rule for XML elements?",
+    "op": [
+        "It cannot start with the letters xml or XML or Xml, etc.",
+        "It can contain letters, digits, hyphens, underscores, and periods.",
+        "It must start with a letter or underscore.",
+        "It can contain spaces."
+    ],
+    "created_at": "2026-07-15T13:27:36.36522+00:00"
+},
+{
+    "id": 68900,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Which statement is true about both JSON and XML? ",
+    "op": [
+        "Both JSON and XML cannot be parsed by programming languages",
+        "Both JSON and XML use end tags",
+        "Both JSON and XML are not hierarchical",
+        "Both JSON and XML can be fetched with an XMLHttpRequest"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68907,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "In an XML document, all elements can contain ________________.",
+    "op": [
+        "All of the given options",
+        "sub elements",
+        "attributes",
+        "text"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68915,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "JSON makes it possible to store ________ objects as text. ",
+    "op": [
+        "C++",
+        "C",
+        "JavaScript",
+        "Java"
+    ],
+    "created_at": "2026-07-15T13:27:37.098395+00:00"
+},
+{
+    "id": 68981,
+    "cc": "CS202",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "JSON uses syntax of _________.",
+    "op": [
+        "HTML",
+        "JavaScript",
+        "Java",
+        "CSS"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+}
+]
