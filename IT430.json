@@ -1,0 +1,3854 @@
+[
+{
+    "id": 31048,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of these is a primary participant in E-Cash Payment system?",
+    "op": [
+        "Bank",
+        "All",
+        "Merchant",
+        "Buyer"
+    ],
+    "created_at": "2026-06-30T19:10:21.20285+00:00"
+},
+{
+    "id": 31056,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many entities involved in a SET transaction?",
+    "op": [
+        "4",
+        "2",
+        "3",
+        "5"
+    ],
+    "created_at": "2026-06-30T19:10:47.95092+00:00"
+},
+{
+    "id": 31075,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "_________ is the length of a message digest.",
+    "op": [
+        "32 to 64 bits",
+        "64 to 128 bits",
+        "128 to 256 bits",
+        "256 to 512 bits"
+    ],
+    "created_at": "2026-06-30T19:11:30.460697+00:00"
+},
+{
+    "id": 31081,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Centralized Account Payment Model uses unique _________ of users as their account identifier.",
+    "op": [
+        "E-mail address",
+        "Office address",
+        "Residence address",
+        "None"
+    ],
+    "created_at": "2026-06-30T19:11:50.826754+00:00"
+},
+{
+    "id": 31085,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Proxy Server can _______.",
+    "op": [
+        "Can also act as a firewall filtering requests for certain web pages",
+        "All of Above",
+        "Translate HTTP request between trusted and un trusted network",
+        "Speed up the processing of http requests by caching web pages"
+    ],
+    "created_at": "2026-06-30T19:11:56.272776+00:00"
+},
+{
+    "id": 31091,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Branch to headquarter network _______.",
+    "op": [
+        "PNA",
+        "NPV",
+        "VPN",
+        "APN"
+    ],
+    "created_at": "2026-06-30T19:12:08.065889+00:00"
+},
+{
+    "id": 31097,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Attacker attempts to decrypt the message with every possible key in ________.",
+    "op": [
+        "System-Based Attacks",
+        "None of the given",
+        "Key Search Attacks",
+        "Cryptanalysis"
+    ],
+    "created_at": "2026-06-30T19:12:17.666473+00:00"
+},
+{
+    "id": 31106,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Using SSL, we type in URL as :",
+    "op": [
+        "httpi",
+        "httpc",
+        "httpc",
+        "https"
+    ],
+    "created_at": "2026-06-30T19:12:33.819483+00:00"
+},
+{
+    "id": 31114,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which word in a URL indicates that the web server hosting this web site is SSL enabled?",
+    "op": [
+        "HTTPS",
+        ".com",
+        "WWW",
+        "HTTP"
+    ],
+    "created_at": "2026-06-30T19:12:43.207486+00:00"
+},
+{
+    "id": 31594,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "______ uses a set of rules to determine whether outgoing or incoming data packets are allowed to pass through the firewall.",
+    "op": [
+        "Application gateway firewall",
+        "Packet filter firewall",
+        "Proxy server",
+        "Circuit level firewall"
+    ],
+    "created_at": "2026-06-30T19:32:06.21001+00:00"
+},
+{
+    "id": 31601,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is the range of message digest?",
+    "op": [
+        "1 to 64 bits",
+        "1 to 128 bits",
+        "128 to 256 bits",
+        "1 to 256 bits"
+    ],
+    "created_at": "2026-06-30T19:32:30.342795+00:00"
+},
+{
+    "id": 31610,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which entity does not include in SET(secure Electronic Transaction)?",
+    "op": [
+        "Payment gateway",
+        "Bank",
+        "Seller",
+        "Buyer"
+    ],
+    "created_at": "2026-06-30T19:32:48.60611+00:00"
+},
+{
+    "id": 31615,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The process of unscrambling a message is called_____.",
+    "op": [
+        "Encryption",
+        "Decryption",
+        "Hacking",
+        "Scrambling"
+    ],
+    "created_at": "2026-06-30T19:32:58.708163+00:00"
+},
+{
+    "id": 31623,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Currency used in E-Cash Payment system is called _________.",
+    "op": [
+        "Cent",
+        "Coin",
+        "Dollar",
+        "Penny"
+    ],
+    "created_at": "2026-06-30T19:33:07.542628+00:00"
+},
+{
+    "id": 31630,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ is added in message digest to create digital signatures?",
+    "op": [
+        "Sender's symmetric key",
+        "Public key of third party",
+        "Sender's public key",
+        "Sender's private key"
+    ],
+    "created_at": "2026-06-30T19:33:17.63713+00:00"
+},
+{
+    "id": 31641,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "________ is the basic purpose of applying hash function on a message.",
+    "op": [
+        "Encryption of message",
+        "All of the given",
+        "Simplification of communication",
+        "Boosting up transfer speed"
+    ],
+    "created_at": "2026-06-30T19:33:31.247068+00:00"
+},
+{
+    "id": 31913,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If a key having 6 bits length how many possible values for it?",
+    "op": [
+        "12",
+        "36",
+        "64",
+        "8"
+    ],
+    "created_at": "2026-06-30T19:41:44.533995+00:00"
+},
+{
+    "id": 31917,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At deposit stage, the client is _______ by E-Cashbank.",
+    "op": [
+        "Secret",
+        "Verified first",
+        "Unknown",
+        "Known"
+    ],
+    "created_at": "2026-06-30T19:41:57.252031+00:00"
+},
+{
+    "id": 31921,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "__________ provides the security of data transmission to/from the acquirer bank.",
+    "op": [
+        "Cardholder",
+        "Merchant",
+        "Certification authority",
+        "Payment gateway"
+    ],
+    "created_at": "2026-06-30T19:42:04.748364+00:00"
+},
+{
+    "id": 31925,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is function of Cyberwallet?",
+    "op": [
+        "Manage Coins",
+        "Record transactions",
+        "Store coins",
+        "All of given"
+    ],
+    "created_at": "2026-06-30T19:42:14.472669+00:00"
+},
+{
+    "id": 31929,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many main stages in payment mechanism?",
+    "op": [
+        "3",
+        "4",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-06-30T19:42:21.544864+00:00"
+},
+{
+    "id": 31932,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In which payment system customer do not have to pay interest to the bank on a transaction?",
+    "op": [
+        "All of the given",
+        "Debit card",
+        "Credit card",
+        "Electronic cheque"
+    ],
+    "created_at": "2026-06-30T19:42:27.553903+00:00"
+},
+{
+    "id": 31936,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A unique large number generated as a result of applying hash function on a message is called ________.",
+    "op": [
+        "Message digest",
+        "Digitally singed message",
+        "Hash message",
+        "Secret message"
+    ],
+    "created_at": "2026-06-30T19:42:35.885608+00:00"
+},
+{
+    "id": 31941,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "CERT is the abbreviation of___________.",
+    "op": [
+        "Computer Elegant Response Team",
+        "Computer Enter Response Team",
+        "Computer Emergency Response Team",
+        "Computer Efficient Response Team"
+    ],
+    "created_at": "2026-06-30T19:42:55.074984+00:00"
+},
+{
+    "id": 32104,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What are the security threats in VPS?",
+    "op": [
+        "Missing of delivery",
+        "Both A and B",
+        "Credit card number stolen",
+        "Email hacking"
+    ],
+    "created_at": "2026-06-30T19:59:52.827051+00:00"
+},
+{
+    "id": 32105,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one is the example of symmetric key algorithm?",
+    "op": [
+        "Rinjdael – 128-256 bits",
+        "RSA",
+        "Elliptic Curves",
+        "DSS"
+    ],
+    "created_at": "2026-06-30T20:00:03.904628+00:00"
+},
+{
+    "id": 32106,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Asymmetric type of cryptography _________.",
+    "op": [
+        "Same Key is used for encryption and decryption",
+        "Different  keys are used for encryption and decryption",
+        "None of Above",
+        "A&B"
+    ],
+    "created_at": "2026-06-30T20:00:17.336899+00:00"
+},
+{
+    "id": 32107,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "SETSET(secure Electronic Transaction) was developed by ________.",
+    "op": [
+        "All of given",
+        "Master Cards and VISA",
+        "Netscape Navigator",
+        "Microsoft"
+    ],
+    "created_at": "2026-06-30T20:00:29.462588+00:00"
+},
+{
+    "id": 32109,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Cryptography is used  to ________.",
+    "op": [
+        "Send message Fast.",
+        "Send message to family and friends.",
+        "Ensure confidentiality of information.",
+        "Send Messages to employees."
+    ],
+    "created_at": "2026-06-30T20:01:01.214118+00:00"
+},
+{
+    "id": 32115,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If a revealed serial no. is not contained in the database, it proves that the __________.",
+    "op": [
+        "Coin is valid and unspent.",
+        "Coin is invalid.",
+        "Coin is valid and spent.",
+        "Wrong Serial no."
+    ],
+    "created_at": "2026-06-30T20:01:34.860268+00:00"
+},
+{
+    "id": 32119,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "During the SSL handshake process, a client sends a message to the server, in response the server sends ________ for authentication of its public key.",
+    "op": [
+        "FTP",
+        "HTTP request",
+        "Digital certificate",
+        "TCP"
+    ],
+    "created_at": "2026-06-30T20:01:43.410442+00:00"
+},
+{
+    "id": 32261,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many type of cryptography we have?",
+    "op": [
+        "Five",
+        "Two",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-06-30T20:24:59.343937+00:00"
+},
+{
+    "id": 32267,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Cryptography is the technique of _______.",
+    "op": [
+        "Converting a message into unintelligible or non-understandable form.",
+        "Converting a message into understandable form.",
+        "Converting a message into intelligible or understandable form.",
+        "Converting a message into intelligible  form."
+    ],
+    "created_at": "2026-06-30T20:25:25.906653+00:00"
+},
+{
+    "id": 32274,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In E-cash _______ maintains a database of spent coins.",
+    "op": [
+        "Merchant",
+        "Cyber wallet",
+        "Client",
+        "Bank"
+    ],
+    "created_at": "2026-06-30T20:26:00.878501+00:00"
+},
+{
+    "id": 32282,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The serial # generated by the cyberwallet gets multiplied by blinding factor ‘r’ which is known only to the ___________.",
+    "op": [
+        "Merchant",
+        "Client",
+        "All of given",
+        "Bank"
+    ],
+    "created_at": "2026-06-30T20:27:59.086869+00:00"
+},
+{
+    "id": 32287,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Virtual PIN Payment System requires both merchant and buyer to register with ________.",
+    "op": [
+        "First Virtual (FV)",
+        "Auto Clearing House (ACH)",
+        "DES (Data Encryption Standard)",
+        "DSS (Digital Signature Standard)"
+    ],
+    "created_at": "2026-06-30T20:29:21.705082+00:00"
+},
+{
+    "id": 32291,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In case of transaction failure or crash,  one can retrieve his or her lost coins by sending all blinded signed coins from last …………………withdrawals to the E-bank.",
+    "op": [
+        "12",
+        "14",
+        "16",
+        "10"
+    ],
+    "created_at": "2026-06-30T20:29:49.791473+00:00"
+},
+{
+    "id": 32330,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In Virtual Payment system , Four kinds of information is provided to e-bank. Identify which one is NOT included:",
+    "op": [
+        "Actual amount of money in favor of merchant",
+        "Buyer password",
+        "Buyer Accounts identifier",
+        "Address of Merchant"
+    ],
+    "created_at": "2026-06-30T20:34:55.984586+00:00"
+},
+{
+    "id": 32333,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "It is necessary for both buyer and seller to have their account in the ---------E-bank.",
+    "op": [
+        "Separate",
+        "Same",
+        "partially same",
+        "Any"
+    ],
+    "created_at": "2026-06-30T20:35:05.258636+00:00"
+},
+{
+    "id": 32335,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "What is basic advantage of symmetric algorithms?",
+    "op": [
+        "All of the given",
+        "Symmetric algorithms are easy to understand",
+        "Symmetric algorithms are faster",
+        "Symmetric key does not use any encryption"
+    ],
+    "created_at": "2026-06-30T20:35:14.980035+00:00"
+},
+{
+    "id": 32338,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Coins used in the payment are encrypted with _______ public key",
+    "op": [
+        "Bank’s",
+        "Client's",
+        "Merchant's",
+        "Cyber wallet's"
+    ],
+    "created_at": "2026-06-30T20:35:39.17268+00:00"
+},
+{
+    "id": 32344,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of these payment systems do not involve the use of encryption?",
+    "op": [
+        "Electronic check",
+        "Electronic cash",
+        "None of the given",
+        "Virtual PIN"
+    ],
+    "created_at": "2026-06-30T20:36:03.992903+00:00"
+},
+{
+    "id": 32346,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At minting stage, the client is _______ by E-Cashbank.",
+    "op": [
+        "Secret",
+        "Unknown",
+        "Informed",
+        "Known"
+    ],
+    "created_at": "2026-06-30T20:36:20.704434+00:00"
+},
+{
+    "id": 32347,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "how many unique key values are possible if a key is 4 bit in length?",
+    "op": [
+        "16",
+        "32",
+        "4",
+        "8"
+    ],
+    "created_at": "2026-06-30T20:36:27.958773+00:00"
+},
+{
+    "id": 32557,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Basic difference between Virtual PIN Payment System and Electronic Check is ________.",
+    "op": [
+        "No. of participants",
+        "Encryption",
+        "There is no difference between them",
+        "Registration with bank"
+    ],
+    "created_at": "2026-06-30T21:23:56.999959+00:00"
+},
+{
+    "id": 32561,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many are there participants in E-CASH PAYMENT SYSTEM?",
+    "op": [
+        "Two",
+        "Five",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-06-30T21:25:49.51424+00:00"
+},
+{
+    "id": 32562,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At which of the following stage ,Validity of coins is done?",
+    "op": [
+        "Withdrawal",
+        "Minting stage",
+        "Deposit stage and Withdrawal",
+        "Deposit stage"
+    ],
+    "created_at": "2026-06-30T21:26:22.118906+00:00"
+},
+{
+    "id": 32567,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "SETSET(secure Electronic Transaction) was developed in _________.",
+    "op": [
+        "1999",
+        "1995",
+        "1997",
+        "1996"
+    ],
+    "created_at": "2026-06-30T21:27:50.92249+00:00"
+},
+{
+    "id": 32568,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Circuit level firewall operate at the ________ Layer.",
+    "op": [
+        "Transport",
+        "Data Link",
+        "Presentation",
+        "Network"
+    ],
+    "created_at": "2026-06-30T21:28:00.651082+00:00"
+},
+{
+    "id": 32610,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Application gateway firewall operate at ________.",
+    "op": [
+        "Session Layer",
+        "None of Above",
+        "Network Layer",
+        "Application layer"
+    ],
+    "created_at": "2026-06-30T21:53:26.326159+00:00"
+},
+{
+    "id": 32613,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following represent correct sequence of steps for electronic check payment system?",
+    "op": [
+        "Payee’s bank ? Payer’s bank ? Payee ? Payer",
+        "Payer’s bank ? Payee’s bank ? Payer ? Payee",
+        "Payer’s bank ? Payee ? Payee’s bank ? Payer",
+        "Payer ? Payee ? Payee’s bank ? Payer’s bank"
+    ],
+    "created_at": "2026-06-30T21:53:43.055665+00:00"
+},
+{
+    "id": 32615,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Is the name of popular cryptographic System_____.",
+    "op": [
+        "Pure Gold Privacy",
+        "Pretty Good Privacy (PGP)",
+        "Pretty Gold Privacy (PGP)",
+        "Pretty Gold Privacy"
+    ],
+    "created_at": "2026-06-30T21:54:05.455504+00:00"
+},
+{
+    "id": 32640,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which type of firewall operates at application layer of the OSI Model?",
+    "op": [
+        "Application gateway firewall",
+        "Packet filter firewall",
+        "Proxy server",
+        "Circuit level firewall"
+    ],
+    "created_at": "2026-06-30T21:59:31.508951+00:00"
+},
+{
+    "id": 32645,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In symmetric type of cryptography______.",
+    "op": [
+        "A&B",
+        "Different  keys are used for encryption and decryption.",
+        "Same keys are used for encryption and decryption.",
+        "None"
+    ],
+    "created_at": "2026-06-30T22:00:36.23945+00:00"
+},
+{
+    "id": 32647,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Application gateway firewall _______.",
+    "op": [
+        "Can not block any outgoing HTTP or FTP requests",
+        "Can block any outgoing HTTP but not FTP requests",
+        "Can not block any outgoing HTTP but FTP requests",
+        "Can block any outgoing HTTP or FTP requests"
+    ],
+    "created_at": "2026-06-30T22:01:09.690352+00:00"
+},
+{
+    "id": 32936,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "By whom a payer secret code is generated, for proving the payment?",
+    "op": [
+        "Client",
+        "Merchant and client",
+        "Seller",
+        "E-bank"
+    ],
+    "created_at": "2026-07-01T00:21:57.138199+00:00"
+},
+{
+    "id": 32941,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one is the example of Attacks on Public Key Algorithms?",
+    "op": [
+        "Cryptanalysis",
+        "System-based Attacks",
+        "Analytical Attacks",
+        "Key Search Attacks"
+    ],
+    "created_at": "2026-07-01T00:23:20.444385+00:00"
+},
+{
+    "id": 33118,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "PayPal is the eaxmple of which type of payment system?",
+    "op": [
+        "Centralized Account Payment Model",
+        "VIRTUAL PIN PAYMENT SYSTEM",
+        "Financial Services Technology Consortium",
+        "Electronic Checks"
+    ],
+    "created_at": "2026-07-01T01:12:45.688745+00:00"
+},
+{
+    "id": 33120,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The key feature of E-Cash Payment system is __________.",
+    "op": [
+        "Anonymity",
+        "Simplicity",
+        "Availability",
+        "Connectivity"
+    ],
+    "created_at": "2026-07-01T01:12:51.859983+00:00"
+},
+{
+    "id": 33129,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In E-Cash Payment system, the software installed on buyer’s computer is called",
+    "op": [
+        "Cyber-locker",
+        "Cyber-account",
+        "Cyber-wallet",
+        "Cyber-bank"
+    ],
+    "created_at": "2026-07-01T01:13:26.439149+00:00"
+},
+{
+    "id": 33134,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of the following payment system should give LEAST preference if you want to buy diamonds.",
+    "op": [
+        "Credit card",
+        "Electronic checks",
+        "Virtual PIN payment system",
+        "Electronic Cash"
+    ],
+    "created_at": "2026-07-01T01:13:39.199767+00:00"
+},
+{
+    "id": 33191,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Virtual PIN Payment system is considered suitable for ________.",
+    "op": [
+        "Low-cost items",
+        "Very expensive items",
+        "Every kind of items",
+        "High-cost items"
+    ],
+    "created_at": "2026-07-01T01:25:00.078073+00:00"
+},
+{
+    "id": 33238,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Cyber wallet stores and manages ______ and records every transaction.",
+    "op": [
+        "Serial #",
+        "Cash",
+        "Coins",
+        "Cryptography"
+    ],
+    "created_at": "2026-07-01T01:33:25.275771+00:00"
+},
+{
+    "id": 33351,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of these keys can be used for encryption instead of using pair of private and public keys?",
+    "op": [
+        "Systematic key",
+        "Asymmetric key",
+        "All given options",
+        "Symmetric key"
+    ],
+    "created_at": "2026-07-01T01:57:14.363386+00:00"
+},
+{
+    "id": 33353,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "SANS stands for _______.",
+    "op": [
+        "None of Above",
+        "System Administration, Authentication, Network and Security Institute",
+        "Software Authentication, Audit, Network and Security Institute",
+        "Systems Administrator, Audit, Network and Security Institute"
+    ],
+    "created_at": "2026-07-01T01:57:28.704907+00:00"
+},
+{
+    "id": 33355,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Caching ______.",
+    "op": [
+        "None of Above",
+        "have no effect on downloading of the page",
+        "increase the time of downloading the page",
+        "saves the time of downloading the page"
+    ],
+    "created_at": "2026-07-01T01:58:10.93508+00:00"
+},
+{
+    "id": 33428,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which of these attacks have been reported on symmetric key algorithms?",
+    "op": [
+        "Key Search Attacks",
+        "All of given",
+        "Cryptanalysis",
+        "System-Based Attacks"
+    ],
+    "created_at": "2026-07-01T02:06:21.826868+00:00"
+},
+{
+    "id": 33433,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "DES, IDEA, RC2, RC4 and Rinjdael are examples of  _________.",
+    "op": [
+        "Private key algorithms",
+        "Symmetric key algorithms",
+        "Asymmetric key algorithms",
+        "Public key algorithms"
+    ],
+    "created_at": "2026-07-01T02:06:42.018065+00:00"
+},
+{
+    "id": 33434,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Extranet formed when Two (2) or more ______ are connected to each other.",
+    "op": [
+        "WANs",
+        "LANs",
+        "Intranets",
+        "MANs"
+    ],
+    "created_at": "2026-07-01T02:06:48.26439+00:00"
+},
+{
+    "id": 33493,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "____________ indicates that the web server hosting the web site is SSL enabled.",
+    "op": [
+        "Https",
+        "Telnet",
+        "Http",
+        "FTP"
+    ],
+    "created_at": "2026-07-01T02:15:32.081487+00:00"
+},
+{
+    "id": 33494,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "A company/entity that has an online presence is known as ________ .",
+    "op": [
+        "Customer",
+        "Merchant",
+        "e-business",
+        "e-bank"
+    ],
+    "created_at": "2026-07-01T02:15:51.641703+00:00"
+},
+{
+    "id": 33631,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At deposit stage, the serial number is _______ by E-Cashbank.",
+    "op": [
+        "Known",
+        "Kept Secret",
+        "Informed",
+        "Unknown"
+    ],
+    "created_at": "2026-07-01T02:48:10.129374+00:00"
+},
+{
+    "id": 33633,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Key version represents public key by _________.",
+    "op": [
+        "Buyer",
+        "Certification Authority",
+        "E-Bank",
+        "Seller"
+    ],
+    "created_at": "2026-07-01T02:48:21.145754+00:00"
+},
+{
+    "id": 33636,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At minting stage, the serial number is _______ by E-Cashbank.",
+    "op": [
+        "Known",
+        "Forwarded",
+        "Secret",
+        "Unknown"
+    ],
+    "created_at": "2026-07-01T02:48:57.28053+00:00"
+},
+{
+    "id": 33639,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Hash function is a/an ________.",
+    "op": [
+        "Log file",
+        "Encryption mechanism",
+        "Hardware device",
+        "Communication protocol"
+    ],
+    "created_at": "2026-07-01T02:49:17.116474+00:00"
+},
+{
+    "id": 33827,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "FVIPSS stands for _________.",
+    "op": [
+        "First Virtual Internet Payment System Server",
+        "First Virtual International Payment System Services",
+        "First Virtual Internal Payment System Services",
+        "First Virtual International Payment System Server"
+    ],
+    "created_at": "2026-07-01T03:29:25.59288+00:00"
+},
+{
+    "id": 33841,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "EFT stands for _________.",
+    "op": [
+        "None of above",
+        "Electronic Funds Transfer",
+        "Electronic File Translation",
+        "Electronic Film Transmission"
+    ],
+    "created_at": "2026-07-01T03:31:32.92715+00:00"
+},
+{
+    "id": 34043,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Cipher suite is a combination of",
+    "op": [
+        "Cryptographic Algorithm",
+        "Security layers",
+        "Authentication methods",
+        "Cryptographic Algorithm And Authentication methods"
+    ],
+    "created_at": "2026-07-01T04:01:32.056376+00:00"
+},
+{
+    "id": 34047,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "How many elements an e-coin has?",
+    "op": [
+        "2",
+        "1",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-01T04:02:52.222805+00:00"
+},
+{
+    "id": 34050,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Process of scrambling a message with the help of a key is ______.",
+    "op": [
+        "Decryption",
+        "Scrambled",
+        "Hacking",
+        "Encryption"
+    ],
+    "created_at": "2026-07-01T04:03:38.147529+00:00"
+},
+{
+    "id": 34070,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "secure, dedicated point to point connection over the internet ______.",
+    "op": [
+        "Virtual Private Network",
+        "Metropolitan area Network",
+        "Wide Area Network",
+        "Local area Network"
+    ],
+    "created_at": "2026-07-01T04:07:15.726767+00:00"
+},
+{
+    "id": 34080,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "At which Layer the Packet filter firewall operates?",
+    "op": [
+        "Application layer",
+        "Transport layer",
+        "Presentation",
+        "Data link and network layers"
+    ],
+    "created_at": "2026-07-01T04:09:11.661457+00:00"
+},
+{
+    "id": 34239,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Currency used in E-CASH PAYMENT SYSTEM is known as ________ .",
+    "op": [
+        "e-cash",
+        "Cyber wallet",
+        "Electronic Checks",
+        "e-cash coin"
+    ],
+    "created_at": "2026-07-01T04:33:27.907093+00:00"
+},
+{
+    "id": 34400,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "VPN is example of _______.",
+    "op": [
+        "Extranet",
+        "LAN",
+        "MAN",
+        "None of Above"
+    ],
+    "created_at": "2026-07-01T04:49:47.239843+00:00"
+},
+{
+    "id": 34432,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "SSL stands for?",
+    "op": [
+        "Secure Socket Layer",
+        "Sub Secured Length",
+        "Security Service Layer",
+        "Secure Software Layer"
+    ],
+    "created_at": "2026-07-01T04:53:26.317683+00:00"
+},
+{
+    "id": 34515,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Payer code is a secret generated by the ________.",
+    "op": [
+        "Client",
+        "Merchant",
+        "Cyber wallet",
+        "Bank"
+    ],
+    "created_at": "2026-07-01T05:01:45.198236+00:00"
+},
+{
+    "id": 47423,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Missing and incorrect values in data base should be corrected by the process of ---------------",
+    "op": [
+        "Data mining",
+        "Data integration",
+        "Data selection",
+        "Data cleaning"
+    ],
+    "created_at": "2026-07-05T19:00:29.761141+00:00"
+},
+{
+    "id": 47428,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An E-Business can't have direct feedback from the customer in B2C.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T19:00:59.796998+00:00"
+},
+{
+    "id": 47450,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In…………………, there is no direct contact with the end users",
+    "op": [
+        "B2C",
+        "C2C",
+        "B2B",
+        "All"
+    ],
+    "created_at": "2026-07-05T19:01:43.908634+00:00"
+},
+{
+    "id": 47484,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which 5th P introduced by E-business in Marketing Mix?",
+    "op": [
+        "Personalized Services",
+        "Proper access",
+        "Proper coverage",
+        "Personal style"
+    ],
+    "created_at": "2026-07-05T19:02:17.89889+00:00"
+},
+{
+    "id": 47519,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The information from personal finance software can systematically be used to __________.",
+    "op": [
+        "Both",
+        "None",
+        "prepare a budget for certain activities",
+        "calculate taxes"
+    ],
+    "created_at": "2026-07-05T19:02:49.212331+00:00"
+},
+{
+    "id": 47554,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is cheapest and quickest marketing technique to reach distant customers?",
+    "op": [
+        "Telephone marketing",
+        "Advertisement letters marketing",
+        "E-Mail marketing",
+        "SMS marketing"
+    ],
+    "created_at": "2026-07-05T19:03:22.879839+00:00"
+},
+{
+    "id": 47579,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Click and Mortar refers to",
+    "op": [
+        "Online business",
+        "Engineering",
+        "Offline business",
+        "Building"
+    ],
+    "created_at": "2026-07-05T19:03:49.006681+00:00"
+},
+{
+    "id": 47632,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How many kinds of Web Portals are?",
+    "op": [
+        "6",
+        "2",
+        "3",
+        "5"
+    ],
+    "created_at": "2026-07-05T19:04:24.307095+00:00"
+},
+{
+    "id": 47743,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT an advertising payment mode?",
+    "op": [
+        "Pay-per-sale",
+        "Pay-per-click",
+        "Pay-per-keypress",
+        "Pay-per-lead"
+    ],
+    "created_at": "2026-07-05T19:05:36.770927+00:00"
+},
+{
+    "id": 47799,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Free-Trial advertisement means ___________.",
+    "op": [
+        "The company didn’t had to pay for this advertisement.",
+        "Customer is offered to use the product free of cost for a specific amount of time.",
+        "Free coupons are placed on certain websites for customers so that they can use it for shopping.",
+        "Items bought are delivered to the customers with no delivery cost."
+    ],
+    "created_at": "2026-07-05T19:06:14.532675+00:00"
+},
+{
+    "id": 48441,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When you email at it430@vu.edu.pk , your email is automatically sorted and replied to your ID.",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T19:15:08.606848+00:00"
+},
+{
+    "id": 48517,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ is the ability to sell the goods or provide the service at a price that is lower than that of competitors, and thus attract more customers.",
+    "op": [
+        "Focus",
+        "Differentation",
+        "None of Above",
+        "Cost Leadership"
+    ],
+    "created_at": "2026-07-05T19:16:07.46058+00:00"
+},
+{
+    "id": 48531,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The result of OLAP is displayed in the form of a __________.",
+    "op": [
+        "Data cube",
+        "Data square",
+        "Data circle",
+        "Data Triangle"
+    ],
+    "created_at": "2026-07-05T19:16:23.171809+00:00"
+},
+{
+    "id": 48546,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Call handling, sales tracking and Transaction support(technology / personnel) activities are included in which management system",
+    "op": [
+        "Inventory  management system",
+        "Data Base Management system",
+        "Public relation management system",
+        "Customer Relationship Management system"
+    ],
+    "created_at": "2026-07-05T19:16:40.349268+00:00"
+},
+{
+    "id": 48555,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The analysis where an analyst first looks into business unit to identify its strengths and weaknesses and point out threats is",
+    "op": [
+        "CSR",
+        "RVP",
+        "CRM",
+        "SWOT"
+    ],
+    "created_at": "2026-07-05T19:16:53.392382+00:00"
+},
+{
+    "id": 48568,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Term \"Branding\" refers to a/an",
+    "op": [
+        "agreement between two parties that one will pay the other a commission on customer action.",
+        "emotional shortcut between a company and its customers.",
+        "Loss bearing",
+        "strategic union with another company/business for mutual benefit or profit sharing."
+    ],
+    "created_at": "2026-07-05T19:17:06.298416+00:00"
+},
+{
+    "id": 48591,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Downstream activitiesof the Supply Chain Managment relate to ________________.",
+    "op": [
+        "Packaging of goods",
+        "Distribution and sale of goods to distributors/customers",
+        "Manufacturing",
+        "Materials and services"
+    ],
+    "created_at": "2026-07-05T19:17:30.26282+00:00"
+},
+{
+    "id": 48603,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "CPM is an advertising payment mode. CPM stands for ________.",
+    "op": [
+        "Cost Per Megabyte",
+        "Cost Per Month",
+        "Cost Per Minute",
+        "Cost Per Message"
+    ],
+    "created_at": "2026-07-05T19:17:40.567994+00:00"
+},
+{
+    "id": 48701,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Creation of separate experiences for customers based on their behavior is called",
+    "op": [
+        "Behavioral segmentation",
+        "Demographic segmentation",
+        "Geo-Graphic Segmentation",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T19:19:18.300297+00:00"
+},
+{
+    "id": 48720,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A database has a number of erroneous and missing values in a row, we can delete this row in the process of-----------",
+    "op": [
+        "Data integration",
+        "Data selection",
+        "Data transformation",
+        "Data cleaning"
+    ],
+    "created_at": "2026-07-05T19:19:44.854252+00:00"
+},
+{
+    "id": 49354,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "MSN portal provides useful information and a search engine free of cost, but earns revenue through advertisements, is an example of ___________________.",
+    "op": [
+        "Fee-for-Transaction Revenue Model",
+        "Advertising-Subscription Mixed Revenue Model",
+        "Advertising-Supported Revenue Model",
+        "Fee-for-Service Revenue Model"
+    ],
+    "created_at": "2026-07-05T19:38:25.479528+00:00"
+},
+{
+    "id": 49361,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In _______ service/information is provided free of any charge to certain audience and the advertising revenue is sufficient to support the operation of the business and its cost.",
+    "op": [
+        "Advertising-Supported Revenue Model",
+        "Waterfall model",
+        "Advertising-Subscription Mixed Revenue Model",
+        "Mixed Revenue Model"
+    ],
+    "created_at": "2026-07-05T19:38:36.12602+00:00"
+},
+{
+    "id": 49363,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Brick and Mortar refers to",
+    "op": [
+        "Online business",
+        "Building",
+        "Transport",
+        "Offline business"
+    ],
+    "created_at": "2026-07-05T19:38:41.129373+00:00"
+},
+{
+    "id": 49365,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "EDI Stands for ______",
+    "op": [
+        "ELECTRONIC DATA INTERFACE",
+        "ELECTRONIC DISPLAY INTERFACE",
+        "NONE of Above",
+        "ELECTRONIC DATA INTERCHANGE"
+    ],
+    "created_at": "2026-07-05T19:38:48.53091+00:00"
+},
+{
+    "id": 49371,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The ability to sell the goods or provide the service at a price that is lower than that of competitors is called",
+    "op": [
+        "Cost leadership",
+        "Differentiation",
+        "Focus",
+        "Termination"
+    ],
+    "created_at": "2026-07-05T19:39:02.328492+00:00"
+},
+{
+    "id": 49380,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Technology development relates to activities ___________.",
+    "op": [
+        "All of Above",
+        "maintenance of procedures",
+        "fields tests",
+        "process improvement studies"
+    ],
+    "created_at": "2026-07-05T19:39:30.670121+00:00"
+},
+{
+    "id": 49388,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In certain cases the customers cannot decide about buying a thing before they physically examine, is named as",
+    "op": [
+        "Security",
+        "Cryptography.",
+        "No physical proximity with items purchased.",
+        "Less Privacy."
+    ],
+    "created_at": "2026-07-05T19:39:44.878372+00:00"
+},
+{
+    "id": 49393,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose elements which are necessary for create and maintain a product.",
+    "op": [
+        "Product differentiation & relevance",
+        "All of above",
+        "Perceived value",
+        "Relevance & perceived value"
+    ],
+    "created_at": "2026-07-05T19:39:52.193277+00:00"
+},
+{
+    "id": 49405,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which stage of  CRM customers have developed a sense of  loyalty for products of company",
+    "op": [
+        "familiarity",
+        "exploration",
+        "awareness",
+        "commitment"
+    ],
+    "created_at": "2026-07-05T19:40:14.846551+00:00"
+},
+{
+    "id": 49409,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Advertising Subscription Mixed Revenue Model includes",
+    "op": [
+        "Online journals",
+        "Sports information services",
+        "All of the above",
+        "Business week online"
+    ],
+    "created_at": "2026-07-05T19:40:22.875416+00:00"
+},
+{
+    "id": 50366,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Value added networks, Post Box is",
+    "op": [
+        "Electronic banking",
+        "Security",
+        "Where outgoing messages are placed",
+        "Where incoming messages can be picked up"
+    ],
+    "created_at": "2026-07-05T20:49:40.084032+00:00"
+},
+{
+    "id": 50368,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "ERP stands for _______.",
+    "op": [
+        "Enterprise Resource Planning",
+        "Enterprise Rescue Planning",
+        "Enterprise Rescue Profit",
+        "Enterprise Resource Profit"
+    ],
+    "created_at": "2026-07-05T20:49:55.203526+00:00"
+},
+{
+    "id": 50374,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a method for conducting market research?",
+    "op": [
+        "All of above",
+        "Interviews",
+        "Phone",
+        "Questionnaires"
+    ],
+    "created_at": "2026-07-05T20:50:55.626607+00:00"
+},
+{
+    "id": 50377,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "VAN can _____.",
+    "op": [
+        "Reduce network traffic",
+        "Provide protocol compatibility between the sender and the recipient, wherever that is\nmissing."
+    ],
+    "created_at": "2026-07-05T20:52:13.19083+00:00"
+},
+{
+    "id": 50378,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Internal activities of the Supply Chain Managment relate to __________________.",
+    "op": [
+        "packaging of goods",
+        "NONE of Above",
+        "manufacturing",
+        "Both"
+    ],
+    "created_at": "2026-07-05T20:52:21.958457+00:00"
+},
+{
+    "id": 50380,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Summary or abstract about a web page is stored in ---------------",
+    "op": [
+        "body",
+        "Content",
+        "Status table",
+        "Mata information"
+    ],
+    "created_at": "2026-07-05T20:52:31.807623+00:00"
+},
+{
+    "id": 50381,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of these can be used for advertisement purpose?",
+    "op": [
+        "Magazines",
+        "Telephone",
+        "Newspapers",
+        "All of above"
+    ],
+    "created_at": "2026-07-05T20:52:41.2828+00:00"
+},
+{
+    "id": 50382,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Choose variable which is often used in geographical segmentation",
+    "op": [
+        "Climate",
+        "Population density",
+        "None of the given",
+        "Both Climate and Population density"
+    ],
+    "created_at": "2026-07-05T20:52:52.533593+00:00"
+},
+{
+    "id": 50572,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dividing potential customers on the basis of variables such as social class, personality, or lifestyle is called____________.",
+    "op": [
+        "Psychographic segmentation",
+        "Demographic Segmentation",
+        "Behavioral segmentation",
+        "Geographic Segmentation"
+    ],
+    "created_at": "2026-07-05T21:36:50.674734+00:00"
+},
+{
+    "id": 50575,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one is not an example of search engine?",
+    "op": [
+        "Gawab",
+        "Google",
+        "Yahoo",
+        "Alta vista"
+    ],
+    "created_at": "2026-07-05T21:37:00.900592+00:00"
+},
+{
+    "id": 50588,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Urban and rural customers can be the two segments is an example of  ___________.",
+    "op": [
+        "Geographic segmentation",
+        "Demographic segmentation",
+        "Psychographic segmentation",
+        "Market segmentation"
+    ],
+    "created_at": "2026-07-05T21:38:21.752273+00:00"
+},
+{
+    "id": 50596,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "There are computer companies on-line that allow their customers to choose component of a computer for their own configuration is called ___________.",
+    "op": [
+        "One-to-One Marketing",
+        "One-to-Many Marketing",
+        "Many-to-One Marketing",
+        "Many-to-Many Marketing"
+    ],
+    "created_at": "2026-07-05T21:39:11.03661+00:00"
+},
+{
+    "id": 50598,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Poter Market and sell activities relates to _____________.",
+    "op": [
+        "managing salespersons",
+        "All of Above",
+        "advertising, promotions",
+        "monitoring distribution channel"
+    ],
+    "created_at": "2026-07-05T21:39:23.313551+00:00"
+},
+{
+    "id": 50602,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Frequent-flyer miles;",
+    "op": [
+        "The online business has a contract with an airline for free.",
+        "Online coupons are placed on certain popular sites to attract customers for online shopping.",
+        "Customers can be allowed to download software free of cost for certain days on trial basis.",
+        "Shipping cost may not be charged on the delivery of certain items."
+    ],
+    "created_at": "2026-07-05T21:39:45.774617+00:00"
+},
+{
+    "id": 50650,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A group of data objects that are similar to another within the same cluster and are dissimilar to the objects in other clusters is called",
+    "op": [
+        "Data mining",
+        "Clustering",
+        "Spooffing",
+        "Security"
+    ],
+    "created_at": "2026-07-05T22:11:31.958691+00:00"
+},
+{
+    "id": 50651,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The mode used by organizations for transactions that occur on a regular basis according to a pre-determined format is termed as",
+    "op": [
+        "EDI",
+        "ISO",
+        "OSI",
+        "KPI"
+    ],
+    "created_at": "2026-07-05T22:11:44.405539+00:00"
+},
+{
+    "id": 50652,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Let us, suppose that you have hosted early your e-commerce website to sell sweets online:\n\nYour customers are acquaint with the name of your company and  “DesiGhee Burfi ”. They have never interacted with your company.\n\nWhich of following loyalty stages they are?",
+    "op": [
+        "Commitment",
+        "Awareness",
+        "Familiarity",
+        "Exploration"
+    ],
+    "created_at": "2026-07-05T22:11:50.885234+00:00"
+},
+{
+    "id": 50653,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Activities associated with the flow and transformation of goods from the raw\nmaterials stage all the way to the end user ___________.",
+    "op": [
+        "Marketing",
+        "Suply Chain Managment",
+        "ERP",
+        "Online Chain Control"
+    ],
+    "created_at": "2026-07-05T22:11:59.317619+00:00"
+},
+{
+    "id": 50654,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The segmentation done on the basis of variables such as age, gender etc is",
+    "op": [
+        "Demographic segmentation",
+        "Market Segmentation",
+        "Psychographic segmentation",
+        "Geographic segmentation"
+    ],
+    "created_at": "2026-07-05T22:12:05.691878+00:00"
+},
+{
+    "id": 50655,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Television, radio and print media are in a (n) ……………………. Mode.",
+    "op": [
+        "Active",
+        "Static",
+        "Passive",
+        "Dynamic"
+    ],
+    "created_at": "2026-07-05T22:12:19.965437+00:00"
+},
+{
+    "id": 50656,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Web is a(n)…………….. Medium to disseminate information.",
+    "op": [
+        "All of these",
+        "Passive",
+        "Active",
+        "Static"
+    ],
+    "created_at": "2026-07-05T22:12:38.607056+00:00"
+},
+{
+    "id": 50657,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Characterization and Clustering belong to which of the following types of Data Mining?",
+    "op": [
+        "Selective",
+        "Additive",
+        "Predictive",
+        "Descriptive"
+    ],
+    "created_at": "2026-07-05T22:12:48.744007+00:00"
+},
+{
+    "id": 50676,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Postbox is where __________.",
+    "op": [
+        "Outgoing messages are placed",
+        "Incoming Message are placed"
+    ],
+    "created_at": "2026-07-05T22:20:08.051071+00:00"
+},
+{
+    "id": 50677,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Characterization is",
+    "op": [
+        "Segmentation of data",
+        "Cleaning of data",
+        "Group of data objects that are similar to another within the same cluster and are dissimilar to the objects in other clusters",
+        "Discovering interesting concepts in concise and succinct terms at generalized levels for examining the general behavior of the data."
+    ],
+    "created_at": "2026-07-05T22:20:20.79714+00:00"
+},
+{
+    "id": 50678,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Three basic strategies for competitive advantage: __________.",
+    "op": [
+        "All of Above",
+        "Cost leadership",
+        "Focus",
+        "Differentiation"
+    ],
+    "created_at": "2026-07-05T22:20:27.326877+00:00"
+},
+{
+    "id": 50681,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Poter Finance and administration activities relate to _____________.",
+    "op": [
+        "purchasing and borrowing funds",
+        "accounting, paying bills and borrowing funds"
+    ],
+    "created_at": "2026-07-05T22:20:53.997335+00:00"
+},
+{
+    "id": 50682,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The process of taking active role in working with suppliers to improve products and processes is called ______________.",
+    "op": [
+        "ERP",
+        "Supply Chain Management",
+        "Sale",
+        "Marketing"
+    ],
+    "created_at": "2026-07-05T22:21:00.732428+00:00"
+},
+{
+    "id": 50683,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The basic form of e-commerce where buyers and sellers interact directly with each other is called _________.",
+    "op": [
+        "Virtual Bank Model",
+        "Online Banking Model",
+        "Auction Model",
+        "Storefront Model"
+    ],
+    "created_at": "2026-07-05T22:21:06.75085+00:00"
+},
+{
+    "id": 50684,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of these is a tool that can be used to improve customer services?",
+    "op": [
+        "Data mining",
+        "All",
+        "Log file analysis",
+        "Cookies"
+    ],
+    "created_at": "2026-07-05T22:21:13.084603+00:00"
+},
+{
+    "id": 50771,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Each VAN has a centralized computer system that maintains ______________.",
+    "op": [
+        "Three Files",
+        "Four Files",
+        "Two Files",
+        "One File"
+    ],
+    "created_at": "2026-07-05T22:53:55.282923+00:00"
+},
+{
+    "id": 50773,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Some web retailers allow their customers to create their own product. It is called.",
+    "op": [
+        "One to one Marketing",
+        "One to many Marketing",
+        "Many to one marketing",
+        "All of the above"
+    ],
+    "created_at": "2026-07-05T22:54:07.781806+00:00"
+},
+{
+    "id": 50775,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which CRM stage relationship is terminated between customer and company",
+    "op": [
+        "4th stage",
+        "5th stage",
+        "3rd stage",
+        "2nd stage"
+    ],
+    "created_at": "2026-07-05T22:54:31.228172+00:00"
+},
+{
+    "id": 50778,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Poter identify certain activities what is the name of activity which take a product from concept stage to manufacturing stage.",
+    "op": [
+        "None of Above",
+        "Design Stage",
+        "Market Stage",
+        "Human Resource"
+    ],
+    "created_at": "2026-07-05T22:54:55.345367+00:00"
+},
+{
+    "id": 50779,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "SWOT stands for ________________.",
+    "op": [
+        "Strength Weaknesses , Opertunities and Traits",
+        "Show Weaknesses, Opertunities and Threats",
+        "Strength ,  Weaknesses , Opertunities and Threats",
+        "Strength, Weaknesses and Open Threats"
+    ],
+    "created_at": "2026-07-05T22:55:02.929813+00:00"
+},
+{
+    "id": 50780,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Auction sites charge their commission on __________.",
+    "op": [
+        "Profit",
+        "Purchase",
+        "Sales",
+        "Demand"
+    ],
+    "created_at": "2026-07-05T22:55:13.529605+00:00"
+},
+{
+    "id": 50876,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "------------is a data mining type that used to place data objects into related groups.",
+    "op": [
+        "Classification",
+        "Characterization",
+        "Association",
+        "Clustering"
+    ],
+    "created_at": "2026-07-05T23:27:46.379874+00:00"
+},
+{
+    "id": 50877,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of these is NOT a stage of knowledge discovery process?",
+    "op": [
+        "Process evaluation",
+        "Transformation",
+        "Pattern evaluation",
+        "Data mining"
+    ],
+    "created_at": "2026-07-05T23:27:52.331619+00:00"
+},
+{
+    "id": 50878,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Many search engines rank the site by using a program called",
+    "op": [
+        "Scorpion",
+        "Moon",
+        "Spider",
+        "Cobweb"
+    ],
+    "created_at": "2026-07-05T23:28:04.307901+00:00"
+},
+{
+    "id": 50881,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "_______________ means that your product/service has certain quality that makes it more attractive than the one offered by your competitor, despite the price of your competitor’s product/service is somewhat lower.",
+    "op": [
+        "Focus",
+        "Cost Leadership",
+        "Differntiation",
+        "All of Above"
+    ],
+    "created_at": "2026-07-05T23:28:21.062132+00:00"
+},
+{
+    "id": 50882,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Electronic Data Interchange Includes ________.",
+    "op": [
+        "ALL Above",
+        "No human intervention",
+        "No paper work",
+        "Exchange of information takes place in seconds"
+    ],
+    "created_at": "2026-07-05T23:28:38.189187+00:00"
+},
+{
+    "id": 50883,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "For online sales promotion different websites use ------------",
+    "op": [
+        "free shipping",
+        "free trials",
+        "coupons",
+        "All of the given"
+    ],
+    "created_at": "2026-07-05T23:28:47.25684+00:00"
+},
+{
+    "id": 50938,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Where there are quite a few erroneous or missing values in a row then that row can be deleted or discarded. This process is called...............",
+    "op": [
+        "Data Integration",
+        "Data Deletion",
+        "Data Transformation",
+        "Data Selection"
+    ],
+    "created_at": "2026-07-05T23:50:19.069977+00:00"
+},
+{
+    "id": 50941,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Do you think, vulms.vu.edu.pk is an example of E-mail marketing?",
+    "op": [
+        "False",
+        "True"
+    ],
+    "created_at": "2026-07-05T23:50:32.894626+00:00"
+},
+{
+    "id": 50942,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Web catalogue revenue model includes ____________.",
+    "op": [
+        "C. Gifts, flowers, clothes",
+        "A. Online sellers of computer",
+        "B. Gifts, flowers, clothes",
+        "Both A and B"
+    ],
+    "created_at": "2026-07-05T23:50:39.93144+00:00"
+},
+{
+    "id": 50944,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Supply Chain Mangment broken down into ___________.",
+    "op": [
+        "Downstream activities",
+        "Upstream activities",
+        "All of Above",
+        "Internal activities"
+    ],
+    "created_at": "2026-07-05T23:50:47.618193+00:00"
+},
+{
+    "id": 50945,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Term spamming is used to refer -------------",
+    "op": [
+        "Both Bulk e-mails and Direct mailing",
+        "Bulk e-mails",
+        "Single e-mail",
+        "Direct mailing"
+    ],
+    "created_at": "2026-07-05T23:51:44.923514+00:00"
+},
+{
+    "id": 50946,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Let us, suppose that you have hosted your e-commerce website, Promotion messages can be sent when potential client is",
+    "op": [
+        "offline",
+        "visiting head office",
+        "both online and offline",
+        "online"
+    ],
+    "created_at": "2026-07-05T23:51:50.411492+00:00"
+},
+{
+    "id": 50947,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which statement is most appropriate description of the term “Interactive-advertisement”?",
+    "op": [
+        "By involving the customer in the advertisement process itself.",
+        "Putting an audio or video message on the website to attract customer.",
+        "By making an advertisement message using flash animation.",
+        "By avoiding customer’s involvement in the advertisement process."
+    ],
+    "created_at": "2026-07-05T23:51:58.316446+00:00"
+},
+{
+    "id": 51101,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which type of approach, we further dig the data for retrieving information from data warehouse?",
+    "op": [
+        "Slice",
+        "Drill down",
+        "Roll up",
+        "Dice"
+    ],
+    "created_at": "2026-07-06T00:24:48.917127+00:00"
+},
+{
+    "id": 51103,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Track the customers online and do personalization is only possible through which of the following file(s) analysis.",
+    "op": [
+        "cookie",
+        "log files and cookies.",
+        "log files",
+        "data mining"
+    ],
+    "created_at": "2026-07-06T00:25:14.246479+00:00"
+},
+{
+    "id": 51104,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Advantages of VAN in EDI are __________.",
+    "op": [
+        "Protocol dependence.",
+        "Time independence."
+    ],
+    "created_at": "2026-07-06T00:25:21.009472+00:00"
+},
+{
+    "id": 51105,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In which type of data mining, ID3 algorithms is used?",
+    "op": [
+        "Clustering",
+        "Classification",
+        "Characterization",
+        "Association"
+    ],
+    "created_at": "2026-07-06T00:25:44.844739+00:00"
+},
+{
+    "id": 51285,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a business promotion?",
+    "op": [
+        "None",
+        "Both of these",
+        "Free-Trials",
+        "Free-Shipping"
+    ],
+    "created_at": "2026-07-06T01:07:15.4452+00:00"
+},
+{
+    "id": 51289,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Mailbox:",
+    "op": [
+        "Incoming messages can be picked up.",
+        "Outgoing messages can be placed."
+    ],
+    "created_at": "2026-07-06T01:07:44.5555+00:00"
+},
+{
+    "id": 51290,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is an advertising payment mode?",
+    "op": [
+        "Pay-per-person",
+        "Pay-per-page",
+        "Pay-per-minute",
+        "Pay-per-sale"
+    ],
+    "created_at": "2026-07-06T01:07:56.358451+00:00"
+},
+{
+    "id": 51300,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A bank provides online transaction facilities, in which model it comes?",
+    "op": [
+        "Fee-for transaction revenue model",
+        "Other than above",
+        "Fee- for service revenue model",
+        "Digital content revenue model"
+    ],
+    "created_at": "2026-07-06T01:09:08.353005+00:00"
+},
+{
+    "id": 51360,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Customer Loyalty model is also called",
+    "op": [
+        "Customer Awareness",
+        "Customer Segmentation",
+        "Customer Life Cycle",
+        "All"
+    ],
+    "created_at": "2026-07-06T01:19:13.13576+00:00"
+},
+{
+    "id": 51364,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Web catalogue revenue model includes",
+    "op": [
+        "C. Journals",
+        "D. Both A and B",
+        "A. Online sellers of computer",
+        "B. Gifts, flowers, clothes"
+    ],
+    "created_at": "2026-07-06T01:19:37.845255+00:00"
+},
+{
+    "id": 51372,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Online banking is also known as ___________.",
+    "op": [
+        "Internet Banking",
+        "Virtual Banking",
+        "Cyber banking",
+        "All of Above"
+    ],
+    "created_at": "2026-07-06T01:20:39.88762+00:00"
+},
+{
+    "id": 51375,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Digital Content Revenue Model  Includes",
+    "op": [
+        "Legal information services",
+        "Online journals",
+        "All of the given",
+        "Online Libraries"
+    ],
+    "created_at": "2026-07-06T01:21:05.401251+00:00"
+},
+{
+    "id": 51383,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "SWOT used for _______________.",
+    "op": [
+        "None of Above",
+        "Stretegic Planning",
+        "Short Term Palnning",
+        "Long Term Planning"
+    ],
+    "created_at": "2026-07-06T01:21:58.356826+00:00"
+},
+{
+    "id": 51455,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Meta tag contains:",
+    "op": [
+        "web page key information",
+        "bank information",
+        "seller information",
+        "User information"
+    ],
+    "created_at": "2026-07-06T01:36:00.894771+00:00"
+},
+{
+    "id": 51461,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "To overcome the lack of physical proximity appearance problem in e-business, which technology is going to be used?",
+    "op": [
+        "Biometrics",
+        "Cryptography",
+        "Biometrics and Video conferencing",
+        "Video conferencing"
+    ],
+    "created_at": "2026-07-06T01:38:18.624527+00:00"
+},
+{
+    "id": 51463,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which one of the following is considered as the major benefit of E-publication?",
+    "op": [
+        "Shopping cart facility",
+        "Eliminates high cost of paper printing",
+        "Credit card charge",
+        "Reduced Subscription fee"
+    ],
+    "created_at": "2026-07-06T01:38:28.602653+00:00"
+},
+{
+    "id": 51466,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Survey and market research are used for which poetr identified activity?",
+    "op": [
+        "Identify Design",
+        "Identify customer"
+    ],
+    "created_at": "2026-07-06T01:38:51.217526+00:00"
+},
+{
+    "id": 51511,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Focus strategy means _____________________.",
+    "op": [
+        "concentration on many aspect of the market",
+        "that your product/service has certain quality that makes it more attractive",
+        "that ability to sell the goods or provide the service at a price that is lower than that of competitors",
+        "that concentration on a single aspect of the market"
+    ],
+    "created_at": "2026-07-06T01:45:25.679402+00:00"
+},
+{
+    "id": 51512,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "How many stages involve in customer loyalty model for creating good customer relationship?",
+    "op": [
+        "4",
+        "3",
+        "6",
+        "5"
+    ],
+    "created_at": "2026-07-06T01:45:33.095637+00:00"
+},
+{
+    "id": 51513,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The concentration on a single aspect of the market which can be particular market segment or market area or product type.",
+    "op": [
+        "Determination",
+        "Cost leadership",
+        "Differentiation",
+        "Focus strategy"
+    ],
+    "created_at": "2026-07-06T01:45:51.736226+00:00"
+},
+{
+    "id": 51515,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is meaning of JIT concept?",
+    "op": [
+        "Easily delivery",
+        "No warehousing",
+        "No communication",
+        "No distribution channel"
+    ],
+    "created_at": "2026-07-06T01:46:06.715767+00:00"
+},
+{
+    "id": 51521,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ are the disadvantages of E-business?",
+    "op": [
+        "Fast speed & High data rate",
+        "Less security & less privacy",
+        "Working on Protocols",
+        "Huge network architecture"
+    ],
+    "created_at": "2026-07-06T01:46:37.044509+00:00"
+},
+{
+    "id": 51609,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "online travel agents receive a fee for facilitating a transaction that includes the making of travel arrangement for their clients, as well as, advising them about lodging, transportation is example of",
+    "op": [
+        "Advertising-Subscription Mixed Revenue Model",
+        "Advertising-Supported Revenue Model",
+        "Fee for Transaction Revenue Model",
+        "Supported Revenue Model"
+    ],
+    "created_at": "2026-07-06T01:58:48.825742+00:00"
+},
+{
+    "id": 51611,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The term used to refer to internet based broadcasting of audio and video content is",
+    "op": [
+        "Web development",
+        "Web casting",
+        "Web designing",
+        "Buffering"
+    ],
+    "created_at": "2026-07-06T01:59:10.46397+00:00"
+},
+{
+    "id": 51622,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "While designing a website, which of the following factors an internet marketer should pay attention to?",
+    "op": [
+        "All of above",
+        "Privacy policy",
+        "Easy site navigation (i.e. Site map)",
+        "Frequently asked questions (FAQs) section"
+    ],
+    "created_at": "2026-07-06T02:00:43.125434+00:00"
+},
+{
+    "id": 51623,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Portals are the web sites which provide chance to the visitors to find almost everything in one place. Search engine is the example of a _________ portal.",
+    "op": [
+        "Horizontal",
+        "Vertical",
+        "Diagonal",
+        "Parallel"
+    ],
+    "created_at": "2026-07-06T02:00:47.380863+00:00"
+},
+{
+    "id": 51624,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "________type of cryptography SSL uses?",
+    "op": [
+        "Only Asemmetric",
+        "Public key",
+        "Only symmetric",
+        "Both symmetric and asymmetric"
+    ],
+    "created_at": "2026-07-06T02:00:52.928759+00:00"
+},
+{
+    "id": 51626,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Let us, suppose that you have hosted your e-commerce website, When you provide “opt-in e-mail” option to your customers on your website and customer opt for it , what does it mean to receive ?",
+    "op": [
+        "Information about News through e-mail.",
+        "Information about product through advertisement",
+        "Information about services available on it",
+        "Information about product through e-mail"
+    ],
+    "created_at": "2026-07-06T02:01:05.776824+00:00"
+},
+{
+    "id": 51627,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Popular software packages for personal finance are ___________.",
+    "op": [
+        "Quicken",
+        "MS Money",
+        "All of Above",
+        "Money 2003"
+    ],
+    "created_at": "2026-07-06T02:01:07.004791+00:00"
+},
+{
+    "id": 51629,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "www.amzon.com as you all familiar with it. \nWhich of the following loyalty stages its customers are: \n\n\n( Who don’t know about it):\nDetail about amzon.com\nAmazon was one of the first major companies to sell goods by Internet, and was an iconic \"stock in which to invest\" of the late 1990s dot-com bubble. Jeff Bezos founded Amazon.com, Inc. in 1994, and launched it online in 1995. Amazon.com started as an on-line bookstore, but soon diversified to product lines of VHS, DVD, music CDs, MP3 format, computer software, , etc. Amazon has established separate websites in Canada, the United Kingdom, Germany, France, China, and Japan. It also provides global shipping to certain countries for some of its products.",
+    "op": [
+        "Familiarity",
+        "Commitment",
+        "Exploration",
+        "Awareness"
+    ],
+    "created_at": "2026-07-06T02:01:12.110883+00:00"
+},
+{
+    "id": 51630,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dividing the potential customers into groups is called",
+    "op": [
+        "Market  Survey",
+        "Market  Promotion",
+        "Market  Segmentation",
+        "Market Research"
+    ],
+    "created_at": "2026-07-06T02:01:17.443654+00:00"
+},
+{
+    "id": 51632,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "____________is used by a search engine to locate and rank the web site.",
+    "op": [
+        "Directory information",
+        "Meta information",
+        "Text box information",
+        "Statement information"
+    ],
+    "created_at": "2026-07-06T02:01:22.655907+00:00"
+},
+{
+    "id": 51648,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The approach that attempts to integrate all departments and functions across a company onto a single computer system is called",
+    "op": [
+        "ARP",
+        "IP",
+        "ERP",
+        "EDI"
+    ],
+    "created_at": "2026-07-06T02:03:06.943211+00:00"
+},
+{
+    "id": 51653,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A value chain is a way of organizing activities that each strategic business unit undertakes to ___________.",
+    "op": [
+        "All of Above",
+        "produce",
+        "promote",
+        "design"
+    ],
+    "created_at": "2026-07-06T02:03:26.954238+00:00"
+},
+{
+    "id": 51655,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is the right sequence of steps involved in development of customer’s relationship with the business?",
+    "op": [
+        "Familiarity, Awareness, Commitment, Exploration, Separation",
+        "Familiarity, Awareness, Exploration, Commitment, Separation",
+        "Awareness, Commitment, Familiarity, Exploration, Separation",
+        "Awareness, Exploration, Familiarity, Commitment, Separation"
+    ],
+    "created_at": "2026-07-06T02:03:42.244134+00:00"
+},
+{
+    "id": 51663,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "VAN Stands for ______.",
+    "op": [
+        "Value Added Network",
+        "Value Added Noise"
+    ],
+    "created_at": "2026-07-06T02:04:23.446772+00:00"
+},
+{
+    "id": 51668,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In Frequent-Flyer Miles marketing, customer of the business earns specific miles free of charge from _______.",
+    "op": [
+        "None of above",
+        "Airline",
+        "Bus service",
+        "Train service"
+    ],
+    "created_at": "2026-07-06T02:05:08.595345+00:00"
+},
+{
+    "id": 51763,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The process that includes data cleaning, data integration, data selection, data transformation,\ndata mining, pattern evaluation and knowledge presentation is called",
+    "op": [
+        "Knowledge discovery",
+        "Knowledge sharing",
+        "Knowledge deletion",
+        "Knowledge loss"
+    ],
+    "created_at": "2026-07-06T02:24:41.650454+00:00"
+},
+{
+    "id": 51766,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Vertical Web portals are made for?",
+    "op": [
+        "Single area",
+        "Broad range of topics and Wide variety of things",
+        "Broad range of topics",
+        "Wide variety of things"
+    ],
+    "created_at": "2026-07-06T02:25:23.658681+00:00"
+},
+{
+    "id": 51767,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "EDI used for ______.",
+    "op": [
+        "NONE of Above",
+        "used by organizations for transactions that occur on a regular basis according to a pre-determined format.",
+        "used by organizations for transactions that not occur on a regular basis according to a pre-determined format.",
+        "Both"
+    ],
+    "created_at": "2026-07-06T02:25:29.164125+00:00"
+},
+{
+    "id": 51768,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Press release can provide information about current events and news to, which of following, via a internet?",
+    "op": [
+        "Press or media",
+        "T.v commercial",
+        "Print media",
+        "T.v program."
+    ],
+    "created_at": "2026-07-06T02:25:41.488525+00:00"
+},
+{
+    "id": 51769,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A degree of potential customers are judge in ---------------",
+    "op": [
+        "Relevance",
+        "Perceived  value",
+        "Product differentiation",
+        "Product use"
+    ],
+    "created_at": "2026-07-06T02:25:46.846271+00:00"
+},
+{
+    "id": 51777,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Upstream activities of the Supply Chain Managment relate to ___________.",
+    "op": [
+        "None of Above",
+        "the input from suppliers",
+        "materials/services",
+        "Both"
+    ],
+    "created_at": "2026-07-06T02:28:02.834768+00:00"
+},
+{
+    "id": 51786,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "SAS and DB tools are used for ------------------",
+    "op": [
+        "Data warehouse techniques",
+        "data cleaning",
+        "Data mining",
+        "Data transformation"
+    ],
+    "created_at": "2026-07-06T02:30:40.894835+00:00"
+},
+{
+    "id": 51796,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Suppose you are using \"warid telecom\" as your mobile connection and you ignor any other mobile company's advertisement because you want to keep using warid no matter what others offer. Your relationship with warid is at _______________.",
+    "op": [
+        "Awareness stage",
+        "Separation stage",
+        "Commitment stage",
+        "Exploration stage"
+    ],
+    "created_at": "2026-07-06T02:32:24.494629+00:00"
+},
+{
+    "id": 51799,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Log files consist on information about each visitor's _________.",
+    "op": [
+        "Time of visit",
+        "IP address",
+        "All of above",
+        "Location"
+    ],
+    "created_at": "2026-07-06T02:33:07.127562+00:00"
+},
+{
+    "id": 51800,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of following services build a strong customer loyalty towards company and its products?",
+    "op": [
+        "Exhibitions.",
+        "Bulletin board",
+        "Public relations(PR)",
+        "Customer services"
+    ],
+    "created_at": "2026-07-06T02:33:36.375343+00:00"
+},
+{
+    "id": 51811,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Do you think that \"www.vu.edu.pk\" can be considered as university's advertisement website?",
+    "op": [
+        "No",
+        "Yes"
+    ],
+    "created_at": "2026-07-06T02:35:20.903839+00:00"
+},
+{
+    "id": 51832,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Strategic business unit is a combination of a particular _____________.",
+    "op": [
+        "customer type",
+        "All of Above",
+        "product",
+        "distribution channel"
+    ],
+    "created_at": "2026-07-06T02:37:55.31393+00:00"
+},
+{
+    "id": 51845,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "By adding which of the following to your website improve customer service?",
+    "op": [
+        "Attractive products",
+        "Interactive Advertising",
+        "Banner Advertisement",
+        "Email links"
+    ],
+    "created_at": "2026-07-06T02:40:03.331865+00:00"
+},
+{
+    "id": 51847,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "__________is a repository for long-term storage of data from multiple sources, organized so as to\nfacilitate the management for decision making.",
+    "op": [
+        "Data Mining",
+        "Sniffing",
+        "Key discovery",
+        "Data warehouse"
+    ],
+    "created_at": "2026-07-06T02:41:00.222637+00:00"
+},
+{
+    "id": 51854,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of following marketing campaigns are cheap an effective way to target potential customers?",
+    "op": [
+        "Marketing software",
+        "Sale forces",
+        "E-mail",
+        "Media promotion"
+    ],
+    "created_at": "2026-07-06T02:42:55.376593+00:00"
+},
+{
+    "id": 51855,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "billboards add given at different websites are come in ---------------------",
+    "op": [
+        "Global marketing",
+        "partnering",
+        "Banner advertising",
+        "promotions"
+    ],
+    "created_at": "2026-07-06T02:43:17.35753+00:00"
+},
+{
+    "id": 51911,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "When  customer life cycle is used to create different groups of customers, it is called?",
+    "op": [
+        "Customer Life Cycle Segmentation",
+        "Dynamic groups",
+        "Group Development",
+        "Targeting Customers"
+    ],
+    "created_at": "2026-07-06T02:54:20.509292+00:00"
+},
+{
+    "id": 51912,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "EDI Advantages inclues ______.",
+    "op": [
+        "Both",
+        "Short time.",
+        "None of Above",
+        "Reduced Costs."
+    ],
+    "created_at": "2026-07-06T02:54:26.420236+00:00"
+},
+{
+    "id": 51918,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Traditionally Marketer use the market segmentation(s) like",
+    "op": [
+        "Geo-graphic Segmentation",
+        "Demographic  Segmentation",
+        "All of the given",
+        "Psychographic Segmentation"
+    ],
+    "created_at": "2026-07-06T02:55:05.761106+00:00"
+},
+{
+    "id": 51927,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is true about ERP?",
+    "op": [
+        "At Single Location",
+        "ALL Above",
+        "Efficient use of resource",
+        "Integrate all business functions"
+    ],
+    "created_at": "2026-07-06T02:57:03.681374+00:00"
+},
+{
+    "id": 51928,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The______ practice divides the potential customers into segments or groups.",
+    "op": [
+        "Geographic segmentation",
+        "Psychographic segmentation",
+        "Demographic segmentation",
+        "market segmentation"
+    ],
+    "created_at": "2026-07-06T02:57:05.782278+00:00"
+},
+{
+    "id": 52067,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In personal finance what is true?",
+    "op": [
+        "transactions maintained by the software package.",
+        "All of Above",
+        "online data is imported automatically into the register.",
+        "account/transaction details are downloaded through the internet."
+    ],
+    "created_at": "2026-07-06T03:20:48.4925+00:00"
+},
+{
+    "id": 52072,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In _______ promotional method, users/ customers can be allowed to download software for certain\ndays free of cost on trial basis.",
+    "op": [
+        "Point-based rewards",
+        "Frequent-flyer miles",
+        "Free-trials",
+        "Coupons"
+    ],
+    "created_at": "2026-07-06T03:21:19.526802+00:00"
+},
+{
+    "id": 52221,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "In many countries, stealing and misusing of meta information for getting competitive advantage is considered as an offence known as",
+    "op": [
+        "Defamation",
+        "Tort of Private Nuisance",
+        "Tort of Tress passing",
+        "Tort of passing off"
+    ],
+    "created_at": "2026-07-06T04:04:39.845179+00:00"
+},
+{
+    "id": 52228,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Visitor’s location, IP address, time of visit related information are added, in which of the following",
+    "op": [
+        "call handling files",
+        "cookies",
+        "log files",
+        "Data mining files."
+    ],
+    "created_at": "2026-07-06T04:05:06.468699+00:00"
+},
+{
+    "id": 52238,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Fee for Transaction Models include",
+    "op": [
+        "Automobile Sales and event tickets",
+        "All of the above",
+        "Stock brokers and online banking",
+        "Travel Agents and Insurance brokers"
+    ],
+    "created_at": "2026-07-06T04:06:38.71409+00:00"
+},
+{
+    "id": 52263,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Storefront model is popular in ________ transactions.",
+    "op": [
+        "Consumer-to-Consumer (C2C)",
+        "Business-to-Consumer (B2C)",
+        "Business –to-Employee (B2E)",
+        "Business-to-Business (B2B)"
+    ],
+    "created_at": "2026-07-06T04:09:46.426934+00:00"
+},
+{
+    "id": 52264,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Four P’s in Marketing Mix are",
+    "op": [
+        "Product, price, place, promotion",
+        "Place, product, property, promotion",
+        "Promotion, place, product, planning",
+        "Price, person, place, problem"
+    ],
+    "created_at": "2026-07-06T04:10:20.644605+00:00"
+},
+{
+    "id": 52288,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Objective of any marketing strategy is to bring the customers quickly to the ___________.",
+    "op": [
+        "Separation stage",
+        "Commitment stage",
+        "Exploration stage",
+        "Familiarity stage"
+    ],
+    "created_at": "2026-07-06T04:13:13.321214+00:00"
+},
+{
+    "id": 52317,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "EDI involves exchange of ________.",
+    "op": [
+        "Data",
+        "Resources",
+        "Electronic business documents",
+        "NONE of Above"
+    ],
+    "created_at": "2026-07-06T04:17:37.377291+00:00"
+},
+{
+    "id": 52356,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The activities associated with the flow and transformation of goods from the raw material stage to the end user is termed as",
+    "op": [
+        "Transportation",
+        "SWOT analysis",
+        "Data flow",
+        "Supply chain"
+    ],
+    "created_at": "2026-07-06T04:21:24.755696+00:00"
+},
+{
+    "id": 52365,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Human resources refer to the activities that coordinate _____________.",
+    "op": [
+        "management of employees",
+        "All of Above",
+        "hiring, compensation and benefits",
+        "recruiting"
+    ],
+    "created_at": "2026-07-06T04:23:00.654437+00:00"
+},
+{
+    "id": 52484,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "CRM stands for ...............",
+    "op": [
+        "Customer Resembling Management",
+        "Customer Related Management",
+        "Customer Reallocation Management",
+        "Customer Relationship Management"
+    ],
+    "created_at": "2026-07-06T04:41:07.661269+00:00"
+},
+{
+    "id": 52489,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "On-line travel agents receive their fee for facilitating a transaction, is an example of ______________.",
+    "op": [
+        "Fee-for-Transaction Revenue Model",
+        "Advertising-Supported Revenue Model",
+        "Advertising-Subscription Mixed Revenue Model",
+        "Fee-for-Service Revenue Model"
+    ],
+    "created_at": "2026-07-06T04:41:53.108548+00:00"
+},
+{
+    "id": 52494,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "OLAP is used for ------------",
+    "op": [
+        "Alphabetic & numeric data",
+        "String data",
+        "Alphabetic data only",
+        "Numeric data only"
+    ],
+    "created_at": "2026-07-06T04:42:38.834546+00:00"
+},
+{
+    "id": 52582,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Amazon.com come in which type of marketing",
+    "op": [
+        "Market segmentation",
+        "Global marketing",
+        "Banner advertising",
+        "One-to-one marketing"
+    ],
+    "created_at": "2026-07-06T04:54:00.762102+00:00"
+},
+{
+    "id": 52777,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What does Telemarketing means?",
+    "op": [
+        "Marketing through emai",
+        "Marketing through charting",
+        "Marketing through telephone",
+        "Marketing through web casting"
+    ],
+    "created_at": "2026-07-06T05:24:46.130005+00:00"
+},
+{
+    "id": 52794,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "E-Business promotions are used to _________.",
+    "op": [
+        "Complete a transaction between customer and seller.",
+        "None of above",
+        "Get credit card information from the customer.",
+        "Attract the customer to the product and convince him/her to buy it."
+    ],
+    "created_at": "2026-07-06T05:26:50.752852+00:00"
+},
+{
+    "id": 52823,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "OLAP stands for……………",
+    "op": [
+        "Online Analysis Performance",
+        "Online Analytical Processing",
+        "Online Analytical Program",
+        "Online Application Program"
+    ],
+    "created_at": "2026-07-06T05:30:44.51507+00:00"
+},
+{
+    "id": 52825,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Supply Chain Managment can be broken down into ___________.",
+    "op": [
+        "One Activity",
+        "Three Activities",
+        "Two Activities",
+        "Four Activties"
+    ],
+    "created_at": "2026-07-06T05:31:10.869678+00:00"
+},
+{
+    "id": 52830,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of these is an algorithm used in clustering?",
+    "op": [
+        "K-means",
+        "C-means",
+        "F-means",
+        "L-means"
+    ],
+    "created_at": "2026-07-06T05:32:13.854012+00:00"
+},
+{
+    "id": 52845,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "JIT Stands for?",
+    "op": [
+        "Just In Time",
+        "Joint investigation Technique",
+        "Join in Training",
+        "Just In Total"
+    ],
+    "created_at": "2026-07-06T05:33:49.926093+00:00"
+},
+{
+    "id": 52905,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "The business strategy where company directly sells its products to customers is",
+    "op": [
+        "B2C.",
+        "B2B",
+        "Online business",
+        "Telemarketing"
+    ],
+    "created_at": "2026-07-06T05:41:40.297757+00:00"
+},
+{
+    "id": 52929,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Dividing the potential customers into groups is called___________.",
+    "op": [
+        "Market Promotion",
+        "Market Research",
+        "Market Survey",
+        "Market Segmentation"
+    ],
+    "created_at": "2026-07-06T05:45:16.873659+00:00"
+},
+{
+    "id": 53102,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Popular EDI standards are _______.",
+    "op": [
+        "Both",
+        "ANSI(American National Standards Institute) X12 standard .",
+        "EDIFACT (United Nations Standard of Electronic Data Interchange for Administration, Commerce and Transport).",
+        "None of Above"
+    ],
+    "created_at": "2026-07-06T06:12:09.037936+00:00"
+},
+{
+    "id": 53168,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "A supermarket gathers data on customer purchasing habits and found that which products are frequently bought. Supermarket relates these products with each other like purchase one then related product must be purchased this process is known as -----------",
+    "op": [
+        "classification",
+        "Clustering",
+        "Characterization",
+        "Association"
+    ],
+    "created_at": "2026-07-06T06:20:18.700052+00:00"
+},
+{
+    "id": 53221,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Ability of an organization to prosper arises from its competitive advantage over other organizations\noperating within its market sector: ___________.",
+    "op": [
+        "None",
+        "Competitive Startegy",
+        "Differentation",
+        "Focus"
+    ],
+    "created_at": "2026-07-06T06:27:26.950348+00:00"
+},
+{
+    "id": 53278,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "An agent who buy things at the competitor's store intent to compare his prices with the store that employs the agent, the agent is known as",
+    "op": [
+        "Shopper",
+        "Browser",
+        "Buyer",
+        "User"
+    ],
+    "created_at": "2026-07-06T06:38:55.338573+00:00"
+},
+{
+    "id": 53494,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "___________ strategy is defined as concentration on a single aspect of the market.",
+    "op": [
+        "Differentation",
+        "Focus"
+    ],
+    "created_at": "2026-07-06T07:29:04.457074+00:00"
+},
+{
+    "id": 53496,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "What is true about Personal finance?",
+    "op": [
+        "allows the management of your financial matters in a customized manner.",
+        "Buy you products in no time.",
+        "None",
+        "Sell you products in no time."
+    ],
+    "created_at": "2026-07-06T07:29:25.94292+00:00"
+},
+{
+    "id": 53802,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "You read about a company X in newspaper. Your relation with company X is at familiarity stage.",
+    "op": [
+        "True",
+        "False"
+    ],
+    "created_at": "2026-07-06T08:53:11.38771+00:00"
+},
+{
+    "id": 53859,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Which of the following option best represent “Data mining can improve response rate tremendously”?",
+    "op": [
+        "Personalization technology",
+        "E-business",
+        "Opt-in e-mail",
+        "Direct mailing"
+    ],
+    "created_at": "2026-07-06T09:22:25.479339+00:00"
+},
+{
+    "id": 53927,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "Online shopping has made buying easy.The issue considered the biggest obstacle in the growth of e-commerce is",
+    "op": [
+        "Issue of security",
+        "Issue of transport",
+        "Issue of delivery",
+        "Isuue of theif"
+    ],
+    "created_at": "2026-07-06T10:05:46.619066+00:00"
+},
+{
+    "id": 54414,
+    "cc": "IT430",
+    "qn": "4",
+    "dt": "06 July 2026",
+    "qt": "If a company's marketing stretegy is focusing on customers having age less than 30, which of the following marketing segmentation technique is being used by company?",
+    "op": [
+        "Psychographic segmentation",
+        "Geographic Segmentation",
+        "Demographic Segmentation",
+        "Behavioral segmentation"
+    ],
+    "created_at": "2026-07-06T16:26:47.97076+00:00"
+},
+{
+    "id": 66074,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "ERP  example is ____",
+    "op": [
+        "DBMS",
+        "ASP",
+        "SAP",
+        "PAS"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66083,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "An agent is a software program that is _____",
+    "op": [
+        "Not capable of autonomous action.",
+        "None",
+        "Capable of autonomous action in its environment in order to meet its objectives",
+        "Triggers by human"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66105,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Programs that are embedded in web pages to cause certain action.",
+    "op": [
+        "Virus",
+        "Plug-In",
+        "ActiveX",
+        "Worms"
+    ],
+    "created_at": "2026-07-15T13:27:20.691038+00:00"
+},
+{
+    "id": 66200,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Entity that can negotiate deals on behalf of the users.",
+    "op": [
+        "Agents",
+        "None",
+        "Broker",
+        "Crawler"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66219,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Enterprise Resource Planning (ERP) is a concept",
+    "op": [
+        "That integrates all aspects of a business at a single place.",
+        "That integrates some aspects of business, at many locations.",
+        "That integrates some aspects of business, at some locations.",
+        "That integrates all aspects of business, at many locations."
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66220,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In which type of attack, the attacker gains access to the network and then send invalid data to network services or applications?",
+    "op": [
+        "Denial of services (DOS) attacks",
+        "Man in the middle attacks",
+        "Eavesdropping",
+        "IP address spoofing"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66221,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "IDS Stands for _________.",
+    "op": [
+        "Intervention Detection System",
+        "Intrusion Detection System",
+        "Intervention Defense System",
+        "Intrusion Defense System"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66225,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Content Management Software helps companies control the______",
+    "op": [
+        "People outside the organization.",
+        "Large amounts of data, pictures/graphics and other files that play a crucial role in conducting business.",
+        "People outside the country.",
+        "People working from home."
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66272,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Password attacks  are basically a result of _____",
+    "op": [
+        "Back door",
+        "Sniffing",
+        "None of the Above",
+        "Eavesdropping"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66273,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "DoS stand for _________.",
+    "op": [
+        "Disk Operating System",
+        "Disk out System",
+        "Denial of Services",
+        "Do or stand"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66274,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Companies have found Content Management is  important to use the web to share corporate information among their",
+    "op": [
+        "Customers.",
+        "Employees.",
+        "All of Above.",
+        "Suppliers."
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66275,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "The biggest factor slowing down the growth of e-commerce worldwide.",
+    "op": [
+        "Privacy",
+        "Security",
+        "Safety",
+        "Integrity"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66315,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "ERP Stands for",
+    "op": [
+        "Entrepreneur Resource Planning",
+        "Enterprise Rescue Planning",
+        "Enterprise Resource Planning",
+        "Enterprise Resource Program"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66320,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Agents can be used for _____",
+    "op": [
+        "All",
+        "Comparisons",
+        "Filtering",
+        "Web crawling"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66357,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In this type of attack the hacker has the ability to monitor network traffic using some kind of network monitoring software.",
+    "op": [
+        "All of Above",
+        "Sniffing",
+        "Snooping",
+        "Eavesdropping"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66359,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Programs that work with the browser to enhance its capabilities.",
+    "op": [
+        "None of Above",
+        "Flash",
+        "Driver",
+        "PlugIn"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66362,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Worms have the characteristics;",
+    "op": [
+        "Can spread from computer to computer",
+        "All",
+        "Can replicate it",
+        "Have the capability to travel without any help or human action"
+    ],
+    "created_at": "2026-07-15T13:27:21.52824+00:00"
+},
+{
+    "id": 66378,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Those individuals who write programs or manipulate technologies to gain unauthorized access to computers and networks known as?",
+    "op": [
+        "Man in the middle attacks",
+        "Hackers",
+        "Viruses",
+        "Worms"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66520,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Those hostile programs which, when run on a machine, install hidden services in order to give attackers remote access capabilities to a compromised machine.",
+    "op": [
+        "Trapdoors",
+        "Worms",
+        "Back Doors",
+        "Virus"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66561,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Special software initiating thousands of http requests per second for specific web sites causing the web servers to overload. Thus, these servers were made unable to fulfill the web page requests of the genuine users/clients.",
+    "op": [
+        "Eavesdropping",
+        "DoS",
+        "Pooling",
+        "Sniffing"
+    ],
+    "created_at": "2026-07-15T13:27:22.377564+00:00"
+},
+{
+    "id": 66699,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of one is the security measure for e-commerce?",
+    "op": [
+        "Downloading of plug-ins from the internet be avoided.",
+        "All of Above",
+        "Downloading of plug-ins should be done from the vendor’s official website.",
+        "Installation of a firewall may also reduce the risk of virus attack."
+    ],
+    "created_at": "2026-07-15T13:27:25.598291+00:00"
+},
+{
+    "id": 66802,
+    "cc": "IT430",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "In this type of attack, the attacker gains access to the network and then send invalid data to network, services or applications.  These services or applications consequently become unable to perform their normal tasks or functions.",
+    "op": [
+        "DoS",
+        "Worms",
+        "Virus",
+        "Trojan Horse"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+}
+]

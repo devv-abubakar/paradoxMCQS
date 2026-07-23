@@ -1,0 +1,842 @@
+[
+    {
+        "id": 49459,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The second utterance is always a response to the first in ____________.",
+        "op": [
+            "adjacency pairs",
+            "nominal pairs",
+            "sequential pairs",
+            "rotational pairs"
+        ],
+        "created_at": "2026-07-05T19:41:56.870023+00:00"
+    },
+    {
+        "id": 49464,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which among the following is the term used for compiling collections of texts and using them to probe language use?",
+        "op": [
+            "psycho linguistics",
+            "socio linguistics",
+            "corpus linguistics",
+            "philosophe linguistics"
+        ],
+        "created_at": "2026-07-05T19:42:07.588629+00:00"
+    },
+    {
+        "id": 49469,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Among the following fields of linguistics, the features of__________ have been less explored in computational linguistics.",
+        "op": [
+            "phonetics",
+            "pragmatics",
+            "morphology",
+            "semantics"
+        ],
+        "created_at": "2026-07-05T19:42:15.155741+00:00"
+    },
+    {
+        "id": 49473,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Any possible change of turn point is called a __________.",
+        "op": [
+            "tranquility relevance place",
+            "transition relevance place",
+            "irradiate relevance place",
+            "irrational relevance place"
+        ],
+        "created_at": "2026-07-05T19:42:23.65033+00:00"
+    },
+    {
+        "id": 49476,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "In language texts, highlighting and deemphasizing by the writers is called ___________ structure.",
+        "op": [
+            "silence",
+            "avenue",
+            "information",
+            "glossary"
+        ],
+        "created_at": "2026-07-05T19:42:28.86113+00:00"
+    },
+    {
+        "id": 49477,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Interlanguage pragmatics focuses on the __________development of second/ foreign languages learners.",
+        "op": [
+            "semantic",
+            "pragmatic",
+            "cognitive",
+            "phonetic"
+        ],
+        "created_at": "2026-07-05T19:42:31.455931+00:00"
+    },
+    {
+        "id": 49480,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Listener cues are also called __________ channel cue.",
+        "op": [
+            "middle",
+            "front",
+            "down",
+            "back"
+        ],
+        "created_at": "2026-07-05T19:42:39.203014+00:00"
+    },
+    {
+        "id": 49483,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "The building of corpora of written language has proceeded more ________ than the compilation of spoken corpora.",
+        "op": [
+            "conversely",
+            "adamantly",
+            "quickly",
+            "mutually"
+        ],
+        "created_at": "2026-07-05T19:42:49.017936+00:00"
+    },
+    {
+        "id": 49486,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Greetings exemplify __________sequences, utterances that ease people into a conversation.",
+        "op": [
+            "conversing",
+            "closing",
+            "opening",
+            "wishing"
+        ],
+        "created_at": "2026-07-05T19:42:54.521297+00:00"
+    },
+    {
+        "id": 49490,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Micro features in a discourse includes ____________.",
+        "op": [
+            "turn taking",
+            "All of the given options",
+            "indirectness",
+            "prosodic cues"
+        ],
+        "created_at": "2026-07-05T19:43:04.016401+00:00"
+    },
+    {
+        "id": 49497,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "These types of signals (uh – uh, yeah, mmm) provide feedback to the current speaker that the message in being received; known as __________.",
+        "op": [
+            "forward-channels",
+            "initial-channels",
+            "middle-channels",
+            "back-channel"
+        ],
+        "created_at": "2026-07-05T19:43:14.602066+00:00"
+    },
+    {
+        "id": 49526,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Adjacency pairs represent social actions, and not all social actions are _________when they occur as second parts of some pairs.",
+        "op": [
+            "equal",
+            "zealous",
+            "biased",
+            "tendentious"
+        ],
+        "created_at": "2026-07-05T19:44:27.121457+00:00"
+    },
+    {
+        "id": 49539,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "As an interactive feature of talk, reference entails ____________ meanings.",
+        "op": [
+            "pragmatic",
+            "phonetic",
+            "semantic",
+            "psychological"
+        ],
+        "created_at": "2026-07-05T19:45:02.428886+00:00"
+    },
+    {
+        "id": 50327,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Intercultural pragmatics is based on the ___________ approach.",
+        "op": [
+            "socio-cognitive",
+            "None of the given options",
+            "philosophe-cognitive",
+            "psycho-cognitive"
+        ],
+        "created_at": "2026-07-05T20:43:28.972789+00:00"
+    },
+    {
+        "id": 50336,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Interlanguage pragmatics is inherently anchored in ___________ contexts.",
+        "op": [
+            "learning",
+            "situational",
+            "acquisition",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-05T20:45:42.429482+00:00"
+    },
+    {
+        "id": 50346,
+        "cc": "ENG508",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Conversational analysis examines ___________ levels of meaning within a text.",
+        "op": [
+            "wiles",
+            "different",
+            "guile",
+            "same"
+        ],
+        "created_at": "2026-07-05T20:46:30.49582+00:00"
+    },
+    {
+        "id": 67054,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Which among the following does commit the speaker to some future course of action?",
+        "op": [
+            "representatives acts",
+            "commissives acts",
+            "directives acts",
+            "expressive acts"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67060,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "For a promise, the speaker genuinely intends to carry out the_________ action.",
+        "op": [
+            "future",
+            "past",
+            "None of the given options",
+            "present"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67062,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Indirect speech act have a _________ illocution that have meaning when taken literally.",
+        "op": [
+            "major",
+            "secondary",
+            "primary",
+            "primal"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67068,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "The term ‘deixis’ is a derived from ___________language.",
+        "op": [
+            "French",
+            "Sanskrit",
+            "Greek",
+            "Italian"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67071,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Social Deixis refers to expressions which clearly __________ social meaning.",
+        "op": [
+            "decode",
+            "erode",
+            "encode",
+            "devote"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67075,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Temporal deixis is also known as __________ deixis.",
+        "op": [
+            "social",
+            "person",
+            "time",
+            "spatial"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67077,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Deictic referents are typically denotations with _________descriptive power, because of the role of assumed knowledge in determining reference.",
+        "op": [
+            "flash",
+            "limited",
+            "shoal",
+            "topical"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67078,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "The expressive thanking speech act is presumably used because it sounds more __________.",
+        "op": [
+            "polite and friendly",
+            "callous and friendly",
+            "glum and friendly",
+            "surly and friendly"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67082,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "The default deictic center is the speaker’s __________ at the time of utterance.",
+        "op": [
+            "sump",
+            "peat",
+            "location",
+            "turf"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67087,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "These exercises will _________ well in tutorial groups.",
+        "op": [
+            "worked",
+            "working",
+            "works",
+            "work"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67218,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "‘Deictic expressions such as that, those or these are called__________.",
+        "op": [
+            "indefinite and non-specific pronouns",
+            "definite and specific pronouns",
+            "indefinite and specific pronouns",
+            "none of the above given options"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67220,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Spatial deixis are also known as __________.",
+        "op": [
+            "choate deixis",
+            "domain deixis",
+            "integral deixis",
+            "place deixis"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67221,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "There is a basic expectation that the presupposition of a simple sentence will continue to be _________when that simple sentence becomes part of a more complex sentence.",
+        "op": [
+            "wrong",
+            "specious",
+            "moderate",
+            "true"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67222,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Speech acts and their linguistic realizations are culturally__________.",
+        "op": [
+            "gentle",
+            "bound",
+            "infirm",
+            "timid"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67223,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "‘This room is a real mess’. The given sentence is an example of___________.",
+        "op": [
+            "None of the given options",
+            "indirect speech act",
+            "direct speech act",
+            "imperatives speech act"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67225,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Constatives are the statements that attempt to describe_________.",
+        "op": [
+            "trip",
+            "fantasy",
+            "reality",
+            "apparition"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67226,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "A lot of what we say in everyday speech is left unfinished due to__________.",
+        "op": [
+            "we have no need to complete the sentence",
+            "we are interrupted",
+            "we are bollixed",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67359,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "In temporal deixis distinction, ‘CT’ stands for coding time and ‘RT’ stand for__________ time.",
+        "op": [
+            "leaving",
+            "receiving",
+            "dictating",
+            "showing"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67360,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "‘Could you open that door for me?’ The given statement is an example of__________ speech act.",
+        "op": [
+            "direct",
+            "None of the given options",
+            "indirect",
+            "complex"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67361,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Much of the everyday human interaction is characterized by the _________rather than the primarily transactional use of language.",
+        "op": [
+            "None of the given options",
+            "secondary interpersonal",
+            "primary interpersonal",
+            "major impersonal"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67362,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Speech acts are__________ of communication.",
+        "op": [
+            "acts",
+            "repose",
+            "sloth",
+            "stoppage"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67365,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Spatial deixis are used to indicate the relative __________ of people and things.",
+        "op": [
+            "state",
+            "location",
+            "domain",
+            "time"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67366,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "It is very _________ for the speaker to update the deictic center in more extended discourse.",
+        "op": [
+            "exceptional",
+            "intrinsic",
+            "endemic",
+            "common"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67367,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "The lexical items that __________context in the way are called ‘deictics’.",
+        "op": [
+            "implode",
+            "démodé",
+            "encode",
+            "decode"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67368,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "I have locked the door so someone ____________ NOT get in.",
+        "op": [
+            "have",
+            "does",
+            "had",
+            "did"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67385,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Which among the following does indicate literal meaning?",
+        "op": [
+            "illocutionary act",
+            "locutionary act",
+            "perlocutionary act",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67410,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Entailment refers to a relation between a pair of sentences such that the truth of the second sentence necessarily _________from the truth of the first.",
+        "op": [
+            "precedes",
+            "shuns",
+            "follows",
+            "evades"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67411,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "An entailment is something that logically follows from what is__________ in the utterance.",
+        "op": [
+            "recant",
+            "renege",
+            "asserted",
+            "abjure"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67437,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "According to Brown and Yule (1983), above speech acts, there are ____________main functions of talk.",
+        "op": [
+            "two",
+            "four",
+            "eight",
+            "six"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67438,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "A presupposition is something the speaker assumes to be the case_________ to making an utterance.",
+        "op": [
+            "ensue",
+            "sequent",
+            "prior",
+            "proximate"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67455,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "The term deixis is also known as the ____________ of language’.",
+        "op": [
+            "complexity",
+            "multiplicity",
+            "perplexity",
+            "indexicality"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67500,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Which among the following is the assumption of the existence of the entities named by the speaker?",
+        "op": [
+            "non factive presupposition",
+            "All of the given options",
+            "existential presupposition",
+            "factive presupposition"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67530,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "01 January 2026",
+        "qt": "Discourse Deixis is also called __________ deixis.",
+        "op": [
+            "text",
+            "treatise",
+            "substance",
+            "material"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 68922,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Which among the following assumption does say that face is typically at risk when the other is involved with it?",
+        "op": [
+            "pre-sequences",
+            "pre-serenity",
+            "pre-request",
+            "pre-repose"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68923,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Showing awareness to person’s face when the other seems socially distant is known as _________.",
+        "op": [
+            "manner",
+            "politeness",
+            "deference",
+            "interaction"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68924,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "When there is social distance, politeness is ___________ and there is more indirectness.",
+        "op": [
+            "enacted",
+            "encoded",
+            "decoded",
+            "descanted"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68925,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Positive face reflects the desire to have ________approved of by others.",
+        "op": [
+            "ancillary self-image",
+            "None of the given options",
+            "other’s self-image",
+            "one’s self-image"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68927,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Linguists are of the view that if the strategies presented do not appear _________ contextualized it may be difficult to know how to use them.",
+        "op": [
+            "adverse",
+            "adversative",
+            "appropriately",
+            "polite"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68928,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Negative Face Threating Act(s) can include ____________ of the listener to perform a certain action.",
+        "op": [
+            "advices",
+            "requests",
+            "warnings",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68929,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Travellers may find that the British put more emphasis on ________ politeness than other cultures do.",
+        "op": [
+            "negative",
+            "positive",
+            "afflictive",
+            "agentive"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68931,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "Politeness is not the same as _________, which is a polite form expressing distance from and respect for people of a higher status.",
+        "op": [
+            "preference",
+            "deference",
+            "inference",
+            "coherence"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68941,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "There are __________ situational context factors that influence the way that we make a request.",
+        "op": [
+            "five",
+            "seven",
+            "two",
+            "nine"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68942,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "The most direct approach, using imperative forms is known as _________.",
+        "op": [
+            "lull on record",
+            "hush on record",
+            "bald on record",
+            "off on record"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68949,
+        "cc": "ENG508",
+        "qn": "",
+        "dt": "05 January 2026",
+        "qt": "“Could you lend me a pen”? The given statement is an example of__________.",
+        "op": [
+            "neutral politeness",
+            "positive politeness",
+            "negative politeness",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    }
+]

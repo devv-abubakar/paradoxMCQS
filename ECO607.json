@@ -1,0 +1,2534 @@
+[
+    {
+        "id": 27366,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for consumption function, $Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta - g}})]{e^{\\frac{{1 - \\beta - \\delta - g}}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta - g}}$ ?",
+        "op": [
+            "It has both complementary and particular solutions",
+            "It will not converge towards to the particular solution",
+            "It will converge towards to the particular solution",
+            "It is first order differential non homogeneous equation"
+        ],
+        "created_at": "2026-06-29T19:02:38.341976+00:00"
+    },
+    {
+        "id": 27370,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation $\\frac{{dk}}{{dt}} + \\lambda k = s{k^\\alpha }$ if $\\alpha = 1$ ?",
+        "op": [
+            "None of the given options",
+            "The equation can be solved with Bernoulli equation method",
+            "The equation can be solved with separable variable method",
+            "The equation can be solved with exact differential equation method"
+        ],
+        "created_at": "2026-06-29T19:02:48.961875+00:00"
+    },
+    {
+        "id": 27373,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation; y’’ + 2y’ +3y = 2e-2t ?",
+        "op": [
+            "There is no value for the complementary solution",
+            "The value of particular solution cannot be calculated",
+            "The particular solution will not be a constant value",
+            "The particular solution will be a constant value"
+        ],
+        "created_at": "2026-06-29T19:02:58.106803+00:00"
+    },
+    {
+        "id": 27376,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for unemployment equation U(t) = 80e-3t +90 ?",
+        "op": [
+            "The particular solution of the equation is 80",
+            "The complementary solution of the equation is 60",
+            "The particular solution of the equation is 90",
+            "The value of complementary solution has not been given in the equation"
+        ],
+        "created_at": "2026-06-29T19:03:04.786206+00:00"
+    },
+    {
+        "id": 27379,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the rate of change of monthly sales; S(t) = (C-M)e-kt +M ?",
+        "op": [
+            "The time path should converge towards the particular solution",
+            "The time path should diverge from the particular solution",
+            "The time path should converge towards the complementary solution",
+            "The time path should be equal to the particular solution"
+        ],
+        "created_at": "2026-06-29T19:03:13.534832+00:00"
+    },
+    {
+        "id": 27384,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for equation if value of file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml1148\\wps5.jpg is negative $Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }})]{e^{\\frac{{1 - \\beta + \\tau \\beta - \\delta }}{\\gamma }t}}\\, + \\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }}$ ?",
+        "op": [
+            "There will be divergence from the particular solution",
+            "There will be no convergence towards particular solution",
+            "All of the given options",
+            "There will be convergence towards complementary solution"
+        ],
+        "created_at": "2026-06-29T19:03:21.472875+00:00"
+    },
+    {
+        "id": 27395,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the terms of price equation (dp/dt+d2p/dt2) ?",
+        "op": [
+            "It is slope of rate of change in price over time",
+            "It is market price of goods over time",
+            "All of the given options",
+            "It is rate of change in price over time"
+        ],
+        "created_at": "2026-06-29T19:03:59.82759+00:00"
+    },
+    {
+        "id": 27397,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the particular solution of first difference equation; Yp = 5 ?",
+        "op": [
+            "There will be no equilibrium",
+            "There will be a static equilibrium",
+            "There will be continuous equilibrium",
+            "There will be a stepped equilibrium"
+        ],
+        "created_at": "2026-06-29T19:04:09.543593+00:00"
+    },
+    {
+        "id": 28239,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for y’’(t) +3y’(t) - 4y = 0?",
+        "op": [
+            "It is a homogeneous second order differential equation",
+            "The particular solution will be equal to three",
+            "The particular solution will be equal to four",
+            "It is a non homogeneous second order differential equation"
+        ],
+        "created_at": "2026-06-29T23:53:04.983732+00:00"
+    },
+    {
+        "id": 28240,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the marginal product of labor and capital, MPk= 5L and MPL= 1.2 LK ; assuming it is on an Iso-quant (dQ=0) ?",
+        "op": [
+            "It is the general solution of the second order homogeneous differential equation",
+            "If it is exact differential equation, it will be solved in four steps",
+            "If it is inexact differential equation, it will be solved in four steps",
+            "It is the definite solution of the first order homogeneous differential equation"
+        ],
+        "created_at": "2026-06-29T23:53:22.804128+00:00"
+    },
+    {
+        "id": 28241,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the complementary function in case of Complex Roots ?",
+        "op": [
+            "It shall have one but Complex exponential terms",
+            "It shall have two but Similar exponential terms",
+            "It shall have three but Repeated exponential terms",
+            "It shall have two but Complex exponential terms"
+        ],
+        "created_at": "2026-06-29T23:53:41.203504+00:00"
+    },
+    {
+        "id": 28242,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation $\\frac{{dy}}{{dt}} + \\,( - 1)y = \\,6$file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml5460\\wps12.jpgusing phase diagram?",
+        "op": [
+            "The inter temporal equilibrium will be unaffected",
+            "The inter temporal equilibrium will be convergent",
+            "It can be solved with the Bernoulli equation method",
+            "The inter temporal equilibrium will be divergent"
+        ],
+        "created_at": "2026-06-29T23:53:57.385681+00:00"
+    },
+    {
+        "id": 28243,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for transaction demand for money, L [ P(t). Y] ?",
+        "op": [
+            "It is inversely related with price (P) and positively with income (Y)",
+            "None of the given options",
+            "It is positively related with income (Y)",
+            "It is positively related with price (P)"
+        ],
+        "created_at": "2026-06-29T23:54:10.662202+00:00"
+    },
+    {
+        "id": 28244,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for reservation price?",
+        "op": [
+            "The price at which there is maximum profit",
+            "The price at which consumer surplus is maximum",
+            "The price at which there is maximum demand of product",
+            "The price at which there is no demand"
+        ],
+        "created_at": "2026-06-29T23:54:22.343334+00:00"
+    },
+    {
+        "id": 28245,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the marginal product of labor and capital, MPk= 3LK and MPL= 5LK ; assuming it is on an Iso-quant (dQ=0) ?",
+        "op": [
+            "The values cannot be used to apply the exactness test",
+            "There will be three steps involved if it is exact differential equation",
+            "It is a non linear first order homogeneous differential equation",
+            "It is first order non homogeneous differential equation"
+        ],
+        "created_at": "2026-06-29T23:54:52.50178+00:00"
+    },
+    {
+        "id": 28247,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the complementary function in case of Repeated Real Roots ?",
+        "op": [
+            "It shall have two but different exponential terms",
+            "It shall have three but Repeated exponential terms",
+            "It shall have one but Repeated exponential terms",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-29T23:55:12.419352+00:00"
+    },
+    {
+        "id": 28249,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the, $2yt.dy + {y^3}.dt = \\,0$ ?",
+        "op": [
+            "None of the options",
+            "It is a case of homogeneous first order differential equation",
+            "It is a case of non homogeneous first order differential equation",
+            "It is a case of inexact differential equation"
+        ],
+        "created_at": "2026-06-29T23:55:23.457808+00:00"
+    },
+    {
+        "id": 28250,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the complementary function in case of Distinct Real Roots?",
+        "op": [
+            "The equation can be solved with exact differential equation method",
+            "The equation will have two and similar exponential terms",
+            "The equation will have two and different exponential terms",
+            "The equation will have two and no exponential terms"
+        ],
+        "created_at": "2026-06-29T23:55:34.609074+00:00"
+    },
+    {
+        "id": 28272,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation; α0yn(t) + α1yn-1(t) +………..+αn-1y’ +αny = b if αn > 0 and αn-1 = 0 ?",
+        "op": [
+            "The particular solution will be equal to kt2 as trial solution",
+            "The particular solution will be equal to b/αn",
+            "The particular solution will be equal to b/αn-1",
+            "The complementary solution will be equal to b/α2"
+        ],
+        "created_at": "2026-06-30T00:11:50.46012+00:00"
+    },
+    {
+        "id": 28274,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for second order differential equations with $a_1^2 < 4{a_2}$ ?",
+        "op": [
+            "It will have repeated real roots",
+            "It will have distinct real roots",
+            "It will have complex roots",
+            "All of the options"
+        ],
+        "created_at": "2026-06-30T00:12:38.248201+00:00"
+    },
+    {
+        "id": 28282,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the ${y^n}(t) + {\\alpha _1}{y^{n - 1}} + .... + {\\alpha _{n - 1}}{y^1}(t) + {\\alpha _n}y = b$ ?",
+        "op": [
+            "All of the given options",
+            "It is nth order differential equation of higher order",
+            "It is a non linear differential equation where b causes non linearity",
+            "It is second order differential equation in Lagrange notation"
+        ],
+        "created_at": "2026-06-30T00:14:04.006705+00:00"
+    },
+    {
+        "id": 28286,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the oil equation, dV/dt + 0.03V(t)= 18 ?",
+        "op": [
+            "It is first order homogeneous differential equation",
+            "It is first order non homogeneous differential equation",
+            "The value of V(t) depends on time",
+            "It has both complementary and particular solutions"
+        ],
+        "created_at": "2026-06-30T00:14:43.034024+00:00"
+    },
+    {
+        "id": 28289,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the equation, $\\frac{{dQ}}{{dP}}$ +2P = -8?",
+        "op": [
+            "The standard first order differential equation cannot be used",
+            "The definite solution can be calculated using integration",
+            "None of the given options",
+            "The value of price will be constant"
+        ],
+        "created_at": "2026-06-30T00:15:09.775785+00:00"
+    },
+    {
+        "id": 28291,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the complementary function in case of Complex Roots ?",
+        "op": [
+            "It shall have two but Similar exponential terms",
+            "It shall have one but Complex exponential terms",
+            "All of the given options",
+            "It shall have three but Repeated exponential terms"
+        ],
+        "created_at": "2026-06-30T00:15:50.005948+00:00"
+    },
+    {
+        "id": 28292,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the dynamic stability of equation; Yt = Abt ?",
+        "op": [
+            "All of the given options",
+            "The term t will determine the dynamic stability of the equation",
+            "The term A will determine the dynamic stability of the equation",
+            "The equation cannot be determined for the dynamic stability"
+        ],
+        "created_at": "2026-06-30T00:16:26.325538+00:00"
+    },
+    {
+        "id": 28293,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for second order differential equations?",
+        "op": [
+            "It measures the aggregate value of the variable over time",
+            "All of the given options",
+            "It measures rate of change of the variable over time",
+            "It measure average relationship over time"
+        ],
+        "created_at": "2026-06-30T00:16:55.72052+00:00"
+    },
+    {
+        "id": 28294,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for gold mining equation, G(t) = 2000e-0.03 +0 ?",
+        "op": [
+            "It is first order differential homogeneous equation",
+            "It will not converge towards equilibrium value",
+            "It has both complementary and particular solutions",
+            "It is first order differential non homogeneous equation"
+        ],
+        "created_at": "2026-06-30T00:17:29.733414+00:00"
+    },
+    {
+        "id": 28298,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the fuel (in litre) equation F’((x) = -0.03F(x) -18 ?",
+        "op": [
+            "Time path is not involved in the equation",
+            "The value of 0.03 will lead to divergence from equilibrium value",
+            "The value of 18 is not involved in convergence mechanism of the equation",
+            "The value of 18 will ensure convergence towards equilibrium value"
+        ],
+        "created_at": "2026-06-30T00:22:43.505077+00:00"
+    },
+    {
+        "id": 28303,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of Phillips equation; $\\frac{{{d^2}\\pi }}{{d{t^2}}} + \\beta k(\\frac{{d\\pi }}{{dt}}) - j(g - 1)(\\frac{{d\\pi }}{{dt}}) + j\\beta km = \\,j\\beta km$ considering repeated real roots ?",
+        "op": [
+            "The system will dynamically unstable when repeated real roots are negative",
+            "The system will dynamically stable when repeated real roots are negative",
+            "The system will be dynamically stable when one root is positive and second is negative",
+            "The system will dynamically stable when repeated real roots are positive"
+        ],
+        "created_at": "2026-06-30T00:24:58.554643+00:00"
+    },
+    {
+        "id": 28304,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the case of repeated real Roots ?",
+        "op": [
+            "α12 - 4α2 = 0",
+            "None of the options",
+            "α12 - 4α2 < 0",
+            "α12 - 4α2 > 0"
+        ],
+        "created_at": "2026-06-30T00:25:23.520384+00:00"
+    },
+    {
+        "id": 28309,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the term Adapted Phillips relation?",
+        "op": [
+            "None of the given options",
+            "Rate of growth of money wage and rate of unemployment",
+            "Average growth rate of money supply",
+            "Rate of growth of money supply and GDP growth"
+        ],
+        "created_at": "2026-06-30T00:27:09.766866+00:00"
+    },
+    {
+        "id": 28314,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the price equation with solution ${Y_p} = \\,\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }}$ ?",
+        "op": [
+            "All of the given options",
+            "α2 ≠ 0",
+            "(α1)2 > 4α2",
+            "There is a stationary equilibrium for the system"
+        ],
+        "created_at": "2026-06-30T00:30:06.789714+00:00"
+    },
+    {
+        "id": 28316,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation, G(t) = 300e-0.05t ?",
+        "op": [
+            "It is homogeneous first order differential equation with definite solution",
+            "It is first order differential equation with general solution",
+            "The equation represent a modified form of investment multiplier",
+            "It is first order first degree non homogeneous differential equation with definite solution"
+        ],
+        "created_at": "2026-06-30T00:31:14.918755+00:00"
+    },
+    {
+        "id": 28407,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the the complementary function in case of Repeated Real Roots ?",
+        "op": [
+            "It shall have one but Repeated exponential terms",
+            "It shall have two but Repeated exponential terms",
+            "It shall have three but Repeated exponential terms",
+            "It shall have two but different exponential terms"
+        ],
+        "created_at": "2026-06-30T00:57:54.889946+00:00"
+    },
+    {
+        "id": 28408,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation of price Qd = α-βP+mP’ + nP’’ when there are no price expectations ?",
+        "op": [
+            "It will slightly increase the demand of Qd",
+            "It will have no effect on the demand Qd",
+            "It will increase the demand Qd at decreasing rate",
+            "It will increase the demand Qd at increasing rate"
+        ],
+        "created_at": "2026-06-30T00:58:23.035186+00:00"
+    },
+    {
+        "id": 28409,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option in the equation, $\\frac{{dy}}{{dt}} + \\,ty = \\,t{y^2}$ ?",
+        "op": [
+            "None of the given options",
+            "The function can be solved with using exact differential equation method",
+            "The value of the m=1 and R=2 in the given equation",
+            "Using Bernoulli equation method, it can be substituted file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml5460\\wps9.jpgz in place of y to linearize the equation"
+        ],
+        "created_at": "2026-06-30T00:58:32.449626+00:00"
+    },
+    {
+        "id": 28410,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation; α0yn(t) + α1yn-1(t) +………..+αn-1y’ +αny = b if αn = 0 and αn-1 < 0 ?",
+        "op": [
+            "The particular solution will be equal to b/αn",
+            "The complementary solution will be equal to b/α2",
+            "The particular solution will be equal to b/α2",
+            "The particular solution will be equal to (b/αn-1)t"
+        ],
+        "created_at": "2026-06-30T00:58:51.158874+00:00"
+    },
+    {
+        "id": 28411,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for national income equation $\\frac{{dy}}{{dt}} + (\\frac{{1 - \\beta + \\tau \\beta - \\delta }}{{ - \\gamma }})Y = - \\frac{\\alpha }{\\gamma }$ ?",
+        "op": [
+            "None of the given options",
+            "It has only the particular solution",
+            "It is first order differential non homogeneous equation",
+            "It has both complementary and particular solutions"
+        ],
+        "created_at": "2026-06-30T00:59:05.146574+00:00"
+    },
+    {
+        "id": 28412,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the first order difference equation ?",
+        "op": [
+            "A period is a length of time that elapses before the variable file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml3832\\wps1.jpg undergoes a change",
+            "The Period doesn’t necessarily relate to calendar rather than analytical sense.",
+            "The dynamic stability will be computed for the equation",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-30T00:59:22.096904+00:00"
+    },
+    {
+        "id": 28502,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for equation $Y(t) = \\,[Y(0) - \\frac{{{M_s}}}{\\alpha }]{e^{ - (\\frac{\\alpha }{\\beta })}} + \\frac{{{M_s}}}{\\alpha }$ ?",
+        "op": [
+            "The value of $\\frac{{{M_s}}}{\\alpha }$ will is the equilibrium value",
+            "The equation have complementary and particular solutions",
+            "The value of ${\\frac{\\alpha }{\\beta }}$>0 will ensure convergence towards equilibrium value",
+            "The value of ${\\frac{\\alpha }{\\beta }}$ >0 will lead to divergence from equilibrium value"
+        ],
+        "created_at": "2026-06-30T02:13:13.062162+00:00"
+    },
+    {
+        "id": 28503,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for dynamic stability in the pollution function given by P(t) = 10e-0.2t ?",
+        "op": [
+            "The time path should converge towards the zero",
+            "The time path should be equal to 10",
+            "The time path should diverge from 10",
+            "The time path should converge towards the complementary solution"
+        ],
+        "created_at": "2026-06-30T02:13:39.634677+00:00"
+    },
+    {
+        "id": 28504,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following the the correct option for the case of complex roots?",
+        "op": [
+            "There will be real and imaginary value in roots",
+            "The value of the discriminant $a_1^2 = 4{a_2}$ will lead to complex roots",
+            "The value of the roots will be equal to each other",
+            "The value of root will be positive for dynamic stability"
+        ],
+        "created_at": "2026-06-30T02:13:52.238528+00:00"
+    },
+    {
+        "id": 28505,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for (Qd - Qs) in static sense of equilibrium in market price?",
+        "op": [
+            "The negative value will show a surplus of goods",
+            "The positive value will show a shortage of goods",
+            "The zero value will show an equilibrium state",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-30T02:14:06.409816+00:00"
+    },
+    {
+        "id": 28508,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for y’’(t) + y’ + 3y = 0 ?",
+        "op": [
+            "The particular solution will be equal to 4",
+            "It is a non homogeneous second order differential equation",
+            "It is a homogeneous second order differential equation",
+            "The particular solution will be equal to 3"
+        ],
+        "created_at": "2026-06-30T02:14:17.312701+00:00"
+    },
+    {
+        "id": 28509,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Given the equation for rate of consumption $\\frac{{dC}}{{dt}}$ = -4C+10 , Which of the following is the incorrect option?",
+        "op": [
+            "It is a case of non homogeneous first order differential equation",
+            "All of the given options",
+            "It is a case of homogeneous first order differential equation",
+            "There is a particular solution to the equation"
+        ],
+        "created_at": "2026-06-30T02:14:28.771823+00:00"
+    },
+    {
+        "id": 28510,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for dynamic stability of P(t) = [P(0)-P*]e-kt + P* ?",
+        "op": [
+            "The complimentary function (Pc) will not be equal to P* only",
+            "All of the options",
+            "The particular solution can have non constant (kt) value",
+            "The complimentary function (Pc) will not converge to P*"
+        ],
+        "created_at": "2026-06-30T02:14:40.868472+00:00"
+    },
+    {
+        "id": 28511,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the ${y^n}(t) + {\\alpha _1}{y^{n - 1}} + .... + {\\alpha _{n - 1}}{y^1}(t) + {\\alpha _n}y = b$ ?",
+        "op": [
+            "It is nth degree differential equation with nth order",
+            "All of the given options",
+            "It is a non linear differential equation which have been converted from linear equation",
+            "It is second degree differential equation with nth order"
+        ],
+        "created_at": "2026-06-30T02:14:54.320841+00:00"
+    },
+    {
+        "id": 28809,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for reservation price in equation Q(PR) = -PR2 - 10PR + 75?",
+        "op": [
+            "Reservation price will be 12",
+            "Reservation price will be 5",
+            "Reservation price will be 11",
+            "Reservation price will be 4"
+        ],
+        "created_at": "2026-06-30T04:16:40.502147+00:00"
+    },
+    {
+        "id": 28812,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Depending on the value of discriminant in the $P'' + \\frac{m}{n}p' + [ - \\frac{{\\beta + \\delta }}{n}]P = - \\frac{{\\alpha + \\gamma }}{n}$ , the nature of roots of characteristic equation gets defined. This gives rise to?",
+        "op": [
+            "Two cases of complementary functions",
+            "None of the given options",
+            "Three cases of particular solution",
+            "Four cases of complementary functions"
+        ],
+        "created_at": "2026-06-30T04:17:48.885655+00:00"
+    },
+    {
+        "id": 28817,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the Phillips equation p= α- βU - T ?",
+        "op": [
+            "All of the given options",
+            "Unemployment and inflation are inversely related",
+            "Inflation will decrease when productivity (T) increases",
+            "Inflation will increase when unemployment increase"
+        ],
+        "created_at": "2026-06-30T04:18:30.555991+00:00"
+    },
+    {
+        "id": 28823,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Expectations-augmented Phillips relation is based mostly on supply side and deals with?",
+        "op": [
+            "Wages and money supply",
+            "Unemployment and money supply",
+            "GDP and inflation",
+            "Unemployment and actual/expected inflation"
+        ],
+        "created_at": "2026-06-30T04:19:34.898935+00:00"
+    },
+    {
+        "id": 28826,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the dynamic stability of price equation; $P'' + \\frac{m}{n}p' + [ - \\frac{{\\beta + \\delta }}{n}]P = - \\frac{{\\alpha + \\gamma }}{n}$ When n=0 ?",
+        "op": [
+            "The system will dynamically stable with A1 >0 and A2 >0",
+            "All of the given options",
+            "The system will dynamically stable with A1 = 0 and A2 >0",
+            "The system will dynamically stable with A1 >0 and A2 = 0"
+        ],
+        "created_at": "2026-06-30T04:20:08.522608+00:00"
+    },
+    {
+        "id": 29007,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the Phillips equation p= α- βU - T + g.π ?",
+        "op": [
+            "All of the given options",
+            "It is original Phillips relation",
+            "It is adapted Phillips relation",
+            "It is adapted money supply and GDP relation"
+        ],
+        "created_at": "2026-06-30T05:16:44.072163+00:00"
+    },
+    {
+        "id": 29008,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the gold mine equation dG/dt + 0.02G(t)= 17 ?",
+        "op": [
+            "The value of 17 will ensure convergence towards equilibrium value",
+            "All of the given options",
+            "Time path is not involved in the equation",
+            "The value of 0.02 will lead to divergence from equilibrium value"
+        ],
+        "created_at": "2026-06-30T05:16:58.704601+00:00"
+    },
+    {
+        "id": 29009,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for unemployment equation U(t) = 80e-3t +90 when time t=0?",
+        "op": [
+            "The Unemployed individual U(t) will be 170",
+            "The Unemployed individual U(t) will be 90",
+            "The Unemployed individual U(t) will be 80",
+            "The Unemployed individual U(t) will be 10"
+        ],
+        "created_at": "2026-06-30T05:17:24.507767+00:00"
+    },
+    {
+        "id": 29010,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation; y’’ + 2y’ +3y = 2t2+t+12 ?",
+        "op": [
+            "Particular solution for this equation will be equal to complementary solution",
+            "Method of undetermined coefficients will be used to calculate particular solution",
+            "Method of undetermined coefficients will be used to calculate both complementary and particular solution",
+            "Method of undetermined coefficients will be used to calculate complementary solution"
+        ],
+        "created_at": "2026-06-30T05:17:49.028649+00:00"
+    },
+    {
+        "id": 29011,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the definite solution of equation; Yt=1 - Yt = 9 ?",
+        "op": [
+            "The definite solution will be equal to 9t only",
+            "The definite solution will be equal to 9 only",
+            "The definite solution will be equal to Y0 +9 only",
+            "The definite solution will be undefined"
+        ],
+        "created_at": "2026-06-30T05:17:59.626257+00:00"
+    },
+    {
+        "id": 29012,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation $\\frac{{dy}}{{dt}} + \\,(3)y = \\,5$ using phase diagram?",
+        "op": [
+            "The inter temporal equilibrium will be convergent",
+            "The inter temporal equilibrium will be divergent",
+            "It can be solved with the Bernoulli equation method",
+            "The inter temporal equilibrium will be unaffected"
+        ],
+        "created_at": "2026-06-30T05:18:27.691173+00:00"
+    },
+    {
+        "id": 29623,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the equation, $\\,\\frac{{dy}}{{dt}} + \\,\\frac{\\alpha }{\\beta }Y = \\,\\frac{{{M_s}}}{\\beta }$ ?",
+        "op": [
+            "It is first order second degree differential equation",
+            "It is first order first degree differential equation",
+            "It is a modified form of elasticity of money demand and money supply",
+            "The equation cannot be resolved using differential equation method"
+        ],
+        "created_at": "2026-06-30T07:48:11.968349+00:00"
+    },
+    {
+        "id": 29629,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for first order difference equation ?",
+        "op": [
+            "The tools of analysis will include lags and leads",
+            "The nature of values of will be integers only",
+            "The analysis is also known as period analysis",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-30T07:49:08.373715+00:00"
+    },
+    {
+        "id": 29630,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for static sense of equilibrium in market price, ${P^*} = \\,\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }}$ ?",
+        "op": [
+            "The value of price will be inversely related to $\\alpha + \\gamma$",
+            "The value of price will be constant",
+            "The value of the price will be positively related to $\\alpha + \\gamma$",
+            "The value of price cannot be predicted"
+        ],
+        "created_at": "2026-06-30T07:49:17.247267+00:00"
+    },
+    {
+        "id": 29631,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the money market equation, $\\alpha Y\\, + \\,\\beta \\frac{{dy}}{{dt}} = \\,{M_s}$ ?",
+        "op": [
+            "The value of income (Y) will be inversely related money supply (Ms)",
+            "The standard first order differential equation can be used",
+            "All of the given options",
+            "The value of money supply (Ms) will be constant"
+        ],
+        "created_at": "2026-06-30T07:49:46.610175+00:00"
+    },
+    {
+        "id": 29633,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation of price Qd = α-βP+mP’ + nP’’ when m>0 ?",
+        "op": [
+            "It will increase the demand Qd at increasing rate",
+            "It will increase the demand of Qd",
+            "It will increase the demand Qd at decreasing rate",
+            "It will decrease the demand of Qd"
+        ],
+        "created_at": "2026-06-30T07:50:11.563637+00:00"
+    },
+    {
+        "id": 29634,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the higher order differential equation in general ? I",
+        "op": [
+            "It can be a maximum of 5th order differential equation",
+            "It can be a maximum of 10th order differential equation",
+            "All of the given options",
+            "t can be a maximum of 100th order differential equation"
+        ],
+        "created_at": "2026-06-30T07:50:35.277244+00:00"
+    },
+    {
+        "id": 29636,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for consumption function, C=α+βY ?",
+        "op": [
+            "β is the marginal propensity of consumption",
+            "It has autonomous consumption α",
+            "All of the given options",
+            "Consumption is positively related with income (Y)"
+        ],
+        "created_at": "2026-06-30T07:50:50.342508+00:00"
+    },
+    {
+        "id": 29756,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for initial price P(0) in dynamic sense of equilibrium in market price?",
+        "op": [
+            "Time path can start from above the equilibrium price",
+            "Time path can be equal to the equilibrium price",
+            "Time path can start from below the equilibrium price",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-30T08:17:56.933401+00:00"
+    },
+    {
+        "id": 29757,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of higher order differential equation by Routh Theorem ?",
+        "op": [
+            "It is based on the characteristic roots of the equation",
+            "It can be used only to calculate the stable dynamic path only",
+            "It is not based on the calculation of characteristic roots",
+            "It can be used only when order of differential equation is more than 5"
+        ],
+        "created_at": "2026-06-30T08:18:03.264145+00:00"
+    },
+    {
+        "id": 29758,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation,V(t) = 1000e-0.04t +V(0) ?",
+        "op": [
+            "It is homogeneous first order differential equation",
+            "It is first order differential equation with general solution",
+            "It is first order first degree differential equation with definite solution",
+            "The equation represent a modified form of elasticity of oil extraction"
+        ],
+        "created_at": "2026-06-30T08:18:10.108942+00:00"
+    },
+    {
+        "id": 29761,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of the time-path of rate of change of population; dN/dt = 0.01 N and N(t) 40000e0.017t ?",
+        "op": [
+            "The complimentary function will converge to particular solution",
+            "The particular function will converge to complementary solution",
+            "The complementary function will converge to zero",
+            "It is first order homogeneous differential equation"
+        ],
+        "created_at": "2026-06-30T08:18:46.766003+00:00"
+    },
+    {
+        "id": 29762,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for second order differential equations with α12 - 4α2 = 0?",
+        "op": [
+            "It will have both complex and distinct root",
+            "It will have complex roots",
+            "It will have distinct real roots",
+            "All of the options"
+        ],
+        "created_at": "2026-06-30T08:18:50.209111+00:00"
+    },
+    {
+        "id": 29763,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the equation; y’’ + 2y’ +3y = 2t2+3t+2 ?",
+        "op": [
+            "All of the given options",
+            "There is no value for the complementary solution",
+            "The value of particular solution cannot be calculated",
+            "The particular solution will be a constant value"
+        ],
+        "created_at": "2026-06-30T08:19:19.838572+00:00"
+    },
+    {
+        "id": 29764,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the ${y^{ - m}}\\frac{{dy}}{{dt}} + \\,R{y^{1 - m}} = \\,T$ assuming m>1?",
+        "op": [
+            "It is first order homogeneous differential equation",
+            "None of the given options",
+            "It is a non linear differential equation which have been converted from linear equation",
+            "If it is inexact differential equation, it will be solved in four steps"
+        ],
+        "created_at": "2026-06-30T08:19:28.230472+00:00"
+    },
+    {
+        "id": 29766,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the ore mining function, M(t) = 400e-0.02t ?",
+        "op": [
+            "There is no complementary solution to the equation",
+            "There is a particular solution to the equation equals to 400",
+            "It is a case of homogeneous first order differential equation",
+            "It is a case of non homogeneous first order differential equation"
+        ],
+        "created_at": "2026-06-30T08:19:49.840155+00:00"
+    },
+    {
+        "id": 29767,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for reservation price in equation, Q(PR) = -P2R - 3 PR + 28 ?",
+        "op": [
+            "Reservation price will be 4",
+            "Reservation price will be 2",
+            "Reservation price will be 10",
+            "Reservation price will be 5"
+        ],
+        "created_at": "2026-06-30T08:20:01.464631+00:00"
+    },
+    {
+        "id": 29769,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the capital function, K(t)= 100(2t+4)2 ?",
+        "op": [
+            "It is definite solution of linear first order differential equation",
+            "It represents the time path of the capital stock over time",
+            "It represents the time path of the GDP over time",
+            "It is definite solution of non linear differential equation"
+        ],
+        "created_at": "2026-06-30T08:20:22.416708+00:00"
+    },
+    {
+        "id": 29770,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the equation, $\\frac{{dy}}{{dt}} + \\,u(t).y = w(t)$ ?",
+        "op": [
+            "It is first order second degree differential equation",
+            "None of the given options",
+            "The value of the equation will depend on time",
+            "It is first order differential equation with variable term and variable coefficient"
+        ],
+        "created_at": "2026-06-30T08:20:39.750074+00:00"
+    },
+    {
+        "id": 29772,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the definite solution of equation; yt+1 = yt +4 at period t = 2 ?",
+        "op": [
+            "Y3 = Y2 + 4",
+            "Y3 = Y1 + 2",
+            "Y4 = Y1 + 4",
+            "Y4 = Y3 + 4"
+        ],
+        "created_at": "2026-06-30T08:20:49.29021+00:00"
+    },
+    {
+        "id": 29773,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the equation, $\\frac{{dQ}}{{dP}}$ +2P = -11 ?",
+        "op": [
+            "First order differential equation is not applicable as Q is independent variable",
+            "Integration can be used to find value of Q as dependant variable",
+            "All of the given options",
+            "The equation represent a modified form of elasticity of demand"
+        ],
+        "created_at": "2026-06-30T08:20:58.965622+00:00"
+    },
+    {
+        "id": 29777,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following the the incorrect option for the case of repeated real roots?",
+        "op": [
+            "The zero value of the discriminant α12 - 4α2 will lead to repeated real roots",
+            "The value of the roots will be equal to each other",
+            "The value of root will be negative for dynamic stability",
+            "The positive value of the discriminant α12 - 4α2 will lead to repeated real roots"
+        ],
+        "created_at": "2026-06-30T08:21:24.19795+00:00"
+    },
+    {
+        "id": 29984,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability in case of Distinct Real Roots?",
+        "op": [
+            "None of the given options",
+            "The equation will have two and no exponential terms",
+            "The equation will have two and similar exponential terms",
+            "The equation will have two and different exponential terms with positive sign"
+        ],
+        "created_at": "2026-06-30T10:09:41.952854+00:00"
+    },
+    {
+        "id": 29985,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for equation Q(P) = -P2 - 2P + 1?",
+        "op": [
+            "This is a definite solution of equation",
+            "Time path is not involved in the equation",
+            "All of the given options",
+            "This is a general solution of equation"
+        ],
+        "created_at": "2026-06-30T10:09:59.577039+00:00"
+    },
+    {
+        "id": 29987,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for y’’(t) + 2y’ + 3y = 10 ?",
+        "op": [
+            "The particular solution will be equal to 10",
+            "It is a non homogeneous second order differential equation",
+            "It is a homogeneous second order differential equation",
+            "The particular solution will be equal to zero"
+        ],
+        "created_at": "2026-06-30T10:10:08.343266+00:00"
+    },
+    {
+        "id": 29988,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the Phillips equation; $\\frac{{{d^2}\\pi }}{{d{t^2}}} + \\beta k(\\frac{{d\\pi }}{{dt}}) - j(g - 1)(\\frac{{d\\pi }}{{dt}}) + j\\beta km = \\,j\\beta km$ ?",
+        "op": [
+            "The particular solution b/a2 will be file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml6824\\wps2.jpgm",
+            "All of the options",
+            "The complementary solution b/a2 will be $jm$",
+            "The complementary solution b/a2 will befile:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml6824\\wps3.jpg$j\\beta km$"
+        ],
+        "created_at": "2026-06-30T10:10:17.155391+00:00"
+    },
+    {
+        "id": 30012,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the $\\frac{{dy}}{{dt}} + \\,Ry = \\,T{y^m}$ assuming m<1?",
+        "op": [
+            "All of the given options",
+            "It is a non linear differential equation where Ry causes non linearity",
+            "It is a non linear differential equation where Ym causes non linearity",
+            "It is a linear differential equation of first order"
+        ],
+        "created_at": "2026-06-30T10:20:36.044985+00:00"
+    },
+    {
+        "id": 30019,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the non linear differential equation?",
+        "op": [
+            "It can be solve with exact differential equation method",
+            "All of the given options",
+            "It can be solve with exact differential equation method",
+            "It can be solved with the Bernoulli equation method"
+        ],
+        "created_at": "2026-06-30T10:22:02.252597+00:00"
+    },
+    {
+        "id": 30029,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for y’’(t) + y’ + 3y = 18 ?",
+        "op": [
+            "It is a homogeneous second order differential equation",
+            "It is a non homogeneous first order differential equation",
+            "The particular solution will be equal to 6",
+            "The particular solution will be equal to 18"
+        ],
+        "created_at": "2026-06-30T10:22:59.704896+00:00"
+    },
+    {
+        "id": 30042,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option the equation $y(t) = \\,A{e^{\\int {u(t)\\,dt} }}$ ?",
+        "op": [
+            "All of the given options",
+            "It is the general solution of the second order homogeneous differential equation",
+            "It is the definite solution of the first order homogeneous differential equation",
+            "It is the definite solution of the first order non homogeneous differential equation"
+        ],
+        "created_at": "2026-06-30T10:25:38.228627+00:00"
+    },
+    {
+        "id": 30209,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for second order differential equation with constant coefficient and variable terms i.e L.H.S is the f(t)?",
+        "op": [
+            "It will change both complementary and particular solution",
+            "The value of particular solution cannot be calculated",
+            "It will change the complementary solution",
+            "It will change the particular solution"
+        ],
+        "created_at": "2026-06-30T11:56:55.841662+00:00"
+    },
+    {
+        "id": 30211,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for $\\frac{{dP}}{{dt}}\\, \\propto$ (Qd - Qs)?",
+        "op": [
+            "Price adjustments are directly proportional to excess/shortage of demand",
+            "Price adjustments are inversely proportional to excess demand",
+            "Price adjustments are inversely proportional to excess supply",
+            "Price adjustments are directly proportional to equilibrium quantity"
+        ],
+        "created_at": "2026-06-30T11:57:19.954214+00:00"
+    },
+    {
+        "id": 30217,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic time path of the market price, P(t) = [P(0)-P*]e-kt + P* ?",
+        "op": [
+            "P(t) will converge towards P* regardless of value of P(0)",
+            "There is a particular solution to the equation",
+            "There is a complementary solution to the equation",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-30T11:58:33.426084+00:00"
+    },
+    {
+        "id": 30225,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of price equation; When n>0 ?$P'' + \\frac{m}{n}p' + [ - \\frac{{\\beta + \\delta }}{n}]P = - \\frac{{\\alpha + \\gamma }}{n}$",
+        "op": [
+            "The system will be dynamically undefined",
+            "The system will dynamically unstable with A1 = 0 and A2 >0",
+            "The system will dynamically stable with A1 = 0",
+            "The system will dynamically stable with A1 >0 and A2 = 0"
+        ],
+        "created_at": "2026-06-30T11:59:17.012053+00:00"
+    },
+    {
+        "id": 30228,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "The time path should converge towards the complementary solution for dynamic stability in the pollution function given by P(t) = 30e-0.2t ?",
+        "op": [
+            "True",
+            "False"
+        ],
+        "created_at": "2026-06-30T11:59:51.197326+00:00"
+    },
+    {
+        "id": 30229,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the deposit function, D(t) = 4000e-0.05t +20 ?",
+        "op": [
+            "It is first order differential non homogeneous equation",
+            "It has both complementary and particular solutions",
+            "It will converge towards to the particular solution",
+            "It will diverge from the equilibrium value"
+        ],
+        "created_at": "2026-06-30T12:00:14.731488+00:00"
+    },
+    {
+        "id": 30284,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for y’’(t) + 3y = 0 ?",
+        "op": [
+            "The particular solution will be equal to three",
+            "It is a non homogeneous second order differential equation",
+            "The particular solution will be equal zero",
+            "It is a homogeneous first order differential equation"
+        ],
+        "created_at": "2026-06-30T12:40:59.423247+00:00"
+    },
+    {
+        "id": 30285,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for Fuel usage equation, F(t) = 12000e-0.001t - 6000 at time t=0?",
+        "op": [
+            "Fuel usage F(t) will be 12000 litre",
+            "Fuel usage F(t) will be 18000 litre",
+            "Fuel usage F(t) will be 6000 litre",
+            "Fuel usage F(t) will be 4000 litre"
+        ],
+        "created_at": "2026-06-30T12:43:26.890412+00:00"
+    },
+    {
+        "id": 30420,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the equation, $\\frac{{dy}}{{dt}} + \\,u(t).y = 0$ ?",
+        "op": [
+            "All of the given options",
+            "The equation will have no definite solution",
+            "It is first order differential equation with general solution",
+            "It is first order first degree non homogeneous differential equation"
+        ],
+        "created_at": "2026-06-30T13:58:57.903131+00:00"
+    },
+    {
+        "id": 30539,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option in the utility equation, 3xy.dx+x.dy=0 ?",
+        "op": [
+            "It is the definite solution of the first order non homogeneous differential equation",
+            "It is first order non homogeneous differential equation",
+            "None of the given options",
+            "The equation cannot be used for the exactness test"
+        ],
+        "created_at": "2026-06-30T15:55:24.665221+00:00"
+    },
+    {
+        "id": 30541,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the possible cases of Phillips equation dπ/dt = j (p - π) ?",
+        "op": [
+            "j > 1",
+            "j ><0",
+            "j = 0",
+            "j > 0"
+        ],
+        "created_at": "2026-06-30T15:55:33.972443+00:00"
+    },
+    {
+        "id": 30544,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for second order differential equations with α12 - 4α2 <0 ?",
+        "op": [
+            "It will have distinct real roots",
+            "It will have both repeated and real roots",
+            "It will have repeated real roots",
+            "All of the options"
+        ],
+        "created_at": "2026-06-30T15:56:06.912755+00:00"
+    },
+    {
+        "id": 30547,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for the dynamic time path of the money market , P(t) = [ P(0) - Ms/αY] e-(αjY)t + Ms/αY ?",
+        "op": [
+            "The deviation will converge towards particular solution if αj>0",
+            "The particular solution is equal to P(0)",
+            "There is a particular solution to the equation",
+            "There is a complementary solution to the equation"
+        ],
+        "created_at": "2026-06-30T15:56:42.909475+00:00"
+    },
+    {
+        "id": 30550,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the incorrect option for $\\frac{{dP}}{{dt}}$= j(Qd - Qs) ?",
+        "op": [
+            "The value of j will be negative",
+            "All of the given options",
+            "The value of j will be zero at equilibrium point",
+            "The value of j is known as adjustment coefficient"
+        ],
+        "created_at": "2026-06-30T15:57:23.373446+00:00"
+    },
+    {
+        "id": 30607,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option in the equation, y''(t)+a1y' +a2y = b if b<0 ?",
+        "op": [
+            "None of the given options",
+            "It is first order homogeneous differential equation",
+            "It is a non linear differential equation",
+            "It is second order second degree differential equation"
+        ],
+        "created_at": "2026-06-30T17:03:48.458549+00:00"
+    },
+    {
+        "id": 30609,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the correct option for equation if value of γ is negative $Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta }})]{e^{\\frac{{1 - \\beta - \\delta }}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta }}$ ?",
+        "op": [
+            "There will be convergence towards complementary solution",
+            "There will be no convergence towards particular solution",
+            "There will be no impact of the convergence mechanism",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-30T17:04:57.375994+00:00"
+    },
+    {
+        "id": 30653,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "30 June 2026",
+        "qt": "Given the equation for rate of investment I’(t) = 0.05I+90, Which of the following is the incorrect option?",
+        "op": [
+            "It is a case of non homogeneous first order differential equation",
+            "There is a particular solution to the equation",
+            "It is a case of non homogeneous second order differential equation",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-30T17:34:29.375643+00:00"
+    },
+    {
+        "id": 33694,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the $\\frac{{dy}}{{dt}} + \\,Ry = \\,T{y^m}$ assuming m=0?",
+        "op": [
+            "The value of the equation will not depend on time",
+            "It will be a first order linear differential equation",
+            "There will be not general solution for the equation",
+            "It is a non linear first order homogeneous differential equation"
+        ],
+        "created_at": "2026-07-01T03:01:28.395995+00:00"
+    },
+    {
+        "id": 33832,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect option for the equation,$\\frac{{dY}}{{dt}} + \\frac{{1 - \\beta + \\tau \\beta - \\delta }}{\\gamma }Y = \\frac{\\alpha }{\\gamma }$?",
+        "op": [
+            "It is first order third degree differential equation",
+            "It is first order second degree differential equation",
+            "All of the given options",
+            "The equation represent a modified form of elasticity of investment"
+        ],
+        "created_at": "2026-07-01T03:29:48.560582+00:00"
+    },
+    {
+        "id": 33835,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the equation; yt+1 + αyt = c ?",
+        "op": [
+            "C is a constant term",
+            "Yt is the value of the Y in next time period",
+            "Yt is the value of the Y in previous time period",
+            "Yt+1 is the value of the file:///C:\\Users\\MUHAMM~1.SHA\\AppData\\Local\\Temp\\ksohtml3832\\wps4.jpgY in current time period"
+        ],
+        "created_at": "2026-07-01T03:30:43.05776+00:00"
+    },
+    {
+        "id": 33843,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect option for the dynamic stability of price equation; $P'' + \\frac{m}{n}p' + [ - \\frac{{\\beta + \\delta }}{n}]P = - \\frac{{\\alpha + \\gamma }}{n}$ When n<0 ?",
+        "op": [
+            "The system will dynamically stable with A1 >0 and A2 = 0",
+            "All of the given options",
+            "The system will dynamically stable with A1 = 0 and A2 >0",
+            "The system will dynamically unstable with A1 = 0 and A2 >0"
+        ],
+        "created_at": "2026-07-01T03:31:48.299102+00:00"
+    },
+    {
+        "id": 34945,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for reservation price in equation Q(PR) = -PR2 - PR + 90?",
+        "op": [
+            "Reservation price will be 12",
+            "Reservation price will be 4",
+            "Reservation price will be 9",
+            "Reservation price will be 6"
+        ],
+        "created_at": "2026-07-01T06:19:25.068973+00:00"
+    },
+    {
+        "id": 34956,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of the time-path of fish stock function F(t) = -70e-0.12t +90 ?",
+        "op": [
+            "The particular function will converge to complementary solution",
+            "The complementary function will converge to zero",
+            "The complimentary function will converge to 90",
+            "The complementary function will converge to zero"
+        ],
+        "created_at": "2026-07-01T06:20:54.138705+00:00"
+    },
+    {
+        "id": 35053,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the elasticity equation Ed (P,Q) =-4 ?",
+        "op": [
+            "None of the given options",
+            "The elasticity (-4) of the variable will depend on the taste of the consumer",
+            "The general solution can be obtained even if it is an inexact differential equation",
+            "The equation cannot be used for the exactness test"
+        ],
+        "created_at": "2026-07-01T06:40:03.25644+00:00"
+    },
+    {
+        "id": 35151,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the term of price equation (dp/dt) ?",
+        "op": [
+            "It is rate of change in price over time",
+            "It is slope of rate of change in price over time",
+            "It is average price over time",
+            "It is market price of goods over time"
+        ],
+        "created_at": "2026-07-01T06:58:30.316957+00:00"
+    },
+    {
+        "id": 35153,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the phase diagram ?",
+        "op": [
+            "It is a graphical method to test the dynamic stability of the system",
+            "It is a form of quantitative aspect of the time path for differential equation",
+            "It is a form of exactness test for differential equation",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T06:59:12.803418+00:00"
+    },
+    {
+        "id": 35705,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the time-path of fish stock function F(t) = -70e-0.12t +90 when time t=0?",
+        "op": [
+            "The quantity of fish stock function F(t) will be 70",
+            "The quantity of fish stock function F(t) will be 20",
+            "The quantity of fish stock function F(t) will be 160",
+            "The quantity of fish stock function F(t) will be 90"
+        ],
+        "created_at": "2026-07-01T09:52:07.931209+00:00"
+    },
+    {
+        "id": 35708,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for dynamic sense of equilibrium in market price, P(t) = Pc + PP ?",
+        "op": [
+            "Pc is the complementary price of the market",
+            "Pc will fade towards equilibrium price as time increases",
+            "Pp is the equilibrium price of the market",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T09:52:52.350431+00:00"
+    },
+    {
+        "id": 35869,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for dynamic stability of equation, C(t) =-11e-2t + 80 ?",
+        "op": [
+            "The complementary function will converge to particular solution",
+            "The particular function will converge to complementary solution",
+            "None of the given options",
+            "The complimentary function will not converge to particular solution"
+        ],
+        "created_at": "2026-07-01T11:02:45.837488+00:00"
+    },
+    {
+        "id": 35874,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option in the equation, $\\frac{{dy}}{{dt}} + \\,3ty = \\,t{y^2}$ ?",
+        "op": [
+            "It is first order non homogeneous differential equation",
+            "It is the definite solution of the first order non homogeneous differential equation",
+            "It is a non linear differential equation",
+            "The equation can be used for the exactness test"
+        ],
+        "created_at": "2026-07-01T11:05:34.291622+00:00"
+    },
+    {
+        "id": 35876,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect example of first difference equation ?",
+        "op": [
+            "Price of sugar cane",
+            "Price of cotton",
+            "Stock exchange activity",
+            "Capital stock"
+        ],
+        "created_at": "2026-07-01T11:06:21.879588+00:00"
+    },
+    {
+        "id": 35879,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of the time-path of $i(t) = [i(0) - (\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }})]{e^{\\frac{{\\beta + \\delta }}{{\\rho - \\sigma }}t}}{\\mkern 1mu} + \\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }}$",
+        "op": [
+            "None of the given options",
+            "The complementary function will converge to particular solution",
+            "The complimentary function will not converge to particular solution",
+            "The particular function will converge to complementary solution"
+        ],
+        "created_at": "2026-07-01T11:07:34.278028+00:00"
+    },
+    {
+        "id": 35900,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the Phillips equation dπ/dt = j (p - π) When j > 0 ?",
+        "op": [
+            "Actual Unemployment is than expected inflation",
+            "Actual inflation and expected inflation are independent from each other",
+            "Actual Inflation is more than expected inflation",
+            "Actual Inflation is less than expected inflation"
+        ],
+        "created_at": "2026-07-01T11:18:34.319128+00:00"
+    },
+    {
+        "id": 35922,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect option for second order differential equations with $a_1^2 = 4{a_2}$ ?",
+        "op": [
+            "It will have no real roots",
+            "All of the option",
+            "It will have complex roots",
+            "It will have distinct real roots"
+        ],
+        "created_at": "2026-07-01T11:41:04.314741+00:00"
+    },
+    {
+        "id": 35924,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for Mdy+ Ndt =0 ?",
+        "op": [
+            "None of the given options",
+            "The equation cannot be used to find out the definite solution of the variables",
+            "The equation is used to solve out the non linear differential equation",
+            "The equation can be applied to confirm the exactness test"
+        ],
+        "created_at": "2026-07-01T11:42:32.659986+00:00"
+    },
+    {
+        "id": 36032,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for equation, xy.dx+2x.dy=0 and U(x,y)= 0.5xy-c ?",
+        "op": [
+            "It is the general solution of the non linear homogeneous differential equation",
+            "It is the definite solution of the non linear homogeneous differential equation",
+            "All of the given options",
+            "The function can be solved without using exactness test"
+        ],
+        "created_at": "2026-07-01T13:05:44.812863+00:00"
+    },
+    {
+        "id": 36040,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the quantity supply of a sale function, Q(t) = 300e-0.04t +400 when time t=0?",
+        "op": [
+            "The quantity supplied of sale function Q(t) will be 400",
+            "The quantity supplied of sale function Q(t) will be 300",
+            "The quantity supplied of sale function Q(t) will be 700",
+            "The quantity supplied of sale function Q(t) will be 100"
+        ],
+        "created_at": "2026-07-01T13:08:44.452583+00:00"
+    },
+    {
+        "id": 36155,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect option for the non linear differential equation?",
+        "op": [
+            "The equation will not depend on the time",
+            "The equation cannot have power of dependent variable other than one",
+            "The equation can have power of the independent variable other than one",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T13:49:28.755869+00:00"
+    },
+    {
+        "id": 36182,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option in the equation, y''(t)+a1y' +a2y = b if a1 = 0, a2 = 0 ?",
+        "op": [
+            "The particular solution of Yp will be equal to zero",
+            "None of the given options",
+            "The particular solution Yp will be equal to t",
+            "The particular solution Yp will be equal to bt"
+        ],
+        "created_at": "2026-07-01T14:14:55.35135+00:00"
+    },
+    {
+        "id": 36217,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the incorrect option for the equation, I= δY + $\\gamma \\frac{{dY}}{{dt}}$ ?",
+        "op": [
+            "The value of δ >1will lead towards convergence",
+            "The value of δ >1will lead towards divergence",
+            "The value of γ will determine income over time",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T14:55:08.279072+00:00"
+    },
+    {
+        "id": 36220,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability of the time-path of $i(t) = [i(0) - (\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }})]{e^{\\frac{{\\beta + \\delta }}{{\\rho - \\sigma }}t}}{\\mkern 1mu} + \\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }}$ ?",
+        "op": [
+            "There is a particular solution to the equation",
+            "The time path should diverge from the particular solution",
+            "The time path should converge towards the complementary solution",
+            "The time path should be equal to the particular solution"
+        ],
+        "created_at": "2026-07-01T14:57:44.853857+00:00"
+    },
+    {
+        "id": 36297,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the correct option for the dynamic stability in case of repeated Real Roots?",
+        "op": [
+            "The equation will have two and no exponential terms",
+            "The equation will have two and similar exponential term with negative sign",
+            "The equation will have two and different exponential terms with positive sign",
+            "The equation will have two and different exponential terms with negative sign"
+        ],
+        "created_at": "2026-07-01T16:00:35.842473+00:00"
+    },
+    {
+        "id": 39752,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "03 July 2026",
+        "qt": "Which of the following is the correct option for the Government Expenditure equation, dG/dt = -0.07G ?",
+        "op": [
+            "The value of G(t) does not depend on time",
+            "It is first order non homogeneous differential equation",
+            "It is first order homogeneous differential equation",
+            "It is first order second degree differential equation"
+        ],
+        "created_at": "2026-07-03T10:54:45.342041+00:00"
+    },
+    {
+        "id": 41098,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "04 July 2026",
+        "qt": "Which of the following is the correct option for equation π(t) = π(0)ert ?",
+        "op": [
+            "There will be convergence towards zero",
+            "There will be convergence towards particular solution",
+            "There will be divergence from the equilibrium value",
+            "There will be convergence towards complementary solution"
+        ],
+        "created_at": "2026-07-04T11:15:49.898314+00:00"
+    },
+    {
+        "id": 41372,
+        "cc": "ECO607",
+        "qn": "02",
+        "dt": "04 July 2026",
+        "qt": "Which of the following is the correct option for the equation, 3LK + 2KL=0 ?",
+        "op": [
+            "It is first order differential equation with complex solution",
+            "It is first order first degree non homogeneous differential equation",
+            "The equation will have no general solution",
+            "The equation represents non linear homogeneous differential equation"
+        ],
+        "created_at": "2026-07-04T16:54:44.808671+00:00"
+    },
+    {
+        "id": 71169,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for equation Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta }})]{e^{\\frac{{1 - \\beta - \\delta }}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta }} ? ",
+        "op": [
+            "The value of  \\frac{\\alpha }{{1 - \\beta - \\delta }} >0 will ensure convergence towards equilibrium value",
+            "The value of \\frac{\\alpha }{{1 - \\beta - \\delta }} is the particular solution of the equation",
+            "Time path is not involved in the equation",
+            "The value of \\frac{\\alpha }{{1 - \\beta - \\delta }} = 0 will ensure convergence towards equilibrium value"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71170,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for \\frac{{dP}}{{dt}}\\, \\propto (Qd - Qs)? ",
+        "op": [
+            "Price adjustments are inversely proportional to excess demand",
+            "Price adjustments are directly proportional to excess/shortage of demand",
+            "Price adjustments are inversely proportional to excess supply",
+            "Price adjustments are directly proportional to equilibrium quantity"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71171,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Given the equation for rate of consumption \\frac{{dC}}{{dt}} = -4C+10 , Which of the following is the incorrect option? ",
+        "op": [
+            "It is a case of homogeneous first order differential equation",
+            "All of the given options",
+            "There is a particular solution to the equation",
+            "It is a case of non homogeneous first order differential equation"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71172,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, \\frac{{dy}}{{dt}} + \\,u(t).y = w(t) ? ",
+        "op": [
+            "None of the given options",
+            "It is first order differential equation with variable term and variable coefficient",
+            "It is first order second degree differential equation",
+            "The value of the equation will depend on time"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71173,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for \\frac{{dP}}{{dt}}= j(Qd - Qs)  ? ",
+        "op": [
+            "The value of j is known as adjustment coefficient",
+            "The value of j will be zero at equilibrium point",
+            "The value of j will be negative",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71299,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for equation if value of γ is negative Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta }})]{e^{\\frac{{1 - \\beta - \\delta }}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta }} ? ",
+        "op": [
+            "None of the given options",
+            "There will be no convergence towards particular solution",
+            "There will be convergence towards complementary solution",
+            "There will be no impact of the convergence mechanism"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71302,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, I= δY + \\gamma \\frac{{dY}}{{dt}} ? ",
+        "op": [
+            "The value of δ >1will lead towards divergence",
+            "All of the given options",
+            "The value of γ will determine income over time",
+            "The value of δ >1will lead towards convergence"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71303,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for static sense of equilibrium in market price, {P^*} = \\,\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }} ? ",
+        "op": [
+            "The value of price cannot be predicted",
+            "The value of price will be inversely related to \\alpha + \\gamma",
+            "The value of the price will be positively related to \\alpha + \\gamma",
+            "The value of price will be constant"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71304,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation,\\frac{{dY}}{{dt}} + \\frac{{1 - \\beta + \\tau \\beta - \\delta }}{\\gamma }Y = \\frac{\\alpha }{\\gamma }? ",
+        "op": [
+            "It is first order third degree differential equation",
+            "It is first order second degree differential equation",
+            "The equation represent a modified form of elasticity of investment",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71309,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, \\frac{{dQ}}{{dP}} +2P = -8? ",
+        "op": [
+            "The value of price will be constant",
+            "The definite solution can be calculated using integration",
+            "The standard first order differential equation cannot be used",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71310,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the money market equation,  \\alpha Y\\, + \\,\\beta \\frac{{dy}}{{dt}} = \\,{M_s} ? ",
+        "op": [
+            "The value of money supply (Ms) will be constant",
+            "The standard first order differential equation can be used",
+            "All of the given options",
+            "The value of income (Y) will be inversely related money supply (Ms)"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71316,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the, 2yt.dy + {y^3}.dt = \\,0 ?   ",
+        "op": [
+            "It is a case of inexact differential equation",
+            "It is a case of non homogeneous first order differential equation",
+            "It is a case of homogeneous first order differential equation",
+            "None of the options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71317,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option  for  the time-path of fish stock function F(t) = -70e-0.12t +90  when time t=0? ",
+        "op": [
+            "The quantity of fish stock function F(t) will be 70",
+            "The quantity of fish stock function F(t) will be 20",
+            "The quantity of fish stock function F(t) will be 90",
+            "The quantity of fish stock function F(t) will be 160"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71318,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option  for the dynamic stability of the time-path of fish stock function F(t) = -70e-0.12t +90 ? ",
+        "op": [
+            "The complementary function will converge to zero",
+            "The complimentary function will converge to 90",
+            "The particular function will converge to complementary solution",
+            "The complementary function will converge to zero"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71319,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation \\frac{{dy}}{{dt}} + \\,( - 1)y = \\,6file:///C:/Users/MUHAMM~1.SHA/AppData/Local/Temp/ksohtml5460/wps12.jpgusing phase diagram? ",
+        "op": [
+            "The inter temporal equilibrium will be convergent",
+            "It can be solved with the Bernoulli equation method",
+            "The inter temporal equilibrium will be unaffected",
+            "The inter temporal equilibrium will be divergent"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71320,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option  for the dynamic stability of the time-path of i(t) = [i(0) - (\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }})]{e^{\\frac{{\\beta + \\delta }}{{\\rho - \\sigma }}t}}{\\mkern 1mu} + \\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }} ",
+        "op": [
+            "None of the given options",
+            "The complimentary function will not converge to particular solution",
+            "The particular function will converge to complementary solution",
+            "The complementary function will converge to particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71323,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the marginal product of labor and capital, MPk= 5L and MPL= 1.2 LK  ; assuming it is on an Iso-quant (dQ=0) ? ",
+        "op": [
+            "It is the general solution of the second order homogeneous differential equation",
+            "If it is exact differential equation, it will be solved in four steps",
+            "It is the definite solution of the first order homogeneous differential equation",
+            "If it is inexact differential equation, it will be solved in four steps"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71329,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, \\,\\frac{{dy}}{{dt}} + \\,\\frac{\\alpha }{\\beta }Y = \\,\\frac{{{M_s}}}{\\beta } ? ",
+        "op": [
+            "It is first order second degree differential equation",
+            "The equation cannot be resolved using differential equation method",
+            "It is first order first degree differential equation",
+            "It is a modified form of elasticity of money demand and money supply"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71330,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for equation \\frac{{dy}}{{dt}} + \\,2ty = 4t ? ",
+        "op": [
+            "It is the general solution of the first order non homogeneous differential equation",
+            "It is the definite solution of the first order homogeneous differential equation",
+            "It is the first order non homogeneous differential equation with variable coefficient term",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71331,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the \\frac{{dy}}{{dt}} + \\,Ry = \\,T{y^m} assuming m<1? ",
+        "op": [
+            "All of the given options",
+            "It is a non linear differential equation where Ym causes non linearity",
+            "It is a linear differential equation of first order",
+            "It is a non linear differential equation where Ry causes non linearity"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71347,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for equation if value of file:///C:/Users/MUHAMM~1.SHA/AppData/Local/Temp/ksohtml1148/wps5.jpg is negative Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }})]{e^{\\frac{{1 - \\beta + \\tau \\beta - \\delta }}{\\gamma }t}}\\, + \\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }} ?   ",
+        "op": [
+            "All of the given options",
+            "There will be convergence towards complementary solution",
+            "There will be no convergence towards particular solution",
+            "There will be divergence from the particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71348,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, \\(\\frac{{dy}}{{dt}} + \\,u(t).y = 0\\) ? ",
+        "op": [
+            "The equation will have no definite solution",
+            "It is first order first degree non homogeneous differential equation",
+            "It is first order differential equation with general solution",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71349,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the capital function, K(t)= 100(2t+4)2  ? ",
+        "op": [
+            "It represents the time path of the capital stock over time",
+            "It is definite solution of linear first order differential equation",
+            "It is definite solution of non linear differential equation",
+            "It represents the time path of the GDP over time"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71361,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for the money market equation,  \\(\\alpha Y\\, + \\,\\beta \\frac{{dy}}{{dt}} = \\,{M_s}\\) ? ",
+        "op": [
+            "All of the given options",
+            "The value of income (Y) will be inversely related money supply (Ms)",
+            "The value of money supply (Ms) will be constant",
+            "The standard first order differential equation can be used"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71362,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation,V(t) = 1000e-0.04t +V(0)  ? ",
+        "op": [
+            "It is first order first degree differential equation with definite solution",
+            "The equation represent a modified form of elasticity of oil extraction",
+            "It is first order differential equation with general solution",
+            "It is homogeneous first order differential equation"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71363,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the marginal product of labor and capital, MPk= 3LK and MPL= 5LK  ; assuming it is on an Iso-quant (dQ=0) ?   ",
+        "op": [
+            "The values cannot be used to apply the exactness test",
+            "There will be three steps involved if it is exact differential equation",
+            "It is a non linear first order homogeneous differential equation",
+            "It is first order non homogeneous differential equation"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71364,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for equation \\(Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta }})]{e^{\\frac{{1 - \\beta - \\delta }}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta }}\\) ? ",
+        "op": [
+            "Time path is not involved in the equation",
+            "The value of \\(\\frac{\\alpha }{{1 - \\beta - \\delta }}\\) is the particular solution of the equation",
+            "The value of \\(\\frac{\\alpha }{{1 - \\beta - \\delta }}\\) = 0 will ensure convergence towards equilibrium value",
+            "The value of  \\(\\frac{\\alpha }{{1 - \\beta - \\delta }}\\) >0 will ensure convergence towards equilibrium value"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71383,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Given the equation for rate of consumption \\(\\frac{{dC}}{{dt}}\\) = -4C+10 , Which of the following is the incorrect option? ",
+        "op": [
+            "It is a case of non homogeneous first order differential equation",
+            "All of the given options",
+            "There is a particular solution to the equation",
+            "It is a case of homogeneous first order differential equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71384,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for national income equation \\frac{{dy}}{{dt}} + (\\frac{{1 - \\beta + \\tau \\beta - \\delta }}{{ - \\gamma }})Y = - \\frac{\\alpha }{\\gamma } ? ",
+        "op": [
+            "None of the given options",
+            "It has only the particular solution",
+            "It has both complementary and particular solutions",
+            "It is first order differential non homogeneous equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71385,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the \\({y^{ - m}}\\frac{{dy}}{{dt}} + \\,R{y^{1 - m}} = \\,T\\) assuming m>1? ",
+        "op": [
+            "None of the given options",
+            "It is first order homogeneous differential equation",
+            "If it is inexact differential equation, it will be solved in four steps",
+            "It is a non linear differential equation which have been converted from linear equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71392,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation \\frac{{dy}}{{dt}} + \\,(3)y = \\,5 using phase diagram? ",
+        "op": [
+            "The inter temporal equilibrium will be unaffected",
+            "The inter temporal equilibrium will be convergent",
+            "It can be solved with the Bernoulli equation method",
+            "The inter temporal equilibrium will be divergent"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71393,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option  for the dynamic stability of the time-path of rate of change of population; dN/dt = 0.01 N and N(t) 40000e0.017t ? ",
+        "op": [
+            "The particular function will converge to complementary solution",
+            "It is first order homogeneous differential equation",
+            "The complementary function will converge to zero",
+            "The complimentary function will converge to particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71394,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for  the dynamic stability of the time-path of i(t) = [i(0) - (\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }})]{e^{\\frac{{\\beta + \\delta }}{{\\rho - \\sigma }}t}}{\\mkern 1mu} + \\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }} ? ",
+        "op": [
+            "The time path should be equal to the particular solution",
+            "The time path should diverge from the particular solution",
+            "The time path should converge towards the complementary solution",
+            "There is a particular solution to the equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71444,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the {y^{ - m}}\\frac{{dy}}{{dt}} + \\,R{y^{1 - m}} = \\,T assuming m>1? ",
+        "op": [
+            "It is first order homogeneous differential equation",
+            "None of the given options",
+            "If it is inexact differential equation, it will be solved in four steps",
+            "It is a non linear differential equation which have been converted from linear equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71445,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation, \\frac{{dQ}}{{dP}} +2P = -11 ? ",
+        "op": [
+            "Integration can be used to find value of Q as dependant variable",
+            "First order differential equation is not applicable as Q is independent variable",
+            "All of the given options",
+            "The equation represent a modified form of elasticity of demand"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71449,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for consumption function, Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta - \\delta - g}})]{e^{\\frac{{1 - \\beta - \\delta - g}}{\\gamma }t}}{\\mkern 1mu} + \\frac{\\alpha }{{1 - \\beta - \\delta - g}} ? ",
+        "op": [
+            "It has both complementary and particular solutions",
+            "It is first order differential non homogeneous equation",
+            "It will not converge towards to the particular solution",
+            "It will converge towards to the particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71450,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the \\frac{{dy}}{{dt}} + \\,Ry = \\,T{y^m}  assuming m=0? ",
+        "op": [
+            "The value of the equation will not depend on time",
+            "It will be a first order linear differential equation",
+            "It is a non linear first order homogeneous differential equation",
+            "There will be not general solution for the equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71488,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the incorrect option for equation Y(t) = \\,[Y(0) - \\frac{{{M_s}}}{\\alpha }]{e^{ - (\\frac{\\alpha }{\\beta })}} + \\frac{{{M_s}}}{\\alpha } ? ",
+        "op": [
+            "The equation have complementary and particular solutions",
+            "The value of {\\frac{\\alpha }{\\beta }} >0 will lead to divergence from equilibrium value",
+            "The value of \\frac{{{M_s}}}{\\alpha } will is the equilibrium value",
+            "The value of {\\frac{\\alpha }{\\beta }}>0 will ensure convergence towards equilibrium value"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71514,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation \\frac{{dk}}{{dt}} + \\lambda k = s{k^\\alpha }  if \\alpha = 1 ? ",
+        "op": [
+            "The equation can be solved with separable variable method",
+            "The equation can be solved with Bernoulli equation method",
+            "The equation can be solved with exact differential equation method",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71515,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the equation, \\(\\frac{{dQ}}{{dP}}\\) +2P = -11 ? ",
+        "op": [
+            "All of the given options",
+            "First order differential equation is not applicable as Q is independent variable",
+            "The equation represent a modified form of elasticity of demand",
+            "Integration can be used to find value of Q as dependant variable"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71516,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is the correct option for the quantity supply of a sale function, Q(t) = 300e-0.04t +400   when time t=0? ",
+        "op": [
+            "The quantity supplied of sale function Q(t) will be 700",
+            "The quantity supplied of sale function Q(t) will be 300",
+            "The quantity supplied of sale function Q(t) will be 400",
+            "The quantity supplied of sale function Q(t) will be 100"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71536,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the incorrect option for equation if value of file:///C:/Users/MUHAMM~1.SHA/AppData/Local/Temp/ksohtml1148/wps5.jpg is negative \\(Y(t) = [Y(0) - (\\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }})]{e^{\\frac{{1 - \\beta + \\tau \\beta - \\delta }}{\\gamma }t}}\\, + \\frac{\\alpha }{{1 - \\beta + \\tau \\beta - \\delta }}\\) ?   ",
+        "op": [
+            "There will be divergence from the particular solution",
+            "All of the given options",
+            "There will be convergence towards complementary solution",
+            "There will be no convergence towards particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71537,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the correct option  for the dynamic stability of the time-path of \\(i(t) = [i(0) - (\\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }})]{e^{\\frac{{\\beta + \\delta }}{{\\rho - \\sigma }}t}}{\\mkern 1mu} + \\frac{{\\alpha + \\gamma }}{{\\beta + \\delta }}\\) ",
+        "op": [
+            "None of the given options",
+            "The complementary function will converge to particular solution",
+            "The particular function will converge to complementary solution",
+            "The complimentary function will not converge to particular solution"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71540,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the incorrect option for the equation, \\frac{{dy}}{{dt}} + \\,u(t).y = 0 ? ",
+        "op": [
+            "The equation will have no definite solution",
+            "It is first order differential equation with general solution",
+            "All of the given options",
+            "It is first order first degree non homogeneous differential equation"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71541,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the incorrect option for equation \\(Y(t) = \\,[Y(0) - \\frac{{{M_s}}}{\\alpha }]{e^{ - (\\frac{\\alpha }{\\beta })}} + \\frac{{{M_s}}}{\\alpha }\\) ? ",
+        "op": [
+            "The value of \\(\\frac{{{M_s}}}{\\alpha }\\) will is the equilibrium value",
+            "The value of \\({\\frac{\\alpha }{\\beta }}\\) >0 will lead to divergence from equilibrium value",
+            "The equation have complementary and particular solutions",
+            "The value of \\({\\frac{\\alpha }{\\beta }}\\)>0 will ensure convergence towards equilibrium value"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71542,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the correct option for the equation \\(\\frac{{dy}}{{dt}} + \\,( - 1)y = \\,6\\)file:///C:/Users/MUHAMM~1.SHA/AppData/Local/Temp/ksohtml5460/wps12.jpgusing phase diagram? ",
+        "op": [
+            "It can be solved with the Bernoulli equation method",
+            "The inter temporal equilibrium will be unaffected",
+            "The inter temporal equilibrium will be divergent",
+            "The inter temporal equilibrium will be convergent"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71543,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the correct option in the equation, \\frac{{dy}}{{dt}} + \\,ty = \\,t{y^2} ? ",
+        "op": [
+            "The value of the m=1 and R=2 in the given equation",
+            "None of the given options",
+            "Using Bernoulli equation method, it can be substituted file:///C:/Users/MUHAMM~1.SHA/AppData/Local/Temp/ksohtml5460/wps9.jpgz in place of y to linearize the equation",
+            "The function can be solved with using exact differential equation method"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71596,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the correct option in the equation, \\frac{{dy}}{{dt}} + \\,3ty = \\,t{y^2} ? ",
+        "op": [
+            "It is the definite solution of the first order non homogeneous differential equation",
+            "It is a non linear differential equation",
+            "The equation can be used for the exactness test",
+            "It is first order non homogeneous differential equation"
+        ],
+        "created_at": "2026-07-15T13:28:00.027621+00:00"
+    },
+    {
+        "id": 71602,
+        "cc": "ECO607",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is the incorrect option the equation \\(y(t) = \\,A{e^{\\int {u(t)\\,dt} }}\\) ? ",
+        "op": [
+            "It is the general solution of the second order homogeneous differential equation",
+            "It is the definite solution of the first order homogeneous differential equation",
+            "All of the given options",
+            "It is the definite solution of the first order non homogeneous differential equation"
+        ],
+        "created_at": "2026-07-15T13:28:00.027621+00:00"
+    }
+]

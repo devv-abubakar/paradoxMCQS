@@ -1,0 +1,1794 @@
+[
+    {
+        "id": 16610,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If TFC= 200, Price = 10 and AVC = 5, than Break even output level will be:",
+        "op": [
+            "50",
+            "40",
+            "20",
+            "30"
+        ],
+        "created_at": "2026-06-22T19:09:02.361856+00:00"
+    },
+    {
+        "id": 16612,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In which of the following cases, cost elasticity will be less than one?",
+        "op": [
+            "When percentage change in cost is less than the percentage change in output",
+            "When percentage change in cost is greater than the percentage change in output",
+            "When percentage change in cost is equal to the percentage change in output",
+            "When percentage change in cost is less than the percentage change in input"
+        ],
+        "created_at": "2026-06-22T19:09:24.994456+00:00"
+    },
+    {
+        "id": 16620,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Engineering technique uses knowledge of the ___________ relationship between inputs and outputs:",
+        "op": [
+            "Negative",
+            "Monetary",
+            "Neutral",
+            "physical"
+        ],
+        "created_at": "2026-06-22T19:10:07.585432+00:00"
+    },
+    {
+        "id": 16624,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Economies of scale arise in which of the following conditions?",
+        "op": [
+            "If cost elasticity is more than one",
+            "If cost elasticity is equal to one",
+            "If cost elasticity is less than one",
+            "If cost elasticity is equal to zero"
+        ],
+        "created_at": "2026-06-22T19:10:30.211365+00:00"
+    },
+    {
+        "id": 16630,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In the production process, if there is an increase in the cost of raw material then which of the following will happen?",
+        "op": [
+            "Cost function will remain the same",
+            "Cost function will shift downward",
+            "Cost function will shift upward",
+            "None of the given options"
+        ],
+        "created_at": "2026-06-22T19:10:58.475249+00:00"
+    },
+    {
+        "id": 16635,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Theory of duality was developed in:",
+        "op": [
+            "1930",
+            "1949",
+            "1947",
+            "1939"
+        ],
+        "created_at": "2026-06-22T19:11:23.369865+00:00"
+    },
+    {
+        "id": 16644,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Difference between accounting and economic costs arises because economic cost also includes:",
+        "op": [
+            "Opportunity cost",
+            "Variable cost",
+            "Fixed cost",
+            "Total cost"
+        ],
+        "created_at": "2026-06-22T19:11:56.651496+00:00"
+    },
+    {
+        "id": 16652,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Collectively slack variables and surplus variables are called as:",
+        "op": [
+            "Dummy Variable",
+            "Dependent variable",
+            "Explanatory variable",
+            "Independent variable"
+        ],
+        "created_at": "2026-06-22T19:12:14.367093+00:00"
+    },
+    {
+        "id": 16662,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following computer soft wares are used to solve the problem of linear programming?",
+        "op": [
+            "LINDO",
+            "Fore Profit software",
+            "All of the given soft wares",
+            "MS Excel Solver"
+        ],
+        "created_at": "2026-06-22T19:12:36.267309+00:00"
+    },
+    {
+        "id": 17141,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Who introduced the concept of linear programming?",
+        "op": [
+            "John von Neumann",
+            "Leonid Kantorovich",
+            "Joel Dean",
+            "George B Dantzig"
+        ],
+        "created_at": "2026-06-22T21:05:05.779238+00:00"
+    },
+    {
+        "id": 17146,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "which of the following is used to calculate optimal number of plants:",
+        "op": [
+            "None of the above",
+            "Optimal multi plant activity level / Optimal Production per plant",
+            "Optimal Production per plant / Optimal multi plant activity level",
+            "Optimal multi plant activity level - Optimal Production per plant"
+        ],
+        "created_at": "2026-06-22T21:05:17.295336+00:00"
+    },
+    {
+        "id": 17148,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "which of the following aspects of production are dealt in engineering technique:",
+        "op": [
+            "Technical aspects",
+            "None of the above",
+            "Administrative aspects",
+            "Cost aspects"
+        ],
+        "created_at": "2026-06-22T21:05:24.134423+00:00"
+    },
+    {
+        "id": 17149,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "A linear programming problem has an optimal solution if it occurs at which of the following points?",
+        "op": [
+            "Corner point of the feasible space",
+            "Mid point of the non feasible space",
+            "Corner point of the non feasible space",
+            "Mid point of the feasible space"
+        ],
+        "created_at": "2026-06-22T21:05:29.866266+00:00"
+    },
+    {
+        "id": 17150,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Average variable cost can be calculated as:",
+        "op": [
+            "Average cost / Output",
+            "Marginal cost / Output",
+            "Total variable cost / Output",
+            "Fixed cost / Output"
+        ],
+        "created_at": "2026-06-22T21:05:36.481402+00:00"
+    },
+    {
+        "id": 17151,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "While deriving firm’s cost functions, input prices are assumed to be:",
+        "op": [
+            "Flexible",
+            "Constant",
+            "Variable",
+            "Zero"
+        ],
+        "created_at": "2026-06-22T21:05:43.734163+00:00"
+    },
+    {
+        "id": 17158,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "__________ occurs along the boundary of the feasible solution area, at the corner points.",
+        "op": [
+            "none of the above",
+            "optimal feasible solution",
+            "linearity solution",
+            "feasible solution"
+        ],
+        "created_at": "2026-06-22T21:06:05.193745+00:00"
+    },
+    {
+        "id": 17161,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In a linear programming problem, all of the relations must be:",
+        "op": [
+            "Linear",
+            "Identified",
+            "Quadratic",
+            "Non linear"
+        ],
+        "created_at": "2026-06-22T21:06:13.134037+00:00"
+    },
+    {
+        "id": 17219,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In which of the following cases, cost elasticity will be more than one?",
+        "op": [
+            "When percentage change in cost is less than the percentage change in input",
+            "When percentage change in cost is less than the percentage change in output",
+            "When percentage change in cost is equal to the percentage change in output",
+            "When percentage change in cost is greater than the percentage change in output"
+        ],
+        "created_at": "2026-06-22T21:58:54.588597+00:00"
+    },
+    {
+        "id": 17220,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "AVC = a/Q + b is an example of which of the following?",
+        "op": [
+            "Linear cost function",
+            "Quadratic cost function",
+            "Cubic cost function",
+            "Simultaneous function"
+        ],
+        "created_at": "2026-06-22T21:59:27.916851+00:00"
+    },
+    {
+        "id": 17221,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "The firm’s long run average cost curve is derived from the:",
+        "op": [
+            "Long run marginal cost curve",
+            "Short run marginal cost curve",
+            "Short run total cost curve",
+            "Long run total cost curve"
+        ],
+        "created_at": "2026-06-22T21:59:38.047201+00:00"
+    },
+    {
+        "id": 17222,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If the percentage change in profit is Rs. 400 and percentage change in sales is Rs. 100 then what will be the degree of operating leverage?",
+        "op": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-06-22T21:59:46.368053+00:00"
+    },
+    {
+        "id": 17223,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which economist introduced the simplex method?",
+        "op": [
+            "George B Dantzig",
+            "John von Neumann",
+            "Leonid Kantorovich",
+            "Joel Dean"
+        ],
+        "created_at": "2026-06-22T21:59:55.58909+00:00"
+    },
+    {
+        "id": 17224,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "The learning curve can be expressed algebraically as follows:",
+        "op": [
+            "None of the above",
+            "C = aQ^bL",
+            "C = Q^b",
+            "C = aQ^b"
+        ],
+        "created_at": "2026-06-22T22:00:03.696609+00:00"
+    },
+    {
+        "id": 17225,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following is (are) the component (s) of the linear Programming model?",
+        "op": [
+            "Set of decision variables",
+            "Set of constraints",
+            "Objective function",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-22T22:01:00.009383+00:00"
+    },
+    {
+        "id": 17391,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Percentage change in profit due to one unit change in sales is known as:",
+        "op": [
+            "Degree of freedom",
+            "Economies of scale",
+            "Cost elasticity",
+            "Degree of operating leverage"
+        ],
+        "created_at": "2026-06-23T01:40:20.204452+00:00"
+    },
+    {
+        "id": 17392,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Cost volume profit analysis is also known as:",
+        "op": [
+            "Regression analysis",
+            "Break even analysis",
+            "Demand analysis",
+            "Supply analysis"
+        ],
+        "created_at": "2026-06-23T01:40:37.101304+00:00"
+    },
+    {
+        "id": 17393,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Decreasing returns to scale refers to:",
+        "op": [
+            "Decreasing costs",
+            "Increasing costs",
+            "No costs",
+            "Constant costs"
+        ],
+        "created_at": "2026-06-23T01:40:44.004094+00:00"
+    },
+    {
+        "id": 17394,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "When minimum efficient scale (MES)is low relative to total industry demand, it indicates:",
+        "op": [
+            "Less competition",
+            "None of the above",
+            "Vigorous competition",
+            "No competition"
+        ],
+        "created_at": "2026-06-23T01:41:00.134016+00:00"
+    },
+    {
+        "id": 17395,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If cost elasticity is equal to one, it implies:",
+        "op": [
+            "Economies of scale",
+            "Returns to scale",
+            "Economies of scope",
+            "No economies of scale"
+        ],
+        "created_at": "2026-06-23T01:41:07.515395+00:00"
+    },
+    {
+        "id": 17396,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Given the profit equation: $$\\pi \\, = \\,12X\\, + 9Y$$ If we solve it for Y, we obtain:",
+        "op": [
+            "$$Y\\, = \\,\\pi /9\\, - \\,4/3$$",
+            "$$Y\\, = \\,\\pi /10\\, - \\,4/3$$",
+            "$$Y\\, = \\,\\pi /7\\, - \\,7/10$$",
+            "$$Y\\, = \\,\\pi /7\\, - \\,10/10$$"
+        ],
+        "created_at": "2026-06-23T01:41:16.696003+00:00"
+    },
+    {
+        "id": 17397,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Usually we measure output in:",
+        "op": [
+            "Physical units",
+            "Monetary units",
+            "Percentage",
+            "Rupees"
+        ],
+        "created_at": "2026-06-23T01:41:37.474138+00:00"
+    },
+    {
+        "id": 17557,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In the linear programming, linearity implies that each decision variable has:",
+        "op": [
+            "Non negativity constraint",
+            "Constraint",
+            "None of the above",
+            "negativity constraint"
+        ],
+        "created_at": "2026-06-23T04:04:27.593221+00:00"
+    },
+    {
+        "id": 17558,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "A producer earns total revenue of Rs. 700 by selling certain units of a commodity at the price of Rs. 10 per unit. How many units he has sold of that commodity?",
+        "op": [
+            "60 units",
+            "10 units",
+            "70 units",
+            "30 units"
+        ],
+        "created_at": "2026-06-23T04:04:39.768837+00:00"
+    },
+    {
+        "id": 17560,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "A producer earns total revenue of Rs. 500 by selling 50 units of a commodity. How much price per unit he has charged for that commodity?",
+        "op": [
+            "Rs. 70",
+            "Rs. 60",
+            "Rs. 10",
+            "Rs. 30"
+        ],
+        "created_at": "2026-06-23T04:05:45.383563+00:00"
+    },
+    {
+        "id": 17565,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "----------------- shows the cost differences to total cumulative output.",
+        "op": [
+            "Operating leverage",
+            "Learning curve",
+            "Scale economies",
+            "Demand curve"
+        ],
+        "created_at": "2026-06-23T04:08:30.702994+00:00"
+    },
+    {
+        "id": 17568,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If average cost in 2012 was Rs.100 and in 2013 fell to Rs.80, the learning rate is:",
+        "op": [
+            "10%",
+            "20%",
+            "40%",
+            "30%"
+        ],
+        "created_at": "2026-06-23T04:12:42.742659+00:00"
+    },
+    {
+        "id": 17569,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Cost is usually measured in:",
+        "op": [
+            "Monetary units",
+            "Absolute term",
+            "Physical units",
+            "Percentage"
+        ],
+        "created_at": "2026-06-23T04:13:06.231495+00:00"
+    },
+    {
+        "id": 17571,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Break even output can be calculated as:",
+        "op": [
+            "Break even output =   Total variable cost / (Price + Average variable cost)",
+            "Break even output =   Total fixed cost / (Price – Average variable cost)",
+            "Break even output =   Total fixed cost / (Price + Average fixed cost)",
+            "Break even output =   Total fixed cost + (Price – Average variable cost)"
+        ],
+        "created_at": "2026-06-23T04:13:19.249782+00:00"
+    },
+    {
+        "id": 17572,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If percentage change in cost is equal to the percentage change in output then:",
+        "op": [
+            "Cost elasticity is more than one",
+            "Cost elasticity is less than one",
+            "Cost elasticity is indeterminate",
+            "Cost elasticity is equal to one"
+        ],
+        "created_at": "2026-06-23T04:13:31.948172+00:00"
+    },
+    {
+        "id": 17576,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Cubic cost functions are graphically depicted as:",
+        "op": [
+            "Straight line",
+            "U-shaped curves",
+            "L-shaped curves",
+            "S-shaped curves"
+        ],
+        "created_at": "2026-06-23T04:18:00.648578+00:00"
+    },
+    {
+        "id": 17586,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "The solution which satisfies all the constraints is known as the:",
+        "op": [
+            "Corner solution",
+            "Wrong solution",
+            "Non feasible solution",
+            "Feasible solution"
+        ],
+        "created_at": "2026-06-23T04:23:59.70453+00:00"
+    },
+    {
+        "id": 17587,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "TVC = a + bQ. This equation depicts which of the following?",
+        "op": [
+            "Linear cost function",
+            "Quadratic cost function",
+            "Simultaneous function",
+            "Cubic cost function"
+        ],
+        "created_at": "2026-06-23T04:24:20.334208+00:00"
+    },
+    {
+        "id": 17590,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following will happen if there is a decrease in input prices for the firm?",
+        "op": [
+            "Cost function will shift upward",
+            "Production will increase",
+            "None of the given options",
+            "Cost function will shift downward"
+        ],
+        "created_at": "2026-06-23T04:25:00.373929+00:00"
+    },
+    {
+        "id": 17593,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "High learning rate implies that as cumulative total output increases the manufacturing cost:",
+        "op": [
+            "not effected",
+            "is rising",
+            "becomes zero",
+            "is declining"
+        ],
+        "created_at": "2026-06-23T04:27:03.619426+00:00"
+    },
+    {
+        "id": 17594,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Short run average cost curves are U-shaped because of:",
+        "op": [
+            "The law of supply",
+            "The law of diminishing returns",
+            "The law of demand",
+            "The law of diminishing utility"
+        ],
+        "created_at": "2026-06-23T04:27:12.352943+00:00"
+    },
+    {
+        "id": 17595,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "At breakeven quantity levels, total revenue used to be exactly equal to:",
+        "op": [
+            "fixed cost",
+            "Total cost",
+            "Variable cost",
+            "Zero cost"
+        ],
+        "created_at": "2026-06-23T04:27:14.100208+00:00"
+    },
+    {
+        "id": 17617,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Given the profit equation: $$\\pi \\, = \\,10X\\, + \\,7Y$$ If we solve it for X, we obtain:",
+        "op": [
+            "$$X\\, = \\,\\pi /10\\, - \\,10/10Y$$",
+            "$$X\\, = \\,\\pi /7\\, - \\,7/10Y$$",
+            "$$X\\, = \\,\\pi /10\\, - \\,10/7Y$$",
+            "$$X\\, = \\,\\pi /10\\, - \\,7/10Y$$"
+        ],
+        "created_at": "2026-06-23T04:37:32.951926+00:00"
+    },
+    {
+        "id": 17624,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following is/are special type/s of problems of linear programming?",
+        "op": [
+            "Multiple optimal solutions",
+            "Unbounded solutions",
+            "Infeasible solutions",
+            "All of the given options"
+        ],
+        "created_at": "2026-06-23T04:39:17.455405+00:00"
+    },
+    {
+        "id": 17660,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If long run average cost increases with the increase in output, it shows:",
+        "op": [
+            "Economies of scale",
+            "Returns to scale",
+            "Diseconomies of scale",
+            "Economies of scope"
+        ],
+        "created_at": "2026-06-23T04:54:24.935605+00:00"
+    },
+    {
+        "id": 17744,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Operating leverage for a firm can be calculated as:",
+        "op": [
+            "Total fixed costs + Total variable costs",
+            "Total fixed costs / Marginal costs",
+            "Total fixed costs / Average variable costs",
+            "Total fixed costs / Total variable costs"
+        ],
+        "created_at": "2026-06-23T05:33:12.465026+00:00"
+    },
+    {
+        "id": 17869,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "A producer sells 60 units of a commodity at the price of Rs. 10 per unit. How much total revenue he will earn?",
+        "op": [
+            "Rs. 600",
+            "Rs. 700",
+            "Rs. 100",
+            "Rs. 300"
+        ],
+        "created_at": "2026-06-23T06:10:24.183915+00:00"
+    },
+    {
+        "id": 17897,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "In the linear programming model, linearity assumes constant prices of:",
+        "op": [
+            "capital",
+            "Output",
+            "Inputs",
+            "labor"
+        ],
+        "created_at": "2026-06-23T06:23:14.121598+00:00"
+    },
+    {
+        "id": 17904,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following model maximizes or minimizes a linear function subject to the set of linear constraints?",
+        "op": [
+            "Demand-Supply model",
+            "Linear Programming model",
+            "Regression model",
+            "IS-LM model"
+        ],
+        "created_at": "2026-06-23T06:25:34.628303+00:00"
+    },
+    {
+        "id": 18107,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "We can estimate cost functions of the firm by using which of the following method?",
+        "op": [
+            "Cost analysis",
+            "Regression analysis",
+            "Supply analysis",
+            "Demand analysis"
+        ],
+        "created_at": "2026-06-23T07:04:32.300605+00:00"
+    },
+    {
+        "id": 18472,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "From given isoprofit function: $$QY\\, = \\,\\Pi /b\\, - \\,a/b\\,QX$$ slope of this function will be:",
+        "op": [
+            "b",
+            "-a/b",
+            "-b/a",
+            "a"
+        ],
+        "created_at": "2026-06-23T07:54:53.813213+00:00"
+    },
+    {
+        "id": 18480,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "Which of the following will happen in case of increasing returns to scale?",
+        "op": [
+            "Increasing costs",
+            "No costs",
+            "Constant costs",
+            "Decreasing costs"
+        ],
+        "created_at": "2026-06-23T07:56:55.056192+00:00"
+    },
+    {
+        "id": 18842,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "If optimal multi plant activity level is 20000 and optimal production per plant is 5000, the optimal number of plants will be:",
+        "op": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "created_at": "2026-06-23T11:22:54.125084+00:00"
+    },
+    {
+        "id": 19318,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "23 June 2026",
+        "qt": "A corner point is a spot in the feasible space, where",
+        "op": [
+            "X axis and constraint conditions intersect",
+            "X axis, Y axis or constraint conditions intersect",
+            "X axis and Y axis intersect",
+            "Y axis and constraint conditions intersect"
+        ],
+        "created_at": "2026-06-23T14:24:05.926637+00:00"
+    },
+    {
+        "id": 27582,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Under perfect competition, profit is maximized at the point where:",
+        "op": [
+            "Average cost = Average revenue",
+            "Average cost = marginal revenue",
+            "Marginal cost = Marginal revenue",
+            "Marginal cost = Average revenue"
+        ],
+        "created_at": "2026-06-29T19:25:41.420031+00:00"
+    },
+    {
+        "id": 27583,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Pairs of any linear programming problem are called:",
+        "op": [
+            "Primal and dual",
+            "Dual",
+            "Primal",
+            "Shadow price"
+        ],
+        "created_at": "2026-06-29T19:25:54.55533+00:00"
+    },
+    {
+        "id": 27584,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "The firm is a price taker in which of the following market structures?",
+        "op": [
+            "Perfect competition",
+            "Monopolistic competition",
+            "Monopoly",
+            "Oligopoly"
+        ],
+        "created_at": "2026-06-29T19:26:02.463804+00:00"
+    },
+    {
+        "id": 27586,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Cigarettes are an example of which type of market structure?",
+        "op": [
+            "Monopoly",
+            "Oligopoly",
+            "Monopolistic competition",
+            "Perfect competition"
+        ],
+        "created_at": "2026-06-29T19:26:11.91642+00:00"
+    },
+    {
+        "id": 27589,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In perfect competition, demand curve is:",
+        "op": [
+            "Positively sloped",
+            "Negatively sloped",
+            "Vertical",
+            "Horizontal"
+        ],
+        "created_at": "2026-06-29T19:26:18.371588+00:00"
+    },
+    {
+        "id": 27591,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Firms are price makers in which of the following market structures?",
+        "op": [
+            "Oligopoly",
+            "Monopolistic competition",
+            "Perfect competition",
+            "Monopoly"
+        ],
+        "created_at": "2026-06-29T19:26:26.555524+00:00"
+    },
+    {
+        "id": 27600,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is the similarity of monopolistic competition with perfect competition?",
+        "op": [
+            "Free entry and exit of firms",
+            "Small number of buyers and sellers",
+            "Barriers to entry and exit of firms",
+            "Single buyer"
+        ],
+        "created_at": "2026-06-29T19:27:19.52399+00:00"
+    },
+    {
+        "id": 27602,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Stock market is an example of which of the following market structures?",
+        "op": [
+            "Monopoly",
+            "Oligopoly",
+            "Perfect competition",
+            "Monopolistic competition"
+        ],
+        "created_at": "2026-06-29T19:27:30.032595+00:00"
+    },
+    {
+        "id": 27605,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Allocative efficiency is achieved in perfect competition at the point where:",
+        "op": [
+            "Price = Marginal revenue",
+            "Price = Average revenue",
+            "Price = Marginal cost",
+            "Price = Average cost"
+        ],
+        "created_at": "2026-06-29T19:27:42.414064+00:00"
+    },
+    {
+        "id": 28486,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Given the total revenue equation: TR = 26Q, marginal revenue is:",
+        "op": [
+            "26 + Q",
+            "26",
+            "Q",
+            "26Q"
+        ],
+        "created_at": "2026-06-30T02:06:21.023867+00:00"
+    },
+    {
+        "id": 28487,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Given the marginal cost function: MC = 430 + 25Q. What is the slope of this marginal cost curve?",
+        "op": [
+            "430+Q",
+            "25",
+            "430",
+            "25Q"
+        ],
+        "created_at": "2026-06-30T02:06:30.451491+00:00"
+    },
+    {
+        "id": 28488,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In perfect competition, which of the following is the short run supply curve?",
+        "op": [
+            "Average revenue curve",
+            "Average cost curve",
+            "Marginal revenue curve",
+            "Marginal cost curve"
+        ],
+        "created_at": "2026-06-30T02:06:39.419228+00:00"
+    },
+    {
+        "id": 28489,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Many fast food restaurants are working in Pakistan. These are the example of:",
+        "op": [
+            "Monopoly",
+            "Perfect competition",
+            "Oligopoly",
+            "Monopolistic competition"
+        ],
+        "created_at": "2026-06-30T02:07:30.437678+00:00"
+    },
+    {
+        "id": 28490,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Price always exceeds marginal revenue in which of the following market structures?",
+        "op": [
+            "Oligopoly",
+            "Monopoly",
+            "Monopolistic competition",
+            "Perfect competition"
+        ],
+        "created_at": "2026-06-30T02:07:41.082389+00:00"
+    },
+    {
+        "id": 28491,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "WAPDA is an example of which of the following market structures?",
+        "op": [
+            "Perfect competition",
+            "Monopolistic competition",
+            "Monopoly",
+            "Oligopoly"
+        ],
+        "created_at": "2026-06-30T02:08:03.245438+00:00"
+    },
+    {
+        "id": 28520,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "A firm is bearing cost of Rs.52, 000 for producing its product and earning Rs.55, 000. What is the total profit of the firm?",
+        "op": [
+            "Rs.107, 000",
+            "Rs.55, 000",
+            "Rs.3, 000",
+            "Rs.52, 000"
+        ],
+        "created_at": "2026-06-30T02:24:42.861289+00:00"
+    },
+    {
+        "id": 28521,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In monopoly, demand curve is:",
+        "op": [
+            "Negatively sloped",
+            "Positively sloped",
+            "Horizontal",
+            "Vertical"
+        ],
+        "created_at": "2026-06-30T02:24:55.273906+00:00"
+    },
+    {
+        "id": 28522,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following is TRUE about shadow prices?",
+        "op": [
+            "None of the given options",
+            "Change in objective value = Shadow price",
+            "Change in objective value = (Shadow price) (Change in the right hand side of constraint",
+            "Change in objective value = Change in the right hand side of constraint"
+        ],
+        "created_at": "2026-06-30T02:25:22.841651+00:00"
+    },
+    {
+        "id": 28523,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Which of the following market structure lies between monopoly and perfect competition?",
+        "op": [
+            "Oligopoly",
+            "Monopoly",
+            "Monopolistic competition",
+            "Perfect competition"
+        ],
+        "created_at": "2026-06-30T02:25:52.634352+00:00"
+    },
+    {
+        "id": 28824,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Monopoly firm breaks even at the point where:",
+        "op": [
+            "Average total cost < Price",
+            "Average total cost = Marginal cost",
+            "Average total cost > Price",
+            "Average total cost = Price"
+        ],
+        "created_at": "2026-06-30T04:19:36.143153+00:00"
+    },
+    {
+        "id": 28841,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "In case of dual constraints, binding constraints imply:",
+        "op": [
+            "Two slacks",
+            "No slack",
+            "One slack",
+            "Three slacks"
+        ],
+        "created_at": "2026-06-30T04:24:11.963487+00:00"
+    },
+    {
+        "id": 29332,
+        "cc": "ECO404",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Public utilities are an example of:",
+        "op": [
+            "Perfect competition",
+            "Oligopoly",
+            "Natural monopoly",
+            "Monopolistic competition"
+        ],
+        "created_at": "2026-06-30T06:27:54.540898+00:00"
+    },
+    {
+        "id": 43172,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "If percentage change in cost is equal to the percentage change in output then:",
+        "op": [
+            "Cost elasticity is less than one",
+            "Cost elasticity is indeterminate",
+            "Cost elasticity is more than one",
+            "Cost elasticity is equal to one"
+        ],
+        "created_at": "2026-06-24T05:51:27.528957+00:00"
+    },
+    {
+        "id": 43173,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "which of the following aspects of production are dealt in engineering technique:",
+        "op": [
+            "Administrative aspects",
+            "Cost aspects",
+            "None of the above",
+            "Technical aspects"
+        ],
+        "created_at": "2026-06-24T05:51:37.027037+00:00"
+    },
+    {
+        "id": 43174,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Which of the following model maximizes or minimizes a linear function subject to the set of linear constraints?",
+        "op": [
+            "Demand-Supply model",
+            "Linear Programming model",
+            "IS-LM model",
+            "Regression model"
+        ],
+        "created_at": "2026-06-24T05:51:45.670705+00:00"
+    },
+    {
+        "id": 43175,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "A producer earns total revenue of Rs. 700 by selling certain units of a commodity at the price of Rs. 10 per unit. How many units he has sold of that commodity?",
+        "op": [
+            "70 units",
+            "60 units",
+            "30 units",
+            "10 units"
+        ],
+        "created_at": "2026-06-24T05:51:53.852497+00:00"
+    },
+    {
+        "id": 43176,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Given the profit equation: $$\\pi \\, = \\,10X\\, + \\,7Y$$ If we solve it for X, we obtain:",
+        "op": [
+            "$$X\\, = \\,\\pi /10\\, - \\,10/7Y$$",
+            "$$X\\, = \\,\\pi /10\\, - \\,7/10Y$$",
+            "$$X\\, = \\,\\pi /7\\, - \\,7/10Y$$",
+            "$$X\\, = \\,\\pi /10\\, - \\,10/10Y$$"
+        ],
+        "created_at": "2026-06-24T05:52:05.446681+00:00"
+    },
+    {
+        "id": 43177,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Short run average cost curves are U-shaped because of:",
+        "op": [
+            "The law of demand",
+            "The law of diminishing returns",
+            "The law of diminishing utility",
+            "The law of supply"
+        ],
+        "created_at": "2026-06-24T05:52:16.405647+00:00"
+    },
+    {
+        "id": 43178,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "The solution which satisfies all the constraints is known as the:",
+        "op": [
+            "Feasible solution",
+            "Corner solution",
+            "Wrong solution",
+            "Non feasible solution"
+        ],
+        "created_at": "2026-06-24T05:52:26.146159+00:00"
+    },
+    {
+        "id": 43179,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "TVC = a + bQ. This equation depicts which of the following?",
+        "op": [
+            "Linear cost function",
+            "Simultaneous function",
+            "Quadratic cost function",
+            "Cubic cost function"
+        ],
+        "created_at": "2026-06-24T05:52:32.998728+00:00"
+    },
+    {
+        "id": 43180,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Who introduced the concept of linear programming?",
+        "op": [
+            "John von Neumann",
+            "George B Dantzig",
+            "Joel Dean",
+            "Leonid Kantorovich"
+        ],
+        "created_at": "2026-06-24T05:52:40.630482+00:00"
+    },
+    {
+        "id": 43181,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "If TFC= 200, Price = 10 and AVC = 5, than Break even output level will be:",
+        "op": [
+            "20",
+            "40",
+            "30",
+            "50"
+        ],
+        "created_at": "2026-06-24T05:52:50.567186+00:00"
+    },
+    {
+        "id": 43182,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "The firm’s long run average cost curve is derived from the:",
+        "op": [
+            "Short run marginal cost curve",
+            "Long run marginal cost curve",
+            "Short run total cost curve",
+            "Long run total cost curve"
+        ],
+        "created_at": "2026-06-24T09:27:09.708276+00:00"
+    },
+    {
+        "id": 43183,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is/are special type/s of problems of linear programming?",
+        "op": [
+            "Multiple optimal solutions",
+            "Unbounded solutions",
+            "All of the given options",
+            "Infeasible solutions"
+        ],
+        "created_at": "2026-06-24T09:27:26.409983+00:00"
+    },
+    {
+        "id": 43184,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "In which of the following cases, cost elasticity will be more than one?",
+        "op": [
+            "When percentage change in cost is equal to the percentage change in output",
+            "When percentage change in cost is less than the percentage change in input",
+            "When percentage change in cost is less than the percentage change in output",
+            "When percentage change in cost is greater than the percentage change in output"
+        ],
+        "created_at": "2026-06-24T09:27:37.351967+00:00"
+    },
+    {
+        "id": 43185,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Usually we measure output in:",
+        "op": [
+            "Percentage",
+            "Physical units",
+            "Rupees",
+            "Monetary units"
+        ],
+        "created_at": "2026-06-24T09:28:09.780223+00:00"
+    },
+    {
+        "id": 43186,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "which of the following is used to calculate optimal number of plants:",
+        "op": [
+            "Optimal multi plant activity level / Optimal Production per plant",
+            "None of the above",
+            "Optimal Production per plant / Optimal multi plant activity level",
+            "Optimal multi plant activity level - Optimal Production per plant"
+        ],
+        "created_at": "2026-06-24T09:28:20.522385+00:00"
+    },
+    {
+        "id": 43187,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Percentage change in profit due to one unit change in sales is known as:",
+        "op": [
+            "Cost elasticity",
+            "Economies of scale",
+            "Degree of freedom",
+            "Degree of operating leverage"
+        ],
+        "created_at": "2026-06-24T09:28:31.167288+00:00"
+    },
+    {
+        "id": 43188,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "Cost is usually measured in:",
+        "op": [
+            "Physical units",
+            "Percentage",
+            "Absolute term",
+            "Monetary units"
+        ],
+        "created_at": "2026-06-24T09:28:55.536738+00:00"
+    },
+    {
+        "id": 43189,
+        "cc": "ECO404",
+        "qn": "2",
+        "dt": "24 June 2026",
+        "qt": "If the percentage change in profit is Rs. 400 and percentage change in sales is Rs. 100 then what will be the degree of operating leverage?",
+        "op": [
+            "3",
+            "1",
+            "4",
+            "2"
+        ],
+        "created_at": "2026-06-24T09:29:05.638791+00:00"
+    },
+    {
+        "id": 71291,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In centralized cartels, collusion is:",
+        "op": [
+            "Implicit",
+            "Not possible",
+            "Ambiguous",
+            "Explicit"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71292,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "According to game theory, a strategy about “do to your opponent what he has just done to you” is referred as:",
+        "op": [
+            "Dominant strategy",
+            "First mover advantage",
+            "Tit-for-tat",
+            "Nash equilibrium"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71293,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following element/s includes in every game theory model?",
+        "op": [
+            "Players",
+            "Payoffs",
+            "Strategies",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71294,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "According to game theory, First player may get advantage in which of the following games?",
+        "op": [
+            "Simultaneous games",
+            "Non-repeated games",
+            "Sequential games",
+            "Repeated games"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71386,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following model explains price rigidity concept?",
+        "op": [
+            "Stackelberg model",
+            "Cournot oligopoly model",
+            "Bertrand oligopoly model",
+            "Sweezy oligopoly model"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71387,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In a game theory approach, selecting the best possible outcome given the worst possible scenario is known as:",
+        "op": [
+            "Risky strategy",
+            "Maximin strategy",
+            "Worst strategy",
+            "Minimax strategy"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71388,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In Game theory approach,Game which is played over a fixed period of time is known as:",
+        "op": [
+            "Non-repeated game",
+            "Infinitely repeated game",
+            "Finitely repeated game",
+            "Sequential game"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71389,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Cournot oligopoly model was developed in:",
+        "op": [
+            "1840",
+            "1838",
+            "1845",
+            "1830"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71390,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Given the profit equation: \\pi \\, = \\,12X\\, + 9Y If we solve it for Y, we obtain:",
+        "op": [
+            "Y\\, = \\,\\pi /9\\, - \\,4/3",
+            "Y\\, = \\,\\pi /7\\, - \\,7/10",
+            "Y\\, = \\,\\pi /7\\, - \\,10/10",
+            "Y\\, = \\,\\pi /10\\, - \\,4/3"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71432,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Market structure including two sellers is known as:",
+        "op": [
+            "Triopoly",
+            "Oligopoly",
+            "Monopoly",
+            "Duopoly"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71434,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In a game theory, each decision maker makes choices without specific knowledge of competitors counter moves is referred as:",
+        "op": [
+            "Sequential – move game",
+            "Infinitely repeated game",
+            "Simultaneous – move game",
+            "Finitely Repeated game"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71435,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following oligopoly model failed to make price explicit?",
+        "op": [
+            "Sweezy model",
+            "Bertrand oligopoly model",
+            "Cournot oligopoly model",
+            "Stackelberg model"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71437,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In a game theory approach, a zero-sum game is about:",
+        "op": [
+            "Joint action is favored",
+            "Potential for mutual gain",
+            "Offsetting gains / Losses",
+            "Potential for mutual loss"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71438,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In price leadership models, collusion is:",
+        "op": [
+            "Implicit",
+            "Not possible",
+            "Explicit",
+            "Ambiguous"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71440,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Given the profit equation: \\pi \\, = \\,10X\\, + \\,7Y If we solve it for X, we obtain:",
+        "op": [
+            "X\\, = \\,\\pi /7\\, - \\,7/10Y",
+            "X\\, = \\,\\pi /10\\, - \\,10/10Y",
+            "X\\, = \\,\\pi /10\\, - \\,10/7Y",
+            "X\\, = \\,\\pi /10\\, - \\,7/10Y"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71451,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "If any cartel has full control over all firms in an industry, it can operate as:",
+        "op": [
+            "Perfectly competitive firm",
+            "Monopoly firm",
+            "Duopoly firm",
+            "Oligopoly firm"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71452,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "With reference to game theory, In which of the following games, players decide about their strategy choices at the same time?",
+        "op": [
+            "Sequential games",
+            "Non-repeated games",
+            "Repeated games",
+            "Simultaneous games"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71460,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Stackelberg model was developed in:",
+        "op": [
+            "1932",
+            "1936",
+            "1930",
+            "1934"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71461,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Game theory can simply be illustrated with the help of:",
+        "op": [
+            "Prisoner’s dilemma",
+            "Monopoly power",
+            "Regression analysis",
+            "Moving averages"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71462,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "With reference to game theory, a game that involves potential for mutual gains is referred as:",
+        "op": [
+            "Positive-sum game",
+            "Non cooperative game",
+            "Zero – sum game",
+            "Negative-sum game"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71463,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "An equilibrium that predicts the outcome of non-cooperative games is called as:",
+        "op": [
+            "Nash equilibrium",
+            "Classical equilibrium",
+            "Keynesian equilibrium",
+            "Market equilibrium"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71487,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In a game theory, the outcome and consequence of each strategy is known as:",
+        "op": [
+            "Player",
+            "Variable",
+            "Payoff",
+            "Loss"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71524,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "With reference to game theory, In which of the following games, players decide about their strategy choices in a sequence?",
+        "op": [
+            "Simultaneous games",
+            "Non-repeated games",
+            "Sequential games",
+            "Repeated games"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71525,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "From given isoprofit function: QY\\, = \\,\\Pi /b\\, - \\,a/b\\,QX slope of this function will be: ",
+        "op": [
+            "b",
+            "-b/a",
+            "-a/b",
+            "a"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71532,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "The concept of the prisoners' dilemma can be used to analyze:",
+        "op": [
+            "Monopoly power in monopoly markets",
+            "Only non price competition in oligopolistic markets",
+            "Both price and non price competition in oligopoly markets",
+            "Only price competition in oligopolistic markets"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71533,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Market structure which is dominated by few strategically interdependent firms is known as:",
+        "op": [
+            "Monopoly",
+            "Oligopoly",
+            "Perfect competition",
+            "Monopolistic competition"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71534,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "In Game theory approach, Game which is played again and again without any boundary or limit is known as:",
+        "op": [
+            "Non-repeated game",
+            "Sequential game",
+            "Infinitely repeated game",
+            "Finitely repeated game"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71538,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "In Game theory approach, Game which is played repeatedly over a period of time is known as:",
+        "op": [
+            "Non-repeated game",
+            "Repeated game",
+            "Sequential game",
+            "Simultaneous game"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71571,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "If oligopoly firm is producing homogenous product, it is known as:",
+        "op": [
+            "Differentiated oligopoly",
+            "Pure oligopoly",
+            "Monopoly",
+            "Triopoly"
+        ],
+        "created_at": "2026-07-15T13:28:00.027621+00:00"
+    },
+    {
+        "id": 71597,
+        "cc": "ECO404",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "Which of the following is /are types of games in game theory?",
+        "op": [
+            "Zero - sum game",
+            "All of the given options",
+            "Positive - sum game",
+            "Negative - sum game"
+        ],
+        "created_at": "2026-07-15T13:28:00.027621+00:00"
+    }
+]

@@ -1,0 +1,1500 @@
+[
+    {
+        "id": 51873,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Given the Cobb-Douglas production function;$$Q = AK^\\alpha L^\\beta$$ K represents:",
+        "op": [
+            "Output",
+            "Capital",
+            "Labor",
+            "Constant"
+        ],
+        "created_at": "2026-07-06T02:46:35.941139+00:00"
+    },
+    {
+        "id": 51874,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "In the consumption function; C = 1250 + 0.85Y, marginal propensity to consume is:",
+        "op": [
+            "1250",
+            "0.85",
+            "1250.85",
+            "1249.15"
+        ],
+        "created_at": "2026-07-06T02:46:56.431808+00:00"
+    },
+    {
+        "id": 51876,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$2x + 3y = 20$$ is an example of:",
+        "op": [
+            "Cubic function",
+            "Production function",
+            "Quadratic function",
+            "Implicit function"
+        ],
+        "created_at": "2026-07-06T02:47:30.567805+00:00"
+    },
+    {
+        "id": 51880,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is used to find out the Hicksian demand functions?",
+        "op": [
+            "Roy’s identity",
+            "Cobweb theorem",
+            "Hotelling’s Lemma",
+            "Shephard Lemma"
+        ],
+        "created_at": "2026-07-06T02:47:49.211596+00:00"
+    },
+    {
+        "id": 51882,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} y = f(g(x)) \\hfill \\\\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered}$$ Given the above expression; $$f'$$ represents:",
+        "op": [
+            "Outside function",
+            "Inside function",
+            "Derivative of inside function",
+            "Derivative of outside function"
+        ],
+        "created_at": "2026-07-06T02:48:11.159287+00:00"
+    },
+    {
+        "id": 51884,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Envelope theorem is based on:",
+        "op": [
+            "Matrices",
+            "Calculus",
+            "Algebra",
+            "Equilibrium"
+        ],
+        "created_at": "2026-07-06T02:48:24.519085+00:00"
+    },
+    {
+        "id": 51887,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Given the Cobb-Douglas production function;$$Q = AK^\\alpha L^\\beta$$ A represents:",
+        "op": [
+            "Constant",
+            "Output",
+            "Labor",
+            "Capital"
+        ],
+        "created_at": "2026-07-06T02:48:43.22737+00:00"
+    },
+    {
+        "id": 51892,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cost of raw material is an example of:",
+        "op": [
+            "Sunk cost",
+            "Opportunity cost",
+            "Variable cost",
+            "Fixed cost"
+        ],
+        "created_at": "2026-07-06T02:49:31.907878+00:00"
+    },
+    {
+        "id": 51893,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cost which does not change with the level of output is called:",
+        "op": [
+            "Opportunity cost",
+            "Fixed cost",
+            "Variable cost",
+            "Sunk cost"
+        ],
+        "created_at": "2026-07-06T02:49:47.716398+00:00"
+    },
+    {
+        "id": 52832,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\pi = PQ - wK$$ is the profit function of the labor market; what does K show in this function?",
+        "op": [
+            "Quantity of capital input",
+            "Price of capital input",
+            "Quantity of output",
+            "Price of output"
+        ],
+        "created_at": "2026-07-06T05:32:40.195207+00:00"
+    },
+    {
+        "id": 52837,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$F(U,x_1 ,x_2 ) = 0$$ shows:",
+        "op": [
+            "Cubic function",
+            "Quadratic function",
+            "Cubic function",
+            "Implicit function"
+        ],
+        "created_at": "2026-07-06T05:32:58.194781+00:00"
+    },
+    {
+        "id": 52841,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Total derivative of the function $$y = f(g(w),w)$$ is:",
+        "op": [
+            "$$\\frac{{dy}} {{dw}} = dx + f_w .\\frac{{dw}} {{dw}}$$",
+            "$$\\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + dx$$",
+            "$$\\frac{{dy}} {{dw}} = \\frac{{dx}} {{dw}} + \\frac{{dw}} {{dw}}$$",
+            "$$\\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + f_w .\\frac{{dw}} {{dw}}$$"
+        ],
+        "created_at": "2026-07-06T05:33:14.686566+00:00"
+    },
+    {
+        "id": 52844,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "What happens as a result of technological changes in the production process?",
+        "op": [
+            "No change in the production function",
+            "Production function remain at its initial condition",
+            "Production function shifts outward",
+            "Production function shifts inward"
+        ],
+        "created_at": "2026-07-06T05:33:46.757496+00:00"
+    },
+    {
+        "id": 52848,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the total differential of $$U = f(x_1 ,x_2 )$$?",
+        "op": [
+            "$$dU = U_1 .dx_1 /U_2 .dx_2$$",
+            "$$dU = U_1 + U_2$$",
+            "$$U_1 .dx_1 = U_2 .dx_2$$",
+            "$$dU = U_1 .dx_1 + U_2 .dx_2$$"
+        ],
+        "created_at": "2026-07-06T05:34:02.529926+00:00"
+    },
+    {
+        "id": 52855,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cross price elasticity of demand is equal to:",
+        "op": [
+            "Percentage change in quantity demanded of one product / Percentage change in price of another product",
+            "Percentage change in quantity demanded / Percentage change in price",
+            "Percentage change in supply / Percentage change in demand",
+            "Percentage change in quantity demanded / Percentage change in income"
+        ],
+        "created_at": "2026-07-06T05:34:44.507162+00:00"
+    },
+    {
+        "id": 52860,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\frac{{\\partial F(Q,K,\\overline L )}} {{\\partial K}}$$ shows:",
+        "op": [
+            "Output elasticity of labor",
+            "Marginal product of capital",
+            "Marginal product of labor",
+            "Output elasticity of capital"
+        ],
+        "created_at": "2026-07-06T05:35:05.224575+00:00"
+    },
+    {
+        "id": 52863,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Given the Cobb-Douglas production function; $$Q = AK^\\alpha L^\\beta$$ L represents:",
+        "op": [
+            "Constant",
+            "Output",
+            "Labor",
+            "Capital"
+        ],
+        "created_at": "2026-07-06T05:35:22.887785+00:00"
+    },
+    {
+        "id": 52871,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Formula to calculate total cost is:",
+        "op": [
+            "Average cost / Output (Q)",
+            "Average cost × Output (Q)",
+            "Marginal cost / Output (Q)",
+            "Marginal cost + Output (Q)"
+        ],
+        "created_at": "2026-07-06T05:35:43.576522+00:00"
+    },
+    {
+        "id": 52874,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cross partial derivative of the function; $$MP_M = (\\ln K).(\\ln L)$$ with respect to $$(\\ln L)$$ is:",
+        "op": [
+            "$$(\\ln L)$$",
+            "$$(\\ln M)$$",
+            "$$(\\ln K)$$",
+            "$$(\\ln L) + (\\ln M)$$"
+        ],
+        "created_at": "2026-07-06T05:36:00.977981+00:00"
+    },
+    {
+        "id": 52913,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Narrow money supply is equal to:",
+        "op": [
+            "Cash holdings + Interest rate",
+            "Cash holdings – Bank deposits",
+            "Bank deposits – Reserve ratio",
+            "Cash holdings + Bank deposits"
+        ],
+        "created_at": "2026-07-06T05:42:40.419509+00:00"
+    },
+    {
+        "id": 52917,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Saving and interest rate are:",
+        "op": [
+            "Positively related",
+            "Negatively related",
+            "Not related",
+            "Indirectly related"
+        ],
+        "created_at": "2026-07-06T05:43:06.850582+00:00"
+    },
+    {
+        "id": 52921,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} y = f(g(x)) \\hfill \\\\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered}$$ Given the above expression; $$g'(x)$$ represents:",
+        "op": [
+            "Derivative of inside function",
+            "Outside function",
+            "Derivative of outside function",
+            "Inside function"
+        ],
+        "created_at": "2026-07-06T05:43:35.427007+00:00"
+    },
+    {
+        "id": 52924,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following shows the direct effect of the function $$y = f(g(w),w)$$ ?",
+        "op": [
+            "$$x = g(w)$$",
+            "$$y = f(w)$$",
+            "$$y = f(x,w)$$",
+            "$$y = f(g(w))$$"
+        ],
+        "created_at": "2026-07-06T05:44:14.176364+00:00"
+    },
+    {
+        "id": 52930,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following shows the differential of $$y = f(x) = 4x^2 + 20$$ ?",
+        "op": [
+            "$$dx = (8x).dy$$",
+            "$$dy + dx = (8x)$$",
+            "$$dy = (8x).dx$$",
+            "$$dy(8x) = dx$$"
+        ],
+        "created_at": "2026-07-06T05:45:25.804007+00:00"
+    },
+    {
+        "id": 52942,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following shows the differential of $$y = f(x) = 3x + 2$$ ?",
+        "op": [
+            "$$dy = (3 + x).dx$$",
+            "$$dx = (\\frac{1} {3}).dy$$",
+            "$$dy = (2 + 3).dx$$",
+            "$$dy = (3).dx$$"
+        ],
+        "created_at": "2026-07-06T05:46:45.605636+00:00"
+    },
+    {
+        "id": 52947,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the derivative of total revenue?",
+        "op": [
+            "Average revenue",
+            "High revenue",
+            "Marginal revenue",
+            "Fixed revenue"
+        ],
+        "created_at": "2026-07-06T05:47:16.636814+00:00"
+    },
+    {
+        "id": 53578,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following shows the differential of $$y = f(x)$$?",
+        "op": [
+            "$$dy.f(x) = dx$$",
+            "$$dx = f(x).dy$$",
+            "$$dy = f(x).dx$$",
+            "$$dy.dx = f(x)$$"
+        ],
+        "created_at": "2026-07-06T08:01:12.619636+00:00"
+    },
+    {
+        "id": 53580,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Demand for money and income are:",
+        "op": [
+            "Directly related",
+            "Positively related",
+            "Negatively related",
+            "Positively related"
+        ],
+        "created_at": "2026-07-06T08:01:46.133088+00:00"
+    },
+    {
+        "id": 53590,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "One of the major components of money supply is:",
+        "op": [
+            "Bank deposits",
+            "Bank deposits",
+            "Discount rate",
+            "Bank deposits"
+        ],
+        "created_at": "2026-07-06T08:03:06.331677+00:00"
+    },
+    {
+        "id": 53594,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cost which is changed with the level of output is called:",
+        "op": [
+            "Variable cost",
+            "Opportunity cost",
+            "Fixed cost",
+            "Sunk cost"
+        ],
+        "created_at": "2026-07-06T08:03:27.497773+00:00"
+    },
+    {
+        "id": 53598,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Saving and income are:",
+        "op": [
+            "Not related",
+            "Not related",
+            "Positively related",
+            "Negatively related"
+        ],
+        "created_at": "2026-07-06T08:03:49.772868+00:00"
+    },
+    {
+        "id": 53768,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is used to relate supply of goods with producer’s profit?",
+        "op": [
+            "Hotelling’s Lemma",
+            "Roy’s identity",
+            "Envelope theorem",
+            "Shephard Lemma"
+        ],
+        "created_at": "2026-07-06T08:44:42.781643+00:00"
+    },
+    {
+        "id": 53770,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is necessary for maximum level of profit?",
+        "op": [
+            "First order derivative of the profit function should be greater than zero",
+            "Second order derivative of the profit function should be less than zero",
+            "First order derivative of the profit function should be less than zero",
+            "Second order derivative of the profit function should be greater than zero"
+        ],
+        "created_at": "2026-07-06T08:45:27.843389+00:00"
+    },
+    {
+        "id": 53848,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is true for the function; $$Q = f(K(t),L(t))$$ ?",
+        "op": [
+            "Capital and labor remain at their initial conditions",
+            "Capital and labor remain unhanged",
+            "Capital and labor do not depend on time",
+            "Capital and labor can improve over time"
+        ],
+        "created_at": "2026-07-06T09:17:17.148329+00:00"
+    },
+    {
+        "id": 53850,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which the following represents chain rule of differentiation?",
+        "op": [
+            "$$\\frac{{dy}} {{dx}} = \\frac{{dy}} {{du}} \\times \\frac{{du}} {{dx}}$$",
+            "$$\\frac{{dy}} {{dx}} = \\frac{{dy}} {{du}}/\\frac{{du}} {{dx}}$$",
+            "$$\\frac{{dy}} {{dx}} = \\frac{{dy}} {{du}} + \\frac{{du}} {{dx}}$$",
+            "$$\\frac{{dy}} {{dx}} = \\frac{{dy}} {{du}} - \\frac{{du}} {{dx}}$$"
+        ],
+        "created_at": "2026-07-06T09:17:34.403968+00:00"
+    },
+    {
+        "id": 53851,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Demand for money and interest rate are:",
+        "op": [
+            "Positively related",
+            "Not related",
+            "Directly related",
+            "Negatively related"
+        ],
+        "created_at": "2026-07-06T09:18:46.15571+00:00"
+    },
+    {
+        "id": 53853,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$f'(x)$$ shows the:",
+        "op": [
+            "Third derivative of the function $$y = f(x)$$",
+            "First derivative of the function $$y = f(x)$$",
+            "Second derivative of the function $$y = f(x)$$",
+            "Fourth derivative of the function $$y = f(x)$$"
+        ],
+        "created_at": "2026-07-06T09:19:11.460223+00:00"
+    },
+    {
+        "id": 53855,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Income elasticity of demand is equal to:",
+        "op": [
+            "Percentage change in quantity demanded / Percentage change in supply",
+            "Percentage change in supply / Percentage change in demand",
+            "Percentage change in quantity demanded / Percentage change in income",
+            "Percentage change in quantity demanded / Percentage change in price"
+        ],
+        "created_at": "2026-07-06T09:20:14.906149+00:00"
+    },
+    {
+        "id": 53856,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is necessary for profit maximization level of output?",
+        "op": [
+            "Fourth order derivative of the profit function should be equal to zero",
+            "Third order derivative of the profit function should be equal to zero",
+            "First order derivative of the profit function should be equal to zero",
+            "Second order derivative of the profit function should be equal to zero"
+        ],
+        "created_at": "2026-07-06T09:20:22.35305+00:00"
+    },
+    {
+        "id": 54073,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "In the consumption function; C = 1300 + 0.75Y, marginal propensity to consume is:",
+        "op": [
+            "1300",
+            "1300.75",
+            "0.75",
+            "1299.25"
+        ],
+        "created_at": "2026-07-06T11:46:35.084467+00:00"
+    },
+    {
+        "id": 54074,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "In the total cost function; TC = 500 + 35Q, 500 is the:",
+        "op": [
+            "Opportunity cost",
+            "Fixed cost",
+            "Variable cost",
+            "Sunk cost"
+        ],
+        "created_at": "2026-07-06T11:46:50.45069+00:00"
+    },
+    {
+        "id": 54075,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "A fraction of the bank deposits is:",
+        "op": [
+            "Interest rate",
+            "Money supply",
+            "Bank reserves",
+            "Cash holdings"
+        ],
+        "created_at": "2026-07-06T11:46:58.75707+00:00"
+    },
+    {
+        "id": 54114,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Formula to calculate average cost is:",
+        "op": [
+            "Marginal cost / Output (Q)",
+            "Total cost / Output (Q)",
+            "Marginal cost × Output (Q)",
+            "Total cost × Output (Q)"
+        ],
+        "created_at": "2026-07-06T12:19:24.169854+00:00"
+    },
+    {
+        "id": 54117,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\begin{gathered} y = f(g(x)) \\hfill \\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered}$$ Given the above expression; $$g(x)$$ represents:",
+        "op": [
+            "Derivative of inside function",
+            "Inside function",
+            "Outside function",
+            "Derivative of outside function"
+        ],
+        "created_at": "2026-07-06T12:19:52.9704+00:00"
+    },
+    {
+        "id": 54119,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Given the saving function $$S = 0.20Y + 3i$$; $$S_i = \\frac{{\\partial S}} {{\\partial i}}$$ is:",
+        "op": [
+            "3/0.20",
+            "3.20",
+            "0.20",
+            "3"
+        ],
+        "created_at": "2026-07-06T12:20:16.86385+00:00"
+    },
+    {
+        "id": 54282,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Money supply and cash deposit ratio are:",
+        "op": [
+            "Not related",
+            "Negatively related",
+            "Directly related",
+            "Positively related"
+        ],
+        "created_at": "2026-07-06T14:15:16.382873+00:00"
+    },
+    {
+        "id": 54285,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cost of unskilled labor is an example of:",
+        "op": [
+            "Sunk cost",
+            "Fixed cost",
+            "Opportunity cost",
+            "Variable cost"
+        ],
+        "created_at": "2026-07-06T14:16:21.99056+00:00"
+    },
+    {
+        "id": 54308,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is necessary for minimum level of profit?",
+        "op": [
+            "Second order derivative of the profit function should be greater than zero",
+            "First order derivative of the profit function should be less than zero",
+            "First order derivative of the profit function should be greater than zero",
+            "Second order derivative of the profit function should be less than zero"
+        ],
+        "created_at": "2026-07-06T14:43:05.81535+00:00"
+    },
+    {
+        "id": 54311,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "$$\\frac{{\\partial F(Q,\\overline K ,L)}} {{\\partial L}}$$ shows:",
+        "op": [
+            "Marginal product of labor",
+            "Marginal product of capital",
+            "Output elasticity of labor",
+            "Output elasticity of capital"
+        ],
+        "created_at": "2026-07-06T14:43:47.108192+00:00"
+    },
+    {
+        "id": 54312,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Given the saving function $$S = 0.35Y + i$$ ; $$S_Y = \\frac{{\\partial S}} {{\\partial Y}}$$ is?",
+        "op": [
+            "1",
+            "1/0.35",
+            "1.35",
+            "0.35"
+        ],
+        "created_at": "2026-07-06T14:43:56.910438+00:00"
+    },
+    {
+        "id": 54363,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Which of the following expression shows inverse demand function?",
+        "op": [
+            "$$P = f + D$$",
+            "$$P = f^{ - 1} (D)$$",
+            "$$D = f(P)$$",
+            "$$D^{ - 1} = f(P + 1)$$"
+        ],
+        "created_at": "2026-07-06T15:28:13.497211+00:00"
+    },
+    {
+        "id": 54366,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Second order derivative of the profit function should be greater than zero",
+        "op": [
+            "Marginal revenue = 0",
+            "Marginal revenue > Marginal cost",
+            "Marginal revenue < Marginal cost",
+            "Marginal revenue = Marginal cost"
+        ],
+        "created_at": "2026-07-06T15:32:35.985786+00:00"
+    },
+    {
+        "id": 55585,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "$$\\left( {\\frac{{\\partial y}} {{\\partial x}}} \\right)$$ is used to denote:",
+        "op": [
+            "Partial derivative",
+            "Simple derivative",
+            "Matrix",
+            "Limit"
+        ],
+        "created_at": "2026-07-07T02:33:06.159414+00:00"
+    },
+    {
+        "id": 56286,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "$$F(Q,K,L) = 0$$ shows:",
+        "op": [
+            "Quadratic function",
+            "Implicit function",
+            "Cubic function",
+            "Cost function"
+        ],
+        "created_at": "2026-07-07T08:08:21.990387+00:00"
+    },
+    {
+        "id": 56311,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Which of the following shows the indirect effect of the function $$y = f(g(w),w)$$ ?",
+        "op": [
+            "$$x = g(w)$$",
+            "$$y = f(g(w))$$",
+            "$$y = f(x,w)$$",
+            "$$y = f(w)$$"
+        ],
+        "created_at": "2026-07-07T08:17:55.071598+00:00"
+    },
+    {
+        "id": 56685,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is used to find out the Marshallian demand functions?",
+        "op": [
+            "Hotelling’s Lemma",
+            "Cobweb theorem",
+            "Roy’s identity",
+            "Shephard Lemma"
+        ],
+        "created_at": "2026-07-07T12:31:41.282047+00:00"
+    },
+    {
+        "id": 57019,
+        "cc": "ECO606",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Which of the following shows the differential of $$y = f(x) = Ax^2$$ ?",
+        "op": [
+            "$$dy = (\\frac{{Ax}} {2}).dx$$",
+            "$$dx = (2Ax).dy$$",
+            "$$dy = (2Ax).dx$$",
+            "$$dy = (2 + Ax).dx$$"
+        ],
+        "created_at": "2026-07-07T16:47:52.566601+00:00"
+    },
+    {
+        "id": 68780,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\left( {\\frac{{\\partial y}} {{\\partial x}}} \\right) is used to denote:",
+        "op": [
+            "Matrix",
+            "Limit",
+            "Simple derivative",
+            "Partial derivative"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68783,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\pi = PQ - wK is the profit function of the labor market; what does K show in this function?",
+        "op": [
+            "Quantity of capital input",
+            "Quantity of output",
+            "Price of output",
+            "Price of capital input"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68785,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Total derivative of the function \\[ y = f(g(w),w) \\] is:",
+        "op": [
+            "\\[ \\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + dx \\]",
+            "\\[ \\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + f_w .\\frac{{dw}} {{dw}} \\]",
+            "\\[ \\frac{{dy}} {{dw}} = dx + f_w .\\frac{{dw}} {{dw}} \\]",
+            "\\[ \\frac{{dy}} {{dw}} = \\frac{{dx}} {{dw}} + \\frac{{dw}} {{dw}} \\]"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68824,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is true for the function; Q = f(K(t),L(t)) ?",
+        "op": [
+            "Capital and labor remain at their initial conditions",
+            "Capital and labor can improve over time",
+            "Capital and labor do not depend on time",
+            "Capital and labor remain unhanged"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68825,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\frac{{\\partial F(Q,K,\\overline L )}} {{\\partial K}} shows:",
+        "op": [
+            "Marginal product of labor",
+            "Output elasticity of labor",
+            "Marginal product of capital",
+            "Output elasticity of capital"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68826,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the differential of y = f(x) = 3x + 2 ?",
+        "op": [
+            "dy = (3 + x).dx",
+            "dy = (2 + 3).dx",
+            "dx = (\\frac{1} {3}).dy",
+            "dy = (3).dx"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68827,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the differential of y = f(x)? ",
+        "op": [
+            "dy.dx = f(x)",
+            "dx = f(x).dy",
+            "dy = f(x).dx",
+            "dy.f(x) = dx"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 68829,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the Cobb-Douglas production function;\\[ Q = AK^\\alpha L^\\beta \\] Q represents: ",
+        "op": [
+            "Capital",
+            "Constant",
+            "Labor",
+            "Output"
+        ],
+        "created_at": "2026-07-15T13:27:37.098395+00:00"
+    },
+    {
+        "id": 69215,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the Cobb-Douglas production function;Q = AK^\\alpha L^\\beta K represents: ",
+        "op": [
+            "Labor",
+            "Output",
+            "Capital",
+            "Constant"
+        ],
+        "created_at": "2026-07-15T13:27:38.736223+00:00"
+    },
+    {
+        "id": 69548,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is true for the function; \\[ Q = f(K(t),L(t)) \\] ?",
+        "op": [
+            "Capital and labor can improve over time",
+            "Capital and labor remain unhanged",
+            "Capital and labor do not depend on time",
+            "Capital and labor remain at their initial conditions"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69549,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\[ \\left( {\\frac{{\\partial y}} {{\\partial x}}} \\right) \\] is used to denote:",
+        "op": [
+            "Matrix",
+            "Simple derivative",
+            "Partial derivative",
+            "Limit"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69550,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\[ \\frac{{\\partial F(Q,K,\\overline L )}} {{\\partial K}} \\] shows:",
+        "op": [
+            "Output elasticity of capital",
+            "Marginal product of capital",
+            "Marginal product of labor",
+            "Output elasticity of labor"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69551,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the saving function \\[ S = 0.20Y + 3i \\]; \\[ S_i = \\frac{{\\partial S}} {{\\partial i}} \\] is: ",
+        "op": [
+            "0.20",
+            "3",
+            "3/0.20",
+            "3.20"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69552,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the direct effect of the function \\[ y = f(g(w),w) \\] ?",
+        "op": [
+            "\\[ y = f(g(w)) \\]",
+            "\\[ y = f(x,w) \\]",
+            "\\[ y = f(w) \\]",
+            "\\[ x = g(w) \\]"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69553,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the differential of \\[ y = f(x) = Ax^\\alpha + \\beta \\] ?",
+        "op": [
+            "\\[ dy = \\beta Ax^{\\beta - 1} .dx \\]",
+            "\\[ dy = \\alpha Ax^{\\alpha - 1} .dx \\]",
+            "\\[ dx = \\alpha Ax^{\\alpha - 1} .dy \\]",
+            "\\[ dy = (\\alpha + \\beta )Ax^{\\alpha - 1} .dx \\]"
+        ],
+        "created_at": "2026-07-15T13:27:39.474579+00:00"
+    },
+    {
+        "id": 69647,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the Cobb-Douglas production function; \\[ Q = AK^\\alpha L^\\beta \\] L represents: ",
+        "op": [
+            "Capital",
+            "Output",
+            "Labor",
+            "Constant"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69648,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "2x + 3y = 20 is an example of: ",
+        "op": [
+            "Cubic function",
+            "Quadratic function",
+            "Implicit function",
+            "Production function"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69649,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the indirect effect of the function y = f(g(w),w) ?",
+        "op": [
+            "y = f(x,w)",
+            "y = f(g(w))",
+            "y = f(w)",
+            "x = g(w)"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69652,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "High powered money supply is equal to:",
+        "op": [
+            "Cash holdings + Bank reserves",
+            "Bank reserves – Reserve ratio",
+            "Cash holdings – Bank deposits",
+            "Cash holdings + Interest rate"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69676,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the direct effect of the function y = f(g(w),w) ?",
+        "op": [
+            "x = g(w)",
+            "y = f(g(w))",
+            "y = f(w)",
+            "y = f(x,w)"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69680,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the Cobb-Douglas production function;Q = AK^\\alpha L^\\beta A represents: ",
+        "op": [
+            "Output",
+            "Capital",
+            "Constant",
+            "Labor"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69682,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "\\frac{{\\partial F(Q,\\overline K ,L)}} {{\\partial L}} shows:",
+        "op": [
+            "Marginal product of capital",
+            "Marginal product of labor",
+            "Output elasticity of labor",
+            "Output elasticity of capital"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69697,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the saving function S = 0.35Y + i ; S_Y = \\frac{{\\partial S}} {{\\partial Y}} is?",
+        "op": [
+            "0.35",
+            "1.35",
+            "1",
+            "1/0.35"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69698,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is the total differential of U = f(x_1 ,x_2 )? ",
+        "op": [
+            "dU = U_1 .dx_1 + U_2 .dx_2",
+            "U_1 .dx_1 = U_2 .dx_2",
+            "dU = U_1 .dx_1 /U_2 .dx_2",
+            "dU = U_1 + U_2"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69722,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Cross partial derivative of the function; MP_M = (\\ln K).(\\ln L) with respect to (\\ln L) is:",
+        "op": [
+            "(\\ln L)",
+            "(\\ln L) + (\\ln M)",
+            "(\\ln K)",
+            "(\\ln M)"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69723,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "F(U,x_1 ,x_2 ) = 0 shows: ",
+        "op": [
+            "Cubic function",
+            "Cubic function",
+            "Quadratic function",
+            "Implicit function"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69725,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the saving function S = 0.20Y + 3i; S_i = \\frac{{\\partial S}} {{\\partial i}} is: ",
+        "op": [
+            "0.20",
+            "3.20",
+            "3",
+            "3/0.20"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69726,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the differential of y = f(x) = Ax^\\alpha + \\beta ?",
+        "op": [
+            "dy = \\alpha Ax^{\\alpha - 1} .dx",
+            "dy = (\\alpha + \\beta )Ax^{\\alpha - 1} .dx",
+            "dx = \\alpha Ax^{\\alpha - 1} .dy",
+            "dy = \\beta Ax^{\\beta - 1} .dx"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69727,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "F(Q,K,L) = 0 shows: ",
+        "op": [
+            "Cubic function",
+            "Cost function",
+            "Implicit function",
+            "Quadratic function"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69867,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": " \\begin{gathered} y = f(g(x)) \\hfill \\\\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered} Given the above expression; f' represents: ",
+        "op": [
+            "Outside function",
+            "Inside function",
+            "Derivative of outside function",
+            "Derivative of inside function"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69898,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the differential of y = f(x) = 4x^2 + 20 ?",
+        "op": [
+            "dx = (8x).dy",
+            "dy = (8x).dx",
+            "dy(8x) = dx",
+            "dy + dx = (8x)"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69899,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "f'(x) shows the:",
+        "op": [
+            "Third derivative of the function y = f(x)",
+            "Second derivative of the function y = f(x)",
+            "Fourth derivative of the function y = f(x)",
+            "First derivative of the function y = f(x)"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69900,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following is the total differential of \\[ U = f(x_1 ,x_2 ) \\]? ",
+        "op": [
+            "\\[ dU = U_1 .dx_1 /U_2 .dx_2 \\]",
+            "\\[ dU = U_1 + U_2 \\]",
+            "\\[ dU = U_1 .dx_1 + U_2 .dx_2 \\]",
+            "\\[ U_1 .dx_1 = U_2 .dx_2 \\]"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69901,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Given the Cobb-Douglas production function;\\[ Q = AK^\\alpha L^\\beta \\] K represents: ",
+        "op": [
+            "Labor",
+            "Constant",
+            "Capital",
+            "Output"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69902,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Which of the following shows the indirect effect of the function \\[ y = f(g(w),w) \\] ?",
+        "op": [
+            "\\[ x = g(w) \\]",
+            "\\[ y = f(w) \\]",
+            "\\[ y = f(g(w)) \\]",
+            "\\[ y = f(x,w) \\]"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69903,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": " \\[ \\begin{gathered} y = f(g(x)) \\hfill \\\\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered} \\] Given the above expression; \\[ g'(x) \\] represents: ",
+        "op": [
+            "Outside function",
+            "Derivative of inside function",
+            "Inside function",
+            "Derivative of outside function"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 70102,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Given the Cobb-Douglas production function;Q = AK^\\alpha L^\\beta Q represents: ",
+        "op": [
+            "Constant",
+            "Labor",
+            "Output",
+            "Capital"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70107,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": " \\begin{gathered} y = f(g(x)) \\hfill \\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered} Given the above expression; g(x) represents: ",
+        "op": [
+            "Outside function",
+            "Inside function",
+            "Derivative of inside function",
+            "Derivative of outside function"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70325,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Given the saving function \\[ S = 0.35Y + i \\] ; \\[ S_Y = \\frac{{\\partial S}} {{\\partial Y}} \\] is?",
+        "op": [
+            "0.35",
+            "1/0.35",
+            "1",
+            "1.35"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70340,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": " \\[ \\begin{gathered} y = f(g(x)) \\hfill \\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered} \\] Given the above expression; \\[ g(x) \\] represents: ",
+        "op": [
+            "Outside function",
+            "Derivative of outside function",
+            "Inside function",
+            "Derivative of inside function"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70341,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following shows the differential of \\[ y = f(x) = 4x^2 + 20 \\] ?",
+        "op": [
+            "\\[ dy = (8x).dx \\]",
+            "\\[ dy(8x) = dx \\]",
+            "\\[ dx = (8x).dy \\]",
+            "\\[ dy + dx = (8x) \\]"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70342,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following shows the differential of \\[ y = f(x) = 3x + 2 \\] ?",
+        "op": [
+            "\\[ dy = (3 + x).dx \\]",
+            "\\[ dy = (2 + 3).dx \\]",
+            "\\[ dy = (3).dx \\]",
+            "\\[ dx = (\\frac{1} {3}).dy \\]"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70437,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "\\[ 2x + 3y = 20 \\] is an example of: ",
+        "op": [
+            "Quadratic function",
+            "Cubic function",
+            "Implicit function",
+            "Production function"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    },
+    {
+        "id": 70550,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following shows the differential of y = f(x) = Ax^2 ?",
+        "op": [
+            "dy = (\\frac{{Ax}} {2}).dx",
+            "dy = (2 + Ax).dx",
+            "dx = (2Ax).dy",
+            "dy = (2Ax).dx"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    },
+    {
+        "id": 70563,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "\\[ f'(x) \\] shows the:",
+        "op": [
+            "First derivative of the function \\[ y = f(x) \\]",
+            "Second derivative of the function \\[ y = f(x) \\]",
+            "Third derivative of the function \\[ y = f(x) \\]",
+            "Fourth derivative of the function \\[ y = f(x) \\]"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    },
+    {
+        "id": 70564,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Given the Cobb-Douglas production function;\\[ Q = AK^\\alpha L^\\beta \\] A represents: ",
+        "op": [
+            "Output",
+            "Constant",
+            "Capital",
+            "Labor"
+        ],
+        "created_at": "2026-07-15T13:27:49.452585+00:00"
+    },
+    {
+        "id": 70572,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Total derivative of the function y = f(g(w),w) is:",
+        "op": [
+            "\\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + f_w .\\frac{{dw}} {{dw}}",
+            "\\frac{{dy}} {{dw}} = \\frac{{dx}} {{dw}} + \\frac{{dw}} {{dw}}",
+            "\\frac{{dy}} {{dw}} = dx + f_w .\\frac{{dw}} {{dw}}",
+            "\\frac{{dy}} {{dw}} = f_x .\\frac{{dx}} {{dw}} + dx"
+        ],
+        "created_at": "2026-07-15T13:27:51.139945+00:00"
+    },
+    {
+        "id": 70687,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "\\[ \\pi = PQ - wK \\] is the profit function of the labor market; what does K show in this function?",
+        "op": [
+            "Price of output",
+            "Quantity of capital input",
+            "Quantity of output",
+            "Price of capital input"
+        ],
+        "created_at": "2026-07-15T13:27:51.139945+00:00"
+    },
+    {
+        "id": 70688,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": " \\begin{gathered} y = f(g(x)) \\hfill \\\\ \\frac{{dy}} {{dx}} = \\frac{d} {{dx}}\\{ f(g(x))\\} = f'(g(x)).g'(x) \\hfill \\\\\\ \\end{gathered} Given the above expression; g'(x) represents: ",
+        "op": [
+            "Derivative of inside function",
+            "Inside function",
+            "Derivative of outside function",
+            "Outside function"
+        ],
+        "created_at": "2026-07-15T13:27:51.139945+00:00"
+    },
+    {
+        "id": 70689,
+        "cc": "ECO606",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Given the Cobb-Douglas production function; Q = AK^\\alpha L^\\beta L represents: ",
+        "op": [
+            "Labor",
+            "Constant",
+            "Output",
+            "Capital"
+        ],
+        "created_at": "2026-07-15T13:27:51.139945+00:00"
+    }
+]

@@ -1,0 +1,688 @@
+[
+    {
+        "id": 49530,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is an intransitive verb?",
+        "op": [
+            "Snore",
+            "Pick",
+            "Love",
+            "Gave"
+        ],
+        "created_at": "2026-07-05T19:44:44.859456+00:00"
+    },
+    {
+        "id": 49535,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the direct object in the given sentence?\n\nAlia sold me her mobile.",
+        "op": [
+            "Alia",
+            "me",
+            "mobile",
+            "her"
+        ],
+        "created_at": "2026-07-05T19:44:55.308504+00:00"
+    },
+    {
+        "id": 49541,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the determiner in the given sentence?\nWould you like to have another glass of juice?",
+        "op": [
+            "of",
+            "to",
+            "another",
+            "have"
+        ],
+        "created_at": "2026-07-05T19:45:04.372209+00:00"
+    },
+    {
+        "id": 49546,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a complementizer phrase?",
+        "op": [
+            "If she will come",
+            "She will come",
+            "I wonder",
+            "I heard"
+        ],
+        "created_at": "2026-07-05T19:45:17.848217+00:00"
+    },
+    {
+        "id": 49553,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following phrases best defines the enclosed phrase?\n'Ali' has broken the glass.",
+        "op": [
+            "Noun phrase",
+            "Prepositional phrase",
+            "Adjective phrase",
+            "Adverb Phrase"
+        ],
+        "created_at": "2026-07-05T19:45:34.881517+00:00"
+    },
+    {
+        "id": 49559,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following phrases best defines the enclosed phrase?\nThe manager accepted the challenge 'very nicely'.",
+        "op": [
+            "Adverb Phrase",
+            "Noun phrase",
+            "Adjective phrase",
+            "Prepositional phrase"
+        ],
+        "created_at": "2026-07-05T19:45:42.548569+00:00"
+    },
+    {
+        "id": 49563,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following phrases best defines the enclosed phrase?\nThe Sun sets 'in the West'.",
+        "op": [
+            "Prepositional phrase",
+            "Noun phrase",
+            "Adjective phrase",
+            "Adverb Phrase"
+        ],
+        "created_at": "2026-07-05T19:45:50.409733+00:00"
+    },
+    {
+        "id": 50095,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "How many determiners are there in the given sentence?\nA woman was lifted to safety by a helicopter.",
+        "op": [
+            "1",
+            "2",
+            "3",
+            "None"
+        ],
+        "created_at": "2026-07-05T20:19:33.254876+00:00"
+    },
+    {
+        "id": 50106,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following types of movement has been applied in the given example?\nI will join the session.\nWill I join the session?",
+        "op": [
+            "Null movement",
+            "V-to-T movement",
+            "C-to-T movement",
+            "T-to-C movement"
+        ],
+        "created_at": "2026-07-05T20:21:22.687277+00:00"
+    },
+    {
+        "id": 50121,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a monotransitive verb?",
+        "op": [
+            "Eat",
+            "Give",
+            "Snore",
+            "Laugh"
+        ],
+        "created_at": "2026-07-05T20:23:19.491275+00:00"
+    },
+    {
+        "id": 50125,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is a ditransitive verb?",
+        "op": [
+            "Snore",
+            "Smile",
+            "Laugh",
+            "Gave"
+        ],
+        "created_at": "2026-07-05T20:23:41.33859+00:00"
+    },
+    {
+        "id": 50128,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the direct object in the given sentence?\nGrandfather left Ali and Usman all his money.",
+        "op": [
+            "Grandfather",
+            "Ali",
+            "Money",
+            "Usman"
+        ],
+        "created_at": "2026-07-05T20:24:03.071366+00:00"
+    },
+    {
+        "id": 50180,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following types of movement has been applied in the given example?\nI will complete my task.\nWill I complete my task?",
+        "op": [
+            "T-to-C movement",
+            "V-to-T movement",
+            "C-to-T movement",
+            "Null movement"
+        ],
+        "created_at": "2026-07-05T20:32:46.243153+00:00"
+    },
+    {
+        "id": 50184,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the indirect object in the given sentence?\nAlia sold me her mobile.",
+        "op": [
+            "me",
+            "mobile",
+            "her",
+            "Alia"
+        ],
+        "created_at": "2026-07-05T20:32:57.962552+00:00"
+    },
+    {
+        "id": 50191,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the complementizer in the given sentence?\nI heard that those children want a puppy.",
+        "op": [
+            "that",
+            "I",
+            "a",
+            "those"
+        ],
+        "created_at": "2026-07-05T20:33:30.742537+00:00"
+    },
+    {
+        "id": 50200,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following words is a complementizer?",
+        "op": [
+            "Whether",
+            "That",
+            "All the given options",
+            "If"
+        ],
+        "created_at": "2026-07-05T20:34:27.673559+00:00"
+    },
+    {
+        "id": 50662,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following types of movement has been applied in the given example?\n\nYou will attend the party.\nWill you attend the party?",
+        "op": [
+            "T-to-C movement",
+            "C-to-T movement",
+            "Null movement",
+            "V-to-T movement"
+        ],
+        "created_at": "2026-07-05T22:14:44.316992+00:00"
+    },
+    {
+        "id": 51721,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is the determiner in the given sentence?\nThis book is very interesting.",
+        "op": [
+            "Is",
+            "This",
+            "Very",
+            "Book"
+        ],
+        "created_at": "2026-07-06T02:17:35.244649+00:00"
+    },
+    {
+        "id": 51837,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 July 2026",
+        "qt": "Which of the following phrases best defines the enclosed phrase?\nShe is the 'most ambitious' student in the first year.",
+        "op": [
+            "Noun phrase",
+            "Adjective phrase",
+            "Adverb Phrase",
+            "Prepositional phrase"
+        ],
+        "created_at": "2026-07-06T02:38:26.861914+00:00"
+    },
+    {
+        "id": 67103,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is an independent clause?",
+        "op": [
+            "Although he worked hard.",
+            "Which book I want to read next.",
+            "Every night before I go to bed.",
+            "I eat mangoes."
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67108,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "To what level does the tree diagram provide the analysis of a sentence?",
+        "op": [
+            "Phrase",
+            "Clause",
+            "Word",
+            "Sentence"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67111,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "The sentences of a text follow each other in some -------- order.",
+        "op": [
+            "random",
+            "logical",
+            "illogical",
+            "haphazard"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67114,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is the common property of syntax of all languages?",
+        "op": [
+            "Universality",
+            "Generality",
+            "All the given options",
+            "Creativity"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67118,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is an adverbial phrase in the given sentence?\nStudents can attempt this assignment quite easily.",
+        "op": [
+            "easily",
+            "quite easily",
+            "students can",
+            "can attempt"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67121,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is the complementizer in the sentence ‘I doubt if you can help me.’?",
+        "op": [
+            "I",
+            "Can",
+            "If",
+            "Me"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67124,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a two-morpheme word?",
+        "op": [
+            "Smelled",
+            "Snake",
+            "Bag",
+            "Run"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67125,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "In linguistics, ----------- is the set of rules, principles, and processes that govern the structure of sentences in a given language.",
+        "op": [
+            "semantics",
+            "pragmatics",
+            "phonetics",
+            "syntax"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67128,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is the predicate in the given sentence?\nThe Earth revolves around the Sun.",
+        "op": [
+            "around the Sun",
+            "The Earth",
+            "the Sun",
+            "revolves around the Sun"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67131,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is the predicate in the given sentence?\nStudents of literature understand the realities of life.",
+        "op": [
+            "students of literature understand",
+            "of literature understand the realities of life",
+            "understand the realities of life",
+            "students of literature"
+        ],
+        "created_at": "2026-07-15T13:27:27.326546+00:00"
+    },
+    {
+        "id": 67308,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Grammatical knowledge of how to form and interpret expressions in the native language is ------------------.",
+        "op": [
+            "intentional",
+            "subconscious",
+            "explicit",
+            "conscious"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67311,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "In Syntax, the ------------- is regarded as the largest or highest unit on the hierarchical scale of constituents.",
+        "op": [
+            "clause",
+            "phrase",
+            "word",
+            "sentence"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67313,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "What does the term ‘IC’ analysis stand for?",
+        "op": [
+            "Internal Consonant",
+            "Internal Constituent",
+            "Immediate Consonant",
+            "Immediate Constituent"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67316,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a direct object in the given sentence?\nI threw a ball to the catcher.",
+        "op": [
+            "None of the given options",
+            "a ball",
+            "I",
+            "the catcher"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67317,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a complementizer?",
+        "op": [
+            "That",
+            "All the given options",
+            "If",
+            "For"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67363,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Generally, English has a/an --------------- word order in a sentence.",
+        "op": [
+            "unstable",
+            "changeable",
+            "flexible",
+            "inflexible"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67364,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Children generally produce their first recognizable word (e.g. Mama or Dada) by around the age of --------- months.",
+        "op": [
+            "6",
+            "18",
+            "24",
+            "12"
+        ],
+        "created_at": "2026-07-15T13:27:28.143271+00:00"
+    },
+    {
+        "id": 67427,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a prepositional phrase in the given sentence?\nOur planets revolve around the sun.",
+        "op": [
+            "around the sun",
+            "our planets",
+            "around",
+            "the sun"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67429,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following belongs to functional category of words?",
+        "op": [
+            "Adjective",
+            "Noun",
+            "Determiner",
+            "Verb"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67430,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is an indirect object in the given sentence?\nI threw a ball to the catcher.",
+        "op": [
+            "None of the given options",
+            "the catcher",
+            "I",
+            "a ball"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67440,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following belongs to lexical/ substantive categories of words?",
+        "op": [
+            "Adjective",
+            "Noun",
+            "All the given options",
+            "Verb"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67444,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Children can acquire native like syntactic competence till the age of ------------.",
+        "op": [
+            "22 or 23",
+            "19 or 20",
+            "14 or 15",
+            "9 or 10"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67456,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a one-morpheme word?",
+        "op": [
+            "Recognizable",
+            "Killed",
+            "Dogs",
+            "Cat"
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 67481,
+        "cc": "ENG509",
+        "qn": "03",
+        "dt": "01 January 2026",
+        "qt": "Which of the following is a dependent clause?",
+        "op": [
+            "Which book I want to read next.",
+            "I eat mangoes.",
+            "Our planets revolve around the sun.",
+            "We can hardly wait to see the movie."
+        ],
+        "created_at": "2026-07-15T13:27:29.016243+00:00"
+    },
+    {
+        "id": 69945,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "A ------------- language is a language whose grammar permits an independent clause to lack an explicit subject.",
+        "op": [
+            "non-standard",
+            "standard",
+            "subject",
+            "null-subject"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69946,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "A ----------- is a word used to introduce a complement clause including subordinate conjunctions, relative pronouns, and relative adverbs.",
+        "op": [
+            "verb",
+            "pronoun",
+            "complementizer",
+            "noun"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69947,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is an auxiliary verb?",
+        "op": [
+            "Go",
+            "Be",
+            "Run",
+            "Eat"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69974,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is an action verb?",
+        "op": [
+            "All the given options",
+            "Play",
+            "Eat",
+            "Run"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70054,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "Which of the following words is a complementizer?If",
+        "op": [
+            "Cut",
+            "Read",
+            "If",
+            "Permit"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70055,
+        "cc": "ENG509",
+        "qn": "4",
+        "dt": "06 January 2026",
+        "qt": "A --------------- is a word used to introduce a complement clause including subordinate conjunctions, relative pronouns, and relative adverbs.",
+        "op": [
+            "pronoun",
+            "verb",
+            "noun",
+            "complementizer"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    }
+]

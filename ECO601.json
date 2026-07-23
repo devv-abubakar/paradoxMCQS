@@ -1,0 +1,548 @@
+[
+    {
+        "id": 33080,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following commands is not correct one for making a graph in Stata?",
+        "op": [
+            "None of the given options",
+            "histogram rep78, discrete kdensity",
+            "twoway (scatter price length), by(foreign)",
+            "graph pie, over(rep78)"
+        ],
+        "created_at": "2026-07-01T01:08:04.275654+00:00"
+    },
+    {
+        "id": 33082,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose you are interested to get information about mean, standard deviation, minimum and maximum values of prices of automobiles data stored in Stata.  Which command would you use to get desired information?",
+        "op": [
+            "describe",
+            "list",
+            "summarize",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T01:08:12.729987+00:00"
+    },
+    {
+        "id": 33084,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following commands in Stata start with small alphabets?",
+        "op": [
+            "All of the given options",
+            "The generate command",
+            "The replace command",
+            "The list command"
+        ],
+        "created_at": "2026-07-01T01:08:20.895225+00:00"
+    },
+    {
+        "id": 33085,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose you want to use automobiles data file stored in memory of Stata. Which of the following is most appropriate command?",
+        "op": [
+            "Sysuse Auto",
+            "sysuse auto",
+            "Sysuse Dir",
+            "sysuse dir"
+        ],
+        "created_at": "2026-07-01T01:08:29.979505+00:00"
+    },
+    {
+        "id": 33087,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which command you type to get summary statistics of price and length of automobiles data stored in memory of Stata?",
+        "op": [
+            "des price length",
+            "None of the given options",
+            "sum price length",
+            "list price length"
+        ],
+        "created_at": "2026-07-01T01:08:38.976138+00:00"
+    },
+    {
+        "id": 33088,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose we have 10 years data on price in stata and we want to create a new variable lnprice. What command would we type to generate this new variable?",
+        "op": [
+            "gen lnprice =  (ln*(price))",
+            "gen lnprice =  ln(price)",
+            "All of the given options",
+            "gen lnprice =  ln*(price)"
+        ],
+        "created_at": "2026-07-01T01:08:47.117884+00:00"
+    },
+    {
+        "id": 33090,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Missing value in Stata is represented by:",
+        "op": [
+            "Space",
+            "Both dot and space",
+            "Dot",
+            "Line"
+        ],
+        "created_at": "2026-07-01T01:08:54.314856+00:00"
+    },
+    {
+        "id": 33091,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following will be output of  \"tabulate\" command in Stata?",
+        "op": [
+            "All of the given options",
+            "Number of observations, mean, minimum and maximum values",
+            "Frequency , cumulative frequency and percentage",
+            "Number of observations, mean and standard deviation"
+        ],
+        "created_at": "2026-07-01T01:09:07.018108+00:00"
+    },
+    {
+        "id": 33094,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Variables names in Stata can start from:",
+        "op": [
+            "Alphabets",
+            "Both alphabets and characters",
+            "Characters",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-01T01:09:18.664348+00:00"
+    },
+    {
+        "id": 33331,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose you need summary statistics (mean, standard deviation, minimum and maximum values) of price and length data of automobiles stored in memory of Stata. Which of the following is most appropriate command?",
+        "op": [
+            "tabstat price length. stats(mean sd min max)",
+            "Tabstat price length, Stats(mean sd min max)",
+            "Tabstat price length. Stats(mean sd min max)",
+            "tabstat price length, stats(mean sd min max)"
+        ],
+        "created_at": "2026-07-01T01:52:43.94357+00:00"
+    },
+    {
+        "id": 33332,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "A shortcut for a specific command is represented by:",
+        "op": [
+            "Underlined part in the syntax",
+            "Syntax",
+            "Capital letters",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-01T01:52:59.396421+00:00"
+    },
+    {
+        "id": 33334,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following commands would you use to empty variable window?",
+        "op": [
+            "sysuse auto",
+            "clear",
+            "list",
+            "replace"
+        ],
+        "created_at": "2026-07-01T01:53:26.144108+00:00"
+    },
+    {
+        "id": 33337,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is an icon of graphic user interface of Stata?",
+        "op": [
+            "Data",
+            "User",
+            "Statistics",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T01:53:42.773852+00:00"
+    },
+    {
+        "id": 33343,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following windows in stata is used to view the commands executed to perform certain operation?",
+        "op": [
+            "Review window",
+            "Properties window",
+            "Variables window",
+            "Command window"
+        ],
+        "created_at": "2026-07-01T01:54:15.176203+00:00"
+    },
+    {
+        "id": 33344,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which command you type to get frequency tables of price and length of automobiles data stored in memory of Stata?",
+        "op": [
+            "tab1 price length",
+            "Tab1 price.length",
+            "tab1 price.length",
+            "Tab1 price length"
+        ],
+        "created_at": "2026-07-01T01:54:22.843641+00:00"
+    },
+    {
+        "id": 33717,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose there are two variables, exports and imports in your data file.You want to introduce a third variable openness which is sum of exports and imports. Which of the following best describes it?",
+        "op": [
+            "Gen Openness = Exports + Imports",
+            "gen openness = exports + imports",
+            "gen lnopenness = exports + imports",
+            "gen openness = ln(exports) + ln(imports)"
+        ],
+        "created_at": "2026-07-01T03:09:29.742573+00:00"
+    },
+    {
+        "id": 33719,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "All of the following can be names of variables in Stata Except:",
+        "op": [
+            "gdp_domestic",
+            "2009gdp",
+            "gdp2013",
+            "gdp"
+        ],
+        "created_at": "2026-07-01T03:09:47.22777+00:00"
+    },
+    {
+        "id": 33723,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose you want to see all data files stored in memory of Stata. Which of the following is most appropriate command?",
+        "op": [
+            "sysuse dir",
+            "Sysuse.Auto",
+            "sysuse auto",
+            "Sysuse.Dir"
+        ],
+        "created_at": "2026-07-01T03:11:03.633039+00:00"
+    },
+    {
+        "id": 33724,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is not example of  twoway graphs?",
+        "op": [
+            "Histogram",
+            "Pie graph",
+            "Histogram and Pie graph",
+            "All of the given options"
+        ],
+        "created_at": "2026-07-01T03:11:15.048548+00:00"
+    },
+    {
+        "id": 33776,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "All Stata commands are written in:",
+        "op": [
+            "Capital Alphabets",
+            "Both small and capital Alphabets",
+            "Small Alphabets",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-01T03:21:54.919179+00:00"
+    },
+    {
+        "id": 33783,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is not correct for making a rang plot in Stata?",
+        "op": [
+            "rspike: range plot with spikes",
+            "rcap: range plot with capped spikes",
+            "None of the given options",
+            "rarea: with area shading"
+        ],
+        "created_at": "2026-07-01T03:22:51.152783+00:00"
+    },
+    {
+        "id": 33848,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Suppose you are interested to use option ‘simple’ in describe command on price of automobiles data stored in Stata.  Which command would you use to perform this task?",
+        "op": [
+            "describe price,simple",
+            "describe price.simple",
+            "Describe price.simple",
+            "Describe price,simple"
+        ],
+        "created_at": "2026-07-01T03:33:52.381766+00:00"
+    },
+    {
+        "id": 33862,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following commands in Stata will provide information about variables names, their labels and storage type?",
+        "op": [
+            "list command",
+            "sysuse auto command",
+            "None of the given options",
+            "describe command"
+        ],
+        "created_at": "2026-07-01T03:35:13.736237+00:00"
+    },
+    {
+        "id": 34988,
+        "cc": "ECO601",
+        "qn": "02",
+        "dt": "01 July 2026",
+        "qt": "Which of the following windows of Stata contains information about its lincense and version?",
+        "op": [
+            "Review Window",
+            "Command window",
+            "Variables Window",
+            "Output window"
+        ],
+        "created_at": "2026-07-01T06:25:49.164267+00:00"
+    },
+    {
+        "id": 71225,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "\"estat hottest\" command  in Stata  is used :",
+        "op": [
+            "to check accuracy of model or model specification.",
+            "to detect normality of  variable.",
+            "to detect outlier.",
+            "to detect Heteroskedasticity."
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71226,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Identify valid option to perform regression in Stata to get standardized coefficient.",
+        "op": [
+            "depname",
+            "None of the given options",
+            "beta",
+            "noconst"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71227,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "In any model, where an equation expresses endogenous variables as functions only of exogenous variables and disturbances is called:",
+        "op": [
+            "Reduced form equation",
+            "Superfluous equation",
+            "Exactly identified equation",
+            "Over identified equation"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71228,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "\"ovtest\" command  in Stata is used :",
+        "op": [
+            "to detect Heteroskedasticity.",
+            "to detect outlier.",
+            "to check accuracy of model or model specification.",
+            "to detect autocorrelation."
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71254,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Identify valid command for an option of regression used in in Stata:",
+        "op": [
+            "depname",
+            "All of the given options",
+            "noconst",
+            "beta"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71255,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "For Ordinary Least Square (OLS), right hand side variables must be:",
+        "op": [
+            "Endogenous variables",
+            "Independent variables",
+            "All of the given options",
+            "Dependent variables"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71256,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which one of the following commands is used to get normally distributed variables and helpful in transformation of variables?",
+        "op": [
+            "gladder",
+            "ladder and gladder",
+            "ladder",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71257,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following is not correct for  identification criteria?",
+        "op": [
+            "Exactly identified",
+            "same identified",
+            "Over identified",
+            "Unidentified or Under-identified"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71258,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Identify invalid command for an option of regression used in Stata:",
+        "op": [
+            "beta",
+            "depname",
+            "noconst",
+            "None of the given options"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    },
+    {
+        "id": 71379,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "If we have three equations then we must have ----endogenous variable/ variables for simultaneous models?",
+        "op": [
+            "Two",
+            "One",
+            "Four",
+            "Three"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71380,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "\"estat imtest\" command in Stata is used :",
+        "op": [
+            "To deter autocorrelation.",
+            "To detect normally of v variable.",
+            "To detect Heteroskedasticity.",
+            "To detect outlier."
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71381,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "Which of the following options is correct one to remove heterskedasticy in the dataset?",
+        "op": [
+            "\"depname\" command in Stata",
+            "\"noconst\" command in Stata",
+            "\"robust \" command in Stata",
+            "\"beta\" command in Stata"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71382,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "\"linktest\" command in Stata  is used :",
+        "op": [
+            "To detect autocorrelation.",
+            "To detect outlier.",
+            "To check accuracy of model or model. specification",
+            "To detect Heteroskedasticity."
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71453,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "08 January 2026",
+        "qt": "For simultaneous model, right hand side variables may be:",
+        "op": [
+            "Endogenous variables",
+            "Dependent variables",
+            "All of the given options",
+            "Independent variables"
+        ],
+        "created_at": "2026-07-15T13:27:58.990359+00:00"
+    },
+    {
+        "id": 71573,
+        "cc": "ECO601",
+        "qn": "03",
+        "dt": "09 January 2026",
+        "qt": "\"vif\" command  in Stata is used  :",
+        "op": [
+            "To detect Multicollinearity.",
+            "To detect Heteroskedasticity.",
+            "To detect outlier.",
+            "To detect normality of  variable."
+        ],
+        "created_at": "2026-07-15T13:28:00.027621+00:00"
+    }
+]

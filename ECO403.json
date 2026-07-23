@@ -1,0 +1,1892 @@
+[
+{
+    "id": 16547,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "A decrease in tax that results from expansionary -------------policy causes interest rate to -------",
+    "op": [
+        "Monetary; fall.",
+        "Monetary; rise.",
+        "Fiscal; fall",
+        "Fiscal; rise."
+    ],
+    "created_at": "2026-06-22T19:05:39.153213+00:00"
+},
+{
+    "id": 16553,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow growth model with technological growth rate, L × E shows the number of effective--------",
+    "op": [
+        "Workers.",
+        "Output per worker.",
+        "Capital per worker.",
+        "Saving per worker."
+    ],
+    "created_at": "2026-06-22T19:06:04.914411+00:00"
+},
+{
+    "id": 16560,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow growth model with technological growth rate,y = Y/ (L×E) shows-----------per effective worker.",
+    "op": [
+        "Output",
+        "Technology",
+        "Capital",
+        "Labor"
+    ],
+    "created_at": "2026-06-22T19:06:21.928299+00:00"
+},
+{
+    "id": 16566,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the steady state ----------does not change because investment equal to-----------",
+    "op": [
+        "Investment; saving.",
+        "Capital; saving.",
+        "Capital; depreciation.",
+        "Investment; consumption."
+    ],
+    "created_at": "2026-06-22T19:06:43.50869+00:00"
+},
+{
+    "id": 16571,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In Solow model,national income identity in per worker terms:",
+    "op": [
+        "Y = C + I + T",
+        "Y = C + I + S",
+        "y = c + i",
+        "Y = C + I"
+    ],
+    "created_at": "2026-06-22T19:06:56.663276+00:00"
+},
+{
+    "id": 16577,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In basic endogenous growth theory capital exhibits------------return.",
+    "op": [
+        "constant",
+        "Increasing",
+        "zero",
+        "Decreasing"
+    ],
+    "created_at": "2026-06-22T19:07:12.453004+00:00"
+},
+{
+    "id": 16583,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is also known as endogenous growth model?",
+    "op": [
+        "Best growth model",
+        "AK Model",
+        "Population growth model",
+        "Exogenous growth model"
+    ],
+    "created_at": "2026-06-22T19:07:25.188637+00:00"
+},
+{
+    "id": 16584,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Currency exchange rate which is determined by free market forces is called --------------",
+    "op": [
+        "Pegged exchange rate.",
+        "Floating exchange rate.",
+        "Exchange rate.",
+        "Fixed exchange rate."
+    ],
+    "created_at": "2026-06-22T19:07:28.978067+00:00"
+},
+{
+    "id": 16588,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The liquidity preference theory is presented by ---------",
+    "op": [
+        "Milton.",
+        "Johan Maynard Keynes.",
+        "Fisher.",
+        "Adam smith."
+    ],
+    "created_at": "2026-06-22T19:07:39.800057+00:00"
+},
+{
+    "id": 16589,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In Solow model consumption per person is equal to ----------",
+    "op": [
+        "(1-s)y.",
+        "(1+s)y.",
+        "(1*s)y.",
+        "sy."
+    ],
+    "created_at": "2026-06-22T19:07:39.943856+00:00"
+},
+{
+    "id": 16593,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If marginal propensity to consume (MPC) is 0.9, the government purchases multiplier is----------",
+    "op": [
+        "2",
+        "1.11",
+        "5",
+        "10"
+    ],
+    "created_at": "2026-06-22T19:07:55.816265+00:00"
+},
+{
+    "id": 16594,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Macro-economic disequilibrium exists when aggregate supply is -------",
+    "op": [
+        "not equal to aggregate demand.",
+        "equal to aggregate demand.",
+        "equal to aggregate investment.",
+        "not equal to aggregate investment."
+    ],
+    "created_at": "2026-06-22T19:07:56.354923+00:00"
+},
+{
+    "id": 16602,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The aggregate demand curve shows the relationship between the price level and the:",
+    "op": [
+        "Quantity of output supplied.",
+        "Income.",
+        "Quantity of output demanded.",
+        "Investment."
+    ],
+    "created_at": "2026-06-22T19:08:29.756637+00:00"
+},
+{
+    "id": 16605,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "An expansionary monetary policy shifts ------------to the---------",
+    "op": [
+        "IS curve; left.",
+        "IS curve; right.",
+        "LM curve; right.",
+        "LM curve; left."
+    ],
+    "created_at": "2026-06-22T19:08:37.972082+00:00"
+},
+{
+    "id": 16606,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow growth model with technological growth, k = K/ (L×E) shows---------------per effective worker.",
+    "op": [
+        "Labor",
+        "Capital",
+        "Output & labor",
+        "Output"
+    ],
+    "created_at": "2026-06-22T19:08:44.876081+00:00"
+},
+{
+    "id": 16608,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the IS-LM model, --------------in government purchases can shift ---------curve to the left.",
+    "op": [
+        "A decrease; IS",
+        "A decrease; LM",
+        "An increase; IS",
+        "An increase; LM"
+    ],
+    "created_at": "2026-06-22T19:08:51.751293+00:00"
+},
+{
+    "id": 16609,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Suppose the economy of China with population growth but no technological change.Which of the following will generate a higher steady state growth rate of total output?",
+    "op": [
+        "Higher birth rate.",
+        "Higher inflation rate.",
+        "Higher hoarding rate.",
+        "Higher saving rate."
+    ],
+    "created_at": "2026-06-22T19:08:58.658323+00:00"
+},
+{
+    "id": 16611,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the ------------model,capital exhibits diminishing returns. In a basic --------------- model, capital exhibits constant returns.",
+    "op": [
+        "Solow growth; Population growth",
+        "Population growth; Endogenous growth",
+        "Solow growth; endogenous growth",
+        "Endogenous growth; Solow growth"
+    ],
+    "created_at": "2026-06-22T19:09:09.002897+00:00"
+},
+{
+    "id": 16838,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is a true statement?",
+    "op": [
+        "Expansionary monetary policy shifts IS curve.",
+        "A negative IS shocks shifts IS curve to the left.",
+        "Expansionary monetary policy increases interest rate.",
+        "A negative IS shocks shifts AD curve to the right."
+    ],
+    "created_at": "2026-06-22T19:27:50.699002+00:00"
+},
+{
+    "id": 16839,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The LM curve is -----------",
+    "op": [
+        "Horizontal.",
+        "Vertical.",
+        "Positively sloped.",
+        "Negatively sloped."
+    ],
+    "created_at": "2026-06-22T19:28:05.685492+00:00"
+},
+{
+    "id": 16840,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "According to aggregate demand (AD) & aggregate supply (AS) analysis; the favorable supply shock will -------output---------inflation and increase employment.",
+    "op": [
+        "Increase; Decrease",
+        "Increase; Increase",
+        "Decrease; Decrease",
+        "Decrease; Increase"
+    ],
+    "created_at": "2026-06-22T19:28:21.271951+00:00"
+},
+{
+    "id": 16841,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In Solow model; production functions shows labor augmenting technological progress. Y is equal to:",
+    "op": [
+        "F (K+1, L + K)",
+        "F (K, L x E)",
+        "F (K+1, L+1 + E+1)",
+        "F (K, L + E)"
+    ],
+    "created_at": "2026-06-22T19:28:34.719429+00:00"
+},
+{
+    "id": 16842,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Output per worker is------------",
+    "op": [
+        "Y = y/L",
+        "y = L/Y",
+        "Y = Y/L",
+        "y = Y/L"
+    ],
+    "created_at": "2026-06-22T19:28:50.125282+00:00"
+},
+{
+    "id": 16843,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Economic growth occurs when there is a(n)----------------rate.",
+    "op": [
+        "Decrease in birth",
+        "Increase in the death",
+        "Increase in tax",
+        "Increase in the economy's productive"
+    ],
+    "created_at": "2026-06-22T19:29:00.232764+00:00"
+},
+{
+    "id": 16844,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "IS curve is --------------",
+    "op": [
+        "Horizontal.",
+        "Positively sloped.",
+        "Vertical.",
+        "Negatively sloped."
+    ],
+    "created_at": "2026-06-22T19:29:13.663045+00:00"
+},
+{
+    "id": 16845,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the short run equilibrium, if output is ------------------level, then prices will fall.",
+    "op": [
+        "At the full employment",
+        "Below the full employment",
+        "Above the unemployment",
+        "Above the natural rate of unemployment"
+    ],
+    "created_at": "2026-06-22T19:29:21.335143+00:00"
+},
+{
+    "id": 16846,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The important determinant of the steady state ratio of capital to labor is--------",
+    "op": [
+        "Foreign aid.",
+        "Output.",
+        "Saving rate.",
+        "Labor force."
+    ],
+    "created_at": "2026-06-22T19:29:32.425806+00:00"
+},
+{
+    "id": 16847,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow model with technological progress, the steady state growth rate of capital per effective worker is -----------",
+    "op": [
+        "n - g.",
+        "n + g.",
+        "One.",
+        "Zero."
+    ],
+    "created_at": "2026-06-22T19:29:41.564013+00:00"
+},
+{
+    "id": 16853,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Development is impossible without domestic--------",
+    "op": [
+        "Unemployment.",
+        "Debt.",
+        "Inflation.",
+        "Savings."
+    ],
+    "created_at": "2026-06-22T19:30:52.823224+00:00"
+},
+{
+    "id": 16856,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "IS* curve shows the negative relationship between nominal exchange rate and ----------",
+    "op": [
+        "Price level.",
+        "Output level.",
+        "Real exchange rate.",
+        "Interest rate."
+    ],
+    "created_at": "2026-06-22T19:30:58.649503+00:00"
+},
+{
+    "id": 16858,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following is production function?",
+    "op": [
+        "Y = F (K,  L) + sfk",
+        "Y = F (K,  L) + Y/L",
+        "Y = F (K/k,  L + K/L)",
+        "Y = F (K,  L)"
+    ],
+    "created_at": "2026-06-22T19:31:04.921294+00:00"
+},
+{
+    "id": 16859,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "An increase in the money supply will shift ------",
+    "op": [
+        "LM curve upward (to the left).",
+        "LM curve downward (to the right).",
+        "IS curve to the left.",
+        "IS curve to the right."
+    ],
+    "created_at": "2026-06-22T19:31:10.907931+00:00"
+},
+{
+    "id": 16862,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the solow model there is -------type of capital.",
+    "op": [
+        "Four",
+        "One",
+        "Three",
+        "Two"
+    ],
+    "created_at": "2026-06-22T19:31:16.768944+00:00"
+},
+{
+    "id": 16864,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The ---------aggregate supply curve is ----------- at the full-employment level.",
+    "op": [
+        "Short run; steeper",
+        "Long-run; vertical",
+        "Short run; convex",
+        "Long-run; horizontal"
+    ],
+    "created_at": "2026-06-22T19:31:22.325289+00:00"
+},
+{
+    "id": 16869,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If the stock of physical capital remains same but population increases then labor productivity will --------",
+    "op": [
+        "increase.",
+        "decrease.",
+        "remain same.",
+        "be zero."
+    ],
+    "created_at": "2026-06-22T19:32:02.878142+00:00"
+},
+{
+    "id": 16870,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "An expansionary monetary policy ---------",
+    "op": [
+        "Shifts the LM curve to the left.",
+        "Shifts IS curve to left.",
+        "Reduces the interest rate.",
+        "Decreases real output."
+    ],
+    "created_at": "2026-06-22T19:32:09.468794+00:00"
+},
+{
+    "id": 16898,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following is NOT the example of adverse supply shock?",
+    "op": [
+        "Flood",
+        "Discovery of reserves",
+        "Heavy rain",
+        "Earthquakes"
+    ],
+    "created_at": "2026-06-22T19:41:26.066506+00:00"
+},
+{
+    "id": 16899,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "\"Change in consumer confidence\" is an example of:",
+    "op": [
+        "Supply Shock",
+        "LM Shock",
+        "IS Shock",
+        "Production Shock"
+    ],
+    "created_at": "2026-06-22T19:41:51.826401+00:00"
+},
+{
+    "id": 16902,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The policy actions aimed to reduce the severity of --------- economic fluctuations is known as-------------",
+    "op": [
+        "Long run; Trade policy.",
+        "Long run; Monetary policy.",
+        "Short run; Fiscal policy.",
+        "Short run; Stabilization policy."
+    ],
+    "created_at": "2026-06-22T19:42:09.524399+00:00"
+},
+{
+    "id": 16903,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the IS-LM model, a decrease in money supply shifts ---------",
+    "op": [
+        "LM curve to the left.",
+        "IS curve to the right.",
+        "LM curve to the right.",
+        "IS curve to the left."
+    ],
+    "created_at": "2026-06-22T19:42:31.443779+00:00"
+},
+{
+    "id": 16904,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the solow model with technological progress, the steady state growth rate of output per worker is -----------",
+    "op": [
+        "n + g.",
+        "One.",
+        "Zero.",
+        "G."
+    ],
+    "created_at": "2026-06-22T19:42:52.756579+00:00"
+},
+{
+    "id": 16906,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "With no population growth, the steady-state level of capital per worker will increase whenever the -------------- rate -------------",
+    "op": [
+        "Saving; decreases.",
+        "Saving; increases.",
+        "Consumption; decreases.",
+        "Tax; increases."
+    ],
+    "created_at": "2026-06-22T19:43:13.594272+00:00"
+},
+{
+    "id": 16908,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the two sector endogenous growth theory, the ------------affects the steady state----------",
+    "op": [
+        "Saving rate; growth rate of income.",
+        "Fraction of labor; level of consumption.",
+        "Saving rate; level of income.",
+        "Fraction of labor; level of income."
+    ],
+    "created_at": "2026-06-22T19:43:50.951584+00:00"
+},
+{
+    "id": 16911,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "With the help of fiscal and monetary policy, policy makers can affect ----------------variables.",
+    "op": [
+        "Endogenous",
+        "One",
+        "Exogenous",
+        "Macroeconomic"
+    ],
+    "created_at": "2026-06-22T19:44:07.264109+00:00"
+},
+{
+    "id": 16913,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In IS-LM framework, an expansionary fiscal policy shifts---------curve to the -----------",
+    "op": [
+        "LM; right.",
+        "IS; left.",
+        "LM; left.",
+        "IS; right."
+    ],
+    "created_at": "2026-06-22T19:44:14.014912+00:00"
+},
+{
+    "id": 16917,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If labor productivity per week is 100 units and there are 5 employees. What is the total output?",
+    "op": [
+        "500 units",
+        "20 units",
+        "100 units",
+        "105 units"
+    ],
+    "created_at": "2026-06-22T19:44:56.393039+00:00"
+},
+{
+    "id": 16918,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If marginal propensity to consume (MPC) is 0.7, the government purchases multiplier is----------",
+    "op": [
+        "0.7/0.7.",
+        "1-0.7/-0.7.",
+        "1/0.7.",
+        "1/0.3."
+    ],
+    "created_at": "2026-06-22T19:45:03.072501+00:00"
+},
+{
+    "id": 16920,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Due to a negative demand shock, aggregate demand curve will:",
+    "op": [
+        "Shift towards left.",
+        "Become vertical.",
+        "Remain the same.",
+        "Shift towards right."
+    ],
+    "created_at": "2026-06-22T19:45:18.343142+00:00"
+},
+{
+    "id": 16985,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In macro-economics the word aggregate means--------",
+    "op": [
+        "Individual.",
+        "Particular.",
+        "One.",
+        "Totals."
+    ],
+    "created_at": "2026-06-22T20:05:33.997347+00:00"
+},
+{
+    "id": 16992,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Suppose labor force (L) = 1000 in a year and population is growing at 1% per year then change in labor force will be---------------",
+    "op": [
+        "1.",
+        "0.11.",
+        "10%.",
+        "10."
+    ],
+    "created_at": "2026-06-22T20:07:26.144652+00:00"
+},
+{
+    "id": 16993,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Investment causes the capital stock to------------ while depreciation causes capital stock to ----------------",
+    "op": [
+        "Rise; fall.",
+        "Rise; rise.",
+        "Fall; rise.",
+        "Fall; fall."
+    ],
+    "created_at": "2026-06-22T20:07:42.274428+00:00"
+},
+{
+    "id": 17016,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Nominal exchange rate is denoted by---------------",
+    "op": [
+        "P*.",
+        "E.",
+        "e.",
+        "r*."
+    ],
+    "created_at": "2026-06-22T20:18:32.028486+00:00"
+},
+{
+    "id": 17018,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If labor productivity per week is 10 units and there are 5 employees what is the total output?",
+    "op": [
+        "50",
+        "5",
+        "2",
+        "10"
+    ],
+    "created_at": "2026-06-22T20:18:46.064813+00:00"
+},
+{
+    "id": 17021,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "A graph of all combinations of income (Y) and interest rate (r) that results in goods market equilibrium is called:",
+    "op": [
+        "IS curve",
+        "LM curve",
+        "Money supply curve",
+        "Money demand curve"
+    ],
+    "created_at": "2026-06-22T20:19:23.108897+00:00"
+},
+{
+    "id": 17022,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow model with technological progress, the steady state growth rate of output per effective worker is -----------",
+    "op": [
+        "n + g.",
+        "One.",
+        "Zero.",
+        "n - g."
+    ],
+    "created_at": "2026-06-22T20:19:28.303075+00:00"
+},
+{
+    "id": 17024,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the short run equilibrium, if output is ---------------- level, then prices will rise.",
+    "op": [
+        "Above the full employment",
+        "At the natural rate of unemployment",
+        "At the full employment",
+        "Below the full employment"
+    ],
+    "created_at": "2026-06-22T20:19:39.772773+00:00"
+},
+{
+    "id": 17025,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following is correct formula of government purchases multiplier?",
+    "op": [
+        "1/ (1-MPS)",
+        "(1-MPS)  / (1-MPC)",
+        "1/ (1-MPC)",
+        "-MPC / (1-MPC)"
+    ],
+    "created_at": "2026-06-22T20:20:09.556005+00:00"
+},
+{
+    "id": 17027,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The major difficulty for underdeveloped country to measure the economic growth is:",
+    "op": [
+        "Preoccupation with other more important problems.",
+        "Lack of skilled manpower.",
+        "Lack of supply of empirical data.",
+        "All of the given options."
+    ],
+    "created_at": "2026-06-22T20:21:46.991295+00:00"
+},
+{
+    "id": 17028,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Under Mundell Fleming model a small open economy with a floating exchange rate, monetary expansion does all of the following EXCEPT:",
+    "op": [
+        "Cause net exports to rise.",
+        "Increase the equilibrium income level.",
+        "Decrease the exchange rate.",
+        "Increase the exchange rate."
+    ],
+    "created_at": "2026-06-22T20:23:18.146578+00:00"
+},
+{
+    "id": 17033,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The shape of short run aggregate supply curve (SRAS) is ---------------",
+    "op": [
+        "Convex to the origin.",
+        "Vertical.",
+        "Horizontal.",
+        "Concave to the origin."
+    ],
+    "created_at": "2026-06-22T20:26:15.30331+00:00"
+},
+{
+    "id": 17041,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is an example of fiscal policy that will increase aggregate demand?",
+    "op": [
+        "A cut in government expenditure.",
+        "A tax cut.",
+        "A cut in discount rate.",
+        "An increase in discount rate."
+    ],
+    "created_at": "2026-06-22T20:27:42.697196+00:00"
+},
+{
+    "id": 17043,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "As the marginal propensity to consume (MPC) increases the government purchases multiplier  will-----------",
+    "op": [
+        "Increase.",
+        "Decrease.",
+        "Remain constant.",
+        "Approach to zero."
+    ],
+    "created_at": "2026-06-22T20:28:05.866976+00:00"
+},
+{
+    "id": 17045,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is a correct statement?",
+    "op": [
+        "LM* curve is horizontal.",
+        "LM* curve is vertical.",
+        "LM* curve is negatively sloped.",
+        "LM* curve is positively sloped."
+    ],
+    "created_at": "2026-06-22T20:28:30.716808+00:00"
+},
+{
+    "id": 17175,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the IS-LM model, --------------in government purchases shifts ---------curve to the right.",
+    "op": [
+        "A decrease; IS",
+        "A decrease; LM",
+        "An increase; IS",
+        "An increase; LM"
+    ],
+    "created_at": "2026-06-22T21:12:08.358775+00:00"
+},
+{
+    "id": 17176,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In economics a -------- is an ----------event that affects an economy either positively or negatively.",
+    "op": [
+        "Debt; unexpected",
+        "Debt; expected",
+        "Shock; unexpected",
+        "Shock; expected"
+    ],
+    "created_at": "2026-06-22T21:14:33.772631+00:00"
+},
+{
+    "id": 17178,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the endogenous growth model, the assumption of ----------------return to capital is more plausible.",
+    "op": [
+        "increasing",
+        "constant",
+        "decreasing",
+        "zero"
+    ],
+    "created_at": "2026-06-22T21:14:54.208788+00:00"
+},
+{
+    "id": 17260,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Change in capital stock is equal to investment minus-------------",
+    "op": [
+        "Stock.",
+        "National investment.",
+        "Saving.",
+        "Depreciation."
+    ],
+    "created_at": "2026-06-22T22:51:49.823447+00:00"
+},
+{
+    "id": 17261,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The two important factors of production are--------------",
+    "op": [
+        "Labor and electricity.",
+        "Land and goods.",
+        "Machine and investment.",
+        "Labor and capital."
+    ],
+    "created_at": "2026-06-22T22:52:34.471773+00:00"
+},
+{
+    "id": 17262,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "According to the prediction of Solow model, countries with higher population growth rates will have:",
+    "op": [
+        "Lower levels of capital and income per worker in the long run.",
+        "Higher levels of capital and birth rate in the short run.",
+        "Higher levels of capital and income per worker in the long run.",
+        "Lower levels of investment and income in the short run."
+    ],
+    "created_at": "2026-06-22T23:00:18.396806+00:00"
+},
+{
+    "id": 17263,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "If the production function Y = F(K, L) has -------then---------",
+    "op": [
+        "Constant returns to scale; F(zK, zL) = zY.",
+        "Constant returns to scale; F(Y/L, zL) = zY.",
+        "Increasing returns to scale; F(zK, zL) = zY.",
+        "Decreasing returns to scale; F(zK, zL) = y."
+    ],
+    "created_at": "2026-06-22T23:01:32.864979+00:00"
+},
+{
+    "id": 17265,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the short run equilibrium, if output is -----------level, then prices will remain constant.",
+    "op": [
+        "Below the full employment",
+        "At the full employment",
+        "Above the natural rate of unemployment",
+        "Above the unemployment"
+    ],
+    "created_at": "2026-06-22T23:02:53.221496+00:00"
+},
+{
+    "id": 17266,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the Solow growth model with technological growth,Y/L =y * E shows----------per worker.",
+    "op": [
+        "Technology",
+        "Labor",
+        "Output",
+        "Capital"
+    ],
+    "created_at": "2026-06-22T23:05:16.108826+00:00"
+},
+{
+    "id": 17271,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Due to a positive demand shock, aggregate demand curve will:",
+    "op": [
+        "Shift towards right.",
+        "Become vertical.",
+        "Remain the same.",
+        "Shift towards left."
+    ],
+    "created_at": "2026-06-22T23:24:54.644567+00:00"
+},
+{
+    "id": 17272,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Due to decrease in money supply, aggregate demand curve will:",
+    "op": [
+        "Shift towards right.",
+        "Shift towards left",
+        "Remain the same.",
+        "Become vertical."
+    ],
+    "created_at": "2026-06-22T23:25:16.011386+00:00"
+},
+{
+    "id": 17273,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In Solow growth model,the slope of production function f(k*) is:",
+    "op": [
+        "Investment (I*).",
+        "Capital (K*).",
+        "Labor (L*).",
+        "Marginal product of capital (MPK)."
+    ],
+    "created_at": "2026-06-22T23:25:47.507196+00:00"
+},
+{
+    "id": 17284,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "An increase in the ---------shifts the aggregate demand (AD) curve to the ---------.",
+    "op": [
+        "Money supply; right",
+        "Tax rate; right",
+        "Price level; right",
+        "Money supply; left"
+    ],
+    "created_at": "2026-06-22T23:52:44.654685+00:00"
+},
+{
+    "id": 17387,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is NOT the policy to increase the saving rate?",
+    "op": [
+        "Replace federal income tax with a consumption tax.",
+        "Increase incentives for private saving.",
+        "Reduce the government budget deficit.",
+        "Decrease incentives for private saving."
+    ],
+    "created_at": "2026-06-23T01:30:27.22862+00:00"
+},
+{
+    "id": 17388,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "The steady state value of \"k\" that --------------is called golden rule of capital stock and is denoted by \"k*\".",
+    "op": [
+        "Minimize consumption",
+        "Maximizes consumption",
+        "Maximizes depreciation",
+        "Maximize saving"
+    ],
+    "created_at": "2026-06-23T01:34:47.642074+00:00"
+},
+{
+    "id": 17415,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is an example of LM shock?",
+    "op": [
+        "More ATM machine",
+        "Business expectations",
+        "Stock market boom",
+        "Consumer confidence"
+    ],
+    "created_at": "2026-06-23T01:51:04.128631+00:00"
+},
+{
+    "id": 17492,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is an example of adverse supply shock?",
+    "op": [
+        "Good weather",
+        "Decrease in price of capital",
+        "Flood",
+        "Decrease in price of labor"
+    ],
+    "created_at": "2026-06-23T03:19:41.711379+00:00"
+},
+{
+    "id": 17533,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Investment causes the capital stock to rise while ------------ causes capital stock to fall.",
+    "op": [
+        "Deflation",
+        "Inflation",
+        "Discount rate",
+        "Depreciation"
+    ],
+    "created_at": "2026-06-23T03:42:14.938286+00:00"
+},
+{
+    "id": 17631,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "In the IS-LM model, an increase in money supply shifts ---------",
+    "op": [
+        "LM curve to the left.",
+        "LM curve to the right.",
+        "IS curve to the left.",
+        "IS curve to the right."
+    ],
+    "created_at": "2026-06-23T04:41:53.68562+00:00"
+},
+{
+    "id": 17661,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Which one of the following is correct?",
+    "op": [
+        "Change in capital stock = Investment – Saving",
+        "Change in capital stock = (Investment – Depreciation) *100",
+        "Change in capital stock = Investment – Depreciation",
+        "Change in capital stock = Investment + Depreciation"
+    ],
+    "created_at": "2026-06-23T04:56:07.645706+00:00"
+},
+{
+    "id": 17662,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "John Maynard Keynes presented a simple theory in which the interest rate is determined by:",
+    "op": [
+        "Money supply and money demand.",
+        "Money demand and rate of interest.",
+        "Real balances and aggregate demand.",
+        "Money supply and rate of interest."
+    ],
+    "created_at": "2026-06-23T04:56:55.04702+00:00"
+},
+{
+    "id": 17695,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "23 June 2026",
+    "qt": "Suppose labor force (L) = 1000 in year one and population is growing at 1% per year then what will be the labor force in year two?",
+    "op": [
+        "10",
+        "1010",
+        "100",
+        "1110"
+    ],
+    "created_at": "2026-06-23T05:09:06.815962+00:00"
+},
+{
+    "id": 31509,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The trade-off between inflation and unemployment is called------------curve.",
+    "op": [
+        "Keynes",
+        "Phillips",
+        "Classical",
+        "Fisher"
+    ],
+    "created_at": "2026-06-30T19:27:43.200199+00:00"
+},
+{
+    "id": 31536,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Permanent debt is a type of --------- term loans.",
+    "op": [
+        "Easy",
+        "Long",
+        "Very short",
+        "Short"
+    ],
+    "created_at": "2026-06-30T19:28:49.682283+00:00"
+},
+{
+    "id": 31539,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As the price level ----------the value of --------",
+    "op": [
+        "Decrease; ATM card increases",
+        "Increases; coins increases.",
+        "Decrease; currency decreases",
+        "Increases; money falls."
+    ],
+    "created_at": "2026-06-30T19:29:02.377106+00:00"
+},
+{
+    "id": 31551,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The deviation of the -------------from the natural rate is known as cyclical unemployment.",
+    "op": [
+        "Rate of labor force",
+        "Actual rate of unemployment",
+        "Working rate",
+        "Population"
+    ],
+    "created_at": "2026-06-30T19:29:33.999662+00:00"
+},
+{
+    "id": 31557,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Country risk premium is ---------related with the ------------",
+    "op": [
+        "Negatively; consumption.",
+        "Positively; investment.",
+        "Negatively; investment.",
+        "Negatively; government purchases."
+    ],
+    "created_at": "2026-06-30T19:29:45.200156+00:00"
+},
+{
+    "id": 31566,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Prize bond is the example of:",
+    "op": [
+        "Balanced debt.",
+        "Floating debt.",
+        "Unfunded debt.",
+        "Permanent debt."
+    ],
+    "created_at": "2026-06-30T19:30:02.06459+00:00"
+},
+{
+    "id": 31652,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Market loan is the example of ----------debt.",
+    "op": [
+        "Floating",
+        "Unfunded",
+        "Floating and unfunded",
+        "Permanent"
+    ],
+    "created_at": "2026-06-30T19:33:43.194181+00:00"
+},
+{
+    "id": 31668,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Monetary policy is ---------on output under -------------exchange rate.",
+    "op": [
+        "More effective; real",
+        "Totally ineffective; floating",
+        "Totally ineffective; nominal",
+        "More effective; floating"
+    ],
+    "created_at": "2026-06-30T19:34:10.995681+00:00"
+},
+{
+    "id": 31679,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As risk premium increases, interest rate --------, money demand --------- and LM* curve shifts rightward.",
+    "op": [
+        "Decreases; decreases",
+        "Increases; decreases",
+        "Increases; Increases",
+        "Decreases; increases"
+    ],
+    "created_at": "2026-06-30T19:34:49.864681+00:00"
+},
+{
+    "id": 31716,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Trade policy is --------on output under-----------exchange rate.",
+    "op": [
+        "More effective; real",
+        "Totally ineffective; floating",
+        "More effective; floating",
+        "More effective; real"
+    ],
+    "created_at": "2026-06-30T19:35:57.072942+00:00"
+},
+{
+    "id": 31757,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "People base their expectations of future inflation on recently observed inflation is known as:",
+    "op": [
+        "Expectations.",
+        "Rational expectations.",
+        "Adaptive expectations.",
+        "Negative expectations."
+    ],
+    "created_at": "2026-06-30T19:36:46.411133+00:00"
+},
+{
+    "id": 31766,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When real exchange rate rises, exports will--------and imports will -----------",
+    "op": [
+        "Increase; Increase.",
+        "Decrease; decrease.",
+        "Decrease; increase.",
+        "Increase; decrease."
+    ],
+    "created_at": "2026-06-30T19:36:59.392269+00:00"
+},
+{
+    "id": 32237,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the reason for sticky price?",
+    "op": [
+        "Production process",
+        "Location of the firm",
+        "Taste of the consumer",
+        "Menu cost"
+    ],
+    "created_at": "2026-06-30T20:20:54.746087+00:00"
+},
+{
+    "id": 32239,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the example of floating debt?",
+    "op": [
+        "Treasury Bills .",
+        "GP Fund.",
+        "Prize Bonds.",
+        "Income tax bonds."
+    ],
+    "created_at": "2026-06-30T20:21:18.462673+00:00"
+},
+{
+    "id": 32244,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Nominal wage = target real wage multiply by------------",
+    "op": [
+        "Expected price level.",
+        "Labor.",
+        "Price.",
+        "Quantity."
+    ],
+    "created_at": "2026-06-30T20:22:09.499747+00:00"
+},
+{
+    "id": 32252,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Monetary policy is -------on output under-------------exchange rate.",
+    "op": [
+        "Totally ineffective; fixed",
+        "More effective; real",
+        "Totally ineffective; nominal",
+        "More effective; fixed"
+    ],
+    "created_at": "2026-06-30T20:24:01.389931+00:00"
+},
+{
+    "id": 32271,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When tax decreases then the disposable income (Yd) ----------and consumption---------",
+    "op": [
+        "Increases; increases",
+        "Decreases; decreases",
+        "Decreases; increases",
+        "Increases; decrease"
+    ],
+    "created_at": "2026-06-30T20:25:47.255932+00:00"
+},
+{
+    "id": 32275,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The primary result of inflation is a decline in the real value of --------",
+    "op": [
+        "Money.",
+        "Product.",
+        "Gold.",
+        "Prices."
+    ],
+    "created_at": "2026-06-30T20:26:01.285453+00:00"
+},
+{
+    "id": 32435,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The accumulation of all ------------is known as government debt.",
+    "op": [
+        "Present deficits",
+        "Past annual deficits",
+        "Past annual surplus",
+        "Annual surplus"
+    ],
+    "created_at": "2026-06-30T20:50:26.410241+00:00"
+},
+{
+    "id": 32437,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Inflation resulting from ----------- is known as demand pull inflation.",
+    "op": [
+        "Supply shocks",
+        "Supply",
+        "Demand shocks",
+        "Negative investment shock"
+    ],
+    "created_at": "2026-06-30T20:50:44.792927+00:00"
+},
+{
+    "id": 32439,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "When tax increases then disposable income (Yd) ----------and consumption---------",
+    "op": [
+        "Decreases; increases.",
+        "Increases; increases",
+        "Decreases; decreases.",
+        "Increases; decreases."
+    ],
+    "created_at": "2026-06-30T20:51:19.73357+00:00"
+},
+{
+    "id": 32441,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "In the Mundell Fleming model, LM* curve equation is----------",
+    "op": [
+        "M/P = L(r*, Y).",
+        "M/P = L +(r* + Y).",
+        "M/P = L(r* +  Y).",
+        "M/P = L(r* -  Y)."
+    ],
+    "created_at": "2026-06-30T20:52:35.607483+00:00"
+},
+{
+    "id": 32446,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following statement is true?",
+    "op": [
+        "Aggregate demand has negative slope.",
+        "IS curve is vertical.",
+        "Aggregate demand is horizontal.",
+        "Aggregate demand is vertical."
+    ],
+    "created_at": "2026-06-30T20:54:32.362778+00:00"
+},
+{
+    "id": 32600,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "GP funds is the example of --------",
+    "op": [
+        "Balanced debt.",
+        "Unfunded debt.",
+        "Permanent debt.",
+        "Floating debt."
+    ],
+    "created_at": "2026-06-30T21:50:27.031403+00:00"
+},
+{
+    "id": 32603,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "If the -------------is not changing, it means that budget is balanced.",
+    "op": [
+        "Government debt",
+        "Nominal government debt",
+        "Real government debt",
+        "Nominal government surplus"
+    ],
+    "created_at": "2026-06-30T21:51:38.791962+00:00"
+},
+{
+    "id": 32604,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Income tax bond is the example of:",
+    "op": [
+        "Permanent debt.",
+        "Floating debt.",
+        "Balanced debt.",
+        "Unfunded debt."
+    ],
+    "created_at": "2026-06-30T21:51:58.529013+00:00"
+},
+{
+    "id": 32841,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Which one of the following is the example of unfunded debt?",
+    "op": [
+        "Postal life insurance",
+        "Income tax bonds",
+        "Prize bonds",
+        "Treasury bills"
+    ],
+    "created_at": "2026-06-30T23:52:45.55342+00:00"
+},
+{
+    "id": 33098,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The sticky wage model of the aggregate supply says that when the -------- rises more than expected price, the real wage falls so employment ------",
+    "op": [
+        "Price level; falls.",
+        "Expected price level; rises.",
+        "Price level; rises.",
+        "Expected price level; falls."
+    ],
+    "created_at": "2026-07-01T01:09:59.809667+00:00"
+},
+{
+    "id": 33174,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Inflation resulting from ------is known as cost push inflation.",
+    "op": [
+        "Supply shocks",
+        "Negative investment shocks",
+        "Demand shocks",
+        "Positive shocks"
+    ],
+    "created_at": "2026-07-01T01:19:19.595767+00:00"
+},
+{
+    "id": 33177,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Fiscal policy is ---------on output under-------------exchange rate.",
+    "op": [
+        "More effective; real",
+        "Totally ineffective; nominal",
+        "Totally ineffective; fixed",
+        "More effective; fixed"
+    ],
+    "created_at": "2026-07-01T01:20:20.76739+00:00"
+},
+{
+    "id": 33304,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As risk premium increases, interest rate increase, investment --------- and IS* curve shifts---------",
+    "op": [
+        "Decrease; leftward.",
+        "Decrease; rightward.",
+        "Increase; rightward.",
+        "Increases; leftward."
+    ],
+    "created_at": "2026-07-01T01:47:25.351775+00:00"
+},
+{
+    "id": 33570,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The sticky wage model of the aggregate supply says that when the --------- less than expected price, the real wage raises so employment ------",
+    "op": [
+        "Expected price level; rises.",
+        "Expected price level; falls.",
+        "Price level; rises.",
+        "Price level; falls."
+    ],
+    "created_at": "2026-07-01T02:36:52.096903+00:00"
+},
+{
+    "id": 33663,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The inverse relationship between inflation and unemployment is known as ------------",
+    "op": [
+        "IS curve.",
+        "Demand curve.",
+        "LM curve.",
+        "Philips curve."
+    ],
+    "created_at": "2026-07-01T02:55:33.828773+00:00"
+},
+{
+    "id": 33676,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "All models of ------------predict an upward-sloping SRAS curve.",
+    "op": [
+        "Mundell-Fleming",
+        "Aggregate demand",
+        "Aggregate supply",
+        "IS-LM"
+    ],
+    "created_at": "2026-07-01T02:58:33.761441+00:00"
+},
+{
+    "id": 33700,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As risk premium increases, interest rate---------, investment --------- and IS* curve shifts leftward.",
+    "op": [
+        "Increase; Increases",
+        "Decreases; decreases",
+        "Decreases; increases",
+        "Increases; decreases"
+    ],
+    "created_at": "2026-07-01T03:05:36.317899+00:00"
+},
+{
+    "id": 33709,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "The role of--------- is very important under --------------rate.",
+    "op": [
+        "Central bank; floating exchange",
+        "Central bank; fixed exchange",
+        "Commercial bank; floating exchange",
+        "Micro finance bank; fixed exchange"
+    ],
+    "created_at": "2026-07-01T03:07:52.708354+00:00"
+},
+{
+    "id": 33937,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Trade policy is ---------on output under ------------exchange rate.",
+    "op": [
+        "Totally ineffective; fixed",
+        "More effective; fixed",
+        "Totally ineffective; nominal",
+        "More effective; real"
+    ],
+    "created_at": "2026-07-01T03:44:47.724053+00:00"
+},
+{
+    "id": 33938,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "As risk premium increases, interest rate ----------, money demand decreases and LM* curve shifts----------.",
+    "op": [
+        "Increases; rightward.",
+        "Decrease; leftward.",
+        "Increase; leftward.",
+        "Decrease; rightward."
+    ],
+    "created_at": "2026-07-01T03:45:21.186486+00:00"
+},
+{
+    "id": 34594,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "People base their expectations on all available information, including information about current & prospective future policies is known as:",
+    "op": [
+        "Expectations.",
+        "Rational expectations.",
+        "Negative expectations.",
+        "Adaptive expectations."
+    ],
+    "created_at": "2026-07-01T05:13:50.050316+00:00"
+},
+{
+    "id": 34788,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "01 July 2026",
+    "qt": "Suppose the price of product “X” increases due to increase in price of raw material. This is the example of ---------",
+    "op": [
+        "Cost push inflation.",
+        "Disinflation.",
+        "Hyperinflation.",
+        "Demand pull inflation."
+    ],
+    "created_at": "2026-07-01T05:47:41.628168+00:00"
+},
+{
+    "id": 43162,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "With no population growth, the steady-state level of capital per worker will increase whenever the -------------- rate -------------",
+    "op": [
+        "Saving; increases.",
+        "Tax; increases.",
+        "Saving; decreases.",
+        "Consumption; decreases."
+    ],
+    "created_at": "2026-06-24T17:32:35.269335+00:00"
+},
+{
+    "id": 43163,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "In the endogenous growth model, the assumption of ----------------return to capital is more plausible.",
+    "op": [
+        "increasing",
+        "zero",
+        "decreasing",
+        "constant"
+    ],
+    "created_at": "2026-06-24T17:32:49.790862+00:00"
+},
+{
+    "id": 43164,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is an example of fiscal policy that will increase aggregate demand?",
+    "op": [
+        "A cut in government expenditure.",
+        "A cut in discount rate.",
+        "An increase in discount rate.",
+        "A tax cut."
+    ],
+    "created_at": "2026-06-24T17:33:01.35415+00:00"
+},
+{
+    "id": 43165,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Which of the following is an example of LM shock?",
+    "op": [
+        "Business expectations",
+        "Stock market boom",
+        "Consumer confidence",
+        "More ATM machine"
+    ],
+    "created_at": "2026-06-24T17:33:49.901923+00:00"
+},
+{
+    "id": 43166,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "An expansionary monetary policy shifts ------------to the---------",
+    "op": [
+        "IS curve; left.",
+        "LM curve; right.",
+        "LM curve; left.",
+        "IS curve; right."
+    ],
+    "created_at": "2026-06-24T17:34:04.524171+00:00"
+},
+{
+    "id": 43167,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "\"Change in consumer confidence\" is an example of:",
+    "op": [
+        "Production Shock",
+        "Supply Shock",
+        "IS Shock",
+        "LM Shock"
+    ],
+    "created_at": "2026-06-24T17:34:16.163207+00:00"
+},
+{
+    "id": 43168,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "The major difficulty for underdeveloped country to measure the economic growth is:",
+    "op": [
+        "Lack of skilled manpower.",
+        "All of the given options.",
+        "Lack of supply of empirical data.",
+        "Preoccupation with other more important problems."
+    ],
+    "created_at": "2026-06-24T17:34:49.081548+00:00"
+},
+{
+    "id": 43169,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "In the IS-LM model, an increase in money supply shifts ---------",
+    "op": [
+        "LM curve to the left.",
+        "IS curve to the left.",
+        "LM curve to the right.",
+        "IS curve to the right."
+    ],
+    "created_at": "2026-06-24T17:35:09.231213+00:00"
+},
+{
+    "id": 43170,
+    "cc": "ECO403",
+    "qn": "02",
+    "dt": "24 June 2026",
+    "qt": "Nominal exchange rate is denoted by---------------",
+    "op": [
+        "e.",
+        "r*.",
+        "P*.",
+        "E."
+    ],
+    "created_at": "2026-06-24T17:35:26.113808+00:00"
+},
+{
+    "id": 43171,
+    "cc": "ECO403",
+    "qn": "3",
+    "dt": "02 July 2026",
+    "qt": "As risk premium increases, interest rate --------, money demand --------- and LM* curve shifts rightward.",
+    "op": [
+        "Decreases; increases",
+        "Decreases; decreases",
+        "Increases; Increases",
+        "Increases; decreases"
+    ],
+    "created_at": "2026-07-02T16:13:08.529897+00:00"
+}
+]

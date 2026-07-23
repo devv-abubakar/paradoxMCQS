@@ -1,0 +1,422 @@
+[
+    {
+        "id": 48962,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "PMS is a project managment system service which is used by product managers and top managment. How you would categorize it?",
+        "op": [
+            "Non-IT service",
+            "Primary service",
+            "Secondary service",
+            "Support service"
+        ],
+        "created_at": "2026-07-05T19:26:03.871501+00:00"
+    },
+    {
+        "id": 48977,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "More the services are ____________ , ____________ the cost it will have.",
+        "op": [
+            "Simple, More",
+            "Secure, More",
+            "Complex, Less",
+            "Complex , More"
+        ],
+        "created_at": "2026-07-05T19:26:31.580509+00:00"
+    },
+    {
+        "id": 48985,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Generally, each IT service has corresponding __________________ used by ____________________.",
+        "op": [
+            "IDE, developers",
+            "OS, administrators",
+            "License, users",
+            "Software application(s), customers"
+        ],
+        "created_at": "2026-07-05T19:26:51.927276+00:00"
+    },
+    {
+        "id": 49001,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "DHCP service is an example of service that is NOT used by __________________.",
+        "op": [
+            "Printers",
+            "Networked computers",
+            "Customers",
+            "Laptops"
+        ],
+        "created_at": "2026-07-05T19:27:15.32775+00:00"
+    },
+    {
+        "id": 49019,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Select the option that repersents the bifacial inter-related plans.",
+        "op": [
+            "Local Engineering Plan and Financial Plan",
+            "Operational Plan and Service Architecture",
+            "Operational Plan and Local Engineering Plan",
+            "Service Architecture and Local Engineering Plan"
+        ],
+        "created_at": "2026-07-05T19:27:38.318448+00:00"
+    },
+    {
+        "id": 49076,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "DB services are generally not visible to _____________.",
+        "op": [
+            "System administrators",
+            "Service users",
+            "Software developers",
+            "Software architects"
+        ],
+        "created_at": "2026-07-05T19:28:52.643305+00:00"
+    },
+    {
+        "id": 49090,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "All the components of server should be installed in single server. it ensures ______________.",
+        "op": [
+            "Service failure domain alignment",
+            "Hardware failure domain alignment",
+            "Emergency failure alignment",
+            "Location failure domain alignment"
+        ],
+        "created_at": "2026-07-05T19:29:17.210648+00:00"
+    },
+    {
+        "id": 49113,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A failed dependency causing degradation of the service falls in the category of__________________.",
+        "op": [
+            "External Dependencies",
+            "Soft Dependencies",
+            "Internal Dependencies",
+            "Gracefull Dependencies"
+        ],
+        "created_at": "2026-07-05T19:30:11.498068+00:00"
+    },
+    {
+        "id": 49125,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "HRMS falls in the cateogy of ___________.",
+        "op": [
+            "Backend service",
+            "Primary service",
+            "Foundational service",
+            "Basic service"
+        ],
+        "created_at": "2026-07-05T19:30:35.604196+00:00"
+    },
+    {
+        "id": 49171,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "During planning meeting , A team decides that they will not use the Fiber Channel based SAN. The decision is related to ___________.",
+        "op": [
+            "Local Engineering Plan",
+            "Strategic Plan",
+            "Operational Plan",
+            "Service Architecture"
+        ],
+        "created_at": "2026-07-05T19:32:01.490568+00:00"
+    },
+    {
+        "id": 49173,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "How many plans are generally part of service design?",
+        "op": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "created_at": "2026-07-05T19:32:12.597867+00:00"
+    },
+    {
+        "id": 49181,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Which of the following is not a feature of the vendor defined design?",
+        "op": [
+            "Stress proven",
+            "User Experience",
+            "Best practice",
+            "Standards compliance"
+        ],
+        "created_at": "2026-07-05T19:32:36.401641+00:00"
+    },
+    {
+        "id": 49189,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A university uses a multicast video streaming service to enable teachers to deliver lectutres. What kind of service it would be?",
+        "op": [
+            "Backend service",
+            "Basic service",
+            "Primary service",
+            "Foundational service"
+        ],
+        "created_at": "2026-07-05T19:32:56.348441+00:00"
+    },
+    {
+        "id": 49197,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Which of the given is NOT an expectation of the kick-off meeting?",
+        "op": [
+            "Consent on objectives",
+            "Primary service",
+            "Open the resolved issues",
+            "Open the unresolved issues"
+        ],
+        "created_at": "2026-07-05T19:33:11.760125+00:00"
+    },
+    {
+        "id": 49210,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "OLA and SLA both are part of ________________.",
+        "op": [
+            "Strategic Plan",
+            "Service Architecture",
+            "Operational Plan",
+            "Local Engineering Plan"
+        ],
+        "created_at": "2026-07-05T19:33:39.130608+00:00"
+    },
+    {
+        "id": 49220,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "What protocols an Email service shall support? is part of ______________.",
+        "op": [
+            "High Level Plan",
+            "Operational Plan",
+            "Product Selection",
+            "Local Engineering Plan"
+        ],
+        "created_at": "2026-07-05T19:33:59.476551+00:00"
+    },
+    {
+        "id": 49226,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "The service requirements can be classified into ________________ groups.",
+        "op": [
+            "7",
+            "6",
+            "4",
+            "3"
+        ],
+        "created_at": "2026-07-05T19:34:09.708675+00:00"
+    },
+    {
+        "id": 50960,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "Which of the given is NOT an advantage of writing the service requirements?",
+        "op": [
+            "Accountability",
+            "Transparency",
+            "Cost reduction",
+            "Buy in managment approval"
+        ],
+        "created_at": "2026-07-05T23:58:17.223099+00:00"
+    },
+    {
+        "id": 50975,
+        "cc": "IT601",
+        "qn": "04",
+        "dt": "06 July 2026",
+        "qt": "A non-monitored and logged software ___________?",
+        "op": [
+            "Can increase the cost of a service",
+            "Can not form a service",
+            "Can form a service",
+            "Can reduce the cost of service"
+        ],
+        "created_at": "2026-07-06T00:00:34.171074+00:00"
+    },
+    {
+        "id": 66097,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "Which of the given options has the least value of time-to-service metric. ",
+        "op": [
+            "Grid and Cloud",
+            "IaaS and SaaS",
+            "Appliance and SaaS",
+            "Snowflakes and Appliance"
+        ],
+        "created_at": "2026-07-15T13:27:20.691038+00:00"
+    },
+    {
+        "id": 66099,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "Pay-as-you-go is an economic model provided by ________________ approach. ",
+        "op": [
+            "Blade servers",
+            "Cloud and SaaS",
+            "Grid computing",
+            "Utility computing"
+        ],
+        "created_at": "2026-07-15T13:27:20.691038+00:00"
+    },
+    {
+        "id": 66102,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "The quickest approach to offer IT services is _______________. ",
+        "op": [
+            "SAS",
+            "SaaS",
+            "Standalone",
+            "Cloud"
+        ],
+        "created_at": "2026-07-15T13:27:20.691038+00:00"
+    },
+    {
+        "id": 66103,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "The system and network administration tasks can be minimized with _______________approach. ",
+        "op": [
+            "IaaS",
+            "SaaS",
+            "PaaS",
+            "Blade"
+        ],
+        "created_at": "2026-07-15T13:27:20.691038+00:00"
+    },
+    {
+        "id": 66307,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "Virtualized server approaches are generally ____________ efficient than grid computing. ",
+        "op": [
+            "5 to 10% more",
+            "5 to 10% less",
+            "15 to 20% less",
+            "15 to 20% more"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66308,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "Most electronic devices and tools used in households follow ______________ approach. ",
+        "op": [
+            "Snowflake",
+            "SaaS",
+            "Appliance",
+            "IaaS"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66309,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "A computing strategy based on specialized products is known as _______________. ",
+        "op": [
+            "Cloud",
+            "SaaS",
+            "Appliance",
+            "Grid"
+        ],
+        "created_at": "2026-07-15T13:27:21.52824+00:00"
+    },
+    {
+        "id": 66540,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "The most apparent disadvantage of ____________ approach is ______________. ",
+        "op": [
+            "Grid Computing, Need of 24/7 Internet",
+            "Snowflakes, Need of 24/7 Internet",
+            "Cloud Computing, Need of 24/7 Internet",
+            "Standalone, Need of 24/7 Internet"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66544,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "Which of the given approaches involves the software install/uninstall on demand for the duration of computational request completion? ",
+        "op": [
+            "Snowflakes",
+            "Cloud",
+            "Grid",
+            "Blade"
+        ],
+        "created_at": "2026-07-15T13:27:22.377564+00:00"
+    },
+    {
+        "id": 66652,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "The fungible modules are those that _____________. ",
+        "op": [
+            "Cannot be interchanged",
+            "Cannot be interchanged across multivendor systems",
+            "Can be interchanged across heterogeneous systems",
+            "Can be interchanged across homogeneous systems"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    },
+    {
+        "id": 66668,
+        "cc": "IT601",
+        "qn": "03",
+        "dt": "31 December 2025",
+        "qt": "The __________ approach can minimize the need for ______________. ",
+        "op": [
+            "Grid Computing, MDF",
+            "Blade servers, CPUs",
+            "Cloud Computing, cables and connectors",
+            "Blade servers, patch panels"
+        ],
+        "created_at": "2026-07-15T13:27:25.598291+00:00"
+    }
+]

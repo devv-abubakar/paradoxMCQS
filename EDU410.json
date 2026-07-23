@@ -1,0 +1,898 @@
+[
+    {
+        "id": 11078,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "How many triphthongs are there in English?",
+        "op": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "created_at": "2026-06-21T22:40:55.386984+00:00"
+    },
+    {
+        "id": 11082,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "What is one of the main problems learners face with collocations?",
+        "op": [
+            "Ignoring grammar rules completely",
+            "Not knowing any vocabulary at all",
+            "orgetting the meaning of individual words",
+            "Using words correctly but in the wrong context"
+        ],
+        "created_at": "2026-06-21T22:42:08.539791+00:00"
+    },
+    {
+        "id": 11086,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "“Hear and Spell” mainly improves which skill?",
+        "op": [
+            "Listening and spelling",
+            "Speaking and reading",
+            "Memorizing and copying",
+            "Writing definitions"
+        ],
+        "created_at": "2026-06-21T22:42:29.8505+00:00"
+    },
+    {
+        "id": 11087,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which activity helps students generate new words by connecting ideas around a central concept?",
+        "op": [
+            "Mind maps or brainstorming",
+            "Descriptions",
+            "Fill in the blanks",
+            "Guess what I’m thinking"
+        ],
+        "created_at": "2026-06-21T22:42:53.296653+00:00"
+    },
+    {
+        "id": 11090,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "What is the main purpose of a word wall in the classroom?",
+        "op": [
+            "To replace student notebooks",
+            "To decorate the classroom only",
+            "To display “important” words from books or thematic units",
+            "To test students’ handwriting"
+        ],
+        "created_at": "2026-06-21T22:43:19.779779+00:00"
+    },
+    {
+        "id": 11093,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "How much time should be devoted to grammar explanations for lower-level students?",
+        "op": [
+            "30 minutes",
+            "20 minutes",
+            "10 minutes",
+            "5 minutes"
+        ],
+        "created_at": "2026-06-21T22:43:43.546749+00:00"
+    },
+    {
+        "id": 11097,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following parts of speech describes a noun?",
+        "op": [
+            "Adverb",
+            "Pronoun",
+            "Conjunction",
+            "Adjective"
+        ],
+        "created_at": "2026-06-21T22:44:06.585393+00:00"
+    },
+    {
+        "id": 11100,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following has a crucial role in learning?",
+        "op": [
+            "Articulation",
+            "Practice",
+            "Idioms",
+            "Collocations"
+        ],
+        "created_at": "2026-06-21T22:44:33.878687+00:00"
+    },
+    {
+        "id": 11101,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is step 4 in learning phonics?",
+        "op": [
+            "CVC words with one vowel",
+            "CVCV words with two vowels",
+            "advance phonics diphthongs/ diagraph",
+            "words with double/triple consonant blends"
+        ],
+        "created_at": "2026-06-21T22:44:54.228426+00:00"
+    },
+    {
+        "id": 11641,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "To effectively acquire new vocabulary, students must go through how many stages?",
+        "op": [
+            "7",
+            "6",
+            "4",
+            "8"
+        ],
+        "created_at": "2026-06-22T02:09:35.285945+00:00"
+    },
+    {
+        "id": 11679,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "How many stages are involved in teaching vocabulary?",
+        "op": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "created_at": "2026-06-22T02:18:21.081221+00:00"
+    },
+    {
+        "id": 11702,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The process or activity of writing or naming the letters of a word is called:",
+        "op": [
+            "Constant",
+            "Production",
+            "Symbol",
+            "Spelling"
+        ],
+        "created_at": "2026-06-22T02:21:03.840104+00:00"
+    },
+    {
+        "id": 11711,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "A learner’s ability to use a word to recognize a word and retrieve its meaning while listening or reading is called:",
+        "op": [
+            "Productive vocabulary",
+            "Receptive Vocabulary",
+            "Morphology",
+            "Phonology"
+        ],
+        "created_at": "2026-06-22T02:23:03.598109+00:00"
+    },
+    {
+        "id": 11713,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "How should abstract words like early and late be introduced?",
+        "op": [
+            "By matching games",
+            "Through pictures only",
+            "By using synonyms, definitions, and substitutions",
+            "By songs and rhymes"
+        ],
+        "created_at": "2026-06-22T02:24:09.905683+00:00"
+    },
+    {
+        "id": 11720,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is the second stage of teaching vocabulary?",
+        "op": [
+            "Activity",
+            "Production",
+            "Introduction",
+            "Recognition"
+        ],
+        "created_at": "2026-06-22T02:26:10.500055+00:00"
+    },
+    {
+        "id": 11723,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Some time which of the following letter is included in the list of vowels?",
+        "op": [
+            "Z",
+            "Y",
+            "M",
+            "N"
+        ],
+        "created_at": "2026-06-22T02:27:08.466026+00:00"
+    },
+    {
+        "id": 11896,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is an example of a kinaesthetic activity for learning spellings?",
+        "op": [
+            "Reading word lists silently",
+            "Listening to teacher’s dictation",
+            "Tracing and gluing string to form words",
+            "Watching a spelling video"
+        ],
+        "created_at": "2026-06-22T03:11:00.223977+00:00"
+    },
+    {
+        "id": 11897,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "How many steps are there in learning the phonics?",
+        "op": [
+            "Three",
+            "Six",
+            "Five",
+            "Four"
+        ],
+        "created_at": "2026-06-22T03:11:06.844477+00:00"
+    },
+    {
+        "id": 11898,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Knowing a word means more than knowing the definition of a word is stated by:",
+        "op": [
+            "Scott and Nagy",
+            "Vladimir Nabokov",
+            "Silverman, R., & Hines",
+            "William Shakespeare"
+        ],
+        "created_at": "2026-06-22T03:11:13.373004+00:00"
+    },
+    {
+        "id": 11899,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The \"Fill in the blanks\" activity helps students by:",
+        "op": [
+            "Using context to choose the correct word",
+            "Practicing spelling only",
+            "Memorizing poems",
+            "Avoiding reading comprehension"
+        ],
+        "created_at": "2026-06-22T03:11:18.576316+00:00"
+    },
+    {
+        "id": 11900,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "The body of words used in a particular language is called:",
+        "op": [
+            "Numbers",
+            "Punctuation",
+            "Vocabulary",
+            "Symbols"
+        ],
+        "created_at": "2026-06-22T03:11:24.67185+00:00"
+    },
+    {
+        "id": 11905,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Vowel sounds are the voiced part of:",
+        "op": [
+            "Curriculum",
+            "Language",
+            "Pedagogy",
+            "Syallabus"
+        ],
+        "created_at": "2026-06-22T03:11:54.020581+00:00"
+    },
+    {
+        "id": 12041,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "In which of the following system words are put together to form proper sentences?",
+        "op": [
+            "Morphology",
+            "Phonics",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "created_at": "2026-06-22T03:28:07.40163+00:00"
+    },
+    {
+        "id": 12049,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is not a suggested practice format for teaching spellings?",
+        "op": [
+            "Oral exercises",
+            "Worksheets",
+            "Games",
+            "Ignoring homework"
+        ],
+        "created_at": "2026-06-22T03:28:40.541074+00:00"
+    },
+    {
+        "id": 12114,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Idioms and collocations are a part of:",
+        "op": [
+            "Sentence",
+            "Vocabulary",
+            "Language",
+            "Terminology"
+        ],
+        "created_at": "2026-06-22T03:33:55.800572+00:00"
+    },
+    {
+        "id": 12375,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is a vowel sound in which the tongue changes position to produce the sound of three vowels one after another?",
+        "op": [
+            "Dithong",
+            "Triphthong",
+            "Trithong",
+            "Diphthong"
+        ],
+        "created_at": "2026-06-22T04:08:51.539069+00:00"
+    },
+    {
+        "id": 12390,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following approach provides opportunities to investigate and understand the patterns in words?",
+        "op": [
+            "Direct",
+            "Word study",
+            "Spelling inventory",
+            "Audio lingual"
+        ],
+        "created_at": "2026-06-22T04:09:26.166144+00:00"
+    },
+    {
+        "id": 12403,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "A word or phrase that is often used with another word or phrase, in a way that sounds correct to people who use it is called:",
+        "op": [
+            "Vowel",
+            "Idiom",
+            "Consonant",
+            "Collocation"
+        ],
+        "created_at": "2026-06-22T04:10:24.342879+00:00"
+    },
+    {
+        "id": 12541,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which type of drill requires students to attend to meaning but allows only one correct response?",
+        "op": [
+            "Mechanical drills",
+            "Free writing",
+            "Communicative drills",
+            "Meaningful drills"
+        ],
+        "created_at": "2026-06-22T04:26:27.401022+00:00"
+    },
+    {
+        "id": 12547,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is step 3 in learning phonics?",
+        "op": [
+            "CVC word with one vowel",
+            "words with double/triple consonant blends",
+            "advance phonics diphthongs/ diagraph",
+            "CVCV words with two vowels"
+        ],
+        "created_at": "2026-06-22T04:26:56.016843+00:00"
+    },
+    {
+        "id": 12848,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which strategy helps learners apply grammar rules in communication?",
+        "op": [
+            "Reading rules silently",
+            "Memorizing definitions only",
+            "Ignoring practice",
+            "Procedural knowledge"
+        ],
+        "created_at": "2026-06-22T04:55:36.115348+00:00"
+    },
+    {
+        "id": 12870,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "Which of the following is step 5 in learning phonics?",
+        "op": [
+            "CVCV words with two vowels",
+            "CVC with one vowel",
+            "words with double/triple consonant blends",
+            "advance phonics diphthongs/ diagraph"
+        ],
+        "created_at": "2026-06-22T04:57:12.372619+00:00"
+    },
+    {
+        "id": 15184,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "22 June 2026",
+        "qt": "hen is the letter “c” usually pronounced as a hard c?",
+        "op": [
+            "Only at the end of words",
+            "Only when doubled in spelling",
+            "When followed by “i”, “e”, or “y”",
+            "When followed by consonants or vowels “a”, “o”, and “u”"
+        ],
+        "created_at": "2026-06-22T08:50:44.146041+00:00"
+    },
+    {
+        "id": 43282,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is step 4 in learning phonics?",
+        "op": [
+            "CVC words with one vowel",
+            "CVCV words with two vowels",
+            "words with double/triple consonant blends",
+            "advance phonics diphthongs/ diagraph"
+        ],
+        "created_at": "2026-06-24T16:37:18.146169+00:00"
+    },
+    {
+        "id": 43283,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following approach provides opportunities to investigate and understand the patterns in words?",
+        "op": [
+            "Word study",
+            "Audio lingual",
+            "Spelling inventory",
+            "Direct"
+        ],
+        "created_at": "2026-06-24T16:37:34.905926+00:00"
+    },
+    {
+        "id": 43284,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which strategy helps learners apply grammar rules in communication?",
+        "op": [
+            "Reading rules silently",
+            "Ignoring practice",
+            "Procedural knowledge",
+            "Memorizing definitions only"
+        ],
+        "created_at": "2026-06-24T16:37:48.362866+00:00"
+    },
+    {
+        "id": 43285,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following is step 3 in learning phonics?",
+        "op": [
+            "words with double/triple consonant blends",
+            "CVCV words with two vowels",
+            "advance phonics diphthongs/ diagraph",
+            "CVC word with one vowel"
+        ],
+        "created_at": "2026-06-24T16:38:06.814995+00:00"
+    },
+    {
+        "id": 43286,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "What is the main purpose of a word wall in the classroom?",
+        "op": [
+            "To display “important” words from books or thematic units",
+            "To replace student notebooks",
+            "To test students’ handwriting",
+            "To decorate the classroom only"
+        ],
+        "created_at": "2026-06-24T16:38:32.748311+00:00"
+    },
+    {
+        "id": 43287,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Some time which of the following letter is included in the list of vowels?",
+        "op": [
+            "N",
+            "M",
+            "Y",
+            "Z"
+        ],
+        "created_at": "2026-06-24T16:38:49.474494+00:00"
+    },
+    {
+        "id": 43288,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following parts of speech describes a noun?",
+        "op": [
+            "Pronoun",
+            "Conjunction",
+            "Adverb",
+            "Adjective"
+        ],
+        "created_at": "2026-06-24T16:39:04.694269+00:00"
+    },
+    {
+        "id": 43289,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Which of the following has a crucial role in learning?",
+        "op": [
+            "Idioms",
+            "Articulation",
+            "Collocations",
+            "Practice"
+        ],
+        "created_at": "2026-06-24T16:40:16.070541+00:00"
+    },
+    {
+        "id": 43290,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A learner’s ability to use a word to recognize a word and retrieve its meaning while listening or reading is called:",
+        "op": [
+            "Receptive Vocabulary",
+            "Productive vocabulary",
+            "Morphology",
+            "Phonology"
+        ],
+        "created_at": "2026-06-24T16:40:40.444623+00:00"
+    },
+    {
+        "id": 43291,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Idioms and collocations are a part of:",
+        "op": [
+            "Language",
+            "Vocabulary",
+            "Terminology",
+            "Sentence"
+        ],
+        "created_at": "2026-06-24T16:40:51.179021+00:00"
+    },
+    {
+        "id": 69919,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following are used to indicate modality: they allow speakers to express certainty, possibility, willingness, obligation, necessity, ability? ",
+        "op": [
+            "Punctuation",
+            "Model verbs",
+            "Pronouns",
+            "Verbs"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69920,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is a sequence of two or more words that make up a grammatical construction but lack a complete meaning? ",
+        "op": [
+            "Clause",
+            "Phrase",
+            "Sentence",
+            "Verb"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69921,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which sentence uses the present indefinite tense to express a habitual action? ",
+        "op": [
+            "He takes tea in the morning at 7 am",
+            "She will be arriving at the bus station",
+            "He is cooking lunch right now",
+            "They have been working hard all day"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69922,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is a sequence of words which begins with a capital letter and ends with a full stop? ",
+        "op": [
+            "Sentence",
+            "Verb",
+            "Article",
+            "Word"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69966,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following type of sentence makes sense on its own and usually gives one piece of information? ",
+        "op": [
+            "Simple",
+            "Complex",
+            "Interrogative",
+            "Compound"
+        ],
+        "created_at": "2026-07-15T13:27:41.009498+00:00"
+    },
+    {
+        "id": 69968,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following punctuation marks is commonly used to introduce a list, a quotation, or an explanation in a sentence? ",
+        "op": [
+            "Apostrophe",
+            "Comma",
+            "Colon",
+            "Semicolon"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 69969,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is an example of past perfect tense? ",
+        "op": [
+            "I have eaten",
+            "I will play",
+            "She had gone",
+            "I have been eating"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 69970,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "\"I am eating.\" This sentence belongs to which type of tense? ",
+        "op": [
+            "Present continuous",
+            "Simple present",
+            "Simple future",
+            "Past perfect"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 69971,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is the example of indefinite article? ",
+        "op": [
+            "To",
+            "An",
+            "The",
+            "Of"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 69972,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is a word use to modify a noun? ",
+        "op": [
+            "Verb",
+            "Article",
+            "Pronoun",
+            "Proverb"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 69973,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "\"I will have been waiting for him for one hour.\" Which tense does this example represent? ",
+        "op": [
+            "Past Perfect",
+            "Future perfect",
+            "Future Perfect Continuous",
+            "Present Perfect Continuous"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70030,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is the example of definite article? ",
+        "op": [
+            "Of",
+            "The",
+            "To",
+            "An"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70031,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following refers to marks such as full stop, comma, and brackets that are used in writing to separate ideas and clarify meaning? ",
+        "op": [
+            "Noun",
+            "Punctuation",
+            "Proverbs",
+            "Adjectives"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70032,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "What is commonly used to connect a dependent clause to an independent clause in complex sentences? ",
+        "op": [
+            "Interjections",
+            "Conjunctions",
+            "Noun",
+            "Verb"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70062,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following is a unit of grammatical organization just below the sentence in rank and traditionally consists of a subject and a predicate? ",
+        "op": [
+            "Verb",
+            "Noun",
+            "Phrase",
+            "Clause"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70149,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "A verb in which the past tense is not formed by adding the usual -ed ending is known as a: ",
+        "op": [
+            "Root verb",
+            "Regular verb",
+            "Irregular verb",
+            "Helping verb"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70151,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following one means the marks, such as full stop, comma, and brackets, used in writing to separate sentences and their elements and to clarify meaning? ",
+        "op": [
+            "Noun",
+            "Punctuation",
+            "Proverb",
+            "Adjective"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70164,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "What is the formula of Present Perfect Tense? ",
+        "op": [
+            "S+have/has+v2",
+            "S+have/has+v1",
+            "S+have/has+v3",
+            "S+will/shall+v3"
+        ],
+        "created_at": "2026-07-15T13:27:44.846492+00:00"
+    },
+    {
+        "id": 70170,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "A verb in which the past tense is formed by adding the usual -ed ending is known as a: ",
+        "op": [
+            "Irregular verb",
+            "Helping verb",
+            "Root verb",
+            "Regular verb"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70181,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following type of sentence has two clauses joined by a connective? ",
+        "op": [
+            "Complex",
+            "Interrogative",
+            "Simple",
+            "Compound"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    },
+    {
+        "id": 70182,
+        "cc": "EDU410",
+        "qn": "3",
+        "dt": "06 January 2026",
+        "qt": "Which of the following verb help the main verb in a sentence by extending the meaning of the verb? ",
+        "op": [
+            "Root",
+            "Regular",
+            "Irregular",
+            "Helping"
+        ],
+        "created_at": "2026-07-15T13:27:45.903404+00:00"
+    }
+]

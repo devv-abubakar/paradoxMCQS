@@ -1,0 +1,814 @@
+[
+{
+    "id": 24632,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which item discrimination value shows that an item is acceptable?",
+    "op": [
+        "0.17",
+        "0.26",
+        "0.48",
+        "0.35"
+    ],
+    "created_at": "2026-06-28T19:56:32.769554+00:00"
+},
+{
+    "id": 24635,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which contexts allow for the quantification or assessment of the guessing parameter?",
+    "op": [
+        "NRT",
+        "CRT",
+        "CCT",
+        "IRT"
+    ],
+    "created_at": "2026-06-28T19:56:58.558316+00:00"
+},
+{
+    "id": 24647,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A flatter item characteristics curve shows that item is __________.",
+    "op": [
+        "Poor Discriminator",
+        "Good Discriminator",
+        "Easy",
+        "Difficult"
+    ],
+    "created_at": "2026-06-28T19:58:25.945873+00:00"
+},
+{
+    "id": 24652,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How many types of rubric are?",
+    "op": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+    ],
+    "created_at": "2026-06-28T19:58:59.745157+00:00"
+},
+{
+    "id": 24663,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following statements is true regarding educators' assessment of each student's performance on a wide variety of work?",
+    "op": [
+        "Test Scoring",
+        "Test",
+        "Marking",
+        "Rubric"
+    ],
+    "created_at": "2026-06-28T20:00:01.033271+00:00"
+},
+{
+    "id": 24665,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Guessing is eliminated in:",
+    "op": [
+        "Multiple choice items",
+        "Completion items",
+        "Essay type items",
+        "Fill in the blanks"
+    ],
+    "created_at": "2026-06-28T20:00:19.834533+00:00"
+},
+{
+    "id": 25178,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is best to measure higher order learning skills?",
+    "op": [
+        "Objective test items",
+        "Matching items",
+        "Completion items",
+        "Subjective items"
+    ],
+    "created_at": "2026-06-28T21:51:18.10078+00:00"
+},
+{
+    "id": 25181,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the value of item difficulty for most difficult test item.",
+    "op": [
+        "0.5",
+        "0.3",
+        "0.7",
+        "1.0"
+    ],
+    "created_at": "2026-06-28T21:51:41.684978+00:00"
+},
+{
+    "id": 25183,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Extended response items are helpful to determine:",
+    "op": [
+        "Length and complexity of response",
+        "Basic level of knowledge",
+        "Association between concepts",
+        "One to two word response"
+    ],
+    "created_at": "2026-06-28T21:52:07.150263+00:00"
+},
+{
+    "id": 25187,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is a recommended suggestion when constructing matching exercises?",
+    "op": [
+        "Use different pages for premises and responses",
+        "Clearly state the basis for matching in the directions",
+        "Randomly place items across the test",
+        "Include unrelated items for variety"
+    ],
+    "created_at": "2026-06-28T21:52:52.793162+00:00"
+},
+{
+    "id": 25190,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "True-false items are also known as:",
+    "op": [
+        "Matching items",
+        "Alternative form items",
+        "Optional items",
+        "Extended form items"
+    ],
+    "created_at": "2026-06-28T21:53:16.966093+00:00"
+},
+{
+    "id": 25194,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "A steeper item characteristics curve shows that item is __________.",
+    "op": [
+        "Bad Discriminator",
+        "Difficulty",
+        "Good Discriminator",
+        "Easy"
+    ],
+    "created_at": "2026-06-28T21:53:46.353954+00:00"
+},
+{
+    "id": 25199,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which value represents the item difficulty for the easiest test item?",
+    "op": [
+        "0.9",
+        "0.5",
+        "0.6",
+        "0.3"
+    ],
+    "created_at": "2026-06-28T21:54:11.486687+00:00"
+},
+{
+    "id": 25200,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What type of question is an alternative response item?",
+    "op": [
+        "Fill in the blank",
+        "Short answer",
+        "Multiple choice",
+        "True or false"
+    ],
+    "created_at": "2026-06-28T21:54:33.323126+00:00"
+},
+{
+    "id": 25201,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When you are ready to package and reproduce the test _________.",
+    "op": [
+        "Objectives and test blue print",
+        "None of the above",
+        "Aim and goals of the test",
+        "Syllabus for the test"
+    ],
+    "created_at": "2026-06-28T21:55:09.013597+00:00"
+},
+{
+    "id": 25203,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which term describes the scoring method where patterns of students' errors and misconceptions help develop a scoring rubric for uniform application to extended response items?",
+    "op": [
+        "Analytic scoring",
+        "Partial credit scoring",
+        "Complete credit scoring",
+        "Holistic scoring"
+    ],
+    "created_at": "2026-06-28T21:55:27.286247+00:00"
+},
+{
+    "id": 25635,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following are supply type items?",
+    "op": [
+        "Fill in the blanks",
+        "True false items",
+        "Matching columns",
+        "Multiple choice items"
+    ],
+    "created_at": "2026-06-29T02:25:30.642142+00:00"
+},
+{
+    "id": 25639,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following option includes in reproducing the test?",
+    "op": [
+        "Checking the answer key",
+        "Keeping items and options on the same page",
+        "Test items from easy to hard",
+        "Knowing the photocopying machine"
+    ],
+    "created_at": "2026-06-29T02:26:09.756489+00:00"
+},
+{
+    "id": 25641,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is included in supply type test items?",
+    "op": [
+        "True / False",
+        "Fill in the blanks",
+        "Matching",
+        "M.C.Q"
+    ],
+    "created_at": "2026-06-29T02:26:25.217257+00:00"
+},
+{
+    "id": 25649,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following theory focuses on to find the item characteristics as a function of ability?",
+    "op": [
+        "Item response",
+        "Psychometric",
+        "Generalizability",
+        "Classical test"
+    ],
+    "created_at": "2026-06-29T02:27:23.793998+00:00"
+},
+{
+    "id": 25651,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which term refers to the question part in a multiple-choice question?",
+    "op": [
+        "Distractor",
+        "Response",
+        "Stem",
+        "Foil"
+    ],
+    "created_at": "2026-06-29T02:27:41.810756+00:00"
+},
+{
+    "id": 25652,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Under Item Response Theory, the difficulty of an item describes where the item functions along the ________.",
+    "op": [
+        "intelligence scale",
+        "ability scale",
+        "likert scale",
+        "thurston scale"
+    ],
+    "created_at": "2026-06-29T02:27:56.617431+00:00"
+},
+{
+    "id": 25998,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the poor item from given values of item discrimination.",
+    "op": [
+        "0.22",
+        "0.36",
+        "0.15",
+        "0.49"
+    ],
+    "created_at": "2026-06-29T03:50:38.163638+00:00"
+},
+{
+    "id": 26000,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the value of item difficulty for easiest test item.",
+    "op": [
+        "0.1",
+        "0.7",
+        "0.4",
+        "0.9"
+    ],
+    "created_at": "2026-06-29T03:51:00.718776+00:00"
+},
+{
+    "id": 26001,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "When the test is ready, the next step is to __________ it",
+    "op": [
+        "Prepare",
+        "Scoring",
+        "Administer",
+        "Assembling"
+    ],
+    "created_at": "2026-06-29T03:51:13.569797+00:00"
+},
+{
+    "id": 26003,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What type of test is highly favored by classroom teachers?",
+    "op": [
+        "Completion test",
+        "Multiple choices test",
+        "Matching list",
+        "True false test"
+    ],
+    "created_at": "2026-06-29T03:52:00.198279+00:00"
+},
+{
+    "id": 26007,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How many columns do matching items have?",
+    "op": [
+        "One",
+        "Two",
+        "Four",
+        "Three"
+    ],
+    "created_at": "2026-06-29T03:54:05.224499+00:00"
+},
+{
+    "id": 26009,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "There are two widely perceived theories in psychosocial measurement, classical test theory (CTT) and:",
+    "op": [
+        "Behaviorism",
+        "Item response theory",
+        "Cognitivism",
+        "Psychometric theory"
+    ],
+    "created_at": "2026-06-29T03:54:14.428053+00:00"
+},
+{
+    "id": 26011,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Scoring is a time consuming process in marking of:",
+    "op": [
+        "Essay type answers",
+        "Matching columns",
+        "Multiple choice items",
+        "Fill in the blanks"
+    ],
+    "created_at": "2026-06-29T03:55:06.915858+00:00"
+},
+{
+    "id": 26012,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How many types of objective type items?",
+    "op": [
+        "4",
+        "2",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-06-29T03:55:17.040444+00:00"
+},
+{
+    "id": 26046,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the acceptable item from given values of item discrimination.",
+    "op": [
+        "0.50",
+        "0.11",
+        "0.38",
+        "0.29"
+    ],
+    "created_at": "2026-06-29T04:08:07.897629+00:00"
+},
+{
+    "id": 26052,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the major limitation of matching exercises?",
+    "op": [
+        "Difficult to score",
+        "Limited to measure factual information",
+        "Cannot include more than five items",
+        "Require long response times"
+    ],
+    "created_at": "2026-06-29T04:09:04.430358+00:00"
+},
+{
+    "id": 26054,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which objective is served by evaluating the values of item discrimination to identify a suitable test item?",
+    "op": [
+        "0.26",
+        "0.48",
+        "0.17",
+        "0.35"
+    ],
+    "created_at": "2026-06-29T04:09:26.77615+00:00"
+},
+{
+    "id": 26058,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which term is used to describe the correct option in a multiple-choice question (MCQ)?",
+    "op": [
+        "Premise",
+        "Response",
+        "Answer",
+        "Distractor"
+    ],
+    "created_at": "2026-06-29T04:09:59.988928+00:00"
+},
+{
+    "id": 26062,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which type of assessment is best suited for an analytical rubric?",
+    "op": [
+        "Extended response items",
+        "Fill in the blanks",
+        "Restricted response items",
+        "Matching items"
+    ],
+    "created_at": "2026-06-29T04:10:31.017154+00:00"
+},
+{
+    "id": 26074,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which aspect does the difficulty level of an item determine?",
+    "op": [
+        "Effectiveness of distractors",
+        "Discrimination power",
+        "Ease or difficulty",
+        "Guessing Power"
+    ],
+    "created_at": "2026-06-29T04:14:51.104029+00:00"
+},
+{
+    "id": 26077,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which term refers to the incorrect options in a multiple-choice question?",
+    "op": [
+        "Answer",
+        "Premise",
+        "Response",
+        "Distractor"
+    ],
+    "created_at": "2026-06-29T04:16:18.683387+00:00"
+},
+{
+    "id": 26080,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which value indicates that a test item is very difficult?",
+    "op": [
+        "0.6",
+        "0.8",
+        "0.3",
+        "0.7"
+    ],
+    "created_at": "2026-06-29T04:16:42.182317+00:00"
+},
+{
+    "id": 26083,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Test item cannot discriminate low achievers and high achievers when its value is lower than?",
+    "op": [
+        "0.6",
+        "0.7",
+        "0.8",
+        "0.3"
+    ],
+    "created_at": "2026-06-29T04:17:09.425589+00:00"
+},
+{
+    "id": 26084,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is an advantage of using True-False (alternative form) questions?",
+    "op": [
+        "Reduce guessing",
+        "Measure higher-order thinking",
+        "Cover more content quickly",
+        "Best for essay assessment"
+    ],
+    "created_at": "2026-06-29T04:17:15.632768+00:00"
+},
+{
+    "id": 26161,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which aim is achieved by assessing the value of item discrimination to determine the outstanding item?",
+    "op": [
+        "0.48",
+        "0.26",
+        "0.17",
+        "0.35"
+    ],
+    "created_at": "2026-06-29T04:37:22.294573+00:00"
+},
+{
+    "id": 26162,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is an example of supply response items?",
+    "op": [
+        "Short answer",
+        "M.C.Q",
+        "Matching items",
+        "True / False"
+    ],
+    "created_at": "2026-06-29T04:38:26.730659+00:00"
+},
+{
+    "id": 26203,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "How many types of multiple choice items?",
+    "op": [
+        "3",
+        "2",
+        "1",
+        "4"
+    ],
+    "created_at": "2026-06-29T04:55:27.691388+00:00"
+},
+{
+    "id": 26210,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the excellent item from given values of item discrimination.",
+    "op": [
+        "0.24",
+        "0.50",
+        "0.38",
+        "0.19"
+    ],
+    "created_at": "2026-06-29T04:57:10.36177+00:00"
+},
+{
+    "id": 26211,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is the limitation of short answer/ completion questions?",
+    "op": [
+        "Not usable to measure complex learning outcomes",
+        "Increase the possibility of guessing answer",
+        "Take more time to complete large number of items",
+        "Difficult to mark"
+    ],
+    "created_at": "2026-06-29T04:57:23.143595+00:00"
+},
+{
+    "id": 26224,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Identify the good item from given values of item discrimination.",
+    "op": [
+        "0.31",
+        "0.41",
+        "0.12",
+        "0.21"
+    ],
+    "created_at": "2026-06-29T05:00:23.599271+00:00"
+},
+{
+    "id": 26313,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Discrimination power of an item is acceptable when its value ranges from?",
+    "op": [
+        "0.2-1.00",
+        "0.5 – 1",
+        "0.7-1",
+        "0.6-1"
+    ],
+    "created_at": "2026-06-29T05:29:31.745616+00:00"
+},
+{
+    "id": 26413,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which aspect is the main focus of item analysis?",
+    "op": [
+        "Item performance",
+        "Question clarity",
+        "Student motivation",
+        "Test reliability"
+    ],
+    "created_at": "2026-06-29T05:57:00.698675+00:00"
+},
+{
+    "id": 26453,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "What should be avoided when constructing True-False items?",
+    "op": [
+        "Including relevant facts only",
+        "Using specific and clear statements",
+        "Writing concise sentences",
+        "Making broad general statements"
+    ],
+    "created_at": "2026-06-29T06:06:26.235778+00:00"
+},
+{
+    "id": 26481,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which of the following is a primary use of Multiple-Choice Questions (MCQs) in assessments?",
+    "op": [
+        "Assessing presentation skills",
+        "Measuring knowledge outcomes",
+        "Testing drawing ability",
+        "Evaluating essay writing"
+    ],
+    "created_at": "2026-06-29T06:15:34.379545+00:00"
+},
+{
+    "id": 26484,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "The most commonly used guessing correction formula to predict and control is______.",
+    "op": [
+        "S=R-W",
+        "S=R-W/N-1",
+        "S=R-W/1-1",
+        "S=R-w/2-1"
+    ],
+    "created_at": "2026-06-29T06:21:24.335826+00:00"
+},
+{
+    "id": 26575,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "29 June 2026",
+    "qt": "Which term refers to providing an answer or forming a judgment about something without complete certainty about all the facts?",
+    "op": [
+        "Guess",
+        "Answer",
+        "Notation",
+        "Option"
+    ],
+    "created_at": "2026-06-29T06:55:48.823437+00:00"
+},
+{
+    "id": 69016,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Which of the following can be used to showcase student’s accomplishment and document the progress? ",
+    "op": [
+        "Anecdotal record",
+        "Self appraisal",
+        "Peer appraisal",
+        "Portfolio"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69093,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Which of the following depicts actual behaviors in natural situations? ",
+    "op": [
+        "Self appraisal",
+        "Portfolio",
+        "Anecdotal record",
+        "Peer appraisal"
+    ],
+    "created_at": "2026-07-15T13:27:37.991159+00:00"
+},
+{
+    "id": 69224,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Which of the following is important for the effective use of anecdotal records? ",
+    "op": [
+        "Only record positive behaviors",
+        "Record both positive and negative behavioral incidents",
+        "Combine multiple incidents into one anecdote",
+        "Wait several days before recording"
+    ],
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+},
+{
+    "id": 69424,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "The collection of productive work called to evaluate the performance of students is called:",
+    "op": [
+        "Quiz",
+        "Test",
+        "Assignment",
+        "Portfolio"
+    ],
+    "created_at": "2026-07-15T13:27:39.474579+00:00"
+},
+{
+    "id": 69616,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "In which type of assessment tool, students rate their peers on the same rating device? ",
+    "op": [
+        "Anecdotal record",
+        "Peer appraisal",
+        "Self appraisal",
+        "Portfolio"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+},
+{
+    "id": 69621,
+    "cc": "EDU431",
+    "qn": "3",
+    "dt": "05 January 2026",
+    "qt": "Observing students as they perform and describing or judging that behaviors is reffered as: ",
+    "op": [
+        "Portfolio",
+        "Peer appraisal",
+        "Anecdotal record",
+        "Self appraisal"
+    ],
+    "created_at": "2026-07-15T13:27:40.243646+00:00"
+}
+]
