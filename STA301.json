@@ -1,0 +1,5616 @@
+[
+{
+    "id": 47425,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "For a binomial distribution, n= 10 & q= 0.6, the mean of the distribution is:",
+    "op": [
+        "10",
+        "6.0",
+        "4",
+        "0.6"
+    ],
+    "created_at": "2026-07-05T19:00:40.893808+00:00"
+},
+{
+    "id": 47426,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The joint density function f(x,y) will be a pdf if",
+    "op": [
+        "Both of integrals f(x,y) dx dy <1",
+        "Both of integrals f(x,y) dx dy =0",
+        "Both of integrals f(x,y) dx dy =1",
+        "Both of integrals f(x,y) dx dy >1"
+    ],
+    "created_at": "2026-07-05T19:00:48.413749+00:00"
+},
+{
+    "id": 47427,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "if E(X + Y) = E(X) + E(Y) then  E(X - Y)=",
+    "op": [
+        "E(X)E(Y)",
+        "E(X)-E(Y)/E(X)",
+        "E(X)- E(Y)",
+        "E(X)/ E(Y)"
+    ],
+    "created_at": "2026-07-05T19:00:54.135147+00:00"
+},
+{
+    "id": 47429,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X and Y be two random variables then the \nCov (X, Y) =",
+    "op": [
+        "E  [Y – E(Y)]}",
+        "0",
+        "E {[X – E(X)]",
+        "E {[X – E(X)] [Y – E(Y)]}"
+    ],
+    "created_at": "2026-07-05T19:01:00.181045+00:00"
+},
+{
+    "id": 47432,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not true statement for the hypergeometric distribution?",
+    "op": [
+        "Only two possible outcomes",
+        "A constant probability of success",
+        "A fixed number of trials",
+        "Trials are dependent"
+    ],
+    "created_at": "2026-07-05T19:01:06.291748+00:00"
+},
+{
+    "id": 47434,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is correct property for joint probability distribution of X and Y:",
+    "op": [
+        "Both of the above",
+        "None of the above",
+        "$$\\sum {f(Y,X)} = 1$$",
+        "$$\\sum {f(X,Y)} = 1$$"
+    ],
+    "created_at": "2026-07-05T19:01:13.853783+00:00"
+},
+{
+    "id": 47438,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "From the following table,\nx\t0\t1\t2\t3\t\nf (x)\t0.26\t0.49\t0.22\t0.02\n E (2X+1) will be:",
+    "op": [
+        "2",
+        "2.98",
+        "0.99",
+        "1.98"
+    ],
+    "created_at": "2026-07-05T19:01:23.439266+00:00"
+},
+{
+    "id": 47440,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Position of the normal curve changes along the horizontal axis due to:",
+    "op": [
+        "Median",
+        "Mode",
+        "Standard deviation",
+        "Mean"
+    ],
+    "created_at": "2026-07-05T19:01:30.714208+00:00"
+},
+{
+    "id": 47447,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is major property of hypergeometric distribution other than binomial distribution.",
+    "op": [
+        "It follows a continuous distribution",
+        "The outcome of each trial may be classified into one of two categories",
+        "The experiment is repeated a fix number of time",
+        "The successive trials are not independent"
+    ],
+    "created_at": "2026-07-05T19:01:39.088095+00:00"
+},
+{
+    "id": 47589,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The values of moment ratios b1 and b2 of normal distribution are:",
+    "op": [
+        "0 and 2",
+        "0 and 3",
+        "0 and 4",
+        "0 and 1"
+    ],
+    "created_at": "2026-07-05T19:03:55.767878+00:00"
+},
+{
+    "id": 47602,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The mean of the continuous probability function f(x) can be obtained by",
+    "op": [
+        "Integrating the product xf(x)",
+        "Multiplying the x by its function f(x)",
+        "Integrating the function f(x)",
+        "Integrating the x"
+    ],
+    "created_at": "2026-07-05T19:04:06.118694+00:00"
+},
+{
+    "id": 47612,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "How many outcomes are there in a binomial experiment?",
+    "op": [
+        "It varies",
+        "2",
+        "1",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:04:13.070236+00:00"
+},
+{
+    "id": 47639,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the probability distributions has three parameters?",
+    "op": [
+        "Poisson distribution",
+        "Binomial distribution",
+        "Normal distribution",
+        "Hypergeometric distribution"
+    ],
+    "created_at": "2026-07-05T19:04:29.48837+00:00"
+},
+{
+    "id": 47652,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a requirement of a binomial distribution?",
+    "op": [
+        "A fixed number of trials.",
+        "Only two possible outcomes.",
+        "Equally likely outcomes.",
+        "A constant probability of success"
+    ],
+    "created_at": "2026-07-05T19:04:35.918511+00:00"
+},
+{
+    "id": 47665,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the first moment ratio is equal to 0, then the distribution will be:",
+    "op": [
+        "Leptokurtic",
+        "Positively Skewed",
+        "Negatively Skewed",
+        "Symmetrical"
+    ],
+    "created_at": "2026-07-05T19:04:43.557333+00:00"
+},
+{
+    "id": 47678,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of trials in hypergeometric distribution is:",
+    "op": [
+        "Fixed",
+        "Not fixed",
+        "Large",
+        "Small"
+    ],
+    "created_at": "2026-07-05T19:04:52.875325+00:00"
+},
+{
+    "id": 47688,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Poisson distribution is never:",
+    "op": [
+        "Positively Skewed",
+        "Asymmetrical",
+        "Symmetrical",
+        "Negatively skewed"
+    ],
+    "created_at": "2026-07-05T19:05:00.458889+00:00"
+},
+{
+    "id": 47701,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a characteristic of a binomial probability experiment?",
+    "op": [
+        "Probability of success changes for each trail",
+        "Each trial has more than two possible outcomes",
+        "P(success) = P(failure)",
+        "The result of one trial does not affect the probability of success on any other trial"
+    ],
+    "created_at": "2026-07-05T19:05:08.880737+00:00"
+},
+{
+    "id": 47927,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random variable X has the probability distribution as follows:\nX:        0          1           2          3\nP(X):     2k        3k          13k         2k\n\nWhat is the possible value of k?",
+    "op": [
+        "0.01",
+        "0.07",
+        "0.05",
+        "0.03"
+    ],
+    "created_at": "2026-07-05T19:07:55.084936+00:00"
+},
+{
+    "id": 47935,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution formula, N= number of units in the population, n = number of units in the sample, and k is defined as:",
+    "op": [
+        "number of successes in sample",
+        "number of failures in the sample",
+        "number of successes in population",
+        "number of failures in population"
+    ],
+    "created_at": "2026-07-05T19:08:04.916936+00:00"
+},
+{
+    "id": 47945,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When X and Y are ____________ variables, then their joint probability function can be obtained by multiplying together their marginal probability functions.",
+    "op": [
+        "Normal",
+        "Dependent",
+        "Bivariate",
+        "Independent"
+    ],
+    "created_at": "2026-07-05T19:08:12.921425+00:00"
+},
+{
+    "id": 47966,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$$According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - \\sigma \\,and\\,\\mu + \\sigma \\,?$$",
+    "op": [
+        "95.44%",
+        "75.66%",
+        "99.73%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-05T19:08:31.507007+00:00"
+},
+{
+    "id": 47969,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When the event occur randomly over a specified interval of time, space or length; the distribution is known as:",
+    "op": [
+        "Hyper geometric distribution",
+        "Poisson Process.",
+        "None of the above",
+        "Poisson Distribution"
+    ],
+    "created_at": "2026-07-05T19:08:33.534225+00:00"
+},
+{
+    "id": 47978,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If total probability of joint probability distribution f(x,y) is ONE then what will be the total probability of its marginal pdf g(x)?",
+    "op": [
+        "Half of the joint pdf",
+        "Less than one",
+        "Anywhere between zero and one",
+        "One"
+    ],
+    "created_at": "2026-07-05T19:08:40.021061+00:00"
+},
+{
+    "id": 47980,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The marginal p.d.f. of __________ variables is obtained by integrating the other variable from the joint p.d.f.",
+    "op": [
+        "Binomial",
+        "Discrete",
+        "Continuous",
+        "Qualitative"
+    ],
+    "created_at": "2026-07-05T19:08:41.863144+00:00"
+},
+{
+    "id": 47986,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The marginal p.d.f. of any continuous variables is obtained by ___________ the other variable from the joint p.d.f.",
+    "op": [
+        "Dividing",
+        "Multiplying",
+        "Averaging",
+        "Integrating"
+    ],
+    "created_at": "2026-07-05T19:08:45.208063+00:00"
+},
+{
+    "id": 47991,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In binomial distribution, formula of calculating mean is:",
+    "op": [
+        "μ = qn",
+        "μ = pq",
+        "μ = np",
+        "μ = p + q"
+    ],
+    "created_at": "2026-07-05T19:08:48.743437+00:00"
+},
+{
+    "id": 47992,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is true about the normal distribution?",
+    "op": [
+        "It has a U-shaped probability density function",
+        "It is a discrete probability distribution",
+        "It is completely determined by its mean and variance",
+        "It is also known as the Poisson distribution"
+    ],
+    "created_at": "2026-07-05T19:08:49.020263+00:00"
+},
+{
+    "id": 47994,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{In a normal distribution how much area lies between }}\\mu \\pm 3\\sigma$$",
+    "op": [
+        "70%",
+        "89%",
+        "68%",
+        "99.73%"
+    ],
+    "created_at": "2026-07-05T19:08:51.296772+00:00"
+},
+{
+    "id": 47998,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If b(x, 7, 0.30), the variance of this distribution is:",
+    "op": [
+        "1.77",
+        "1.47",
+        "1.74",
+        "1.44"
+    ],
+    "created_at": "2026-07-05T19:08:52.692413+00:00"
+},
+{
+    "id": 48003,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The sum of the probabilities of bivariate probabilities function f(X, Y) is ONE then what will be the value of sum of its marginal probability function f(x)?",
+    "op": [
+        "Will be the average of two variables",
+        "Depends on the Y variable",
+        "Will be one",
+        "May and may not be one"
+    ],
+    "created_at": "2026-07-05T19:08:55.878392+00:00"
+},
+{
+    "id": 48006,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "E(X + Y) = ?",
+    "op": [
+        "None",
+        "E(X + Y) = E(X) E(Y).",
+        "E(X + Y) = E(X) + E(Y).",
+        "E(X + Y) = E(X) + E(Y)."
+    ],
+    "created_at": "2026-07-05T19:08:56.484629+00:00"
+},
+{
+    "id": 48009,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When a coin is tossed 3 times, the probability of getting 3 or less tails is",
+    "op": [
+        "0",
+        "1/2",
+        "1",
+        "3/5"
+    ],
+    "created_at": "2026-07-05T19:08:59.167412+00:00"
+},
+{
+    "id": 48012,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which property is true for the distribution function F(x)?",
+    "op": [
+        "F(x) is a non decreasing function",
+        "F(x)is a non increasing function",
+        "F(x) is a increasing function",
+        "F(x) is a decreasing function"
+    ],
+    "created_at": "2026-07-05T19:09:02.298577+00:00"
+},
+{
+    "id": 48019,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The second moment-ratio of a particular continuous probability distribution found to be is 3.845. What does this value tell us about the distribution?",
+    "op": [
+        "Flatter than normal distribution",
+        "Normal distribution",
+        "Neither very peaked nor flatter",
+        "Higher peak than the normal distribution"
+    ],
+    "created_at": "2026-07-05T19:09:03.546366+00:00"
+},
+{
+    "id": 48021,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If µ3 = 4.5 and µ2 = 3 then the skewness of the distribution will be:",
+    "op": [
+        "1.5",
+        "2.7",
+        "0.75",
+        "3.25"
+    ],
+    "created_at": "2026-07-05T19:09:05.828621+00:00"
+},
+{
+    "id": 48022,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When a coin is tossed 3 times, the probability of getting 3 tails is",
+    "op": [
+        "3/8",
+        "2/8",
+        "1/2",
+        "1/8"
+    ],
+    "created_at": "2026-07-05T19:09:06.167666+00:00"
+},
+{
+    "id": 48029,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which statement is true for a discrete Uniform distribution?",
+    "op": [
+        "Its graphical shape of the data is like “U”.",
+        "Cannot say anything without observing the actual data.",
+        "Sometimes it becomes symmetrical.",
+        "It is absolutely symmetrical distribution."
+    ],
+    "created_at": "2026-07-05T19:09:11.969049+00:00"
+},
+{
+    "id": 48034,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is an example of a continuous random variable?",
+    "op": [
+        "The depth of Lake Michigan at a randomly chosen point on the surface",
+        "All of the above",
+        "The number of gas stations in Detroit",
+        "The number of credit hours you have this semester"
+    ],
+    "created_at": "2026-07-05T19:09:15.140763+00:00"
+},
+{
+    "id": 48036,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A value of standard deviation is equal to 0, means",
+    "op": [
+        "Both above",
+        "All the values are constant",
+        "All the values in data are changing rapidly",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T19:09:16.173084+00:00"
+},
+{
+    "id": 48043,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What will be the value of C.V if S.D = 0.5 and mean = 1.",
+    "op": [
+        "30%",
+        "50%",
+        "45%",
+        "10%"
+    ],
+    "created_at": "2026-07-05T19:09:22.825669+00:00"
+},
+{
+    "id": 48049,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The uni-variate distribution obtained from a bi-variate distribution is known as:",
+    "op": [
+        "Joint Distribtion",
+        "Both of the above",
+        "None of the above",
+        "Marginal Distribtion"
+    ],
+    "created_at": "2026-07-05T19:09:24.506116+00:00"
+},
+{
+    "id": 48053,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$$\\begin{gathered} {\\text{If X and Y are two discrete r}}{\\text{.v's with joint probability function f (X}}_i ,Y_j ), \\ {\\text{then the conditional distribution of X given Y is:}} \\\\ \\end{gathered}$$ given by",
+    "op": [
+        "$$f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/g\\left( {X_i } \\right)$$",
+        "$$f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/h\\left( {Y_j } \\right)$$",
+        "None of the above",
+        "Both of the above"
+    ],
+    "created_at": "2026-07-05T19:09:27.033986+00:00"
+},
+{
+    "id": 48062,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The variance of the Hypergeometric distribution is:",
+    "op": [
+        "npq",
+        "{nk(N-n)}/N(N-1)",
+        "pq",
+        "{nk(N-k)(N-n)}/N*N(N-1)"
+    ],
+    "created_at": "2026-07-05T19:09:33.042093+00:00"
+},
+{
+    "id": 48064,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What range of limit to be used for INTEGRATION of joint p.d.f to obtain its marginal pdf?",
+    "op": [
+        "0 to 1",
+        "-1 to 1",
+        "0 to + ∞",
+        "-∞ to +∞"
+    ],
+    "created_at": "2026-07-05T19:09:36.469415+00:00"
+},
+{
+    "id": 48069,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT a requirement of a binomial distribution?",
+    "op": [
+        "A fixed number of trials",
+        "Only two possible outcomes",
+        "A constant probability of success",
+        "Equally likely outcomes"
+    ],
+    "created_at": "2026-07-05T19:09:38.266299+00:00"
+},
+{
+    "id": 48074,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X be a continuous random variable with probability density function f(x) and cumulative distribution function F(x).  Then for any two numbers a and b with a<b, which of the following inequalities is true?",
+    "op": [
+        "P(a<=X<=b)=F(a)-F(b)",
+        "P(X>a)=1-P(X<=a)",
+        "F(x)=(x-a)/(b-a)",
+        "P(X>b)=F(b)-1"
+    ],
+    "created_at": "2026-07-05T19:09:44.291151+00:00"
+},
+{
+    "id": 48075,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The location and shape of the normal curve is (are) determined by:",
+    "op": [
+        "Mean & standard deviation",
+        "Mean & variance",
+        "Variance",
+        "Mean"
+    ],
+    "created_at": "2026-07-05T19:09:44.300557+00:00"
+},
+{
+    "id": 48078,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If b(x, 15, 0.70), the variance of this distribution is",
+    "op": [
+        "3.51",
+        "3.15",
+        "3.05",
+        "3.25"
+    ],
+    "created_at": "2026-07-05T19:09:50.99929+00:00"
+},
+{
+    "id": 48080,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What should be the type of both variables in joint probability distribution of X and Y?",
+    "op": [
+        "One continuous and other discrete",
+        "Both discrete",
+        "Both continuous",
+        "Either both continuous or both discrete"
+    ],
+    "created_at": "2026-07-05T19:09:51.80486+00:00"
+},
+{
+    "id": 48082,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "From the following table,\nx\t0\t1\t2\t3\t\nf (x)\t0.26\t0.49\t0.22\t0.02\nF(x=2) will be:",
+    "op": [
+        "0.97",
+        "0.49",
+        "0.99",
+        "0.23"
+    ],
+    "created_at": "2026-07-05T19:09:56.811153+00:00"
+},
+{
+    "id": 48088,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The hypergeometric random variable is a(an):",
+    "op": [
+        "Undefined",
+        "Independent",
+        "Continuous variable",
+        "Discrete variable"
+    ],
+    "created_at": "2026-07-05T19:10:07.770112+00:00"
+},
+{
+    "id": 48090,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The two mutually exclusive outcomes in a Bernoulli trial are usually called:",
+    "op": [
+        "Variable and constant",
+        "Mean and variance",
+        "With and without replacement e trials are independent",
+        "Success and failure"
+    ],
+    "created_at": "2026-07-05T19:10:10.330546+00:00"
+},
+{
+    "id": 48107,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If f(x) = 1/10, x = 10, then E(X) is:",
+    "op": [
+        "1",
+        "0",
+        "-1",
+        "6/8"
+    ],
+    "created_at": "2026-07-05T19:10:35.648581+00:00"
+},
+{
+    "id": 48113,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A correlation coefficient:",
+    "op": [
+        "is a sort of index of how close the points of a scattergram deviate from the best fitting straight line through those points.",
+        "all of these.",
+        "efficiently summarises some of the information in a scatterplot.",
+        "tells you the direction of the slope of the scattergram."
+    ],
+    "created_at": "2026-07-05T19:10:44.306271+00:00"
+},
+{
+    "id": 48122,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Integrating the product of x and f(x) from range \n–∞ to +∞  give us the",
+    "op": [
+        "Cumulative probability of x",
+        "First moment about mean",
+        "Total probability of x",
+        "First moment about origin"
+    ],
+    "created_at": "2026-07-05T19:10:55.459673+00:00"
+},
+{
+    "id": 48136,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Poisson distribution is the limiting form of binomial distribution when n, the number of trials is large and p, the probability of success is",
+    "op": [
+        "Moderately small",
+        "very Small",
+        "very Large",
+        "Moderately large"
+    ],
+    "created_at": "2026-07-05T19:11:07.185394+00:00"
+},
+{
+    "id": 48137,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution; N =  number of units in the population, n  =  number of units in the sample and k  =  number of successes in the population, then Variance of hyper geometric distribution is defined as:",
+    "op": [
+        "n.k/N ((N-k)/N)((N-n)/(N-k))",
+        "n.k/N ((N-k)/n)((N-n)/(N-1))",
+        "n.k/N ((N-1)/N)((N-n)/(N-1))",
+        "n.k/N ((N-k)/N)((N-n)/(N-1))"
+    ],
+    "created_at": "2026-07-05T19:11:08.962589+00:00"
+},
+{
+    "id": 48154,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Two discrete r.v.’s X and Y are said to be statistically independent, if and only if, for all possible pairs of values (Xi, Yj) the joint probability function f(x, y) can be expressed as the _______________ of the two marginal probability functions.",
+    "op": [
+        "Inverse",
+        "Average",
+        "Product",
+        "Sum"
+    ],
+    "created_at": "2026-07-05T19:11:19.554713+00:00"
+},
+{
+    "id": 48163,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability of success changes from trial to trial, is the property of:",
+    "op": [
+        "Binomial experiment",
+        "Both binomial & hypergeometric experiment",
+        "Hypergeometric experiment",
+        "Poisson experiment"
+    ],
+    "created_at": "2026-07-05T19:11:29.856684+00:00"
+},
+{
+    "id": 48167,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The location parameter of normal distribution is:",
+    "op": [
+        "Mean",
+        "Standard Deviation",
+        "Variance",
+        "Range"
+    ],
+    "created_at": "2026-07-05T19:11:30.835662+00:00"
+},
+{
+    "id": 48184,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let the random variable Z have the standard normal distribution. P (Z > 1.96) is:",
+    "op": [
+        "0.3210",
+        "0.0250",
+        "0.1334",
+        "0.4750"
+    ],
+    "created_at": "2026-07-05T19:11:42.603416+00:00"
+},
+{
+    "id": 48199,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of telephone calls that pass through a switchboard has a Poisson distribution with mean equal to two per minute. The probability that no telephone call  passes through the switch board in a minutes is:",
+    "op": [
+        "0.0517",
+        "0.1353",
+        "0.0183",
+        "0.2707"
+    ],
+    "created_at": "2026-07-05T19:11:52.757661+00:00"
+},
+{
+    "id": 48217,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mean and variance of a Poisson Distribution are:",
+    "op": [
+        "Variance is greater than mean",
+        "Equal",
+        "Mean is greater than variance",
+        "Not equal"
+    ],
+    "created_at": "2026-07-05T19:12:06.798748+00:00"
+},
+{
+    "id": 48233,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$$According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 2\\sigma \\,and\\,\\mu + 2\\sigma \\,?$$",
+    "op": [
+        "95.44%",
+        "50%",
+        "99.73%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-05T19:12:17.813771+00:00"
+},
+{
+    "id": 48238,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "For a probability density function (pdf), the probability of a single point is",
+    "op": [
+        "1",
+        "0",
+        "Constant",
+        "2"
+    ],
+    "created_at": "2026-07-05T19:12:21.656367+00:00"
+},
+{
+    "id": 48250,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X be a random variable with binomial distribution, that is  (X=0,1,…, n). The expected value E[X] is",
+    "op": [
+        "p",
+        "np",
+        "np(1-p)",
+        "Xnp"
+    ],
+    "created_at": "2026-07-05T19:12:29.830121+00:00"
+},
+{
+    "id": 48253,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of parameters in Poisson distribution is (are):",
+    "op": [
+        "1",
+        "2",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-05T19:12:31.1253+00:00"
+},
+{
+    "id": 48262,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the requirement of a uniform distribution?",
+    "op": [
+        "Only two possible outcomes",
+        "A constant probability of success",
+        "Equally likely outcomes",
+        "A fixed number of trials"
+    ],
+    "created_at": "2026-07-05T19:12:36.292779+00:00"
+},
+{
+    "id": 48266,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "E(4X + 5) =__________",
+    "op": [
+        "4 E (X) + 5",
+        "16 E (X)",
+        "16 E (X) + 5",
+        "12 E (X)"
+    ],
+    "created_at": "2026-07-05T19:12:39.157419+00:00"
+},
+{
+    "id": 48270,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The relationship between the mean and variance of Poisson distribution is:",
+    "op": [
+        "Mean <Variance",
+        "Mean >Variance",
+        "Mean = Standard deviation",
+        "Mean = Variance"
+    ],
+    "created_at": "2026-07-05T19:12:41.176901+00:00"
+},
+{
+    "id": 48273,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If E(x) = 1.5 then E(2X+3)=.....:",
+    "op": [
+        "3",
+        "2",
+        "1.5",
+        "6"
+    ],
+    "created_at": "2026-07-05T19:12:43.631824+00:00"
+},
+{
+    "id": 48283,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Using the normal approximation to the binomial distribution with n= 3 and p= 0.0571 the value of mean is:",
+    "op": [
+        "0.5133",
+        "0.1923",
+        "0.2132",
+        "0.1713"
+    ],
+    "created_at": "2026-07-05T19:12:46.021546+00:00"
+},
+{
+    "id": 48287,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Binomial distribution has two parameters; which are:",
+    "op": [
+        "X and n",
+        "p and q",
+        "p and n",
+        "None"
+    ],
+    "created_at": "2026-07-05T19:12:49.946338+00:00"
+},
+{
+    "id": 48289,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "E(4X + 50) =_________",
+    "op": [
+        "4 E(X)",
+        "16E(X)",
+        "4 E(X)+50",
+        "E(X)+50"
+    ],
+    "created_at": "2026-07-05T19:12:51.178245+00:00"
+},
+{
+    "id": 48297,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution probability of success always:",
+    "op": [
+        "None of the above",
+        "is constant from trial to trial",
+        "sometimes varies and sometimes is constant",
+        "Varies from trial to trial"
+    ],
+    "created_at": "2026-07-05T19:12:56.17547+00:00"
+},
+{
+    "id": 48298,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of parameters in uniform distribution is (are):",
+    "op": [
+        "3",
+        "4",
+        "2",
+        "1"
+    ],
+    "created_at": "2026-07-05T19:12:56.841677+00:00"
+},
+{
+    "id": 48321,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "E(10X +3) =_________",
+    "op": [
+        "E(X)+3",
+        "10 E(X)",
+        "100E(X)",
+        "10 E(X)+3"
+    ],
+    "created_at": "2026-07-05T19:13:10.484493+00:00"
+},
+{
+    "id": 48322,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Ten percent of the population is left-handed.  In a class of 100 students, which of the following is the correct statement for  \"there are at most 12 left-handed students in the class\" :",
+    "op": [
+        "P (x = 12)",
+        "P (x  ≤  12)",
+        "P (x > 12)",
+        "P (x < 12)"
+    ],
+    "created_at": "2026-07-05T19:13:10.959644+00:00"
+},
+{
+    "id": 48326,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a probability mass function, the sum of all the probabilities is equal to:",
+    "op": [
+        "2",
+        "1",
+        "3",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:13:12.713698+00:00"
+},
+{
+    "id": 48352,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When we draw the sample with replacement, the probability distribution to be used is:",
+    "op": [
+        "Hypergeometric",
+        "Binomial",
+        "Poisson",
+        "Binomial & hypergeometric"
+    ],
+    "created_at": "2026-07-05T19:13:31.084691+00:00"
+},
+{
+    "id": 48374,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Binomial distribution is skewed to the right if:",
+    "op": [
+        "p=n",
+        "P<q",
+        "p=q",
+        "p>q"
+    ],
+    "created_at": "2026-07-05T19:13:48.653401+00:00"
+},
+{
+    "id": 48381,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X and Y are two random variables. Which property of expectation is true?",
+    "op": [
+        "E(X – Y) = E(X) – E(Y)",
+        "E(X – Y) = E(X) + E(Y) – 2 E(XY)",
+        "E(X – Y) = E(X) – E(Y) + E(XY)",
+        "E(X – Y) = E(X) + E(Y) – E(XY)"
+    ],
+    "created_at": "2026-07-05T19:13:57.298372+00:00"
+},
+{
+    "id": 48392,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Poisson distribution can be used to approximate the hyper geometric distribution when; \tn <0.05N, n>20 and",
+    "op": [
+        "p<0.10",
+        "p>0.10",
+        "p<0.05",
+        "p>0.05"
+    ],
+    "created_at": "2026-07-05T19:14:06.860288+00:00"
+},
+{
+    "id": 48396,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What does it mean when a data set has a standard deviation equal to zero:",
+    "op": [
+        "The mean of the data is also zero",
+        "Mean = median = mode",
+        "All values of the data appear with the same frequency",
+        "All of the values in the data are same"
+    ],
+    "created_at": "2026-07-05T19:14:13.161132+00:00"
+},
+{
+    "id": 48401,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Most of the times Poisson approximation to the binomial is applied when p is less than 0.05 and n is greater than:",
+    "op": [
+        "25",
+        "5",
+        "10",
+        "20"
+    ],
+    "created_at": "2026-07-05T19:14:20.195936+00:00"
+},
+{
+    "id": 48409,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If X and Y are independent random variables, then Cov (X, Y) =",
+    "op": [
+        "1",
+        "2",
+        "0",
+        "0.5"
+    ],
+    "created_at": "2026-07-05T19:14:35.254887+00:00"
+},
+{
+    "id": 48411,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If b = 0, then E(ay+b) =",
+    "op": [
+        "y E(a)",
+        "0",
+        "y E(a+b)",
+        "a E(y)"
+    ],
+    "created_at": "2026-07-05T19:14:38.574393+00:00"
+},
+{
+    "id": 48420,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT CORRECT about a standard normal distribution?",
+    "op": [
+        "P(Z = 2.0) = .0228",
+        "P (Z = -2.5) = .4938",
+        "P (Z = -1.0) = .03413",
+        "P (0 = Z = 1.50) = .4332"
+    ],
+    "created_at": "2026-07-05T19:14:47.425364+00:00"
+},
+{
+    "id": 48424,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The parameters of binomial distribution are:",
+    "op": [
+        "p,q",
+        "n,p",
+        "n,(n-1)",
+        "n,p,q"
+    ],
+    "created_at": "2026-07-05T19:14:51.305275+00:00"
+},
+{
+    "id": 48440,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a discrete distribution function, F(23) can be stated as:",
+    "op": [
+        "P (there are at most 23 successes)",
+        "P (there are less than 23 successes)",
+        "P (there are more than 23 successes)",
+        "P (there are at least 23 successes)"
+    ],
+    "created_at": "2026-07-05T19:15:08.465659+00:00"
+},
+{
+    "id": 48443,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability of a continuous random variable X on any PARTICULAR point is always________:",
+    "op": [
+        "0.5",
+        "undefined",
+        "0",
+        "1"
+    ],
+    "created_at": "2026-07-05T19:15:09.97635+00:00"
+},
+{
+    "id": 48452,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of typing errors per page in a book follows:",
+    "op": [
+        "Poisson Process",
+        "Normal Distribution",
+        "Hyper geometric Distribution",
+        "Binomial Distribution"
+    ],
+    "created_at": "2026-07-05T19:15:15.554868+00:00"
+},
+{
+    "id": 48457,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If c is a constant, then E(c) = _____",
+    "op": [
+        "c",
+        "1",
+        "0",
+        "-c"
+    ],
+    "created_at": "2026-07-05T19:15:22.75708+00:00"
+},
+{
+    "id": 48460,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The distribution function F(x) is equal to:",
+    "op": [
+        "All of the above",
+        "P( X ≤ x)",
+        "P(X = x)",
+        "P( X ≥ x)"
+    ],
+    "created_at": "2026-07-05T19:15:23.990483+00:00"
+},
+{
+    "id": 48470,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If E(x) = 3 then E(4X+3)=.....:",
+    "op": [
+        "12",
+        "15",
+        "3",
+        "8"
+    ],
+    "created_at": "2026-07-05T19:15:32.324016+00:00"
+},
+{
+    "id": 48474,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The mean of Hypergeometric distribution is:",
+    "op": [
+        "nk/N",
+        "np",
+        "npk",
+        "npq"
+    ],
+    "created_at": "2026-07-05T19:15:36.105001+00:00"
+},
+{
+    "id": 48492,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In statistics, the term ‘expected value’ implies the _____ value.",
+    "op": [
+        "Normal",
+        "Independent",
+        "Standard",
+        "Mean"
+    ],
+    "created_at": "2026-07-05T19:15:47.357111+00:00"
+},
+{
+    "id": 48544,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random variable Y has the following distribution:    \nY     |     -1     0      1        2\nP(Y)  |      3C   2C     0.4      0.1\nFind the value of C?",
+    "op": [
+        "0.10",
+        "0.25",
+        "0.20",
+        "0.15"
+    ],
+    "created_at": "2026-07-05T19:16:38.460995+00:00"
+},
+{
+    "id": 48566,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The total area under the normal curve is:",
+    "op": [
+        "0",
+        "0.75",
+        "1",
+        "0.5"
+    ],
+    "created_at": "2026-07-05T19:17:05.118773+00:00"
+},
+{
+    "id": 48588,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The binomial distribution is negatively skewed when:",
+    "op": [
+        "p=q",
+        "p>q",
+        "p=q=1/2",
+        "p<q"
+    ],
+    "created_at": "2026-07-05T19:17:24.869474+00:00"
+},
+{
+    "id": 48602,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If we have f(x) = 4x, 0≤x≤1, then f(x) is a:",
+    "op": [
+        "Probability density function",
+        "Continuous random variable",
+        "Distribution function",
+        "Probability distribution"
+    ],
+    "created_at": "2026-07-05T19:17:39.967473+00:00"
+},
+{
+    "id": 48680,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "From joint distribution function f(X, Y), we can get marginal probabilities function, but vise versa is true when",
+    "op": [
+        "X and Y are dependent",
+        "X and Y are highly correlated",
+        "X and Y are independent",
+        "X and Y are symmetrical"
+    ],
+    "created_at": "2026-07-05T19:18:57.582672+00:00"
+},
+{
+    "id": 48698,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the first moment ratio is less than 0, then the distribution will be:",
+    "op": [
+        "Negatively Skewed",
+        "Symmetrical",
+        "Nobe of these",
+        "Positively Skewed"
+    ],
+    "created_at": "2026-07-05T19:19:17.189579+00:00"
+},
+{
+    "id": 48728,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X and Y are TWO random variables. Which property of expectation is true?",
+    "op": [
+        "E(X + Y) = 2 E(X + Y)",
+        "E(X + Y) = 2 * {E(X) + E(Y)}",
+        "E(X + Y) = E(X) + E(Y) – E(XY)",
+        "E(X + Y) = E(X) + E(Y)"
+    ],
+    "created_at": "2026-07-05T19:19:59.257178+00:00"
+},
+{
+    "id": 48743,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Match the binomial probability P(x< 23) with the correct statement.",
+    "op": [
+        "P (there are more than 23 successes)",
+        "P (there are at least 23 successes)",
+        "P(there are at most 23 successes)",
+        "P (there are fewer than 23 successes)"
+    ],
+    "created_at": "2026-07-05T19:20:16.667956+00:00"
+},
+{
+    "id": 48746,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is NOT applicable to a Poisson distribution?",
+    "op": [
+        "IF P = 0.02 & n = 300",
+        "IF P = 0.01 & n = 200",
+        "IF P = 0.5 & n = 19",
+        "IF P = 0.03 & n = 500"
+    ],
+    "created_at": "2026-07-05T19:20:20.187366+00:00"
+},
+{
+    "id": 48753,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of students waiting a bus stop in the morning and their probabilities are given below. Where x = number of students waiting at the bus stop. \nx \tf(x)\n0\t0.10\n1\t0.25\n2\t0.30\n3\t0.20\n4\t0.15\nWhat is the probability that there are 0 (x=0) students waiting at the bus stop?",
+    "op": [
+        "0.10",
+        "0.25",
+        "0.0",
+        "0.01"
+    ],
+    "created_at": "2026-07-05T19:20:28.022852+00:00"
+},
+{
+    "id": 48755,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The function F(x) gives the probability of the event that X takes a value a value......",
+    "op": [
+        "P(X>x)",
+        "P(X<x)",
+        "P(X≤x)",
+        "P(X=x)"
+    ],
+    "created_at": "2026-07-05T19:20:28.834836+00:00"
+},
+{
+    "id": 48757,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Uniform distribution is a:",
+    "op": [
+        "Continuous Distribution",
+        "Mixed",
+        "None of the above",
+        "Discrete distribution"
+    ],
+    "created_at": "2026-07-05T19:20:30.298111+00:00"
+},
+{
+    "id": 48771,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "An urn contains 4 red balls and 6 green balls. A sample of 4 balls is selected from the urn without replacement. It is the example of:",
+    "op": [
+        "Hypergrometric distribution",
+        "Binomial distribution",
+        "Poisson distribution",
+        "Exponential distribution"
+    ],
+    "created_at": "2026-07-05T19:20:42.349928+00:00"
+},
+{
+    "id": 48772,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "x\t0\t1\t2\t3\t\nf (x)\t0.26\t0.49\t0.22\t0.02\nFrom the above table, the expected value will be equal to:",
+    "op": [
+        "0.71",
+        "0.79",
+        "0.99",
+        "0.81"
+    ],
+    "created_at": "2026-07-05T19:20:43.120776+00:00"
+},
+{
+    "id": 48778,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Conditional distribution of a random variable “X” is obtained by dividing joint distribution of “X” and “Y” by the",
+    "op": [
+        "Conditional distribution of  “Y”.",
+        "No0me of the above",
+        "Marginal distribution of  “X”.",
+        "Marginal distribution of  “Y”."
+    ],
+    "created_at": "2026-07-05T19:20:49.382144+00:00"
+},
+{
+    "id": 48781,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Two independent variables have bivariate distribution, then E(X.Y) =",
+    "op": [
+        "X.E(Y)",
+        "Y.E(X)",
+        "E(X).E(Y)",
+        "X.Y"
+    ],
+    "created_at": "2026-07-05T19:20:58.178527+00:00"
+},
+{
+    "id": 48788,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If p is very small and n is considerably large then we shall apply the:",
+    "op": [
+        "Binomial distribution",
+        "Hypergeometric distribution",
+        "Poisson distribution",
+        "Exponential distribution"
+    ],
+    "created_at": "2026-07-05T19:21:11.294146+00:00"
+},
+{
+    "id": 48793,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The lottery conducted in various countries for purposes of money-making provides a good example of:",
+    "op": [
+        "Normal distribution",
+        "Uniform distribution",
+        "Poisson distribution",
+        "Binomial distribution"
+    ],
+    "created_at": "2026-07-05T19:21:18.738633+00:00"
+},
+{
+    "id": 48800,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a bivarite probability distribution of X and Y,\nIf E(X)=3 and E(Y)=5, then E(X-Y)= ?",
+    "op": [
+        "15",
+        "-2",
+        "2",
+        "None of these"
+    ],
+    "created_at": "2026-07-05T19:21:25.334253+00:00"
+},
+{
+    "id": 48812,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial experiment outcome can be classified into",
+    "op": [
+        "3 Categories",
+        "1 Caategories",
+        "None of the above",
+        "2 Categories"
+    ],
+    "created_at": "2026-07-05T19:21:37.47226+00:00"
+},
+{
+    "id": 48817,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The second moment-ratio of a particular continuous probability distribution is 2.144. What does this value tell us about shape of the distribution?",
+    "op": [
+        "Normal distribution",
+        "Higher peak than the normal distribution",
+        "Neither very peaked nor flatter",
+        "Flatter than normal distribution"
+    ],
+    "created_at": "2026-07-05T19:21:48.478709+00:00"
+},
+{
+    "id": 48820,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Given below is the probability distribution of random variable X. What is the value of “k”\nx     0         1         2         3          4\np(x) 0.5       0.2        0.07      k      0.03",
+    "op": [
+        "0.02",
+        "0.1",
+        "0.002",
+        "0.20"
+    ],
+    "created_at": "2026-07-05T19:21:52.276831+00:00"
+},
+{
+    "id": 48822,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial experiment successive trials are:",
+    "op": [
+        "None",
+        "Independent",
+        "Dependent",
+        "Both"
+    ],
+    "created_at": "2026-07-05T19:21:55.848256+00:00"
+},
+{
+    "id": 48830,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If µ4 =3.5  and µ2 = 2 then the kurtosis of the distribution will be:",
+    "op": [
+        "1.75",
+        "0.75",
+        "0.875",
+        "0.25"
+    ],
+    "created_at": "2026-07-05T19:22:12.110687+00:00"
+},
+{
+    "id": 48832,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution the following condition is violated",
+    "op": [
+        "Dependence of trials",
+        "Both a) and b)",
+        "Independence of trials",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T19:22:13.073529+00:00"
+},
+{
+    "id": 48834,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "We can obtain the individual probabilities of x and y from the joint probability function/distribution of f(x,y). Such individual probabilities are known as",
+    "op": [
+        "Bivariate probabilities",
+        "Separate probabilities",
+        "Marginal probabilities",
+        "Independent probabilities"
+    ],
+    "created_at": "2026-07-05T19:22:14.386164+00:00"
+},
+{
+    "id": 48835,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The range of the binomial distribution is:",
+    "op": [
+        "0, 1, 2, ………… 100",
+        "0, 1, 2, ………… n",
+        "0, 1, 2, ………… x",
+        "1,2, …………….n"
+    ],
+    "created_at": "2026-07-05T19:22:15.74177+00:00"
+},
+{
+    "id": 48837,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The normal distribution has points of inflection which are equidistance from the:",
+    "op": [
+        "None of these",
+        "Mean",
+        "Standard Deviation",
+        "Variance"
+    ],
+    "created_at": "2026-07-05T19:22:18.422053+00:00"
+},
+{
+    "id": 48843,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "λ is a positive ________, equal to the expected number of occurrences that occur during the given interval.",
+    "op": [
+        "Irrational number",
+        "Transcendental number",
+        "Real number",
+        "Complex number"
+    ],
+    "created_at": "2026-07-05T19:22:29.001769+00:00"
+},
+{
+    "id": 48847,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which type of data is used in the binomial distribution?",
+    "op": [
+        "Both discrete and continuous",
+        "Qualitative data only",
+        "Discrete data only",
+        "Continues data only"
+    ],
+    "created_at": "2026-07-05T19:22:33.07117+00:00"
+},
+{
+    "id": 48853,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Given below is the probability distribution of random variable X. What is the value of “k”\nx     0         1         2         3          4\np(x) 0.70       k        0.10      0.07      0.03",
+    "op": [
+        "0.01",
+        "0.03",
+        "0.001",
+        "0.10"
+    ],
+    "created_at": "2026-07-05T19:22:39.153311+00:00"
+},
+{
+    "id": 48867,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial probability distribution, relation between mean and variance is:",
+    "op": [
+        "Mean < Variance",
+        "Mean = Variance",
+        "Mean > Variance",
+        "Difficult to tell"
+    ],
+    "created_at": "2026-07-05T19:22:52.229035+00:00"
+},
+{
+    "id": 48920,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If E(x) = 2.5 then E(2X+0)=.....:",
+    "op": [
+        "3.5",
+        "0",
+        "5",
+        "2.5"
+    ],
+    "created_at": "2026-07-05T19:24:40.233354+00:00"
+},
+{
+    "id": 48930,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is not a property of a binomial experiment?",
+    "op": [
+        "the experiment consists of a sequence of n identical trials",
+        "All of the above",
+        "the probabilities of the two outcomes can change from one trial to the next",
+        "each outcome can be referred to as a success or a failure"
+    ],
+    "created_at": "2026-07-05T19:24:57.773618+00:00"
+},
+{
+    "id": 48944,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When the random variables X and Y are independent, then its co-variance must be:",
+    "op": [
+        "Positive",
+        "One",
+        "Zero",
+        "Negative"
+    ],
+    "created_at": "2026-07-05T19:25:34.225064+00:00"
+},
+{
+    "id": 48958,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X be a random variable with binomial distribution, that is  (x=0,1,…, n). The Var[X] is:",
+    "op": [
+        "np(1-p)",
+        "p",
+        "np",
+        "Xnp"
+    ],
+    "created_at": "2026-07-05T19:26:01.522609+00:00"
+},
+{
+    "id": 48975,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If x is a continuous random variable, then the area under the cumulative distribution curve between any two points is always:",
+    "op": [
+        "in the range 0 and 1",
+        "greater than 1",
+        "less than zero",
+        "equal to 1"
+    ],
+    "created_at": "2026-07-05T19:26:29.963584+00:00"
+},
+{
+    "id": 48995,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The mean and the variance are equal in:",
+    "op": [
+        "The hypergeometric distribution.",
+        "The binomial distribution.",
+        "The Poisson distribution",
+        "All probability distributions."
+    ],
+    "created_at": "2026-07-05T19:27:04.291961+00:00"
+},
+{
+    "id": 49017,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution; experiment can be repeated a",
+    "op": [
+        "None of the above",
+        "fixed number of times",
+        "variable number of times",
+        "Depends upon the situation"
+    ],
+    "created_at": "2026-07-05T19:27:33.399759+00:00"
+},
+{
+    "id": 49018,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In the FA examination, 24candidates offered Statistics. If the probability of passing the subject be 1/3, what will be the mean of the distribution?",
+    "op": [
+        "7",
+        "8",
+        "5",
+        "6"
+    ],
+    "created_at": "2026-07-05T19:27:34.486273+00:00"
+},
+{
+    "id": 49025,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of students waiting a bus stop in the morning and their probabilities are given below. Where x = number of students waiting at the bus stop. \nx \tf(x)\n0\t0.10\n1\t0.25\n2\t0.30\n3\t0.20\n4\t0.15\nWhat is the probability that there are 5 (x=5) students waiting at the bus stop?",
+    "op": [
+        "0.10",
+        "0",
+        "0.25",
+        "0.3"
+    ],
+    "created_at": "2026-07-05T19:27:42.611416+00:00"
+},
+{
+    "id": 49040,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If P(X=x)=0, then f(x) is a __________ probability function.",
+    "op": [
+        "Bivariate",
+        "Discrete",
+        "Univariate",
+        "Continuous"
+    ],
+    "created_at": "2026-07-05T19:27:53.106395+00:00"
+},
+{
+    "id": 49041,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Nature of the binomial random variable X is:",
+    "op": [
+        "Qualitative",
+        "Continuous",
+        "Quantitative",
+        "Discrete"
+    ],
+    "created_at": "2026-07-05T19:27:53.976485+00:00"
+},
+{
+    "id": 49078,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is a major difference between the binomial and the hyper geometric distributions?",
+    "op": [
+        "The sum of the outcomes can be greater than 1 for the hyper geometric.",
+        "The outcomes cannot be whole numbers in the hyper geometric distribution.",
+        "The probability of a success changes from trial to trial in the hyper geometric distribution",
+        "The number of trials changes in the hyper geometric distribution."
+    ],
+    "created_at": "2026-07-05T19:28:53.255242+00:00"
+},
+{
+    "id": 49089,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Parameters of hyper geometric distribution are:",
+    "op": [
+        "1",
+        "3",
+        "5",
+        "2"
+    ],
+    "created_at": "2026-07-05T19:29:16.264819+00:00"
+},
+{
+    "id": 49095,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let X and Y be two independent random variables then E(XY) =",
+    "op": [
+        "0",
+        "1",
+        "E(X) E(Y)",
+        "E(X)/ E(Y)"
+    ],
+    "created_at": "2026-07-05T19:29:24.255508+00:00"
+},
+{
+    "id": 49112,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Var(2X + 6) =__________",
+    "op": [
+        "2 var(x)",
+        "4 var(x)",
+        "16 var(x)",
+        "8 var(x)"
+    ],
+    "created_at": "2026-07-05T19:30:11.276687+00:00"
+},
+{
+    "id": 49162,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random variable that can assume every possible value in an interval [a, b]:",
+    "op": [
+        "Categorical variable",
+        "Qualitative variable",
+        "Continuous variable",
+        "Discrete variable"
+    ],
+    "created_at": "2026-07-05T19:31:37.309979+00:00"
+},
+{
+    "id": 49167,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of students waiting a bus stop in the morning and their probabilities are given below. Where x = number of students waiting at the bus stop. \nx \tf(x)\n0\t0.10\n1\t0.25\n2\t0.30\n3\t0.20\n4\t0.15\nWhat is the probability that there are 2 (x=2) students waiting at the bus stop?",
+    "op": [
+        "0.15",
+        "0.25",
+        "0.30",
+        "0.0"
+    ],
+    "created_at": "2026-07-05T19:31:49.643817+00:00"
+},
+{
+    "id": 49170,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Let $$f(X_i ,Y_i )$$ be the joint probability function of the two discrete random variables X and Y where i = 1,2,3,....,m and j = 1,2,3,....,n, then the marginal probability function of X is defined as:",
+    "op": [
+        "None of the above",
+        "$$g(x_i ) = \\sum\\nolimits_j {f(X_i ,Y_i )}$$",
+        "$$g(x_i ) = \\sum\\nolimits_i {f(X_i ,Y_i )}$$",
+        "Both of the above"
+    ],
+    "created_at": "2026-07-05T19:31:59.430064+00:00"
+},
+{
+    "id": 49182,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random variable Y has the following probability distribution:\ny:        -1     0      1        2\nP(y):     3C    2C     0.4      0.1\n\nCalculate the of ‘C’",
+    "op": [
+        "0.10",
+        "0.15",
+        "0.20",
+        "0.25"
+    ],
+    "created_at": "2026-07-05T19:32:41.803897+00:00"
+},
+{
+    "id": 49187,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of parameters in normal distribution is(are):",
+    "op": [
+        "4",
+        "2",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-07-05T19:32:52.213016+00:00"
+},
+{
+    "id": 49192,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "It is sometimes possible to obtain approximate probabilities associated with values of a random variable by using the different probability distribution of a different random variable. For example, binomial probabilities use the Poisson probability function, binomial probabilities using the normal etc. In order for the Poisson to give “good” approximate values for binomial probabilities we must have the condition(s) that:",
+    "op": [
+        "The probability, p, is small and the sample size is large",
+        "The probability, p, is close to 0.5 and the population size is large",
+        "The population size is large relative to the sample size",
+        "The probability, p, is close to 0.5 and the sample size is large"
+    ],
+    "created_at": "2026-07-05T19:32:58.469849+00:00"
+},
+{
+    "id": 49195,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{In a normal distribution how much area lies between }}\\mu \\pm \\sigma$$",
+    "op": [
+        "80%",
+        "75%",
+        "65%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-05T19:33:10.356107+00:00"
+},
+{
+    "id": 49203,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "E(3X + 5) = ?",
+    "op": [
+        "E3(X) + 5.",
+        "3 E(X) + 5.",
+        "3 E(X) .",
+        "3(X) + 5."
+    ],
+    "created_at": "2026-07-05T19:33:25.084636+00:00"
+},
+{
+    "id": 49205,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "P[(X+Y) < 2] =?  , where x=0, 1, 2 and y=0, 1, 2",
+    "op": [
+        "f(0,0) + f(1,1) + f(2,0)",
+        "f(0,0) + f(1,1) + f(1,0)",
+        "f(0,0) + f(0,1) + f(1,0)",
+        "f(0,1) + f(0,2) + f(2,0)"
+    ],
+    "created_at": "2026-07-05T19:33:31.689316+00:00"
+},
+{
+    "id": 49213,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A sales firm receives different calls from clients. If someone says, today it will receive “at least 3 calls”. How many calls will be received?",
+    "op": [
+        "3, 4, 5, . . .",
+        "0, 1, 2, 3, 5, . . .",
+        "1, 2, 3",
+        "0, 1, 2, 3"
+    ],
+    "created_at": "2026-07-05T19:33:43.646245+00:00"
+},
+{
+    "id": 49217,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The mean deviation of the normal distribution is approximately:",
+    "op": [
+        "3/4 of the S.D",
+        "7/8 of the S.D",
+        "1/2 of the S.D",
+        "4/5 of the S.D"
+    ],
+    "created_at": "2026-07-05T19:33:52.484177+00:00"
+},
+{
+    "id": 49218,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If µ3 = 3 and µ2 = 2 then the skewness of the distribution will be:",
+    "op": [
+        "0.87",
+        "1.5",
+        "2.5",
+        "1.125"
+    ],
+    "created_at": "2026-07-05T19:33:52.696893+00:00"
+},
+{
+    "id": 49227,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If f(x) is a continuous probability function, then P(X = 2) is:",
+    "op": [
+        "0",
+        "1",
+        "2",
+        "1/2"
+    ],
+    "created_at": "2026-07-05T19:34:09.710614+00:00"
+},
+{
+    "id": 49231,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a bivariate distribution f(x,y), when one random variable is discrete and the other is continuous, then we may call it __________ ?",
+    "op": [
+        "Co-discrete distribution",
+        "Paired distribution",
+        "Mixed distribution",
+        "Matching distribution"
+    ],
+    "created_at": "2026-07-05T19:34:19.865373+00:00"
+},
+{
+    "id": 49235,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{In hyper geometric distribution; N = number of units in the population, n = number of units in the sample and k = number of successes in the population, then mean of hyper geometric distribution is defined as:}}$$",
+    "op": [
+        "$$n\\frac{k}{N}$$",
+        "$$\\frac{k}{N}$$",
+        "$$n.k$$",
+        "$$\\frac{n}{N}$$"
+    ],
+    "created_at": "2026-07-05T19:34:27.242986+00:00"
+},
+{
+    "id": 49253,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which property is true for the probability density function f(x)?",
+    "op": [
+        "f(x) > 0 for all x",
+        "f(x) <= 0 for all x",
+        "f(x) >= 0 for all x",
+        "f(x) < 0 for all x"
+    ],
+    "created_at": "2026-07-05T19:35:01.88394+00:00"
+},
+{
+    "id": 49262,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability that a continuous random variable X will assume any specific value is",
+    "op": [
+        "0.50",
+        "1",
+        "any value between -0.5 and 0.5",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:35:21.575065+00:00"
+},
+{
+    "id": 49288,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The rang of hypergeometric distribution is:",
+    "op": [
+        "0 to n or k (whichever is less)",
+        "0 to N",
+        "0 to k",
+        "0 to n"
+    ],
+    "created_at": "2026-07-05T19:36:10.682783+00:00"
+},
+{
+    "id": 49289,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "We can apply binomial distribution formula, when we are drawing a sample from finite population without replacement and the sample size “n” is not more than ……..% of the population size N.",
+    "op": [
+        "10%",
+        "5%",
+        "8%",
+        "1%"
+    ],
+    "created_at": "2026-07-05T19:36:12.035299+00:00"
+},
+{
+    "id": 49310,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{The mean of Uniform distribution defined on the interval [a,b] is:}}$$",
+    "op": [
+        "$$\\left( {a - b} \\right)$$",
+        "$$\\frac{{a - b}}{2}$$",
+        "$$\\left( {a + b} \\right)$$",
+        "$$\\frac{{a + b}}{2}$$"
+    ],
+    "created_at": "2026-07-05T19:36:53.490071+00:00"
+},
+{
+    "id": 49324,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the second moment ratio is greater than 3 the distribution will be:",
+    "op": [
+        "Platykurtic",
+        "Mesokurtic",
+        "None of these",
+        "Leptokurtic"
+    ],
+    "created_at": "2026-07-05T19:37:18.842662+00:00"
+},
+{
+    "id": 49333,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In which of the following distributions is the probability of a success usually small?",
+    "op": [
+        "Hypergeometric",
+        "All distribution",
+        "Binomial",
+        "Poisson"
+    ],
+    "created_at": "2026-07-05T19:37:34.607858+00:00"
+},
+{
+    "id": 49336,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In sampling distribution of the sample proportion p is equal to:",
+    "op": [
+        "x",
+        "n",
+        "x/n",
+        "n/x"
+    ],
+    "created_at": "2026-07-05T19:37:44.766939+00:00"
+},
+{
+    "id": 49451,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The shape parameter of normal distribution is:",
+    "op": [
+        "Mode",
+        "Median",
+        "Mean",
+        "Standard Deviation"
+    ],
+    "created_at": "2026-07-05T19:41:47.308402+00:00"
+},
+{
+    "id": 49467,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A uniform distribution has the following shape:",
+    "op": [
+        "Bi-modal",
+        "U-shaped",
+        "Bell-shaped",
+        "Rectangular"
+    ],
+    "created_at": "2026-07-05T19:42:13.625909+00:00"
+},
+{
+    "id": 49474,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If a random variable X denotes the number of heads when we toss a fair coin 5 times, the X assumed the values:",
+    "op": [
+        "1, 5, 5",
+        "0,1,2,3",
+        "1, 2,3,4,5",
+        "0, 1, 2,3,4,5"
+    ],
+    "created_at": "2026-07-05T19:42:27.2366+00:00"
+},
+{
+    "id": 49556,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial experiment:",
+    "op": [
+        "Number of trials “n” is a fixed",
+        "None of the above",
+        "Number of trials “n” is a variable",
+        "Number of trials “n” is not specified"
+    ],
+    "created_at": "2026-07-05T19:45:38.870691+00:00"
+},
+{
+    "id": 49589,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In hyper geometric distribution events can be classified in to",
+    "op": [
+        "4 categories",
+        "3 categories",
+        "2 categories",
+        "a single category"
+    ],
+    "created_at": "2026-07-05T19:47:05.305817+00:00"
+},
+{
+    "id": 49591,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following statements is not an example of a continuous random variable?",
+    "op": [
+        "The time it takes you to finish this statistics test",
+        "The time to failure for an electronic system",
+        "The price for cheese cake in New York Style cheese cake",
+        "The weight gain in pounds per month for a calf"
+    ],
+    "created_at": "2026-07-05T19:47:11.310958+00:00"
+},
+{
+    "id": 49603,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A distribution involving three r.v.’s simultaneously is referred to as",
+    "op": [
+        "univarate",
+        "3rd degree",
+        "bivariate",
+        "trivariate"
+    ],
+    "created_at": "2026-07-05T19:47:45.783923+00:00"
+},
+{
+    "id": 49694,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial experiment with three trials, the variable can take:",
+    "op": [
+        "3 values",
+        "2 values",
+        "5 values",
+        "4 values"
+    ],
+    "created_at": "2026-07-05T19:52:03.276582+00:00"
+},
+{
+    "id": 49700,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random experiment has five outcomes in its sample space {s1, s2, s3, s4, s5}. \nIf P(s1)=0.2,P(s2)=0.3, P(s3)=0.1 and P(s4)=0.2\nthen P(s5)=?",
+    "op": [
+        "0.2",
+        "1",
+        "0.8",
+        "0.5"
+    ],
+    "created_at": "2026-07-05T19:52:16.694363+00:00"
+},
+{
+    "id": 49702,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What is the mean and variance of binomial distribution b(x; n, p)?",
+    "op": [
+        "np and npq",
+        "np and pq",
+        "Zero and one",
+        "xp and npq"
+    ],
+    "created_at": "2026-07-05T19:52:22.201479+00:00"
+},
+{
+    "id": 49706,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The normal curve is:",
+    "op": [
+        "A convenient fiction.",
+        "The typical frequency curve for psychological data.",
+        "A bell-shaped distribution",
+        "The standard against which all other distributions are assessed."
+    ],
+    "created_at": "2026-07-05T19:52:32.959524+00:00"
+},
+{
+    "id": 49709,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Density function of normal distribution attains its maximum value when the value of random variable X is:",
+    "op": [
+        "All above",
+        "X = Mean",
+        "X = Standard Deviation",
+        "X = Variance"
+    ],
+    "created_at": "2026-07-05T19:52:38.187202+00:00"
+},
+{
+    "id": 49725,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A discrete probability function f(x) is always:",
+    "op": [
+        "Non-negative",
+        "1",
+        "Negative",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:53:34.603964+00:00"
+},
+{
+    "id": 49728,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is true for the Poisson distribution:",
+    "op": [
+        "mean > variance",
+        "mean = variance",
+        "mean = standard deviation",
+        "mean > variance"
+    ],
+    "created_at": "2026-07-05T19:53:46.636161+00:00"
+},
+{
+    "id": 49736,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "For any probability density function, the TOTAL area under the curve is always:",
+    "op": [
+        "0",
+        "1",
+        "0.75",
+        "0.5"
+    ],
+    "created_at": "2026-07-05T19:54:16.605746+00:00"
+},
+{
+    "id": 49741,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If X and Y are independent, then Cov (X, Y) is equal to:",
+    "op": [
+        "1",
+        "0",
+        "0 and 1",
+        "None"
+    ],
+    "created_at": "2026-07-05T19:54:23.424975+00:00"
+},
+{
+    "id": 49792,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "An expected value of a random variable is equal to:",
+    "op": [
+        "Mean",
+        "Standard deviation",
+        "Quartile",
+        "Variance"
+    ],
+    "created_at": "2026-07-05T19:56:26.882415+00:00"
+},
+{
+    "id": 49806,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a bivariate probability distribution of X and Y,\nIf f(1,1)=4/15, g(1)=2/3, h(1)=2/5,\nthen",
+    "op": [
+        "Both of these",
+        "X and Y are statistically independent",
+        "None of these",
+        "X and Y are not statistically independent"
+    ],
+    "created_at": "2026-07-05T19:56:55.927553+00:00"
+},
+{
+    "id": 49816,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "For a continuous random variable X, P(X = x) is:",
+    "op": [
+        "1",
+        "undefined",
+        "0.5",
+        "0"
+    ],
+    "created_at": "2026-07-05T19:57:23.320846+00:00"
+},
+{
+    "id": 49841,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a binomial experiment ,probability of success changes on:",
+    "op": [
+        "30th trial",
+        "Each trial",
+        "Second trial",
+        "10th trial"
+    ],
+    "created_at": "2026-07-05T19:58:44.227837+00:00"
+},
+{
+    "id": 49849,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "${\\text{In}}\\,{\\text{a}}\\,{\\text{binomial}}\\,{\\text{distribution,formula}}\\,{\\text{of}}\\,{\\text{calculating}}\\,s\\tan {\\text{dard deviation is}}$",
+    "op": [
+        "$\\sqrt {npq}$",
+        "$\\sqrt {np}$",
+        "$\\sqrt {pq}$",
+        "$\\sqrt p$"
+    ],
+    "created_at": "2026-07-05T19:59:26.22537+00:00"
+},
+{
+    "id": 49859,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The standard normal distribution has it mean and variance equal to:",
+    "op": [
+        "0 and 1 respectively",
+        "0 and 0 respectively",
+        "1 and 1 respectively",
+        "1 and 0 respectively"
+    ],
+    "created_at": "2026-07-05T20:00:15.52455+00:00"
+},
+{
+    "id": 49862,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a hypergeometric distribution, the probability of success:",
+    "op": [
+        "Less than probability of failure",
+        "Equal to probability of failure",
+        "Remains constant from trial to trial",
+        "Does not remain constant from trial to trial"
+    ],
+    "created_at": "2026-07-05T20:00:23.958465+00:00"
+},
+{
+    "id": 49864,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The shape of the Poisson distribution is:",
+    "op": [
+        "J shaped",
+        "U shaped",
+        "Positively skewed",
+        "Negatively skewed"
+    ],
+    "created_at": "2026-07-05T20:00:26.683654+00:00"
+},
+{
+    "id": 49895,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the second moment ratio is less than 3 the distribution will be:",
+    "op": [
+        "Leptokurtic",
+        "Mesokurtic",
+        "None of these",
+        "Platykurtic"
+    ],
+    "created_at": "2026-07-05T20:03:01.94668+00:00"
+},
+{
+    "id": 49982,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 0.135}}{{0.135}^1}}}{{1!}}{\\text{ the mean value is:}}$$",
+    "op": [
+        "0.135",
+        "1",
+        "$${{e^{ - 0.135}}}$$",
+        "-0.135"
+    ],
+    "created_at": "2026-07-05T20:10:09.717972+00:00"
+},
+{
+    "id": 50001,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If b(x; 15, 0.75), the mean of this distribution is:",
+    "op": [
+        "11.25",
+        "11.20",
+        "11.50",
+        "11.15"
+    ],
+    "created_at": "2026-07-05T20:11:54.705271+00:00"
+},
+{
+    "id": 50004,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The cumulative distribution function F(x) for a continuous random variable X is the area under the density curve to the __________ of x.",
+    "op": [
+        "Center",
+        "Right",
+        "Left",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T20:12:17.481954+00:00"
+},
+{
+    "id": 50015,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If total probability of joint probability distribution f(x,y) is ONE then what will be the total probability of its marginal pdf h(y)?",
+    "op": [
+        "One",
+        "Less than one",
+        "Depend on given values",
+        "Anywhere between zero and one"
+    ],
+    "created_at": "2026-07-05T20:13:27.432379+00:00"
+},
+{
+    "id": 50018,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "P (|X| < 1.5) =",
+    "op": [
+        "P(X > 1.5)",
+        "P (-1.5 < X < 1.5)",
+        "P(X = 1.5)",
+        "P(X < 1.5)"
+    ],
+    "created_at": "2026-07-05T20:13:42.983656+00:00"
+},
+{
+    "id": 50034,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 2}}{2^1}}}{{1!}}{\\text{ the mean value is:}}$$",
+    "op": [
+        "0",
+        "2",
+        "1",
+        "3"
+    ],
+    "created_at": "2026-07-05T20:15:01.369411+00:00"
+},
+{
+    "id": 50044,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The hyper geometric probability distribution is appropriate when a random sample of size n is drawn without replacement from a ______ population of N units:",
+    "op": [
+        "All",
+        "finite",
+        "total",
+        "infinite"
+    ],
+    "created_at": "2026-07-05T20:15:57.519578+00:00"
+},
+{
+    "id": 50051,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random experiment is a one in which we repeat it a large number of times under similiar conditions an it produces:",
+    "op": [
+        "Independent results",
+        "None of the above",
+        "Different results",
+        "Same results"
+    ],
+    "created_at": "2026-07-05T20:16:13.481597+00:00"
+},
+{
+    "id": 50063,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability function of a random variable is defined as: \nx   :  -1   -2   0   1   2 \nf(x):   k   2k  3k   4k 5k\n\nThen k is equal to:",
+    "op": [
+        "1/4",
+        "1/15",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-05T20:16:56.724129+00:00"
+},
+{
+    "id": 50071,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A sales firm receives different calls from clients. If someone says, today it will receive “at most 3 calls”. How many calls will be received?",
+    "op": [
+        "0, 1, 2, 3, 5, ...",
+        "0, 1, 2, 3",
+        "1, 2, 3",
+        "3, 4, 5, ..."
+    ],
+    "created_at": "2026-07-05T20:17:37.125018+00:00"
+},
+{
+    "id": 50074,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Throw two dice over and over until you roll a double six. Suppose X = the number of throws, then X is",
+    "op": [
+        "Bivariate",
+        "Continuous variable with defined range",
+        "Discrete variable",
+        "Continuous variable without defined range"
+    ],
+    "created_at": "2026-07-05T20:18:00.626972+00:00"
+},
+{
+    "id": 50112,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability mass function p(x) of a discrete random variable X is: P(0)=0.10, P(1)=0.15, \nP(2)=0.45, P(3)=0.05, and P(4)=0.25.\nWhat is the value of cumulative distribution function for x=2",
+    "op": [
+        "0.7",
+        "0.5",
+        "0.3",
+        "0.5"
+    ],
+    "created_at": "2026-07-05T20:22:22.76902+00:00"
+},
+{
+    "id": 50119,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If the first moment ratio is greater than 0, then the distribution will be:",
+    "op": [
+        "None of these",
+        "Symmetrical",
+        "Positively Skewed",
+        "Negatively Skewed"
+    ],
+    "created_at": "2026-07-05T20:23:10.047134+00:00"
+},
+{
+    "id": 50139,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The correlation coefficient:",
+    "op": [
+        "makes the scatterplot redundant.",
+        "should be interpreted alongside the relevant scatterplot.",
+        "can be expressed as a percentage.",
+        "all of these."
+    ],
+    "created_at": "2026-07-05T20:27:21.715754+00:00"
+},
+{
+    "id": 50144,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a probaility distribution, if we divide each frequency of the frequecy distribution by it's total frequency it is known as;",
+    "op": [
+        "Cumulative Frequency",
+        "None of the above",
+        "Cumulative Relative Frequency",
+        "Relative Frequency"
+    ],
+    "created_at": "2026-07-05T20:28:17.629031+00:00"
+},
+{
+    "id": 50148,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Suppose ‘X’ is equal to the number of heads, when you throw a coin three times. The possible values of X are:",
+    "op": [
+        "0,1,2,3,.....",
+        "1,2,3",
+        "0,1,2,3",
+        "1,2,3,....."
+    ],
+    "created_at": "2026-07-05T20:28:36.097483+00:00"
+},
+{
+    "id": 50154,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The hypergeometric probability distribution has parameters:",
+    "op": [
+        "N, N-K, n",
+        "N, n",
+        "N, P, n",
+        "N, n, k"
+    ],
+    "created_at": "2026-07-05T20:29:08.211005+00:00"
+},
+{
+    "id": 50156,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability mass function p(x) of a discrete random variable X is: P(0)=0.10, P(1)=0.15, \nP(2)=0.45, P(3)=0.05, and P(4)=0.25.\nWHat is the value of cumulative distribution function F(x) at X = 3?",
+    "op": [
+        "0.35",
+        "0.45",
+        "0.65",
+        "0.75"
+    ],
+    "created_at": "2026-07-05T20:29:12.828422+00:00"
+},
+{
+    "id": 50208,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If E(x)=2 and E(y)=5 then E(xy) is equal to:",
+    "op": [
+        "7",
+        "5",
+        "10",
+        "3"
+    ],
+    "created_at": "2026-07-05T20:35:26.285193+00:00"
+},
+{
+    "id": 50210,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "For good approximation of Poisson distribution to the binomial distribution, which of the following condition (s) is/are required:",
+    "op": [
+        "The population size is large relative to the sample size",
+        "The probability, p, is small and the sample size is large",
+        "The probability, p, is close to .5 and the population size is large",
+        "The probability, p, is close to .5 and the sample size is large"
+    ],
+    "created_at": "2026-07-05T20:35:32.57008+00:00"
+},
+{
+    "id": 50223,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If in a lottery, one thousand tickets are sold. The chance of a ticket for wining the lottery is:",
+    "op": [
+        "No information is given",
+        "Mutually exclusive",
+        "Not equally likely",
+        "Equally likely"
+    ],
+    "created_at": "2026-07-05T20:36:40.933773+00:00"
+},
+{
+    "id": 50269,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If value of p is smaller or lesser than 0.5 then binomial distribution is classified as:",
+    "op": [
+        "skewed to left",
+        "skewed to right",
+        "skewed to integers",
+        "skewed to infinity"
+    ],
+    "created_at": "2026-07-05T20:39:30.981239+00:00"
+},
+{
+    "id": 50277,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "When N becomes indefinitely large (N tends to infinity) hyper geometric distribution follows:",
+    "op": [
+        "Binomial distribution",
+        "Normal distribution",
+        "Poisson distribution",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T20:39:56.604305+00:00"
+},
+{
+    "id": 50399,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a bivariate probability distribution of X and Y,\nIf f(0,1)=3/14, g(0)=5/14 and h(1)=3/7,\nthen",
+    "op": [
+        "X and Y are statistically independent",
+        "Both of these",
+        "X and Y are not statistically independent",
+        "None of these"
+    ],
+    "created_at": "2026-07-05T20:55:54.453169+00:00"
+},
+{
+    "id": 50437,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$$According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 3\\sigma \\,and\\,\\mu + 3\\sigma \\,?$$",
+    "op": [
+        "50%",
+        "68.26%",
+        "99.73%",
+        "95.44%"
+    ],
+    "created_at": "2026-07-05T21:06:34.509031+00:00"
+},
+{
+    "id": 50442,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Match the binomial probability P(x> 0.5) with the correct statement.",
+    "op": [
+        "P(there are at least 0.50 successes)",
+        "P(there are at most 0.50 successes)",
+        "P(there are fewer than 0.50 successes)",
+        "P(there are more than 0.50 successes)"
+    ],
+    "created_at": "2026-07-05T21:06:56.063845+00:00"
+},
+{
+    "id": 50469,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In case of bivariate distribution, co-variance of distribution is represented:",
+    "op": [
+        "E(X^2)-[E(X)]^2",
+        "E(Y.X)-E(X).E(Y)",
+        "E(X.X)-E(X).E(Y)",
+        "E(Y.Y)-E(X).E(Y)"
+    ],
+    "created_at": "2026-07-05T21:12:00.293046+00:00"
+},
+{
+    "id": 50479,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "$${\\text{In a normal distribution how much area lies between }}\\mu \\pm 2\\sigma$$",
+    "op": [
+        "85%",
+        "94%",
+        "95.45%",
+        "75%"
+    ],
+    "created_at": "2026-07-05T21:14:53.999458+00:00"
+},
+{
+    "id": 50524,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a discrete distribution function, F(10) can be stated as:",
+    "op": [
+        "P (there are more than 10 successes)",
+        "P (there are less than 10 successes)",
+        "P (there are at most 10 successes)",
+        "P (there are at least 10 successes)"
+    ],
+    "created_at": "2026-07-05T21:26:13.233135+00:00"
+},
+{
+    "id": 50550,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Suppose 60% of a herd of cattle is infected with a particular disease. Let Y = the number of non-diseased cattle in a sample of size 5. the distribution of Y is:",
+    "op": [
+        "Binomial with n = 5 and p = 0.6",
+        "Binomial with n = 5 and p = 0.5",
+        "Binomial with n = 5 and p = 0.4",
+        "Poisson with u = .6"
+    ],
+    "created_at": "2026-07-05T21:32:46.617187+00:00"
+},
+{
+    "id": 50594,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The probability distribution of X is given below.\nx:     0         1         2         3          4\np(x): 0.73       ?        0.06      0.04      0.01\nWhat is the value of missing probability?",
+    "op": [
+        "0.06",
+        "0.16",
+        "0.25",
+        "0.54"
+    ],
+    "created_at": "2026-07-05T21:39:04.406701+00:00"
+},
+{
+    "id": 50700,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The bivariate probability density function of continuous r.v’s X and Y, satisfy the following property:",
+    "op": [
+        "f(x,y)< and =0",
+        "f(x,y)< and =1",
+        "f(x,y)> and = 0",
+        "f(x,y)> and =1"
+    ],
+    "created_at": "2026-07-05T22:28:03.88136+00:00"
+},
+{
+    "id": 50806,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A correlation of -0.5 would indicate a scatterplot in which the slope is:",
+    "op": [
+        "curvilinear.",
+        "none of these.",
+        "upwards.",
+        "downwards."
+    ],
+    "created_at": "2026-07-05T23:10:56.169129+00:00"
+},
+{
+    "id": 50869,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "If an experiment produces different results even if it is repeated a large number of times under similiar conditions is known as",
+    "op": [
+        "Fixed Value",
+        "Random Experiment",
+        "Experiment",
+        "None of the above"
+    ],
+    "created_at": "2026-07-05T23:24:16.863367+00:00"
+},
+{
+    "id": 50872,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Which of the following is the property of hypergeometric experiment?",
+    "op": [
+        "n is not fixed",
+        "Sampling is performed without replacement",
+        "Successive trials are independent",
+        "p remains constant from trial to trial"
+    ],
+    "created_at": "2026-07-05T23:26:57.997695+00:00"
+},
+{
+    "id": 50957,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "In a standard normal distribution area to the left of z = 0 is:",
+    "op": [
+        "75%",
+        "25%",
+        "50%",
+        "30%"
+    ],
+    "created_at": "2026-07-05T23:56:14.226735+00:00"
+},
+{
+    "id": 52156,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "What are the numbers of parameter of Hyper geometric distribution ?",
+    "op": [
+        "2",
+        "4",
+        "5",
+        "3"
+    ],
+    "created_at": "2026-07-06T03:41:57.842051+00:00"
+},
+{
+    "id": 52225,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "Mean of binomial distribution is:",
+    "op": [
+        "n",
+        "np",
+        "p",
+        "n/p"
+    ],
+    "created_at": "2026-07-06T04:04:56.887598+00:00"
+},
+{
+    "id": 57107,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "07 July 2026",
+    "qt": "[Math Processing Error]For the Poisson distribution P(X = 1) = e−0.1350.13511! the mean value is:$${\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 0.135}}{{0.135}^1}}}{{1!}}{\\text{ the mean value is:}}$$",
+    "op": [
+        "1",
+        "[Math Processing Error]e−0.135$${{e^{ - 0.135}}}$$",
+        "0.135",
+        "-0.135"
+    ],
+    "created_at": "2026-07-07T18:33:35.999629+00:00"
+},
+{
+    "id": 58958,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The larger the n, the smaller the standard error, and so the narrower the",
+    "op": [
+        "None of the above",
+        "Confidence level",
+        "Level of significance",
+        "Confidence Interval"
+    ],
+    "created_at": "2026-07-08T19:00:12.77686+00:00"
+},
+{
+    "id": 58960,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A deserving player was not selected in the cricket team. It is an example of:",
+    "op": [
+        "Type-II error",
+        "Type-I error",
+        "Type-IV error",
+        "Type-III error"
+    ],
+    "created_at": "2026-07-08T19:00:43.628066+00:00"
+},
+{
+    "id": 58964,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following must not be a consistent estimator ?",
+    "op": [
+        "Sample variance",
+        "Sample median",
+        "Sample mean",
+        "Sample Proportion"
+    ],
+    "created_at": "2026-07-08T19:01:00.928388+00:00"
+},
+{
+    "id": 58965,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If a statistic used as an estimator, has its expected value equal to the true value of the population parameter being estimated then it is called ........",
+    "op": [
+        "Consistent",
+        "Efficient",
+        "Sufficient",
+        "Unbiased"
+    ],
+    "created_at": "2026-07-08T19:01:02.560557+00:00"
+},
+{
+    "id": 58968,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In testing H0: µ = 100 against H1: µ ≤ 100 at the 10% level of significance,H0 is rejected if:",
+    "op": [
+        "The p-value is less than 0.10",
+        "100 is contained in the 90% confidence interval",
+        "The p-value is greater than 0.10",
+        "The value of the test statistic is in the acceptance region"
+    ],
+    "created_at": "2026-07-08T19:01:16.684938+00:00"
+},
+{
+    "id": 58969,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A null hypothesis is generally denoted by:",
+    "op": [
+        "H3",
+        "H1",
+        "H2",
+        "H0"
+    ],
+    "created_at": "2026-07-08T19:01:20.042014+00:00"
+},
+{
+    "id": 58973,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If an estimator is more efficient then the other estimator, its shape of the sampling distribution will be",
+    "op": [
+        "Skewed to right",
+        "Normal",
+        "Flattered",
+        "Highly peaked"
+    ],
+    "created_at": "2026-07-08T19:01:30.217777+00:00"
+},
+{
+    "id": 58975,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "As sample size goes up, what tends to happen to 95% confidence intervals?",
+    "op": [
+        "They become more precise",
+        "They become more narrow",
+        "They become more precise and narrow",
+        "They become wider"
+    ],
+    "created_at": "2026-07-08T19:01:34.305553+00:00"
+},
+{
+    "id": 58977,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following is the most common example of a situation for which the main parameter of\ninterest is a population proportion?",
+    "op": [
+        "An observational study",
+        "A normal experimen",
+        "A binomial experiment",
+        "A randomized experiment"
+    ],
+    "created_at": "2026-07-08T19:01:35.709261+00:00"
+},
+{
+    "id": 58979,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "What condition is required before the central limit theorem justifies approximating the sampling distribution of the mean with a normal distribution?",
+    "op": [
+        "20n < N",
+        "n(1 - p) > 5",
+        "n > 30",
+        "n < 30"
+    ],
+    "created_at": "2026-07-08T19:01:39.771703+00:00"
+},
+{
+    "id": 58981,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with sigma= 12, the standard error of the mean is found to be 3. The size of the sample used is:",
+    "op": [
+        "16",
+        "22",
+        "12",
+        "11"
+    ],
+    "created_at": "2026-07-08T19:01:48.011961+00:00"
+},
+{
+    "id": 58982,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An estimator is always a:",
+    "op": [
+        "Statistic and Random variable",
+        "Random variable",
+        "Statistic",
+        "Parameter"
+    ],
+    "created_at": "2026-07-08T19:01:48.873744+00:00"
+},
+{
+    "id": 58983,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In the method of moments, how many equations are required for finding two unknown population parameters?",
+    "op": [
+        "2",
+        "1",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-08T19:01:49.279867+00:00"
+},
+{
+    "id": 58986,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б = 45. The size of the sample used is 12,  the value of  the standard error will be:",
+    "op": [
+        "3.66",
+        "1.2",
+        "5.9",
+        "12.99"
+    ],
+    "created_at": "2026-07-08T19:01:57.908191+00:00"
+},
+{
+    "id": 58987,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Consistency is a ....... property.",
+    "op": [
+        "Non-random sample",
+        "Unique sample",
+        "Small sample",
+        "Large sample"
+    ],
+    "created_at": "2026-07-08T19:02:04.879926+00:00"
+},
+{
+    "id": 58989,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "As the sample size _____________ the variation of the sampling distribution of the same means ______________:",
+    "op": [
+        "Increases, remains the same",
+        "Decreases, remains the same",
+        "Decreases, decreases",
+        "Increases, decreases"
+    ],
+    "created_at": "2026-07-08T19:02:08.330297+00:00"
+},
+{
+    "id": 58990,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with sigma = 20, the standard error of the mean is found to be 2. The size of the sample used is:",
+    "op": [
+        "40",
+        "100",
+        "10",
+        "20"
+    ],
+    "created_at": "2026-07-08T19:02:08.498796+00:00"
+},
+{
+    "id": 58993,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If we have two normally distributed populations then sampling distribution of the difference of sample means will be:",
+    "op": [
+        "t-distribution",
+        "Chi-square distribution",
+        "Normal distribution",
+        "F-distribution"
+    ],
+    "created_at": "2026-07-08T19:02:10.268448+00:00"
+},
+{
+    "id": 58994,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An estimator is said to be.......... if its expected value is equal to true value of its parameter.",
+    "op": [
+        "Unbiased",
+        "Efficient",
+        "Consistant",
+        "Biased"
+    ],
+    "created_at": "2026-07-08T19:02:14.155441+00:00"
+},
+{
+    "id": 58995,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "As a rule of thumb, when n>=30, then we can assume that………is normally distributed:",
+    "op": [
+        "Probability distribution",
+        "Sampling distribution of sample mean",
+        "Sampling distribution",
+        "Binomial distribution"
+    ],
+    "created_at": "2026-07-08T19:02:19.374425+00:00"
+},
+{
+    "id": 58996,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Assume a large distribution in which б = 6. What is the standard error of the mean based on samples for which n = l0?",
+    "op": [
+        "1.9",
+        "3",
+        "15",
+        "l67"
+    ],
+    "created_at": "2026-07-08T19:02:20.736076+00:00"
+},
+{
+    "id": 59002,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The Central Limit Theorem states that if a sample size n is sufficiently large (say, at least 30), then:",
+    "op": [
+        "The population mean and sample mean are equal",
+        "The sampling distribution of sample mean is exactly normal",
+        "The sampling distribution of sample mean is approximately normal",
+        "The sampling distribution of the population mean is approximately normal"
+    ],
+    "created_at": "2026-07-08T19:02:32.274612+00:00"
+},
+{
+    "id": 59007,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б = 35, the standard error of the mean is found to be 4. The size of the sample used is:",
+    "op": [
+        "25",
+        "56",
+        "77",
+        "15"
+    ],
+    "created_at": "2026-07-08T19:02:43.100983+00:00"
+},
+{
+    "id": 59009,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Sampling distributions are:",
+    "op": [
+        "The probability distribution that is assigned to population parameters",
+        "Refers to the margine of error",
+        "The probability distribution of sample statistic",
+        "None of above"
+    ],
+    "created_at": "2026-07-08T19:02:45.287794+00:00"
+},
+{
+    "id": 59010,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "P      0      1/3   2/3   1\nf(p)  1/20    9/20  9/20  1/20\nThe mean of the sampling proportion will be:",
+    "op": [
+        "9/20",
+        "10/20",
+        "11/20",
+        "12/20"
+    ],
+    "created_at": "2026-07-08T19:02:48.760702+00:00"
+},
+{
+    "id": 59016,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "$${\\text{The mean of the sampling distribution of }}\\overline x _1 - \\overline x _2 {\\text{, denoted by }}\\mu _{\\overline x _1 - \\overline x _2 } {\\text{is equal to the difference between repective}}$$",
+    "op": [
+        "Population Means",
+        "Sample Means",
+        "Sample Proportions",
+        "Population Proportions"
+    ],
+    "created_at": "2026-07-08T19:03:01.18511+00:00"
+},
+{
+    "id": 59017,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The width of the confidence interval is called______ of the estimate.",
+    "op": [
+        "Accuracy",
+        "Biased",
+        "Precision",
+        "Unbiasedness"
+    ],
+    "created_at": "2026-07-08T19:03:03.186656+00:00"
+},
+{
+    "id": 59020,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If sampling is from a normal population, the mean of the sampling distribution of the sampled means is equal to:",
+    "op": [
+        "The mean of the sampled population",
+        "sigma the standard deviation of the population",
+        "s/(n-1)",
+        "б/√n"
+    ],
+    "created_at": "2026-07-08T19:03:09.478769+00:00"
+},
+{
+    "id": 59024,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If we draw a sample of size ‘n’ from a population then sample is called “large sample\" if:",
+    "op": [
+        "n>50",
+        "n>25",
+        "n>40",
+        "n>30"
+    ],
+    "created_at": "2026-07-08T19:03:15.150161+00:00"
+},
+{
+    "id": 59025,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Consider a large population with a mean of 160 and a standard deviation of 20.  A random sample of size 64 is taken from this population.  What is the standard deviation of the sample mean?",
+    "op": [
+        "3.125",
+        "3.568",
+        "1.654",
+        "2.500"
+    ],
+    "created_at": "2026-07-08T19:03:16.741311+00:00"
+},
+{
+    "id": 59032,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "P      0       1    2     3\nf(p)  1/20    9/20  9/20  1/20\nThe mean of the sampling proportion will be:",
+    "op": [
+        "10/20",
+        "25/20",
+        "15/20",
+        "30/20"
+    ],
+    "created_at": "2026-07-08T19:03:30.52989+00:00"
+},
+{
+    "id": 59033,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The sampling distribution of the mean becomes approximately normally distributed only when the following conditions is met?",
+    "op": [
+        "A single random sample is drawn from the population.",
+        "The sample size is large.",
+        "The standard deviation of the population is large.",
+        "The population is normally distributed."
+    ],
+    "created_at": "2026-07-08T19:03:31.149412+00:00"
+},
+{
+    "id": 59034,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A random sample of size n  =  25 is drawn from a normal population with population mean =  50 and sigma  =  10 then mean of the sampling distribution of the sample mean is:",
+    "op": [
+        "50",
+        "2",
+        "45",
+        "25"
+    ],
+    "created_at": "2026-07-08T19:03:32.218252+00:00"
+},
+{
+    "id": 59040,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Normal approximation to the binomial distribution is used when:",
+    "op": [
+        "None of the above",
+        "Both of the above",
+        "nq>5",
+        "np>5"
+    ],
+    "created_at": "2026-07-08T19:03:44.834756+00:00"
+},
+{
+    "id": 59050,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The precision of an estimator can be increased by decreasing the;",
+    "op": [
+        "Number of estimators",
+        "Number of parameters",
+        "Level of significance",
+        "Size of sample"
+    ],
+    "created_at": "2026-07-08T19:03:51.318335+00:00"
+},
+{
+    "id": 59054,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Total no. of possible samples of size 3 (with replacement) from the population of size 6, will be:",
+    "op": [
+        "216",
+        "196",
+        "325",
+        "256"
+    ],
+    "created_at": "2026-07-08T19:03:56.378218+00:00"
+},
+{
+    "id": 59057,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If Var(mean1) < Var(mean2) it implies:",
+    "op": [
+        "Mean1 is more consistent",
+        "Mean1 is more efficient",
+        "Mean2 is more efficient",
+        "Mean2 is more consistent"
+    ],
+    "created_at": "2026-07-08T19:04:04.724379+00:00"
+},
+{
+    "id": 59058,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The sampling distribution of the sample proportion, p^, will be ______ distributed if the sample size is large and p^ is not too close to 0 or l:",
+    "op": [
+        "Binomial",
+        "Normal",
+        "Poisson",
+        "Approximately normal"
+    ],
+    "created_at": "2026-07-08T19:04:12.674472+00:00"
+},
+{
+    "id": 59061,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Conventionally, the probability of making a type-II error is denoted by:",
+    "op": [
+        "a (alpha)",
+        "б (sigma)",
+        "Ɵ (theta)",
+        "ß (beta)"
+    ],
+    "created_at": "2026-07-08T19:04:15.240137+00:00"
+},
+{
+    "id": 59063,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A quantity obtained by applying certain rule or formula is known as",
+    "op": [
+        "Estimator",
+        "Parameter",
+        "Proportion",
+        "Estimate"
+    ],
+    "created_at": "2026-07-08T19:04:24.84318+00:00"
+},
+{
+    "id": 59066,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Conventionally, the probability of making a type-I error is denoted by which of the following symbol?",
+    "op": [
+        "ß (beta)",
+        "s (sigma)",
+        "? (theta)",
+        "a (alpha)"
+    ],
+    "created_at": "2026-07-08T19:04:29.578416+00:00"
+},
+{
+    "id": 59069,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Ideally, the width of confidence interval should be",
+    "op": [
+        "1",
+        "0",
+        "98",
+        "100"
+    ],
+    "created_at": "2026-07-08T19:04:39.183632+00:00"
+},
+{
+    "id": 59071,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The probability distribution of the proportion of successes in all possible samples is called the:",
+    "op": [
+        "Sampling probability distribution",
+        "Sampling distribution of Population proportions",
+        "Sampling distribution",
+        "Sampling distribution of sample proportions"
+    ],
+    "created_at": "2026-07-08T19:04:48.990814+00:00"
+},
+{
+    "id": 59072,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In a Geometric distribution, Maximum Likelihood Estimator (MLE) for proportion (P) is equal to:",
+    "op": [
+        "Reciprocal of the mean",
+        "Reciprocal of the sample variance",
+        "Sample variance",
+        "Sample mean"
+    ],
+    "created_at": "2026-07-08T19:04:54.510569+00:00"
+},
+{
+    "id": 59074,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The difference between the value of the statistic and the value of the parameter is called ________________.",
+    "op": [
+        "Sampling Error",
+        "Random Error",
+        "Biased Error",
+        "Standard Error"
+    ],
+    "created_at": "2026-07-08T19:05:00.515845+00:00"
+},
+{
+    "id": 59079,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б  =  60. The size of the sample used is 100,  the value of  the standard error will be:",
+    "op": [
+        "12",
+        "45",
+        "4",
+        "6"
+    ],
+    "created_at": "2026-07-08T19:05:19.735419+00:00"
+},
+{
+    "id": 59080,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following statements is correct?",
+    "op": [
+        "A point estimate is an unbiased estimator if its standard deviation is the same as the actual value of the population standard deviation",
+        "All of the above statements are correct",
+        "A point estimate is a single value estimate of the value of a population parameter",
+        "A point estimate is an estimate of the range of a population parameter"
+    ],
+    "created_at": "2026-07-08T19:05:20.95508+00:00"
+},
+{
+    "id": 59082,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "When sample size is to be considered large, population standard deviation can be replaced by",
+    "op": [
+        "Sample Variance",
+        "Sample Standard Deviation",
+        "Sample Mean",
+        "Population variance"
+    ],
+    "created_at": "2026-07-08T19:05:31.433973+00:00"
+},
+{
+    "id": 59084,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "P      0      1/3   2/3   1\nf(p)  1/10    4/10  4/10  1/10\n\nThe mean of the sampling proportion will be:",
+    "op": [
+        "1/20",
+        "10/20",
+        "1/15",
+        "15/30"
+    ],
+    "created_at": "2026-07-08T19:05:36.798016+00:00"
+},
+{
+    "id": 59085,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The standard error of the sampling distribution of p1 - p2 is equal to:",
+    "op": [
+        "None of the above",
+        "√(p1q1/n1)+ p2q2/n2",
+        "√((p1+p2)/n)",
+        "√(p/n)"
+    ],
+    "created_at": "2026-07-08T19:05:51.020968+00:00"
+},
+{
+    "id": 59087,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The standard deviation of sampling distribution of proportion is:",
+    "op": [
+        "p",
+        "n/p",
+        "q/n",
+        "√(pq/n)"
+    ],
+    "created_at": "2026-07-08T19:05:58.759329+00:00"
+},
+{
+    "id": 59088,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Sample Proportion is a /an_______ estimator of population mean.",
+    "op": [
+        "Consistent",
+        "Unbiased and Consistent estimator",
+        "None of these",
+        "Unbiased"
+    ],
+    "created_at": "2026-07-08T19:06:00.416583+00:00"
+},
+{
+    "id": 59089,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Inferential statistics involves:",
+    "op": [
+        "Estimation",
+        "Testing of hypothesis",
+        "All of these",
+        "Confidence interval"
+    ],
+    "created_at": "2026-07-08T19:06:03.683701+00:00"
+},
+{
+    "id": 59091,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In Binomial distribution the sample size is considered to be sufficiently large, if both np and nq are greater than or equal to:",
+    "op": [
+        "10",
+        "3",
+        "15",
+        "5"
+    ],
+    "created_at": "2026-07-08T19:06:15.047338+00:00"
+},
+{
+    "id": 59092,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Interval estimation and Confidence interval are :",
+    "op": [
+        "Same",
+        "Different",
+        "Dependent",
+        "Independent"
+    ],
+    "created_at": "2026-07-08T19:06:16.369112+00:00"
+},
+{
+    "id": 59098,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An alternative hypothesis is generally denoted by:",
+    "op": [
+        "H1",
+        "H2",
+        "H3",
+        "H0"
+    ],
+    "created_at": "2026-07-08T19:06:40.171779+00:00"
+},
+{
+    "id": 59100,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If µ1 = 225 and µ2 = 186, the difference of population means will be:",
+    "op": [
+        "29",
+        "25",
+        "39",
+        "57"
+    ],
+    "created_at": "2026-07-08T19:06:43.684737+00:00"
+},
+{
+    "id": 59103,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б=  25 . The size of the sample used is 10, the value of  the standard error will be:",
+    "op": [
+        "7.9",
+        "6",
+        "2",
+        "0"
+    ],
+    "created_at": "2026-07-08T19:07:18.135952+00:00"
+},
+{
+    "id": 59106,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If our sampled population is normal, then sampling distribution of the sample mean will ………:",
+    "op": [
+        "Depends on sample size",
+        "None of the above",
+        "Normal",
+        "Not necessarily normal"
+    ],
+    "created_at": "2026-07-08T19:07:32.633138+00:00"
+},
+{
+    "id": 59107,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following is not a criterion for a good problem situation?",
+    "op": [
+        "It must be appropriate to the students' level of development.",
+        "It must be such that its solution will be benefited by group effort.",
+        "It must be clearly structured and defined.",
+        "It must be authentic."
+    ],
+    "created_at": "2026-07-08T19:07:35.927809+00:00"
+},
+{
+    "id": 59108,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The end points that bound the confidence interval are called;",
+    "op": [
+        "Bounded limits",
+        "Lower limits",
+        "Upper limits",
+        "Lower and upper limits"
+    ],
+    "created_at": "2026-07-08T19:07:39.615962+00:00"
+},
+{
+    "id": 59109,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "From which of the following methods we can obtain point estimate of the population parameters.",
+    "op": [
+        "Method of Least Squares",
+        "Method of Moments",
+        "All of the above",
+        "Maximum Liklihood Method"
+    ],
+    "created_at": "2026-07-08T19:07:54.592966+00:00"
+},
+{
+    "id": 59112,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The Maximum Likelihood Estimators (MLE) are ………… and …………… but not necessarily ………",
+    "op": [
+        "Consistent, unbiased, efficient",
+        "Unbiased, consistent, efficient",
+        "Unbiased, efficient, consistent",
+        "Consistent, efficient, unbiased"
+    ],
+    "created_at": "2026-07-08T19:08:07.548952+00:00"
+},
+{
+    "id": 59113,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A statistic whose standard error decreases with an increase in the sample size will be ......",
+    "op": [
+        "None",
+        "Consistant",
+        "Efficient",
+        "Unbiased"
+    ],
+    "created_at": "2026-07-08T19:08:17.510354+00:00"
+},
+{
+    "id": 59116,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Sample variance is a/an_____estimator of population variance.",
+    "op": [
+        "Unbiased",
+        "Biased",
+        "Biased and Unbiased",
+        "None of these"
+    ],
+    "created_at": "2026-07-08T19:08:29.97055+00:00"
+},
+{
+    "id": 59118,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Accept H0/H0 is false, is the ________.",
+    "op": [
+        "Correct decision",
+        "Type I error",
+        "Type II error",
+        "None of the above"
+    ],
+    "created_at": "2026-07-08T19:08:39.653919+00:00"
+},
+{
+    "id": 59119,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If P (6.2< ? <12.2) =0.95 then",
+    "op": [
+        "We are 95% confident that true value of the parameter fall in this interval",
+        "We are 5% confident that true value of the parameter fall in this interval",
+        "All are correct",
+        "This is wrong statement"
+    ],
+    "created_at": "2026-07-08T19:08:41.284248+00:00"
+},
+{
+    "id": 59121,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The larger the standard error, the ........ the confidence interval.",
+    "op": [
+        "Inaccurate",
+        "Narrower",
+        "Accurate",
+        "Wider"
+    ],
+    "created_at": "2026-07-08T19:08:49.763769+00:00"
+},
+{
+    "id": 59122,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Suppose we have a population of size N = 5 i.e. 0,11,20,23,45 and if we draw all possible samples of size n = 2 with replacement then total possible samples will be:",
+    "op": [
+        "35",
+        "50",
+        "10",
+        "25"
+    ],
+    "created_at": "2026-07-08T19:08:55.794886+00:00"
+},
+{
+    "id": 59123,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "When sampling is from an infinite population, the mean and standard error of the sampling distribution of p^ are ________ and________, respectively:",
+    "op": [
+        "p, sqrt [p(1 - p)/n]",
+        "p, p(1 - p)",
+        "p, n(1 - p)p",
+        "p^, p(1 - p) / n"
+    ],
+    "created_at": "2026-07-08T19:08:57.812099+00:00"
+},
+{
+    "id": 59124,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Confidence interval is also known as",
+    "op": [
+        "Point estimator",
+        "Margin of error",
+        "Level of Significance",
+        "None of these"
+    ],
+    "created_at": "2026-07-08T19:09:04.581983+00:00"
+},
+{
+    "id": 59125,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In general, the estimators obtained by the method of moments are ………….",
+    "op": [
+        "All the above",
+        "Inefficient",
+        "Biased",
+        "Inconsistent"
+    ],
+    "created_at": "2026-07-08T19:09:06.993701+00:00"
+},
+{
+    "id": 59126,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A standard deviation obtained from sampling distribution of sample statistics is known as",
+    "op": [
+        "Sampling error",
+        "Minimum error",
+        "Standard error",
+        "Universal error"
+    ],
+    "created_at": "2026-07-08T19:09:15.099523+00:00"
+},
+{
+    "id": 59128,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б= 60. The size of the sample used is 100, the value of  the standard error will be:",
+    "op": [
+        "42",
+        "15",
+        "6",
+        "4"
+    ],
+    "created_at": "2026-07-08T19:09:22.680587+00:00"
+},
+{
+    "id": 59132,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Statistical Inference can be divided into two main branches:",
+    "op": [
+        "Estimation and Hypothesis testing",
+        "MLE and Methods of moments",
+        "All above",
+        "Interval Estimation and Point Estimation"
+    ],
+    "created_at": "2026-07-08T19:09:37.454848+00:00"
+},
+{
+    "id": 59133,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The limitation of point estimation is that:",
+    "op": [
+        "It is not calculated for small sample",
+        "There is no way of ascertaining how close the point estimate to parameter?",
+        "All of these",
+        "It is not calculated for non-normal distribution"
+    ],
+    "created_at": "2026-07-08T19:09:40.049889+00:00"
+},
+{
+    "id": 59137,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Method of Moments for estimation of parameters is based on the theory of",
+    "op": [
+        "Linear Estimation",
+        "None of the above",
+        "Non-linear estimation",
+        "Both Linear and Non-linear"
+    ],
+    "created_at": "2026-07-08T19:10:22.19045+00:00"
+},
+{
+    "id": 59138,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The relative efficiency of T1 compared to T2 where:",
+    "op": [
+        "both T1 and T2 are biased estimators",
+        "T2 is unbiased estimator",
+        "both T1 and T2 are unbiased estimators",
+        "T1 is unbiased estimator"
+    ],
+    "created_at": "2026-07-08T19:10:22.802759+00:00"
+},
+{
+    "id": 59139,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "What is the rule of thumb for a sample size \"n\" to be considered large.",
+    "op": [
+        "n<30",
+        "n=30",
+        "None of the above",
+        "n>30 or n=30"
+    ],
+    "created_at": "2026-07-08T19:10:25.223428+00:00"
+},
+{
+    "id": 59141,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "\"To consider every possible value that the parameter might have, and for each value, compute the probability and THAT value of the parameter for which the probability of a given sample is greatest, is chosen as an estimate.” This procedure is known as",
+    "op": [
+        "The method of maximum likelihood",
+        "The method of fractional moments",
+        "The method of least square",
+        "The method of moments"
+    ],
+    "created_at": "2026-07-08T19:10:34.788276+00:00"
+},
+{
+    "id": 59143,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A statistic whose standard deviation decreases with an increase in sample size will be called:",
+    "op": [
+        "Efficient",
+        "Consistent",
+        "Sufficient",
+        "Unbiased"
+    ],
+    "created_at": "2026-07-08T19:10:56.165838+00:00"
+},
+{
+    "id": 59144,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The precision of an estimator can be increased by increasing the;",
+    "op": [
+        "Size of population",
+        "Size of sample",
+        "Number of parameters",
+        "Number of estimators"
+    ],
+    "created_at": "2026-07-08T19:11:05.697072+00:00"
+},
+{
+    "id": 59146,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If the two populations are non-normal and both the sample sizes are large, then the sampling distribution of the difference of means will be:",
+    "op": [
+        "F-distribution",
+        "Normal distribution",
+        "Chi-square distribution",
+        "t-distribution"
+    ],
+    "created_at": "2026-07-08T19:11:18.667531+00:00"
+},
+{
+    "id": 59148,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A consistent estimator will always be a:",
+    "op": [
+        "Unbiased estimator and biased estimator",
+        "Unbiased estimator",
+        "Biased estimator",
+        "May or may not be unbiased estimator"
+    ],
+    "created_at": "2026-07-08T19:11:52.237411+00:00"
+},
+{
+    "id": 59149,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Suppose the population of all scores from this class has a mean of 72% and a standard deviation of 12%. For a random sample of 36 students, the distribution of sample mean has a mean of ___ and a standard deviation of ___:",
+    "op": [
+        "12, 1/3",
+        "12, 12",
+        "72, 2",
+        "72, 12"
+    ],
+    "created_at": "2026-07-08T19:11:55.177671+00:00"
+},
+{
+    "id": 59150,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In a sampling experiment the mean value of all the possible values of the statistic was found to be equal to the corresponding population parameter. This condition suggests that the statistic is:",
+    "op": [
+        "An unbiased estimator of the parameter",
+        "A biased estimate for the parameter",
+        "Approximately normally distributed",
+        "Normally distributed"
+    ],
+    "created_at": "2026-07-08T19:12:02.399318+00:00"
+},
+{
+    "id": 59152,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The method of Maximum Likelihood (ML) is used to find out:",
+    "op": [
+        "Random numbers",
+        "Correlation coefficient",
+        "Point estimates",
+        "Sample values"
+    ],
+    "created_at": "2026-07-08T19:12:29.910276+00:00"
+},
+{
+    "id": 59157,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following is desirable for a good point estimator?",
+    "op": [
+        "All of these",
+        "Unbiasedness",
+        "Consistency",
+        "Efficiency"
+    ],
+    "created_at": "2026-07-08T19:13:13.229025+00:00"
+},
+{
+    "id": 59158,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A failing student is passed by an examiner. It is an example of:",
+    "op": [
+        "No information regarding student exams",
+        "Type II error",
+        "Correct decision",
+        "Type I error"
+    ],
+    "created_at": "2026-07-08T19:13:16.34898+00:00"
+},
+{
+    "id": 59164,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The standard error of the mean is the:",
+    "op": [
+        "Sample deviation of the sampling errors",
+        "Sample standard deviation",
+        "Standard mean of the sample",
+        "Standard deviation of the sampling distribution of sample means"
+    ],
+    "created_at": "2026-07-08T19:14:07.940967+00:00"
+},
+{
+    "id": 59165,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A ________ is a range of numbers inferred from the sample that has a certain probability of including the population parameter over the long run.",
+    "op": [
+        "Confidence interval",
+        "Probability limit",
+        "Hypothesis",
+        "Lower limit"
+    ],
+    "created_at": "2026-07-08T19:14:08.79761+00:00"
+},
+{
+    "id": 59169,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "To determine a sample size in estimating population mean, we use the _____value.",
+    "op": [
+        "f",
+        "x",
+        "Z",
+        "t"
+    ],
+    "created_at": "2026-07-08T19:14:30.289633+00:00"
+},
+{
+    "id": 59171,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The standard error of the sampling distribution of the sample mean when sampling is done with replacement is equal to:",
+    "op": [
+        "s / n",
+        "б/√n",
+        "s / (n - 1)",
+        "б"
+    ],
+    "created_at": "2026-07-08T19:14:40.068927+00:00"
+},
+{
+    "id": 59173,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If the sampled population has a normal distribution, when is the sampling distribution of the sample mean also a normal distribution?",
+    "op": [
+        "Always",
+        "Only when the sample size is at least 100",
+        "Only when the sample size is smaller than 30",
+        "Only when the sample size is at least 30"
+    ],
+    "created_at": "2026-07-08T19:14:54.219511+00:00"
+},
+{
+    "id": 59175,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An industrial designer wants to determine the average amount of time it takes an adult to assemble an “easy to assemble” toy. A sample of 16 times yielded an average time of 19.92 minutes, with a population standard deviation equal to 5.73. Assuming normality of assembly times, what is a 95% confidence interval for the mean assembly time?",
+    "op": [
+        "(17.1123, 30.7277)",
+        "(17.1123, 24.7277)",
+        "(17.1123, 22.7277)",
+        "(14.1123, 22.7277)"
+    ],
+    "created_at": "2026-07-08T19:15:15.166587+00:00"
+},
+{
+    "id": 59176,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "“A point estimate plus/minus a few times the standard error of that estimate”. This statement represents:",
+    "op": [
+        "Acceptance region",
+        "Confidence interval",
+        "Critical value",
+        "Critical region"
+    ],
+    "created_at": "2026-07-08T19:15:15.301774+00:00"
+},
+{
+    "id": 59177,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "....... is used when we are dealing with proportions to find the probabilities:",
+    "op": [
+        "t- distribution",
+        "Normal distribution",
+        "Both Z & t distribution",
+        "F distribution"
+    ],
+    "created_at": "2026-07-08T19:15:20.035994+00:00"
+},
+{
+    "id": 59178,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling without replacement; fpc is not used when:",
+    "op": [
+        "n>0.05N",
+        "n=0.05N",
+        "n<=0.05N",
+        "None of the above"
+    ],
+    "created_at": "2026-07-08T19:15:26.948444+00:00"
+},
+{
+    "id": 59180,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Alpha  is the probability of ……..",
+    "op": [
+        "Rejecting H1 when it is wrong",
+        "Making Type I error",
+        "Accepting Ho when it is true",
+        "Making Type II error"
+    ],
+    "created_at": "2026-07-08T19:15:34.96392+00:00"
+},
+{
+    "id": 59181,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An experiment was conducted to estimate the mean yield of a new variety of wheat. A sample of 20 plots gave a mean yield of 2.9, and a 95% confidence interval of (2.48, 3.32) . This means:",
+    "op": [
+        "We are 95% con?dent that the true mean yield of this variety is between 2.48 and 3.32",
+        "We are sure the true mean yield of this new variety is between 2.48 and 3.32.",
+        "We are 95% confident that the true mean yield of this variety is 2.9",
+        "None of these"
+    ],
+    "created_at": "2026-07-08T19:15:44.505319+00:00"
+},
+{
+    "id": 59183,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "providing as an estimate a single value calculated from the sample that is likely to be close in magnitude to the unknown parameter is known as",
+    "op": [
+        "Interval Estimation",
+        "None of the above",
+        "Estimation",
+        "Point Estimation"
+    ],
+    "created_at": "2026-07-08T19:16:00.460833+00:00"
+},
+{
+    "id": 59188,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Total no. of possible samples of size 2 (without replacement) from the population of size 6, will be:",
+    "op": [
+        "10",
+        "20",
+        "18",
+        "15"
+    ],
+    "created_at": "2026-07-08T19:16:49.962288+00:00"
+},
+{
+    "id": 59190,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Alpha is the probability of:",
+    "op": [
+        "All of these",
+        "Committing Type I error",
+        "Type I error",
+        "Reject H0/H0 is true"
+    ],
+    "created_at": "2026-07-08T19:17:07.680333+00:00"
+},
+{
+    "id": 59191,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "ß is the probability of:",
+    "op": [
+        "Accept H0/H0 is false",
+        "Reject H0/H0 is false",
+        "Reject H0/H0 is true",
+        "Accept H0/H0 is true"
+    ],
+    "created_at": "2026-07-08T19:17:09.85786+00:00"
+},
+{
+    "id": 59192,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The standard error of the sampling distribution of differences of means ( x 1 - x 2) ,is equal to:",
+    "op": [
+        "√((б1+б2)/n)",
+        "√((б1)2/n1)+ (б2)2/n2",
+        "None of the above",
+        "√(б/n)"
+    ],
+    "created_at": "2026-07-08T19:17:15.185487+00:00"
+},
+{
+    "id": 59197,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Sample mean is a/an ........... estimate of population mean.",
+    "op": [
+        "None of the above",
+        "Either unbiased or biased",
+        "Unbiased",
+        "Biased"
+    ],
+    "created_at": "2026-07-08T19:18:14.27102+00:00"
+},
+{
+    "id": 59203,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with sigma = 35, the standard error of the mean is found to be 4 text. The size of the sample used is:",
+    "op": [
+        "25",
+        "15",
+        "56",
+        "77"
+    ],
+    "created_at": "2026-07-08T19:19:08.360863+00:00"
+},
+{
+    "id": 59205,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In general sample variance is a/an ........estimator?",
+    "op": [
+        "none of these",
+        "Consistent",
+        "Biased",
+        "Unbiased"
+    ],
+    "created_at": "2026-07-08T19:19:16.28684+00:00"
+},
+{
+    "id": 59207,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "How can we interpret the 90% confidence interval for the mean of the normal population.",
+    "op": [
+        "There are 10% chances of falling true value of the parameter",
+        "There are 90% chances of falling true value of the parameter",
+        "All are correct",
+        "There are 100% chances of falling true value of the parameter"
+    ],
+    "created_at": "2026-07-08T19:19:31.143667+00:00"
+},
+{
+    "id": 59209,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following statements about confidence intervals is inaccurate?",
+    "op": [
+        "If we keep the sample size fixed, the confidence interval gets wider as we increase the con?dence coefficient",
+        "If the population standard deviation increases, the confidence interval decreases in width",
+        "A confidence interval for a mean always contains the sample mean",
+        "If we keep the confidence coefficient fixed, the confidence interval gets narrower as we increase the sample size"
+    ],
+    "created_at": "2026-07-08T19:19:38.436395+00:00"
+},
+{
+    "id": 59211,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If Var(T1) >Var(T2) ,where T1 and T2 are two unbiased estimators ,then:",
+    "op": [
+        "T2 is more efficient",
+        "T1 is more efficient",
+        "T2 is more consistent",
+        "T1 is more consistent"
+    ],
+    "created_at": "2026-07-08T19:20:21.041933+00:00"
+},
+{
+    "id": 59212,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "If we have the following information, \nP= 0.16, q = 0.84, Z=1.96 and e = 0.05, then sample size will be:",
+    "op": [
+        "207",
+        "199",
+        "200",
+        "205"
+    ],
+    "created_at": "2026-07-08T19:21:01.745004+00:00"
+},
+{
+    "id": 59214,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In case of sampling with replacement from two infinite populations, the standard deviation of the sampling distribution of bar X1 - bar X2 standard error of bar X1 - bar X2 denoted by:",
+    "op": [
+        "√((б1)2/n1)+ (б2)2/n2",
+        "1/n",
+        "√((б1-б2)/n)",
+        "√((б1+б2)/n)"
+    ],
+    "created_at": "2026-07-08T19:21:39.826893+00:00"
+},
+{
+    "id": 59216,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A confidence interval has a specified probability__________ of containing the true value of the parameter.",
+    "op": [
+        "α",
+        "1-α",
+        "α/2",
+        "1+α"
+    ],
+    "created_at": "2026-07-08T19:22:17.259509+00:00"
+},
+{
+    "id": 59217,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling without replacement; fpc is used when:",
+    "op": [
+        "None of the above",
+        "n>0.05N",
+        "n=0.05N",
+        "n<0.05N"
+    ],
+    "created_at": "2026-07-08T19:23:12.758318+00:00"
+},
+{
+    "id": 59218,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which one of the statement is true?",
+    "op": [
+        "E (S2) ≠ s2",
+        "E (s2) = б2",
+        "E (s2) = б2/n",
+        "E (S2) = s2/n"
+    ],
+    "created_at": "2026-07-08T19:23:47.376683+00:00"
+},
+{
+    "id": 59219,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "\"A failed student was passed by the examiner\", is an example of:",
+    "op": [
+        "Type-IV error",
+        "Type-I error",
+        "Type-III error",
+        "Type-II error"
+    ],
+    "created_at": "2026-07-08T19:23:57.894561+00:00"
+},
+{
+    "id": 59220,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "We can apply method of Maximum Likelihood on:",
+    "op": [
+        "Continuous variables only",
+        "Qualitative variables only",
+        "Discrete as well as continuous variables",
+        "Discrete variables only"
+    ],
+    "created_at": "2026-07-08T19:24:25.243816+00:00"
+},
+{
+    "id": 59221,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In interval estimation we obtained a ……of values as an estimate of parameter.",
+    "op": [
+        "Range",
+        "None of these",
+        "Group",
+        "Both a and b"
+    ],
+    "created_at": "2026-07-08T19:24:27.221804+00:00"
+},
+{
+    "id": 59233,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In a random sample of 500 men from Lahore city, 300 are found to be smokers; the proportion of smokers is equal to:",
+    "op": [
+        "0.6",
+        "0.5",
+        "0.4",
+        "0.3"
+    ],
+    "created_at": "2026-07-08T19:28:13.799866+00:00"
+},
+{
+    "id": 59239,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following relationship exist between sampling distribution of samples mean and sampling distribution samples median?",
+    "op": [
+        "Both of these",
+        "None of these",
+        "Var(median)< Var(median)",
+        "Var(mean)<Var(median)"
+    ],
+    "created_at": "2026-07-08T19:31:54.921484+00:00"
+},
+{
+    "id": 59242,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "To determine a sample size which test we use  ……….",
+    "op": [
+        "t",
+        "None of these",
+        "F",
+        "z"
+    ],
+    "created_at": "2026-07-08T19:32:39.600764+00:00"
+},
+{
+    "id": 59243,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The mean of the sampling distribution of difference of means is represented by:",
+    "op": [
+        "µ1 -µ 2",
+        "None of above",
+        "µ",
+        "б"
+    ],
+    "created_at": "2026-07-08T19:33:05.761616+00:00"
+},
+{
+    "id": 59244,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In a Poisson distribution, Maximum Likelihood Estimator (MLE) for meu (u) is equal to:",
+    "op": [
+        "Reciprocal of the sample variance",
+        "Sample variance",
+        "Sample mean",
+        "Reciprocal of the mean"
+    ],
+    "created_at": "2026-07-08T19:33:22.539344+00:00"
+},
+{
+    "id": 59247,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "When an interval is constructed, what is the probability of occurrence of parameter in it?",
+    "op": [
+        "1",
+        "Either 1 or 0",
+        "0",
+        "50"
+    ],
+    "created_at": "2026-07-08T19:37:04.431214+00:00"
+},
+{
+    "id": 59251,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A random sample of n = 6 has the elements 6, 10,13,14,18 and 20. What is the point estimate of the population mean?",
+    "op": [
+        "13.5",
+        "11.5",
+        "12",
+        "11"
+    ],
+    "created_at": "2026-07-08T19:40:32.770398+00:00"
+},
+{
+    "id": 59255,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "___________ are equivalent.",
+    "op": [
+        "Type-I error and Level of significance",
+        "Type-II error and Level of confidence",
+        "Type-II error and Level of significance",
+        "Type-I error and Level of confidence"
+    ],
+    "created_at": "2026-07-08T19:41:40.94436+00:00"
+},
+{
+    "id": 59259,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In sampling from a large population with б = 12, the standard error of the mean is found to be 3. The size of the sample used is:",
+    "op": [
+        "16",
+        "22",
+        "12",
+        "11"
+    ],
+    "created_at": "2026-07-08T19:45:13.461365+00:00"
+},
+{
+    "id": 59264,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Simple random sampling is appropriate, when the units in population are",
+    "op": [
+        "Homogeneous",
+        "Heterogeneous",
+        "Not accessible",
+        "Accesssble"
+    ],
+    "created_at": "2026-07-08T19:48:55.802622+00:00"
+},
+{
+    "id": 59266,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Interval estimation and confidence interval are:",
+    "op": [
+        "Different",
+        "Same",
+        "Independent",
+        "Opposite"
+    ],
+    "created_at": "2026-07-08T19:50:18.262984+00:00"
+},
+{
+    "id": 59267,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "In repeating sampling, which of the following possess desirable property of being Unbiased?",
+    "op": [
+        "Sample Mean",
+        "Sample proportion",
+        "All of above",
+        "Sample median"
+    ],
+    "created_at": "2026-07-08T19:51:34.469639+00:00"
+},
+{
+    "id": 59268,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Consider a large population with a mean of 160 and a standard deviation of 25.  A random sample of size 64 is taken from this population.  What is the standard deviation of the sample mean?",
+    "op": [
+        "4.254",
+        "1.256",
+        "2.569",
+        "3.125"
+    ],
+    "created_at": "2026-07-08T19:58:39.911431+00:00"
+},
+{
+    "id": 59269,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "Which of the following is most important and most widely used method in point estimation?",
+    "op": [
+        "The method of least square",
+        "The method of maximum likelihood",
+        "The method of fractional moments",
+        "The method of moments"
+    ],
+    "created_at": "2026-07-08T20:00:56.120786+00:00"
+},
+{
+    "id": 59270,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "An estimator is said to be efficient if it has",
+    "op": [
+        "Unbiased estimate",
+        "None of these",
+        "Both (a) & (b)",
+        "Smallest Variance"
+    ],
+    "created_at": "2026-07-08T20:02:01.868759+00:00"
+},
+{
+    "id": 59271,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The central limit theorem states that the mean of the sampling distribution of the means is equal to the population:",
+    "op": [
+        "Mean",
+        "Standard deviation",
+        "Random Error",
+        "Standard error"
+    ],
+    "created_at": "2026-07-08T20:08:10.649951+00:00"
+},
+{
+    "id": 59272,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A parameter is a ..... quantity.",
+    "op": [
+        "Constant",
+        "Random",
+        "Sample",
+        "Variable"
+    ],
+    "created_at": "2026-07-08T20:46:35.620739+00:00"
+},
+{
+    "id": 59274,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "A randomly selected sample of 400 students at a university with 15-week semesters was asked whether or not they think the semester should be shortened to 14 weeks.46% of the 400 students surveyed answered \"yes\". Which one of the following statements about the number 46% is correct?",
+    "op": [
+        "It is a population parameter",
+        "It is a standard error",
+        "It is a sample statistic",
+        "It is a margin of error"
+    ],
+    "created_at": "2026-07-08T21:01:25.957534+00:00"
+},
+{
+    "id": 59300,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "09 July 2026",
+    "qt": "The confidence intervals become wide and less precise by",
+    "op": [
+        "decreasing the sample size",
+        "decreasing the level of significance",
+        "increasing the sample size",
+        "None of these"
+    ],
+    "created_at": "2026-07-08T22:44:27.42451+00:00"
+},
+{
+    "id": 60521,
+    "cc": "STA301",
+    "qn": "04",
+    "dt": "10 July 2026",
+    "qt": "[Math Processing Error]$${\\text{The mean of the sampling distribution of }}\\overline x _1 - \\overline x _2 {\\text{, denoted by }}\\mu _{\\overline x _1 - \\overline x _2 } {\\text{is equal to the difference between repective}}$$",
+    "op": [
+        "Population Proportions",
+        "Population Means",
+        "Sample Means",
+        "Sample Proportions"
+    ],
+    "created_at": "2026-07-10T18:03:10.54249+00:00"
+},
+{
+    "id": 71168,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 3\\sigma \\,and\\,\\mu + 3\\sigma \\,?",
+    "op": [
+        "99.73%",
+        "68.26%",
+        "50%",
+        "95.44%"
+    ],
+    "created_at": "2026-07-15T13:27:57.033399+00:00"
+},
+{
+    "id": 71187,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The mean of the sampling distribution of }}\\overline x _1 - \\overline x _2 {\\text{, denoted by }}\\mu _{\\overline x _1 - \\overline x _2 } {\\text{is equal to the difference between repective}} ",
+    "op": [
+        "Population Proportions",
+        "Sample Proportions",
+        "Sample Means",
+        "Population Means"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71213,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{In hyper geometric distribution; N = number of units in the population, n = number of units in the sample and k = number of successes in the population, then mean of hyper geometric distribution is defined as:}}\\]",
+    "op": [
+        "\\[\\frac{n}{N}\\]",
+        "\\[n.k\\]",
+        "\\[n\\frac{k}{N}\\]",
+        "\\[\\frac{k}{N}\\]"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71214,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{In hyper geometric distribution; N = number of units in the population, n = number of units in the sample and k = number of successes in the population, then mean of hyper geometric distribution is defined as:}}",
+    "op": [
+        "\\frac{k}{N}",
+        "\\frac{n}{N}",
+        "n\\frac{k}{N}",
+        "n.k"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71224,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\begin{gathered} {\\text{If X and Y are two discrete r}}{\\text{.v's with joint probability function f (X}}_i ,Y_j ), \\ {\\text{then the conditional distribution of X given Y is:}} \\\\ \\end{gathered} given by",
+    "op": [
+        "Both of the above",
+        "f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/g\\left( {X_i } \\right)",
+        "f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/h\\left( {Y_j } \\right)",
+        "None of the above"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71229,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 2\\sigma \\,and\\,\\mu + 2\\sigma \\,?",
+    "op": [
+        "68.26%",
+        "50%",
+        "99.73%",
+        "95.44%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71232,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{In a normal distribution how much area lies between }}\\mu \\pm \\sigma \\]",
+    "op": [
+        "65%",
+        "80%",
+        "68.26%",
+        "75%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71241,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 2}}{2^1}}}{{1!}}{\\text{ the mean value is:}}",
+    "op": [
+        "0",
+        "2",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71247,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - \\sigma \\,and\\,\\mu + \\sigma \\,?\\]",
+    "op": [
+        "95.44%",
+        "99.73%",
+        "75.66%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71261,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 0.135}}{{0.135}^1}}}{{1!}}{\\text{ the mean value is:}}",
+    "op": [
+        "1",
+        "-0.135",
+        "0.135",
+        "{{e^{ - 0.135}}}"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71264,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 2}}{2^1}}}{{1!}}{\\text{ the mean value is:}}\\]",
+    "op": [
+        "2",
+        "0",
+        "3",
+        "1"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71287,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{In a normal distribution how much area lies between }}\\mu \\pm 2\\sigma",
+    "op": [
+        "95.45%",
+        "85%",
+        "75%",
+        "94%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71288,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{The mean of Uniform distribution defined on the interval [a,b] is:}}",
+    "op": [
+        "\\left( {a - b} \\right)",
+        "\\frac{{a - b}}{2}",
+        "\\left( {a + b} \\right)",
+        "\\frac{{a + b}}{2}"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71289,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{In a normal distribution how much area lies between }}\\mu \\pm \\sigma",
+    "op": [
+        "65%",
+        "75%",
+        "68.26%",
+        "80%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71290,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{For the Poisson distribution P(X = 1) = }}\\frac{{{e^{ - 0.135}}{{0.135}^1}}}{{1!}}{\\text{ the mean value is:}}\\]",
+    "op": [
+        "0.135",
+        "1",
+        "\\[{{e^{ - 0.135}}}\\]",
+        "-0.135"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71296,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{In}}\\,{\\text{a}}\\,{\\text{binomial}}\\,{\\text{distribution,formula}}\\,{\\text{of}}\\,{\\text{calculating}}\\,s\\tan {\\text{dard deviation is}}",
+    "op": [
+        "\\sqrt p",
+        "\\sqrt {npq}",
+        "\\sqrt {pq}",
+        "\\sqrt {np}"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71297,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 2\\sigma \\,and\\,\\mu + 2\\sigma \\,?\\]",
+    "op": [
+        "95.44%",
+        "99.73%",
+        "50%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71314,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "Let \\[ f(X_i ,Y_i ) \\] be the joint probability function of the two discrete random variables X and Y where i = 1,2,3,....,m and j = 1,2,3,....,n, then the marginal probability function of X is defined as:",
+    "op": [
+        "Both of the above",
+        "None of the above",
+        "\\[ g(x_i ) = \\sum\\nolimits_j {f(X_i ,Y_i )} \\]",
+        "\\[ g(x_i ) = \\sum\\nolimits_i {f(X_i ,Y_i )} \\]"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71321,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[ {\\text{The mean of the sampling distribution of }}\\overline x _1 - \\overline x _2 {\\text{, denoted by }}\\mu _{\\overline x _1 - \\overline x _2 } {\\text{is equal to the difference between repective}} \\] ",
+    "op": [
+        "Population Means",
+        "Population Proportions",
+        "Sample Means",
+        "Sample Proportions"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71322,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "{\\text{In a normal distribution how much area lies between }}\\mu \\pm 3\\sigma",
+    "op": [
+        "68%",
+        "89%",
+        "70%",
+        "99.73%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71324,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "Let f(X_i ,Y_i ) be the joint probability function of the two discrete random variables X and Y where i = 1,2,3,....,m and j = 1,2,3,....,n, then the marginal probability function of X is defined as:",
+    "op": [
+        "None of the above",
+        "g(x_i ) = \\sum\\nolimits_i {f(X_i ,Y_i )}",
+        "g(x_i ) = \\sum\\nolimits_j {f(X_i ,Y_i )}",
+        "Both of the above"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71343,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{In a normal distribution how much area lies between }}\\mu \\pm 3\\sigma \\]",
+    "op": [
+        "70%",
+        "99.73%",
+        "89%",
+        "68%"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71353,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{The mean of Uniform distribution defined on the interval [a,b] is:}}\\]",
+    "op": [
+        "\\[\\frac{{a + b}}{2}\\]",
+        "\\[\\left( {a - b} \\right)\\]",
+        "\\[\\frac{{a - b}}{2}\\]",
+        "\\[\\left( {a + b} \\right)\\]"
+    ],
+    "created_at": "2026-07-15T13:27:57.962061+00:00"
+},
+{
+    "id": 71371,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[ \\begin{gathered} {\\text{If X and Y are two discrete r}}{\\text{.v's with joint probability function f (X}}_i ,Y_j ), \\ {\\text{then the conditional distribution of X given Y is:}} \\\\ \\end{gathered} \\] given by",
+    "op": [
+        "\\[ f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/h\\left( {Y_j } \\right) \\]",
+        "Both of the above",
+        "None of the above",
+        "\\[ f\\left( {{\\text{X}}_i |Y_j } \\right){\\text{ }} = f\\left( {X_i ,{\\text{ Y}}_j } \\right){\\text{ }}/g\\left( {X_i } \\right) \\]"
+    ],
+    "created_at": "2026-07-15T13:27:58.990359+00:00"
+},
+{
+    "id": 71397,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - \\sigma \\,and\\,\\mu + \\sigma \\,?",
+    "op": [
+        "68.26%",
+        "75.66%",
+        "95.44%",
+        "99.73%"
+    ],
+    "created_at": "2026-07-15T13:27:58.990359+00:00"
+},
+{
+    "id": 71471,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "08 January 2026",
+    "qt": "\\[{\\text{In a normal distribution how much area lies between }}\\mu \\pm 2\\sigma \\]",
+    "op": [
+        "95.45%",
+        "94%",
+        "75%",
+        "85%"
+    ],
+    "created_at": "2026-07-15T13:27:58.990359+00:00"
+},
+{
+    "id": 71586,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "09 January 2026",
+    "qt": "\\[According{\\text{ }}to{\\text{ }}emperical{\\text{ }}rule,{\\text{ }}how{\\text{ }}much{\\text{ }}data{\\text{ }}lies{\\text{ }}between\\,\\mu - 3\\sigma \\,and\\,\\mu + 3\\sigma \\,?\\]",
+    "op": [
+        "95.44%",
+        "50%",
+        "99.73%",
+        "68.26%"
+    ],
+    "created_at": "2026-07-15T13:28:00.027621+00:00"
+},
+{
+    "id": 73684,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random experiment has five outcomes in its sample space {s1, s2, s3, s4, s5}. If P(s1)=0.2,P(s2)=0.3, P(s3)=0.1 and P(s4)=0.2 then P(s5)=?",
+    "op": [
+        "0.2",
+        "1",
+        "0.8",
+        "0.5"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73685,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "A random variable X has the probability distribution as follows: X: 0 1 2 3 P(X): 2k 3k 13k 2k What is the possible value of k?",
+    "op": [
+        "0.03",
+        "0.07",
+        "0.05",
+        "0.01"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+},
+{
+    "id": 73686,
+    "cc": "STA301",
+    "qn": "03",
+    "dt": "06 July 2026",
+    "qt": "The number of students waiting a bus stop in the morning and their probabilities are given below. Where x = number of students waiting at the bus stop. x f(x) 0 0.10 1 0.25 2 0.30 3 0.20 4 0.15 What is the probability that there are 0 (x=0) students waiting at the bus stop?",
+    "op": [
+        "0.25",
+        "0.01",
+        "0.10",
+        "0.0"
+    ],
+    "created_at": "2026-07-15T13:53:48.446846+00:00"
+}
+]

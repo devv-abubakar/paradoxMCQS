@@ -1,0 +1,688 @@
+[
+    {
+        "id": 51047,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Main building block of nervous system is neuron. It consists of _________ components.",
+        "op": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "created_at": "2026-07-06T00:13:04.419379+00:00"
+    },
+    {
+        "id": 51051,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "In repeated experiments, the chimpanzee joined the two sticks and took the banana immediately is the example of __________.",
+        "op": [
+            "Insight learning",
+            "Social learning",
+            "Humanism",
+            "Animal organization"
+        ],
+        "created_at": "2026-07-06T00:13:35.781391+00:00"
+    },
+    {
+        "id": 51054,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "____________also called trial-and-error learning.",
+        "op": [
+            "Operant Conditioning",
+            "Habituation",
+            "Imprinting",
+            "Classical Conditioning"
+        ],
+        "created_at": "2026-07-06T00:14:06.907219+00:00"
+    },
+    {
+        "id": 51058,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "__________ takes the nerve impulse away from the cell body.",
+        "op": [
+            "Synapsis",
+            "Dendron",
+            "Axon",
+            "Mitochondria"
+        ],
+        "created_at": "2026-07-06T00:14:50.338301+00:00"
+    },
+    {
+        "id": 51061,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "A ________is a group of individuals belonging to the same species and organized in a cooperative manner.",
+        "op": [
+            "Society",
+            "Species",
+            "Not applicable",
+            "Kingdom"
+        ],
+        "created_at": "2026-07-06T00:15:24.93833+00:00"
+    },
+    {
+        "id": 51063,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "The courtship and reproductive behaviors of many marine animals are linked to the timing of the __________ clocks.",
+        "op": [
+            "cannual",
+            "lunar",
+            "circadian",
+            "circannual"
+        ],
+        "created_at": "2026-07-06T00:16:08.083082+00:00"
+    },
+    {
+        "id": 51067,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Information handled by neurons is present in form of electrical signal is called _____________.",
+        "op": [
+            "Sypanse",
+            "Nerve impulse",
+            "Dendrite",
+            "Cell body"
+        ],
+        "created_at": "2026-07-06T00:16:47.21223+00:00"
+    },
+    {
+        "id": 51069,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "The space (junction) between the end bulb and the dendrite of the next neuron is the __________.",
+        "op": [
+            "joint",
+            "nerve impulse",
+            "synapse",
+            "synaptic cleft"
+        ],
+        "created_at": "2026-07-06T00:17:16.753473+00:00"
+    },
+    {
+        "id": 51074,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Butterflies and ____ are the most common cocoon building insects.",
+        "op": [
+            "House flies",
+            "Moths",
+            "Horse flies",
+            "Dragon flies"
+        ],
+        "created_at": "2026-07-06T00:17:58.130683+00:00"
+    },
+    {
+        "id": 53205,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "_______________ show maximum parental care.",
+        "op": [
+            "Fishes",
+            "Amphibians",
+            "Birds",
+            "Reptiles"
+        ],
+        "created_at": "2026-07-06T06:25:21.27063+00:00"
+    },
+    {
+        "id": 53208,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "A very young animal develops attachment with the very first object it has visual, auditory or tactile experience. It thereafter follows that object. This type of behavior is an example of:",
+        "op": [
+            "Territoriality",
+            "Habituation",
+            "Innate Behavior",
+            "Imprinting"
+        ],
+        "created_at": "2026-07-06T06:25:54.754304+00:00"
+    },
+    {
+        "id": 53209,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "In crayfish, ___________ is used as the rapid escape behaviour from predator.",
+        "op": [
+            "tail flip",
+            "swimming",
+            "muscle twitch",
+            "Both of these"
+        ],
+        "created_at": "2026-07-06T06:26:08.881102+00:00"
+    },
+    {
+        "id": 53215,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Lorenz identified ______________ characteristics of fixed action patterns.",
+        "op": [
+            "8",
+            "6",
+            "3",
+            "5"
+        ],
+        "created_at": "2026-07-06T06:26:30.633108+00:00"
+    },
+    {
+        "id": 53217,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "__________regurgitate blood and donate it to other members of their group who have failed to feed that night, ensuring they do not starve.",
+        "op": [
+            "Worker bee",
+            "Vervet monkeys",
+            "Vampire bats",
+            "Emperor penguins"
+        ],
+        "created_at": "2026-07-06T06:27:02.416147+00:00"
+    },
+    {
+        "id": 53220,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Neuronal Plasticity is the capacity of ___________to change with experience.",
+        "op": [
+            "Endocrine system",
+            "Respiratory system",
+            "Circulatory system",
+            "Nervous system"
+        ],
+        "created_at": "2026-07-06T06:27:17.5074+00:00"
+    },
+    {
+        "id": 53223,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "______________ is a sequence of unlearned, innate behaviour that is unchangeable.",
+        "op": [
+            "Flexible Action Pattern",
+            "Fixed Action Pattern",
+            "Fixed Action Potential",
+            "Flexible Action Potential"
+        ],
+        "created_at": "2026-07-06T06:27:42.574956+00:00"
+    },
+    {
+        "id": 53225,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Neurons are permeable to _________ flow.",
+        "op": [
+            "blood",
+            "water",
+            "lymph",
+            "ion"
+        ],
+        "created_at": "2026-07-06T06:28:15.021181+00:00"
+    },
+    {
+        "id": 53227,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "One obvious benefit for social aggregations is________, both passive and active, from predators?",
+        "op": [
+            "No benefit at all",
+            "Offence",
+            "Defense",
+            "Migration"
+        ],
+        "created_at": "2026-07-06T06:28:48.65064+00:00"
+    },
+    {
+        "id": 54264,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Agonistic Behaviors in any social behavior is related to _________.",
+        "op": [
+            "Fighting",
+            "Isolation",
+            "Migration",
+            "Reproduction"
+        ],
+        "created_at": "2026-07-06T14:11:02.98729+00:00"
+    },
+    {
+        "id": 54266,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "__________ takes the nerve impulse towards the cell body.",
+        "op": [
+            "Dendron",
+            "Axon",
+            "Mitochondria",
+            "Tentacles"
+        ],
+        "created_at": "2026-07-06T14:11:28.145303+00:00"
+    },
+    {
+        "id": 54267,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Ability of an animal’s nervous system to perceive, store, process, and use information gathered by sensory receptors called _____________.",
+        "op": [
+            "Social learning",
+            "Humanism",
+            "Insight learning",
+            "Animal Cognition"
+        ],
+        "created_at": "2026-07-06T14:11:37.029944+00:00"
+    },
+    {
+        "id": 54268,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "The aggressive attacking behavior of male three-spined stickleback fish is an example of ______________.",
+        "op": [
+            "Flexible Action Potential",
+            "Fixed Action Pattern",
+            "Flexible Action Pattern",
+            "Fixed Action Potential"
+        ],
+        "created_at": "2026-07-06T14:11:45.450171+00:00"
+    },
+    {
+        "id": 54270,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Gravitation pull of _____________ determines timing of tidal rhythms in marine environments.",
+        "op": [
+            "earth",
+            "sun",
+            "moon",
+            "star"
+        ],
+        "created_at": "2026-07-06T14:11:56.859614+00:00"
+    },
+    {
+        "id": 54271,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "A stimulus that is strong enough to initiate an impulse is called a __________ .",
+        "op": [
+            "synapse",
+            "signal",
+            "impulse",
+            "threshold"
+        ],
+        "created_at": "2026-07-06T14:12:08.847855+00:00"
+    },
+    {
+        "id": 54273,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Cross-fostering study and Twin Studies are the methods to study _________.",
+        "op": [
+            "genetic disease",
+            "gene expression",
+            "genetic diversity",
+            "genetic variability"
+        ],
+        "created_at": "2026-07-06T14:12:25.935188+00:00"
+    },
+    {
+        "id": 54274,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Neurons are permiable to ____________ ions.",
+        "op": [
+            "Na+",
+            "Cr3+",
+            "Cl-",
+            "Al3+"
+        ],
+        "created_at": "2026-07-06T14:12:47.50701+00:00"
+    },
+    {
+        "id": 54276,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "06 July 2026",
+        "qt": "Selective process shaping the history of a behavioural trait explans _____________.",
+        "op": [
+            "survival cause",
+            "proximity cause",
+            "ultimate cause",
+            "Proximate cause"
+        ],
+        "created_at": "2026-07-06T14:12:59.242214+00:00"
+    },
+    {
+        "id": 56313,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "The ____________ hormone is critical for stimulating male sexual behaviors.",
+        "op": [
+            "Oxitocin",
+            "Prolectin",
+            "Estrogen",
+            "Testosterone"
+        ],
+        "created_at": "2026-07-07T08:20:11.660388+00:00"
+    },
+    {
+        "id": 56314,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Which of the following is relevant to instinctive behavior?",
+        "op": [
+            "Coccon spinning in buterflies",
+            "Speaking in humans",
+            "Chimpanzee reaching to banana",
+            "Squirrel avoiding repeated stimulus such as car horns"
+        ],
+        "created_at": "2026-07-07T08:20:46.350492+00:00"
+    },
+    {
+        "id": 56316,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Behaviors that are variable with experience are called____________.",
+        "op": [
+            "Innate Behavior",
+            "Territoriality",
+            "None of these",
+            "Learning Behavior"
+        ],
+        "created_at": "2026-07-07T08:21:05.597601+00:00"
+    },
+    {
+        "id": 56319,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "____________is the affect an individual has on proliferating its own genes by reproducing and helping relatives raise offspring.",
+        "op": [
+            "Inclusive fitness",
+            "Aggregation",
+            "Kin selection",
+            "Animal societies"
+        ],
+        "created_at": "2026-07-07T08:21:47.384495+00:00"
+    },
+    {
+        "id": 56323,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Behavior is sum of nervous and ___________ systems.",
+        "op": [
+            "Excretory",
+            "Endocrine",
+            "Skeletal",
+            "Digestive"
+        ],
+        "created_at": "2026-07-07T08:22:57.10559+00:00"
+    },
+    {
+        "id": 56325,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "07 July 2026",
+        "qt": "Russian physiologist Ivan Pavlov conducted his experiments on:",
+        "op": [
+            "Habituation",
+            "Imprinting",
+            "Operant Conditioning",
+            "Classical Conditioning"
+        ],
+        "created_at": "2026-07-07T08:23:10.77626+00:00"
+    },
+    {
+        "id": 58161,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "By watching their mother, baby ducks learn how to avoid danger and to know what is good to eat. This is an example of___________ behavior.",
+        "op": [
+            "Innate",
+            "Learned",
+            "Instinctive",
+            "Inborn"
+        ],
+        "created_at": "2026-07-08T08:00:12.668435+00:00"
+    },
+    {
+        "id": 58162,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is the component of behavioral endocrinology?",
+        "op": [
+            "Lymph",
+            "Blood",
+            "Enzymes",
+            "Hormones"
+        ],
+        "created_at": "2026-07-08T08:02:03.405818+00:00"
+    },
+    {
+        "id": 58163,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "In which of the following fishes reciprocal Altruism could be observed?",
+        "op": [
+            "Cleaner fish",
+            "Carnivorous fish",
+            "Scoliodon",
+            "Anadromous fish"
+        ],
+        "created_at": "2026-07-08T08:02:39.992147+00:00"
+    },
+    {
+        "id": 58324,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Maximum parental care is shown by ____________.",
+        "op": [
+            "Reptiles",
+            "Amphibians",
+            "Echinoderms",
+            "Birds"
+        ],
+        "created_at": "2026-07-08T09:53:50.207061+00:00"
+    },
+    {
+        "id": 58325,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Message passes through the nerves in the form of __________.",
+        "op": [
+            "Cell Body",
+            "Nerve Impulse",
+            "Axon",
+            "Dendrite"
+        ],
+        "created_at": "2026-07-08T09:54:07.54397+00:00"
+    },
+    {
+        "id": 58326,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Which of the following hormones that affects the animal behvious, is not protein or peptide in nature?",
+        "op": [
+            "Vasopressin",
+            "Oxytocin",
+            "Testosterone",
+            "Prolectin"
+        ],
+        "created_at": "2026-07-08T09:54:23.190418+00:00"
+    },
+    {
+        "id": 58328,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Classical and Operant conditioning are examples of ______________ Behavior.",
+        "op": [
+            "Territorial",
+            "Innate",
+            "Imprinting",
+            "Associative"
+        ],
+        "created_at": "2026-07-08T09:55:21.83136+00:00"
+    },
+    {
+        "id": 58330,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "One obvious benefit for social aggregations is________, both passive and active, from predators.",
+        "op": [
+            "Offence",
+            "Surrender",
+            "Migration",
+            "Defense"
+        ],
+        "created_at": "2026-07-08T09:57:07.372074+00:00"
+    },
+    {
+        "id": 58331,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "_____________is a learning that involves making associations between experiences.",
+        "op": [
+            "Individual Learning",
+            "Auditory Learning",
+            "None of the above",
+            "Associative Learning"
+        ],
+        "created_at": "2026-07-08T09:57:15.688276+00:00"
+    },
+    {
+        "id": 58335,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Cognitive behavior is observed in __________ organisms.",
+        "op": [
+            "Insects",
+            "Cephalopods",
+            "All of them",
+            "Mammals"
+        ],
+        "created_at": "2026-07-08T09:59:04.700155+00:00"
+    },
+    {
+        "id": 58508,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "The Mating Systems in which one male mate with one female during a breeding season is called____________.",
+        "op": [
+            "all",
+            "Polygamous mating system",
+            "Monogamous mating system",
+            "Promiscuous mating system"
+        ],
+        "created_at": "2026-07-08T11:24:38.261967+00:00"
+    },
+    {
+        "id": 58509,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Honey bees communicate by performing a special dance called ___________.",
+        "op": [
+            "Tap Dance",
+            "Bees do not dance",
+            "Acro dance",
+            "Waggle dance"
+        ],
+        "created_at": "2026-07-08T11:25:14.123078+00:00"
+    },
+    {
+        "id": 58510,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "Herring gull experiment was performed by _______________ .",
+        "op": [
+            "Niko Tinbergen",
+            "Thomas hunt",
+            "Throndike",
+            "Thomas Fisher"
+        ],
+        "created_at": "2026-07-08T11:25:46.963847+00:00"
+    },
+    {
+        "id": 58511,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "___________ is an oriented movement toward (positive taxis) or away (negative taxis) from some stimulus.",
+        "op": [
+            "Taxis",
+            "None",
+            "Both",
+            "Kinesis"
+        ],
+        "created_at": "2026-07-08T11:26:03.273918+00:00"
+    },
+    {
+        "id": 58512,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "In crayfish, tail filp is used as the rapid escape behaviour from predator. This \"tail flip\" is caused by rapid radid contraction and extension of the massive ___________ muscles.",
+        "op": [
+            "cardiac",
+            "tail",
+            "abdomin",
+            "leg"
+        ],
+        "created_at": "2026-07-08T11:26:18.235969+00:00"
+    },
+    {
+        "id": 58513,
+        "cc": "ZOO403",
+        "qn": "2",
+        "dt": "08 July 2026",
+        "qt": "______________is the formation of a long-lasting behavioral attachment to a particular individual or object at a specific stage in life.",
+        "op": [
+            "Instinct",
+            "Habituation",
+            "Imprinting",
+            "Learning"
+        ],
+        "created_at": "2026-07-08T11:26:33.249528+00:00"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 22647,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "The general pattern of increase or decrease in economics or social phenomena is shown by:",
+        "op": [
+            "Irregular Variation",
+            "Secular Trend",
+            "Cyclical Trend",
+            "Seasonal Trend"
+        ],
+        "created_at": "2026-06-28T02:21:53.33632+00:00"
+    },
+    {
+        "id": 22648,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "The multiplicative time series model is:",
+        "op": [
+            "Y = TSCI",
+            "Y = T + S + C + I",
+            "Y = a + bX + cX",
+            "Y = a + bX"
+        ],
+        "created_at": "2026-06-28T02:22:26.67469+00:00"
+    },
+    {
+        "id": 22649,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "The most commonly used mathematical method for measuring the trend is:",
+        "op": [
+            "Moving average method",
+            "None of them",
+            "Method of least squares",
+            "Semi average method"
+        ],
+        "created_at": "2026-06-28T02:22:34.156355+00:00"
+    },
+    {
+        "id": 22650,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "In a straight line equation Y = a + bX; a is the:",
+        "op": [
+            "Y-intercept",
+            "Slope",
+            "None of them",
+            "X-intercept"
+        ],
+        "created_at": "2026-06-28T02:22:41.688273+00:00"
+    },
+    {
+        "id": 22651,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "The secular trend is measured by the method of semi-averages when:",
+        "op": [
+            "Time series based on yearly values",
+            "Time series consists of even number of values",
+            "Trend is linear",
+            "None of the above"
+        ],
+        "created_at": "2026-06-28T02:22:53.950166+00:00"
+    },
+    {
+        "id": 22652,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "Value of b in the trend line Y = a + bX is:",
+        "op": [
+            "Always negative",
+            "Always positive",
+            "Always zero",
+            "Both negative and positive"
+        ],
+        "created_at": "2026-06-28T02:23:09.342847+00:00"
+    },
+    {
+        "id": 22653,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "${\\text{In fitting of straight line }}\\sum {{{({Y_i} - \\overset{\\lower0.5em\\hbox{$\\smash{\\scriptscriptstyle\\frown}$}}{Y} )}^2}} = 0$",
+        "op": [
+            "All the observed Y values lie on the line",
+            "All the Y values are greater than corresponding values",
+            "None of them",
+            "All the Y values are positive"
+        ],
+        "created_at": "2026-06-28T02:23:22.249711+00:00"
+    },
+    {
+        "id": 22654,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "The additive model of the time series is:",
+        "op": [
+            "Y = T + S + C + I",
+            "Y = a + bX",
+            "Y = a + bX + cX",
+            "Y = TSCI"
+        ],
+        "created_at": "2026-06-28T02:23:30.692626+00:00"
+    },
+    {
+        "id": 22655,
+        "cc": "STA304",
+        "qn": "2",
+        "dt": "28 June 2026",
+        "qt": "A trend is the better fitted trend for which the sum of squares of residuals is:",
+        "op": [
+            "Positive",
+            "Maximum",
+            "Negative",
+            "Minimum"
+        ],
+        "created_at": "2026-06-28T02:23:39.53561+00:00"
+    }
+]

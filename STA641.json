@@ -1,0 +1,1178 @@
+[
+    {
+        "id": 19766,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "P- value for the left tail test is",
+        "op": [
+            "Left tailed Test: P-value =NORM.S.DIST(${z_\\alpha }$, TRUE)",
+            "Left tailed Test: P-value =1 - NORM.S.DIST(${z_\\alpha }$, TRUE)"
+        ],
+        "created_at": "2026-06-23T19:11:06.537869+00:00"
+    },
+    {
+        "id": 19768,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "QQ plot is used to check",
+        "op": [
+            "Normality",
+            "Mean"
+        ],
+        "created_at": "2026-06-23T19:11:20.888817+00:00"
+    },
+    {
+        "id": 19769,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "P- value for the two tailed test is",
+        "op": [
+            "Two tailed Test: P-value = $2(1 - NORM.S.DIST( \\left| {{z_\\alpha }} \\right|, TRUE)$",
+            "Two tailed Test: P-value = $1 - NORM.S.DIST( \\left| {{z_\\alpha }} \\right|, TRUE)$"
+        ],
+        "created_at": "2026-06-23T19:11:28.88644+00:00"
+    },
+    {
+        "id": 19774,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If the sample size is less then 30 and the standard deviation is unknown then we will apply",
+        "op": [
+            "T-test",
+            "Both a and b",
+            "Z- test",
+            "F-test"
+        ],
+        "created_at": "2026-06-23T19:11:48.742307+00:00"
+    },
+    {
+        "id": 19776,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Do not rejecting the null hypothesis when it's actually false is",
+        "op": [
+            "Level of significance",
+            "Power of a test",
+            "Type II error",
+            "Type I error"
+        ],
+        "created_at": "2026-06-23T19:12:00.813637+00:00"
+    },
+    {
+        "id": 19778,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Test statistics for Z-test is",
+        "op": [
+            "$z = \\frac{{\\mu - \\bar x}}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\bar x - x}}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\bar x - \\mu }}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\bar x + \\mu }}{{\\frac{\\sigma }{{\\sqrt n }}}}$"
+        ],
+        "created_at": "2026-06-23T19:12:10.058541+00:00"
+    },
+    {
+        "id": 19779,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "F test is used for",
+        "op": [
+            "Three and more than three means testing",
+            "Singles or two mean testing"
+        ],
+        "created_at": "2026-06-23T19:12:19.860046+00:00"
+    },
+    {
+        "id": 19780,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "A …… can only be used if the population standard deviation is known",
+        "op": [
+            "Z- test",
+            "T-test"
+        ],
+        "created_at": "2026-06-23T19:12:28.819018+00:00"
+    },
+    {
+        "id": 19782,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Alternative hypothesis is denoted by",
+        "op": [
+            "${H_0}$",
+            "${H_1}$"
+        ],
+        "created_at": "2026-06-23T19:12:36.666019+00:00"
+    },
+    {
+        "id": 19793,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Null hypothesis is denoted by",
+        "op": [
+            "${H_0}$",
+            "${H_1}$"
+        ],
+        "created_at": "2026-06-23T19:13:27.600882+00:00"
+    },
+    {
+        "id": 19804,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If Many of the Observation lies on the line or closest to the line",
+        "op": [
+            "Doesn’t follows the Normal distribution",
+            "Follows the Normal distribution"
+        ],
+        "created_at": "2026-06-23T19:14:24.111298+00:00"
+    },
+    {
+        "id": 19812,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "There are basically …. types of errors",
+        "op": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ],
+        "created_at": "2026-06-23T19:14:43.405653+00:00"
+    },
+    {
+        "id": 19818,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Z-test and T-test are used for",
+        "op": [
+            "Singles or two mean testing",
+            "Three and more then three means"
+        ],
+        "created_at": "2026-06-23T19:15:08.990965+00:00"
+    },
+    {
+        "id": 19820,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "=NORM.S.DIST function. Returns the",
+        "op": [
+            "Chi distribution",
+            "Standard normal distribution",
+            "Normal distribution",
+            "Poisson distribution"
+        ],
+        "created_at": "2026-06-23T19:15:28.068482+00:00"
+    },
+    {
+        "id": 19825,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Function to generate random numbers from normal distribution is",
+        "op": [
+            "=NORM.INV(rand(), mean, standard deviation)",
+            "=NORM.INV(rand(), standard deviation, mean)",
+            "=NORM.INV(rand(), mean, median)",
+            "=NORM.S.DIST(rand(), mean, variance)"
+        ],
+        "created_at": "2026-06-23T19:16:02.121262+00:00"
+    },
+    {
+        "id": 19829,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Standard normal distribution has a mean ….. and a standard deviation …..",
+        "op": [
+            "Zero, One",
+            "One, Two",
+            "Zero, Two",
+            "One, Zero"
+        ],
+        "created_at": "2026-06-23T19:16:12.693908+00:00"
+    },
+    {
+        "id": 19840,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "Rejecting the null hypothesis when it's actually true is",
+        "op": [
+            "Type II error",
+            "Type I error",
+            "Level of significance",
+            "Power of a test"
+        ],
+        "created_at": "2026-06-23T19:18:32.457043+00:00"
+    },
+    {
+        "id": 20459,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "24 June 2026",
+        "qt": "If the sample size is large (n>30) and the standard deviation is unknown then we will apply",
+        "op": [
+            "Z- test",
+            "F-test"
+        ],
+        "created_at": "2026-06-24T03:32:06.657071+00:00"
+    },
+    {
+        "id": 46814,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Function to generate random numbers from normal distribution is",
+        "op": [
+            "=NORM.INV(rand(), standard deviation, mean)",
+            "=NORM.INV(rand(), mean, median)",
+            "=NORM.INV(rand(), mean, standard deviation)",
+            "=NORM.S.DIST(rand(), mean, variance)"
+        ],
+        "created_at": "2026-06-30T06:40:57.973203+00:00"
+    },
+    {
+        "id": 46815,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Test statistics for Z-test is",
+        "op": [
+            "$z = \\frac{{\\bar x + \\mu }}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\mu - \\bar x}}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\bar x - \\mu }}{{\\frac{\\sigma }{{\\sqrt n }}}}$",
+            "$z = \\frac{{\\bar x - x}}{{\\frac{\\sigma }{{\\sqrt n }}}}$"
+        ],
+        "created_at": "2026-06-30T06:41:57.794049+00:00"
+    },
+    {
+        "id": 46816,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "There are basically …. types of errors",
+        "op": [
+            "Five",
+            "Four",
+            "Two",
+            "Three"
+        ],
+        "created_at": "2026-06-30T06:42:37.200378+00:00"
+    },
+    {
+        "id": 46817,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If Many of the Observation lies on the line or closest to the line",
+        "op": [
+            "Doesn’t follows the Normal distribution",
+            "Follows the Normal distribution"
+        ],
+        "created_at": "2026-06-30T06:42:52.656502+00:00"
+    },
+    {
+        "id": 46818,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "If the sample size is less then 30 and the standard deviation is unknown then we will apply",
+        "op": [
+            "T-test",
+            "Z- test",
+            "F-test",
+            "Both a and b"
+        ],
+        "created_at": "2026-06-30T06:44:31.345604+00:00"
+    },
+    {
+        "id": 46819,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "P- value for the two tailed test is",
+        "op": [
+            "Two tailed Test: P-value = $2(1 - NORM.S.DIST( \\left| {{z_\\alpha }} \\right|, TRUE)$",
+            "Two tailed Test: P-value = $1 - NORM.S.DIST( \\left| {{z_\\alpha }} \\right|, TRUE)$"
+        ],
+        "created_at": "2026-06-30T06:44:44.643815+00:00"
+    },
+    {
+        "id": 46820,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Rejecting the null hypothesis when it's actually true is",
+        "op": [
+            "Type I error",
+            "Level of significance",
+            "Power of a test",
+            "Type II error"
+        ],
+        "created_at": "2026-06-30T06:45:11.661161+00:00"
+    },
+    {
+        "id": 46821,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Standard normal distribution has a mean ….. and a standard deviation …..",
+        "op": [
+            "One, Zero",
+            "One, Two",
+            "Zero, Two",
+            "Zero, One"
+        ],
+        "created_at": "2026-06-30T06:45:28.77239+00:00"
+    },
+    {
+        "id": 46822,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Alternative hypothesis is denoted by",
+        "op": [
+            "\\({H_1}\\)",
+            "\\({H_0}\\)"
+        ],
+        "created_at": "2026-06-30T06:45:46.54414+00:00"
+    },
+    {
+        "id": 46823,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "30 June 2026",
+        "qt": "Do not rejecting the null hypothesis when it's actually false is",
+        "op": [
+            "Level of significance",
+            "Power of a test",
+            "Type I error",
+            "Type II error"
+        ],
+        "created_at": "2026-06-30T06:45:59.236034+00:00"
+    },
+    {
+        "id": 57312,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The “SPSS” is a package of programs for",
+        "op": [
+            "Manipulation",
+            "All of these",
+            "Analyzing",
+            "Presenting data"
+        ],
+        "created_at": "2026-07-07T19:11:27.60127+00:00"
+    },
+    {
+        "id": 57315,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When might you want to change the default for the ‘width’ column?",
+        "op": [
+            "When you expect there to be more digits than the default setting",
+            "When there is missing data",
+            "Every time you input data",
+            "When you want at least two decimal places"
+        ],
+        "created_at": "2026-07-07T19:11:39.113784+00:00"
+    },
+    {
+        "id": 57321,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the Data View in the SPSS Data Editor, each row represents what",
+        "op": [
+            "A variable",
+            "A case",
+            "A data point",
+            "A missing value"
+        ],
+        "created_at": "2026-07-07T19:11:52.351642+00:00"
+    },
+    {
+        "id": 57325,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "If our data use an attitude scale, what type of variable measure should we select?",
+        "op": [
+            "Ordinal",
+            "Scale",
+            "Nominal",
+            "Both scale and nominal"
+        ],
+        "created_at": "2026-07-07T19:12:00.463256+00:00"
+    },
+    {
+        "id": 57329,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, what is the ‘Variable View’ option used for?",
+        "op": [
+            "To manipulate the actual data",
+            "To set up the dataset parameters",
+            "To check SPSS outputs",
+            "To enter the actual raw data"
+        ],
+        "created_at": "2026-07-07T19:12:12.168166+00:00"
+    },
+    {
+        "id": 57332,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What is the advantage of using SPSS over calculating statistics by hand?",
+        "op": [
+            "It equips you with a useful transferable skill.",
+            "All of the other given options.",
+            "It reduces the chance of making errors in your calculations.",
+            "Many researchers use SPSS as it is a recognised software package."
+        ],
+        "created_at": "2026-07-07T19:12:24.644113+00:00"
+    },
+    {
+        "id": 57334,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "SPSS stands for which of the following?",
+        "op": [
+            "Statistical Package for the Social Sciences",
+            "Simple Program for Statistics and Sciences",
+            "Statistical Package for Simple Solutions",
+            "Solving Problem for the Simple Science"
+        ],
+        "created_at": "2026-07-07T19:12:44.770003+00:00"
+    },
+    {
+        "id": 57339,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In which SPSS tab, the rows represent variables and the columns represent characteristics of variables.",
+        "op": [
+            "Output viewer",
+            "Data editor",
+            "Variable view",
+            "Data view"
+        ],
+        "created_at": "2026-07-07T19:12:54.523148+00:00"
+    },
+    {
+        "id": 57341,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How would you copy a scatter plot that you have just produced in SPSS?",
+        "op": [
+            "In Chart Editor, click Descriptive Statistics, copy, OK",
+            "In Data Editor, open Graphs dialog box, click copy, OK",
+            "In Output Viewer, select the scatter plot, right click: choose the option copy",
+            "In Variable Viewer, open scatter plot, click File, copy, OK"
+        ],
+        "created_at": "2026-07-07T19:13:14.346222+00:00"
+    },
+    {
+        "id": 57346,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, the Data View window looks like Excel Sheet. By default, \"rows\" in Data View are labeled as:",
+        "op": [
+            "Row1, Row2, Row3 ...",
+            "R1, R2, R3 ...",
+            "I, II, III ...",
+            "1, 2, 3 ..."
+        ],
+        "created_at": "2026-07-07T19:13:36.874349+00:00"
+    },
+    {
+        "id": 57511,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "How many type of spreadsheet in SPSS",
+        "op": [
+            "Five",
+            "Four",
+            "Two",
+            "Three"
+        ],
+        "created_at": "2026-07-07T19:35:00.060198+00:00"
+    },
+    {
+        "id": 57515,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "SPSS uses the term 'Scale' to refer to",
+        "op": [
+            "Categorical data",
+            "All of these choices",
+            "Both interval and ratio level data",
+            ". Both nominal and ordinal level data"
+        ],
+        "created_at": "2026-07-07T19:35:55.0369+00:00"
+    },
+    {
+        "id": 57517,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Storing and retrieving data files carried out via the",
+        "op": [
+            "None of these",
+            "Drop-down menu",
+            "A & B",
+            "Drop-up menu"
+        ],
+        "created_at": "2026-07-07T19:36:20.52406+00:00"
+    },
+    {
+        "id": 57521,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is used for creating and defining various characteristics of variables in SPSS?",
+        "op": [
+            "Output viewer",
+            "Data view",
+            "Variable view",
+            "Data editor"
+        ],
+        "created_at": "2026-07-07T19:36:51.747043+00:00"
+    },
+    {
+        "id": 57523,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "You can enter a lager description of the variable in",
+        "op": [
+            "Values",
+            "Label",
+            "Width",
+            "Type"
+        ],
+        "created_at": "2026-07-07T19:37:13.256578+00:00"
+    },
+    {
+        "id": 57525,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In scatter plots we look for a relationship between the _____variables.",
+        "op": [
+            "Three",
+            "Four",
+            "Two",
+            "One"
+        ],
+        "created_at": "2026-07-07T19:37:33.530442+00:00"
+    },
+    {
+        "id": 57526,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, the Data View window looks like Excel Sheet. By default, \"columns\" in Data View are labeled as:",
+        "op": [
+            "X1, X2, X3 ...",
+            "A, B, C ....",
+            "var, var, var ...",
+            "column1, column2, column3 ..."
+        ],
+        "created_at": "2026-07-07T19:37:59.032625+00:00"
+    },
+    {
+        "id": 57528,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When would you need to allocate numbers within the values cell?",
+        "op": [
+            "When using interval data",
+            "When you have missing values",
+            "When using ratio data",
+            "When using a categorical variable that measures groups"
+        ],
+        "created_at": "2026-07-07T19:38:21.454114+00:00"
+    },
+    {
+        "id": 57788,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, where the results of applied tests are shown?",
+        "op": [
+            "In the same data sheet",
+            "In variable view window",
+            "In new Data sheet",
+            "In the output window"
+        ],
+        "created_at": "2026-07-08T02:55:14.926875+00:00"
+    },
+    {
+        "id": 57790,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A scatter plots displays individual observation in an area determined by a _____ axis.",
+        "op": [
+            "A & B",
+            "Vertical",
+            "None of these",
+            "Horizontal"
+        ],
+        "created_at": "2026-07-08T02:58:09.632484+00:00"
+    },
+    {
+        "id": 57791,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Ampersands(&) and spaces _______used as variables name",
+        "op": [
+            "None of these",
+            "Both A & B",
+            "cannot be",
+            "can be"
+        ],
+        "created_at": "2026-07-08T02:59:01.066256+00:00"
+    },
+    {
+        "id": 57794,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When SPSS is first open a default dialogue box appears that gives the user a number of.",
+        "op": [
+            "A & B",
+            "Editing tutorial",
+            "Options",
+            "Date type"
+        ],
+        "created_at": "2026-07-08T02:59:54.42137+00:00"
+    },
+    {
+        "id": 57795,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, select the window where the results of your analysis appear?",
+        "op": [
+            "Output view",
+            "Analysis view",
+            "Data editor",
+            "Data view"
+        ],
+        "created_at": "2026-07-08T03:00:13.729045+00:00"
+    },
+    {
+        "id": 57811,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following variable name will SPSS reject?",
+        "op": [
+            "roll-no",
+            "age",
+            "sex",
+            "birth_date"
+        ],
+        "created_at": "2026-07-08T03:27:53.6585+00:00"
+    },
+    {
+        "id": 57812,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, how is a variable name different from a variable label?",
+        "op": [
+            "It is shorter and less detailed.",
+            "It is abstract and unspecific.",
+            "It is longer and more detailed.",
+            "It refers to codes rather than variables."
+        ],
+        "created_at": "2026-07-08T03:28:17.90113+00:00"
+    },
+    {
+        "id": 57813,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which regression techniques is used in SPSS",
+        "op": [
+            "Logistic regression",
+            "Linear regression",
+            "All of these",
+            "Multiple regression"
+        ],
+        "created_at": "2026-07-08T03:28:28.71157+00:00"
+    },
+    {
+        "id": 57814,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Control Chart is a tool which is used to _______________ the variation.",
+        "op": [
+            "monitor",
+            "control",
+            "decrease",
+            "evaluate"
+        ],
+        "created_at": "2026-07-08T03:28:39.837054+00:00"
+    },
+    {
+        "id": 57815,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What are the two main windows in SPSS?",
+        "op": [
+            "Data view and Output view",
+            "Variable view and Output view",
+            "Data view and Variable view",
+            "Data editor and Variable view"
+        ],
+        "created_at": "2026-07-08T03:28:52.188246+00:00"
+    },
+    {
+        "id": 57816,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the Variable View in the SPSS Data Editor, each row represents what?",
+        "op": [
+            "A case",
+            "A missing value",
+            "A data point",
+            "A variable"
+        ],
+        "created_at": "2026-07-08T03:29:58.769471+00:00"
+    },
+    {
+        "id": 57819,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In which sub-dialog box can the Chi Square test be found",
+        "op": [
+            "Bivariate: Pearson",
+            "Frequencies: Percentages",
+            "Crosstabs: Statistics",
+            "Gender: Female"
+        ],
+        "created_at": "2026-07-08T03:32:13.101198+00:00"
+    },
+    {
+        "id": 57820,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In Control Charts, LCL is calculated as:",
+        "op": [
+            "Average + 2 Standard Deviation",
+            "Average - 2 Standard Deviation",
+            "Average - 3 Standard Deviation",
+            "Average + 3 Standard Deviation"
+        ],
+        "created_at": "2026-07-08T03:32:26.17624+00:00"
+    },
+    {
+        "id": 57821,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following statements about nominal data is true?",
+        "op": [
+            "Nominal data have magnitude",
+            "Nominal is a synonym for 'continuous'.",
+            "All nominal variables are dichotomous",
+            "Nominal data are categorical"
+        ],
+        "created_at": "2026-07-08T03:32:39.127915+00:00"
+    },
+    {
+        "id": 57889,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In which SPSS tab, the rows represent individual cases and the columns represent variables in your data.",
+        "op": [
+            "Data editor",
+            "Data view",
+            "Variable view",
+            "Output viewer"
+        ],
+        "created_at": "2026-07-08T04:23:49.689749+00:00"
+    },
+    {
+        "id": 57890,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "A data file shown in the data editor can be saved by using the commands",
+        "op": [
+            "Save as",
+            "Save",
+            "None of these",
+            "A & B"
+        ],
+        "created_at": "2026-07-08T04:24:07.796041+00:00"
+    },
+    {
+        "id": 57892,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In Control Charts, the LCL stands for",
+        "op": [
+            "Lower Control Limit",
+            "Last Control Line",
+            "Least Control Limit",
+            "Loss Central Level"
+        ],
+        "created_at": "2026-07-08T04:25:12.233606+00:00"
+    },
+    {
+        "id": 58020,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In SPSS, what is the \"Data Viewer\"?",
+        "op": [
+            "A screen in which variables can be defined and labelled.",
+            "A table summarizing the frequencies of data for one variable.",
+            "A spreadsheet into which data can be entered.",
+            "A dialog box that allows you to choose a statistical test."
+        ],
+        "created_at": "2026-07-08T05:40:16.32121+00:00"
+    },
+    {
+        "id": 58021,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In Control Charts, UCL is calculated as:",
+        "op": [
+            "Average + 3 Standard Deviation",
+            "Average * 3 Standard Deviation",
+            "Average  + 1 Standard Deviation",
+            "Average - 2 Standard Deviation"
+        ],
+        "created_at": "2026-07-08T05:40:26.152707+00:00"
+    },
+    {
+        "id": 58022,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following functions allows you to sort one column within the data set into ascending or descending order?",
+        "op": [
+            "Sort cases",
+            "Weight cases",
+            "Split file",
+            "Select cases"
+        ],
+        "created_at": "2026-07-08T05:40:43.367623+00:00"
+    },
+    {
+        "id": 58023,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following is true about the names of variables in SPSS?",
+        "op": [
+            "They cannot begin with a numeral",
+            "They cannot contain spaces",
+            "They cannot contain any special characters",
+            "All of these choices are true"
+        ],
+        "created_at": "2026-07-08T05:41:01.899453+00:00"
+    },
+    {
+        "id": 58024,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When SPSS is first open at the bottom of the screen is a",
+        "op": [
+            "Menu bar",
+            "Status bar"
+        ],
+        "created_at": "2026-07-08T05:41:12.228754+00:00"
+    },
+    {
+        "id": 58076,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Consider SPSS, which of the following is used for entering and viewing data?",
+        "op": [
+            "Variable view",
+            "Data editor",
+            "Output view",
+            "Data view"
+        ],
+        "created_at": "2026-07-08T06:12:04.566479+00:00"
+    },
+    {
+        "id": 58079,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What is the default value for the ‘width’ column?",
+        "op": [
+            "10",
+            "0",
+            "8",
+            "2"
+        ],
+        "created_at": "2026-07-08T06:13:15.679001+00:00"
+    },
+    {
+        "id": 58106,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When SPSS is first open at the top of the screen is a",
+        "op": [
+            "Status bar",
+            "A & B",
+            "Menu bar",
+            "None of these"
+        ],
+        "created_at": "2026-07-08T06:45:52.74217+00:00"
+    },
+    {
+        "id": 58107,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The default chosen by SPSS depends on the",
+        "op": [
+            "Data entry",
+            "Data type",
+            "Data editor",
+            "A & B"
+        ],
+        "created_at": "2026-07-08T06:46:01.804937+00:00"
+    },
+    {
+        "id": 58108,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the regression equation Y = 75.65 + 0.50X, the intercept is",
+        "op": [
+            "1",
+            "75.65",
+            "0.50",
+            "Indeterminable"
+        ],
+        "created_at": "2026-07-08T06:46:25.332958+00:00"
+    },
+    {
+        "id": 58109,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In the Data View in the SPSS Data Editor, each column represents what?",
+        "op": [
+            "A missing value",
+            "A data point",
+            "A variable",
+            "A case"
+        ],
+        "created_at": "2026-07-08T06:46:47.289387+00:00"
+    },
+    {
+        "id": 58142,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "What is a ‘sav.’ file?",
+        "op": [
+            "A word-processed file",
+            "The output file",
+            "A syntax file",
+            "The data set file"
+        ],
+        "created_at": "2026-07-08T07:31:51.938012+00:00"
+    },
+    {
+        "id": 58156,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The SPSS data files are stored with which file extension?",
+        "op": [
+            ".doc",
+            ".xls",
+            ".sav",
+            ".sps"
+        ],
+        "created_at": "2026-07-08T07:51:14.955302+00:00"
+    },
+    {
+        "id": 58158,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In medical science research a________ test would be used to compare means",
+        "op": [
+            "Z-test",
+            "Chi-square test",
+            "F-test",
+            "Paired t-test"
+        ],
+        "created_at": "2026-07-08T07:51:47.038409+00:00"
+    },
+    {
+        "id": 58282,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Bringing the data from Excel into SPSS is called _______________.",
+        "op": [
+            "Importing the data",
+            "Copy/Pasting the data",
+            "Exporting the data",
+            "Synchronizing the data"
+        ],
+        "created_at": "2026-07-08T09:33:00.777465+00:00"
+    },
+    {
+        "id": 58310,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which variable name will not be accepted by SPSS?",
+        "op": [
+            "name",
+            "marks",
+            "age.",
+            "r_no"
+        ],
+        "created_at": "2026-07-08T09:48:13.256338+00:00"
+    },
+    {
+        "id": 58589,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "In Control Charts, the UCL stands for",
+        "op": [
+            "Ultimate Control Line",
+            "Unique Control Level",
+            "Upper Control Limit",
+            "Unique Control Line"
+        ],
+        "created_at": "2026-07-08T12:54:59.066101+00:00"
+    },
+    {
+        "id": 58590,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "When defining variable parameters, which of the following would be a good example of something that could be used for the ‘name’ parameter?",
+        "op": [
+            "age_of_participants",
+            "2ageofparticipants",
+            "Age of Participants",
+            "AGE of PARTICIPANTS"
+        ],
+        "created_at": "2026-07-08T12:55:08.044403+00:00"
+    },
+    {
+        "id": 58956,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "Which of the following variable name will SPSS accept?",
+        "op": [
+            "my age",
+            "school",
+            "job-1",
+            "sex."
+        ],
+        "created_at": "2026-07-08T18:58:51.019476+00:00"
+    },
+    {
+        "id": 58957,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "08 July 2026",
+        "qt": "The paired t test is used to test _________ between two population means.",
+        "op": [
+            "None of these",
+            "Both a & b",
+            "Statistical significance",
+            "Statistical inference"
+        ],
+        "created_at": "2026-07-08T18:59:54.345959+00:00"
+    },
+    {
+        "id": 59613,
+        "cc": "STA641",
+        "qn": "4",
+        "dt": "09 July 2026",
+        "qt": "In SPSS, what is the ‘Data View’ option used for?",
+        "op": [
+            "To edit variable names, type, labels, and constraints",
+            "To check SPSS outputs",
+            "To enter and manipulate the actual raw data",
+            "To set up the dataset parameters"
+        ],
+        "created_at": "2026-07-09T11:12:02.191187+00:00"
+    },
+    {
+        "id": 68382,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "If the data is not normal, we will go for the ",
+        "op": [
+            "Chi Square",
+            "Parametric Procedures",
+            "Non-Parametric Procedures",
+            "Rayleigh distribution"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68420,
+        "cc": "STA641",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Formula which is used to multiply a matrix is ",
+        "op": [
+            "=MMULT{array*1array2}",
+            "=MMULT(array1, array2)",
+            "=MUL(array1, array2)",
+            "=MMULT{array+1array2}"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    }
+]

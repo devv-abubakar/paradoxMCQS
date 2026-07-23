@@ -1,0 +1,590 @@
+[
+{
+    "id": 18894,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "Which of the following does NOT cause nociceptive pain?",
+    "op": [
+        "Severe Pressure",
+        "High Temperature",
+        "Spinal Cord Injury",
+        "Chemical Burn"
+    ],
+    "created_at": "2026-06-23T11:39:23.594584+00:00"
+},
+{
+    "id": 18895,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "The top-down process depends on the person’s:",
+    "op": [
+        "Future Expectation",
+        "Current Experience",
+        "Past Knowledge",
+        "Current Experience and Future Expectation"
+    ],
+    "created_at": "2026-06-23T11:39:37.288905+00:00"
+},
+{
+    "id": 18896,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "What is the tendency to respond to a new stimulus as if it’s the original conditioned stimulus?",
+    "op": [
+        "Stimulus discrimination",
+        "Higher-order conditioning",
+        "Spontaneous recovery",
+        "Stimulus generalization"
+    ],
+    "created_at": "2026-06-23T11:39:47.342681+00:00"
+},
+{
+    "id": 18897,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "The intensity of pain is determined by the amount of ______ cells activity.",
+    "op": [
+        "T",
+        "S",
+        "R",
+        "B"
+    ],
+    "created_at": "2026-06-23T11:40:02.933976+00:00"
+},
+{
+    "id": 18898,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "Which of the following is NOT involved in the pathway for olfaction?",
+    "op": [
+        "Orbitofrontal Cortex",
+        "Hippocampus",
+        "Piriform Cortex",
+        "Amygdala"
+    ],
+    "created_at": "2026-06-23T11:40:11.534247+00:00"
+},
+{
+    "id": 18899,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "Classical conditioning is based on the work of which person?",
+    "op": [
+        "Bowlby",
+        "Bandura",
+        "Pavlov",
+        "Freud"
+    ],
+    "created_at": "2026-06-23T11:40:20.210819+00:00"
+},
+{
+    "id": 18900,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "In Pavlov’s experiments, the bell acted as a(an):",
+    "op": [
+        "Conditioned stimulus",
+        "Unconditioned response",
+        "Unconditioned stimulus",
+        "Conditioned response"
+    ],
+    "created_at": "2026-06-23T11:40:29.522353+00:00"
+},
+{
+    "id": 18901,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "23 June 2026",
+    "qt": "Learning may be defined as a ______ change in behavior that occurs as the result of experience.",
+    "op": [
+        "Continuous",
+        "Sensitization",
+        "Relatively consistent",
+        "Fixed"
+    ],
+    "created_at": "2026-06-23T11:40:40.025627+00:00"
+},
+{
+    "id": 39795,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Which of the following is not a type of human memory system?",
+    "op": [
+        "Semantic",
+        "Syntax",
+        "Working",
+        "Implicit"
+    ],
+    "created_at": "2026-07-03T11:43:20.65966+00:00"
+},
+{
+    "id": 39800,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "The process of retaining, retrieving and using information is called:",
+    "op": [
+        "Learning",
+        "Memory",
+        "Retention",
+        "Shaping"
+    ],
+    "created_at": "2026-07-03T11:44:08.967819+00:00"
+},
+{
+    "id": 39803,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Attendants must observe teacher to learn how to dance in dancing classes. This example would best relate to which of the following stages of learning?",
+    "op": [
+        "Reinforcement",
+        "Reproduction",
+        "Retention",
+        "Attention"
+    ],
+    "created_at": "2026-07-03T11:44:34.796979+00:00"
+},
+{
+    "id": 39809,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Baddeley and Hitch (1974) devised which model of memory?",
+    "op": [
+        "Working memory model",
+        "Levels of processing model",
+        "Spreading activation model",
+        "Situational memory model"
+    ],
+    "created_at": "2026-07-03T11:45:27.294633+00:00"
+},
+{
+    "id": 39810,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "The response in classical conditioning is __________ while it is ________ in operant conditioning.",
+    "op": [
+        "Emitted, elicited",
+        "Involuntary, voluntary",
+        "Voluntary, automatic",
+        "Voluntary, involuntary"
+    ],
+    "created_at": "2026-07-03T11:46:09.534238+00:00"
+},
+{
+    "id": 39811,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Ali left his home, vanished from normal life and take on a new identity. Ali is suffering from which of the following disease?",
+    "op": [
+        "Infantile amnesia",
+        "Anterograde amnesia",
+        "Alzheimer",
+        "Psychogenic fugue"
+    ],
+    "created_at": "2026-07-03T11:46:24.795391+00:00"
+},
+{
+    "id": 39813,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "In our lives much of social learning is occur due to which of the following?",
+    "op": [
+        "Reinforcement",
+        "Punishment",
+        "Observation",
+        "Memory"
+    ],
+    "created_at": "2026-07-03T11:46:47.210548+00:00"
+},
+{
+    "id": 39814,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Memorizing list of nonsense syllables was practiced by whom?",
+    "op": [
+        "Copper",
+        "Ebbinghaus",
+        "Driskell",
+        "Willis"
+    ],
+    "created_at": "2026-07-03T11:47:25.320397+00:00"
+},
+{
+    "id": 39815,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Shaping can be a slow, time-consuming process. What is one way to effectively speed up the process?",
+    "op": [
+        "Each time you increase the criteria for reinforcement, do so by larger increments.",
+        "Model the desired response for the individual.",
+        "Add a punishment contingency for incorrect responses.",
+        "All of these are effective ways to make shaping more efficient."
+    ],
+    "created_at": "2026-07-03T11:47:51.596443+00:00"
+},
+{
+    "id": 40269,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Which structure of the working memory model is responsible for storing speech sounds for a limited duration?",
+    "op": [
+        "Episodic buffer",
+        "Phonological loop",
+        "Sketch pad",
+        "Central executive"
+    ],
+    "created_at": "2026-07-03T17:05:06.698016+00:00"
+},
+{
+    "id": 40270,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "A systematic process of reinforcing successive approximations to a target behavior is called:",
+    "op": [
+        "Shaping",
+        "Prompting",
+        "Chaining",
+        "Labeling"
+    ],
+    "created_at": "2026-07-03T17:05:28.76476+00:00"
+},
+{
+    "id": 40271,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Which of the following characteristics is NOT reflective of a cognitive view of learning?",
+    "op": [
+        "Humans are active learners",
+        "Changes in knowledge lead to changes in behavior",
+        "Reinforcement is seen as information",
+        "The outcome of learning is an observable behavior"
+    ],
+    "created_at": "2026-07-03T17:05:36.185478+00:00"
+},
+{
+    "id": 40272,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Remembering to take medicine at night before going to bed would be an example of:",
+    "op": [
+        "Procedural memory",
+        "Retrospective memory",
+        "Prospective memory",
+        "Flashbulb memory"
+    ],
+    "created_at": "2026-07-03T17:05:44.631323+00:00"
+},
+{
+    "id": 40273,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Which structure of the working memory model is responsible for acting as an interface between the other slave systems and the structure regulating these?",
+    "op": [
+        "Phonological loop",
+        "Visuo-spatial sketchpad",
+        "Rehearsal loop",
+        "Episodic buffer"
+    ],
+    "created_at": "2026-07-03T17:05:51.367012+00:00"
+},
+{
+    "id": 40274,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Who among the following pioneered the study of cognitive processes in learning by inventing experimental circumstances?",
+    "op": [
+        "Edward Tolman",
+        "E. L. Thorndike",
+        "Sigmund Freud",
+        "Albert Bandura"
+    ],
+    "created_at": "2026-07-03T17:06:02.134124+00:00"
+},
+{
+    "id": 40275,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "BoBo doll experiment is BEST example of which of the following type of learning?",
+    "op": [
+        "Interpersonal",
+        "Tactile",
+        "Observational",
+        "Logical"
+    ],
+    "created_at": "2026-07-03T17:06:10.002873+00:00"
+},
+{
+    "id": 40276,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "03 July 2026",
+    "qt": "Which of the following is an example of a fixed-interval reinforcement schedule?",
+    "op": [
+        "Ali gets a piece of candy for every 15 minutes that he remains on task in class",
+        "Ahmad gets a piece of candy at random times during which he is on task",
+        "Shan gets a piece of candy every 15 minutes, regardless of if he is on task or not",
+        "Hassan gets a piece of candy for every other homework assignment he completes"
+    ],
+    "created_at": "2026-07-03T17:06:20.273345+00:00"
+},
+{
+    "id": 46027,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "Who among the following is the founder of operant conditioning?",
+    "op": [
+        "Albert Bandura",
+        "B. F. Skinner",
+        "Ivan Pavlov",
+        "Sigmund Freud"
+    ],
+    "created_at": "2026-06-24T16:04:41.11677+00:00"
+},
+{
+    "id": 46028,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "Which of the following scenario will involve top-down processing approach?",
+    "op": [
+        "A person arguing after an accident",
+        "A person listening and signing to a song",
+        "A person giving interview for a job",
+        "A person travelling to a new city"
+    ],
+    "created_at": "2026-06-24T16:05:39.327074+00:00"
+},
+{
+    "id": 46029,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "The intensity of pain is determined by the amount of ______ cells activity.",
+    "op": [
+        "S",
+        "T",
+        "B",
+        "R"
+    ],
+    "created_at": "2026-06-24T16:06:26.086037+00:00"
+},
+{
+    "id": 46030,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "Learning may be defined as a ______ change in behavior that occurs as the result of experience.",
+    "op": [
+        "Continuous",
+        "Fixed",
+        "Relatively consistent",
+        "Sensitization"
+    ],
+    "created_at": "2026-06-24T16:06:37.047502+00:00"
+},
+{
+    "id": 46031,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "What is the tendency to respond to a new stimulus as if it’s the original conditioned stimulus?",
+    "op": [
+        "Spontaneous recovery",
+        "Stimulus generalization",
+        "Higher-order conditioning",
+        "Stimulus discrimination"
+    ],
+    "created_at": "2026-06-24T16:06:44.596376+00:00"
+},
+{
+    "id": 46032,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "B.F. Skinner studied operant conditioning through the use of an operant conditioning box, which is also known as what?",
+    "op": [
+        "Conditioning cage",
+        "Pavlov's box",
+        "Animal house",
+        "Skinner box"
+    ],
+    "created_at": "2026-06-24T16:06:53.437218+00:00"
+},
+{
+    "id": 46033,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "A student sometimes got A’s on his midterm exams last year when he used his green pen to write the exams. Now he always takes his lucky green pens to exams. How did the student’s superstitious behavior arise?",
+    "op": [
+        "Visual learning",
+        "Observational learning",
+        "Operant conditioning",
+        "Classical conditioning"
+    ],
+    "created_at": "2026-06-24T16:07:03.785375+00:00"
+},
+{
+    "id": 46034,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "Which of the following species is 300-10000 times more sensitive to odors than humans?",
+    "op": [
+        "Cats",
+        "Dogs",
+        "Rats",
+        "Snakes"
+    ],
+    "created_at": "2026-06-24T16:07:11.397704+00:00"
+},
+{
+    "id": 46035,
+    "cc": "PSY402",
+    "qn": "2",
+    "dt": "24 June 2026",
+    "qt": "Which of the following does NOT cause nociceptive pain?",
+    "op": [
+        "Severe Pressure",
+        "Spinal Cord Injury",
+        "High Temperature",
+        "Chemical Burn"
+    ],
+    "created_at": "2026-06-24T16:07:25.761654+00:00"
+},
+{
+    "id": 66806,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If a person recognizes emotional reaction by seeing the face of another person, then area of brain activated is known as:",
+    "op": [
+        "Cerebral Cortex",
+        "Amygdala",
+        "Fusiform Gyrus",
+        "Visual Cortex"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66807,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "___________is carried out by receptors, neurons specialized for receiving environmental energy and transforming this energy into electricity.",
+    "op": [
+        "Activation",
+        "Stimulation",
+        "Conduction",
+        "Transduction"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66808,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "If a person cannot perceive motion then it is known as:",
+    "op": [
+        "Memory Agnosia",
+        "Learning Agnosia",
+        "Motion Agnosia",
+        "Attentional Capture"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66810,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Who proposed that the gradient of flow provides information about the observer’s speed?",
+    "op": [
+        "Gibson",
+        "Pavlov",
+        "Wiesel",
+        "Hubel"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66811,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following lobe of the brain is involved in ‘where pathway’ of the vision?",
+    "op": [
+        "Temporal",
+        "Frontal",
+        "Occipital",
+        "Parietal"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66813,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Which of the following is used for making a color saturated?",
+    "op": [
+        "Violet",
+        "White",
+        "Orange",
+        "Blue"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 66816,
+    "cc": "PSY402",
+    "qn": "3",
+    "dt": "31 December 2025",
+    "qt": "Removing white color from pink will form the _____ color.",
+    "op": [
+        "Yellow",
+        "Brown",
+        "Red",
+        "Purple"
+    ],
+    "created_at": "2026-07-15T13:27:26.597296+00:00"
+},
+{
+    "id": 71105,
+    "cc": "PSY402",
+    "qn": "4",
+    "dt": "07 January 2026",
+    "qt": "Olfaction is related to which of the following sense?",
+    "op": [
+        "Sight",
+        "Smell",
+        "Touch",
+        "Taste"
+    ],
+    "created_at": "2026-07-15T13:27:57.033399+00:00"
+}
+]

@@ -1,0 +1,838 @@
+[
+    {
+        "id": 22110,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Why is the law of total expectation important?",
+        "op": [
+            "Shows that expectations are independent",
+            "Removes need for joint distributions",
+            "Simplifies computations involving conditional distributions",
+            "Proves variables are uncorrelated"
+        ],
+        "created_at": "2026-06-26T22:59:44.5119+00:00"
+    },
+    {
+        "id": 22111,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "If $X_1$ and $X_2$ are independent, the joint pdf is:",
+        "op": [
+            "zero",
+            "always equal to 1",
+            "equal to the product of their marginal pdfs",
+            "equal to their sum"
+        ],
+        "created_at": "2026-06-26T22:59:55.790639+00:00"
+    },
+    {
+        "id": 22112,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which type of function can be used if its expectation exists?",
+        "op": [
+            "Any valid function",
+            "squared functions",
+            "Straight-line functions",
+            "Log functions"
+        ],
+        "created_at": "2026-06-26T23:00:06.502115+00:00"
+    },
+    {
+        "id": 22113,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Under what condition does the joint cumulative distribution function equal the product of the marginal CDFs?",
+        "op": [
+            "If distributions are equal",
+            "When random variables are independent",
+            "If variables are uncorrelated",
+            "When means match"
+        ],
+        "created_at": "2026-06-26T23:00:40.624287+00:00"
+    },
+    {
+        "id": 22114,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does the expectation of a function of one variable show?",
+        "op": [
+            "Probability",
+            "Limit",
+            "Average value",
+            "Variation"
+        ],
+        "created_at": "2026-06-26T23:01:02.802385+00:00"
+    },
+    {
+        "id": 22115,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Let X and Y be two independent discrete random variables where: P(X=0)=0.5,P(X=1)=0.5 P(Y=0)=0.6,P(Y=1)=0.4 Let Z=X+Y. What is P(Z=1))?",
+        "op": [
+            "0.5",
+            "0.4",
+            "0.46",
+            "0.3"
+        ],
+        "created_at": "2026-06-26T23:01:23.266977+00:00"
+    },
+    {
+        "id": 22116,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The total area under the curve of a probability density function is:",
+        "op": [
+            "0",
+            "1",
+            "0.5",
+            "2"
+        ],
+        "created_at": "2026-06-26T23:01:43.19776+00:00"
+    },
+    {
+        "id": 22117,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which function is used to derive the MGF of a discrete distribution?",
+        "op": [
+            "Probability density function",
+            "Mean minus standard deviation",
+            "Expected value of etx",
+            "Variance formula"
+        ],
+        "created_at": "2026-06-26T23:01:55.765146+00:00"
+    },
+    {
+        "id": 22118,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What type of series is formed in the MGF derivation of a discrete uniform distribution?",
+        "op": [
+            "Geometric",
+            "Harmonic",
+            "Arithmetic",
+            "Fibonacci"
+        ],
+        "created_at": "2026-06-26T23:02:08.021462+00:00"
+    },
+    {
+        "id": 22206,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What type of distribution is discrete uniform?",
+        "op": [
+            "Positively skewed",
+            "Negatively skewed",
+            "Synmmetrical",
+            "Skewed"
+        ],
+        "created_at": "2026-06-27T04:33:52.757378+00:00"
+    },
+    {
+        "id": 22207,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What should always be mentioned along with a pdf expression?",
+        "op": [
+            "Graph shape",
+            "Integration technique",
+            "Domain of the variable",
+            "Mean value"
+        ],
+        "created_at": "2026-06-27T04:34:18.713025+00:00"
+    },
+    {
+        "id": 22208,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Where does the CDF always start from?",
+        "op": [
+            "Depends on X",
+            "0",
+            "0.5",
+            "1"
+        ],
+        "created_at": "2026-06-27T04:35:16.898477+00:00"
+    },
+    {
+        "id": 22209,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "According to the property, correlation coefficients are zero if the variables X and Y are",
+        "op": [
+            "Dependent",
+            "independent"
+        ],
+        "created_at": "2026-06-27T04:35:45.031055+00:00"
+    },
+    {
+        "id": 22210,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does MGF stand for in probability theory?",
+        "op": [
+            "Mean Generating Formula",
+            "Moment Growth Formula",
+            "Mathematical Generating Function",
+            "Moment Generating Function"
+        ],
+        "created_at": "2026-06-27T04:36:03.097385+00:00"
+    },
+    {
+        "id": 22211,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What shows X₁ and X₂ are independent using MGF?",
+        "op": [
+            "Difference of marginal MGFs equals joint MGF",
+            "They are always equal",
+            "Product of marginal MGFs equals joint MGF",
+            "Their sum equals the joint MGF"
+        ],
+        "created_at": "2026-06-27T04:36:18.777168+00:00"
+    },
+    {
+        "id": 22212,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does the CDF of a joint distribution describe?",
+        "op": [
+            "Derivative of a pdf",
+            "Relationship between two variables",
+            "Spread of a single variable",
+            "Sum of marginal values"
+        ],
+        "created_at": "2026-06-27T04:36:37.663239+00:00"
+    },
+    {
+        "id": 22213,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "How many outcomes are possible in each binomial trial?",
+        "op": [
+            "At least three",
+            "One or more",
+            "Several categories",
+            "Only two"
+        ],
+        "created_at": "2026-06-27T04:42:24.091535+00:00"
+    },
+    {
+        "id": 22214,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What is the key feature of a discrete uniform distribution?",
+        "op": [
+            "All values have the same probability",
+            "Probability changes with value",
+            "Only one value is likely",
+            "Each outcome is unique"
+        ],
+        "created_at": "2026-06-27T04:42:32.890288+00:00"
+    },
+    {
+        "id": 22216,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "How do you check independence using a joint pdf?",
+        "op": [
+            "Compare joint and sum of marginals",
+            "Multiply the marginals and compare with the joint",
+            "Integrate the marginals",
+            "Differentiate joint pdf"
+        ],
+        "created_at": "2026-06-27T04:42:50.599049+00:00"
+    },
+    {
+        "id": 22218,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What is the highest value of the CDF of a distribution?",
+        "op": [
+            "Depends on X",
+            "0",
+            "1",
+            "0.5"
+        ],
+        "created_at": "2026-06-27T04:43:55.895154+00:00"
+    },
+    {
+        "id": 22219,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does the CDF of a die roll represent?",
+        "op": [
+            "Most frequent value",
+            "Probability up to a certain value",
+            "Total possible scores",
+            "Sum of all outcomes"
+        ],
+        "created_at": "2026-06-27T04:44:13.712659+00:00"
+    },
+    {
+        "id": 22256,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "When do we get the product of two expectations?",
+        "op": [
+            "Both functions must be linear",
+            "Functions are identical",
+            "Variables are dependent",
+            "Variables are independent"
+        ],
+        "created_at": "2026-06-27T06:55:57.561878+00:00"
+    },
+    {
+        "id": 22257,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What type of function is used for discrete random variables?",
+        "op": [
+            "probbaility mass function",
+            "density function",
+            "probability density function",
+            "integral function"
+        ],
+        "created_at": "2026-06-27T06:56:42.555689+00:00"
+    },
+    {
+        "id": 22258,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "How do we define the range of X in general form of PMF?",
+        "op": [
+            "From a to b",
+            "From a fixed point to infinity",
+            "Between -1 and +1",
+            "From 0 to 1 only"
+        ],
+        "created_at": "2026-06-27T06:56:51.360476+00:00"
+    },
+    {
+        "id": 22259,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which value of n is used in the PMF from a to b?",
+        "op": [
+            "b/a",
+            "a+b",
+            "b−a+1",
+            "b−a"
+        ],
+        "created_at": "2026-06-27T06:57:44.75299+00:00"
+    },
+    {
+        "id": 22260,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The graph of the CDF of disccrete uniform distribution is a ---------- function.",
+        "op": [
+            "Straight line",
+            "Steps",
+            "U shape",
+            "Bridge"
+        ],
+        "created_at": "2026-06-27T06:57:57.713403+00:00"
+    },
+    {
+        "id": 22262,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What type of experiment leads to a binomial distribution?",
+        "op": [
+            "Multiple possible outcomes",
+            "Repeating until failure",
+            "Continuous measurement",
+            "One with fixed number of trials"
+        ],
+        "created_at": "2026-06-27T07:04:02.733831+00:00"
+    },
+    {
+        "id": 22263,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "How is independence shown using CDFs?",
+        "op": [
+            "Evaluating limits of CDFs",
+            "Multiplying pdfs",
+            "Checking if joint CDF equals product of marginals",
+            "Comparing variances"
+        ],
+        "created_at": "2026-06-27T07:05:00.246152+00:00"
+    },
+    {
+        "id": 22264,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "Which real-life object is an example of uniform distribution?",
+        "op": [
+            "Loaded die",
+            "Biased coin",
+            "Unfair spinner",
+            "Fair die"
+        ],
+        "created_at": "2026-06-27T07:05:15.911981+00:00"
+    },
+    {
+        "id": 22309,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "The law of total expectation is also known as:",
+        "op": [
+            "law of simple expectation",
+            "law of iterated expectations",
+            "law of independent events",
+            "law of conditional density"
+        ],
+        "created_at": "2026-06-27T09:06:17.151081+00:00"
+    },
+    {
+        "id": 22310,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does M(t₁, t₂) represent in probability theory?",
+        "op": [
+            "Median of X₁ and X₂",
+            "Moment generating function of joint distribution",
+            "Mode of X₁ and X₂",
+            "Mean of X₁ and X₂"
+        ],
+        "created_at": "2026-06-27T09:08:59.176127+00:00"
+    },
+    {
+        "id": 22344,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What is the condition on the probability of success in a binomial setting?",
+        "op": [
+            "Randomly chosen",
+            "Changes over trials",
+            "Varies by person",
+            "Remains constant"
+        ],
+        "created_at": "2026-06-27T11:22:14.855265+00:00"
+    },
+    {
+        "id": 22349,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does the PMF of a discrete uniform distribution assign to each value?",
+        "op": [
+            "Random probability",
+            "Maximum value",
+            "Equal probability",
+            "Zero value"
+        ],
+        "created_at": "2026-06-27T11:27:29.114857+00:00"
+    },
+    {
+        "id": 22359,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "27 June 2026",
+        "qt": "What does the product of marginals represent if variables are independent?",
+        "op": [
+            "Conditional probability",
+            "Marginal pdf",
+            "Expected value",
+            "Joint pdf"
+        ],
+        "created_at": "2026-06-27T12:10:17.115542+00:00"
+    },
+    {
+        "id": 40533,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "Sum of n independent Exponential random variables (λ) results in __________",
+        "op": [
+            "Uniform random variable",
+            "Normal random variable",
+            "Binomial random variable",
+            "Gamma random variable"
+        ],
+        "created_at": "2026-07-03T19:50:36.201182+00:00"
+    },
+    {
+        "id": 40534,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "A random variable X has an exponential distribution with probability distribution function is given by f(x)= 3e-3x for x>0 = 0 otherwise Find probability that X is not less than 2?",
+        "op": [
+            "e-6",
+            "e-6-1",
+            "e-3",
+            "e-6 -3"
+        ],
+        "created_at": "2026-07-03T19:50:51.036386+00:00"
+    },
+    {
+        "id": 40535,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "The mean of exponential distribution is given as __________",
+        "op": [
+            "$\\mu$",
+            "$(\\mu)^2$",
+            "$\\frac{1}{\\mu}$",
+            "$\\frac{1}{\\mu^2}$"
+        ],
+        "created_at": "2026-07-03T19:51:05.799454+00:00"
+    },
+    {
+        "id": 40536,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "Consider a random variable with exponential distribution with λ=1. Compute the probability for P (X>3)?",
+        "op": [
+            "e-2",
+            "e-1",
+            "e-4",
+            "e-3"
+        ],
+        "created_at": "2026-07-03T19:51:22.141359+00:00"
+    },
+    {
+        "id": 40537,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "Let X∼U(a=3,b=9) be a continuous uniform random variable. What is the mean and variance of X?",
+        "op": [
+            "Mean = 5, Variance = 3",
+            "Mean = 6, Variance = 6",
+            "Mean = 6, Variance = 3",
+            "Mean = 6, Variance = 9"
+        ],
+        "created_at": "2026-07-03T19:51:36.584622+00:00"
+    },
+    {
+        "id": 40538,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "A random variable X is uniformly distributed over the interval [2,10]. What is the probability that X takes a value between 4 and 8?",
+        "op": [
+            "1",
+            "0.50",
+            "0.75",
+            "0.25"
+        ],
+        "created_at": "2026-07-03T19:51:51.693359+00:00"
+    },
+    {
+        "id": 40539,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "If a continuous random variable X follows an exponential distribution with rate parameter λ>0, then its expected value E[X] is derived as: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAAA0CAMAAAAzDWMwAAAAAXNSR0IArs4c6QAAAL1QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjpmOjqQOmZmOma2OpC2OpDbZgAAZgA6ZgBmZjoAZjqQZmYAZmY6ZmZmZmaQZpC2ZpDbZra2ZrbbZrb/kDoAkDo6kDpmkGY6kGZmkJBmkLb/kNvbkNv/tmYAtmY6tmaQtpA6tpCQtrbbttuQttv/tv/btv//25A625Bm27Zm27aQ2//b2////7Zm/9uQ/9u2/9vb//+2///bEegofQAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAADOElEQVRoQ+1ZC3fSMBRONxlVN5FOfAvFTSX1hRQYDSb//2ft3iQtCawkth2nHMnhsEGTe79+910IOa0TA9UY4IOgM2PwNq12/iCnkiFZvwuHZHm1Ooi+f1OyHgRnEyI+zwhJu0T907bFnk7gRQgwuXh+OW0nkxTYwwWEdib41kKfZOGobbbdxZOBP7Z+0fMWxskWayK+aGPGsVHy6AhAslAHd5v98ihAZkH/oByKOAgCM+ml8NkFIXXucN4Dfw2hl3gmCRHvuBePDgAyAx3rr+memsBCoAvXiFQCSS3uDdagQPrFvW5Isn2FSzkV1o1GQYrbqWw79ix6/gdtx3q4R4z3bc4kFfzVrFmQqDd+kBxtu/761/gF9iLKzumlBZIGluulRe2twiQEW7mZqKP1SNGGMmwIu1paILdukBaeo0GKBJ0pk0naGTgiLu8vlCJTnG179ra7nBIMGzT23ALJr82PPAIwCwlUg5yPwEGZmgFqgVQxZYqzQNIej8AdE0ST9CEqhsZlrV9/ozxEJprC3Dz6pEeADUiqkwD8MYOWR6VMZnnSLcSJG/swKlVhYy0cR74AdesByE7O4BrGjY6sAiTYUHuTk8lykGAi7ZO5OB69XO1E/G56ZGFvhXrF97u4DzMJLKMd3ARO4aceIMsqBb24y7OKFgdzxl+PwoK7tUvqcma2gwVIFuaanebebN2yGSSNPPXpPTwKgicfnM0nj8CK7JnspDOFQ6OgMsR0WRS3v/O5xclkGUgWgr1UnszFuXJ7HiRYAtRwJ26Uw6tUrnJlDjIZgT/x93jPHiAfrH08Ag4AJPsIkavF8WgI+cg5tcFgJ36+6cJJMf4W9xk8chiooDVSUIqpINWDaVWQKvskQW9liJuHwRmAdq0foHsBJ2lnAjh6W/5RpeJknl2EC5n39Sr9ZGbXWG9dB914FCAbaMwfn9R0TxP0+No9NRwFSHp6EuRpTse2I3kS5Bp5myGjlhT5BBV6WZ9yV0tRncOyl0q7u71sHaFNn8UWDxtAEbfU7Px6JHtT2UXnT/ebZqGuPOi05Q8NrQaZ32SrzV1YAiYnz9GgrvFqnIdfPq3Bvoao09H/noF7qnNlJCxiowgAAAAASUVORK5CYII= What is the result of this integral?",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAnCAMAAADq6ZJkAAAAAXNSR0IArs4c6QAAAGZQTFRFAAAAAAAAAAA6AABmADo6ADqQAGa2OgAAZgAAZgA6Zjo6ZpC2ZpDbZrbbZrb/kDoAkDo6kGY6kNv/tmYAtmY6tmZmtv/btv//25A625Bm27Zm2/+22////7Zm/7aQ/9uQ//+2///bqK4zPgAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAbklEQVQoU52QxxLAIAhEIc30pulF/f+fjAl6zJgJpzfLLjAA+Ep3NVlWhkRLsaVWA/WbZI6IUelb/7VvhlF9Ddw+gfH++M9KZb1N6tYRCEdHYEmljnjSkTaHIyUkqymrmwQMDRPwcALggfvW220X1fIFvMaeXIUAAAAASUVORK5CYII=.",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAnCAMAAADn9+IjAAAAAXNSR0IArs4c6QAAAHVQTFRFAAAAAAAAAAA6AABmADo6ADqQAGa2OgAAOjqQOmaQZgAAZgA6Zjo6ZpC2ZpDbZrbbZrb/kDoAkDo6kDpmkGY6kLb/kNv/tmYAtmY6tmZmtv/btv//25A625Bm27Zm2/+22////7Zm/7aQ/9uQ/9u2//+2///baYIv1wAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAlUlEQVQoU7WQ2xLCIAxEk1aL1ltbq9QLSkX4/080EOzgm4PjPuUM7C4EIEuub1LfTWDKanOvP87B/pXNGhFn26yf/Gqi5lT5cbTDpQ72AecazEI/eWmPnV0d/eD2F453XWA17XjwrA7v8rEgptORL9ia2Ah6JrOs+uCPupZnzmMZ0cR87mor33eK1SBLmmQxVSdB34wvvZII1bUqCLkAAAAASUVORK5CYII=.",
+            "0.",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAZCAMAAAA/rk+6AAAAAXNSR0IArs4c6QAAAFpQTFRFAAAAAAAAAAA6AABmADqQAGa2OgAAOgA6Oma2OpDbZgAAZjoAZpDbZrb/kDoAkDo6kGZmkNv/tmYAtmY6ttv/tv//25A62//b2////7Zm/9uQ/9u2//+2///bLiXSHwAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAVUlEQVQoU2NgIBtIczOySIB1ywqISLELwgyS5eOFmykEZyKJCjHCRCUZYUwZLlaYWiEWcX6IYWJMgrIQphQbJwPEBBkuZlEQU4qHAWKOMCMHxBXUAgAbcwPcOu1FDAAAAABJRU5ErkJggg==."
+        ],
+        "created_at": "2026-07-03T19:52:05.738195+00:00"
+    },
+    {
+        "id": 40540,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "Exponential distribution is a Bivariate distribution",
+        "op": [
+            "False",
+            "True"
+        ],
+        "created_at": "2026-07-03T19:52:39.866715+00:00"
+    },
+    {
+        "id": 40541,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "A mobile conversation follows an exponential distribution $f(x)=\\frac{1}{3}e^\\frac{-x}{3}$ . What is the probability that the conversation takes more than 5 times?",
+        "op": [
+            "$5e^{-15}$",
+            "$e^{-1/3}$",
+            "$e^{-3/5}$",
+            "$e^{-5/3}$"
+        ],
+        "created_at": "2026-07-03T19:52:53.28179+00:00"
+    },
+    {
+        "id": 40542,
+        "cc": "STA642",
+        "qn": "4",
+        "dt": "04 July 2026",
+        "qt": "Which of the following is the correct form of the probability density function (PDF) of an exponential distribution with rate parameter λ>0?",
+        "op": [
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKcAAAAnCAMAAABdeKgGAAAAAXNSR0IArs4c6QAAAM9QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjpmOjqQOmZmOmaQOma2OpC2OpDbZgAAZgA6ZgBmZjoAZjo6ZjqQZmZmZma2ZpC2ZpDbZrbbZrb/kDoAkDo6kDpmkGY6kLbbkNvbkNv/tmYAtmY6tmZmtmaQtpBmtpCQtra2trbbtrb/ttuQttvbttv/tv+2tv/btv//25A625Bm27Zm27aQ29vb29v/2/+22//b2////7Zm/7aQ/9uQ/9u2/9vb//+2///bM/9nrQAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAC2klEQVRYR+1Ya3eTQBBdqLH4StpQU20kRGygan1UJUZr6NLd//+bnH2yECBrTs6heLJf2sLs3MudO7OrCB3WQQF7BWg0sw/uLvKn5/SB53J66/eBJ0LkwHOvbj7ouVc5/wt/kldrhFJnvF9ldsmGzx3HefSmYWsGDOkvfLJLZrs9+HyhA9PRjd2mahR9+4M9Ihe7bW/btfScY3ifvoCC6YWfFaRtIFN3kXkw/aWQMctYLAlhk6gxJn28TqFW+CkXQq/sqPx3Owb5nA6nK/i0lJ9U6bCkp4TYQpNem0LxYDih3UBsk7OQhhXnbzzYgpLxcvAuQvj5N5On7bhdeoN3JRTsBQgKJSiLn/hJtc4ggn2dPn55fXb5CSHWRYjOZ+TivtgtISyy5ZEz+lrExUCB+NxCMfQuq7Ascz4B2gmnrgpPQwjhq444jdhzGo7WMduVsJ1gTuKfaJ4KAuUwKEZrBFtmHIctA1DwW03c6W/xqygpIyuSsiXUo+//hONEOGJT4RpBiH+6NgLrx5GEwN4pfNAYfbiJh9Pbl9z+JqBKn0+kIMQveCob6irrEd3EU6nryK+8T4qOE11UWQqCC8M409CcBpUzwdDT5KnYaJ66z9WbtroTHyb+dIuPZSKOyjmXFTAHS9mfwpqi7ipKuzGSxtFvahTSj6y8IVPz2IxlL408qgER6/fSNzOKshpqIEtEOr8Mx5gb1KbfiR8gmjRc7nW9RZWZnrlQyCi7AUivZf9oGTInkPNIWIAZWvTWYAF3CN6qdvMTDhq36aSXGTREBrHMI2ZmA7CubpAeGJWaunr+tJ1HSe2IqgKRs4bJ3OCklkagcjht1rnNeXeBpNBmXYSuOE0Toj2+5a0/MK5FK/v7Ep3b3lJICWJnortu5OfOw198vDz8Rfx+8IyPoz7omR59t+6jDs2BvZl9v3fHk912gOfVv/yzpAu2MbvGxW4//seuC4EOmPtS4C9QiVts9btgAAAAAABJRU5ErkJggg==.",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAAAnCAMAAABQZthBAAAAAXNSR0IArs4c6QAAAM9QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjpmOjqQOmZmOmaQOmadOma2OpC2OpDbZgAAZgA6ZgBmZjoAezoAZjo6ZmZmZma2ZpC2ZpDbZrbbZrb/kDoAkDo6kGY6nJCQkLbbkNvbkNv/tmYAtmY6tmZmtmaQtpBmtra2trbbtrb/ttuQttvbttv/tv+2tv/btv//25A625Bm27Zm27aQ29vb29v/2/+22//b2////7Zm/7aQ/9uQ/9u2/9vb//+2///b7NSI0AAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAACvklEQVRYR+1Ya3eTQBBdqLH4SmxDjTVICNpAtT6qkkYrdOnu//9N7otll/DYnOS0eA77JQFm79yZuTNsAsCwhgw0ZQCHi34n58ax+s1w7d26/WYIABoY7q3yIYd7p/A/1WFiTfcP/UAI8NyyrCfvdTT8G54cCL8ZBp6v5MNkcr2rPzTfdYex/dqxjolx8ipVtsAXJV0zpIiAJPYqc7RpLsDNIBqskqdpQiQEn//SDLIj/brLRzKeA/Q1GXsbNTQB3rUZX6nZodbkzWr7fJuYbTioCH3rRrsX+PIHrXKmFcK86dfO6KPqADo+LQi7dcM/4bNqVUn4XaGXz/Fygeb3H769O7v4ouwS4CY4eWhNvkvDiDhHLhUfiEhf0nqKouYzQjhmpIsy44CYsFVHGYfsPhEhcl+/naSRCJz5KsBBTtp/kgJivGAe6FJcCWKbme39Yd95ASlN+sGIAp4x/OlvMI15/bezWpMK5J6mLYYCHDqnKXX6+Toae7dvmMBVVxI4n3FSyC0ZFnKTNZWTt8lxkVFLxHcfN/ZUAc6SQdnigOeDr+qQL3OoMix4SIayh4snbVVGLpndXqNeBQTzx9jqUWvjQtMhlyCvcmElVRcWQjIZNx1KEBDMKqO4GiaWrgCgvawGSsmJCgilFNHh5UUwhUyIJr2MXB/geOvALavLa0pzmPOsKEVWXAF8xTtErszyxZThBafC5d0zWhF1nLCmqQ5IHUJckVeGXXlDl3sleEasqBZUTMVVHTIBJlzIKstULWpbkePawVM6QmcNM7Y2ShZS00TDYuRsV7VNYXe+oNDk8JIRVMGbLDvvuyPlCLMxP9vgZfe5AmngnVQObRB3Mzy0y93w2Ojo80Ju3xlGx2G/c5gc/TTolEcUAXQWJr38eAzp+YQwvNztR8JD8o3oYSuy+/7v10OmZPC1Xwb+AS9EV5DUxnvgAAAAAElFTkSuQmCC.",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAAAXCAMAAADN5AZZAAAAAXNSR0IArs4c6QAAAM9QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjpmOjqQOmZmOmaQOmadOma2OpC2OpDbZgAAZgA6ZgBmZjoAezoAZjo6ZmZmZma2ZpC2ZpDbZrbbZrb/kDoAkDo6kGY6nJCQkLbbkNvbkNv/tmYAtmY6tmZmtmaQtpBmtra2trbbtrb/ttuQttvbttv/tv+2tv/btv//25A625Bm27Zm27aQ29vb29v/2/+22//b2////7Zm/7aQ/9uQ/9u2/9vb//+2///b7NSI0AAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAACeklEQVRIS+1WW3vTMAy1M7qFW8vWjDJa0rRjTQbjMli2cknmzP7/vwlbvkROlpTCx8ce6pe0tnR0pCMrIWS3HkAFcjp+ACy6KIhv7PCf02MnKxcjH11uFY9PtzLfxvg6pAfSPn9eIC/2tObaAsvoPraV56lEyINVGc6xsUHehkzLNt8vctk57MmVd1Tu+f/R4W3Mj33y+XBK+Md8OFvjfYO8iZ24aORKbkIaxNqNR5CwSBrN3drAUcTCo8eefVHill79LfImdoRch4O32IqFsZICtm70kz1uiilz70bOsLVYzPn07vTT6+OzD8jFIG+mR0i1pKPPzjCVkXmkGo6klFIlo9Gymki2GTC26opEmsCq+ZY6J7GETdl4PHrxalSkJmUIZJFJdULpqFDGc4BXC8UxrNaTYPYdfmvdFEf1AJZE10q8+5mMMy17u54uPR5BFB4dFT1WBpmFR4WK+P4yHc5+vISOxnEcajXRjHhU07Mt5qR0E7Y38FLRk/Hvss4bZJGhDIqqSHQl9GpO8rp6mJ4l4ei5G2tP2uLme1/V1eARpY9mnQ1q/CEYUPXz9SaD13u67bS41sp12tL2T+dkYeEcbm5PeVV5jD9YQa96gMLF0TcXZ6mYmdqbBrGxxOIsGTNovq6bqzSS9M6veBQTkXlzGPrKjCiDrKpX6XogbVEcIi70lXCrpLEZKFpnB5oOVrIpDuGWNAeh9U5Vt6WBpCVfCsEbH7l2dMiltFItgAFRnJa/3JDAkohctUBNLXveGvch1nvmjbJBeoRx3+QyNTPTpS3m76M3yZ7rkYiQ+9PpOY0G6MNk/RdfLM0Y3EP+Y347x10F/k8FfgH60VKiFx/lzAAAAABJRU5ErkJggg==.",
+            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAAAXCAMAAABDPk8lAAAAAXNSR0IArs4c6QAAAM9QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjpmOjqQOmZmOmaQOma2OpC2OpDbZgAAZgA6ZgBmZjoAZjo6ZjqQZmZmZma2ZpC2ZpDbZrbbZrb/kDoAkDo6kDpmkGY6kLbbkNvbkNv/tmYAtmY6tmZmtmaQtpBmtpCQtra2trbbtrb/ttuQttvbttv/tv+2tv/btv//25A625Bm27Zm27aQ29vb29v/2/+22//b2////7Zm/7aQ/9uQ/9u2/9vb//+2///bM/9nrQAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAACnUlEQVRYR+1W2XbTMBCVXJKaLWnjkkJD4hAau0BZCnUbFrtypf//JjTSWB4viQuBh5wTPWSxpLlXd+6MzNh+7JQC8mXKWMJHu0A60yzVd3H037iK06WLnQyvtsBRb65htzzbIkb71hufH+qZ5LnOmxviaUm8sS3mfbq2PKG3zPwZYyhoBGHLgTjb8E/6aaJTJp4YLdzIDqr/ydTdVJ7Qkwif6+Et5adkMFnpmUTz1Z+Diq6I00FVXTZUuPW5NzXbZGACq7BWCI0HFETN21XPTG5MZTHx7Cvlijidqt74vbeVRcKfssQzeLf2Szyuo2sd1geO27h++Pzq5PwjY1BZTM1n8uy+DIE4nVwZyxd8+KVcF2keMgA7RTp7kG1MeT7W1GNDvzCBCiHDMErymT2gWtCHKhymEUyYg2izyuDIcS1wWH7K+TCFrTMDBoOgWo6rsTf5YX/a/EZ9+I0FYFVU736Fo9iao6m0O6sMDIgMjtOWVe2tCnGEf5wC/PuraDD5+cLUBEUtMPIxKiMDx7Wwpcu46+AbuEaHC5TuPm6WoK2s2ihwIKNGHxXSLlG7N4iuhGvByHF19V/MND2QHHyD2pIB548mG0xN6WI0g2x4V6WgXafqV7QqeKBY5Ny5QA+5mYZEwp+ZPrBB+KauGN/sMW6v9ETlUBn0gcr5IRNoWswEAqv5eTgSxrDr+gAkT3O9uJbBlKm4LeGEqsu9xQFdc1vUxAIEVV1iTbkYGZ/aZmXdAP625dZb6lcOU71r+2sEDo08zVFfRN7rFm/SRxjG4WR6D/iGhieobdE0jKZF81i/pzbcWx30KtN4wz3YL20dEtU0ZWlHNecPDt5B/MI2YoLzJyela4MeeZ1a/bP3rDodWcH5W7L7fXsFdkeB3zE1VhG+/Pp2AAAAAElFTkSuQmCC."
+        ],
+        "created_at": "2026-07-03T19:53:13.457276+00:00"
+    },
+    {
+        "id": 68386,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "The multinomial distribution is a generalization of which distribution? ",
+        "op": [
+            "Binomial distribution",
+            "Normal distribution",
+            "Geometric distribution",
+            "Poisson distribution"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68387,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "The pdf of poisson distribution is  ",
+        "op": [
+            "\\( \\frac{e^{-m}x!}{m^x}\\)",
+            "\\(\\frac{x!}{m^xe^{-m}}\\)",
+            "\\(\\frac{e^{-m}m^x}{x!}\\)",
+            "\\(\\frac{e^m m^x}{x!}\\)"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68388,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "If ‘m’ is the mean of Poisson Distribution, the P(0) is given by ___________ ",
+        "op": [
+            "em",
+            "e-m",
+            "m-e",
+            "e"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68389,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Job arrive at a facility at an average rate of 5 in an 8 hour shift. The arrival of the jobs follows poisson distribution. The average service time of the job on the facility is 40 minutes. The service time follows an exponential distribution. Idle time(in hours) at a facility per shift will be  ",
+        "op": [
+            "\\(\\frac{14}{3}\\)",
+            "\\(\\frac{5}{7}\\)",
+            "\\(\\frac{10}{3}\\)",
+            "\\(\\frac{7}{5}\\)"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68390,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Which of the following is a key assumption of the multinomial distribution? ",
+        "op": [
+            "All trials are dependent.",
+            "Each trial has only two outcomes.",
+            "The probabilities of all outcomes change with each trial.",
+            "The number of trials is fixed."
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68405,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "A mobile conversation follows an exponential distribution f(x)=\\frac{1}{3}e^\\frac{-x}{3} . What is the probability that the conversation takes more than 5 times? ",
+        "op": [
+            "5e^{-15}",
+            "e^{-3/5}",
+            "e^{-5/3}",
+            "e^{-1/3}"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68406,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Which of the following real-life situations is best modeled by a multinomial distribution? ",
+        "op": [
+            "Measuring temperature every hour",
+            "Tossing a fair coin 10 times",
+            "Recording the number of customers ordering coffee, tea, or juice in a café",
+            "Counting the number of rainy days in a month"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68407,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Poisson distribution is applied for ___________ ",
+        "op": [
+            "Continuous Random Variable",
+            "Irregular Random Variable",
+            "Uncertain Random Variable",
+            "Discrete Random Variable"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68409,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "Consider a Poisson distribution for the tossing of a biased coin. The mean for this distribution is \\mu. and the standard deviation for this distribution is given by  ",
+        "op": [
+            "\\mu^2",
+            "\\mu",
+            "\\sqrt\\mu",
+            "\\frac{1}{\\mu}"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68410,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "In a survey, people choose their favorite fruit among apple, banana, orange, and grapes. If 200 people respond, which distribution best models the number of votes each fruit receives? ",
+        "op": [
+            "Uniform Distribution",
+            "Normal Distribution",
+            "Hypergeometric Distribution",
+            "Multinomial Distribution"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68411,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "In a Poisson Distribution, if mean (m) = e, then P(x) is given by ___________  ",
+        "op": [
+            "\\frac{x!}{e^{(m-x)}}",
+            "\\frac{e^{(m-x)}}{x!}",
+            "\\frac{e^{(x-m)}}{x!}",
+            "\\frac{x!}{e^{(x-m)}}"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 68500,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "04 January 2026",
+        "qt": "A bag contains red, blue, and green balls. If 15 balls are drawn with replacement and color is recorded each time, what is the most appropriate distribution? ",
+        "op": [
+            "Exponential Distribution",
+            "Poisson Distribution",
+            "Binomial Distribution",
+            "Multinomial Distribution"
+        ],
+        "created_at": "2026-07-15T13:27:35.594877+00:00"
+    },
+    {
+        "id": 69142,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Mean and variance of the poisson distribution are  ",
+        "op": [
+            "less than",
+            "equal",
+            "not equal",
+            "greater than"
+        ],
+        "created_at": "2026-07-15T13:27:37.991159+00:00"
+    },
+    {
+        "id": 69282,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "A random variable X has an exponential distribution with probability distribution function is given by f(x)= 3e-3x for x>0  = 0 otherwise Find probability that X is not less than 2? ",
+        "op": [
+            "e-3",
+            "e-6",
+            "e-6-1",
+            "e-6 -3"
+        ],
+        "created_at": "2026-07-15T13:27:38.736223+00:00"
+    },
+    {
+        "id": 69612,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "A mobile conversation follows an exponential distribution \\(f(x)=\\frac{1}{3}e^\\frac{-x}{3}\\) . What is the probability that the conversation takes more than 5 times? ",
+        "op": [
+            "\\(e^{-1/3}\\)",
+            "\\(e^{-3/5}\\)",
+            "\\(5e^{-15}\\)",
+            "\\(e^{-5/3}\\)"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    },
+    {
+        "id": 69614,
+        "cc": "STA642",
+        "qn": "3",
+        "dt": "05 January 2026",
+        "qt": "Consider a Poisson distribution for the tossing of a biased coin. The mean for this distribution is \\(\\mu\\). and the standard deviation for this distribution is given by  ",
+        "op": [
+            "\\(\\mu^2\\)",
+            "\\(\\mu\\)",
+            "\\(\\sqrt\\mu\\)",
+            "\\(\\frac{1}{\\mu}\\)"
+        ],
+        "created_at": "2026-07-15T13:27:40.243646+00:00"
+    }
+]

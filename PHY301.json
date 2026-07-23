@@ -1,0 +1,1292 @@
+[
+{
+    "id": 59859,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "There is no  voltage drop across diode when farward biased, in case of",
+    "op": [
+        "practical diode model",
+        "ideal diode model"
+    ],
+    "created_at": "2026-07-09T19:05:02.472251+00:00"
+},
+{
+    "id": 59862,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Leakage current of semiconductor diode is caused by",
+    "op": [
+        "barrier voltage",
+        "chemical energy",
+        "heat energy",
+        "doping impurity"
+    ],
+    "created_at": "2026-07-09T19:05:44.77175+00:00"
+},
+{
+    "id": 59864,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "When electrons leave the N- material to fill holes in the P-material , the process is called",
+    "op": [
+        "doping",
+        "depletion",
+        "diffusion",
+        "mixing"
+    ],
+    "created_at": "2026-07-09T19:05:57.38731+00:00"
+},
+{
+    "id": 59867,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "which relation is true for transformer primary and secondary power",
+    "op": [
+        "V1V2=I1I2",
+        "V2I1=V1I2",
+        "V2I2=V1I1",
+        "I2I1=V2V1"
+    ],
+    "created_at": "2026-07-09T19:06:23.730846+00:00"
+},
+{
+    "id": 59872,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "which rectifier is used to get either positive or negative part of input at output",
+    "op": [
+        "negative half wave rectifier",
+        "half wave rectifier",
+        "full wave rectifier",
+        "bridge rectifier"
+    ],
+    "created_at": "2026-07-09T19:06:53.638658+00:00"
+},
+{
+    "id": 59873,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A certain transformer has 500 turns in the primary winding and 2500 turns in the secondary winding.The turn ratio of transformer is",
+    "op": [
+        "25:1",
+        "1:5",
+        "0.5",
+        "5:2"
+    ],
+    "created_at": "2026-07-09T19:07:11.79825+00:00"
+},
+{
+    "id": 59875,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "AC or dynamic resistance of diode is due to",
+    "op": [
+        "fixed value VD and ID of diode by applying DC voltage",
+        "changing value VD and ID of diode by applying DC voltage",
+        "changing value VD and ID of diode by applying varying input signal",
+        "fixed resistance of diode by applying AC voltage"
+    ],
+    "created_at": "2026-07-09T19:07:31.501441+00:00"
+},
+{
+    "id": 59878,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "To which of the winding  of transformer alternating voltage  is applied",
+    "op": [
+        "primary winding",
+        "secondary winding"
+    ],
+    "created_at": "2026-07-09T19:07:47.219758+00:00"
+},
+{
+    "id": 59879,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For a P-N junction under farward bias",
+    "op": [
+        "more farward current flows",
+        "more reverse current flows",
+        "no farward current flows",
+        "infinite reverse current flows"
+    ],
+    "created_at": "2026-07-09T19:07:50.618268+00:00"
+},
+{
+    "id": 59923,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Depletion region of P-N junction is wider when it is",
+    "op": [
+        "Farward bias",
+        "reverse bias"
+    ],
+    "created_at": "2026-07-09T19:43:50.988427+00:00"
+},
+{
+    "id": 59925,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "When the turn ratio of a transformer is 10 and primary ac voltage is 6v, the secondary voltage is",
+    "op": [
+        "36v",
+        "6v",
+        "0.6v",
+        "60v"
+    ],
+    "created_at": "2026-07-09T19:43:59.64884+00:00"
+},
+{
+    "id": 59926,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Semiconductors have ............... bonds",
+    "op": [
+        "mutual",
+        "Ionic",
+        "metallic",
+        "covalent"
+    ],
+    "created_at": "2026-07-09T19:44:08.558181+00:00"
+},
+{
+    "id": 59927,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Turn ratio of transformer is the",
+    "op": [
+        "ratio of number of turns in primary to secondary voltage",
+        "ratio of number of turns in secondary to number of turns in primary",
+        "ratio of number of turns in primary to number of turns in secondary",
+        "ratio of number of turns in secondary to primary voltage"
+    ],
+    "created_at": "2026-07-09T19:44:17.751982+00:00"
+},
+{
+    "id": 59928,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "An ideal diode acts as a close switch when it is",
+    "op": [
+        "farward biased",
+        "in saturation",
+        "in cut off",
+        "reverse biased"
+    ],
+    "created_at": "2026-07-09T19:44:26.351172+00:00"
+},
+{
+    "id": 59929,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In semiconductor production, the process of intentional introduction of impurities into an intrinsic semiconductor for the purpose of improving its electrical, optical properties, is called",
+    "op": [
+        "Overlapping",
+        "Mixing",
+        "Modulating",
+        "Doping"
+    ],
+    "created_at": "2026-07-09T19:44:35.030365+00:00"
+},
+{
+    "id": 59930,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Thermal ionization in semicondutor results creating of",
+    "op": [
+        "only free electrons",
+        "nothing",
+        "only holes",
+        "both free electrons and holes"
+    ],
+    "created_at": "2026-07-09T19:44:43.732163+00:00"
+},
+{
+    "id": 59931,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "An ideal diode acts as an open switch when it is",
+    "op": [
+        "farward biased",
+        "reverse biased"
+    ],
+    "created_at": "2026-07-09T19:45:01.954232+00:00"
+},
+{
+    "id": 59932,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Depletion region of P-N junction is narrow when it is",
+    "op": [
+        "Reverse bias",
+        "Farward bias"
+    ],
+    "created_at": "2026-07-09T19:45:11.150132+00:00"
+},
+{
+    "id": 59933,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A diode is a",
+    "op": [
+        "one way conductor",
+        "three way conductor",
+        "two way conductor",
+        "insulator"
+    ],
+    "created_at": "2026-07-09T19:45:19.257813+00:00"
+},
+{
+    "id": 59934,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Power supplies are used for converting",
+    "op": [
+        "DC energy to DC energy.",
+        "AC energy to DC energy",
+        "AC energy to AC energy.",
+        "clipping waveforms"
+    ],
+    "created_at": "2026-07-09T19:45:27.951524+00:00"
+},
+{
+    "id": 60002,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For secondary turns of 10 and primary turns of 20, turn ratio is",
+    "op": [
+        "10:10",
+        "10:20",
+        "20:20",
+        "20:10"
+    ],
+    "created_at": "2026-07-09T22:49:00.623152+00:00"
+},
+{
+    "id": 60003,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Analysing the farward biase region of junction diode , the value of constant voltage,VT is",
+    "op": [
+        "25.02V",
+        "25.02mV",
+        "10mV",
+        "5Mv"
+    ],
+    "created_at": "2026-07-09T22:49:39.931544+00:00"
+},
+{
+    "id": 60004,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A transformer is used for",
+    "op": [
+        "both ac and dc voltage",
+        "ac voltage",
+        "none of these",
+        "dc voltage"
+    ],
+    "created_at": "2026-07-09T22:52:17.465655+00:00"
+},
+{
+    "id": 60005,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The Q- point on load line is the ..................of the circuit",
+    "op": [
+        "melting point",
+        "zero point",
+        "operating point",
+        "non operating point"
+    ],
+    "created_at": "2026-07-09T22:52:48.684527+00:00"
+},
+{
+    "id": 60006,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For reverse biased condition of P-N junction",
+    "op": [
+        "+Ve polarity  to P electrode  and -Ve polarity to  N electrode",
+        "+Ve polarity  to N electrode  and -Ve polarity to  P electrode",
+        "+Ve polarity  to both N electrode  and P electrode",
+        "-Ve polarity  to both N electrode  and P electrode"
+    ],
+    "created_at": "2026-07-09T22:53:13.025804+00:00"
+},
+{
+    "id": 60007,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "If turn ratio of a transformer is 5 and secondary current is 2A, the primary current is",
+    "op": [
+        "0.4A",
+        "10A",
+        "7A",
+        "2.5A"
+    ],
+    "created_at": "2026-07-09T22:54:04.552324+00:00"
+},
+{
+    "id": 60008,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For I-V curve of a diode, a changing current from 20mA to 10 mA and voltage from 0.72v to 0.78v , cause AC resistance of value",
+    "op": [
+        "8 ohms",
+        "1.66 ohms",
+        "none of these",
+        "6 ohms"
+    ],
+    "created_at": "2026-07-09T22:55:08.397573+00:00"
+},
+{
+    "id": 60009,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For a series circuit of a resistance, voltage source and diode in farward biased, we have",
+    "op": [
+        "VS=VF/4",
+        "VS=VR+VF",
+        "VS=VR",
+        "VR=VS+VF"
+    ],
+    "created_at": "2026-07-09T22:55:41.511794+00:00"
+},
+{
+    "id": 60010,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "If ideal diode in a simple circuit is in  reversed biased condition",
+    "op": [
+        "current (I)=o",
+        "all of these",
+        "it will act as an open circuit",
+        "no current will flow"
+    ],
+    "created_at": "2026-07-09T22:56:09.060924+00:00"
+},
+{
+    "id": 60015,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A transformer has turn ratio  5 and secondary voltage is 10v, the primary voltage is",
+    "op": [
+        "100",
+        "25v",
+        "0.5v",
+        "2v"
+    ],
+    "created_at": "2026-07-10T00:15:21.085957+00:00"
+},
+{
+    "id": 60016,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Small signal model of diode is related to",
+    "op": [
+        "only ac signal",
+        "neither ac nor dc",
+        "both AC and DC signal",
+        "only dc voltage"
+    ],
+    "created_at": "2026-07-10T00:17:14.299091+00:00"
+},
+{
+    "id": 60017,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Using exponential model,for a diode that conducts at 1mA with n=2, the change in current due to change of voltage by 5mv will be",
+    "op": [
+        "0.8mA",
+        "0.4mA",
+        "3mA",
+        "0.11mA"
+    ],
+    "created_at": "2026-07-10T00:18:34.707954+00:00"
+},
+{
+    "id": 60018,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For the given germinium diode and resistance circuit, the voltage drop across the resistance is data:image/png;base64,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",
+    "op": [
+        "6V",
+        "5.3V",
+        "10V",
+        "4.7V"
+    ],
+    "created_at": "2026-07-10T00:20:31.737277+00:00"
+},
+{
+    "id": 60019,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Depletion region exists on ................sides  of a P-N junction.",
+    "op": [
+        "Both sides",
+        "N- side",
+        "in middle of P- side",
+        "P- side"
+    ],
+    "created_at": "2026-07-10T00:22:30.641035+00:00"
+},
+{
+    "id": 60020,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A transformer may consists of",
+    "op": [
+        "no winding",
+        "two windings",
+        "two or more than two windings",
+        "one winding"
+    ],
+    "created_at": "2026-07-10T00:25:18.072414+00:00"
+},
+{
+    "id": 60021,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The barrier voltage for a silicon diode is approximately",
+    "op": [
+        "0.3 v",
+        "0.7 v",
+        "5 v",
+        "2 v"
+    ],
+    "created_at": "2026-07-10T00:25:56.032245+00:00"
+},
+{
+    "id": 60068,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The charactistics of ideal diode when farward biased (close switch) are",
+    "op": [
+        "diode will have no voltage drop across its terminals",
+        "all of  these",
+        "Diode will have no resistance",
+        "diode will have maximum current flow"
+    ],
+    "created_at": "2026-07-10T03:56:29.61711+00:00"
+},
+{
+    "id": 60070,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The primary and secondary winding of transformer are",
+    "op": [
+        "largely separated",
+        "physically touched",
+        "touched with conductor",
+        "physically isolated"
+    ],
+    "created_at": "2026-07-10T03:57:49.273555+00:00"
+},
+{
+    "id": 60071,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "When ideal diode acting as short circuit",
+    "op": [
+        "no current flows",
+        "V is half of applied voltage",
+        "V is maximum",
+        "V=0"
+    ],
+    "created_at": "2026-07-10T03:58:32.044343+00:00"
+},
+{
+    "id": 60075,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "which of following relation is true for turn ratio and voltage ratio of transformer",
+    "op": [
+        "N2/N1=V1/V2",
+        "N2/N1=V2/V1",
+        "N2/N1=V1/V2V1",
+        "N1/N2=V1V2/V2"
+    ],
+    "created_at": "2026-07-10T04:00:50.402183+00:00"
+},
+{
+    "id": 60080,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For farward biased condition of P-N junction",
+    "op": [
+        "+Ve polarity  to N electrode  and -Ve polarity to  P electrode",
+        "-Ve polarity  to  both N and P electrode",
+        "+Ve polarity  to  both N and P electrode",
+        "+Ve polarity  to P electrode  and -Ve polarity to  N electrode"
+    ],
+    "created_at": "2026-07-10T04:02:18.645886+00:00"
+},
+{
+    "id": 60082,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A transformer will be out of phase when",
+    "op": [
+        "output voltage is 180 degree out of phase with input voltage",
+        "output voltage is same as input voltage",
+        "output voltage is 0 degree out of phase with input voltage",
+        "output voltage is 360 degree out of phase with input voltage"
+    ],
+    "created_at": "2026-07-10T04:02:43.99388+00:00"
+},
+{
+    "id": 60083,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "When germanium crystal is doped with phosphorus atom, it becomes",
+    "op": [
+        "Insulator",
+        "P-type semiconductor",
+        "N-type semiconductor",
+        "photo-transistor"
+    ],
+    "created_at": "2026-07-10T04:03:17.897641+00:00"
+},
+{
+    "id": 60091,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Load line coordinates give value of",
+    "op": [
+        "IS and i",
+        "ID and VD",
+        "VD and vs",
+        "IS and VD"
+    ],
+    "created_at": "2026-07-10T04:11:45.438824+00:00"
+},
+{
+    "id": 60093,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For the given silicon diode resistance network, the current flowing through diode is data:image/png;base64,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",
+    "op": [
+        "0.5mA",
+        "0",
+        "10mA",
+        "1mA"
+    ],
+    "created_at": "2026-07-10T04:12:35.381+00:00"
+},
+{
+    "id": 60094,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In a P- type semiconductor material, the majority carriers are",
+    "op": [
+        "Holes",
+        "Ions",
+        "Protons",
+        "Electrons"
+    ],
+    "created_at": "2026-07-10T04:14:34.423254+00:00"
+},
+{
+    "id": 60097,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Varying Q- point of diode is responsible for",
+    "op": [
+        "DC resistance",
+        "AC resistance",
+        "insulation",
+        "static resistance"
+    ],
+    "created_at": "2026-07-10T04:15:56.865367+00:00"
+},
+{
+    "id": 60099,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Another name of carrier’s depletion region is",
+    "op": [
+        "Biased region",
+        "Saturate region",
+        "Vacant region",
+        "Space charge region"
+    ],
+    "created_at": "2026-07-10T04:16:20.822864+00:00"
+},
+{
+    "id": 60101,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Which transformer gives less voltage at secondary as compared to primary",
+    "op": [
+        "step up transformer",
+        "step down transformer",
+        "islated transformer",
+        "all transformer"
+    ],
+    "created_at": "2026-07-10T04:16:45.584637+00:00"
+},
+{
+    "id": 60124,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In semiconductors and insulators, there is a band gap above the valence band, called the",
+    "op": [
+        "zero level band",
+        "conduction band",
+        "free band",
+        "high band"
+    ],
+    "created_at": "2026-07-10T04:39:55.060128+00:00"
+},
+{
+    "id": 60125,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Using small signal model,for a diode that conducts at 2mA with n=2, the change in current due to change of voltage by 10mv will be",
+    "op": [
+        "o.4mA",
+        "0.11mA",
+        "0.6mA",
+        "5mA"
+    ],
+    "created_at": "2026-07-10T04:40:14.98832+00:00"
+},
+{
+    "id": 60126,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "A diode will be reverse biased when",
+    "op": [
+        "Both anode and cathode are connected to +ve terminal",
+        "Both anode and cathode are connected to -ve terminal",
+        "cathode is connected to -ve and anode to +ve terminal of a battery",
+        "cathode is connected to +ve and anode to -ve terminal of a battery"
+    ],
+    "created_at": "2026-07-10T04:40:44.250533+00:00"
+},
+{
+    "id": 60127,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In a certain loaded transformer, the secondary voltage is one third the primary voltage. The secondary current is",
+    "op": [
+        "one third the primary current",
+        "less than the primary current",
+        "three times the primary current",
+        "equal to primary current"
+    ],
+    "created_at": "2026-07-10T04:40:51.202609+00:00"
+},
+{
+    "id": 60131,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The bonding force of atoms of semiconductors is",
+    "op": [
+        "Metallic bonding",
+        "Covalent bonding",
+        "Ionic bonding",
+        "Van der waals bonding"
+    ],
+    "created_at": "2026-07-10T04:43:42.002655+00:00"
+},
+{
+    "id": 60132,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "If 10w of power is applied to primary of an ideal transformer with a turn ratio of 5, the power delivered to the secondary load is",
+    "op": [
+        "10w",
+        "50w",
+        "0.5w",
+        "25w"
+    ],
+    "created_at": "2026-07-10T04:44:36.33835+00:00"
+},
+{
+    "id": 60133,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In the given two figures of simple diode circuit, which diode Fig. is forward bised? data:image/png;base64,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",
+    "op": [
+        "Not any one",
+        "Fig. (b)",
+        "Fig. (a) &(b)",
+        "Fig. (a)"
+    ],
+    "created_at": "2026-07-10T04:45:18.851985+00:00"
+},
+{
+    "id": 60134,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The electron valency for Si and Ge is",
+    "op": [
+        "2",
+        "6",
+        "4",
+        "3"
+    ],
+    "created_at": "2026-07-10T04:46:14.678705+00:00"
+},
+{
+    "id": 60145,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Load voltage is zero for positive half cycle of input in",
+    "op": [
+        "negative half wave rectifier",
+        "Both positive and negative",
+        "positive half wave rectifier",
+        "full wave rectifier"
+    ],
+    "created_at": "2026-07-10T04:53:25.792362+00:00"
+},
+{
+    "id": 60147,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In an N- type semicondutor material , the majority carrier are",
+    "op": [
+        "holes",
+        "ions",
+        "electrons",
+        "protons"
+    ],
+    "created_at": "2026-07-10T04:55:14.757038+00:00"
+},
+{
+    "id": 60150,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "In farward biased  Characteristics of junction diode, current value is",
+    "op": [
+        "Is=ie^V/VT",
+        "i=Ise^V/VT",
+        "i=ISe^V/V",
+        "i=Ise^VT/V"
+    ],
+    "created_at": "2026-07-10T04:57:17.760656+00:00"
+},
+{
+    "id": 60151,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Addition of impurities in semiconductor material to produce more current is called",
+    "op": [
+        "excitation",
+        "bonding",
+        "intrinsic",
+        "dopping"
+    ],
+    "created_at": "2026-07-10T04:57:26.483318+00:00"
+},
+{
+    "id": 60152,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The process in which some excited electrons may fill some of the holes, is called",
+    "op": [
+        "Recombination",
+        "Ionization",
+        "Agitation",
+        "Excitation"
+    ],
+    "created_at": "2026-07-10T04:57:45.301522+00:00"
+},
+{
+    "id": 60153,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "When magnitude of reverse voltage exceeds a threshold value specific to a particular diode...........",
+    "op": [
+        "farward  bias region is entered",
+        "reverse bias region is entered",
+        "break down region is entered",
+        "saturation region is entered"
+    ],
+    "created_at": "2026-07-10T04:57:53.924847+00:00"
+},
+{
+    "id": 60154,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Diode small signal resistance rd at bias current of 5mA  for n=1, will be",
+    "op": [
+        "10 ohms",
+        "5 ohms",
+        "8 ohms",
+        "2.5 ohms"
+    ],
+    "created_at": "2026-07-10T04:58:06.134153+00:00"
+},
+{
+    "id": 60180,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The barrier voltage for a germinium diode is approximately",
+    "op": [
+        "0.7 v",
+        "0.5 v",
+        "0.8 v",
+        "0.3 v"
+    ],
+    "created_at": "2026-07-10T06:17:05.760994+00:00"
+},
+{
+    "id": 60182,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Semiconductor element in pure form is called",
+    "op": [
+        "extrinsic",
+        "P type",
+        "intrinsic",
+        "N type"
+    ],
+    "created_at": "2026-07-10T06:20:10.229322+00:00"
+},
+{
+    "id": 60183,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The current which results as a flow of semiconductor’s charged particles from a region of high concentration to a region of low concentration, is called",
+    "op": [
+        "Drift current",
+        "Saturation current",
+        "Short current",
+        "Diffusion current"
+    ],
+    "created_at": "2026-07-10T06:21:04.376486+00:00"
+},
+{
+    "id": 60217,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The depletion region of a P-N junction is formed",
+    "op": [
+        "during the manufacturing process",
+        "when its temperature is reduced",
+        "when farward biased is applied to it",
+        "under reverse biased"
+    ],
+    "created_at": "2026-07-10T07:00:59.515372+00:00"
+},
+{
+    "id": 60221,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "At 0-degree temperature, the outermost electrons of an atom of a semiconductor material are present in",
+    "op": [
+        "Band gap",
+        "Valence band",
+        "Conduction band",
+        "Out of atom"
+    ],
+    "created_at": "2026-07-10T07:06:52.972114+00:00"
+},
+{
+    "id": 60275,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Applying DC resistance to diode , resistance does not change is called",
+    "op": [
+        "resistivity",
+        "DC or static resistance",
+        "shunt resistance",
+        "AC resistance"
+    ],
+    "created_at": "2026-07-10T08:17:46.699603+00:00"
+},
+{
+    "id": 60306,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Breakdown voltage appears in",
+    "op": [
+        "reverse bias region",
+        "farward bias region"
+    ],
+    "created_at": "2026-07-10T09:44:57.097551+00:00"
+},
+{
+    "id": 60307,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The N-side of a diode symbol is identified as data:image/png;base64,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",
+    "op": [
+        "cathode",
+        "anode"
+    ],
+    "created_at": "2026-07-10T09:45:38.649696+00:00"
+},
+{
+    "id": 60308,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "If a silicon diode conducts at 2mA and whose n=1, the slope of diode will be at",
+    "op": [
+        "2 ohms",
+        "1/25 ohms",
+        "1/2 ohms",
+        "2/25 ohms"
+    ],
+    "created_at": "2026-07-10T09:46:10.548399+00:00"
+},
+{
+    "id": 60435,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For a P-N junction under reverse bias",
+    "op": [
+        "more farward current flows",
+        "infinite reverse current flows",
+        "no reverse current flows",
+        "no farward current flows"
+    ],
+    "created_at": "2026-07-10T14:43:46.261981+00:00"
+},
+{
+    "id": 60436,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "For the given germenium diode and resistance circuit, the current flowing through resistance is data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAADWCAIAAADq7QGvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAABRxSURBVHhe7Z1NaFxZdoBr6UU2GYIIs5gaslAWDYNWojHZmBZ0oBYmWkzwoIGBaQxm4qKHCoSAaC2mMRPkMII28XRieuJmSLyoOLaI3AQ3HkzknkWnWgsXnqHcGFO0QppOtLBCZ5g2aL5b5+rp1fupeu+pbtW90vl4iPfuK1V3lT6fc+55f7UDRZk0apUyedQqZfKoVcrkUauUyaNWKZNHrVImj1qlTB61Spk8apUyeYKxqtfrLS0t1U8Z8/PzfOrNzU37LQRCMFa99957ly5dYuXlqYEP2+/3m83m/fv3B99BMIRn1alid3e31WqpVa5QqwJCrfIatcotJ8YqKZgKola55YRY9dknB1/82q4XQK1yy0mwCqVuXzj4tIQiapVbgrcKpe68cfDTPz54fNeOFECtckvYVolSN149ePeVg52bdrAAapVbAraKlEfiQymx6qOrdrwAapVbgrTqqy8PHm0cvH/OKiXLVsvuLYBa5ZbwrHr20PhEIcVCiIqsunXevqAAapVbQs2AhKsv//fgSdsYJkELyQqjVrkl7GqdCh2ZKLAeXDErhVtWapVbAraKWIVMBKq952bz4+vFp4FqlVsCtorIdOeNg63LRi/hs0/syjj6/f7Kykq73S51nGfmqFXuoWynnCI+UWOVpNvt1mq1paUlPv729vb+/r7d4TdqlXse3zW1FG6VZ29v79q1a4uLi7g1Pz+/trZG3CKA2d2+olY5hvhEIUWsKpz1EpD7iFjI1Gg0cAvIiajW6XTsK/xDrXIMtdSHb5keVZlTFdLgFiGKsp0vQdwiLeKW3e0ZapVjmPdJqS4TwONBXbW+vr6wsCBiLS8v2x2eoVY5hhBFoHpw5WgCWAkKLHyiwDpz5owoRaDytnhXqxxDOUWpvnOzcmtALrMRk4BA5f+FXGqVY3oPjFX8LAlxiCI9qtDr9TofnxG722/UKpcwAXzSNoeWC1tFSCPZbW9vSzeBfEdVvra25n83IY5a5RJpK7x/rkiziuCEOu12W4rx+fl5Pi+fend3177ieNy7OAh6lov37LDh6b2Ni2cHw2eHxocZvOqsvM5y9uzFjXtP7f4YapVLqNA/umqq9XHNKnyi+sYk/lQSnCieJnmU5unGkA5xeQa6nd1AjqcbrGZ4FbMO7Z4ONGIsesfUr6hVLpFm1e0LY5tVhCj7F6rVqM0nFZ8i7l3MCULWNrt3IFjilUc+IpQdsxyFv8TvqFW5mFCx93yoI8B6qQYBL966bPpV46yS3LeyssJfaG5uDrHY7PV6dvcxGYgxSFbJbGW9iEs1bEgkziCYJcnbq1blgBCUROQvgo04gWGssxSHXyFQbbUKtkBxizq91WrJn2p5eXkiR2aOQopxK+bMYRgakipu1WinYvuHTFSrMjFRirnbzk17lrBca4UZVEg/LXEmp/0VRCwT4ZgDEqXW19flD0aZJadYHavMenrPVkYxA7KligmUJ80hudKpVVkwdyNt8ZMqO94XwDMkKw5W8fpKjXWmhFRX0ZSwXq8TuvgSjuFWwqJsqWIGFZYqtV+tysD85fAJqx5tDNXaDJbNgFWtikAv0iIRS/6Ccj5MxWM14sGwRrlSRUPZ6e9Qyizn1Kp8xAnEQi+BWFXmenbzDjdeHXqHY0Ba5BuQvyRQ2pdujQ48OZQkS7FhgTIHhUOnso1Tq/KRQ3jxC9iZ0DEoVTwLKyyoljfFwyoS6ISsEjApiluNRsOO5jH44x/95Y0mUWiJKyb+pBWx1djQjsPuFZPKLKMMalU2JgniE7EqaouzgkDkMhxinMILaZCMQbIk1X1anclZRcqTEl7OWVhcXOTbIDPa3XnEo40p2If0MDtlzyDwxPc93bgIh2EsZubgTWxDnXXYSCdAtWoEGIM9kvLwAzmi8kj6BRH4hz3piMVvEe2IZ8eAmh17VldXB36Y+MT6eJ8sUfUj/So7ekiUx0zL3I4ZrIwxhhNljIyqSq0aBQ5hErU2YiXSXNoq6qe0VYwMToOxm2UgWHa73c3NTWmNEqL4+HwJE2uNukStGgmZi4hF7ktM4oxVgyux8Ia9mIc66TRXySqZ9PF5pX6SSR967e3t2Vd4j1pVCayirkI4whh6EbcS2gklMyDJDnsonqLDzHzqTqdTsY8wO9SqSkisIjghE2KJYWkKV+v4JB+wXq/j0/Ly8v3790l2x+qnzw61qhLxuoo0x2ZmBsSqYv2q+DkLrAeU7DJRqyqRsIpYJQ30RB7EKumtj7Oq3+9Hs7yiXQOPUatKIhU6riAWK2xiDNGIEdYTYSmyKmFbFiQ7uZBG3GLS12g0grtvh6BWlQSTpJ8e76ojzZO26bYneqFYVf6cBaBml4Id5ubm+OxhFexqlUuqWiUw+1tZWYn0IkVSvwehl1rlEqySCoyVqmDS2tpadOwPz7CNOaPP00O1yiXIRCF/PKuEqPUQtbIouUqfszAtQrKq1Spx918vIPGZHulkbrIApL/oUhzw9p+ZWuUSrKKoktnisSEVUsXzJVC/oxSpkE27zzM0A7pEmg4FrgccAfUThRQhSg4zgzzd1Nv0B2qVS7DqSdu016OTtMqAT0Qjpn5Sqp85c2Z9fX17e5say77CV9Qqx1S6e4fUT1FboV6vsxlKWwFmbBVhHIpMkkO1ityHVfHTlEfCtyF9BDnnE6vksKDPfYQ0M7aKrwxdivwTDNgqMuDH14d67ll0u12Ck1TisLCwEOjhGpi9VcT2k2wVsz+q9XGHAvl0IhMsLy+T7OyOMFGrHGMboWNaVlTl0d0ZSX+U5HwnYWW9OGqVY6RlRbga17IiPjHFI1BJEpSKiulekS/HN7Sucgzl1M7g0UjFWlYU5nwnrVYruhCef3WU8HZ3IEzVKr6dTgzqU/51ynVIrNvRTod/tengH6pVIM2Fx3dLZTRKdb4cuS8oYtnRQJiqVXxTfEERIgoTH7t9CP9Y09ErYKuIUgUK9kz494ZYfCF2OxCmahXhnUIhgk1c4V8kwckODchszwRsFXU61frtCxWOMfNtyG2G7HYgaF3lHjkaSBIsf4xZraoCVpHyTrhV8Hjw2K1S95MZoFZV4bRY9eyhPdV4XIc9gVpVhdNilSmtWuaK05KllVpVhVNRVwk7N41VJR9oo1ZVAZ+KKAXBW0WpzjSQPFgmCapVbgneKnhwpXiTXVCr3HISrGIO+P4507sqjFrllpNgFbnvzhsmXBVusvf7fZ+veshDrZouj+8asQpb1ev16vU6n91uB4JaNV0IV2WaC2qVW06IVSXBqj/6wz9Qq1zBN9tsNu3GqeHffvWsdvGvfvSv//7Fb76yQyEwDauYwiRaf/v7+1Sg5qyXwlC0Li0t2Y1iIGJw57vFwaRvfND9/XaHZbMf0t33pmFV+k/b6XRqUyG43BEHk0QpltX/fB5QuJpNBiRWtdvtdcegFHWJ/U8GiFqlTJ6TadXw4yXk0RJHT7AQogdOxHZkPoRCKc1Yq6hWO/+zz8t8Ey7fqoQ/R6pET8VMPnMJCxPPQzkme4Onemay6/fN5ibCWKsYoZz/7sMebtkhP8i1Kvep4keP1BmSyjyAKWHZ8UAp5nGNHFqtFm7Zl55QisSqn3/6OS/z7R9YjlUDczKfKp5tFfFr0nlPrFrKodlsqlXekm1VvKJK6ZKyioHhuDUpJAN2u12T82Iw0i92J5mgGW0VmyQ+P1UbUVdF9VOi/D60SkadKaWMsOrZ//2GcurSo08ZZ92OekO+VYZhgSyHgcwMOsh8yiEjrJIKXV7ATzvqDaOtOlQoy6qzG/eOE6aYxMn17+4gVwadJfOswiesYoXBgK0adicquqqHKf7k9j0ccyKP2LAi64yjl4f/clJWDZLekUZGoYQ81qrjZD45cbbRaCy7ZGVlJegnV+VZJcjen3/6ud32iZRVUX7Dq9RTxQ0J7RRnjLaKKPWND7qU6sSqxK6Zk86AhxW6yXDpp4oP9muBPhVGWMU6g8wBWZdGqIx7wri6aqboEZs8qyjYGcQnVtJhbOb4a1XUW5dDNHG0t846GZBBEcuOekMwVs3Pz8/Nzcm6WgXSr/KwBQrBZMD19XXmdHaj19MjNj7jtVVx3jt919ioVc45DVYlvBldV9k1L1GrPAJX5ICxSJNpFYPU6X6WUxFq1dQZeTm8tAxYZIoXWcUmwrFS+9kv/Oynx5m2VYP7VY0hsww/AVaZz7XVGnt3UKSJZEovuOX/NGWqVvF1rK6uro2j0+nYX4gRvFVffWnvX1XgnrNEpoRMssghGvsij5l2rOoWYG8v4/hD2FaR9R5tmEe6YdWT8bfkj/JgYiGMBdFP0brKPXvPrVIs775inhVYgHhRJQsBzPOpX4Ra5RATV549NLWUKCVWffiW3T0SMl3CKmZ/dp/3qFXOkBD1/jmT9ZApEuvOG/YF44iHK4r0ICoqQa1yBrVU74G5uR4LdTp6RW4VA42ie8L4302Io1ZNBcRCKULXrfPF7wtqpsyDcOV/2zOBWuWerwZPR8KqL35t0iJiFZgGCkwGg2h7JlCr3INJFOzRk9yQbOfmYMd4dnd3F/7mH/75lyVu0e4DapV7PvvEFFWEq8K3Lo6Qy0b0fuuuCNgqeUIuP8ujVrklVKsk31FUlXnQSIRa5ZZQrSLrPbhiKvTyDzIFtcotoVplSvXLpvMppXpJqln1+f//963n//T0xczO61erHEOIkqeYli/VoYJVL1++/OC/tmaoFKhVjqGcuvGqOaJMgVWeCla9+O2L2SoFapVjsIoJ4OO7drMk1WKVXZsdapVj8KlqWwG0WndLkFZJW4EM+OyhHSmJWuWWUK2Sk2EqNatArXJLkFYx72P2d/uCWuUpM7EqUfmWLoSxaqtlmlVZLVDezV5UlE+v18Oqzc3NsS/2oUiPUKuyMX8kVHjSNpfESFOAn5TepSqkvedGKcTKaoH+ovvLb755buzye9/9FktiML283X7nxW9f2LeeNWpVDuQskhdVEbW29AWkn8mErjjIlN8CvfUfm7U//zoLTvzJ243Ki7zJmzfWMq9NmglqVRaEJVRAIxZqbbGKwQdXip8fbMAqfp3fyrKKtIUKCHH+71f+8YufVVve/PCveYfX3/rO4888uu9SSFZRYdgN1yDQzk37Mz6DMxfMXLbrRRhpFaACQnzt0reQ497BnbILVhGrCHWEPfuOfqBW5YBSqEBVFM9flFmFT+M0iFWkUd4tB6oryibkQJGENGMXgpzkPsKefTs/0AyYD+nv3VeGNMIwwhX1Oz9lRRZemQlWkTFHWoUQV//lepQHE96MWPzMfYJalQ+64AQ/BRTBKn7i0+0LJhWKWGjHeuYJxLxYLq3Jtwp2d3e/9+MfmKhTOA/iH3lz4YevE+rsu/iEWpUP0pC/+CkgRxSTjFUmHZsGBMZgD5vpExMYZ85Y4BJ45EARRCkYrmTq93b7Hfv7nqFW5YMTUhURhPjJTDCS5tCqIwhavJhfiYOFWFWsFJM8iC4JgdKLlFNYaH/TP9SqkWDJR1dN4ksccklbxSsp7T++PtTjLmMVvxg1GhIaxZef/Ooq1T0v86fnmUatqkTaKpkwssSTYBmrQBoNtddqqJOQSRZpJaCUb62EBGpVJfJiFYNxqxgsUK3HQRdCUV6BFbUS7Kt9Ra2qRNoqKe0Tl7pj1bjOQhpqcNR57W+XE0oxQ8Q2gpk/R2byUKsqkbYKdRhEoziVrKJgMnlwuNHwd713yH2EMT9bCQnUqpLgByXUrfMm37GCNxRPTA+lQZqAvQSw/CM2eVBgYRWRSQossqHkPuaJXp3xkodaVRJEIc3hEIscwPn4ulmJWllxqloF0mggD6LUX2z9pQldPp2VMBq1qiTEKlxJLHkJjl3HuBgQjb52yRwi5KefR2byUKtcglUUW1jFSgoqpG//6Pvf+/EP8paFH75OiJLu1DffPDf6xcQ2PWuvNAFbRV2fsoryyJy191qt9qcjlz+roZRZEuOJ5bUagU2tKk2oVpkm1uXMWAW4NQJe0O/3m82mXA1hR3MYvJ8vqFUuoZwiUCFWZi1fAL3Gxi2hWvXRVVOw65VbfhKkVcwNdwbnKKdbWcVQq9wSpFXwWO+z4DGhWkWUwiq5Sqc8apVbQrWKikpOfi9zKDBCrXJLqFYx+6OuelTlttigVrklVKukEVr1oI1a5ZaArZK7zVZqWalVbgnVKkIU6e/Gq9VaVmqVW0K1Co7RXFCr3BKwVc8e2jNCy5dWapVbAraKioq6iiXnGPMI1Cq3BGwVIUpuUVS+YFer3BKwVbBz05RW5Qt2tcotYVslNwIp/4QItcotYVslpdWt82ULdrXKLWFbBcwBSYIlT4lRq9wSvFVy05ity6WSoFrlluCtQqatlglXZZKgWuWW4K0CZoJSsxdGrXLLSbBKzl949xW7WQC1yi0nwSp4cMUkwcJNdrXKLSfEKnyKbl9bALXKLSfEqpKoVW5RqwJCrfIatcotalVAqFVeo1a5Ra0KCLXKa9Qqt6hVAaFWeY1a5ZZer7e4uFir1c7MDv7rU/4fmJub41Nvbnr9fJE0wVjlA+12u9ls2g0lH7WqBKczC1dArSqBWlUQtaoEalVB1KoSqFUFUatKoFYVRK0qgVpVELWqBGpVQdSqEqhVBVGrSqBWFUStymZ3d/fM4BBNvV6fO2R+fn5hYcFuDJBjOMEdUXGNWpXN/v4+kenatWt2O4dOp7O6utrv9+22MkCtyoVwhTHb29t2O8Xe3t7a2lpwJxRMAbVqFBiDN5lPO3758iWJj72+PZvPB9SqUeDT+vp6u9222zHIelTuvV4wz0KeJmrVGLrdLnkwYQ/xCdsovOy2MoxaNQYEkrKd+t0ODTLjysqK5r481Krx4FOr1SJo2e2Dg4WFBWp5u6GkUKsKQXBqNptStlOhk/5kXMlErSoK4YqynQKrVtMvbQz6BRWFKqrRaKCU9jzHolaVgDw4ttuugFqlTB61Spk8apUyedQqZfKoVcqkOTj4HaY9UvYB93GKAAAAAElFTkSuQmCC",
+    "op": [
+        "94mA",
+        "10mA",
+        "0.5mA",
+        "20mA"
+    ],
+    "created_at": "2026-07-10T14:46:16.892045+00:00"
+},
+{
+    "id": 60437,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "which of the followings are semiconductor devices",
+    "op": [
+        "transistor and transformer",
+        "diodes and transformers",
+        "inductor and capacitor",
+        "diode and transistor"
+    ],
+    "created_at": "2026-07-10T14:46:21.021292+00:00"
+},
+{
+    "id": 60446,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The energy required to excite an electron from its valence band to a conduction band in semiconductor, is known as",
+    "op": [
+        "Band gap energy",
+        "Excitation energy",
+        "Potential energy",
+        "Ionization energy"
+    ],
+    "created_at": "2026-07-10T15:15:09.444633+00:00"
+},
+{
+    "id": 60524,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "The P-side of a diode symbol is identified as data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAC4CAIAAAB2AC4tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAzlSURBVHhe7Z3BiyVHHYDnPwge5hjmGnJbBgx7WJC5LAt7WfASPAzkFLOHMLN7GYiZkxIvrhdBFnKQxMuYk7gEokmEoBKVTDAYYkDBNRCRhbiHRURD/Pr9asrOe29evdfv9euame+jeVRVV1f3q/p9Vd2dt5mNL0SkhJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnNXJ8fHz//v2UkQrQk+o4OjraGHHnzp1UJEOjJ9WBHuEJXL161YWlBvSkOtqeBKwwaZ8MhJ5Ux6QnsLu7++DBg1RD1o6eVMdUT4K33347VZL1oifVMcMT2NvbS/VkjehJdcz2BDY3N4+Pj1NtWQt6Uh1FTwKqpQOkf/SkOub0BC5fvjzUW2Mu8kK9hdOT6pjfk2D98Zr/S+jFea+gJ9WxqCew5rfGL7/8cpxXT2QwOngCPNyvLWr1RIanmyfB4eFhaqVP6vHk57//aOPGi3ym/AlN+ZX9j/72j5RfGj2pjmU8ge3t7b7fGtflyZX9n/zyvZQ/oSm//LyenGeW9CSgkdRcD/TkCWH9ys/e4UGLuI9E2vFl3nn/Y/bGGhKHZB8oJEuFMU+ifFKn+bmInkTnxvaHv3yaSmcSXZ8yLWhhavkyrMQTuH79ek9vjXvyhDje2Lm9ce2g+WS78WLa0aKpc2V/9zuvxO1W48OlmyFAU3hlvznwyv5XvvFtEuHJV7/5vVQ+ajPLsxAX0ZMvjcfl54vTDBMb/Uv9yRmO8q8f/DBlVsSqPAn6eGvcqycHd39K+rs/foPgnpyDGhmuHTA9RbbxZHTfxURGIo5lmL62/wOaQommnZ3bMcRkcYZdo0MX46J6cmWfniVNx7FF+QyoHPXHYN5i5FJmRazWE1j5W+MePTm5WYq4R4NmknryWRYNPilnbzNn7dym50mHJ3yGV/lrNuWjphphRvXJNhuT47WDOMVCXNz1hE+6le6eOsE0/T5acEIDXKJm7Lr5/SOGhE5n9mp70pQzHpduUsg4RWEHVu4JrPatca+eRKxnT0jzSTZ3KRXoeUaHDm98GK0nzbGtB/qmwuh9VzMo1w4oj5kumoo6C3FRPTm56WKymey4Zg67/DwC0NHxAINLsew0A7BzO0aomauuHYQnfJLGLupHes4nn0n68CRY1VvjHj25dPP/nky7Jabb6eRGj53bKXFSjQGi2xka7oRjfBk+NtLsYuAYF6YwPZmXZjxGvUyXxahEIV3JFv1Ih9K/mND2hE5vLyCAZpGlQXbRJlvj0mjAos6i9OcJbG1tLf9w35MnBD2dHCNCt5OmJHZlKEGDiHuyDFauxoH0OSPFJw8wMV6U8xnlHJgfbBbl4j6fjI0B8U3PssXkRKfHtET009GneRJZKocnHJK3GMgO9OpJwCnSyTrRkyc1oyfTiamoWRl2bjO3Efd4QgkzE/IwLVEh1o3QBpHwJBYo2p/d+GzW4Alsb2/HzN0BPbkQNJ48+WysG1Np1ocbLxL3fMbtE5KQjV04g2bcSeMGnpCN8iY7KketOKob6/Ek6PbWWE8uBMQ0q8Hs2TTqxKoC7TTkLJ/tdqJ8dstF1ukJdHhrrCcyPGv2BBZ9a6wnMjzr9yQ4PDz8/NGjdBEz0RMZnqE8gTl/a6wnMjwDehKgQbqUU9ATGYz7/3wrEoN7ArN/a6wnMhg/Ot74zf1vkajBk+C0t8Z6IoNR1XqSmfrWWE9keKryBLa2tsZ8mPTkX//5LBLnFT2pjto8Cdq/NXY9keGp0xPIb431RIanWk8CJNETGZ7KPWmjJ2eJo/PF7u5uCsPquTh/XuLMe7K3t5cGTWRBmJJSGJU4854cHh6mLy2yOHP+m4LzcN917xzBHf8Zuu/aPMtw/fP/ET+f46uj/uf4CDLw+UQGo3JPjo6OfC8sw1OtJ/nP3OmJDE+dnnBV6fr0RGqgNk+2t7fHfNATGZ6qPNnb2/N39aAn1VGJJ5ubm/fu3UvX9GX0RIanBk9m/0+99ESGZ3BP0CBdyinoiQzPgJ7kN7+z0RMZnqE84bzpCkroiQzP+j3hkX2hX6DoiQzPmj3hkX3O/11qRk9keNbpyWlvfmejJzI86/Hk6tWri/45h4yeyPCswRMCPZ2sE3oiw9OrJ9vb29X+HdOa0ZPq6M8TWk7nWA49keHpw5Otra0V/ttDPZHhWbknU3/zuwx6IsOzQk9m/OZ3GfREhmdVnuzu7i7/yD4VPZHhWYknhHJqrgf0RIZnSU/m/M3vMuiJDM8ynnBsaqVP9ESGp5sni/7mdxn0RIangycrf/M7Gz2R4VnUkz7e/M6G5x/Oywq2TjmHRU+qY35PlvnNryyEnlTHnJ5w85MOkP7Rk+ooerK1tdX3m18ZQ0+qY7Yn7b9PLWtDT6rjNE/W+eZXxtCT6pjqyZrf/MoYelIdk56s/82vjKEn1dH25Pr16z6y14CeVAerR0jim9960JMa4XndZaQq9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9KQ7f3rhhd/u7Hx8584fn3vu35988ueXXko7luDhe++989hjv9jYOL5xIxWV+PS1197a2OCQ0y7g4YcffvDMM9ThUkn86vHH//rqq2nfCRzLd/ndU09x3s8fPYpCWqaEA9n4jh/cuhUJGowKwBencP6rvX/3LvW5Wi4mFZ0F9KQjhEs7OIgz4i9lloMAWsgTIJpP84RYZ9evn3iiHf1vbGxwSGSBM1KCPJhPoq0B3kZYP3j9dbL/ffiQbFSOCpSTpRBhoqRIXK2enH9iEmUCTvkRC0X2DLp5wvVMejIW5RmUppC1JbLvP/00WWZ6vtdYzckW8oKQdfr7m29SLdLzEJ7QTsqfBfSkC8QTd0eEC0P+2bvvRiFxw3RLlBMBbDHjEkOUMIWzlwRbE1WjNHWY49lIkM2hRpqWiV1KSHNslAccPlYfTvOERY9yNi4sFY2IcoKVL0JrrDZkMZPGU40TJj3h4slSyG0Y2fgibPkUcYVsWaSAL0Jluiuulgppx2hRmvymVaEnHSEoI1z4bNvCkHMf0g4slp24J2H+phzBODbS7CJBxJBmi1AjYmiWral26xat5Ymf+yLKaY2N+mSjfKontBYCcMYxTzhjnIKLJKy5DNJjDx7BpCdAlkIaJx3fl2z6jqNnGNIcSDW+y+iIZrGlGpMC9anAlj1hRoiVmc9VrckrR0+6kwOajZjIYUpYUxJjT4DmWMnPwaQj/tjisSHSEYvRbEQMe+MeifoxkedIwg0iLyL7NE84lvL2w0nAzN0+Y77vir1tZngSz2NMEGRRETciHV8QuCqyUc6lRodA2Bun40rYFWtvejpa5BZubejJUhAEMcdHMEXURkBTwpATATHRAp5QHrcr2ZPYFensCdWyJ4QXWdpplwPRFuWkp3oSx0bLY+sJNaM8lsFunnBS0tkTTkFXkI4vCOFJ3G6RyJ5EeZwuzx18EeYXdtV596UnXcCECNAAE2LscyHRzPDzmRcTWMYTdhHcuRyKnkD2YcwTxIjyWGcW8oQSshTG6ebxJKaS0zwh3e6lOtGTLuAJg92+meEun3uGmJ4hoofgIKqiBGLu7OAJu/JdTduTfMbTPCF2Q6cxB6hMYZ65F/IkLo/CcK/tCXVIj3lCX3EiEvm9efu+K+TnO+bOHFO6EvSkC4w9I01AxD0VY8ydQ74vD4gStpQZQQViIqrhFS2wRXxQzhaBSyAiQBwbJ8rTbawDRBIbCbJRHjIwbUe2TShN5TCW04Wu7Sk8lqwc323iOvO1xfVwuuw/FdhLYXQFGuMDl5e7iEJOikhUY/VDj2iQi6caR0WWbqFNtIl2akNPuhCzO8PPqLMxunluzlDSvjcjbsIltriJijSHUy3SBDptxoHRLCV5Ig9yOYkooUIczjY1yGiTOoRsHMvWrkZhHEuFsXNxJRTG3jgjCQppMNUYPXxHhRAv+iSusP31OSNN8QTCKdhFBfbGZfBJCbv4nHr9NaAnK6aZSkdzLeFCOgrlrKMnK4YbD+4iWD2YHVORnH30ZMXkp4tqbyGkA3qyerhHb9/ByzlAT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUiJL774H4RalW+78SNaAAAAAElFTkSuQmCC",
+    "op": [
+        "Anode",
+        "Cathode"
+    ],
+    "created_at": "2026-07-10T18:36:30.550482+00:00"
+},
+{
+    "id": 60529,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "10 July 2026",
+    "qt": "Rectification is the process of",
+    "op": [
+        "converting DC  into AC",
+        "increasing output waveform",
+        "converting AC into DC",
+        "converting diode into capacitor"
+    ],
+    "created_at": "2026-07-10T19:02:32.963567+00:00"
+},
+{
+    "id": 68306,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "The width of the depletion layer of a pn junction ",
+    "op": [
+        "is increased under reverse bias",
+        "is decreased under reverse bias",
+        "decreases with light doping",
+        "increases with heavy doping"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68307,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "For the given germenium diode and resistance circuit, the current flowing through resistance is  data:image/png;base64,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",
+    "op": [
+        "10mA",
+        "94mA",
+        "0.5mA",
+        "20mA"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68320,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "The process whereby charged particles in semiconductor move under the influence of electric field is termed as",
+    "op": [
+        "Diffusion",
+        "Pushing",
+        "Transportation",
+        "Drift"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68340,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "When a diode is reversed biased",
+    "op": [
+        "Half of the current conducts through the diode",
+        "Maximum current conducts through the diode",
+        "No current conducts through the diode",
+        "Double current conducts through the diode"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68346,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "For the given germinium diode and resistance circuit, the voltage drop across the resistance is  data:image/png;base64,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",
+    "op": [
+        "5.3V",
+        "10V",
+        "6V",
+        "4.7V"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68347,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "The N-side of a diode symbol is identified as  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAC4CAIAAAB2AC4tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAzlSURBVHhe7Z3BiyVHHYDnPwge5hjmGnJbBgx7WJC5LAt7WfASPAzkFLOHMLN7GYiZkxIvrhdBFnKQxMuYk7gEokmEoBKVTDAYYkDBNRCRhbiHRURD/Pr9asrOe29evdfv9euame+jeVRVV1f3q/p9Vd2dt5mNL0SkhJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnNXJ8fHz//v2UkQrQk+o4OjraGHHnzp1UJEOjJ9WBHuEJXL161YWlBvSkOtqeBKwwaZ8MhJ5Ux6QnsLu7++DBg1RD1o6eVMdUT4K33347VZL1oifVMcMT2NvbS/VkjehJdcz2BDY3N4+Pj1NtWQt6Uh1FTwKqpQOkf/SkOub0BC5fvjzUW2Mu8kK9hdOT6pjfk2D98Zr/S+jFea+gJ9WxqCew5rfGL7/8cpxXT2QwOngCPNyvLWr1RIanmyfB4eFhaqVP6vHk57//aOPGi3ym/AlN+ZX9j/72j5RfGj2pjmU8ge3t7b7fGtflyZX9n/zyvZQ/oSm//LyenGeW9CSgkdRcD/TkCWH9ys/e4UGLuI9E2vFl3nn/Y/bGGhKHZB8oJEuFMU+ifFKn+bmInkTnxvaHv3yaSmcSXZ8yLWhhavkyrMQTuH79ek9vjXvyhDje2Lm9ce2g+WS78WLa0aKpc2V/9zuvxO1W48OlmyFAU3hlvznwyv5XvvFtEuHJV7/5vVQ+ajPLsxAX0ZMvjcfl54vTDBMb/Uv9yRmO8q8f/DBlVsSqPAn6eGvcqycHd39K+rs/foPgnpyDGhmuHTA9RbbxZHTfxURGIo5lmL62/wOaQommnZ3bMcRkcYZdo0MX46J6cmWfniVNx7FF+QyoHPXHYN5i5FJmRazWE1j5W+MePTm5WYq4R4NmknryWRYNPilnbzNn7dym50mHJ3yGV/lrNuWjphphRvXJNhuT47WDOMVCXNz1hE+6le6eOsE0/T5acEIDXKJm7Lr5/SOGhE5n9mp70pQzHpduUsg4RWEHVu4JrPatca+eRKxnT0jzSTZ3KRXoeUaHDm98GK0nzbGtB/qmwuh9VzMo1w4oj5kumoo6C3FRPTm56WKymey4Zg67/DwC0NHxAINLsew0A7BzO0aomauuHYQnfJLGLupHes4nn0n68CRY1VvjHj25dPP/nky7Jabb6eRGj53bKXFSjQGi2xka7oRjfBk+NtLsYuAYF6YwPZmXZjxGvUyXxahEIV3JFv1Ih9K/mND2hE5vLyCAZpGlQXbRJlvj0mjAos6i9OcJbG1tLf9w35MnBD2dHCNCt5OmJHZlKEGDiHuyDFauxoH0OSPFJw8wMV6U8xnlHJgfbBbl4j6fjI0B8U3PssXkRKfHtET009GneRJZKocnHJK3GMgO9OpJwCnSyTrRkyc1oyfTiamoWRl2bjO3Efd4QgkzE/IwLVEh1o3QBpHwJBYo2p/d+GzW4Alsb2/HzN0BPbkQNJ48+WysG1Np1ocbLxL3fMbtE5KQjV04g2bcSeMGnpCN8iY7KketOKob6/Ek6PbWWE8uBMQ0q8Hs2TTqxKoC7TTkLJ/tdqJ8dstF1ukJdHhrrCcyPGv2BBZ9a6wnMjzr9yQ4PDz8/NGjdBEz0RMZnqE8gTl/a6wnMjwDehKgQbqUU9ATGYz7/3wrEoN7ArN/a6wnMhg/Ot74zf1vkajBk+C0t8Z6IoNR1XqSmfrWWE9keKryBLa2tsZ8mPTkX//5LBLnFT2pjto8Cdq/NXY9keGp0xPIb431RIanWk8CJNETGZ7KPWmjJ2eJo/PF7u5uCsPquTh/XuLMe7K3t5cGTWRBmJJSGJU4854cHh6mLy2yOHP+m4LzcN917xzBHf8Zuu/aPMtw/fP/ET+f46uj/uf4CDLw+UQGo3JPjo6OfC8sw1OtJ/nP3OmJDE+dnnBV6fr0RGqgNk+2t7fHfNATGZ6qPNnb2/N39aAn1VGJJ5ubm/fu3UvX9GX0RIanBk9m/0+99ESGZ3BP0CBdyinoiQzPgJ7kN7+z0RMZnqE84bzpCkroiQzP+j3hkX2hX6DoiQzPmj3hkX3O/11qRk9keNbpyWlvfmejJzI86/Hk6tWri/45h4yeyPCswRMCPZ2sE3oiw9OrJ9vb29X+HdOa0ZPq6M8TWk7nWA49keHpw5Otra0V/ttDPZHhWbknU3/zuwx6IsOzQk9m/OZ3GfREhmdVnuzu7i7/yD4VPZHhWYknhHJqrgf0RIZnSU/m/M3vMuiJDM8ynnBsaqVP9ESGp5sni/7mdxn0RIangycrf/M7Gz2R4VnUkz7e/M6G5x/Oywq2TjmHRU+qY35PlvnNryyEnlTHnJ5w85MOkP7Rk+ooerK1tdX3m18ZQ0+qY7Yn7b9PLWtDT6rjNE/W+eZXxtCT6pjqyZrf/MoYelIdk56s/82vjKEn1dH25Pr16z6y14CeVAerR0jim9960JMa4XndZaQq9ESkjJ6IlNETkTJ6IlJGT0TK6IlIGT0RKaMnImX0RKSMnoiU0RORMnoiUkZPRMroiUgZPREpoyciZfREpIyeiJTRE5EyeiJSRk9EyuiJSBk9ESmjJyJl9KQ7f3rhhd/u7Hx8584fn3vu35988ueXXko7luDhe++989hjv9jYOL5xIxWV+PS1197a2OCQ0y7g4YcffvDMM9ThUkn86vHH//rqq2nfCRzLd/ndU09x3s8fPYpCWqaEA9n4jh/cuhUJGowKwBencP6rvX/3LvW5Wi4mFZ0F9KQjhEs7OIgz4i9lloMAWsgTIJpP84RYZ9evn3iiHf1vbGxwSGSBM1KCPJhPoq0B3kZYP3j9dbL/ffiQbFSOCpSTpRBhoqRIXK2enH9iEmUCTvkRC0X2DLp5wvVMejIW5RmUppC1JbLvP/00WWZ6vtdYzckW8oKQdfr7m29SLdLzEJ7QTsqfBfSkC8QTd0eEC0P+2bvvRiFxw3RLlBMBbDHjEkOUMIWzlwRbE1WjNHWY49lIkM2hRpqWiV1KSHNslAccPlYfTvOERY9yNi4sFY2IcoKVL0JrrDZkMZPGU40TJj3h4slSyG0Y2fgibPkUcYVsWaSAL0Jluiuulgppx2hRmvymVaEnHSEoI1z4bNvCkHMf0g4slp24J2H+phzBODbS7CJBxJBmi1AjYmiWral26xat5Ymf+yLKaY2N+mSjfKontBYCcMYxTzhjnIKLJKy5DNJjDx7BpCdAlkIaJx3fl2z6jqNnGNIcSDW+y+iIZrGlGpMC9anAlj1hRoiVmc9VrckrR0+6kwOajZjIYUpYUxJjT4DmWMnPwaQj/tjisSHSEYvRbEQMe+MeifoxkedIwg0iLyL7NE84lvL2w0nAzN0+Y77vir1tZngSz2NMEGRRETciHV8QuCqyUc6lRodA2Bun40rYFWtvejpa5BZubejJUhAEMcdHMEXURkBTwpATATHRAp5QHrcr2ZPYFensCdWyJ4QXWdpplwPRFuWkp3oSx0bLY+sJNaM8lsFunnBS0tkTTkFXkI4vCOFJ3G6RyJ5EeZwuzx18EeYXdtV596UnXcCECNAAE2LscyHRzPDzmRcTWMYTdhHcuRyKnkD2YcwTxIjyWGc",
+    "op": [
+        "anode",
+        "cathode"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68348,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "In the given two figures of simple diode circuit, which diode Fig. is forward bised? data:image/png;base64,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",
+    "op": [
+        "Fig. (a)",
+        "Fig. (a) &(b)",
+        "Not any one",
+        "Fig. (b)"
+    ],
+    "created_at": "2026-07-15T13:27:32.396907+00:00"
+},
+{
+    "id": 68395,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "When the turn ratio of a transformer is 5 and primary ac voltage is 10v, the secondary voltage is",
+    "op": [
+        "25v",
+        "2v",
+        "100v",
+        "50v"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68408,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "From the characteristic I-V curve of the Diode, which region is Reversed bised? data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWQAAAEFCAIAAABb0QqIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAE4JSURBVHhe7Z0HWBRXF4YXa4wl+U03pphorFGjsfcaBYMVRQ32KGpsWLArYm9YoqLYe4k1sYFYQFG6FKnSUZDeZIFd4P9mzjKuNBdYVnb3vswzz71n7s7OzN7zzTmXKaJcBoPBUAAmFgwGQyGYWDAYDIVgYsFgMBSCiQWDwVAIJhYMBkMhmFgwGAyFYGLBYDAUgokFg8FQCCYWDAZDIZhYMN4g5ZFVGIy3YWLB4MjJyRFkIjs7mwoMhjxMLBhcQEGF//77759//kGB6QWjIEwsGEwsGArBxEKrEbIPsVhsYmJSqVKlypUr37t3DxaJRIKlfCsGg4OJhfYihA+urq6tW7cWiUQ6OjqYQzIsLS1pESSDCgwGEwsthQIKzM3MzCigWLt2bZ06dZo3b96lSxdIxqRJk5KTk6kNNWZoOUwstAikFfKZhYeHR//+/aELv/76q6OjY2pqKiKLIUOGxMXFGRoawt6mTZv79+9TY3yQDWRoOUwsNJ98fo5yVlbW/v37a9SoAUWYNWtWWloa7OHh4aj269ePmm3fvh1VcJCHjPJaoy7k4I+hDJhYaDiCe2dmZoaEhDx//hyWjRs3QgV+/PHHGzdu0FIoyIsXL2D87bff0ICGKuzt7Vu0aMErhsjIyCg2NhbN1FEvGEqBiYUmQ47t7e29ePHiMWPGjOcZN27c559/rq+vHx8fj6XwfxqSEMQCZWGcIjExcRQPFiFbgeJgneqlF5k5kmwWXCgDJhYaC6UePj4+EydOvH79OvxcsD9+/HjevHn+/v5QBFSppbxYkIX0gti2bdv69etlFTVBmpuNaUzIyhtJDqhm449RBphYaCx0/k9ISEhNTUUBno/kIisri1QjPT0dUQPXLk8aCooFFQiqqgs0ThErScAkcmoyN2Inqiy+KCNMLDQWEguED0N5RowYMWzYMAMDg759+1pZWVEbgrSgULEQ4BVDbSSDxCI6KxaTjlML44gtqDKxKCNMLDQWEoukpKRnz555eHg4Ozu7uLi4ublhHhcXh0XyiQnmxYuFekFiESdJxFTJtcP4UHPByCg1TCw0FhKLgICA7du3QwjISISEhKxcudLV1RVlPmLQTLFIlKZiqvW0z7CgxYKRUWqYWGgy0AuxWHzq1Kk//vhj6tSppqam8+fPnzhx4ujRoy9cuJCenk6CoqlikZz9GtNnngMHPJ8nGBmlhomFtuDj43PlypWLFy8iK5GZ8tBUsXidLcb0nffQLv7GgpFRaphYaD7w/HzOn89CZc0TC3F2JqbGz0Z19JsiGBmlhomFFiHhodRDHk0VC0mOFFMHvynfeg8lO6MsMLHQIphYMMoCEwsNh6QhIiKCLs0C6enpoaGhVCbUSyywP++8FpPEAnNM3fyNv/EaQnZGWWBioeEglEhOTl6wYMHp06fDw8OhGlZWVrNmzcIi4WruEokF+WEFR34T+wfO+dxDdistoywwsdBkEFaAM2fOfP311127dp0yZcoff/wxePDgBw8eYKmgCOoVWSiCvFj8/nxBnae9ZRVGGWBioeGQ21tbW0dFRZGlIIqIRaZJw/j6b03JJrYlfH6WrVi3YbyJraxWQuQ3INkymIzFhDnCIoPgJXXcu1OZURaYWGg+5Pk2NjarV69etWqViYkJPcKbhjOAImKRmxucDlevv4i/RDyYXFdwWsUok1jgS7mP118kDpLVgSJiMSp4WW33rlRmlAUmFhoOuf3x48fbtWu3devW7du3r1279vbt2zCWUCxsU3BW17WiaEJqOaTkYlFGbFPlNoBQLLJYysRCKTCx0HBoFHPbtm22tkWe0hUSC5tFXArAxwVSG6tkLh0YIpzkYUnlTvtcA+77gvKqNOlaiSmJkHN1biXURpePVoL4dXINbLnPvi0KHHIbIKCIWIwOWVHLvWt2TkH5Y5QMJhYaDrn93bt39fT0LC0tz5w5c/DgwYcPH8JYosiCQglhSrZ8M2DBL1qUGcQPK5C3c204C+/hpCm8Mc/VaW2pNghMODsfoVADq0wbPscpIBaFxjKKiMUfIas/cOvyOlssb2SUAiYWGg65/a1bt8aOHTtnzhxjY+PRo0fTA3hLJBb8IIU+3D6/0/IRAdw+z/9hEvxfNsogBA780rwggoSDL3ONqcAFJm/JigC/AW9iGUIRsRgbsooXiwx5I6MUMLHQfEgUxGKxtbV1VlYWGeVRQCzI7Re+nS9wkEZw8oFsQshKLBcJKQa5N99M5ury5TcSwGcZnJoI8vEWcrojhyJi8UeI2QdundNlYsEoPUwsNBxSCi8vr+HDh3ft2vXs2bOIMnbt2gWjoAjvFosgK+5sr3uAFwjyW3lvF/5FYoUCpwW6XEEeuWZvylJeIEgXeAXhG7zJXOR4W6EEFBGLCaHmVV07xki4ZwiyyKIsMLHQcGiAc82aNdeuXXNzcztx4kRaWtrMmTNJRGhevFgIscPbjs1VhUCAqwqRBY1EcpYh/KgEoGGIRWJLq8wgLuOQDX/CkteAEyBeC3gFGZLKteSXvL0BpRjgNA7bXMWtY3QW9yhzJhZlgYmFhkNuf+XKldmzZ+/evXvv3r0WFhZLliwRFgmF4scsBDJzsnzEIeLsfKFDHkG2qYgvgoIz8zIR2TiFyhFUYVyIWVXXDtESJhZlhYmF5kPhw7Fjx3799ddmzZr9+eefsbGxMJIdlEgsCkV4Fq4sB6GggEteCiQUqkLYpL/Ct1dx7Rgl4R47ysSiLDCx0HDI7W1sbB4+fIhySkoK2eUpqVgU6nIwwj9zcu+IdYWsQUhD3ieGIcuru3VKlnKvaGRiURaYWGg45PZnz54dP358WlqaRCJJT08XnutNlFQs1AJBF8aHmvP/DeF2mYlFWWBioeEwsWBioSyYWGg45PYODg7NmjVr1aqVvr5+586dV69eDaMSxywqIIIqjA5eCbFIY1dwlhkmFhoOKYKHh8f169ddXFweP34M4QgICKClhGaLhWEwd2+IlN0bUmaYWGg45PanTp0yMzMjS0E0VCxkcsHuOlUWTCw0HHJ7RBNNmzYdO3YsEpA5c+YcOXKElhLlKhbksunZmYfjrgZmRPAWVeQCwreMCl7OxEIpMLHQcCgN8fHx2bp165YtWzBHiHHx4kX5pRUzsiijpggfHx60pI5bNyozygITC60gIyMjNjY2Li4O89evX6elcRcdCFRMsSgLpBOYY+od8NcXnrq8gVEmmFhoOOT2NjY2HTt27N69e+/evT/66KPp06fDiLCiIkcWmTncDbKy8KCEUFghvDfka6/BZGeUBSYWWoFUKk1PT0d8IZFIHB0dd+zYATkgpQAVUyzWRR3FXLhqu0SQWGTkZGFq4TOmje8EwcgoNUwstI6nT58aGBhAOFCuyJFFWSBdSMl+jQk5yIDnJoKRUWqYWGg4cHuANGTAgAF6enqDBg3q1KnT+fPnsaiCRxZlgXQhQZqC6UP3HiODlwtGRqlhYqEVpKam+vj4BAQEBAcHi8XctYzyaKpYRGfFYhI5NZ0XyT/sh4lF2WBioeFIJJKNGzcGBgbK6rm59+/fp2dwCoqg6WLRZMkLS1SZWJQRJhYaC2UZISEhBgYGycnJqEqlUswRXxgaGtK9ZJo6ZkG64J0ehAmRxcqXvDgysSgbTCw0FhICSMC4ceMgDagiysA8JiYG8vH69WuhjaaKhW2yEyaRU/NjCbd4o3rv1HuHiYUmQz4/Z84cCwsLsoA1a9bAgkLp3qIOKv5IIenChugTmETOPz9K80SV3UtWRphYaDIUOERHR48YMWLYsGFz58",
+    "op": [
+        "Region II",
+        "Region I"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68412,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "For the given silicon diode resistance network, the current flowing through diode is  data:image/png;base64,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",
+    "op": [
+        "0.5mA",
+        "0",
+        "1mA",
+        "10mA"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68421,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "The P-side of a diode symbol is identified as  data:image/png;base64,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",
+    "op": [
+        "Anode",
+        "Cathode"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68425,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "From the characteristic I-V curve of Diode, which diode region is Forward bised? data:image/png;base64,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",
+    "op": [
+        "Region II",
+        "Region I"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68428,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "True or false, hole current is opposit of electron current",
+    "op": [
+        "false",
+        "true"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68429,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "An ideal diode can be used as",
+    "op": [
+        "two way conductor",
+        "amplifier",
+        "rectifier",
+        "transistor"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+},
+{
+    "id": 68432,
+    "cc": "PHY301",
+    "qn": "2",
+    "dt": "04 January 2026",
+    "qt": "Secondary voltage is greater in magnitude as compared to primary voltage in a",
+    "op": [
+        "simple transformer",
+        "isolated transformer",
+        "step up transformer",
+        "step down transformer"
+    ],
+    "created_at": "2026-07-15T13:27:35.594877+00:00"
+}
+]

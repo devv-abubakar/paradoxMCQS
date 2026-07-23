@@ -1,0 +1,1220 @@
+[
+    {
+        "id": 10572,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In ANOVA, which of the following tests is preferably used when the assumption of the homogeneity of variance is violated?",
+        "op": [
+            "Kolmogorov-Smirnov tests",
+            "Shapiro-Wilk",
+            "Welch and Brown-Forsythe",
+            "Levene’s test"
+        ],
+        "created_at": "2026-06-21T20:31:44.022562+00:00"
+    },
+    {
+        "id": 10573,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "A t-test is a significance test that assesses:",
+        "op": [
+            "The medians of two dependent groups",
+            "The means of two independent groups",
+            "The standard deviation of three independent variables",
+            "The modes of two independent variables"
+        ],
+        "created_at": "2026-06-21T20:31:56.123358+00:00"
+    },
+    {
+        "id": 10574,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "How many levels must there be in one independent variable for an ANOVA to be used?",
+        "op": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "created_at": "2026-06-21T20:32:03.130488+00:00"
+    },
+    {
+        "id": 10576,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "How should a paired-samples t-test be reported in APA format?",
+        "op": [
+            "t(37) = +.3.67, p < 0.05",
+            "r (18) = +8.97, p > 0.005",
+            "Z = 4.87, t (29) = 5.93, p = 0.000",
+            "F (12, 29) = 9.67, p < 0.001"
+        ],
+        "created_at": "2026-06-21T20:32:09.543435+00:00"
+    },
+    {
+        "id": 10577,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In SPSS the dependent variable is also called as:",
+        "op": [
+            "Grouping variable",
+            "Interdependent variable",
+            "Categorical variable",
+            "Test variable"
+        ],
+        "created_at": "2026-06-21T20:32:18.764519+00:00"
+    },
+    {
+        "id": 10578,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In which of the following tests, when the variability for the population is not known, we use the sample variability in its place?",
+        "op": [
+            "t-test",
+            "F-test",
+            "Post hoc test",
+            "z- test"
+        ],
+        "created_at": "2026-06-21T20:32:25.009471+00:00"
+    },
+    {
+        "id": 10580,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "A repeated measures t-test can be used to assess:",
+        "op": [
+            "How many factors there are in questionnaire data",
+            "Relationships between two interval data sets",
+            "Dfferences between scores obtained on two separate occasions from the same participants",
+            "Differences between two groups of participants"
+        ],
+        "created_at": "2026-06-21T20:32:34.539532+00:00"
+    },
+    {
+        "id": 10581,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In ANOVA, the homogeneity of variance assumption will be tested by:",
+        "op": [
+            "Shapiro-Wilk",
+            "Levene’s test",
+            "Welch and Brown-Forsythe",
+            "Kolmogorov-Smirnov tests"
+        ],
+        "created_at": "2026-06-21T20:32:41.101842+00:00"
+    },
+    {
+        "id": 10582,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "An independent t-test can be used to asses:",
+        "op": [
+            "Differences between two groups of participants",
+            "Relationships between two ratio data sets",
+            "Differences between scores obtained on two separate occasions from the same participants",
+            "How many factors there are in questionnaire data"
+        ],
+        "created_at": "2026-06-21T20:32:48.817119+00:00"
+    },
+    {
+        "id": 12036,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Differences between two groups of participants is assessed through:",
+        "op": [
+            "Pearson Product Moment Correlation",
+            "Independent sample t-test",
+            "Two way ANOVA",
+            "Simple Linear Regression"
+        ],
+        "created_at": "2026-06-22T03:27:31.639055+00:00"
+    },
+    {
+        "id": 12058,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following statistics is used to test hypotheses about an unknown population mean?",
+        "op": [
+            "z-statistics",
+            "f-statistics",
+            "R statistics",
+            "file:///C:\\Users\\IQRA~1.SAH\\AppData\\Local\\Temp\\ksohtml13480\\wps6.jpgt- statistics"
+        ],
+        "created_at": "2026-06-22T03:29:23.732078+00:00"
+    },
+    {
+        "id": 12065,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Alternative name of between-subject design is:",
+        "op": [
+            "Two way ANOVA",
+            "Independent sample t-test",
+            "Repeated measure sample t-test",
+            "One way ANOVA"
+        ],
+        "created_at": "2026-06-22T03:29:57.58925+00:00"
+    },
+    {
+        "id": 12067,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following statistics is important when interpreting an independent samples t-test?",
+        "op": [
+            "Descriptive statistics",
+            "T scores",
+            "All of the following",
+            "Significance level"
+        ],
+        "created_at": "2026-06-22T03:30:08.380668+00:00"
+    },
+    {
+        "id": 12072,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following scores formula for hypothesis testing requires more information than is usually available?",
+        "op": [
+            "z- scores",
+            "t-scores",
+            "X-scores",
+            "F-scores"
+        ],
+        "created_at": "2026-06-22T03:30:23.79129+00:00"
+    },
+    {
+        "id": 12075,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "The independent-samples t-test compares the means between two unrelated groups on _______________dependent variable.",
+        "op": [
+            "Absolute",
+            "Categorical",
+            "Continuous",
+            "Unambiguous"
+        ],
+        "created_at": "2026-06-22T03:30:40.560566+00:00"
+    },
+    {
+        "id": 12078,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In which of the following designs research question is concerned with a mean difference between two sets of data?",
+        "op": [
+            "Between-subject design",
+            "Paired sample -subject design",
+            "Within-subject design",
+            "Repeated measure-subject design"
+        ],
+        "created_at": "2026-06-22T03:30:59.080065+00:00"
+    },
+    {
+        "id": 12184,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "What are the two types of variance which can occur in your data?",
+        "op": [
+            "Between or within groups",
+            "Independent and confounding groups",
+            "Experimenter and participant groups",
+            "Repeated and extraneous groups"
+        ],
+        "created_at": "2026-06-22T03:43:16.491095+00:00"
+    },
+    {
+        "id": 12192,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following tests requires assumptions about parameters?",
+        "op": [
+            "Kruskal Willis test",
+            "Parametric test",
+            "Mann-Whitney-Wilcoxon",
+            "Non parametric test"
+        ],
+        "created_at": "2026-06-22T03:44:19.665228+00:00"
+    },
+    {
+        "id": 12193,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "How many dependent variables you must have for an ANOVA to be conducted?",
+        "op": [
+            "1 continuous variable",
+            "3 interval variables",
+            "3 ratio variables",
+            "2 nominal variables"
+        ],
+        "created_at": "2026-06-22T03:44:39.329161+00:00"
+    },
+    {
+        "id": 12196,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In one-way ANOVA, _____________ is used to determine which of given groups differ from each other.",
+        "op": [
+            "F test",
+            "Post hoc test",
+            "T test",
+            "Levene’s test"
+        ],
+        "created_at": "2026-06-22T03:45:01.684781+00:00"
+    },
+    {
+        "id": 12214,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In which of the following cases an independent-samples t-test would not be appropriate?",
+        "op": [
+            "Comparing younger and older adults level of teamwork",
+            "Comparing men and women's IQ on one occasion",
+            "Comparing the attitudes of Eastern and Western individuals",
+            "Comparing students attitude change between the start and end of their degree"
+        ],
+        "created_at": "2026-06-22T03:46:59.339524+00:00"
+    },
+    {
+        "id": 12321,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "What does ANOVA calculate?",
+        "op": [
+            "F ratios",
+            "T-scores",
+            "R ratios",
+            "Z-scores"
+        ],
+        "created_at": "2026-06-22T04:01:44.517253+00:00"
+    },
+    {
+        "id": 12325,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following errors determine how much difference is reasonable to expect between a sample mean (M) and the population mean (μ)?",
+        "op": [
+            "Standard error of estimate",
+            "Standard error",
+            "Type I error",
+            "Type II error"
+        ],
+        "created_at": "2026-06-22T04:02:04.366183+00:00"
+    },
+    {
+        "id": 12327,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In ANOVA, difference exists between the treatment conditions is termed as:",
+        "op": [
+            "Treatment variance",
+            "No treatment variance",
+            "Within treatments variance",
+            "Between-treatments variance"
+        ],
+        "created_at": "2026-06-22T04:02:10.650303+00:00"
+    },
+    {
+        "id": 12328,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In independent measures research design how many sets of data could come from completely separate groups of participants?",
+        "op": [
+            "2",
+            "4",
+            "5",
+            "3"
+        ],
+        "created_at": "2026-06-22T04:02:16.642478+00:00"
+    },
+    {
+        "id": 12330,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "A z-score requires which of the following values to compute the standard error?",
+        "op": [
+            "Population standard error of estimate",
+            "Population standard deviation",
+            "Sample standard error of estimate",
+            "Sample standard deviation"
+        ],
+        "created_at": "2026-06-22T04:02:24.754412+00:00"
+    },
+    {
+        "id": 12331,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following statistical tests will be considered, If a researcher wants to know whether exam performance differs based on test anxiety levels among students, dividing students into three independent groups (e.g., low, medium and high-stressed students)?",
+        "op": [
+            "T test",
+            "Anova",
+            "Z test",
+            "F test"
+        ],
+        "created_at": "2026-06-22T04:02:31.237835+00:00"
+    },
+    {
+        "id": 12683,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In which of the following cases could you use a paired-samples t-test?",
+        "op": [
+            "When comparing men and women's scores",
+            "When comparing the same participants performance before and after training",
+            "When comparing two separate groups",
+            "When assessing three groups or more"
+        ],
+        "created_at": "2026-06-22T04:37:19.939911+00:00"
+    },
+    {
+        "id": 13089,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "What is the alternative name for a repeated-measures t-test?",
+        "op": [
+            "Pearson's Product-Moment",
+            "A paired-samples t-test",
+            "A Wilcoxon test",
+            "Spearman's Rho"
+        ],
+        "created_at": "2026-06-22T05:20:11.935874+00:00"
+    },
+    {
+        "id": 13205,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In within-subject design, dependent variable is measured ___________ times for each individual in a single sample.",
+        "op": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "created_at": "2026-06-22T05:33:22.771751+00:00"
+    },
+    {
+        "id": 13211,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "The one-way analysis of variance (ANOVA) is used to determine whether there are any statistically significant differences between the means of __________independent (unrelated) groups.",
+        "op": [
+            "One",
+            "Two or more",
+            "Less than two",
+            "Two"
+        ],
+        "created_at": "2026-06-22T05:33:51.891115+00:00"
+    },
+    {
+        "id": 13212,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "A group of 10 students was randomly drawn from class 12 and was given yoga training for three weeks. Their wellness life style was compared with another similarly selected group which did not undergo such training. Which type of statistical test will be appropriate for testing the tenability of null hypothesis?",
+        "op": [
+            "Independent t-test",
+            "Sign test",
+            "Post hoc test",
+            "Wilcoxon T-test"
+        ],
+        "created_at": "2026-06-22T05:34:00.61358+00:00"
+    },
+    {
+        "id": 13336,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Alternative name of independent measures research design is:",
+        "op": [
+            "Between-subject design",
+            "Repeated measure-subject design",
+            "Within-subject design",
+            "Paired sample -subject design"
+        ],
+        "created_at": "2026-06-22T05:55:29.126062+00:00"
+    },
+    {
+        "id": 13799,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In research if two sets of data could come from two completely separate groups of participants. Which type of statistical tests will be appropriate for testing the tenability of null hypothesis?",
+        "op": [
+            "Post hoc test",
+            "Repeated measure",
+            "Independent t-test",
+            "Wilcoxon T-test"
+        ],
+        "created_at": "2026-06-22T06:38:38.334292+00:00"
+    },
+    {
+        "id": 32714,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "ANOVA or F-test is also robust to moderate departures from normality when sample sizes are reasonably _______________ and are equal.",
+        "op": [
+            "Small",
+            "Skewed",
+            "Moderate",
+            "Large"
+        ],
+        "created_at": "2026-06-30T22:23:16.830885+00:00"
+    },
+    {
+        "id": 32715,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "For two-way ANOVA, we calculate ___________ kinds of degrees of freedom.",
+        "op": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "created_at": "2026-06-30T22:23:23.782248+00:00"
+    },
+    {
+        "id": 32716,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is an advantage of ANOVA?",
+        "op": [
+            "All of the above",
+            "It decides if the population mean is equal to a specific value or not",
+            "It cannot tolerate data that is non-normal",
+            "It performs all three comparisons simultaneously in one hypothesis test"
+        ],
+        "created_at": "2026-06-30T22:23:40.028522+00:00"
+    },
+    {
+        "id": 32717,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "The process of constructing a mathematical model or function that can be used to predict or determine one variable by another variable is called:",
+        "op": [
+            "Regression",
+            "Correlation",
+            "Residual",
+            "Outlier plot"
+        ],
+        "created_at": "2026-06-30T22:23:51.20337+00:00"
+    },
+    {
+        "id": 32718,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is NOT an application of correlation coefficient?",
+        "op": [
+            "Prediction",
+            "Variation",
+            "Validity",
+            "Reliability"
+        ],
+        "created_at": "2026-06-30T22:23:58.536153+00:00"
+    },
+    {
+        "id": 32719,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "What would be the best interpretation of Ho: ρ = 0?",
+        "op": [
+            "There is negative correlation",
+            "There is no population correlation",
+            "There is covariance",
+            "There is real correlation"
+        ],
+        "created_at": "2026-06-30T22:24:05.854521+00:00"
+    },
+    {
+        "id": 32720,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "When there is a __________ linear relationship in Pearson correlation, every change in the X variable is accompanied by a corresponding change in the Y variable.",
+        "op": [
+            "Zero",
+            "Positive",
+            "Negative",
+            "Perfect"
+        ],
+        "created_at": "2026-06-30T22:24:12.872456+00:00"
+    },
+    {
+        "id": 32721,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following line has the smallest total squared error?",
+        "op": [
+            "Variable line",
+            "Correlation line",
+            "Best-fitting line",
+            "Regression line"
+        ],
+        "created_at": "2026-06-30T22:24:23.54778+00:00"
+    },
+    {
+        "id": 32723,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "If two variables are moving in the same direction, it is called as____________ correlation.",
+        "op": [
+            "Linear",
+            "Negative",
+            "Positive",
+            "Non-linear"
+        ],
+        "created_at": "2026-06-30T22:24:43.353017+00:00"
+    },
+    {
+        "id": 32922,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is a linear equation of a regression line?",
+        "op": [
+            "Y = b2 + aX",
+            "Y = aX + b",
+            "Y = x2 + ab",
+            "Y = bX + a"
+        ],
+        "created_at": "2026-07-01T00:16:55.76686+00:00"
+    },
+    {
+        "id": 32923,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Regression is a statistical technique for finding the best-fitting straight line for a set of data. This resulting straight line is called the ____________ line.",
+        "op": [
+            "Linear",
+            "Residual",
+            "Regression",
+            "Correlation"
+        ],
+        "created_at": "2026-07-01T00:17:36.334934+00:00"
+    },
+    {
+        "id": 32924,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Pearson's Correlation Analysis is also known as:",
+        "op": [
+            "Kruskal-Wallis Correlational Analysis",
+            "Pearson's Product-Moment",
+            "Chi-Squared Product-Moment",
+            "Spearman's Correlation Analysis"
+        ],
+        "created_at": "2026-07-01T00:17:53.238171+00:00"
+    },
+    {
+        "id": 32925,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following type of correlation measures the degree of monotonic relationship between two variables?",
+        "op": [
+            "Point-Biserial Correlation",
+            "Phi-Coefficient",
+            "Partial correlation",
+            "Spearman Correlation"
+        ],
+        "created_at": "2026-07-01T00:18:09.0662+00:00"
+    },
+    {
+        "id": 32926,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "When the Pearson correlation formula is used with data from an ordinal scale (ranks), the result is called the _____________correlation.",
+        "op": [
+            "Point-Biserial Correlation",
+            "Partial correlation",
+            "Phi-Coefficient",
+            "Spearman Correlation"
+        ],
+        "created_at": "2026-07-01T00:18:38.758908+00:00"
+    },
+    {
+        "id": 32928,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is a statistical technique that is used to measure and describe the relationship between two variables?",
+        "op": [
+            "T-test",
+            "Standard deviation",
+            "Mean",
+            "Correlation"
+        ],
+        "created_at": "2026-07-01T00:19:07.838214+00:00"
+    },
+    {
+        "id": 32929,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "The population correlation is positive in a directional hypothesis. This type of hypothesis can be written statistically as:.",
+        "op": [
+            "H₁: ρ < 0",
+            "H₁: ρ ≠ 0",
+            "Hₒ: ρ ≤ 0",
+            "Hₒ: ρ = 0"
+        ],
+        "created_at": "2026-07-01T00:19:55.541332+00:00"
+    },
+    {
+        "id": 33467,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following refers to a hypothesis-testing procedure that is used to evaluate mean differences between two or more treatments (or populations)?",
+        "op": [
+            "Correlation",
+            "Analysis of variance (ANOVA)",
+            "Analysis of Regression",
+            "Chi-square"
+        ],
+        "created_at": "2026-07-01T02:11:50.32305+00:00"
+    },
+    {
+        "id": 33591,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following statistical technique allows a researcher to measure the relationship between two variables while eliminating the influence of a third variable?",
+        "op": [
+            "Phi-Coefficient",
+            "Partial correlation",
+            "Spearman Correlation",
+            "Point-Biserial Correlation"
+        ],
+        "created_at": "2026-07-01T02:41:18.858379+00:00"
+    },
+    {
+        "id": 33592,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following statement is true for the Pearson correlation?",
+        "op": [
+            "It measures the degree and the direction of the non-linear relationship between two or more variables.",
+            "It measures the degree and the direction of the linear relationship between two variables.",
+            "All of the above",
+            "The relationship between two variables while controlling the influence of a third variable by holding it constant."
+        ],
+        "created_at": "2026-07-01T02:41:50.684439+00:00"
+    },
+    {
+        "id": 33596,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "For ANOVA, independent variable is always______________ in nature.",
+        "op": [
+            "Continuous",
+            "Categorical",
+            "Interval",
+            "Ratio"
+        ],
+        "created_at": "2026-07-01T02:42:26.971087+00:00"
+    },
+    {
+        "id": 33777,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "What would be accurate interpretation of the following hypothesis H₁: ρ ≠ 0?",
+        "op": [
+            "There is covariance",
+            "There is real correlation",
+            "There is no population correlation",
+            "There is negative correlation"
+        ],
+        "created_at": "2026-07-01T03:21:55.614174+00:00"
+    },
+    {
+        "id": 33788,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Two-way ANOVA means groups are defined by two ______________ variables.",
+        "op": [
+            "Dependent",
+            "Independent",
+            "Partial",
+            "Extraneous"
+        ],
+        "created_at": "2026-07-01T03:23:47.965015+00:00"
+    },
+    {
+        "id": 33789,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following symbol can be used for the Spearman correlation to differentiate it from the Pearson correlation?",
+        "op": [
+            "t",
+            "rs",
+            "r²",
+            "H"
+        ],
+        "created_at": "2026-07-01T03:23:57.011347+00:00"
+    },
+    {
+        "id": 34119,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "The population correlation is traditionally represented by the Greek letter ___________.",
+        "op": [
+            "t",
+            "Hₒ",
+            "ρ",
+            "r²"
+        ],
+        "created_at": "2026-07-01T04:15:18.225965+00:00"
+    },
+    {
+        "id": 34125,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following refers to the proportion of variability in the data that is explained by the relationship between X and Y?",
+        "op": [
+            "Regression analysis",
+            "Coefficient of correlation",
+            "Coefficient of determination",
+            "Coefficient of variance"
+        ],
+        "created_at": "2026-07-01T04:15:51.796354+00:00"
+    },
+    {
+        "id": 34563,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "For ANOVA, dependent variable is always______________ in nature.",
+        "op": [
+            "Ratio",
+            "Interval",
+            "Categorical",
+            "Continuous"
+        ],
+        "created_at": "2026-07-01T05:06:57.869929+00:00"
+    },
+    {
+        "id": 34582,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following type of data is used for the Spearman correlation?",
+        "op": [
+            "Ratio",
+            "Ordinal",
+            "Interval",
+            "Nominal"
+        ],
+        "created_at": "2026-07-01T05:11:06.866779+00:00"
+    },
+    {
+        "id": 34586,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Which of the following is the total probability of a Type I error accumulated from all of the separate tests in the experiment?",
+        "op": [
+            "Individual alpha level",
+            "Experiment wise alpha level",
+            "Group wise alpha level",
+            "Test wise alpha level"
+        ],
+        "created_at": "2026-07-01T05:12:45.837415+00:00"
+    },
+    {
+        "id": 34918,
+        "cc": "PSY516",
+        "qn": "03",
+        "dt": "01 July 2026",
+        "qt": "Coefficient of determination is denoted by:",
+        "op": [
+            "T",
+            "r",
+            "F",
+            "r²"
+        ],
+        "created_at": "2026-07-01T06:14:47.846442+00:00"
+    },
+    {
+        "id": 46272,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Which of the following statistics is used to test hypotheses about an unknown population mean?",
+        "op": [
+            "file:///C:\\Users\\IQRA~1.SAH\\AppData\\Local\\Temp\\ksohtml13480\\wps6.jpgt- statistics",
+            "z-statistics",
+            "R statistics",
+            "f-statistics"
+        ],
+        "created_at": "2026-06-22T04:02:33.800162+00:00"
+    },
+    {
+        "id": 46273,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In which of the following cases an independent-samples t-test would not be appropriate?",
+        "op": [
+            "Comparing students attitude change between the start and end of their degree",
+            "Comparing the attitudes of Eastern and Western individuals",
+            "Comparing younger and older adults level of teamwork",
+            "Comparing men and women's IQ on one occasion"
+        ],
+        "created_at": "2026-06-22T04:02:42.517873+00:00"
+    },
+    {
+        "id": 46274,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "The independent-samples t-test compares the means between two unrelated groups on _______________dependent variable.",
+        "op": [
+            "Continuous",
+            "Absolute",
+            "Unambiguous",
+            "Categorical"
+        ],
+        "created_at": "2026-06-22T04:02:49.891821+00:00"
+    },
+    {
+        "id": 46275,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "How many levels must there be in one independent variable for an ANOVA to be used?",
+        "op": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "created_at": "2026-06-22T04:02:56.364954+00:00"
+    },
+    {
+        "id": 46276,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "An independent t-test can be used to asses:",
+        "op": [
+            "Differences between scores obtained on two separate occasions from the same participants",
+            "How many factors there are in questionnaire data",
+            "Differences between two groups of participants",
+            "Relationships between two ratio data sets"
+        ],
+        "created_at": "2026-06-22T04:03:03.463481+00:00"
+    },
+    {
+        "id": 46277,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "In independent measures research design how many sets of data could come from completely separate groups of participants?",
+        "op": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "created_at": "2026-06-22T04:03:12.33968+00:00"
+    },
+    {
+        "id": 46278,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "Alternative name of between-subject design is:",
+        "op": [
+            "Repeated measure sample t-test",
+            "Independent sample t-test",
+            "One way ANOVA",
+            "Two way ANOVA"
+        ],
+        "created_at": "2026-06-22T04:03:18.363931+00:00"
+    },
+    {
+        "id": 46279,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "A group of 10 students was randomly drawn from class 12 and was given yoga training for three weeks. Their wellness life style was compared with another similarly selected group which did not undergo such training. Which type of statistical test will be appropriate for testing the tenability of null hypothesis?",
+        "op": [
+            "Wilcoxon T-test",
+            "Independent t-test",
+            "Post hoc test",
+            "Sign test"
+        ],
+        "created_at": "2026-06-22T04:03:26.241756+00:00"
+    },
+    {
+        "id": 46280,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "What does ANOVA calculate?",
+        "op": [
+            "Z-scores",
+            "F ratios",
+            "R ratios",
+            "T-scores"
+        ],
+        "created_at": "2026-06-22T04:03:33.723983+00:00"
+    },
+    {
+        "id": 46281,
+        "cc": "PSY516",
+        "qn": "02",
+        "dt": "22 June 2026",
+        "qt": "What is the alternative name for a repeated-measures t-test?",
+        "op": [
+            "A paired-samples t-test",
+            "Pearson's Product-Moment",
+            "A Wilcoxon test",
+            "Spearman's Rho"
+        ],
+        "created_at": "2026-06-22T04:04:21.66927+00:00"
+    },
+    {
+        "id": 70804,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "The Durbin-Watson statistic is used to test for: ",
+        "op": [
+            "Homoscedasticity",
+            "Autocorrelation",
+            "Multicollinearity",
+            "Linear relationship"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70805,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is not an assumption for multiple linear regression? ",
+        "op": [
+            "Homoscedasticity",
+            "Multicollinearity",
+            "Constant variance",
+            "Linear relationship"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70806,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "A regression model in which more than one independent variable is used to predict the dependent variable is called: ",
+        "op": [
+            "None of the above",
+            "Simple linear regression",
+            "Multiple regression model",
+            "Independent model"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70807,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Which of the following is a version of stepwise multiple regression? ",
+        "op": [
+            "Forward selection",
+            "All of above",
+            "Stepwise regression",
+            "Backward deletion"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70808,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "In which of the following model all the independent (or predictor) variables are entered into the model simultaneously? ",
+        "op": [
+            "Independent model",
+            "Hierarchical multiple regression",
+            "Simple linear regression",
+            "Multiple linear regression"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70908,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Parametric test, unlike the non-parametric tests, make certain assumptions about: ",
+        "op": [
+            "The underlying distribution",
+            "The sample size",
+            "Heterogeneous variance",
+            "The population size"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 70909,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "To run, multiple linear regression analysis, we need two or more continuous _________ variable. ",
+        "op": [
+            "Nominal",
+            "Independent",
+            "Extraneous",
+            "Dependent"
+        ],
+        "created_at": "2026-07-15T13:27:52.043639+00:00"
+    },
+    {
+        "id": 71041,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "A collection of statistical methods that generally requires very few assumptions about the population distribution is known as: ",
+        "op": [
+            "None of the above",
+            "Semiparametric",
+            "Parametric methods",
+            "Nonparametric methods"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71051,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "To run, multiple linear regression analysis, we need one continuous _________ variable. ",
+        "op": [
+            "Independent",
+            "Dependent",
+            "Nominal",
+            "Extraneous"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71055,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Which of the following refers to a statistical concept where several independent variables in a model are highly correlated? ",
+        "op": [
+            "Multicollinearity",
+            "Homoscedasticity",
+            "Linear relationship",
+            "Constant variance"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71058,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Which of the following model can also be used to statistically control for an additional variable (or variables) when exploring the predictive ability of the model? ",
+        "op": [
+            "None of the above",
+            "Simple linear regression",
+            "Independent model",
+            "Multiple regression model"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71068,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "The level of measurement for nonparametric test should be: ",
+        "op": [
+            "Ratio",
+            "Interval",
+            "Ordinal",
+            "None of above"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71069,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "07 January 2026",
+        "qt": "Nonparametric statistics do not assume that data is drawn from a normal distribution, therefore, it is also called ­­­­­­­­­­­­­­­­­­­______________ tests.  ",
+        "op": [
+            "Distribution free",
+            "Semiparametric",
+            "Normality",
+            "Parametric"
+        ],
+        "created_at": "2026-07-15T13:27:57.033399+00:00"
+    },
+    {
+        "id": 71295,
+        "cc": "PSY516",
+        "qn": "04",
+        "dt": "08 January 2026",
+        "qt": "In which of the following model variables are entered in steps with each independent variable being assessed in terms of what it adds to the prediction of the dependent variable after the previous variables have been controlled for? ",
+        "op": [
+            "Independent model",
+            "Multiple regression model",
+            "Simple linear regression",
+            "Hierarchical multiple regression"
+        ],
+        "created_at": "2026-07-15T13:27:57.962061+00:00"
+    }
+]

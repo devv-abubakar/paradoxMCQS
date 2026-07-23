@@ -1,0 +1,128 @@
+[
+{
+    "id": 38493,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "The coefficient of correlation for a problem was calculated to be 0.36.  The coefficient of determination for this would be",
+    "op": [
+        "either -.6 or +.6",
+        "0.6",
+        "0.36",
+        "0.13"
+    ],
+    "created_at": "2026-07-02T16:49:21.890051+00:00"
+},
+{
+    "id": 38494,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "On the graph, the shape of the linear correlation looks like a",
+    "op": [
+        "line",
+        "U shape",
+        "V shape",
+        "curve"
+    ],
+    "created_at": "2026-07-02T16:49:37.128148+00:00"
+},
+{
+    "id": 38495,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "If the Pearson correlation co-efficient r is equal to 1 then:",
+    "op": [
+        "There is a weak positive relationship between the two variables.",
+        "There is no relationship between the two variables.",
+        "There is a negative relationship between the two variables.",
+        "There is a perfect positive relationship between the two variables."
+    ],
+    "created_at": "2026-07-02T16:49:48.739522+00:00"
+},
+{
+    "id": 38496,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "Which of the following would not allow you to calculate a correlation?",
+    "op": [
+        "a negative relationship between X and Y",
+        "a curvilinear relationship between X and Y",
+        "a positive relationship between X and Y",
+        "a linear relationship between X and Y"
+    ],
+    "created_at": "2026-07-02T16:50:00.693761+00:00"
+},
+{
+    "id": 38498,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "Which of the following values could not represent a correlation coefficient?",
+    "op": [
+        "r = -1.0",
+        "r = 0.99",
+        "r = 1.09",
+        "r = -0.73"
+    ],
+    "created_at": "2026-07-02T16:50:57.22689+00:00"
+},
+{
+    "id": 38500,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "If Pearson’s correlation coefficient between stress level and workload is .8, how much variance in stress level is not accounted for by workload?",
+    "op": [
+        "8%",
+        "20%",
+        "36%",
+        "2%"
+    ],
+    "created_at": "2026-07-02T16:51:10.205618+00:00"
+},
+{
+    "id": 38502,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "How much variance has been explained by a correlation of .9?",
+    "op": [
+        "9%",
+        "2%",
+        "81%",
+        "18%"
+    ],
+    "created_at": "2026-07-02T16:51:25.166224+00:00"
+},
+{
+    "id": 38503,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "The coefficient of correlation",
+    "op": [
+        "Is the square root of the coefficient of determination",
+        "Is the same as r-square",
+        "Is the square of the coefficient of determination",
+        "Can never be negative"
+    ],
+    "created_at": "2026-07-02T16:52:02.103299+00:00"
+},
+{
+    "id": 38505,
+    "cc": "STA404",
+    "qn": "03",
+    "dt": "02 July 2026",
+    "qt": "If the points on the scatter diagram indicate that as one variable increases the other variable tends to decrease the value of r will be:",
+    "op": [
+        "Perfect negative",
+        "Zero",
+        "Negative",
+        "Perfect positive"
+    ],
+    "created_at": "2026-07-02T16:52:36.123882+00:00"
+}
+]
