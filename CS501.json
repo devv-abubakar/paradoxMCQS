@@ -1574,34 +1574,19 @@
         "ca": "ALU operation",
         "created_at": "2026-06-22T08:23:02.385442+00:00"
     },
-    {
-        "id": 69247,
-        "cc": "CS501",
-        "qn": "4",
-        "dt": "05 January 2026",
-        "qt": "Given an m-digit base b number x, the ________ of x is {{\\rm{x}}^c}{\\rm{ = (}}{{\\rm{b}}^m}{\\rm{ - x) mod }}\\,{{\\rm{b}}^m}",
-        "op": [
-            "Signed Magnitude Form",
-            "Radix Compliment",
-            "Biased Representation",
-            "Diminished Radix Compliment"
-        ],
-        "ca": "Radix Compliment",
-        "created_at": "2026-07-15T13:27:38.736223+00:00"
-    },
-    {
-        "id": 69644,
-        "cc": "CS501",
-        "qn": "4",
-        "dt": "05 January 2026",
-        "qt": "Given an m-digit base b number x, the ________ of x is \\[{{\\rm{x}}^c}{\\rm{ = (}}{{\\rm{b}}^m}{\\rm{ - x) mod }}\\,{{\\rm{b}}^m}\\]",
-        "op": [
-            "Radix Compliment",
-            "Diminished Radix Compliment",
-            "Biased Representation",
-            "Signed Magnitude Form"
-        ],
-        "ca": "Radix Compliment",
-        "created_at": "2026-07-15T13:27:40.243646+00:00"
-    }
+     {
+    "id": 69247,
+    "cc": "CS501",
+    "qn": "4",
+    "dt": "05 January 2026",
+    "qt": "Given an m-digit base b number x, the ________ of x is xᶜ = (bᵐ - x) mod bᵐ",
+    "op": [
+      "Signed Magnitude Form",
+      "Radix Compliment",
+      "Biased Representation",
+      "Diminished Radix Compliment"
+    ],
+    "ca": "Radix Compliment",
+    "created_at": "2026-07-15T13:27:38.736223+00:00"
+  }
 ]
