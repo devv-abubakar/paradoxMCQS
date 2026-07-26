@@ -1,0 +1,257 @@
+[
+  {
+    "id": 38589,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The spliceosome is composed of approximately",
+    "op": [
+      "200 proteins and ten RNAs",
+      "100 proteins and 3 RNAs",
+      "50 proteins and 2 RNAs",
+      "150 proteins and five RNAs"
+    ],
+    "created_at": "2026-07-02T19:01:27.351766+00:00",
+    "ca": "200 proteins and ten RNAs"
+  },
+  {
+    "id": 38592,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The number of introns within a gene",
+    "op": [
+      "Varies enormously among different genes",
+      "Is always the same in all organisms",
+      "Is always low in animal genes",
+      "Is always high in yeast genes"
+    ],
+    "created_at": "2026-07-02T19:02:06.63607+00:00",
+    "ca": "Varies enormously among different genes"
+  },
+  {
+    "id": 38594,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The specific nucleotide sequences marking intron–exon borders are found within:",
+    "op": [
+      "Pre-mRNA",
+      "Ribosomal RNA",
+      "Mature mRNA",
+      "DNA only"
+    ],
+    "created_at": "2026-07-02T19:02:23.339389+00:00",
+    "ca": "Pre-mRNA"
+  },
+  {
+    "id": 38597,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "U2AF is composed of:",
+    "op": [
+      "Three subunits",
+      "Four subunits",
+      "One subunit",
+      "Two subunits"
+    ],
+    "created_at": "2026-07-02T19:02:41.633415+00:00",
+    "ca": "Two subunits"
+  },
+  {
+    "id": 38600,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The coding sequence in many eukaryotic genes is:",
+    "op": [
+      "Continuous without breaks",
+      "Found only in phage",
+      "Interrupted by non-coding stretches",
+      "Shorter than bacterial genes"
+    ],
+    "created_at": "2026-07-02T19:03:06.331216+00:00",
+    "ca": "Interrupted by non-coding stretches"
+  },
+  {
+    "id": 38604,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The 3′ splice site is sometimes referred to as the:",
+    "op": [
+      "Initiator site",
+      "Donor site",
+      "Enhancer site",
+      "Acceptor site"
+    ],
+    "created_at": "2026-07-02T19:03:22.844525+00:00",
+    "ca": "Acceptor site"
+  },
+  {
+    "id": 38607,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "In terms of size, the spliceosome is similar to:",
+    "op": [
+      "Lysosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome"
+    ],
+    "created_at": "2026-07-02T19:03:33.452532+00:00",
+    "ca": "Ribosome"
+  },
+  {
+    "id": 38609,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "Initially, the 5′ splice site is recognized by:",
+    "op": [
+      "U2AF",
+      "U2 snRNP",
+      "U1 snRNP",
+      "Spliceosome"
+    ],
+    "created_at": "2026-07-02T19:03:52.166862+00:00",
+    "ca": "U1 snRNP"
+  },
+  {
+    "id": 38612,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "Which of the following is a class of splicing found in cells?",
+    "op": [
+      "Nuclear pre-mRNA splicing",
+      "Ribosomal RNA splicing",
+      "tRNA charging",
+      "DNA replication"
+    ],
+    "created_at": "2026-07-02T19:04:05.509767+00:00",
+    "ca": "Nuclear pre-mRNA splicing"
+  },
+  {
+    "id": 38749,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "Unusual termination of transcription may be triggered by:",
+    "op": [
+      "RNA polymerase activation",
+      "Presence of transcription factors",
+      "Proper gene regulation",
+      "Damaged DNA or unexpected hindrances"
+    ],
+    "created_at": "2026-07-02T19:30:09.578758+00:00",
+    "ca": "Damaged DNA or unexpected hindrances"
+  },
+  {
+    "id": 38796,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The discovery of self-splicing introns demonstrates that:",
+    "op": [
+      "Proteins alone perform splicing",
+      "DNA catalyzes splicing",
+      "RNA can catalyze RNA splicing",
+      "Ribosomes perform splicing"
+    ],
+    "created_at": "2026-07-02T19:43:20.267333+00:00",
+    "ca": "RNA can catalyze RNA splicing"
+  },
+  {
+    "id": 41880,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "Unusual termination of transcription may be triggered by:",
+    "op": [
+      "Damaged DNA or unexpected hindrances",
+      "Presence of transcription factors",
+      "Proper gene regulation",
+      "RNA polymerase activation"
+    ],
+    "created_at": "2026-07-03T03:37:32.943589+00:00",
+    "ca": "Damaged DNA or unexpected hindrances"
+  },
+  {
+    "id": 41881,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The discovery of self-splicing introns demonstrates that:",
+    "op": [
+      "DNA catalyzes splicing",
+      "Proteins alone perform splicing",
+      "RNA can catalyze RNA splicing",
+      "Ribosomes perform splicing"
+    ],
+    "created_at": "2026-07-03T03:37:56.094665+00:00",
+    "ca": "RNA can catalyze RNA splicing"
+  },
+  {
+    "id": 41882,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "The specific nucleotide sequences marking intron–exon borders are found within:",
+    "op": [
+      "DNA only",
+      "Pre-mRNA",
+      "Mature mRNA",
+      "Ribosomal RNA"
+    ],
+    "created_at": "2026-07-03T03:38:32.789137+00:00",
+    "ca": "Pre-mRNA"
+  },
+  {
+    "id": 41883,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "U2AF is composed of:",
+    "op": [
+      "Four subunits",
+      "Three subunits",
+      "Two subunits",
+      "One subunit"
+    ],
+    "created_at": "2026-07-03T03:39:03.885365+00:00",
+    "ca": "Two subunits"
+  },
+  {
+    "id": 41884,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "In terms of size, the spliceosome is similar to:",
+    "op": [
+      "Ribosome",
+      "Mitochondrion",
+      "Nucleus",
+      "Lysosome"
+    ],
+    "created_at": "2026-07-03T03:39:30.789821+00:00",
+    "ca": "Ribosome"
+  },
+  {
+    "id": 41885,
+    "cc": "BIO5105",
+    "qn": "2",
+    "dt": "03 July 2026",
+    "qt": "Initially, the 5′ splice site is recognized by:",
+    "op": [
+      "U2AF",
+      "Spliceosome",
+      "U1 snRNP",
+      "U2 snRNP"
+    ],
+    "created_at": "2026-07-03T03:40:06.765771+00:00",
+    "ca": "U1 snRNP"
+  }
+]
