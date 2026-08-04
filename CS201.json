@@ -311,7 +311,7 @@
       "“Hellow”",
       "Max is 100"
     ],
-    "ca": "Hello",
+    "ca": "Error",
     "created_at": "2026-06-30T19:05:04.04863+00:00"
   },
   {
@@ -674,21 +674,7 @@
     "ca": "Structure variable",
     "created_at": "2026-06-30T19:04:58.192074+00:00"
   },
-  {
-    "id": 30891,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "What will be the output of the following c++ code?\n#include<iostream.h>\n#define max 100\nmain()\n{\n    #ifdef max\n    Cout<<”Hellow;\n}",
-    "op": [
-      "Error",
-      "Hello",
-      "“Hellow”",
-      "Max is 100"
-    ],
-    "ca": "Hello",
-    "created_at": "2026-06-30T19:05:04.04863+00:00"
-  },
+
   {
     "id": 30901,
     "cc": "CS201",
@@ -1028,20 +1014,6 @@
       "varies"
     ],
     "created_at": "2026-06-30T19:11:44.035024+00:00"
-  },
-  {
-    "id": 31083,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "The data members of the class are initialized ______________.",
-    "op": [
-      "at runtime",
-      "within main program",
-      "outside the function",
-      "at compile time"
-    ],
-    "created_at": "2026-06-30T19:11:52.839737+00:00"
   },
   {
     "id": 31084,
@@ -1454,7 +1426,7 @@
         "outside the function",
         "at compile time"
       ],
-      "ca": "at compile time",
+      "ca": "at runtime",
       "created_at": "2026-06-30T19:11:52.839737+00:00"
     },
     {
@@ -1572,9 +1544,9 @@
         "integer",
         "NULL",
         "void",
-        "we are going to use"
+        "we are going to us"
       ],
-      "ca": "void",
+      "ca": "we are going to use",
       "created_at": "2026-06-30T19:14:16.351438+00:00"
     },
     {
@@ -1769,7 +1741,7 @@
         "not an error",
         "a run time error"
       ],
-      "ca": "not an error",
+      "ca": "a syntax error",
       "created_at": "2026-06-30T19:17:59.778222+00:00"
     },
     {
