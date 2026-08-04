@@ -735,7 +735,7 @@
     "ca": "ofstream",
     "created_at": "2026-06-30T19:06:39.316377+00:00"
   },
-  {
+ {
     "id": 30933,
     "cc": "CS201",
     "qn": "3",
@@ -747,105 +747,8 @@
       "an array",
       "a user defined data type"
     ],
+    "ca": "a user defined data type",
     "created_at": "2026-06-30T19:06:42.794115+00:00"
-  },
-  {
-    "id": 30944,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "Why is casting a void* necessary after memory allocation in C?",
-    "op": [
-      "Because void pointers are unsafe",
-      "Because C requires explicit type specification for void pointers",
-      "Because void* cannot be dereferenced directly",
-      "Both B and C"
-    ],
-    "created_at": "2026-06-30T19:07:00.425676+00:00"
-  },
-  {
-    "id": 30953,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "What is the correct way to define a macro for squaring a number safely?",
-    "op": [
-      "#define square(x) ((x) * (x))",
-      "#define square(x) x ** 2",
-      "#define square(x) x * x",
-      "#define square(x) (x) * (x)"
-    ],
-    "created_at": "2026-06-30T19:07:17.574824+00:00"
-  },
-  {
-    "id": 30963,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "The malloc function takes ___________ argument(s).",
-    "op": [
-      "two",
-      "four",
-      "one",
-      "three"
-    ],
-    "created_at": "2026-06-30T19:07:30.527999+00:00"
-  },
-  {
-    "id": 30976,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "a ^= b; can be written as_________________.",
-    "op": [
-      "a = b ^ a;",
-      "a = a^+b;",
-      "a = a ^ b;",
-      "a^= a + b;"
-    ],
-    "created_at": "2026-06-30T19:08:04.294194+00:00"
-  },
-  {
-    "id": 30991,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "The data, contained in the structure, is defined in the ______________.",
-    "op": [
-      "none",
-      "curly braces",
-      "parenthesis",
-      "inverted commas"
-    ],
-    "created_at": "2026-06-30T19:08:28.014572+00:00"
-  },
-  {
-    "id": 30997,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "a = a & b; can be written as_____________.",
-    "op": [
-      "a = b;",
-      "a &= b;",
-      "a=a & b;",
-      "a =& b;"
-    ],
-    "created_at": "2026-06-30T19:08:35.636619+00:00"
-  },
-  {
-    "id": 31015,
-    "cc": "CS201",
-    "qn": "3",
-    "dt": "01 July 2026",
-    "qt": "How is #include “filename” different from #include <filename>?",
-    "op": [
-      "It includes binary files only",
-      "It uses a different syntax with no functional difference",
-      "It includes only header files with .cpp extension",
-      "It searches the current directory first"
-    ],
-    "created_at": "2026-06-30T19:09:18.951279+00:00"
   },
   {
     "id": 31024,
