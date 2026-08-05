@@ -696,12 +696,12 @@
 "qt": "Which of the following is known as Dereference operator in C++?",
 "op": [
 "::",
-"",
+"*",
 "+",
 "&"
 ],
 "created_at": "2026-06-30T19:01:28.653422+00:00",
-"ca": ""
+"ca": "*"
 },
 {
 "id": 30769,
