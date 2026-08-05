@@ -2517,9 +2517,9 @@
       "Style HTML pages"
     ],
     "created_at": "2026-07-15T13:27:17.338221+00:00",
-    "ca": null
-  },
-  {
+    "ca": "Add interactivity on HTML pages"
+},
+ {
     "id": 65367,
     "cc": "CS202",
     "qn": "3",
@@ -2532,8 +2532,8 @@
       "Document is about to load"
     ],
     "created_at": "2026-07-15T13:27:18.115684+00:00",
-    "ca": null
-  },
+    "ca": "Document is fully loaded"
+},
   {
     "id": 65381,
     "cc": "CS202",
@@ -2547,8 +2547,8 @@
       "get the response data as an integer"
     ],
     "created_at": "2026-07-15T13:27:18.115684+00:00",
-    "ca": null
-  },
+    "ca": "get the response data as a string"
+},
   {
     "id": 65382,
     "cc": "CS202",
@@ -2594,7 +2594,7 @@
     "created_at": "2026-07-15T13:27:18.115684+00:00",
     "ca": "var students = [\"Ali\", \"Ahmed\", \"Noor\"];"
   },
-  {
+ {
     "id": 65500,
     "cc": "CS202",
     "qn": "3",
@@ -2607,7 +2607,7 @@
       "Hyphens"
     ],
     "created_at": "2026-07-15T13:27:18.115684+00:00",
-    "ca": null
+    "ca": "Semicolon"
   },
   {
     "id": 65512,
@@ -2622,7 +2622,7 @@
       "Outofrange"
     ],
     "created_at": "2026-07-15T13:27:18.115684+00:00",
-    "ca": null
+    "ca": "Infinity"
   },
   {
     "id": 68565,
@@ -2637,7 +2637,7 @@
       "CSS"
     ],
     "created_at": "2026-07-15T13:27:35.594877+00:00",
-    "ca": null
+    "ca": "JSON"
   },
   {
     "id": 68567,
@@ -2652,7 +2652,7 @@
       "JavaScript Object Network"
     ],
     "created_at": "2026-07-15T13:27:36.36522+00:00",
-    "ca": null
+    "ca": "JavaScript Object Notation"
   },
   {
     "id": 68571,
@@ -2667,7 +2667,7 @@
       "Using the JSON.parse() function"
     ],
     "created_at": "2026-07-15T13:27:36.36522+00:00",
-    "ca": null
+    "ca": "Using the JSON.parse() function"
   },
   {
     "id": 68577,
@@ -2682,7 +2682,7 @@
       "They support JavaScript"
     ],
     "created_at": "2026-07-15T13:27:36.36522+00:00",
-    "ca": null
+    "ca": "They support data types and namespaces"
   },
   {
     "id": 68578,
@@ -2697,7 +2697,7 @@
       "It is easier to convert data between different data types."
     ],
     "created_at": "2026-07-15T13:27:36.36522+00:00",
-    "ca": null
+    "ca": "It is only used for styling purposes"
   },
   {
     "id": 68580,
