@@ -2397,7 +2397,7 @@
     "created_at": "2026-07-15T13:27:58.990359+00:00",
     "ca": "It is a case of homogeneous first order differential equation"
   },
-  {
+ {
     "id": 71384,
     "cc": "ECO607",
     "qn": "03",
@@ -2410,7 +2410,7 @@
       "It is first order differential non homogeneous equation"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "It has only the particular solution"
   },
   {
     "id": 71385,
@@ -2425,7 +2425,7 @@
       "It is a non linear differential equation which have been converted from linear equation"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "None of the given options"
   },
   {
     "id": 71392,
@@ -2440,7 +2440,7 @@
       "The inter temporal equilibrium will be divergent"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "The inter temporal equilibrium will be convergent"
   },
   {
     "id": 71393,
@@ -2455,7 +2455,7 @@
       "The complimentary function will converge to particular solution"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "It is first order homogeneous differential equation"
   },
   {
     "id": 71394,
@@ -2470,7 +2470,7 @@
       "There is a particular solution to the equation"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "There is a particular solution to the equation"
   },
   {
     "id": 71444,
@@ -2485,7 +2485,7 @@
       "It is a non linear differential equation which have been converted from linear equation"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "None of the given options"
   },
   {
     "id": 71445,
@@ -2500,7 +2500,7 @@
       "The equation represent a modified form of elasticity of demand"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "Integration can be used to find value of Q as dependant variable"
   },
   {
     "id": 71449,
@@ -2515,7 +2515,7 @@
       "It will converge towards to the particular solution"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "It will converge towards to the particular solution"
   },
   {
     "id": 71450,
@@ -2530,7 +2530,7 @@
       "There will be not general solution for the equation"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "It will be a first order linear differential equation"
   },
   {
     "id": 71488,
@@ -2545,7 +2545,7 @@
       "The value of {\\frac{\\alpha }{\\beta }}>0 will ensure convergence towards equilibrium value"
     ],
     "created_at": "2026-07-15T13:27:58.990359+00:00",
-    "ca": null
+    "ca": "The value of {\\frac{\\alpha }{\\beta }} >0 will lead to divergence from equilibrium value"
   },
   {
     "id": 71514,
